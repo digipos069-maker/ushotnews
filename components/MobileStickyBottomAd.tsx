@@ -1,4 +1,4 @@
-﻿'use strict';
+'use strict';
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
@@ -48,7 +48,7 @@ export default function MobileStickyBottomAd({
     if (!iframe) return;
 
     // Isolate ad script inside iframe to guarantee smooth rendering
-    const adHtml = 
+    const adHtml = `
       <!DOCTYPE html>
       <html>
         <head>
@@ -70,17 +70,17 @@ export default function MobileStickyBottomAd({
         <body>
           <script type="text/javascript">
             atOptions = {
-              'key' : '',
+              'key' : '${slotKey}',
               'format' : 'iframe',
               'height' : 50,
               'width' : 320,
               'params' : {}
             };
           </script>
-          <script type="text/javascript" src="https://manyapostle.com//invoke.js"></script>
+          <script type="text/javascript" src="https://manyapostle.com/${slotKey}/invoke.js"></script>
         </body>
       </html>
-    ;
+    `;
 
     try {
       const doc = iframe.contentDocument || iframe.contentWindow?.document;
