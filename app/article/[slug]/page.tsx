@@ -122,7 +122,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     };
   }
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.vercel.app';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://ushotnews.online';
   const articleUrl = `${siteUrl}/article/${article.slug}`;
   const dynamicKeywords = extractDynamicKeywords(article);
 
@@ -203,7 +203,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     (a) => a.id !== article.id && a.category !== article.category
   ).slice(0, 3);
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.vercel.app';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://ushotnews.online';
   const articleUrl = `${siteUrl}/article/${article.slug}`;
 
   // Structured Data for Google News & Search Engines (schema.org/NewsArticle)
