@@ -202,7 +202,7 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
               <p className="text-[11px] text-slate-500 font-mono tracking-tight flex items-center gap-1.5 mt-0.5">
                 <span>PUBLISHED SAT, SEP 5 2026</span>
                 <span>•</span>
-                <span className="text-[10px] text-slate-400 font-sans uppercase font-medium">{article.publishedAt}</span>
+                <span className="text-[11px] text-slate-400 font-sans normal-case font-normal">({article.publishedAt})</span>
               </p>
             </div>
           </div>
