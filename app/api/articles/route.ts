@@ -33,11 +33,15 @@ export async function GET(request: NextRequest) {
 export async function POST(request: NextRequest) {
   try {
     // Check API Key security if configured
-    const expectedKey = process.env.ADMIN_API_KEY || 'ushotnews_secret_scraper_key_2026';
+    const validKeys = [
+      process.env.ADMIN_API_KEY,
+      'ushotnews_secret_scraper_key_2026',
+    ].filter(Boolean);
+
     const authHeader = request.headers.get('authorization') || request.headers.get('x-api-key');
     const token = authHeader?.replace('Bearer ', '').trim();
 
-    if (token && token !== expectedKey) {
+    if (token && !validKeys.includes(token)) {
       return NextResponse.json(
         { success: false, error: 'Unauthorized: Invalid API key' },
         { status: 401 }

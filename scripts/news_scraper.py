@@ -40,8 +40,8 @@ except ImportError:
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 SCRAPED_JSON_PATH = os.path.join(PROJECT_ROOT, "data", "scraped_articles.json")
-API_ENDPOINT = os.environ.get("NEXT_API_URL", "http://ushotnews.online/api/articles")
-ADMIN_API_KEY = os.environ.get("ADMIN_API_KEY", "ushotnews_secret_scraper_key_2026")
+API_ENDPOINT = os.environ.get("NEXT_API_URL", "https://ushotnews.online/api/articles")
+ADMIN_API_KEY = os.environ.get("ADMIN_API_KEY", "")
 
 # Supported Top US News RSS Feeds
 US_NEWS_FEEDS = [
@@ -362,22 +362,21 @@ class NewsScraperEngine:
         # Attempt API POST if server is reachable
         try:
             data_bytes = json.dumps(article).encode("utf-8")
+            headers = {"Content-Type": "application/json"}
+            if self.api_key:
+                headers["x-api-key"] = self.api_key
+
             req = urllib.request.Request(
                 self.api_endpoint,
                 data=data_bytes,
-                headers={
-                    "Content-Type": "application/json",
-                    "x-api-key": self.api_key
-                },
+                headers=headers,
                 method="POST"
             )
             with urllib.request.urlopen(req, timeout=10) as resp:
                 if resp.status in (200, 201):
                     published_via_api = True
         except Exception as e:
-            # If explicit API was provided, log the warning
-            if self.api_endpoint != API_ENDPOINT:
-                print(f"[WARN: API] Failed to post to {self.api_endpoint}: {e}")
+            print(f"[WARN: API] Failed to post to {self.api_endpoint}: {e}")
 
         # Always persist to local JSON store as backup
         saved_locally = self.save_to_local_json(article)
