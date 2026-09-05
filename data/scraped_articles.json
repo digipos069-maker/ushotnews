@@ -1,5 +1,116 @@
 [
   {
+    "id": "scraped-bfbff1e90f",
+    "slug": "vertiv-is-putting-145-billion-down-for-ai-power-nearly-half-the-price-is-contingent",
+    "guid": "vertiv-putting-1-45-billion-040701586.html",
+    "title": "Vertiv Is Putting $1.45 Billion Down for AI Power. Nearly Half the Price Is Contingent.",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Vertiv Is Putting $1.45 Billion Down for AI Power. Nearly Half the Price Is Contingent.",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/motleyfool.com/13328e42daddc8873437831c69f9daad.png",
+    "imageCaption": "Vertiv Is Putting $1.45 Billion Down for AI Power. Nearly Ha... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-be76938ec4",
+    "slug": "openai-declares-agi-era-with-astra-launch-anthropics-fable-51-more-than-doubled-its-predec",
+    "guid": "openai-declares-agi-era-astra-041130711.html",
+    "title": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fable 5.1 More Than Doubled Its Predecessor’s Science Score. MSFT and AMZN Both Win, but One Has A Slight Edge",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/ec7cf2e22121acef150d71922be57d4d.jpg",
+    "imageCaption": "OpenAI Declares “AGI Era” With Astra Launch. Anthropic’s Fab... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d24c89a900",
+    "slug": "planet-labs-vs-snowflake-evaluating-the-better-high-growth-stock-to-buy-for-2026",
+    "guid": "planet-labs-vs-snowflake-evaluating-040902490.html",
+    "title": "Planet Labs vs. Snowflake: Evaluating the Better High-Growth Stock to Buy for 2026",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Planet Labs vs. Snowflake: Evaluating the Better High-Growth Stock to Buy for 2026",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/motleyfool.com/470277c333061d051105b57eb74e9761.png",
+    "imageCaption": "Planet Labs vs. Snowflake: Evaluating the Better High-Growth... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-3b66c284c3",
     "slug": "us-fcc-asks-court-to-reject-disney-lawsuit-over-abc-tv-station-licenses",
     "guid": "fcc-asks-court-reject-disney-213337290.html",
