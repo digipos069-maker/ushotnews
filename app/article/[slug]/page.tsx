@@ -37,17 +37,67 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
   if (!article) {
     return {
-      title: 'Article Not Found | US HOT NEWS',
+      title: 'Article Not Found',
+      description: 'The requested news article could not be located.',
     };
   }
 
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.vercel.app';
+  const articleUrl = `${siteUrl}/article/${article.slug}`;
+
   return {
-    title: `${article.title} | US HOT NEWS`,
+    title: article.title,
     description: article.summary,
+    keywords: [
+      article.category,
+      'US News',
+      'Breaking News',
+      ...(article.tags || []),
+      article.author.name,
+    ],
+    authors: [{ name: article.author.name }],
+    creator: article.author.name,
+    publisher: 'US HOT NEWS',
+    alternates: {
+      canonical: articleUrl,
+    },
     openGraph: {
       title: article.title,
       description: article.summary,
-      images: [{ url: article.imageUrl }],
+      url: articleUrl,
+      siteName: 'US HOT NEWS',
+      locale: 'en_US',
+      type: 'article',
+      publishedTime: article.publishedAt,
+      authors: [article.author.name],
+      section: article.category,
+      tags: article.tags || [],
+      images: [
+        {
+          url: article.imageUrl,
+          width: 1200,
+          height: 675,
+          alt: article.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.title,
+      description: article.summary,
+      creator: '@ushotnews',
+      images: [article.imageUrl],
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-video-preview': -1,
+        'max-image-preview': 'large',
+        'max-snippet': -1,
+      },
     },
   };
 }
@@ -78,8 +128,46 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     (a) => a.id !== article.id && a.category !== article.category
   ).slice(0, 3);
 
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.vercel.app';
+  const articleUrl = `${siteUrl}/article/${article.slug}`;
+
+  // Structured Data for Google News & Search Engines (schema.org/NewsArticle)
+  const newsArticleJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'NewsArticle',
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': articleUrl,
+    },
+    headline: article.title,
+    description: article.summary,
+    image: [article.imageUrl],
+    datePublished: article.publishedAt,
+    dateModified: article.publishedAt,
+    author: {
+      '@type': 'Person',
+      name: article.author.name,
+      jobTitle: article.author.role,
+    },
+    publisher: {
+      '@type': 'NewsMediaOrganization',
+      name: 'US HOT NEWS',
+      url: siteUrl,
+      logo: {
+        '@type': 'ImageObject',
+        url: `${siteUrl}/icon.png`,
+      },
+    },
+    articleSection: article.category,
+    keywords: (article.tags || []).join(', '),
+  };
+
   return (
     <div className="min-h-screen bg-white text-slate-900 flex flex-col selection:bg-blue-100 selection:text-blue-900">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(newsArticleJsonLd) }}
+      />
       {/* CNBC-style Top Masthead */}
       <header className="w-full bg-white border-b border-[#e0e0e0] relative z-30">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 py-3 flex items-center justify-between">
