@@ -248,13 +248,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <div className="max-w-7xl mx-auto px-4 sm:px-8 py-3 flex items-center justify-between">
           <div className="flex items-center gap-4">
             <Link href="/" className="flex items-center gap-3 group">
-              <div className="relative w-8 h-8 shrink-0 flex items-center justify-center">
+              <div className="relative w-16 h-8 shrink-0 flex items-center justify-start">
                 <Image
                   src="/logo.png"
                   alt="US HOT NEWS Logo"
-                  width={32}
+                  width={64}
                   height={32}
-                  className="object-contain"
+                  className="object-contain w-full h-full"
                   priority
                 />
               </div>

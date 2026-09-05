@@ -138,18 +138,18 @@ export default function Header({
       <div className="max-w-7xl mx-auto px-4 sm:px-8 py-4 flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
           <Link href="/" className="flex items-center gap-3.5 group">
-            <div className="relative w-12 h-12 shrink-0 flex items-center justify-center">
+            <div className="relative h-12 w-24 shrink-0 flex items-center justify-start">
               <Image
                 src="/logo.png"
                 alt="US HOT NEWS Logo"
-                width={48}
+                width={96}
                 height={48}
-                className="object-contain"
+                className="object-contain w-full h-full"
                 priority
               />
             </div>
             <div>
-              <h1 className="text-3xl sm:text-4xl font-black tracking-tight text-slate-900 serif-headline uppercase group-hover:text-[#032EA1] transition-colors">
+              <h1 className="text-2xl sm:text-3xl font-black tracking-tight text-slate-900 serif-headline uppercase group-hover:text-[#032EA1] transition-colors">
                 US HOT NEWS
               </h1>
               <p className="text-[11px] sm:text-xs text-slate-600 tracking-wide font-medium mt-0.5">

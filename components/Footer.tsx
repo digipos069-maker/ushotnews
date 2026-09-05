@@ -62,13 +62,13 @@ export default function Footer({ onSelectCategory }: FooterProps) {
           {/* Brand Col */}
           <div className="md:col-span-1 space-y-3">
             <div className="flex items-center gap-3">
-              <div className="relative w-9 h-9 shrink-0 flex items-center justify-center bg-white/10 p-0.5">
+              <div className="relative w-16 h-8 shrink-0 flex items-center justify-center bg-white/10 p-1">
                 <Image
                   src="/logo.png"
                   alt="US HOT NEWS Logo"
-                  width={36}
-                  height={36}
-                  className="object-contain"
+                  width={64}
+                  height={32}
+                  className="object-contain w-full h-full"
                 />
               </div>
               <span className="font-black text-xl text-white serif-headline tracking-wide uppercase">
