@@ -13,7 +13,6 @@ import OpinionSection from '@/components/OpinionSection';
 import DailyPoll from '@/components/DailyPoll';
 import Newsletter from '@/components/Newsletter';
 import Footer from '@/components/Footer';
-import ArticleReaderModal from '@/components/ArticleReaderModal';
 import BookmarksDrawer from '@/components/BookmarksDrawer';
 import SearchModal from '@/components/SearchModal';
 
@@ -24,13 +23,11 @@ import {
   OPINION_DATA,
   INITIAL_POLL,
 } from '@/data/newsData';
-import { Article, NewsCategory } from '@/types/news';
-import { Sparkles, Layers, SlidersHorizontal } from 'lucide-react';
+import { NewsCategory } from '@/types/news';
+import { Sparkles } from 'lucide-react';
 
 export default function HomePage() {
   const [activeCategory, setActiveCategory] = useState<NewsCategory>('All');
-  const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
-  const [isReaderOpen, setIsReaderOpen] = useState(false);
   const [isBookmarksOpen, setIsBookmarksOpen] = useState(false);
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [bookmarkedIds, setBookmarkedIds] = useState<Set<string>>(new Set());
@@ -67,11 +64,6 @@ export default function HomePage() {
     });
   };
 
-  const handleReadArticle = (article: Article) => {
-    setSelectedArticle(article);
-    setIsReaderOpen(true);
-  };
-
   // Lead and secondary stories
   const leadStory = ARTICLES_DATA.find((a) => a.isLeadStory) || ARTICLES_DATA[0];
   const secondaryStory = ARTICLES_DATA.find((a) => a.id !== leadStory.id && a.isHot) || ARTICLES_DATA[1];
@@ -106,7 +98,6 @@ export default function HomePage() {
             recentArticles={ARTICLES_DATA}
             bookmarkedIds={bookmarkedIds}
             onToggleBookmark={handleToggleBookmark}
-            onReadArticle={handleReadArticle}
           />
         ) : (
           /* Category Header Banner */
@@ -171,7 +162,6 @@ export default function HomePage() {
                       article={article}
                       isBookmarked={bookmarkedIds.has(article.id)}
                       onToggleBookmark={handleToggleBookmark}
-                      onReadArticle={handleReadArticle}
                     />
                   ))}
                 </div>
@@ -180,10 +170,7 @@ export default function HomePage() {
 
             {/* Right Sidebar: Trending Rail & Quick Nav (4 cols) */}
             <div className="lg:col-span-4 space-y-6">
-              <TrendingRail
-                articles={ARTICLES_DATA}
-                onReadArticle={handleReadArticle}
-              />
+              <TrendingRail articles={ARTICLES_DATA} />
 
               {/* Editorial Tip Card */}
               <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-xs">
@@ -211,7 +198,7 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* US Macroeconomic Indicators Table (Demonstrating user rule #032EA1 table styling) */}
+        {/* US Macroeconomic Indicators Table */}
         <EconomicTable />
 
         {/* Fact-Check Desk */}
@@ -230,15 +217,6 @@ export default function HomePage() {
       {/* Footer */}
       <Footer onSelectCategory={setActiveCategory} />
 
-      {/* Full Article Reader Modal */}
-      <ArticleReaderModal
-        article={selectedArticle}
-        isOpen={isReaderOpen}
-        onClose={() => setIsReaderOpen(false)}
-        isBookmarked={selectedArticle ? bookmarkedIds.has(selectedArticle.id) : false}
-        onToggleBookmark={handleToggleBookmark}
-      />
-
       {/* Bookmarks Slide-over Drawer */}
       <BookmarksDrawer
         isOpen={isBookmarksOpen}
@@ -246,7 +224,6 @@ export default function HomePage() {
         articles={ARTICLES_DATA}
         bookmarkedIds={bookmarkedIds}
         onRemoveBookmark={handleToggleBookmark}
-        onReadArticle={handleReadArticle}
       />
 
       {/* Search Modal */}
@@ -254,7 +231,6 @@ export default function HomePage() {
         isOpen={isSearchOpen}
         onClose={() => setIsSearchOpen(false)}
         articles={ARTICLES_DATA}
-        onReadArticle={handleReadArticle}
       />
     </div>
   );
