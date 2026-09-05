@@ -76,7 +76,7 @@ export default function Header({
   }, [activeAlerts.length]);
 
   return (
-    <header className="w-full bg-white border-b border-[#e0e0e0] relative z-30">
+    <header className="w-full bg-white/95 backdrop-blur-md border-b border-[#e0e0e0] sticky top-0 z-40 shadow-xs transition-all">
       {/* Top Utility Bar */}
       <div className="bg-[#f7f7f7] border-b border-[#e0e0e0] text-xs text-slate-700 py-1.5 px-4 sm:px-8">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">

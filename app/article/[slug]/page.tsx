@@ -243,8 +243,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(newsArticleJsonLd) }}
       />
-      {/* CNBC-style Top Masthead */}
-      <header className="w-full bg-white border-b border-[#e0e0e0] relative z-30">
+      {/* CNBC-style Top Masthead (Sticky) */}
+      <header className="w-full bg-white/95 backdrop-blur-md border-b border-[#e0e0e0] sticky top-0 z-40 shadow-xs transition-all">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 py-3 flex items-center justify-between">
           <div className="flex items-center gap-4">
             <Link href="/" className="flex items-center gap-3 group">
