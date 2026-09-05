@@ -244,10 +244,10 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
             <div className="overflow-x-auto">
               <table className="w-full text-left border-collapse">
                 <thead>
-                  <tr style={{ backgroundColor: '#032EA1' }} className="text-white text-xs uppercase tracking-wider">
-                    <th className="py-3 px-4 font-bold w-12 text-center border-r border-[#02237d]">#</th>
-                    <th className="py-3 px-4 font-bold border-r border-[#02237d]">Headline & Category</th>
-                    <th className="py-3 px-4 font-bold border-r border-[#02237d] hidden md:table-cell">Published</th>
+                  <tr className="bg-slate-100/90 text-slate-700 text-xs uppercase tracking-wider border-b border-[#e0e0e0]">
+                    <th className="py-3 px-4 font-bold w-12 text-center border-r border-[#e0e0e0]">#</th>
+                    <th className="py-3 px-4 font-bold border-r border-[#e0e0e0]">Headline & Category</th>
+                    <th className="py-3 px-4 font-bold border-r border-[#e0e0e0] hidden md:table-cell">Published</th>
                     <th className="py-3 px-4 font-bold text-right w-44">Action</th>
                   </tr>
                 </thead>
@@ -259,7 +259,7 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
                     return (
                       <tr
                         key={art.id}
-                        className="hover:bg-blue-50/40 transition-colors group"
+                        className="hover:bg-slate-50 transition-colors group bg-white"
                       >
                         {/* Index */}
                         <td className="py-3.5 px-4 font-mono font-bold text-slate-400 text-center">
