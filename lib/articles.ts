@@ -7,6 +7,41 @@ import { getDbClient, initDatabaseSchema } from './db';
 const SCRAPED_FILE = path.join(process.cwd(), 'data', 'scraped_articles.json');
 
 /**
+ * Formats a published timestamp or DB created_at into a clean relative time string (e.g., '14m ago', '2h ago').
+ */
+export function formatRelativeTime(dateStr?: string, createdAt?: string | Date): string {
+  let dateObj: Date | null = null;
+
+  if (dateStr && dateStr !== 'Just now' && dateStr !== 'Just in') {
+    const parsed = Date.parse(dateStr);
+    if (!isNaN(parsed)) {
+      dateObj = new Date(parsed);
+    }
+  }
+
+  if (!dateObj && createdAt) {
+    const parsed = typeof createdAt === 'string' ? Date.parse(createdAt) : createdAt.getTime();
+    if (!isNaN(parsed)) {
+      dateObj = new Date(parsed);
+    }
+  }
+
+  if (!dateObj) {
+    return dateStr || 'Just now';
+  }
+
+  const diffSec = Math.max(0, Math.floor((Date.now() - dateObj.getTime()) / 1000));
+  if (diffSec < 60) return 'Just now';
+  const diffMin = Math.floor(diffSec / 60);
+  if (diffMin < 60) return `${diffMin}m ago`;
+  const diffHours = Math.floor(diffMin / 60);
+  if (diffHours < 24) return `${diffHours}h ago`;
+  const diffDays = Math.floor(diffHours / 24);
+  if (diffDays < 7) return `${diffDays}d ago`;
+  return dateObj.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+/**
  * Safely loads locally persisted scraped articles from JSON file
  */
 function getLocalScrapedArticles(): Article[] {
@@ -58,7 +93,7 @@ export async function getAllArticles(): Promise<Article[]> {
         SELECT 
           id, slug, title, kicker, summary, content, category, 
           image_url, image_caption, author_name, author_role, author_avatar,
-          published_at, read_time_minutes, is_breaking, is_lead_story, 
+          published_at, created_at, read_time_minutes, is_breaking, is_lead_story, 
           is_hot, view_count, reactions, tags
         FROM articles 
         ORDER BY created_at DESC 
@@ -115,7 +150,7 @@ export async function getAllArticles(): Promise<Article[]> {
               role: r.author_role || 'Correspondent',
               avatar: r.author_avatar || 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80',
             },
-            publishedAt: r.published_at || 'Just now',
+            publishedAt: formatRelativeTime(r.published_at, r.created_at),
             readTimeMinutes: Number(r.read_time_minutes) || 4,
             isBreaking: Boolean(r.is_breaking),
             isLeadStory: Boolean(r.is_lead_story),
@@ -137,7 +172,10 @@ export async function getAllArticles(): Promise<Article[]> {
   // Fallback (only used when database is not configured or completely empty):
   const localScraped = getLocalScrapedArticles();
   if (localScraped.length > 0) {
-    return localScraped;
+    return localScraped.map((art) => ({
+      ...art,
+      publishedAt: formatRelativeTime(art.publishedAt),
+    }));
   }
 
   return ARTICLES_DATA;
@@ -196,7 +234,12 @@ export async function saveArticle(
           ${JSON.stringify(article.reactions)}::jsonb,
           ${JSON.stringify(article.tags)}::jsonb
         )
-        ON CONFLICT (slug) DO NOTHING;
+        ON CONFLICT (slug) DO UPDATE SET
+          published_at = CASE 
+            WHEN articles.published_at IS NULL OR articles.published_at = 'Just now' OR articles.published_at = 'Just in' 
+            THEN EXCLUDED.published_at 
+            ELSE articles.published_at 
+          END;
       `;
       return { success: true };
     } catch (error: any) {

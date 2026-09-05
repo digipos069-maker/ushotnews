@@ -67,7 +67,7 @@ export default function NewsCard({
           <div className="text-[11px] text-slate-500 font-medium">
             <span>{article.author.name}</span>
             <span className="mx-1">•</span>
-            <span>{article.readTimeMinutes}m</span>
+            <span>{article.publishedAt}</span>
           </div>
         </div>
 

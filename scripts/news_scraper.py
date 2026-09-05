@@ -13,7 +13,8 @@ import time
 import argparse
 import hashlib
 from difflib import SequenceMatcher
-from datetime import datetime
+from datetime import datetime, timezone
+import email.utils
 from typing import Dict, List, Optional, Any
 import urllib.request
 import urllib.parse
@@ -196,6 +197,38 @@ def is_title_similar(title1: str, title2: str, threshold: float = 0.80) -> bool:
     return ratio >= threshold
 
 
+def parse_entry_published_date(entry: Any) -> str:
+    """Parses publication date from an RSS feed entry and returns ISO 8601 string."""
+    # 1. Check time.struct_time from feedparser
+    st = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+    if st:
+        try:
+            dt = datetime.fromtimestamp(time.mktime(st), tz=timezone.utc)
+            return dt.isoformat()
+        except Exception:
+            pass
+
+    # 2. Check string published / updated / pubDate
+    raw = (
+        getattr(entry, "published", None)
+        or getattr(entry, "updated", None)
+        or (entry.get("published") if isinstance(entry, dict) else None)
+        or (entry.get("pubDate") if isinstance(entry, dict) else None)
+    )
+    if raw and isinstance(raw, str):
+        try:
+            parsed_tuple = email.utils.parsedate_tz(raw)
+            if parsed_tuple:
+                ts = email.utils.mktime_tz(parsed_tuple)
+                dt = datetime.fromtimestamp(ts, tz=timezone.utc)
+                return dt.isoformat()
+        except Exception:
+            pass
+
+    # Fallback to current UTC time
+    return datetime.now(timezone.utc).isoformat()
+
+
 class NewsScraperEngine:
     def __init__(self, dry_run: bool = False, api_endpoint: Optional[str] = None, api_key: Optional[str] = None):
         self.dry_run = dry_run
@@ -274,7 +307,8 @@ class NewsScraperEngine:
                         link = item.findtext("link", "")
                         desc = item.findtext("description", "")
                         guid = item.findtext("guid", link)
-                        entries.append({"title": title, "link": link, "description": desc, "id": guid})
+                        pub_date = item.findtext("pubDate", "")
+                        entries.append({"title": title, "link": link, "description": desc, "id": guid, "published": pub_date})
 
             for entry in entries[:8]:  # Top 8 entries per feed
                 raw_title = entry.get("title", "")
@@ -313,6 +347,9 @@ class NewsScraperEngine:
                     f"Additional reporting and official statements will be incorporated as further briefings are scheduled from the {source_name} newsroom."
                 ]
 
+                # Published date parsing
+                pub_iso = parse_entry_published_date(entry)
+
                 article = {
                     "id": article_id,
                     "slug": slug,
@@ -329,7 +366,7 @@ class NewsScraperEngine:
                         "role": "National Correspondent",
                         "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
                     },
-                    "publishedAt": "Just now",
+                    "publishedAt": pub_iso,
                     "readTimeMinutes": read_time,
                     "isBreaking": True if len(articles) == 0 else False,
                     "isLeadStory": False,
