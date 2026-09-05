@@ -3,7 +3,6 @@
 
 import React, { useState, useEffect } from 'react';
 import Header from '@/components/Header';
-import MarketTicker from '@/components/MarketTicker';
 import HeroLead from '@/components/HeroLead';
 import NewsCard from '@/components/NewsCard';
 import TrendingRail from '@/components/TrendingRail';
@@ -100,7 +99,7 @@ export default function HomePageClient({ initialArticles }: HomePageClientProps)
 
   return (
     <div className="min-h-screen bg-white text-slate-900 flex flex-col selection:bg-blue-100 selection:text-blue-900">
-      {/* Header */}
+      {/* CNBC Header with Category Menu and Sticky MarketTicker */}
       <Header
         activeCategory={activeCategory}
         onSelectCategory={setActiveCategory}
@@ -108,10 +107,8 @@ export default function HomePageClient({ initialArticles }: HomePageClientProps)
         onOpenBookmarks={() => setIsBookmarksOpen(true)}
         onOpenSearch={() => setIsSearchOpen(true)}
         breakingArticles={articles}
+        markets={MARKET_DATA}
       />
-
-      {/* Real-time US Market Indices Bar (Smart Sticky on Scroll Up) */}
-      <MarketTicker markets={MARKET_DATA} />
 
       {/* Main Content Area */}
       <main className="flex-1">

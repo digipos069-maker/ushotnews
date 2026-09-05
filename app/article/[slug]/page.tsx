@@ -279,10 +279,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             </Link>
           </div>
         </div>
-      </header>
 
-      {/* Auto-scrolling Markets Bar (Smart Sticky on Scroll Up) */}
-      <MarketTicker markets={MARKET_DATA} />
+        {/* Auto-scrolling Markets Bar (Sticky directly below header bar) */}
+        <MarketTicker markets={MARKET_DATA} />
+      </header>
 
       {/* Breadcrumb Navigation Bar */}
       <div className="bg-[#f7f7f7] border-b border-[#e0e0e0] py-2 px-4 sm:px-8">

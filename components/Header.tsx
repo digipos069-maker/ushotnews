@@ -5,8 +5,9 @@ import React, { useState, useEffect } from 'react';
 import { Newspaper, Search, Bookmark, Bell, Globe, ChevronRight } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { Article, NewsCategory } from '@/types/news';
-import { BREAKING_NEWS_ALERTS } from '@/data/newsData';
+import { Article, NewsCategory, MarketItem } from '@/types/news';
+import { BREAKING_NEWS_ALERTS, MARKET_DATA } from '@/data/newsData';
+import MarketTicker from '@/components/MarketTicker';
 
 interface HeaderProps {
   activeCategory: NewsCategory;
@@ -15,6 +16,7 @@ interface HeaderProps {
   onOpenBookmarks: () => void;
   onOpenSearch: () => void;
   breakingArticles?: Article[];
+  markets?: MarketItem[];
 }
 
 const CATEGORIES: NewsCategory[] = [
@@ -35,6 +37,7 @@ export default function Header({
   onOpenBookmarks,
   onOpenSearch,
   breakingArticles,
+  markets,
 }: HeaderProps) {
   const [alertIndex, setAlertIndex] = useState(0);
   const [currentDate, setCurrentDate] = useState('');
@@ -87,9 +90,9 @@ export default function Header({
 
   return (
     <header className="w-full bg-white border-b border-[#e0e0e0] sticky top-0 z-40 shadow-xs select-none">
-      {/* 1. Top Utility Strip (CNBC Style: Date, Edition, Watchlist/Saved) - Collapses slightly on scroll */}
+      {/* 1. Top Utility Strip (CNBC Style: Date, Edition, Watchlist/Saved) */}
       <div className={`bg-[#f7f7f7] border-b border-[#e0e0e0] text-xs text-slate-700 px-4 sm:px-8 transition-all duration-200 ${
-        isScrolled ? 'py-1 hidden sm:block' : 'py-1.5'
+        isScrolled ? 'hidden' : 'py-1.5'
       }`}>
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center gap-4 text-[11px] sm:text-xs">
@@ -120,7 +123,9 @@ export default function Header({
       </div>
 
       {/* 2. CNBC-Style Breaking News Alert Ticker */}
-      <div className="bg-[#fff9e6] border-b border-[#e0e0e0] px-4 sm:px-8 py-1.5">
+      <div className={`bg-[#fff9e6] border-b border-[#e0e0e0] px-4 sm:px-8 py-1.5 transition-all duration-200 ${
+        isScrolled ? 'hidden' : 'block'
+      }`}>
         <div className="max-w-7xl mx-auto flex items-center gap-2.5 text-xs">
           <span className="inline-flex items-center gap-1 bg-red-600 text-white font-black px-2 py-0.5 uppercase tracking-wider text-[10px] shrink-0 rounded-none">
             <Bell className="w-3 h-3" />
@@ -224,6 +229,9 @@ export default function Header({
           </div>
         </div>
       </nav>
+
+      {/* 5. CNBC Market Ticker - Sticky below the Category Menu Section */}
+      <MarketTicker markets={markets || MARKET_DATA} />
     </header>
   );
 }
