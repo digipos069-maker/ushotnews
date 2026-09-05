@@ -3,7 +3,8 @@
 
 import React, { useState, useEffect } from 'react';
 import { Newspaper, Search, Bookmark, Bell, Globe, ChevronRight } from 'lucide-react';
-import { NewsCategory } from '@/types/news';
+import Link from 'next/link';
+import { Article, NewsCategory } from '@/types/news';
 import { BREAKING_NEWS_ALERTS } from '@/data/newsData';
 
 interface HeaderProps {
@@ -12,6 +13,7 @@ interface HeaderProps {
   bookmarkCount: number;
   onOpenBookmarks: () => void;
   onOpenSearch: () => void;
+  breakingArticles?: Article[];
 }
 
 const CATEGORIES: NewsCategory[] = [
@@ -31,9 +33,29 @@ export default function Header({
   bookmarkCount,
   onOpenBookmarks,
   onOpenSearch,
+  breakingArticles,
 }: HeaderProps) {
   const [alertIndex, setAlertIndex] = useState(0);
   const [currentDate, setCurrentDate] = useState('');
+
+  // Generate alerts from database articles if available, else fallback to BREAKING_NEWS_ALERTS
+  const activeAlerts: { text: string; slug?: string }[] = React.useMemo(() => {
+    if (breakingArticles && breakingArticles.length > 0) {
+      // Prioritize articles with isBreaking, isHot, or recent additions
+      const prioritized = [...breakingArticles].sort((a, b) => {
+        if (a.isBreaking && !b.isBreaking) return -1;
+        if (!a.isBreaking && b.isBreaking) return 1;
+        return 0;
+      });
+
+      return prioritized.slice(0, 10).map((art) => ({
+        text: `${art.isBreaking ? 'BREAKING: ' : ''}${art.title}`,
+        slug: art.slug,
+      }));
+    }
+
+    return BREAKING_NEWS_ALERTS.map((text) => ({ text }));
+  }, [breakingArticles]);
 
   useEffect(() => {
     const today = new Date();
@@ -46,11 +68,11 @@ export default function Header({
     setCurrentDate(formatted);
 
     const interval = setInterval(() => {
-      setAlertIndex((prev) => (prev + 1) % BREAKING_NEWS_ALERTS.length);
+      setAlertIndex((prev) => (activeAlerts.length > 0 ? (prev + 1) % activeAlerts.length : 0));
     }, 6000);
 
     return () => clearInterval(interval);
-  }, []);
+  }, [activeAlerts.length]);
 
   return (
     <header className="w-full bg-white border-b border-[#e0e0e0] relative z-30">
@@ -92,12 +114,21 @@ export default function Header({
             Alert
           </span>
           <div className="overflow-hidden relative h-5 flex-1">
-            <p className="font-medium text-slate-800 truncate transition-all duration-500">
-              {BREAKING_NEWS_ALERTS[alertIndex]}
-            </p>
+            {activeAlerts[alertIndex]?.slug ? (
+              <Link
+                href={`/article/${activeAlerts[alertIndex].slug}`}
+                className="font-medium text-slate-800 hover:text-[#032EA1] hover:underline truncate block transition-all duration-500"
+              >
+                {activeAlerts[alertIndex]?.text}
+              </Link>
+            ) : (
+              <p className="font-medium text-slate-800 truncate transition-all duration-500">
+                {activeAlerts[alertIndex]?.text || 'Loading latest alerts...'}
+              </p>
+            )}
           </div>
           <span className="text-[11px] text-slate-500 hidden sm:inline-block font-mono">
-            {alertIndex + 1}/{BREAKING_NEWS_ALERTS.length}
+            {alertIndex + 1}/{activeAlerts.length}
           </span>
         </div>
       </div>

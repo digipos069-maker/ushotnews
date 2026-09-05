@@ -107,6 +107,7 @@ export default function HomePageClient({ initialArticles }: HomePageClientProps)
         bookmarkCount={bookmarkedIds.size}
         onOpenBookmarks={() => setIsBookmarksOpen(true)}
         onOpenSearch={() => setIsSearchOpen(true)}
+        breakingArticles={articles}
       />
 
       {/* Real-time US Market Indices Bar (Smart Sticky on Scroll Up) */}
