@@ -199,8 +199,10 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
                 <span className="font-bold text-sm text-slate-900">{article.author.name}</span>
                 <span className="text-[11px] font-mono text-slate-500 uppercase">({article.author.role})</span>
               </div>
-              <p className="text-[11px] text-slate-500 font-mono tracking-tight">
-                PUBLISHED SAT, SEP 5 2026 • {article.publishedAt.toUpperCase()}
+              <p className="text-[11px] text-slate-500 font-mono tracking-tight flex items-center gap-1.5 mt-0.5">
+                <span>PUBLISHED SAT, SEP 5 2026</span>
+                <span>•</span>
+                <span className="text-[10px] text-slate-400 font-sans uppercase font-medium">{article.publishedAt}</span>
               </p>
             </div>
           </div>
