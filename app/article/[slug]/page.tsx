@@ -31,6 +31,85 @@ export async function generateStaticParams() {
   }));
 }
 
+/**
+ * Extracts high-value SEO keywords dynamically from the article title, summary, and content.
+ */
+function extractDynamicKeywords(article: any): string[] {
+  const stopWords = new Set([
+    'a', 'about', 'above', 'after', 'again', 'against', 'all', 'am', 'an', 'and', 'any', 'are', 'aren',
+    'as', 'at', 'be', 'because', 'been', 'before', 'being', 'below', 'between', 'both', 'but', 'by',
+    'can', 'could', 'did', 'didn', 'do', 'does', 'doesn', 'doing', 'don', 'down', 'during', 'each',
+    'few', 'for', 'from', 'further', 'had', 'has', 'have', 'having', 'he', 'her', 'here', 'hers',
+    'herself', 'him', 'himself', 'his', 'how', 'i', 'if', 'in', 'into', 'is', 'isn', 'it', 'its',
+    'itself', 'just', 'll', 'm', 'ma', 'me', 'might', 'more', 'most', 'must', 'my', 'myself', 'no',
+    'nor', 'not', 'now', 'o', 'of', 'off', 'on', 'once', 'only', 'or', 'other', 'our', 'ours',
+    'ourselves', 'out', 'over', 'own', 're', 's', 'same', 'she', 'should', 'so', 'some', 'such',
+    't', 'than', 'that', 'the', 'their', 'theirs', 'them', 'themselves', 'then', 'there', 'these',
+    'they', 'this', 'those', 'through', 'to', 'too', 'under', 'until', 'up', 've', 'very', 'was',
+    'wasn', 'we', 'were', 'weren', 'what', 'when', 'where', 'which', 'while', 'who', 'whom', 'why',
+    'will', 'with', 'won', 'would', 'y', 'you', 'your', 'yours', 'yourself', 'yourselves', 'said',
+    'says', 'according', 'also', 'new', 'one', 'two', 'first', 'last', 'per', 'since', 'including'
+  ]);
+
+  // Combine title, summary, and content text
+  const contentText = Array.isArray(article.content) ? article.content.join(' ') : (article.content || '');
+  const combinedText = `${article.title} ${article.summary} ${contentText}`;
+
+  // Extract candidate words (alphanumeric, at least 3 chars)
+  const words = combinedText
+    .toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, ' ')
+    .split(/\s+/)
+    .filter((w) => w.length > 3 && !stopWords.has(w) && !/^\d+$/.test(w));
+
+  // Count word frequencies
+  const freqMap: Record<string, number> = {};
+  for (const word of words) {
+    freqMap[word] = (freqMap[word] || 0) + 1;
+  }
+
+  // Sort by frequency
+  const sortedKeywords = Object.entries(freqMap)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 8)
+    .map(([w]) => w.charAt(0).toUpperCase() + w.slice(1));
+
+  // Extract high-value capitalized entity phrases (e.g. "Federal Reserve", "Wall Street", "Supreme Court")
+  const entities = new Set<string>();
+  const entityMatches = combinedText.match(/\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\b/g);
+  if (entityMatches) {
+    for (const phrase of entityMatches) {
+      if (phrase.length > 5 && !phrase.includes('US HOT NEWS')) {
+        entities.add(phrase);
+      }
+    }
+  }
+
+  const primaryKeywords = [
+    article.category,
+    `${article.category} News`,
+    'US News',
+    'Breaking News',
+    article.kicker || 'Special Report',
+    article.author?.name || 'US News Bureau',
+    ...(article.tags || []),
+    ...Array.from(entities).slice(0, 5),
+    ...sortedKeywords,
+  ];
+
+  // Deduplicate case-insensitively
+  const seen = new Set<string>();
+  const uniqueKeywords: string[] = [];
+  for (const kw of primaryKeywords) {
+    if (kw && !seen.has(kw.toLowerCase())) {
+      seen.add(kw.toLowerCase());
+      uniqueKeywords.push(kw);
+    }
+  }
+
+  return uniqueKeywords.slice(0, 15);
+}
+
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params;
   const article = await getArticleBySlug(slug);
@@ -44,17 +123,12 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.vercel.app';
   const articleUrl = `${siteUrl}/article/${article.slug}`;
+  const dynamicKeywords = extractDynamicKeywords(article);
 
   return {
     title: article.title,
     description: article.summary,
-    keywords: [
-      article.category,
-      'US News',
-      'Breaking News',
-      ...(article.tags || []),
-      article.author.name,
-    ],
+    keywords: dynamicKeywords,
     authors: [{ name: article.author.name }],
     creator: article.author.name,
     publisher: 'US HOT NEWS',
@@ -159,7 +233,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       },
     },
     articleSection: article.category,
-    keywords: (article.tags || []).join(', '),
+    keywords: extractDynamicKeywords(article).join(', '),
   };
 
   return (
