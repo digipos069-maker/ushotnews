@@ -40,7 +40,7 @@ except ImportError:
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 SCRAPED_JSON_PATH = os.path.join(PROJECT_ROOT, "data", "scraped_articles.json")
-API_ENDPOINT = os.environ.get("NEXT_API_URL", "http://localhost:3000/api/articles")
+API_ENDPOINT = os.environ.get("NEXT_API_URL", "http://ushotnews.online/api/articles")
 ADMIN_API_KEY = os.environ.get("ADMIN_API_KEY", "ushotnews_secret_scraper_key_2026")
 
 # Supported Top US News RSS Feeds
