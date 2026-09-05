@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { ARTICLES_DATA, INITIAL_POLL } from '../data/newsData';
+import { ARTICLES_DATA, INITIAL_POLL, MARKET_DATA } from '../data/newsData';
 import { NewsCategory } from '../types/news';
 
 function runComponentLogicTests() {
@@ -83,7 +83,19 @@ function runComponentLogicTests() {
   }
   console.log('✓ User styling rule verified: #032EA1 applied to buttons and tables in globals.css');
 
-  console.log('\nALL 5 LOGIC & RULE TESTS PASSED SUCCESSFULLY! (5/5)');
+  // 6. Verification of Market Ticker auto-scroll & no-scrollbar styles
+  if (!globalsCss.includes('animate-ticker') || !globalsCss.includes('ticker-scroll')) {
+    throw new Error('MarketTicker marquee animation missing in globals.css');
+  }
+  if (!globalsCss.includes('no-scrollbar')) {
+    throw new Error('no-scrollbar utility missing in globals.css');
+  }
+  if (!MARKET_DATA || MARKET_DATA.length < 4) {
+    throw new Error('Market data insufficient for auto-scrolling ticker');
+  }
+  console.log('✓ MarketTicker auto-scroll animation and hidden scrollbar verified');
+
+  console.log('\nALL 6 LOGIC & RULE TESTS PASSED SUCCESSFULLY! (6/6)');
 }
 
 runComponentLogicTests();
