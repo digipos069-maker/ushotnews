@@ -6,6 +6,7 @@ import Image from 'next/image';
 import { ARTICLES_DATA, MARKET_DATA } from '@/data/newsData';
 import ArticleDetailClient from '@/components/ArticleDetailClient';
 import MarketTicker from '@/components/MarketTicker';
+import ArticleDetailAdsDesktop from '@/components/ArticleDetailAdsDesktop';
 import Footer from '@/components/Footer';
 import Newsletter from '@/components/Newsletter';
 import {
@@ -299,8 +300,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         </div>
       </div>
 
+      {/* Desktop-Only Skyscraper Ads for Article Detail (Left & Right Gutters) */}
+      <ArticleDetailAdsDesktop position="left" slotId="ARTICLE_LEFT_160X600" />
+      <ArticleDetailAdsDesktop position="right" slotId="ARTICLE_RIGHT_160X600" />
+
       {/* CNBC Two-Column Editorial Layout */}
-      <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-8 py-6">
+      <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-8 py-6 relative z-10">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
           
           {/* Main Column (8 cols): Article Content */}
