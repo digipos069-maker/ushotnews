@@ -3,12 +3,12 @@
 
 import React, { useEffect, useRef } from 'react';
 
-interface AdSkyscraperProps {
+interface LeftRightAdsDesktopProps {
   position: 'left' | 'right';
   slotId?: string;
 }
 
-export default function AdSkyscraper({ position, slotId = '160x600' }: AdSkyscraperProps) {
+export default function LeftRightAdsDesktop({ position, slotId = '160x600' }: LeftRightAdsDesktopProps) {
   const isLeft = position === 'left';
   const iframeRef = useRef<HTMLIFrameElement>(null);
 
@@ -63,10 +63,10 @@ export default function AdSkyscraper({ position, slotId = '160x600' }: AdSkyscra
   return (
     <aside
       aria-label={'Advertisement ' + position}
-      className={'hidden xl:flex flex-col items-center fixed top-[125px] z-30 pointer-events-auto ' + (
+      className={'hidden [@media(min-width:1620px)]:flex flex-col items-center fixed top-[125px] z-30 pointer-events-auto ' + (
         isLeft
-          ? 'left-2 2xl:left-[max(1rem,calc((100vw-1280px)/2-176px))]'
-          : 'right-2 2xl:right-[max(1rem,calc((100vw-1280px)/2-176px))]'
+          ? 'left-[max(1rem,calc((100vw-1280px)/2-180px))]'
+          : 'right-[max(1rem,calc((100vw-1280px)/2-180px))]'
       )}
     >
       {/* Label */}
