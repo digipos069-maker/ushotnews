@@ -217,7 +217,7 @@ export default function Header({
                       : 'border-transparent opacity-90 hover:opacity-100 hover:border-[#02237d]'
                   }`}
                 >
-                  {cat === 'All' ? '⚡ Front Page' : cat}
+                  {cat === 'All' ? 'Front Page' : cat}
                 </button>
               );
             })}
