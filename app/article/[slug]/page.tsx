@@ -18,19 +18,22 @@ import {
   Mail,
 } from 'lucide-react';
 
+import { getAllArticles, getArticleBySlug } from '@/lib/articles';
+
 interface ArticlePageProps {
   params: Promise<{ slug: string }>;
 }
 
 export async function generateStaticParams() {
-  return ARTICLES_DATA.map((article) => ({
+  const articles = await getAllArticles();
+  return articles.map((article) => ({
     slug: article.slug,
   }));
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
   const { slug } = await params;
-  const article = ARTICLES_DATA.find((a) => a.slug === slug);
+  const article = await getArticleBySlug(slug);
 
   if (!article) {
     return {
@@ -51,25 +54,27 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const { slug } = await params;
-  const article = ARTICLES_DATA.find((a) => a.slug === slug);
+  const article = await getArticleBySlug(slug);
 
   if (!article) {
     notFound();
   }
 
+  const allArticles = await getAllArticles();
+
   // Top trending / most read stories for CNBC-style right rail
-  const trendingStories = [...ARTICLES_DATA]
+  const trendingStories = [...allArticles]
     .filter((a) => a.id !== article.id)
     .sort((a, b) => b.viewCount - a.viewCount)
     .slice(0, 5);
 
   // Category specific related stories
-  const categoryStories = ARTICLES_DATA.filter(
+  const categoryStories = allArticles.filter(
     (a) => a.id !== article.id && a.category === article.category
   ).slice(0, 3);
 
   // More stories across other desks
-  const moreStories = ARTICLES_DATA.filter(
+  const moreStories = allArticles.filter(
     (a) => a.id !== article.id && a.category !== article.category
   ).slice(0, 3);
 

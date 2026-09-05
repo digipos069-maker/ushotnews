@@ -1,0 +1,1840 @@
+[
+  {
+    "id": "test-persist-1788587104887",
+    "slug": "test-breaking-us-economic-growth-1788587104887",
+    "title": "Test Breaking US Economic Growth Report",
+    "kicker": "TEST WIRE",
+    "summary": "A test economic indicator report verifying persistence pipeline.",
+    "content": [
+      "Paragraph 1 of test report.",
+      "Paragraph 2 of test report."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Photo Caption Test",
+    "author": {
+      "name": "Test Reporter",
+      "role": "Staff Writer",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "viewCount": 150,
+    "reactions": {
+      "likes": 5,
+      "insightful": 2,
+      "shocked": 0
+    },
+    "tags": [
+      "Economy",
+      "Test"
+    ]
+  },
+  {
+    "id": "scraped-99984ac467",
+    "slug": "this-chip-equipment-stock-just-raised-its-dividend-by-269",
+    "guid": "chip-equipment-stock-just-raised-233002238.html",
+    "title": "This Chip Equipment Stock Just Raised Its Dividend by 26.9%.",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "This Chip Equipment Stock Just Raised Its Dividend by 26.9%.",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/3bc9c6daf4247cae472f25d8b7cd0c18.jpg",
+    "imageCaption": "This Chip Equipment Stock Just Raised Its Dividend by 26.9%.... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f4f0f91225",
+    "slug": "anthropic-nears-finalizing-15-billion-pre-ipo-credit-facility",
+    "guid": "anthropic-nears-finalizing-15-billion-224354345.html",
+    "title": "Anthropic Nears Finalizing $15 Billion Pre-IPO Credit Facility",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Anthropic Nears Finalizing $15 Billion Pre-IPO Credit Facility",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/bloomberg_holding_pen_162/b554d978798709627888fd0516280a36.jpg",
+    "imageCaption": "Anthropic Nears Finalizing $15 Billion Pre-IPO Credit Facili... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cf207e6eb0",
+    "slug": "elon-musk-unleashes-first-wave-of-spending-on-key-races-in-the-midterms",
+    "guid": "000001a0-6511-da3f-a5b2-7dbd6b120000",
+    "title": "Elon Musk unleashes first wave of spending on key races in the midterms",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Disclosure of Musk’s first independent expenditures followed his meeting with Speaker Mike Johnson.",
+    "content": [
+      "Disclosure of Musk’s first independent expenditures followed his meeting with Speaker Mike Johnson.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/d9/4b/34b15fa147a5b2a47c6a66918d0c/musk-spacex-ipo-2971.jpg",
+    "imageCaption": "Elon Musk unleashes first wave of spending on key races in t... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-01f078c518",
+    "slug": "stephen-a-smith-on-trump-democrats-and-the-politics-of-chaos",
+    "guid": "000001a0-63a8-d286-a1b8-fffc70ce0000",
+    "title": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Stephen A. Smith on Trump, Democrats and the politics of chaos",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Stephen A. Smith on Trump, Democrats and the politics of cha... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bf2a7cc993",
+    "slug": "stephen-a-smith-has-some-words-for-democrats-as-he-makes-his-2028-plans-clear",
+    "guid": "000001a0-6457-d0aa-a9a9-757ffed00000",
+    "title": "Stephen A. Smith has some words for Democrats as he makes his 2028 plans clear",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "“The minute I announce that I’m running, I would be taken off the air,” Smith said in an interview with POLITICO’s Dasha Burns.",
+    "content": [
+      "“The minute I announce that I’m running, I would be taken off the air,” Smith said in an interview with POLITICO’s Dasha Burns.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "http://vod.politico.com/media/v1/pmp4/static/clear/1155968404/6b847f4b-b115-4396-9da4-e0e02333151b/9e68cb8e-6fe9-45a4-8acb-4ff61611db0f/main.mp4",
+    "imageCaption": "Stephen A. Smith has some words for Democrats as he makes hi... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-989fe73e23",
+    "slug": "kamala-harris-wants-back-in-the-fight-these-democrats-dont-want-her-help",
+    "guid": "000001a0-64a8-d286-a1b8-fefc4c260000",
+    "title": "Kamala Harris wants back in the fight. These Democrats don’t want her help.",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The former vice president is one of the Democratic Party’s most prominent figures, but some Democrats think her brand is too toxic to help their campaigns.",
+    "content": [
+      "The former vice president is one of the Democratic Party’s most prominent figures, but some Democrats think her brand is too toxic to help their campaigns.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/df/45/c245b28148de92788838c782d616/https-delivery-gettyimages.com/downloads/2182328234",
+    "imageCaption": "Kamala Harris wants back in the fight. These Democrats don’t... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4a40577a0b",
+    "slug": "groundbreaking-for-trumps-arch-will-begin-soon-burgum-says",
+    "guid": "000001a0-68fb-d4fe-a9ae-fdfbaed50000",
+    "title": "Groundbreaking for Trump's arch will begin soon, Burgum says",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Excavation work for the 250-foot-tall monument could begin in the next two weeks, the Interior secretary said.",
+    "content": [
+      "Excavation work for the 250-foot-tall monument could begin in the next two weeks, the Interior secretary said.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/66/ae/56050b3045e880d3a2f47e907064/america-25-13-75.jpg",
+    "imageCaption": "Groundbreaking for Trump's arch will begin soon, Burgum says... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-325f0dafb6",
+    "slug": "missouri-supreme-court-pauses-gop-gerrymander-likely-netting-democrats-1-house-seat",
+    "guid": "000001a0-695d-da3f-a5b2-7dfdbcd00000",
+    "title": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The Missouri Supreme Court ruled that voters can decide the fate of the GOP-passed gerrymander via a referendum this fall.",
+    "content": [
+      "The Missouri Supreme Court ruled that voters can decide the fate of the GOP-passed gerrymander via a referendum this fall.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/31/49/3c0b2c70424187b05aa38e523324/u-s-congress-61538.jpg",
+    "imageCaption": "Missouri Supreme Court pauses GOP gerrymander, likely nettin... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1db607b04e",
+    "slug": "the-nations-cartoonists-on-the-week-in-politics",
+    "guid": "000001a0-69a8-da3f-a5b2-7dbc132a0000",
+    "title": "The nation’s cartoonists on the week in politics",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+    "content": [
+      "Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The nation’s cartoonists on the week in politics... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3812001c9f",
+    "slug": "not-feasible-with-ballots-already-in-the-mail-election-officials-say-it-is-too-late-for-tr",
+    "guid": "000001a0-6d33-da3f-a5b2-7dbfa5e20000",
+    "title": "‘Not feasible’: With ballots already in the mail, election officials say it is too late for Trump’s USPS order",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts, North Carolina will be the first state to send ballots on Friday.",
+    "content": [
+      "While the Trump administration's bid to overhaul mail-in voting remains blocked by the lower courts, North Carolina will be the first state to send ballots on Friday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/4e/1d/f62a7bde45a6aeabf17125134220/united-states-postal-service-usps-88760.jpg",
+    "imageCaption": "‘Not feasible’: With ballots already in the mail, election o... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5f02bf7247",
+    "slug": "cheapest-freight-isnt-best-when-delays-cost-millions",
+    "guid": "cheapest-freight-isn-t-best-214428379.html",
+    "title": "Cheapest Freight Isn’t Best When Delays Cost Millions",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Cheapest Freight Isn’t Best When Delays Cost Millions",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/freightwaves_373/dcf7d09ffe3bfc260d7aa20d7d2996cb.png",
+    "imageCaption": "Cheapest Freight Isn’t Best When Delays Cost Millions... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2e3e093aa9",
+    "slug": "jim-cramer-on-rubrik-rbrk-it-just-came-in-maybe-too-hot",
+    "guid": "jim-cramer-rubrik-rbrk-just-214604104.html",
+    "title": "Jim Cramer on Rubrik (RBRK): “It Just Came in Maybe Too Hot”",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Jim Cramer on Rubrik (RBRK): “It Just Came in Maybe Too Hot”",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+    "imageCaption": "Jim Cramer on Rubrik (RBRK): “It Just Came in Maybe Too Hot”... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-672ee2c182",
+    "slug": "someone-just-staked-10-million-that-musks-spacex-will-reclaim-a-price-it-lost-in-june",
+    "guid": "someone-just-staked-10-million-223603108.html",
+    "title": "Someone Just Staked $10 Million That Musk’s SpaceX Will Reclaim a Price It Lost in June",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Someone Just Staked $10 Million That Musk’s SpaceX Will Reclaim a Price It Lost in June",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/24_7_wall_st__718/062ac1c532fed8f28de38a4982008034.jpg",
+    "imageCaption": "Someone Just Staked $10 Million That Musk’s SpaceX Will Recl... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-aadbfef0f7",
+    "slug": "jim-cramer-notes-cardinal-health-cah-is-too-attractive-to-ignore",
+    "guid": "jim-cramer-notes-cardinal-health-215255968.html",
+    "title": "Jim Cramer Notes Cardinal Health (CAH) is “Too Attractive to Ignore”",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Jim Cramer Notes Cardinal Health (CAH) is “Too Attractive to Ignore”",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/3fe61364b95991c98978f250ba7bea2c.png",
+    "imageCaption": "Jim Cramer Notes Cardinal Health (CAH) is “Too Attractive to... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-01d61365d3",
+    "slug": "why-oil-majors-dont-want-to-build-new-us-refineries",
+    "guid": "why-oil-majors-don-t-230000574.html",
+    "title": "Why Oil Majors Don’t Want to Build New U.S. Refineries",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Why Oil Majors Don’t Want to Build New U.S. Refineries",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/oilprice.com/e15ad74eeca6e962277e67c6e5511250.jpg",
+    "imageCaption": "Why Oil Majors Don’t Want to Build New U.S. Refineries... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-923a95c2f5",
+    "slug": "wheat-faces-thursday-losses-on-putin-comments",
+    "guid": "wheat-faces-thursday-losses-putin-215523026.html",
+    "title": "Wheat Faces Thursday Losses on Putin Comments",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Wheat Faces Thursday Losses on Putin Comments",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/ac6a516f9027913ff3b59d094f9294d5.jpg",
+    "imageCaption": "Wheat Faces Thursday Losses on Putin Comments... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2f6eae903a",
+    "slug": "ai-data-center-boom-pushes-us-power-equipment-to-the-breaking-point",
+    "guid": "ai-data-center-boom-pushes-220000299.html",
+    "title": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/oilprice.com/ea533bbafa31b9ed84a17175de2788d4.jpg",
+    "imageCaption": "AI Data Center Boom Pushes U.S. Power Equipment to the Break... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-172b9790c6",
+    "slug": "nvidias-1293-billion-hugging-face-deal-expands-jensen-huangs-ai-platform-beyond-chips",
+    "guid": "nvidia-12-93-billion-hugging-223301230.html",
+    "title": "Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Huang's AI Platform Beyond Chips",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/motleyfool.com/c95985beed1666040e4e1781ee2393d2.png",
+    "imageCaption": "Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Hua... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1430a4b778",
+    "slug": "pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
+    "guid": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
+    "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Changing SNAP eligibility actually can change consumption habits.",
+    "content": [
+      "Changing SNAP eligibility actually can change consumption habits.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differen... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d4cb27002e",
+    "slug": "with-jury-deadlocked-judge-declares-a-mistrial-in-lindsay-clancys-murder-case",
+    "guid": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
+    "title": "With jury deadlocked, judge declares a mistrial in Lindsay Clancy's murder case",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The judge in Lindsay Clancy's murder case has declared a mistrial after the jury was unable to agree on a verdict.",
+    "content": [
+      "The judge in Lindsay Clancy's murder case has declared a mistrial after the jury was unable to agree on a verdict.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "With jury deadlocked, judge declares a mistrial in Lindsay C... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c9539e57e1",
+    "slug": "whatever-happened-to-the-us-campaign-to-ban-child-marriage",
+    "guid": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
+    "title": "Whatever happened to the U.S. campaign to ban child marriage?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The global effort to end child marriage is in the news. In the U.S., there's a new bill before Congress (but it's controversial). And the U.N. is designating a day dedicated to ending the practice.",
+    "content": [
+      "The global effort to end child marriage is in the news. In the U.S., there's a new bill before Congress (but it's controversial). And the U.N. is designating a day dedicated to ending the practice.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Whatever happened to the U.S. campaign to ban child marriage... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dc05518d5e",
+    "slug": "trumps-arch-may-break-ground-without-final-approval-veterans-are-trying-to-stop-it",
+    "guid": "https://www.npr.org/2026/09/04/nx-s1-5957459/trump-arch-excavation-lawsuit-veterans",
+    "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Interior Secretary Doug Burgum says \"excavation work\" will begin in the next two weeks, without approval from a key federal body. Veterans who sued over the arch want a judge to intervene before then.",
+    "content": [
+      "Interior Secretary Doug Burgum says \"excavation work\" will begin in the next two weeks, without approval from a key federal body. Veterans who sued over the arch want a judge to intervene before then.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump's arch may break ground without final approval. Vetera... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3f275a8a16",
+    "slug": "the-health-system-in-nepal-is-not-prepared-for-this",
+    "guid": "https://www.npr.org/2026/09/04/nx-s1-5954050/nepal-flood-waters-physical-mental-health",
+    "title": "'The health system in Nepal is not prepared for this'",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "That's the grim assessment from the ground in the wake of the catastrophic flooding, which damaged or destroyed 7 health facilities, interrupted routine care and is affecting mental health.",
+    "content": [
+      "That's the grim assessment from the ground in the wake of the catastrophic flooding, which damaged or destroyed 7 health facilities, interrupted routine care and is affecting mental health.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'The health system in Nepal is not prepared for this'... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e5e57152a1",
+    "slug": "hidden-tribunals-immigration-court-due-process-in-tumult-with-new-locations",
+    "guid": "https://www.npr.org/2026/09/04/g-s1-142042/immigration-court-hidden-tribunals",
+    "title": "'Hidden tribunals': Immigration court due process in tumult with new locations",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The new effort appears to be another tactic in a broader Trump administration strategy to short-circuit immigrants' already limited due process options in order to speed deportations.",
+    "content": [
+      "The new effort appears to be another tactic in a broader Trump administration strategy to short-circuit immigrants' already limited due process options in order to speed deportations.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'Hidden tribunals': Immigration court due process in tumult ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-aa6c038d13",
+    "slug": "4-things-investigators-learned-about-the-dysfunction-at-trumps-labor-department",
+    "guid": "https://www.npr.org/2026/09/04/nx-s1-5958601/labor-department-inspector-general-secretary-chavez-deremer",
+    "title": "4 things investigators learned about the dysfunction at Trump's Labor Department",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department's policy prohibiting harassment. She resigned in April.",
+    "content": [
+      "A report from Labor Department investigators found former Labor Secretary Lori Chavez-DeRemer violated her own department's policy prohibiting harassment. She resigned in April.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "4 things investigators learned about the dysfunction at Trum... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8f8e54d626",
+    "slug": "the-un-backs-a-new-world-map-showing-africa-in-its-true-relative-size",
+    "guid": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
+    "title": "The U.N. backs a new world map showing Africa in its true relative size",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition.",
+    "content": [
+      "The U.N. has backed a new map showing Africa in its true relative size, with the U.S. standing alone in opposition.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The U.N. backs a new world map showing Africa in its true re... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7320b680c6",
+    "slug": "adobe-names-anil-chakravarthy-as-ceo-replacing-shantanu-narayen",
+    "guid": "108358647",
+    "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
+    "content": [
+      "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Nar... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-653a1807bb",
+    "slug": "revenge-of-the-magnificent-seven-jim-cramer-says-its-time-to-buy",
+    "guid": "108358561",
+    "title": "Revenge of the 'Magnificent Seven' — Jim Cramer says it’s time to buy",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "CNBC's Jim Cramer sees catalysts across Amazon, Alphabet, Meta, Microsoft, Nvidia and Tesla.",
+    "content": [
+      "CNBC's Jim Cramer sees catalysts across Amazon, Alphabet, Meta, Microsoft, Nvidia and Tesla.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Revenge of the 'Magnificent Seven' — Jim Cramer says it’s ti... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d8c2b15db2",
+    "slug": "south-koreas-ai-rally-is-reshaping-romance-reality-shows-and-academic-preferences",
+    "guid": "108355613",
+    "title": "South Korea's AI rally is reshaping romance, reality shows and academic preferences",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "South Korea rally is changing what Koreans watch, how Koreans date, and what Koreans study.",
+    "content": [
+      "South Korea rally is changing what Koreans watch, how Koreans date, and what Koreans study.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "South Korea's AI rally is reshaping romance, reality shows a... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-839d0b8163",
+    "slug": "nvidias-investments-grow-to-99-billion-as-chip-giant-becomes-major-backer-of-ai-companies",
+    "guid": "108357553",
+    "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
+    "content": [
+      "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia's investments grow to $99 billion as chip giant becom... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-86e58d1cbc",
+    "slug": "why-nvidias-defensive-move-to-acquire-hugging-face-is-about-much-more-than-chips",
+    "guid": "108358839",
+    "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Nvidia’s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.",
+    "content": [
+      "Nvidia’s $12.9 billion Hugging Face deal could protect its open AI ecosystem, deepen ties with developers and keep the platform from rivals.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why Nvidia's 'defensive move' to acquire Hugging Face is abo... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-58321ee49c",
+    "slug": "the-jobs-report-lululemon-earnings-the-nfl-heads-to-australia-and-more-in-morning-squawk",
+    "guid": "108358695",
+    "title": "The jobs report, Lululemon earnings, the NFL heads to Australia and more in Morning Squawk",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "content": [
+      "Here are five key things investors need to know to start the trading day.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The jobs report, Lululemon earnings, the NFL heads to Austra... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-78064160f0",
+    "slug": "back-to-school-shopping-brought-to-you-by-ai-how-amazon-google-are-positioned-to-win",
+    "guid": "108356686",
+    "title": "Back-to-school shopping brought to you by AI — how Amazon, Google are positioned to win",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The rise of AI-assisted shopping during this year's back-to-school season may be an early window into evolving consumer buying habits.",
+    "content": [
+      "The rise of AI-assisted shopping during this year's back-to-school season may be an early window into evolving consumer buying habits.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Back-to-school shopping brought to you by AI — how Amazon, G... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4a8eeaf440",
+    "slug": "private-payrolls-rose-by-38000-in-august-less-than-expected-adp-reports",
+    "guid": "108357599",
+    "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "Though job creation held positive, August was the smallest gain since January and reflective of a broader slowdown in the labor market.",
+    "content": [
+      "Though job creation held positive, August was the smallest gain since January and reflective of a broader slowdown in the labor market.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Private payrolls rose by 38,000 in August, less than expecte... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2daf86ed4c",
+    "slug": "south-koreas-semiconductor-exports-just-tripled-year-over-year-is-it-too-much-of-a-good-th",
+    "guid": "108357468",
+    "title": "South Korea's semiconductor exports just tripled year-over-year. Is it too much of a good thing?",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "If growth were to slow in the semiconductor sector, would the slowdown take the Korean economy with it?",
+    "content": [
+      "If growth were to slow in the semiconductor sector, would the slowdown take the Korean economy with it?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "South Korea's semiconductor exports just tripled year-over-y... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-82efde8daa",
+    "slug": "danger-zone-of-extreme-weather-un-warns-of-supersized-el-niño-set-to-hit-global-economy-an",
+    "guid": "108358257",
+    "title": "'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "Latest modeling shows high risks of floods, drought and extreme heat persisting until February 2027.",
+    "content": [
+      "Latest modeling shows high risks of floods, drought and extreme heat persisting until February 2027.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'Danger zone of extreme weather': UN warns of supersized El ... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e1431e0382",
+    "slug": "fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting",
+    "guid": "108358313",
+    "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
+    "content": [
+      "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fed Governor Waller indicates he will support holding rates ... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2d98f2a96d",
+    "slug": "the-big-august-jobs-report-is-due-out-friday-heres-what-to-expect-for-what-has-been-a-jobl",
+    "guid": "108358473",
+    "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
+    "content": [
+      "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The big August jobs report is due out Friday. Here's what to... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-236f406d57",
+    "slug": "the-big-business-of-personal-protection-how-private-security-became-a-50-billion-industry",
+    "guid": "108351594",
+    "title": "The big business of personal protection: How private security became a $50 billion industry",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "Private security spending and guard employment have climbed as companies and communities respond to high-profile attacks, even as violent crime falls.",
+    "content": [
+      "Private security spending and guard employment have climbed as companies and communities respond to high-profile attacks, even as violent crime falls.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The big business of personal protection: How private securit... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8981411d8d",
+    "slug": "us-payrolls-rose-162000-in-august-much-more-than-expected-unemployment-rate-at-41",
+    "guid": "108358891",
+    "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
+    "content": [
+      "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. payrolls rose 162,000 in August, much more than expecte... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-11a358b560",
+    "slug": "us-sanctions-turkish-bank-accused-of-enabling-iran-as-bessent-says-he-hopes-for-no-further",
+    "guid": "108359037",
+    "title": "U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Donald Trump hyped the sanctions plan as \"economic D-Day\" against Iran, but the U.S. has so far taken few steps to implement it.",
+    "content": [
+      "President Donald Trump hyped the sanctions plan as \"economic D-Day\" against Iran, but the U.S. has so far taken few steps to implement it.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. sanctions Turkish bank accused of enabling Iran as Bess... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4ba9b31a89",
+    "slug": "women-accounted-for-almost-all-of-job-gains-in-august-heres-why",
+    "guid": "108358990",
+    "title": "Women accounted for almost all of job gains in August. Here's why",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Women accounted for virtually all of August's payroll gains, the latest sign of their growing power in the labor market.",
+    "content": [
+      "Women accounted for virtually all of August's payroll gains, the latest sign of their growing power in the labor market.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Women accounted for almost all of job gains in August. Here'... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d8fc961784",
+    "slug": "judge-weighs-how-to-dismiss-reflecting-pool-vandalism-charge-against-olympian",
+    "guid": "108359157",
+    "title": "Judge weighs how to dismiss Reflecting Pool vandalism charge against Olympian",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Trump has said damage to the Reflecting Pool was due to vandalism, not to a flawed installation of a new liner as prosecutors say.",
+    "content": [
+      "President Trump has said damage to the Reflecting Pool was due to vandalism, not to a flawed installation of a new liner as prosecutors say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Judge weighs how to dismiss Reflecting Pool vandalism charge... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a919c9be55",
+    "slug": "trump-says-he-will-spend-up-to-500-million-of-my-money-to-help-republicans-in-midterms",
+    "guid": "108359183",
+    "title": "Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Trump's pledge would dramatically increase MAGA Inc.’s spending after the Trump-aligned PAC kept most of its $403 million war chest on the sidelines.",
+    "content": [
+      "Trump's pledge would dramatically increase MAGA Inc.’s spending after the Trump-aligned PAC kept most of its $403 million war chest on the sidelines.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says he will spend up to $500 million of 'my money' to... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9e2bd7fe75",
+    "slug": "worlds-biggest-sovereign-wealth-fund-plans-to-cut-us-treasury-holdings",
+    "guid": "108358784",
+    "title": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns.",
+    "content": [
+      "Norway's $2.3 trillion investment fund says it can diversify into new areas with greater risk and returns.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "World's biggest sovereign wealth fund plans to cut U.S. Trea... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-670d451c91",
+    "slug": "longtime-fox-news-host-maria-bartiromo-disputes-reports-of-termination",
+    "guid": "108359041",
+    "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
+    "content": [
+      "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Longtime Fox News host Maria Bartiromo disputes reports of t... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-43d0a932a3",
+    "slug": "teslas-stock-drops-6-as-cybercab-update-underwhelms-wall-street",
+    "guid": "108359009",
+    "title": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall Street",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Tesla's long-awaited Cybercab update failed to dazzle investors.",
+    "content": [
+      "Tesla's long-awaited Cybercab update failed to dazzle investors.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tesla's stock drops 6% as Cybercab update 'underwhelms' Wall... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-72da97c0bd",
+    "slug": "trump-doubles-down-on-threat-to-halt-trade-with-top-partners-unless-fed-cuts-rates",
+    "guid": "108358967",
+    "title": "Trump doubles down on threat to halt trade with top partners unless Fed cuts rates",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
+    "content": [
+      "President Donald Trump demanded that the Fed slash interest rates or else he will cut off trade with countries with which the U.S. maintains trade deficits.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump doubles down on threat to halt trade with top partners... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "test-persist-1788587024251",
+    "slug": "test-breaking-us-economic-growth-1788587024251",
+    "title": "Test Breaking US Economic Growth Report",
+    "kicker": "TEST WIRE",
+    "summary": "A test economic indicator report verifying persistence pipeline.",
+    "content": [
+      "Paragraph 1 of test report.",
+      "Paragraph 2 of test report."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Photo Caption Test",
+    "author": {
+      "name": "Test Reporter",
+      "role": "Staff Writer",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "Just now",
+    "readTimeMinutes": 3,
+    "viewCount": 150,
+    "reactions": {
+      "likes": 5,
+      "insightful": 2,
+      "shocked": 0
+    },
+    "tags": [
+      "Economy",
+      "Test"
+    ]
+  }
+]
