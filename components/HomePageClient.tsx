@@ -14,6 +14,7 @@ import Newsletter from '@/components/Newsletter';
 import Footer from '@/components/Footer';
 import BookmarksDrawer from '@/components/BookmarksDrawer';
 import SearchModal from '@/components/SearchModal';
+import AdSkyscraper from '@/components/AdSkyscraper';
 
 import {
   MARKET_DATA,
@@ -110,8 +111,12 @@ export default function HomePageClient({ initialArticles }: HomePageClientProps)
         markets={MARKET_DATA}
       />
 
+      {/* 160 x 600 px Skyscraper Ads (Left & Right Gutter Slots) */}
+      <AdSkyscraper position="left" slotId="LEFT_160X600" />
+      <AdSkyscraper position="right" slotId="RIGHT_160X600" />
+
       {/* Main Content Area */}
-      <main className="flex-1">
+      <main className="flex-1 relative z-10">
         {/* If front page ('All'), display the Hero lead showcase */}
         {activeCategory === 'All' ? (
           <HeroLead
