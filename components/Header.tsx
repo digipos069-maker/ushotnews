@@ -2,7 +2,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { Newspaper, Search, Bookmark, Bell, Globe, ChevronRight } from 'lucide-react';
+import { Newspaper, Search, Bookmark, Bell, ChevronRight } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Article, NewsCategory, MarketItem } from '@/types/news';
@@ -94,11 +94,6 @@ export default function Header({
               </span>
             </div>
             <div className="flex items-center gap-3 text-[11px] sm:text-xs">
-              <div className="flex items-center gap-1 font-semibold text-slate-800 uppercase tracking-wider text-[10px]">
-                <Globe className="w-3.5 h-3.5 text-slate-500" />
-                <span>US Edition</span>
-              </div>
-              <span className="text-[#d0d0d0]">|</span>
               <button
                 onClick={onOpenBookmarks}
                 type="button"
