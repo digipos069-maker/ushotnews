@@ -167,7 +167,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       </main>
 
       {/* Footer */}
-      <Footer onSelectCategory={() => {}} />
+      <Footer />
     </div>
   );
 }

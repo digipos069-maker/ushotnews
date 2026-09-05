@@ -2,16 +2,26 @@
 'use client';
 
 import React from 'react';
-import { Newspaper, ArrowUp, Shield, Award, CheckSquare, Heart } from 'lucide-react';
+import { Newspaper, ArrowUp, Shield, Award, CheckSquare } from 'lucide-react';
 import { NewsCategory } from '@/types/news';
+import Link from 'next/link';
 
 interface FooterProps {
-  onSelectCategory: (cat: NewsCategory) => void;
+  onSelectCategory?: (cat: NewsCategory) => void;
 }
 
 export default function Footer({ onSelectCategory }: FooterProps) {
   const scrollToTop = () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (typeof window !== 'undefined') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  };
+
+  const handleCategoryClick = (cat: NewsCategory) => {
+    if (onSelectCategory) {
+      onSelectCategory(cat);
+      scrollToTop();
+    }
   };
 
   return (
@@ -74,16 +84,22 @@ export default function Footer({ onSelectCategory }: FooterProps) {
             <ul className="space-y-2 text-xs">
               {(['Politics', 'Economy', 'Technology', 'World'] as NewsCategory[]).map((cat) => (
                 <li key={cat}>
-                  <button
-                    type="button"
-                    onClick={() => {
-                      onSelectCategory(cat);
-                      scrollToTop();
-                    }}
-                    className="hover:underline text-left py-0.5 px-2 rounded-sm text-xs font-semibold"
-                  >
-                    {cat} Desk
-                  </button>
+                  {onSelectCategory ? (
+                    <button
+                      type="button"
+                      onClick={() => handleCategoryClick(cat)}
+                      className="hover:underline text-left py-0.5 px-2 rounded-sm text-xs font-semibold"
+                    >
+                      {cat} Desk
+                    </button>
+                  ) : (
+                    <Link
+                      href="/"
+                      className="hover:underline text-slate-300 hover:text-white"
+                    >
+                      {cat} Desk
+                    </Link>
+                  )}
                 </li>
               ))}
             </ul>
@@ -97,16 +113,22 @@ export default function Footer({ onSelectCategory }: FooterProps) {
             <ul className="space-y-2 text-xs">
               {(['Science', 'Culture', 'Sports'] as NewsCategory[]).map((cat) => (
                 <li key={cat}>
-                  <button
-                    type="button"
-                    onClick={() => {
-                      onSelectCategory(cat);
-                      scrollToTop();
-                    }}
-                    className="hover:underline text-left py-0.5 px-2 rounded-sm text-xs font-semibold"
-                  >
-                    {cat} Reports
-                  </button>
+                  {onSelectCategory ? (
+                    <button
+                      type="button"
+                      onClick={() => handleCategoryClick(cat)}
+                      className="hover:underline text-left py-0.5 px-2 rounded-sm text-xs font-semibold"
+                    >
+                      {cat} Reports
+                    </button>
+                  ) : (
+                    <Link
+                      href="/"
+                      className="hover:underline text-slate-300 hover:text-white"
+                    >
+                      {cat} Reports
+                    </Link>
+                  )}
                 </li>
               ))}
               <li>
