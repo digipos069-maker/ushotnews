@@ -1,12 +1,11 @@
 import { Pool, neon } from '@neondatabase/serverless';
 import { Article } from '@/types/news';
 
-const databaseUrl = process.env.DATABASE_URL;
-
 /**
  * Returns a Neon SQL execution client if DATABASE_URL is configured.
  */
 export function getDbClient() {
+  const databaseUrl = process.env.DATABASE_URL;
   if (!databaseUrl || databaseUrl.trim() === '') {
     return null;
   }

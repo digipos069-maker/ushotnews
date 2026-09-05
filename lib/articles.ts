@@ -66,30 +66,65 @@ export async function getAllArticles(): Promise<Article[]> {
       `;
 
       if (rows && rows.length > 0) {
-        const dbArticles: Article[] = rows.map((r: any) => ({
-          id: r.id,
-          slug: r.slug,
-          title: r.title,
-          kicker: r.kicker || 'NEWS WIRE',
-          summary: r.summary,
-          content: Array.isArray(r.content) ? r.content : JSON.parse(r.content || '[]'),
-          category: r.category as any,
-          imageUrl: r.image_url || 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80',
-          imageCaption: r.image_caption || '',
-          author: {
-            name: r.author_name || 'US News Bureau',
-            role: r.author_role || 'Correspondent',
-            avatar: r.author_avatar || 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80',
-          },
-          publishedAt: r.published_at || 'Just now',
-          readTimeMinutes: Number(r.read_time_minutes) || 4,
-          isBreaking: Boolean(r.is_breaking),
-          isLeadStory: Boolean(r.is_lead_story),
-          isHot: Boolean(r.is_hot),
-          viewCount: Number(r.view_count) || 1200,
-          reactions: r.reactions || { likes: 12, insightful: 6, shocked: 1 },
-          tags: Array.isArray(r.tags) ? r.tags : JSON.parse(r.tags || '[]'),
-        }));
+        const dbArticles: Article[] = rows.map((r: any) => {
+          let safeContent = [];
+          try {
+            if (Array.isArray(r.content)) {
+              safeContent = r.content;
+            } else if (typeof r.content === 'string') {
+              safeContent = JSON.parse(r.content || '[]');
+            }
+          } catch {
+            safeContent = [r.summary || ''];
+          }
+
+          let safeTags = [];
+          try {
+            if (Array.isArray(r.tags)) {
+              safeTags = r.tags;
+            } else if (typeof r.tags === 'string') {
+              safeTags = JSON.parse(r.tags || '[]');
+            }
+          } catch {
+            safeTags = [];
+          }
+
+          let safeReactions = { likes: 12, insightful: 6, shocked: 1 };
+          try {
+            if (typeof r.reactions === 'object' && r.reactions !== null) {
+              safeReactions = r.reactions;
+            } else if (typeof r.reactions === 'string') {
+              safeReactions = JSON.parse(r.reactions);
+            }
+          } catch {
+            // Keep default
+          }
+
+          return {
+            id: r.id,
+            slug: r.slug,
+            title: r.title,
+            kicker: r.kicker || 'NEWS WIRE',
+            summary: r.summary,
+            content: safeContent,
+            category: r.category as any,
+            imageUrl: r.image_url || 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80',
+            imageCaption: r.image_caption || '',
+            author: {
+              name: r.author_name || 'US News Bureau',
+              role: r.author_role || 'Correspondent',
+              avatar: r.author_avatar || 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80',
+            },
+            publishedAt: r.published_at || 'Just now',
+            readTimeMinutes: Number(r.read_time_minutes) || 4,
+            isBreaking: Boolean(r.is_breaking),
+            isLeadStory: Boolean(r.is_lead_story),
+            isHot: Boolean(r.is_hot),
+            viewCount: Number(r.view_count) || 1200,
+            reactions: safeReactions,
+            tags: safeTags,
+          };
+        });
 
         // Merge DB articles with default mock articles (avoiding duplicates)
         const combined = [...dbArticles];
