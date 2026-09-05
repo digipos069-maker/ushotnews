@@ -1,5 +1,7 @@
+import fs from 'fs';
+import path from 'path';
 import { ARTICLES_DATA, INITIAL_POLL } from '../data/newsData';
-import { Article, NewsCategory } from '../types/news';
+import { NewsCategory } from '../types/news';
 
 function runComponentLogicTests() {
   console.log('Running US Hot News Component Logic & Interactive Feature Tests...');
@@ -34,13 +36,15 @@ function runComponentLogicTests() {
 
   // Add
   bookmarkedSet.add(testId);
-  if (!bookmarkedSet.has(testId) || bookmarkedSet.size !== 1) {
+  const sizeAfterAdd: number = bookmarkedSet.size;
+  if (!bookmarkedSet.has(testId) || sizeAfterAdd !== 1) {
     throw new Error('Bookmark Add Failed');
   }
 
   // Remove
   bookmarkedSet.delete(testId);
-  if (bookmarkedSet.has(testId) || bookmarkedSet.size !== 0) {
+  const sizeAfterDelete: number = bookmarkedSet.size;
+  if (bookmarkedSet.has(testId) || sizeAfterDelete !== 0) {
     throw new Error('Bookmark Remove Failed');
   }
   console.log('✓ Bookmark Add/Remove logic works accurately');
@@ -70,8 +74,6 @@ function runComponentLogicTests() {
   console.log(`✓ Poll voting and percentage calculation passed (${calcPercent}%)`);
 
   // 5. Verification of #032EA1 styling rule in globals.css
-  const fs = require('fs');
-  const path = require('path');
   const globalsCss = fs.readFileSync(path.join(__dirname, '../app/globals.css'), 'utf8');
   if (!globalsCss.includes('#032EA1')) {
     throw new Error('User styling rule failed: #032EA1 not found in globals.css');
