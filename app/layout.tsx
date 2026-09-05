@@ -44,6 +44,14 @@ export const metadata: Metadata = {
   alternates: {
     canonical: '/',
   },
+  icons: {
+    icon: [
+      { url: '/icon.png', type: 'image/png' },
+      { url: '/favicon.ico', sizes: 'any' },
+    ],
+    shortcut: '/favicon.ico',
+    apple: '/icon.png',
+  },
   openGraph: {
     title: "US HOT NEWS | Breaking American News & Live Financial Wire",
     description: "Fast, verified, nonpartisan coverage of US Politics, Wall Street Markets, Silicon Valley Tech, Supreme Court, and National Developments.",

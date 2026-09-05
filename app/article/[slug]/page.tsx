@@ -2,6 +2,7 @@ import React from 'react';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { ARTICLES_DATA, MARKET_DATA } from '@/data/newsData';
 import ArticleDetailClient from '@/components/ArticleDetailClient';
 import MarketTicker from '@/components/MarketTicker';
@@ -246,11 +247,18 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <header className="w-full bg-white border-b border-[#e0e0e0] relative z-30">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 py-3 flex items-center justify-between">
           <div className="flex items-center gap-4">
-            <Link href="/" className="flex items-center gap-2">
-              <div className="w-8 h-8 bg-[#032EA1] flex items-center justify-center text-white rounded-none border border-[#02237d]">
-                <Newspaper className="w-4 h-4" />
+            <Link href="/" className="flex items-center gap-3 group">
+              <div className="relative w-8 h-8 shrink-0 flex items-center justify-center">
+                <Image
+                  src="/logo.png"
+                  alt="US HOT NEWS Logo"
+                  width={32}
+                  height={32}
+                  className="object-contain"
+                  priority
+                />
               </div>
-              <span className="text-xl sm:text-2xl font-black serif-headline text-slate-900 uppercase">
+              <span className="text-xl sm:text-2xl font-black serif-headline text-slate-900 uppercase group-hover:text-[#032EA1] transition-colors">
                 US HOT NEWS
               </span>
             </Link>

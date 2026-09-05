@@ -4,6 +4,7 @@
 import React, { useState, useEffect } from 'react';
 import { Newspaper, Search, Bookmark, Bell, Globe, ChevronRight } from 'lucide-react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { Article, NewsCategory } from '@/types/news';
 import { BREAKING_NEWS_ALERTS } from '@/data/newsData';
 
@@ -134,21 +135,28 @@ export default function Header({
       </div>
 
       {/* Main Masthead */}
-      <div className="max-w-7xl mx-auto px-4 sm:px-8 py-5 flex flex-col md:flex-row md:items-center justify-between gap-4">
+      <div className="max-w-7xl mx-auto px-4 sm:px-8 py-4 flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
-          <div className="flex items-center gap-2.5">
-            <div className="w-9 h-9 bg-[#032EA1] flex items-center justify-center text-white rounded-none border border-[#02237d]">
-              <Newspaper className="w-5 h-5" />
+          <Link href="/" className="flex items-center gap-3.5 group">
+            <div className="relative w-12 h-12 shrink-0 flex items-center justify-center">
+              <Image
+                src="/logo.png"
+                alt="US HOT NEWS Logo"
+                width={48}
+                height={48}
+                className="object-contain"
+                priority
+              />
             </div>
             <div>
-              <h1 className="text-3xl sm:text-4xl font-black tracking-tight text-slate-900 serif-headline uppercase">
+              <h1 className="text-3xl sm:text-4xl font-black tracking-tight text-slate-900 serif-headline uppercase group-hover:text-[#032EA1] transition-colors">
                 US HOT NEWS
               </h1>
+              <p className="text-[11px] sm:text-xs text-slate-600 tracking-wide font-medium mt-0.5">
+                Fast, Independent & Verified American Journalism • Real-time Wire
+              </p>
             </div>
-          </div>
-          <p className="text-xs text-slate-600 tracking-wide mt-1 font-medium">
-            Fast, Independent & Verified American Journalism • Real-time Reports & Analysis
-          </p>
+          </Link>
         </div>
 
         {/* Action Controls */}

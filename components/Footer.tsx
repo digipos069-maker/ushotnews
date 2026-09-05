@@ -5,6 +5,7 @@ import React from 'react';
 import { Newspaper, ArrowUp, Shield, Award, CheckSquare } from 'lucide-react';
 import { NewsCategory } from '@/types/news';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface FooterProps {
   onSelectCategory?: (cat: NewsCategory) => void;
@@ -60,9 +61,15 @@ export default function Footer({ onSelectCategory }: FooterProps) {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand Col */}
           <div className="md:col-span-1 space-y-3">
-            <div className="flex items-center gap-2">
-              <div className="w-8 h-8 bg-[#032EA1] flex items-center justify-center text-white rounded-none border border-[#02237d]">
-                <Newspaper className="w-4 h-4" />
+            <div className="flex items-center gap-3">
+              <div className="relative w-9 h-9 shrink-0 flex items-center justify-center bg-white/10 p-0.5">
+                <Image
+                  src="/logo.png"
+                  alt="US HOT NEWS Logo"
+                  width={36}
+                  height={36}
+                  className="object-contain"
+                />
               </div>
               <span className="font-black text-xl text-white serif-headline tracking-wide uppercase">
                 US HOT NEWS
