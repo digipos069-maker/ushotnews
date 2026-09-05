@@ -14,10 +14,10 @@ export default function TrendingRail({ articles }: TrendingRailProps) {
   const hotList = [...articles].sort((a, b) => b.viewCount - a.viewCount).slice(0, 5);
 
   return (
-    <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-xs">
-      <div className="flex items-center justify-between pb-3 border-b border-slate-200 mb-4">
+    <div className="bg-white border border-[#e0e0e0] rounded-none p-5 shadow-xs">
+      <div className="flex items-center justify-between pb-2.5 border-b border-[#e0e0e0] mb-4">
         <div className="flex items-center gap-2">
-          <div className="p-1 rounded-sm bg-red-600 text-white">
+          <div className="p-1 rounded-none bg-red-600 text-white">
             <Flame className="w-3.5 h-3.5 fill-current" />
           </div>
           <h3 className="text-xs font-black uppercase tracking-wider text-slate-900">
@@ -32,7 +32,7 @@ export default function TrendingRail({ articles }: TrendingRailProps) {
           <Link
             key={article.id}
             href={`/article/${article.slug}`}
-            className="flex items-start gap-3 group pb-3 border-b border-slate-100 last:border-0 last:pb-0"
+            className="flex items-start gap-3 group pb-3 border-b border-[#e0e0e0] last:border-0 last:pb-0"
           >
             <span className="text-2xl font-black font-mono text-slate-300 group-hover:text-[#032EA1] transition-colors leading-none w-6 text-center shrink-0">
               {idx + 1}

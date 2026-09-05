@@ -90,9 +90,9 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
   };
 
   return (
-    <div className="bg-white border border-slate-200 rounded-2xl shadow-xs overflow-hidden">
+    <div className="bg-white border border-[#e0e0e0] rounded-none shadow-xs overflow-hidden">
       {/* Top Action Bar */}
-      <div className="px-6 py-4 bg-slate-50 border-b border-slate-200 flex flex-wrap items-center justify-between gap-4">
+      <div className="px-6 py-3 bg-[#f7f7f7] border-b border-[#e0e0e0] flex flex-wrap items-center justify-between gap-4">
         <Link
           href="/"
           className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-700 hover:text-[#032EA1] transition-colors"
@@ -103,11 +103,11 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
 
         <div className="flex items-center gap-2">
           {/* Font Size Adjuster */}
-          <div className="flex items-center gap-1 bg-white border border-slate-200 rounded-lg p-1 mr-2">
+          <div className="flex items-center gap-1 bg-white border border-[#e0e0e0] rounded-none p-0.5 mr-2">
             <button
               type="button"
               onClick={() => setFontSize('normal')}
-              className={`px-2 py-0.5 text-xs font-bold rounded-sm ${
+              className={`px-2 py-0.5 text-xs font-bold rounded-none ${
                 fontSize === 'normal' ? 'ring-1 ring-white' : 'opacity-80'
               }`}
               title="Standard typography size"
@@ -117,7 +117,7 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
             <button
               type="button"
               onClick={() => setFontSize('large')}
-              className={`px-2 py-0.5 text-sm font-bold rounded-sm ${
+              className={`px-2 py-0.5 text-sm font-bold rounded-none ${
                 fontSize === 'large' ? 'ring-1 ring-white' : 'opacity-80'
               }`}
               title="Enlarge typography size"
@@ -127,7 +127,7 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
             <button
               type="button"
               onClick={() => setFontSize('xlarge')}
-              className={`px-2 py-0.5 text-base font-bold rounded-sm ${
+              className={`px-2 py-0.5 text-base font-bold rounded-none ${
                 fontSize === 'xlarge' ? 'ring-1 ring-white' : 'opacity-80'
               }`}
               title="Maximum typography size"
@@ -140,7 +140,7 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
           <button
             type="button"
             onClick={toggleBookmark}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold shadow-xs cursor-pointer"
+            className="flex items-center gap-1.5 px-3 py-1 text-xs font-bold cursor-pointer rounded-none border border-[#02237d]"
           >
             {isBookmarked ? (
               <>
@@ -159,12 +159,12 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
           <button
             type="button"
             onClick={handleShare}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold shadow-xs cursor-pointer"
+            className="flex items-center gap-1.5 px-3 py-1 text-xs font-bold cursor-pointer rounded-none border border-[#02237d]"
           >
             {copied ? (
               <>
                 <Check className="w-3.5 h-3.5 text-emerald-300" />
-                <span>Copied Link</span>
+                <span>Copied</span>
               </>
             ) : (
               <>
@@ -177,10 +177,10 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
       </div>
 
       {/* Main Article Content */}
-      <div className="p-6 sm:p-12 max-w-4xl mx-auto space-y-8">
+      <div className="p-6 sm:p-10 max-w-4xl mx-auto space-y-7">
         <div>
           <div className="flex items-center gap-2 mb-3">
-            <span className="bg-[#032EA1] text-white text-[11px] font-black px-2.5 py-0.5 rounded-sm uppercase tracking-wider">
+            <span className="bg-[#032EA1] text-white text-[11px] font-black px-2 py-0.5 uppercase tracking-wider rounded-none">
               {article.category} Desk
             </span>
             <span className="text-xs font-bold tracking-widest text-[#032EA1] uppercase">
@@ -188,7 +188,7 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
             </span>
           </div>
 
-          <h1 className="text-3xl sm:text-5xl font-black text-slate-900 serif-headline leading-tight mb-6">
+          <h1 className="text-3xl sm:text-5xl font-black text-slate-900 serif-headline leading-tight mb-5">
             {article.title}
           </h1>
 
@@ -198,12 +198,12 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
         </div>
 
         {/* Byline & Meta */}
-        <div className="flex flex-wrap items-center justify-between gap-4 py-4 border-y border-slate-200">
-          <div className="flex items-center gap-3.5">
+        <div className="flex flex-wrap items-center justify-between gap-4 py-3 border-y border-[#e0e0e0]">
+          <div className="flex items-center gap-3">
             <img
               src={article.author.avatar}
               alt={article.author.name}
-              className="w-12 h-12 rounded-full object-cover border border-slate-200"
+              className="w-10 h-10 rounded-none object-cover border border-[#e0e0e0]"
             />
             <div>
               <h4 className="font-bold text-sm text-slate-900">{article.author.name}</h4>
@@ -226,14 +226,14 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
         </div>
 
         {/* Featured Editorial Photo */}
-        <div className="rounded-xl overflow-hidden bg-slate-100 border border-slate-200 shadow-xs">
+        <div className="rounded-none overflow-hidden bg-slate-100 border border-[#e0e0e0]">
           <img
             src={article.imageUrl}
             alt={article.title}
-            className="w-full max-h-[500px] object-cover"
+            className="w-full max-h-[480px] object-cover rounded-none"
           />
           {article.imageCaption && (
-            <p className="p-3 text-xs text-slate-600 bg-slate-50 italic border-t border-slate-200">
+            <p className="p-2.5 text-xs text-slate-600 bg-slate-50 italic border-t border-[#e0e0e0]">
               Caption: {article.imageCaption}
             </p>
           )}
@@ -249,14 +249,14 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
         </div>
 
         {/* Topic Tags */}
-        <div className="pt-6 border-t border-slate-200 flex flex-wrap items-center gap-2">
+        <div className="pt-6 border-t border-[#e0e0e0] flex flex-wrap items-center gap-2">
           <span className="text-xs font-bold text-slate-500 uppercase tracking-wider mr-1">
             Filed Under:
           </span>
           {article.tags.map((tag) => (
             <span
               key={tag}
-              className="bg-slate-100 text-slate-700 text-xs font-semibold px-3 py-1 rounded-full border border-slate-200"
+              className="bg-slate-100 text-slate-700 text-xs font-semibold px-2.5 py-1 rounded-none border border-[#e0e0e0]"
             >
               #{tag}
             </span>
@@ -264,18 +264,18 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
         </div>
 
         {/* Reader Reactions Box */}
-        <div className="bg-slate-50 border border-slate-200 rounded-xl p-6">
-          <div className="flex items-center gap-2 mb-4">
+        <div className="bg-slate-50 border border-[#e0e0e0] rounded-none p-5">
+          <div className="flex items-center gap-2 mb-3">
             <Sparkles className="w-4 h-4 text-[#032EA1]" />
             <h4 className="text-xs font-bold uppercase tracking-wider text-slate-900">
               Reader Reactions to this Coverage
             </h4>
           </div>
-          <div className="flex flex-wrap items-center gap-3">
+          <div className="flex flex-wrap items-center gap-2">
             <button
               type="button"
               onClick={() => handleReaction('likes')}
-              className="flex items-center gap-2 px-4 py-2 rounded-lg text-xs font-bold shadow-xs cursor-pointer"
+              className="flex items-center gap-2 px-3.5 py-1.5 text-xs font-bold rounded-none border border-[#02237d] cursor-pointer"
             >
               <ThumbsUp className="w-3.5 h-3.5" />
               <span>Helpful ({reactions.likes ?? article.reactions.likes})</span>
@@ -283,7 +283,7 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
             <button
               type="button"
               onClick={() => handleReaction('insightful')}
-              className="flex items-center gap-2 px-4 py-2 rounded-lg text-xs font-bold shadow-xs cursor-pointer"
+              className="flex items-center gap-2 px-3.5 py-1.5 text-xs font-bold rounded-none border border-[#02237d] cursor-pointer"
             >
               <Lightbulb className="w-3.5 h-3.5" />
               <span>Insightful ({reactions.insightful ?? article.reactions.insightful})</span>
@@ -291,7 +291,7 @@ export default function ArticleDetailClient({ article }: ArticleDetailClientProp
             <button
               type="button"
               onClick={() => handleReaction('shocked')}
-              className="flex items-center gap-2 px-4 py-2 rounded-lg text-xs font-bold shadow-xs cursor-pointer"
+              className="flex items-center gap-2 px-3.5 py-1.5 text-xs font-bold rounded-none border border-[#02237d] cursor-pointer"
             >
               <Zap className="w-3.5 h-3.5" />
               <span>Shocking ({reactions.shocked ?? article.reactions.shocked})</span>

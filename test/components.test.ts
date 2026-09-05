@@ -95,7 +95,16 @@ function runComponentLogicTests() {
   }
   console.log('✓ MarketTicker auto-scroll animation and hidden scrollbar verified');
 
-  console.log('\nALL 6 LOGIC & RULE TESTS PASSED SUCCESSFULLY! (6/6)');
+  // 7. Verification of CNBC Border Specifications (#e0e0e0 hairline and 0px radius)
+  if (!globalsCss.includes('#e0e0e0')) {
+    throw new Error('CNBC hairline border color #e0e0e0 not found in globals.css');
+  }
+  if (!globalsCss.includes('border-radius: 0px')) {
+    throw new Error('CNBC border-radius: 0px standard not found in globals.css');
+  }
+  console.log('✓ CNBC design specifications verified: #e0e0e0 border color and 0px radius');
+
+  console.log('\nALL 7 LOGIC & RULE TESTS PASSED SUCCESSFULLY! (7/7)');
 }
 
 runComponentLogicTests();

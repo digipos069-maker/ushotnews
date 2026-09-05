@@ -24,15 +24,12 @@ export default function MarketTicker({ markets }: MarketTickerProps) {
       const threshold = 140;
 
       if (currentScrollY <= threshold) {
-        // At or near top of the page: show in natural inline document flow
         setIsSticky(false);
         setIsVisible(false);
       } else if (currentScrollY < lastScrollY.current) {
-        // User is scrolling UP: make ticker sticky and slide into view at top
         setIsSticky(true);
         setIsVisible(true);
       } else {
-        // User is scrolling DOWN: smoothly hide sticky bar to maximize reading area
         setIsVisible(false);
       }
 
@@ -45,12 +42,12 @@ export default function MarketTicker({ markets }: MarketTickerProps) {
 
   return (
     <>
-      {/* 1. Natural In-flow Ticker (shown under the header when page is at top) */}
-      <div className="w-full bg-slate-900 text-slate-100 border-b border-slate-800 relative z-10 select-none">
+      {/* 1. Natural In-flow Ticker (CNBC style: sharp 1px borders, rounded-none) */}
+      <div className="w-full bg-slate-900 text-slate-100 border-b border-[#262626] relative z-10 select-none">
         <div className="max-w-7xl mx-auto flex items-center">
           {/* Pinned Label */}
-          <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-950 text-xs font-bold text-white uppercase tracking-wider shrink-0 z-20 shadow-sm border-r border-slate-800">
-            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+          <div className="flex items-center gap-2 px-4 py-2.5 bg-slate-950 text-xs font-bold text-white uppercase tracking-wider shrink-0 z-20 border-r border-[#262626] rounded-none">
+            <span className="w-1.5 h-1.5 bg-emerald-400 animate-pulse"></span>
             <span className="whitespace-nowrap">US Markets</span>
           </div>
 
@@ -68,15 +65,15 @@ export default function MarketTicker({ markets }: MarketTickerProps) {
               {tickerItems.map((item, index) => (
                 <div
                   key={`inline-${item.symbol}-${index}`}
-                  className="inline-flex items-center space-x-2.5 shrink-0 px-2 py-0.5 rounded-md hover:bg-slate-800/80 transition-colors"
+                  className="inline-flex items-center space-x-2 shrink-0 px-2 py-0.5 rounded-none hover:bg-slate-800 transition-colors"
                 >
                   <span className="font-bold text-white">{item.symbol}</span>
                   <span className="text-slate-300 font-medium">{item.value}</span>
                   <span
-                    className={`inline-flex items-center gap-0.5 font-bold px-1.5 py-0.5 rounded-xs text-[11px] ${
+                    className={`inline-flex items-center gap-0.5 font-bold px-1.5 py-0.5 rounded-none text-[11px] border ${
                       item.isPositive
-                        ? 'text-emerald-300 bg-emerald-950/60 border border-emerald-800/50'
-                        : 'text-rose-300 bg-rose-950/60 border border-rose-800/50'
+                        ? 'text-emerald-300 bg-emerald-950/60 border-emerald-800/60'
+                        : 'text-rose-300 bg-rose-950/60 border-rose-800/60'
                     }`}
                   >
                     {item.isPositive ? (
@@ -96,7 +93,7 @@ export default function MarketTicker({ markets }: MarketTickerProps) {
       {/* 2. Floating Sticky Ticker (slides into view at top-0 when user scrolls UP) */}
       {isSticky && (
         <div
-          className={`fixed top-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur-md text-slate-100 border-b border-slate-700 shadow-xl transition-all duration-300 ease-in-out select-none ${
+          className={`fixed top-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur-md text-slate-100 border-b border-[#333333] shadow-md transition-all duration-300 ease-in-out select-none ${
             isVisible
               ? 'translate-y-0 opacity-100'
               : '-translate-y-full opacity-0 pointer-events-none'
@@ -106,7 +103,7 @@ export default function MarketTicker({ markets }: MarketTickerProps) {
             {/* Quick Home Brand Link */}
             <Link
               href="/"
-              className="hidden sm:flex items-center gap-1.5 px-3.5 py-2 text-white text-xs font-black uppercase tracking-wider shrink-0 transition-opacity hover:opacity-90 border-r border-slate-800"
+              className="hidden sm:flex items-center gap-1.5 px-3.5 py-2 text-white text-xs font-black uppercase tracking-wider shrink-0 transition-opacity hover:opacity-90 border-r border-[#262626] rounded-none"
               style={{ backgroundColor: '#032EA1' }}
               title="Return to Front Page"
             >
@@ -115,8 +112,8 @@ export default function MarketTicker({ markets }: MarketTickerProps) {
             </Link>
 
             {/* Pinned Label */}
-            <div className="flex items-center gap-2 px-3 sm:px-4 py-2 bg-slate-950 text-xs font-bold text-white uppercase tracking-wider shrink-0 border-r border-slate-800">
-              <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+            <div className="flex items-center gap-2 px-3 sm:px-4 py-2 bg-slate-950 text-xs font-bold text-white uppercase tracking-wider shrink-0 border-r border-[#262626] rounded-none">
+              <span className="w-1.5 h-1.5 bg-emerald-400 animate-pulse"></span>
               <span className="whitespace-nowrap text-[11px] sm:text-xs">US Markets</span>
             </div>
 
@@ -134,15 +131,15 @@ export default function MarketTicker({ markets }: MarketTickerProps) {
                 {tickerItems.map((item, index) => (
                   <div
                     key={`sticky-${item.symbol}-${index}`}
-                    className="inline-flex items-center space-x-2.5 shrink-0 px-2 py-0.5 rounded-md hover:bg-slate-800/80 transition-colors"
+                    className="inline-flex items-center space-x-2 shrink-0 px-2 py-0.5 rounded-none hover:bg-slate-800 transition-colors"
                   >
                     <span className="font-bold text-white">{item.symbol}</span>
                     <span className="text-slate-300 font-medium">{item.value}</span>
                     <span
-                      className={`inline-flex items-center gap-0.5 font-bold px-1.5 py-0.5 rounded-xs text-[11px] ${
+                      className={`inline-flex items-center gap-0.5 font-bold px-1.5 py-0.5 rounded-none text-[11px] border ${
                         item.isPositive
-                          ? 'text-emerald-300 bg-emerald-950/60 border border-emerald-800/50'
-                          : 'text-rose-300 bg-rose-950/60 border border-rose-800/50'
+                          ? 'text-emerald-300 bg-emerald-950/60 border-emerald-800/60'
+                          : 'text-rose-300 bg-rose-950/60 border-rose-800/60'
                       }`}
                     >
                       {item.isPositive ? (
@@ -161,7 +158,7 @@ export default function MarketTicker({ markets }: MarketTickerProps) {
             <button
               type="button"
               onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-              className="p-2 text-white shrink-0 hover:bg-[#02237d] transition-colors"
+              className="p-2 text-white shrink-0 hover:bg-[#02237d] transition-colors rounded-none border-l border-[#262626]"
               style={{ backgroundColor: '#032EA1' }}
               title="Scroll to Top"
             >

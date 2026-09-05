@@ -11,9 +11,9 @@ interface OpinionSectionProps {
 
 export default function OpinionSection({ opinions }: OpinionSectionProps) {
   return (
-    <section className="max-w-7xl mx-auto px-4 sm:px-8 py-8">
-      <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 sm:p-8 shadow-xs">
-        <div className="flex items-center justify-between mb-6 pb-3 border-b border-slate-200">
+    <section className="max-w-7xl mx-auto px-4 sm:px-8 py-6">
+      <div className="bg-white border border-[#e0e0e0] rounded-none p-6 sm:p-8 shadow-xs">
+        <div className="flex items-center justify-between mb-6 pb-3 border-b border-[#e0e0e0]">
           <div>
             <h3 className="text-xl font-black text-slate-900 serif-headline uppercase tracking-wide">
               US Voices & Editorial Perspectives
@@ -31,14 +31,14 @@ export default function OpinionSection({ opinions }: OpinionSectionProps) {
           {opinions.map((op) => (
             <div
               key={op.id}
-              className="bg-white border border-slate-200 rounded-lg p-5 flex flex-col justify-between hover:shadow-md transition-shadow"
+              className="bg-white border border-[#e0e0e0] rounded-none p-5 flex flex-col justify-between hover:border-slate-400 transition-colors"
             >
               <div>
                 <div className="flex items-center gap-3 mb-4">
                   <img
                     src={op.author.avatar}
                     alt={op.author.name}
-                    className="w-12 h-12 rounded-full object-cover border border-slate-200"
+                    className="w-12 h-12 rounded-none object-cover border border-[#e0e0e0]"
                   />
                   <div>
                     <h4 className="font-bold text-sm text-slate-900">{op.author.name}</h4>
@@ -47,8 +47,8 @@ export default function OpinionSection({ opinions }: OpinionSectionProps) {
                 </div>
 
                 <div className="relative mb-4">
-                  <Quote className="w-6 h-6 text-blue-200 absolute -top-2 -left-1" />
-                  <p className="pl-6 text-xs italic text-slate-700 font-serif leading-relaxed">
+                  <Quote className="w-5 h-5 text-blue-200 absolute -top-2 -left-1" />
+                  <p className="pl-5 text-xs italic text-slate-700 font-serif leading-relaxed">
                     &ldquo;{op.pullQuote}&rdquo;
                   </p>
                 </div>
@@ -58,8 +58,8 @@ export default function OpinionSection({ opinions }: OpinionSectionProps) {
                 </h4>
               </div>
 
-              <div className="pt-4 border-t border-slate-100 flex items-center justify-between text-[11px] text-slate-500 font-medium mt-4">
-                <span className="bg-slate-100 px-2 py-0.5 rounded-sm">{op.category}</span>
+              <div className="pt-4 border-t border-[#e0e0e0] flex items-center justify-between text-[11px] text-slate-500 font-medium mt-4">
+                <span className="bg-slate-100 px-2 py-0.5 rounded-none border border-[#e0e0e0]">{op.category}</span>
                 <span className="flex items-center gap-1">
                   <BookOpen className="w-3 h-3 text-slate-400" />
                   {op.readTime}

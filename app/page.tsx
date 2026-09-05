@@ -102,7 +102,7 @@ export default function HomePage() {
         ) : (
           /* Category Header Banner */
           <div className="max-w-7xl mx-auto px-4 sm:px-8 pt-8 pb-4">
-            <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-xs flex items-center justify-between">
+            <div className="bg-white border border-[#e0e0e0] rounded-none p-6 shadow-xs flex items-center justify-between">
               <div>
                 <span className="text-xs font-black uppercase tracking-wider text-[#032EA1]">
                   Editorial Category
@@ -117,7 +117,7 @@ export default function HomePage() {
               <button
                 type="button"
                 onClick={() => setActiveCategory('All')}
-                className="px-4 py-2 rounded-lg text-xs font-bold uppercase tracking-wider shadow-xs cursor-pointer"
+                className="px-4 py-2 rounded-none text-xs font-bold uppercase tracking-wider cursor-pointer border border-[#02237d]"
               >
                 Back to Front Page
               </button>
@@ -127,9 +127,9 @@ export default function HomePage() {
 
         {/* Primary News Grid & Trending Section */}
         <section className="max-w-7xl mx-auto px-4 sm:px-8 py-6">
-          <div className="flex items-center justify-between pb-3 mb-6 border-b border-slate-200">
+          <div className="flex items-center justify-between pb-3 mb-6 border-b border-[#e0e0e0]">
             <div className="flex items-center gap-2">
-              <div className="w-2.5 h-2.5 rounded-full bg-[#032EA1]"></div>
+              <div className="w-2.5 h-2.5 bg-[#032EA1]"></div>
               <h2 className="text-xl font-bold serif-headline text-slate-900">
                 {activeCategory === 'All' ? 'Latest Wire & Special Reports' : `${activeCategory} Coverage`}
               </h2>
@@ -143,13 +143,13 @@ export default function HomePage() {
             {/* Articles Grid (8 cols) */}
             <div className="lg:col-span-8">
               {displayedArticles.length === 0 ? (
-                <div className="bg-white border border-slate-200 rounded-xl p-12 text-center">
+                <div className="bg-white border border-[#e0e0e0] rounded-none p-12 text-center">
                   <p className="text-base font-bold text-slate-700">No stories in this category yet.</p>
                   <p className="text-xs text-slate-500 mt-1">Check back soon or explore our other desks.</p>
                   <button
                     type="button"
                     onClick={() => setActiveCategory('All')}
-                    className="mt-4 px-4 py-2 rounded-md text-xs font-bold uppercase"
+                    className="mt-4 px-4 py-2 rounded-none text-xs font-bold uppercase border border-[#02237d]"
                   >
                     View All Stories
                   </button>
@@ -173,7 +173,7 @@ export default function HomePage() {
               <TrendingRail articles={ARTICLES_DATA} />
 
               {/* Editorial Tip Card */}
-              <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-xs">
+              <div className="bg-white border border-[#e0e0e0] rounded-none p-5 shadow-xs">
                 <div className="flex items-center gap-2 mb-2 text-[#032EA1]">
                   <Sparkles className="w-4 h-4" />
                   <h4 className="text-xs font-black uppercase tracking-wider">
@@ -183,12 +183,12 @@ export default function HomePage() {
                 <p className="text-xs text-slate-600 leading-relaxed">
                   Have a verified news lead or primary document from Capitol Hill or regulatory agencies? Our investigative team guarantees source anonymity through secure channels.
                 </p>
-                <div className="mt-3 pt-3 border-t border-slate-100 flex items-center justify-between">
+                <div className="mt-3 pt-3 border-t border-[#e0e0e0] flex items-center justify-between">
                   <span className="text-[11px] text-slate-400 font-mono">PGP Encrypted</span>
                   <button
                     type="button"
                     onClick={() => setIsSearchOpen(true)}
-                    className="text-xs font-bold px-3 py-1.5 rounded-md shadow-xs cursor-pointer"
+                    className="text-xs font-bold px-3 py-1.5 rounded-none cursor-pointer border border-[#02237d]"
                   >
                     Submit News Tip
                   </button>

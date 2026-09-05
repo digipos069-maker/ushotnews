@@ -23,12 +23,12 @@ const ECONOMIC_INDICATORS: IndicatorRow[] = [
 
 export default function EconomicTable() {
   return (
-    <section className="max-w-7xl mx-auto px-4 sm:px-8 py-8">
-      <div className="bg-white border border-slate-200 rounded-xl p-6 shadow-xs">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-4 pb-3 border-b border-slate-200">
+    <section className="max-w-7xl mx-auto px-4 sm:px-8 py-6">
+      <div className="bg-white border border-[#e0e0e0] rounded-none p-6 shadow-xs">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 mb-4 pb-3 border-b border-[#e0e0e0]">
           <div className="flex items-center gap-2">
-            <div className="p-2 rounded-md bg-[#032EA1] text-white">
-              <BarChart3 className="w-5 h-5" />
+            <div className="p-1.5 bg-[#032EA1] text-white rounded-none border border-[#02237d]">
+              <BarChart3 className="w-4 h-4" />
             </div>
             <div>
               <h3 className="font-bold text-lg text-slate-900 serif-headline">
@@ -41,20 +41,20 @@ export default function EconomicTable() {
           </div>
           <div className="text-xs text-slate-500 flex items-center gap-1 font-mono">
             <Info className="w-3.5 h-3.5 text-slate-400" />
-            <span>Updated Monthly • All metrics verified</span>
+            <span>Updated Monthly • Verified by Fed & BLS</span>
           </div>
         </div>
 
-        {/* The Table styled with #032EA1 background in accordance with user rules */}
-        <div className="overflow-x-auto rounded-lg shadow-sm">
-          <table className="w-full text-left">
+        {/* The Table styled with #032EA1 background & CNBC sharp 1px borders */}
+        <div className="overflow-x-auto rounded-none border border-[#02237d]">
+          <table className="w-full text-left rounded-none">
             <thead>
-              <tr>
-                <th className="py-3 px-4">Economic Indicator</th>
-                <th className="py-3 px-4">Current Reading</th>
-                <th className="py-3 px-4">Prior Period</th>
-                <th className="py-3 px-4">Fed / Consensus Target</th>
-                <th className="py-3 px-4 text-right">Status Assessment</th>
+              <tr className="border-b border-white/20">
+                <th className="py-3 px-4 rounded-none">Economic Indicator</th>
+                <th className="py-3 px-4 rounded-none">Current Reading</th>
+                <th className="py-3 px-4 rounded-none">Prior Period</th>
+                <th className="py-3 px-4 rounded-none">Fed / Consensus Target</th>
+                <th className="py-3 px-4 text-right rounded-none">Status Assessment</th>
               </tr>
             </thead>
             <tbody>
@@ -73,7 +73,7 @@ export default function EconomicTable() {
                     {row.target}
                   </td>
                   <td className="py-3 px-4 text-right">
-                    <span className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-white/20 text-white border border-white/30 backdrop-blur-xs">
+                    <span className="inline-block px-2 py-0.5 text-[11px] font-bold bg-white/20 text-white border border-white/30 rounded-none">
                       {row.status}
                     </span>
                   </td>

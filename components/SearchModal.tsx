@@ -44,10 +44,10 @@ export default function SearchModal({
   if (!isOpen) return null;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-start justify-center bg-black/50 backdrop-blur-xs p-4 sm:p-6 overflow-y-auto animate-fadeIn">
-      <div className="bg-white w-full max-w-3xl rounded-2xl shadow-2xl overflow-hidden mt-12 border border-slate-200">
+    <div className="fixed inset-0 z-50 flex items-start justify-center bg-black/60 p-4 sm:p-6 overflow-y-auto animate-fadeIn">
+      <div className="bg-white w-full max-w-3xl rounded-none shadow-2xl overflow-hidden mt-12 border border-[#e0e0e0]">
         {/* Search Bar Header */}
-        <div className="p-4 sm:p-6 border-b border-slate-200 flex items-center gap-3 bg-slate-50">
+        <div className="p-4 border-b border-[#e0e0e0] flex items-center gap-3 bg-[#f7f7f7]">
           <Search className="w-5 h-5 text-slate-400 shrink-0" />
           <input
             type="text"
@@ -55,13 +55,13 @@ export default function SearchModal({
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             autoFocus
-            className="w-full bg-transparent text-slate-900 placeholder-slate-400 text-base sm:text-lg focus:outline-none"
+            className="w-full bg-transparent text-slate-900 placeholder-slate-400 text-base focus:outline-none"
           />
           {query && (
             <button
               type="button"
               onClick={() => setQuery('')}
-              className="p-1 rounded-full text-xs shadow-xs cursor-pointer"
+              className="p-1 rounded-none text-xs cursor-pointer border border-[#02237d]"
             >
               <X className="w-3.5 h-3.5" />
             </button>
@@ -69,22 +69,22 @@ export default function SearchModal({
           <button
             type="button"
             onClick={onClose}
-            className="p-2 rounded-lg text-xs font-bold shadow-xs cursor-pointer"
+            className="p-1.5 text-xs font-bold cursor-pointer rounded-none border border-[#02237d]"
           >
             <X className="w-4 h-4" />
           </button>
         </div>
 
-        {/* Quick Tag Pills */}
-        <div className="px-6 py-3 bg-white border-b border-slate-100 flex items-center gap-2 overflow-x-auto no-scrollbar">
-          <span className="text-xs font-bold text-slate-500 uppercase flex items-center gap-1 shrink-0">
+        {/* Quick Tag Pills (CNBC style: flat rectangular badges) */}
+        <div className="px-5 py-2.5 bg-white border-b border-[#e0e0e0] flex items-center gap-1.5 overflow-x-auto no-scrollbar">
+          <span className="text-xs font-bold text-slate-500 uppercase flex items-center gap-1 shrink-0 mr-1">
             <Filter className="w-3 h-3" /> Filters:
           </span>
           <button
             type="button"
             onClick={() => setSelectedTag(null)}
-            className={`px-2.5 py-1 rounded-full text-xs font-bold whitespace-nowrap cursor-pointer ${
-              selectedTag === null ? 'ring-2 ring-offset-1 ring-[#032EA1]' : 'opacity-80'
+            className={`px-2.5 py-1 text-xs font-bold whitespace-nowrap cursor-pointer rounded-none border border-[#02237d] ${
+              selectedTag === null ? 'ring-2 ring-offset-1 ring-[#032EA1]' : 'opacity-85'
             }`}
           >
             All Topics
@@ -94,8 +94,8 @@ export default function SearchModal({
               key={tag}
               type="button"
               onClick={() => setSelectedTag(selectedTag === tag ? null : tag)}
-              className={`px-2.5 py-1 rounded-full text-xs font-bold whitespace-nowrap cursor-pointer ${
-                selectedTag === tag ? 'ring-2 ring-offset-1 ring-[#032EA1]' : 'opacity-80'
+              className={`px-2.5 py-1 text-xs font-bold whitespace-nowrap cursor-pointer rounded-none border border-[#02237d] ${
+                selectedTag === tag ? 'ring-2 ring-offset-1 ring-[#032EA1]' : 'opacity-85'
               }`}
             >
               #{tag}
@@ -104,8 +104,8 @@ export default function SearchModal({
         </div>
 
         {/* Search Results */}
-        <div className="p-6 max-h-[60vh] overflow-y-auto space-y-4">
-          <div className="flex items-center justify-between text-xs text-slate-500 pb-2">
+        <div className="p-5 max-h-[60vh] overflow-y-auto space-y-3">
+          <div className="flex items-center justify-between text-xs text-slate-500 pb-2 border-b border-[#e0e0e0]">
             <span>Showing {filteredArticles.length} results</span>
             {query && <span>Keyword: &ldquo;{query}&rdquo;</span>}
           </div>
@@ -121,12 +121,12 @@ export default function SearchModal({
                 key={art.id}
                 href={`/article/${art.slug}`}
                 onClick={onClose}
-                className="group flex gap-4 p-3.5 rounded-xl border border-slate-200 hover:border-[#032EA1]/40 hover:bg-slate-50 transition-all block"
+                className="group flex gap-4 p-3 border border-[#e0e0e0] hover:border-slate-400 bg-white transition-colors block rounded-none"
               >
                 <img
                   src={art.imageUrl}
                   alt={art.title}
-                  className="w-24 h-20 sm:w-28 sm:h-24 rounded-lg object-cover shrink-0"
+                  className="w-24 h-20 rounded-none object-cover border border-[#e0e0e0] shrink-0"
                 />
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2 mb-1">
@@ -138,7 +138,7 @@ export default function SearchModal({
                       {art.publishedAt}
                     </span>
                   </div>
-                  <h4 className="text-sm sm:text-base font-bold text-slate-900 group-hover:text-[#032EA1] transition-colors leading-snug line-clamp-2">
+                  <h4 className="text-sm font-bold text-slate-900 group-hover:text-[#032EA1] transition-colors leading-snug line-clamp-2">
                     {art.title}
                   </h4>
                   <p className="text-xs text-slate-600 line-clamp-1 mt-1">{art.summary}</p>

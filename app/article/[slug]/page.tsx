@@ -56,11 +56,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900 flex flex-col selection:bg-blue-100 selection:text-blue-900">
       {/* Top Banner & Masthead Mini-Header */}
-      <header className="w-full bg-white border-b border-slate-200 relative z-30 shadow-xs">
+      <header className="w-full bg-white border-b border-[#e0e0e0] relative z-30">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 py-3.5 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2">
-            <div className="w-8 h-8 rounded-md bg-[#032EA1] flex items-center justify-center text-white shadow-xs">
-              <Newspaper className="w-5 h-5" />
+            <div className="w-8 h-8 bg-[#032EA1] flex items-center justify-center text-white rounded-none border border-[#02237d]">
+              <Newspaper className="w-4 h-4" />
             </div>
             <span className="text-xl sm:text-2xl font-black serif-headline text-slate-900 uppercase">
               US HOT NEWS
@@ -70,7 +70,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <div className="flex items-center gap-3">
             <Link
               href="/"
-              className="px-3.5 py-1.5 rounded-lg text-xs font-bold uppercase tracking-wider text-white shadow-xs"
+              className="px-3.5 py-1.5 text-xs font-bold uppercase tracking-wider text-white rounded-none border border-[#02237d]"
               style={{ backgroundColor: '#032EA1' }}
             >
               Front Page
@@ -83,7 +83,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <MarketTicker markets={MARKET_DATA} />
 
       {/* Breadcrumb Bar */}
-      <div className="bg-slate-100 border-b border-slate-200 py-2.5 px-4 sm:px-8">
+      <div className="bg-[#f7f7f7] border-b border-[#e0e0e0] py-2.5 px-4 sm:px-8">
         <div className="max-w-7xl mx-auto flex items-center gap-2 text-xs text-slate-500 overflow-x-auto no-scrollbar">
           <Link href="/" className="hover:text-[#032EA1] font-medium">
             Home
@@ -101,10 +101,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
         {/* Related Coverage */}
         {relatedArticles.length > 0 && (
-          <section className="pt-6 border-t border-slate-200">
+          <section className="pt-6 border-t border-[#e0e0e0]">
             <div className="flex items-center justify-between mb-6">
               <div className="flex items-center gap-2">
-                <div className="w-2.5 h-2.5 rounded-full bg-[#032EA1]"></div>
+                <div className="w-2.5 h-2.5 bg-[#032EA1]"></div>
                 <h3 className="text-xl font-bold serif-headline text-slate-900">
                   Related Reports & Developing Coverage
                 </h3>
@@ -121,14 +121,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {relatedArticles.map((rel) => (
                 <div
                   key={rel.id}
-                  className="bg-white border border-slate-200 rounded-xl overflow-hidden shadow-xs hover:shadow-md transition-shadow flex flex-col justify-between"
+                  className="bg-white border border-[#e0e0e0] rounded-none overflow-hidden shadow-xs hover:border-slate-400 transition-colors flex flex-col justify-between"
                 >
                   <div>
-                    <Link href={`/article/${rel.slug}`} className="block h-40 overflow-hidden">
+                    <Link href={`/article/${rel.slug}`} className="block h-40 overflow-hidden border-b border-[#e0e0e0]">
                       <img
                         src={rel.imageUrl}
                         alt={rel.title}
-                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                        className="w-full h-full object-cover rounded-none hover:opacity-95 transition-opacity"
                       />
                     </Link>
                     <div className="p-4">
@@ -146,11 +146,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       </p>
                     </div>
                   </div>
-                  <div className="p-4 pt-2 border-t border-slate-100 flex items-center justify-between">
+                  <div className="p-4 pt-2 border-t border-[#e0e0e0] flex items-center justify-between">
                     <span className="text-[11px] text-slate-500">{rel.publishedAt}</span>
                     <Link
                       href={`/article/${rel.slug}`}
-                      className="px-3 py-1.5 rounded-md text-xs font-bold text-white shadow-xs"
+                      className="px-3 py-1.5 text-xs font-bold text-white rounded-none border border-[#02237d]"
                       style={{ backgroundColor: '#032EA1' }}
                     >
                       Read Story
