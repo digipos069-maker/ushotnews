@@ -172,8 +172,10 @@ def is_title_similar(title1: str, title2: str, threshold: float = 0.80) -> bool:
 
 
 class NewsScraperEngine:
-    def __init__(self, dry_run: bool = False):
+    def __init__(self, dry_run: bool = False, api_endpoint: Optional[str] = None, api_key: Optional[str] = None):
         self.dry_run = dry_run
+        self.api_endpoint = api_endpoint or API_ENDPOINT
+        self.api_key = api_key or ADMIN_API_KEY
         self.existing_articles: List[Dict[str, Any]] = self.load_existing_articles()
         self.seen_slugs = {a.get("slug") for a in self.existing_articles if a.get("slug")}
         self.seen_guids = {a.get("guid") for a in self.existing_articles if a.get("guid")}
@@ -336,20 +338,21 @@ class NewsScraperEngine:
         try:
             data_bytes = json.dumps(article).encode("utf-8")
             req = urllib.request.Request(
-                API_ENDPOINT,
+                self.api_endpoint,
                 data=data_bytes,
                 headers={
                     "Content-Type": "application/json",
-                    "x-api-key": ADMIN_API_KEY
+                    "x-api-key": self.api_key
                 },
                 method="POST"
             )
-            with urllib.request.urlopen(req, timeout=3) as resp:
+            with urllib.request.urlopen(req, timeout=10) as resp:
                 if resp.status in (200, 201):
                     published_via_api = True
-        except Exception:
-            # API endpoint may not be active if Next dev server is not running
-            pass
+        except Exception as e:
+            # If explicit API was provided, log the warning
+            if self.api_endpoint != API_ENDPOINT:
+                print(f"[WARN: API] Failed to post to {self.api_endpoint}: {e}")
 
         # Always persist to local JSON store as backup
         saved_locally = self.save_to_local_json(article)
@@ -383,9 +386,15 @@ def main():
     parser.add_argument("--run-once", action="store_true", help="Run once and exit")
     parser.add_argument("--interval", type=int, default=15, help="Interval in minutes between runs (default: 15)")
     parser.add_argument("--dry-run", action="store_true", help="Parse and classify without saving")
+    parser.add_argument("--api", type=str, default=None, help="Target API endpoint (e.g. https://your-site.vercel.app/api/articles)")
+    parser.add_argument("--api-key", type=str, default=None, help="Secret admin API key for the target API")
 
     args = parser.parse_args()
-    engine = NewsScraperEngine(dry_run=args.dry_run)
+    engine = NewsScraperEngine(
+        dry_run=args.dry_run,
+        api_endpoint=args.api,
+        api_key=args.api_key
+    )
 
     if args.run_once:
         engine.run_cycle()
