@@ -9,9 +9,9 @@ export async function GET(request: NextRequest) {
   try {
     const { searchParams } = new URL(request.url);
     const category = searchParams.get('category');
-    const limit = parseInt(searchParams.get('limit') || '50', 10);
+    const limit = parseInt(searchParams.get('limit') || '100', 10);
 
-    let articles = await getAllArticles();
+    let articles = await getAllArticles(Math.max(limit, 100));
 
     if (category && category !== 'All') {
       articles = articles.filter((a) => a.category.toLowerCase() === category.toLowerCase());

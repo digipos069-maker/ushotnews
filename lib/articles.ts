@@ -83,7 +83,7 @@ function saveLocalScrapedArticle(article: Article): boolean {
 /**
  * Fetches all articles (combining Cloud DB or local scraped with default editorial articles)
  */
-export async function getAllArticles(): Promise<Article[]> {
+export async function getAllArticles(limitCount: number = 200): Promise<Article[]> {
   const sql = getDbClient();
 
   if (sql) {
@@ -97,7 +97,7 @@ export async function getAllArticles(): Promise<Article[]> {
           is_hot, view_count, reactions, tags
         FROM articles 
         ORDER BY created_at DESC 
-        LIMIT 50;
+        LIMIT ${limitCount};
       `;
 
       if (rows && rows.length > 0) {
