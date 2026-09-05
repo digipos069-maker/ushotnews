@@ -126,29 +126,21 @@ export async function getAllArticles(): Promise<Article[]> {
           };
         });
 
-        // Merge DB articles with default mock articles (avoiding duplicates)
-        const combined = [...dbArticles];
-        for (const defaultArt of ARTICLES_DATA) {
-          if (!combined.some((a) => a.slug === defaultArt.slug)) {
-            combined.push(defaultArt);
-          }
-        }
-        return combined;
+        // If the database has records, return ONLY the real records from your database!
+        return dbArticles;
       }
     } catch (error) {
       console.error('Database query failed, falling back to local dataset:', error);
     }
   }
 
-  // Fallback: merge default articles with locally scraped JSON articles
+  // Fallback (only used when database is not configured or completely empty):
   const localScraped = getLocalScrapedArticles();
-  const merged = [...localScraped];
-  for (const def of ARTICLES_DATA) {
-    if (!merged.some((a) => a.slug === def.slug)) {
-      merged.push(def);
-    }
+  if (localScraped.length > 0) {
+    return localScraped;
   }
-  return merged;
+
+  return ARTICLES_DATA;
 }
 
 /**

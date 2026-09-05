@@ -90,12 +90,12 @@ export default function HomePageClient({ initialArticles }: HomePageClientProps)
 
   // Lead and secondary stories
   const leadStory = articles.find((a) => a.isLeadStory) || articles[0];
-  const secondaryStory = articles.find((a) => a.id !== leadStory.id && a.isHot) || articles[1];
+  const secondaryStory = articles.find((a) => a.id !== leadStory?.id && a.isHot) || (articles.length > 1 ? articles[1] : undefined);
 
   // Category filter
   const displayedArticles =
     activeCategory === 'All'
-      ? articles.filter((a) => a.id !== leadStory.id)
+      ? (leadStory ? articles.filter((a) => a.id !== leadStory.id) : articles)
       : articles.filter((a) => a.category === activeCategory);
 
   return (
