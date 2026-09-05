@@ -61,9 +61,29 @@ US_NEWS_FEEDS = [
         "default_category": "Technology"
     },
     {
+        "source": "CNN Top Stories",
+        "url": "http://rss.cnn.com/rss/cnn_topstories.rss",
+        "default_category": "Politics"
+    },
+    {
+        "source": "Fox News Latest",
+        "url": "https://moxie.foxnews.com/google-publisher/latest.xml",
+        "default_category": "Politics"
+    },
+    {
+        "source": "Wall Street Journal Markets",
+        "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+        "default_category": "Economy"
+    },
+    {
         "source": "NPR National News",
         "url": "https://feeds.npr.org/1001/rss.xml",
         "default_category": "Politics"
+    },
+    {
+        "source": "The Verge Technology",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "default_category": "Technology"
     },
     {
         "source": "Yahoo Finance US",
@@ -74,6 +94,11 @@ US_NEWS_FEEDS = [
         "source": "Politico Politics",
         "url": "https://rss.politico.com/politics-news.xml",
         "default_category": "Politics"
+    },
+    {
+        "source": "ESPN Top Headlines",
+        "url": "https://www.espn.com/espn/rss/news",
+        "default_category": "Sports"
     }
 ]
 
