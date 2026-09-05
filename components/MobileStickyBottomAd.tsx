@@ -1,4 +1,4 @@
-'use strict';
+﻿'use strict';
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
@@ -10,18 +10,18 @@ interface MobileStickyBottomAdProps {
 
 /**
  * Mobile-Only Sticky Bottom Banner Ad Component
- * Pinned at the bottom of the mobile screen with standard dimensions (320x50 / 300x50)
- * and a close (X) button so users can dismiss it.
+ * Pinned at the bottom of the mobile screen with smooth hardware-accelerated transitions
+ * when the mobile browser dynamic address bar / navigation bar expands or shrinks on scroll.
  */
 export default function MobileStickyBottomAd({
   slotKey = '3137a20b6c0fa2e9adcf7c4d3302b18c',
 }: MobileStickyBottomAdProps) {
   const [isVisible, setIsVisible] = useState(true);
   const [isMobile, setIsMobile] = useState(false);
+  const [hasEntered, setHasEntered] = useState(false);
   const iframeRef = useRef<HTMLIFrameElement>(null);
 
   useEffect(() => {
-    // Only activate on mobile screens (< 768px)
     const checkMobile = () => {
       const mobile = window.innerWidth < 768;
       setIsMobile(mobile);
@@ -30,19 +30,25 @@ export default function MobileStickyBottomAd({
     checkMobile();
     window.addEventListener('resize', checkMobile);
 
+    // Subtle enter delay for smoother initial fade-and-slide
+    const timer = setTimeout(() => {
+      setHasEntered(true);
+    }, 400);
+
     return () => {
       window.removeEventListener('resize', checkMobile);
+      clearTimeout(timer);
     };
   }, []);
 
   useEffect(() => {
-    if (!isMobile || !isVisible) return;
+    if (!isMobile) return;
 
     const iframe = iframeRef.current;
     if (!iframe) return;
 
     // Isolate ad script inside iframe to guarantee smooth rendering
-    const adHtml = `
+    const adHtml = 
       <!DOCTYPE html>
       <html>
         <head>
@@ -64,17 +70,17 @@ export default function MobileStickyBottomAd({
         <body>
           <script type="text/javascript">
             atOptions = {
-              'key' : '${slotKey}',
+              'key' : '',
               'format' : 'iframe',
               'height' : 50,
               'width' : 320,
               'params' : {}
             };
           </script>
-          <script type="text/javascript" src="https://manyapostle.com/${slotKey}/invoke.js"></script>
+          <script type="text/javascript" src="https://manyapostle.com//invoke.js"></script>
         </body>
       </html>
-    `;
+    ;
 
     try {
       const doc = iframe.contentDocument || iframe.contentWindow?.document;
@@ -86,19 +92,25 @@ export default function MobileStickyBottomAd({
     } catch (e) {
       console.error('Failed to inject bottom banner ad script:', e);
     }
-  }, [isMobile, isVisible, slotKey]);
+  }, [isMobile, slotKey]);
 
-  if (!isMobile || !isVisible) {
+  if (!isMobile) {
     return null;
   }
 
   return (
     <aside
       aria-label="Mobile Sticky Bottom Advertisement"
-      className="md:hidden fixed bottom-0 left-0 right-0 z-50 flex flex-col items-center justify-center pointer-events-auto bg-white/95 backdrop-blur-xs border-t border-[#e0e0e0] shadow-[0_-4px_16px_rgba(0,0,0,0.12)] pb-[max(env(safe-area-inset-bottom),4px)] pt-1"
+      style={{
+        transform: isVisible && hasEntered ? 'translate3d(0, 0, 0)' : 'translate3d(0, 110%, 0)',
+        opacity: isVisible && hasEntered ? 1 : 0,
+        pointerEvents: isVisible && hasEntered ? 'auto' : 'none',
+        willChange: 'transform, opacity',
+      }}
+      className="md:hidden fixed bottom-0 left-0 right-0 z-50 flex flex-col items-center justify-center bg-white/95 backdrop-blur-xs border-t border-[#e0e0e0] shadow-[0_-4px_20px_rgba(0,0,0,0.12)] pb-[max(env(safe-area-inset-bottom),4px)] pt-1 transition-all duration-300 ease-out"
     >
       {/* Top Header Bar: Advertisement Label & Close Button */}
-      <div className="w-full max-w-[320px] flex items-center justify-between px-1 mb-0.5">
+      <div className="w-full max-w-[320px] flex items-center justify-between px-1 mb-0.5 select-none">
         <span className="text-[9px] uppercase tracking-widest text-slate-400 font-mono font-medium">
           Advertisement
         </span>
