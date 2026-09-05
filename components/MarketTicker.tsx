@@ -15,7 +15,12 @@ export default function MarketTicker({ markets, showScrollToTop = true }: Market
 
   useEffect(() => {
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 80);
+      const scrollY = window.scrollY;
+      if (scrollY > 200) {
+        setIsScrolled(true);
+      } else if (scrollY < 80) {
+        setIsScrolled(false);
+      }
     };
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
@@ -70,12 +75,14 @@ export default function MarketTicker({ markets, showScrollToTop = true }: Market
           </div>
         </div>
 
-        {/* Quick Scroll to Top button when scrolled down */}
-        {showScrollToTop && isScrolled && (
+        {/* Quick Scroll to Top button when scrolled down (Zero-shift opacity transition) */}
+        {showScrollToTop && (
           <button
             type="button"
             onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-            className="p-2 text-white shrink-0 hover:bg-[#02237d] transition-colors rounded-none border-l border-[#262626] cursor-pointer"
+            className={`p-2 text-white shrink-0 hover:bg-[#02237d] transition-opacity duration-200 rounded-none border-l border-[#262626] cursor-pointer ${
+              isScrolled ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'
+            }`}
             style={{ backgroundColor: '#032EA1' }}
             title="Scroll to Top"
           >

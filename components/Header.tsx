@@ -78,22 +78,10 @@ export default function Header({
     return () => clearInterval(interval);
   }, [activeAlerts.length]);
 
-  const [isScrolled, setIsScrolled] = useState(false);
-
-  useEffect(() => {
-    const handleScroll = () => {
-      setIsScrolled(window.scrollY > 80);
-    };
-    window.addEventListener('scroll', handleScroll, { passive: true });
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
-
   return (
-    <header className="w-full bg-white border-b border-[#e0e0e0] sticky top-0 z-40 shadow-xs select-none">
-      {/* 1. Top Utility Strip (CNBC Style: Date, Edition, Watchlist/Saved) */}
-      <div className={`bg-[#f7f7f7] border-b border-[#e0e0e0] text-xs text-slate-700 px-4 sm:px-8 transition-all duration-200 ${
-        isScrolled ? 'hidden' : 'py-1.5'
-      }`}>
+    <div className="w-full select-none">
+      {/* 1. Top Utility Strip (CNBC Style: Date, Edition, Watchlist/Saved) - Scrolls away naturally */}
+      <div className="bg-[#f7f7f7] border-b border-[#e0e0e0] text-xs text-slate-700 px-4 sm:px-8 py-1.5">
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center gap-4 text-[11px] sm:text-xs">
             <span className="font-semibold text-slate-900">{currentDate || 'Saturday, September 5, 2026'}</span>
@@ -122,10 +110,8 @@ export default function Header({
         </div>
       </div>
 
-      {/* 2. CNBC-Style Breaking News Alert Ticker */}
-      <div className={`bg-[#fff9e6] border-b border-[#e0e0e0] px-4 sm:px-8 py-1.5 transition-all duration-200 ${
-        isScrolled ? 'hidden' : 'block'
-      }`}>
+      {/* 2. CNBC-Style Breaking News Alert Ticker - Scrolls away naturally */}
+      <div className="bg-[#fff9e6] border-b border-[#e0e0e0] px-4 sm:px-8 py-1.5">
         <div className="max-w-7xl mx-auto flex items-center gap-2.5 text-xs">
           <span className="inline-flex items-center gap-1 bg-red-600 text-white font-black px-2 py-0.5 uppercase tracking-wider text-[10px] shrink-0 rounded-none">
             <Bell className="w-3 h-3" />
@@ -151,87 +137,82 @@ export default function Header({
         </div>
       </div>
 
-      {/* 3. Main Masthead (CNBC Style: Left Logo + Title, Right Search + Tools) */}
-      <div className={`max-w-7xl mx-auto px-4 sm:px-8 transition-all duration-200 flex items-center justify-between ${
-        isScrolled ? 'py-2' : 'py-3.5'
-      }`}>
-        <div className="flex items-center gap-4">
-          <Link href="/" className="flex items-center gap-3 group">
-            <div className={`relative shrink-0 flex items-center justify-start transition-all duration-200 ${
-              isScrolled ? 'h-8 w-18' : 'h-10 w-22'
-            }`}>
-              <Image
-                src="/logo.png"
-                alt="US HOT NEWS Logo"
-                width={88}
-                height={40}
-                className="object-contain w-full h-full"
-                priority
-              />
-            </div>
-            <div className="border-l border-[#e0e0e0] pl-3">
-              <h1 className={`font-black tracking-tight text-slate-900 uppercase group-hover:text-[#032EA1] transition-all leading-none ${
-                isScrolled ? 'text-xl' : 'text-2xl sm:text-3xl'
-              }`} style={{ fontFamily: 'Georgia, serif' }}>
-                US HOT NEWS
-              </h1>
-              {!isScrolled && (
-                <p className="text-[10px] sm:text-[11px] text-slate-500 font-semibold tracking-wider uppercase mt-1">
+      {/* 3. Sticky Master Bar (Masthead + Category Menu + MarketTicker pinned firmly together) */}
+      <header className="w-full bg-white border-b border-[#e0e0e0] sticky top-0 z-40 shadow-xs">
+        {/* Masthead */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-8 py-2.5 flex items-center justify-between">
+          <div className="flex items-center gap-4">
+            <Link href="/" className="flex items-center gap-3 group">
+              <div className="relative shrink-0 flex items-center justify-start h-9 w-20">
+                <Image
+                  src="/logo.png"
+                  alt="US HOT NEWS Logo"
+                  width={88}
+                  height={40}
+                  className="object-contain w-full h-full"
+                  priority
+                />
+              </div>
+              <div className="border-l border-[#e0e0e0] pl-3">
+                <h1 className="font-black tracking-tight text-slate-900 uppercase group-hover:text-[#032EA1] transition-all leading-none text-2xl sm:text-3xl" style={{ fontFamily: 'Georgia, serif' }}>
+                  US HOT NEWS
+                </h1>
+                <p className="text-[10px] sm:text-[11px] text-slate-500 font-semibold tracking-wider uppercase mt-0.5 hidden sm:block">
                   Markets • Politics • Technology • Business
                 </p>
-              )}
-            </div>
-          </Link>
-        </div>
+              </div>
+            </Link>
+          </div>
 
-        {/* Action Controls */}
-        <div className="flex items-center gap-2">
-          <button
-            onClick={onOpenSearch}
-            type="button"
-            className="flex items-center gap-1.5 px-3 py-1.5 text-xs uppercase font-bold tracking-wider cursor-pointer rounded-none border border-[#02237d]"
-            title="Search US News wire"
-          >
-            <Search className="w-3.5 h-3.5" />
-            <span className="hidden sm:inline">Search</span>
-          </button>
-          <a
-            href="#newsletter"
-            className="hidden sm:inline-flex items-center gap-1 px-3 py-1.5 text-xs uppercase font-bold tracking-wider cursor-pointer border border-[#032EA1] text-[#032EA1] bg-white hover:bg-slate-50 transition-colors rounded-none"
-          >
-            <span>Newsletters</span>
-            <ChevronRight className="w-3 h-3" />
-          </a>
-        </div>
-      </div>
-
-      {/* 4. CNBC Category Navigation Bar (Sharp hairline borders, rectangular high-density tabs) */}
-      <nav className="border-t border-[#e0e0e0] bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-8">
-          <div className="flex items-center space-x-0.5 overflow-x-auto py-1 no-scrollbar">
-            {CATEGORIES.map((cat) => {
-              const isActive = activeCategory === cat;
-              return (
-                <button
-                  key={cat}
-                  onClick={() => onSelectCategory(cat)}
-                  type="button"
-                  className={`px-3 py-1 text-xs font-bold uppercase tracking-wider whitespace-nowrap cursor-pointer rounded-none transition-all border ${
-                    isActive
-                      ? 'border-[#02237d] ring-1 ring-[#032EA1]'
-                      : 'border-transparent opacity-90 hover:opacity-100 hover:border-[#02237d]'
-                  }`}
-                >
-                  {cat === 'All' ? 'Front Page' : cat}
-                </button>
-              );
-            })}
+          {/* Action Controls */}
+          <div className="flex items-center gap-2">
+            <button
+              onClick={onOpenSearch}
+              type="button"
+              className="flex items-center gap-1.5 px-3 py-1.5 text-xs uppercase font-bold tracking-wider cursor-pointer rounded-none border border-[#02237d]"
+              title="Search US News wire"
+            >
+              <Search className="w-3.5 h-3.5" />
+              <span className="hidden sm:inline">Search</span>
+            </button>
+            <a
+              href="#newsletter"
+              className="hidden sm:inline-flex items-center gap-1 px-3 py-1.5 text-xs uppercase font-bold tracking-wider cursor-pointer border border-[#032EA1] text-[#032EA1] bg-white hover:bg-slate-50 transition-colors rounded-none"
+            >
+              <span>Newsletters</span>
+              <ChevronRight className="w-3 h-3" />
+            </a>
           </div>
         </div>
-      </nav>
 
-      {/* 5. CNBC Market Ticker - Sticky below the Category Menu Section */}
-      <MarketTicker markets={markets || MARKET_DATA} />
-    </header>
+        {/* 4. CNBC Category Navigation Bar (Sharp hairline borders, rectangular high-density tabs) */}
+        <nav className="border-t border-[#e0e0e0] bg-white">
+          <div className="max-w-7xl mx-auto px-4 sm:px-8">
+            <div className="flex items-center space-x-0.5 overflow-x-auto py-1 no-scrollbar">
+              {CATEGORIES.map((cat) => {
+                const isActive = activeCategory === cat;
+                return (
+                  <button
+                    key={cat}
+                    onClick={() => onSelectCategory(cat)}
+                    type="button"
+                    className={`px-3 py-1 text-xs font-bold uppercase tracking-wider whitespace-nowrap cursor-pointer rounded-none transition-all border ${
+                      isActive
+                        ? 'border-[#02237d] ring-1 ring-[#032EA1]'
+                        : 'border-transparent opacity-90 hover:opacity-100 hover:border-[#02237d]'
+                    }`}
+                  >
+                    {cat === 'All' ? 'Front Page' : cat}
+                  </button>
+                );
+              })}
+            </div>
+          </div>
+        </nav>
+
+        {/* 5. CNBC Market Ticker - Sticky below the Category Menu Section */}
+        <MarketTicker markets={markets || MARKET_DATA} />
+      </header>
+    </div>
   );
 }
