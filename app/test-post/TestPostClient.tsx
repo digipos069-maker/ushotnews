@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 
 interface ArticleOption {
@@ -17,28 +17,50 @@ interface TestPostClientProps {
 
 export default function TestPostClient({ articles, siteUrl }: TestPostClientProps) {
   const [selectedSlug, setSelectedSlug] = useState<string>('');
+  const [pageId, setPageId] = useState<string>('');
+  const [accessToken, setAccessToken] = useState<string>('');
+  const [showToken, setShowToken] = useState<boolean>(false);
   const [loading, setLoading] = useState<boolean>(false);
   const [result, setResult] = useState<any>(null);
   const [error, setError] = useState<string | null>(null);
+
+  // Load saved credentials from localStorage for ease of testing
+  useEffect(() => {
+    try {
+      const savedPageId = localStorage.getItem('fb_test_page_id');
+      const savedToken = localStorage.getItem('fb_test_access_token');
+      if (savedPageId) setPageId(savedPageId);
+      if (savedToken) setAccessToken(savedToken);
+    } catch {
+      // Ignore localStorage errors
+    }
+  }, []);
 
   const handleTest = async (liveMode: boolean) => {
     setLoading(true);
     setError(null);
     setResult(null);
 
+    // Save to localStorage if provided
     try {
-      const params = new URLSearchParams();
-      if (liveMode) {
-        params.set('mode', 'live');
-      } else {
-        params.set('mode', 'dry-run');
-      }
-      if (selectedSlug) {
-        params.set('slug', selectedSlug);
-      }
+      if (pageId.trim()) localStorage.setItem('fb_test_page_id', pageId.trim());
+      if (accessToken.trim()) localStorage.setItem('fb_test_access_token', accessToken.trim());
+    } catch {
+      // Ignore
+    }
 
-      const res = await fetch(`/api/test-post?${params.toString()}`, {
-        method: 'GET',
+    try {
+      const payload: any = {
+        mode: liveMode ? 'live' : 'dry-run',
+        slug: selectedSlug || undefined,
+        page_id: pageId.trim() || undefined,
+        access_token: accessToken.trim() || undefined,
+      };
+
+      const res = await fetch('/api/test-post', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
         cache: 'no-store',
       });
 
@@ -67,7 +89,7 @@ export default function TestPostClient({ articles, siteUrl }: TestPostClientProp
               Facebook Auto-Post Test Console
             </h1>
             <p className="text-slate-600 mt-1 text-sm">
-              Test and verify Facebook photo publishing, caption formatting, and Graph API credentials.
+              Test and verify Facebook photo auto-publishing, caption formatting, and Graph API connectivity.
             </p>
           </div>
           <div className="flex gap-2">
@@ -84,8 +106,9 @@ export default function TestPostClient({ articles, siteUrl }: TestPostClientProp
         {/* Configuration Card */}
         <div className="bg-white rounded-2xl shadow-sm border border-slate-200 p-6 mb-8">
           <h2 className="text-lg font-bold text-slate-900 mb-4">Select Test Parameters</h2>
-          
+
           <div className="space-y-4">
+            {/* Article Selector */}
             <div>
               <label className="block text-sm font-medium text-slate-700 mb-1">
                 Article to Post
@@ -102,6 +125,53 @@ export default function TestPostClient({ articles, siteUrl }: TestPostClientProp
                   </option>
                 ))}
               </select>
+            </div>
+
+            {/* Optional Credentials Override */}
+            <div className="border border-slate-200 rounded-xl p-4 bg-slate-50/50">
+              <div className="text-sm font-bold text-slate-800 mb-1">
+                🔑 Facebook Credentials (Optional Override)
+              </div>
+              <p className="text-xs text-slate-500 mb-3">
+                If already set in Vercel or environment variables (<code className="bg-slate-200 px-1 py-0.5 rounded">FB_PAGE_ID</code> &amp; <code className="bg-slate-200 px-1 py-0.5 rounded">FB_PAGE_ACCESS_TOKEN</code>), you can leave these blank. Otherwise, enter them below to test immediately.
+              </p>
+
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                <div>
+                  <label className="block text-xs font-medium text-slate-600 mb-1">
+                    Facebook Page ID
+                  </label>
+                  <input
+                    type="text"
+                    value={pageId}
+                    onChange={(e) => setPageId(e.target.value)}
+                    placeholder="e.g. 1325939953941168"
+                    className="w-full rounded-lg border-slate-300 border px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#032EA1]"
+                  />
+                </div>
+
+                <div>
+                  <div className="flex justify-between items-center mb-1">
+                    <label className="block text-xs font-medium text-slate-600">
+                      Page Access Token
+                    </label>
+                    <button
+                      type="button"
+                      onClick={() => setShowToken(!showToken)}
+                      className="text-[11px] text-[#032EA1] font-semibold hover:underline"
+                    >
+                      {showToken ? 'Hide' : 'Show'}
+                    </button>
+                  </div>
+                  <input
+                    type={showToken ? 'text' : 'password'}
+                    value={accessToken}
+                    onChange={(e) => setAccessToken(e.target.value)}
+                    placeholder="EAAhpZCq..."
+                    className="w-full rounded-lg border-slate-300 border px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-[#032EA1]"
+                  />
+                </div>
+              </div>
             </div>
 
             <div className="flex flex-wrap gap-3 pt-2">
@@ -183,7 +253,7 @@ export default function TestPostClient({ articles, siteUrl }: TestPostClientProp
                   className="px-6 py-3 text-white text-sm font-bold flex items-center justify-between"
                   style={{ backgroundColor: '#032EA1' }}
                 >
-                  <span>Diagnostics & Facebook Identity</span>
+                  <span>Diagnostics &amp; Facebook Identity</span>
                   <span className="text-xs font-normal opacity-90">Meta Graph API v21.0</span>
                 </div>
                 <div className="p-6 grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
