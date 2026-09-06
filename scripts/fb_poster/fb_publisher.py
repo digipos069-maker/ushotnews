@@ -254,6 +254,46 @@ def post_clickable_link_to_facebook(
         return {"success": False, "error": str(e)}
 
 
+def resolve_page_credentials(page_id: str, access_token: str, graph_version: str = FB_GRAPH_VERSION) -> tuple:
+    """
+    If the user passed a User Access Token (personal account), queries /me/accounts
+    to automatically exchange it for the official Page Access Token and Page ID.
+    """
+    if not HAS_REQUESTS:
+        return page_id, access_token
+
+    try:
+        url = f"https://graph.facebook.com/{graph_version}/me/accounts?fields=id,name,access_token&access_token={access_token}"
+        resp = requests.get(url, timeout=15)
+        data = resp.json()
+
+        if resp.status_code == 200 and "data" in data and len(data["data"]) > 0:
+            pages = data["data"]
+            logger.info(f"📋 Found {len(pages)} Facebook Page(s) managed by this user:")
+            matched = None
+            for p in pages:
+                p_id = str(p.get("id"))
+                p_name = p.get("name")
+                logger.info(f"   -> Page: '{p_name}' (ID: {p_id})")
+                if page_id and (page_id == p_id or page_id == "me" or p_id in page_id or page_id in p_id):
+                    matched = p
+
+            if not matched:
+                matched = pages[0]
+
+            logger.info(f"🎯 Auto-selected Page: '{matched.get('name')}' (ID: {matched.get('id')})")
+            page_token = matched.get("access_token")
+            if page_token:
+                logger.info("🔑 Successfully exchanged User Token for official PAGE Access Token!")
+                return str(matched.get("id")), page_token
+        elif resp.status_code == 200:
+            logger.info("ℹ️ /me/accounts returned no pages. Proceeding with configured token directly.")
+    except Exception as e:
+        logger.warning(f"Notice: /me/accounts query: {e}")
+
+    return page_id, access_token
+
+
 def run_publisher(
     page_id: Optional[str] = None,
     access_token: Optional[str] = None,
@@ -279,7 +319,10 @@ def run_publisher(
         return 1
 
     if not dry_run:
-        page_id = verify_facebook_token(page_id, access_token)
+        # Step 1: Pre-flight identity check
+        verify_facebook_token(page_id, access_token)
+        # Step 2: Auto-exchange User Token for Page Access Token if managed pages exist
+        page_id, access_token = resolve_page_credentials(page_id, access_token)
 
     history = load_posted_history()
     posted_map = history.get("articles", {})
