@@ -469,15 +469,15 @@ def run_publisher(
     api_url: str = DEFAULT_API_URL,
     max_posts_per_run: int = 2,
     cleanup_days: int = 3,
-    post_format: str = "random",
+    post_format: str = "photo",
     dry_run: bool = False
 ) -> int:
     """
     Main orchestration loop:
     1. Loads previously posted history and auto-clears entries older than 3 days.
     2. Fetches latest news articles.
-    3. Filters out already posted articles.
-    4. Posts up to max_posts_per_run (randomly alternating between Native Photo and Clickable Link Card).
+    3. Filters out already posted articles (and requires imageUrl in photo mode).
+    4. Posts up to max_posts_per_run using Native Photo format only.
     5. Updates and saves posting history.
     """
     page_id = page_id or os.environ.get("FB_PAGE_ID", "").strip()
@@ -511,12 +511,15 @@ def run_publisher(
 
     candidate_pool = articles[:pool_size]
 
-    # Identify unposted articles within this 8-article candidate pool
+    # Identify unposted articles within this candidate pool
     unposted: List[Dict[str, Any]] = []
     for art in candidate_pool:
         art_id = str(art.get("id") or art.get("slug"))
         slug = art.get("slug")
         if not slug:
+            continue
+        # In photo mode, only select articles with valid images
+        if post_format == "photo" and not art.get("imageUrl"):
             continue
         if art_id not in posted_map and slug not in posted_map:
             unposted.append(art)
@@ -540,14 +543,13 @@ def run_publisher(
         image_url = article.get("imageUrl")
         message = format_facebook_message(article, site_url)
 
-        # Determine format for this post: randomly switch between "photo" and "link_card"
+        # Determine format for this post: photo only by default (no random, no link_card)
         if post_format == "photo":
-            chosen_format = "photo" if image_url else "link_card"
+            chosen_format = "photo"
         elif post_format == "link_card":
             chosen_format = "link_card"
-        else: # "random" or any other value
-            # If valid image exists, 50% chance photo vs link_card
-            chosen_format = random.choice(["photo", "link_card"]) if image_url else "link_card"
+        else:
+            chosen_format = "photo" if image_url else "link_card"
 
         logger.info(f"[{idx}/{len(to_publish)}] Preparing post for: '{article.get('title')}' (Format: {chosen_format.upper()})")
 
@@ -564,23 +566,16 @@ def run_publisher(
             successful_posts += 1
             continue
 
-        if chosen_format == "photo" and image_url:
+        if chosen_format == "photo":
+            if not image_url:
+                logger.error(f"Cannot post article '{slug}' as photo: No image URL available.")
+                continue
             result = post_native_photo_to_facebook(
                 page_id=page_id,
                 access_token=access_token,
                 image_url=image_url,
                 caption=message
             )
-            # If native photo upload fails (e.g. invalid image URL), fallback to link_card
-            if not result.get("success"):
-                logger.warning(f"Native photo upload failed ({result.get('error')}). Falling back to Clickable Link Card...")
-                chosen_format = "link_card"
-                result = post_clickable_link_to_facebook(
-                    page_id=page_id,
-                    access_token=access_token,
-                    article_url=article_url,
-                    message=message
-                )
         else:
             result = post_clickable_link_to_facebook(
                 page_id=page_id,
@@ -628,7 +623,7 @@ def main():
     parser.add_argument("--site-url", type=str, default=DEFAULT_SITE_URL, help="Site base URL")
     parser.add_argument("--api-url", type=str, default=DEFAULT_API_URL, help="News API endpoint")
     parser.add_argument("--cleanup-days", type=int, default=3, help="Max days to retain history before auto-clearing (default: 3)")
-    parser.add_argument("--format", type=str, default="random", choices=["random", "photo", "link_card"], help="Post format: 'random' (50/50 switch), 'photo' (Native HD Photo), or 'link_card' (Clickable Link Card)")
+    parser.add_argument("--format", type=str, default="photo", choices=["photo", "link_card", "random"], help="Post format: 'photo' (Native HD Photo only, default), 'link_card', or 'random'")
 
     args = parser.parse_args()
 

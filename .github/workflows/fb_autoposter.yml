@@ -2,8 +2,8 @@ name: Facebook Page Auto-Publisher
 
 on:
   schedule:
-    # Automatically runs every hour at minute 15 (e.g. 1:15, 2:15, etc.)
-    - cron: '15 * * * *'
+    # Runs every 30 minutes, exactly 2 minutes after the news scraper (at minutes :02 and :32 of every hour)
+    - cron: '2,32 * * * *'
   workflow_dispatch: # Allows manual "Run workflow" trigger in GitHub Actions
 
 permissions:
@@ -51,7 +51,7 @@ jobs:
           echo "   Page ID length: ${#FB_PAGE_ID}"
           echo "   Token length: ${#FB_PAGE_ACCESS_TOKEN}"
           echo "=================================================="
-          python scripts/fb_poster/fb_publisher.py --limit 1
+          python scripts/fb_poster/fb_publisher.py --limit 1 --format photo
 
       - name: Commit and Push Updated Posting History
         run: |
