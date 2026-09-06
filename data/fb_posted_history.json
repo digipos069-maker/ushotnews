@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T05:20:32.357791+00:00",
-  "posted_count": 6,
+  "last_updated": "2026-09-06T09:18:56.140647+00:00",
+  "posted_count": 8,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -44,7 +44,9 @@
       "url": "https://ushotnews.online/article/what-could-a-5000-investment-in-spacex-be-worth-by-2030",
       "format": "photo",
       "fb_post_id": "1325939953941168_122098547817471257",
-      "posted_at": "2026-09-06T05:20:32.357720+00:00"
+      "posted_at": "2026-09-06T05:20:32.357720+00:00",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122098547817471257",
+      "article_url": "https://ushotnews.online/article/what-could-a-5000-investment-in-spacex-be-worth-by-2030"
     },
     "what-could-a-5000-investment-in-spacex-be-worth-by-2030": {
       "title": "What Could a $5,000 Investment in SpaceX Be Worth by 2030?",
@@ -52,8 +54,30 @@
       "url": "https://ushotnews.online/article/what-could-a-5000-investment-in-spacex-be-worth-by-2030",
       "format": "photo",
       "fb_post_id": "1325939953941168_122098547817471257",
-      "posted_at": "2026-09-06T05:20:32.357720+00:00"
+      "posted_at": "2026-09-06T05:20:32.357720+00:00",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122098547817471257",
+      "article_url": "https://ushotnews.online/article/what-could-a-5000-investment-in-spacex-be-worth-by-2030"
+    },
+    "scraped-9e3fcf57e5": {
+      "title": "Wheat Bulls Take Money Off the Table Ahead of the Holiday Weekend",
+      "slug": "wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
+      "url": "https://ushotnews.online/article/wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
+      "article_url": "https://ushotnews.online/article/wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
+      "format": "link_card",
+      "fb_post_id": "1325939953941168_122098704393471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098704393471257",
+      "posted_at": "2026-09-06T09:18:56.140588+00:00"
+    },
+    "wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend": {
+      "title": "Wheat Bulls Take Money Off the Table Ahead of the Holiday Weekend",
+      "slug": "wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
+      "url": "https://ushotnews.online/article/wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
+      "article_url": "https://ushotnews.online/article/wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
+      "format": "link_card",
+      "fb_post_id": "1325939953941168_122098704393471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098704393471257",
+      "posted_at": "2026-09-06T09:18:56.140588+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T05:20:26.941855+00:00"
+  "last_cleaned_at": "2026-09-06T09:18:50.007459+00:00"
 }
