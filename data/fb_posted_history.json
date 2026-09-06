@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T22:58:54.844411+00:00",
-  "posted_count": 34,
+  "last_updated": "2026-09-06T23:46:00.803217+00:00",
+  "posted_count": 36,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -337,7 +337,27 @@
       "fb_post_id": "1325939953941168_122099226945471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099226945471257",
       "posted_at": "2026-09-06T22:58:54.844280+00:00"
+    },
+    "scraped-c7aced8f35": {
+      "title": "MLB legend Alex Rodriguez reveals the foods he keeps in his kitchen fridge",
+      "slug": "mlb-legend-alex-rodriguez-reveals-the-foods-he-keeps-in-his-kitchen-fridge",
+      "url": "https://ushotnews.online/article/mlb-legend-alex-rodriguez-reveals-the-foods-he-keeps-in-his-kitchen-fridge",
+      "article_url": "https://ushotnews.online/article/mlb-legend-alex-rodriguez-reveals-the-foods-he-keeps-in-his-kitchen-fridge",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099248083471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099248083471257",
+      "posted_at": "2026-09-06T23:46:00.803155+00:00"
+    },
+    "mlb-legend-alex-rodriguez-reveals-the-foods-he-keeps-in-his-kitchen-fridge": {
+      "title": "MLB legend Alex Rodriguez reveals the foods he keeps in his kitchen fridge",
+      "slug": "mlb-legend-alex-rodriguez-reveals-the-foods-he-keeps-in-his-kitchen-fridge",
+      "url": "https://ushotnews.online/article/mlb-legend-alex-rodriguez-reveals-the-foods-he-keeps-in-his-kitchen-fridge",
+      "article_url": "https://ushotnews.online/article/mlb-legend-alex-rodriguez-reveals-the-foods-he-keeps-in-his-kitchen-fridge",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099248083471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099248083471257",
+      "posted_at": "2026-09-06T23:46:00.803155+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T22:58:49.201663+00:00"
+  "last_cleaned_at": "2026-09-06T23:45:55.702216+00:00"
 }
