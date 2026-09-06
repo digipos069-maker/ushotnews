@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T18:51:31.121470+00:00",
-  "posted_count": 26,
+  "last_updated": "2026-09-06T19:03:02.960297+00:00",
+  "posted_count": 28,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -257,7 +257,27 @@
       "fb_post_id": "1325939953941168_122099092545471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099092545471257",
       "posted_at": "2026-09-06T18:51:31.121391+00:00"
+    },
+    "scraped-f4d4799d43": {
+      "title": "BDC and Mortgage REIT Income Is Taxed Differently Than a Bank Dividend. Here's Where to Hold Each.",
+      "slug": "bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
+      "url": "https://ushotnews.online/article/bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
+      "article_url": "https://ushotnews.online/article/bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099099913471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099099913471257",
+      "posted_at": "2026-09-06T19:03:02.960226+00:00"
+    },
+    "bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold": {
+      "title": "BDC and Mortgage REIT Income Is Taxed Differently Than a Bank Dividend. Here's Where to Hold Each.",
+      "slug": "bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
+      "url": "https://ushotnews.online/article/bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
+      "article_url": "https://ushotnews.online/article/bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099099913471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099099913471257",
+      "posted_at": "2026-09-06T19:03:02.960226+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T18:51:24.449318+00:00"
+  "last_cleaned_at": "2026-09-06T19:02:57.093889+00:00"
 }
