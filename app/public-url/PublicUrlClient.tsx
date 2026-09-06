@@ -28,7 +28,8 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
   const [selectedCategory, setSelectedCategory] = useState<NewsCategory | 'All'>('All');
   const [searchQuery, setSearchQuery] = useState('');
   const [visibleCount, setVisibleCount] = useState(20);
-  const [copiedId, setCopiedId] = useState<string | null>(null);
+  const [copiedUrlId, setCopiedUrlId] = useState<string | null>(null);
+  const [copiedTitleId, setCopiedTitleId] = useState<string | null>(null);
 
   // Filter articles based on Category and optional search query
   const filteredArticles = useMemo(() => {
@@ -48,7 +49,7 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
   const displayedArticles = filteredArticles.slice(0, visibleCount);
   const hasMore = visibleCount < filteredArticles.length;
 
-  const handleCopy = async (article: Article) => {
+  const handleCopyUrl = async (article: Article) => {
     const fullUrl = `${siteUrl}/article/${article.slug}`;
     try {
       if (navigator?.clipboard?.writeText) {
@@ -61,12 +62,33 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
         document.execCommand('copy');
         document.body.removeChild(textarea);
       }
-      setCopiedId(article.id);
+      setCopiedUrlId(article.id);
       setTimeout(() => {
-        setCopiedId(null);
+        setCopiedUrlId(null);
       }, 2000);
     } catch (err) {
       console.error('Failed to copy URL:', err);
+    }
+  };
+
+  const handleCopyTitle = async (article: Article) => {
+    try {
+      if (navigator?.clipboard?.writeText) {
+        await navigator.clipboard.writeText(article.title);
+      } else {
+        const textarea = document.createElement('textarea');
+        textarea.value = article.title;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+      }
+      setCopiedTitleId(article.id);
+      setTimeout(() => {
+        setCopiedTitleId(null);
+      }, 2000);
+    } catch (err) {
+      console.error('Failed to copy title:', err);
     }
   };
 
@@ -248,12 +270,13 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
                     <th className="py-3 px-4 font-bold w-12 text-center border-r border-[#e0e0e0]">#</th>
                     <th className="py-3 px-4 font-bold border-r border-[#e0e0e0]">Headline & Category</th>
                     <th className="py-3 px-4 font-bold border-r border-[#e0e0e0] hidden md:table-cell">Published</th>
-                    <th className="py-3 px-4 font-bold text-right w-44">Action</th>
+                    <th className="py-3 px-4 font-bold text-right w-64 sm:w-72">Action</th>
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-[#e0e0e0] text-xs">
                   {displayedArticles.map((art, idx) => {
-                    const isCopied = copiedId === art.id;
+                    const isUrlCopied = copiedUrlId === art.id;
+                    const isTitleCopied = copiedTitleId === art.id;
                     const fullUrl = `${siteUrl}/article/${art.slug}`;
 
                     return (
@@ -290,21 +313,47 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
                           {art.publishedAt}
                         </td>
 
-                        {/* Copy URL Button */}
-                        <td className="py-3.5 px-4 text-right">
-                          <div className="flex items-center justify-end gap-2">
+                        {/* Action Buttons */}
+                        <td className="py-3.5 px-4 text-right whitespace-nowrap">
+                          <div className="flex items-center justify-end gap-1.5">
+                            {/* Copy Title Button */}
                             <button
                               type="button"
-                              onClick={() => handleCopy(art)}
-                              className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-none cursor-pointer transition-all border ${
-                                isCopied
+                              onClick={() => handleCopyTitle(art)}
+                              className={`flex items-center gap-1 px-2.5 py-1.5 text-xs font-bold uppercase tracking-wider rounded-none cursor-pointer transition-all border ${
+                                isTitleCopied
                                   ? 'bg-emerald-600 text-white border-emerald-700'
                                   : 'text-white border-[#02237d] hover:opacity-90'
                               }`}
-                              style={!isCopied ? { backgroundColor: '#032EA1' } : {}}
+                              style={!isTitleCopied ? { backgroundColor: '#032EA1' } : {}}
+                              title={`Copy title: "${art.title}"`}
+                            >
+                              {isTitleCopied ? (
+                                <>
+                                  <Check className="w-3.5 h-3.5" />
+                                  <span>Copied</span>
+                                </>
+                              ) : (
+                                <>
+                                  <Copy className="w-3.5 h-3.5" />
+                                  <span>Copy Title</span>
+                                </>
+                              )}
+                            </button>
+
+                            {/* Copy URL Button */}
+                            <button
+                              type="button"
+                              onClick={() => handleCopyUrl(art)}
+                              className={`flex items-center gap-1 px-2.5 py-1.5 text-xs font-bold uppercase tracking-wider rounded-none cursor-pointer transition-all border ${
+                                isUrlCopied
+                                  ? 'bg-emerald-600 text-white border-emerald-700'
+                                  : 'text-white border-[#02237d] hover:opacity-90'
+                              }`}
+                              style={!isUrlCopied ? { backgroundColor: '#032EA1' } : {}}
                               title={`Copy ${fullUrl}`}
                             >
-                              {isCopied ? (
+                              {isUrlCopied ? (
                                 <>
                                   <Check className="w-3.5 h-3.5" />
                                   <span>Copied</span>
