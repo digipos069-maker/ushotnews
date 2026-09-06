@@ -1,8 +1,14 @@
 name: Facebook Page Auto-Publisher
 
 on:
+  workflow_run:
+    workflows: ["Scheduled News Ingestion"]
+    types:
+      - completed
+    branches:
+      - main
   schedule:
-    # Runs every 30 minutes, exactly 2 minutes after the news scraper (at minutes :02 and :32 of every hour)
+    # Fallback timer: runs every 30 minutes in case scraper is inactive
     - cron: '2,32 * * * *'
   workflow_dispatch: # Allows manual "Run workflow" trigger in GitHub Actions
 
@@ -12,10 +18,14 @@ permissions:
 jobs:
   publish-to-facebook:
     runs-on: ubuntu-latest
+    # Only run if triggered manually, by schedule, or if the scraper workflow succeeded
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python 3.13
         uses: actions/setup-python@v5
@@ -51,11 +61,11 @@ jobs:
           echo "   Page ID length: ${#FB_PAGE_ID}"
           echo "   Token length: ${#FB_PAGE_ACCESS_TOKEN}"
           echo "=================================================="
-          python scripts/fb_poster/fb_publisher.py --limit 1 --format photo
+          python scripts/fb_poster/fb_publisher.py --limit 1 --format photo --pool-size 20
 
       - name: Commit and Push Updated Posting History
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/fb_posted_history.json
-          git diff --staged --quiet || (git commit -m "chore(fb-poster): record published story [skip ci]" && git push)
+          git diff --staged --quiet || (git commit -m "chore(fb-poster): record published story [skip ci]" && git pull --rebase origin main && git push origin main)

@@ -533,6 +533,7 @@ def run_publisher(
     max_posts_per_run: int = 2,
     cleanup_days: int = 3,
     post_format: str = "photo",
+    pool_size: int = 20,
     dry_run: bool = False
 ) -> int:
     """
@@ -565,8 +566,7 @@ def run_publisher(
 
     posted_map = history.get("articles", {})
 
-    # Fetch the latest 8 articles as the active candidate pool
-    pool_size = 8
+    # Fetch the latest articles as the active candidate pool
     articles = get_latest_articles(api_url, limit=pool_size)
     if not articles:
         logger.warning("No articles found to process.")
@@ -590,13 +590,13 @@ def run_publisher(
     logger.info(f"Inspected top {len(candidate_pool)} latest articles. Found {len(unposted)} unposted in this pool.")
 
     if not unposted:
-        logger.info("All 8 latest articles are already published to Facebook. Nothing to do.")
+        logger.info(f"All {len(candidate_pool)} latest articles are already published to Facebook. Nothing to do.")
         return 0
 
-    # Randomly select from the unposted articles in the top-8 pool
+    # Randomly select from the unposted articles in the candidate pool
     sample_size = min(len(unposted), max_posts_per_run)
     to_publish = random.sample(unposted, sample_size)
-    logger.info(f"🎲 Randomly selected {len(to_publish)} story from {len(unposted)} unposted candidates in top 8 pool.")
+    logger.info(f"🎲 Randomly selected {len(to_publish)} story from {len(unposted)} unposted candidates in top {len(candidate_pool)} pool.")
     successful_posts = 0
 
     for idx, article in enumerate(to_publish, 1):
@@ -686,6 +686,7 @@ def main():
     parser.add_argument("--site-url", type=str, default=DEFAULT_SITE_URL, help="Site base URL")
     parser.add_argument("--api-url", type=str, default=DEFAULT_API_URL, help="News API endpoint")
     parser.add_argument("--cleanup-days", type=int, default=3, help="Max days to retain history before auto-clearing (default: 3)")
+    parser.add_argument("--pool-size", type=int, default=20, help="Candidate pool size of latest articles to inspect (default: 20)")
     parser.add_argument("--format", type=str, default="photo", choices=["photo", "link_card", "random"], help="Post format: 'photo' (Native HD Photo only, default), 'link_card', or 'random'")
 
     args = parser.parse_args()
@@ -698,6 +699,7 @@ def main():
         max_posts_per_run=args.limit,
         cleanup_days=args.cleanup_days,
         post_format=args.format,
+        pool_size=args.pool_size,
         dry_run=args.dry_run
     )
     sys.exit(exit_code)
