@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T09:26:44.462466+00:00",
-  "posted_count": 10,
+  "last_updated": "2026-09-06T09:52:41.548874+00:00",
+  "posted_count": 12,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -97,7 +97,27 @@
       "fb_post_id": "1325939953941168_122098708869471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098708869471257",
       "posted_at": "2026-09-06T09:26:44.462402+00:00"
+    },
+    "scraped-2681f02c76": {
+      "title": "Soybeans Correct Lower into the Long Weekend",
+      "slug": "soybeans-correct-lower-into-the-long-weekend",
+      "url": "https://ushotnews.online/article/soybeans-correct-lower-into-the-long-weekend",
+      "article_url": "https://ushotnews.online/article/soybeans-correct-lower-into-the-long-weekend",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122098726395471257",
+      "fb_post_url": "https://www.facebook.com/photo.php?fbid=122098726395471257&set=a.122098726371471257&type=3",
+      "posted_at": "2026-09-06T09:52:41.548796+00:00"
+    },
+    "soybeans-correct-lower-into-the-long-weekend": {
+      "title": "Soybeans Correct Lower into the Long Weekend",
+      "slug": "soybeans-correct-lower-into-the-long-weekend",
+      "url": "https://ushotnews.online/article/soybeans-correct-lower-into-the-long-weekend",
+      "article_url": "https://ushotnews.online/article/soybeans-correct-lower-into-the-long-weekend",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122098726395471257",
+      "fb_post_url": "https://www.facebook.com/photo.php?fbid=122098726395471257&set=a.122098726371471257&type=3",
+      "posted_at": "2026-09-06T09:52:41.548796+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T09:26:37.436813+00:00"
+  "last_cleaned_at": "2026-09-06T09:52:37.487286+00:00"
 }
