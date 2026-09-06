@@ -73,16 +73,32 @@ async function handleAutoPost(request: NextRequest) {
       `#${latestArticle.category} #USNews #BreakingNews #USHotNews`,
     ].join('\n');
 
+    // Determine post format: randomly switch between "photo" (Native HD Photo) and "link_card" (Clickable Link Card)
+    const requestedFormat = searchParams.get('format');
+    const hasImage = Boolean(latestArticle.imageUrl);
+    let chosenFormat: 'photo' | 'link_card' = 'link_card';
+
+    if (requestedFormat === 'photo') {
+      chosenFormat = hasImage ? 'photo' : 'link_card';
+    } else if (requestedFormat === 'link_card') {
+      chosenFormat = 'link_card';
+    } else {
+      // Random 50/50 toggle if image is present
+      chosenFormat = hasImage && Math.random() < 0.5 ? 'photo' : 'link_card';
+    }
+
     // If Facebook credentials are not set, return a dry-run preview
     if (!pageId || !accessToken) {
       return NextResponse.json({
         success: true,
         mode: 'dry-run',
+        format: chosenFormat,
         message: 'Facebook credentials not configured yet. Returning simulated post payload.',
         preview: {
           pageId: pageId || 'NOT_CONFIGURED',
           articleId: latestArticle.id,
           title: latestArticle.title,
+          format: chosenFormat,
           link: articleUrl,
           imageUrl: latestArticle.imageUrl,
           fbMessage: message,
@@ -90,29 +106,48 @@ async function handleAutoPost(request: NextRequest) {
       });
     }
 
-    // Call Facebook Graph API /feed for a Clickable Link Card
     const target = pageId && pageId !== 'me' ? pageId : 'me';
-    let fbResponse = await fetch(`https://graph.facebook.com/v21.0/${target}/feed`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-      },
-      body: new URLSearchParams({
-        link: articleUrl,
-        message: message,
-        access_token: accessToken,
-      }),
-    });
+    let fbData: any;
+    let fbResponse: any;
 
-    let fbData = await fbResponse.json();
-
-    // Fallback to /me/feed if global id error occurs
-    if ((!fbResponse.ok || !fbData.id) && target !== 'me') {
-      fbResponse = await fetch(`https://graph.facebook.com/v21.0/me/feed`, {
+    if (chosenFormat === 'photo' && latestArticle.imageUrl) {
+      // 1. Attempt Native High-Res Photo upload via /{target}/photos
+      fbResponse = await fetch(`https://graph.facebook.com/v21.0/${target}/photos`, {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/x-www-form-urlencoded',
-        },
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: new URLSearchParams({
+          url: latestArticle.imageUrl,
+          caption: message,
+          access_token: accessToken,
+        }),
+      });
+      fbData = await fbResponse.json();
+
+      // Fallback to /me/photos if target global id rejected
+      if ((!fbResponse.ok || (!fbData.post_id && !fbData.id)) && target !== 'me') {
+        fbResponse = await fetch(`https://graph.facebook.com/v21.0/me/photos`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({
+            url: latestArticle.imageUrl,
+            caption: message,
+            access_token: accessToken,
+          }),
+        });
+        fbData = await fbResponse.json();
+      }
+
+      // If photo upload still failed, fallback to Clickable Link Card
+      if (!fbResponse.ok || (!fbData.post_id && !fbData.id)) {
+        chosenFormat = 'link_card';
+      }
+    }
+
+    if (chosenFormat === 'link_card') {
+      // 2. Clickable Link Card via /{target}/feed
+      fbResponse = await fetch(`https://graph.facebook.com/v21.0/${target}/feed`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
         body: new URLSearchParams({
           link: articleUrl,
           message: message,
@@ -120,9 +155,24 @@ async function handleAutoPost(request: NextRequest) {
         }),
       });
       fbData = await fbResponse.json();
+
+      // Fallback to /me/feed if global id error occurs
+      if ((!fbResponse.ok || !fbData.id) && target !== 'me') {
+        fbResponse = await fetch(`https://graph.facebook.com/v21.0/me/feed`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({
+            link: articleUrl,
+            message: message,
+            access_token: accessToken,
+          }),
+        });
+        fbData = await fbResponse.json();
+      }
     }
 
-    if (!fbResponse.ok || !fbData.id) {
+    const finalPostId = fbData?.post_id || fbData?.id;
+    if (!fbResponse.ok || !finalPostId) {
       return NextResponse.json(
         {
           success: false,
@@ -135,8 +185,9 @@ async function handleAutoPost(request: NextRequest) {
 
     return NextResponse.json({
       success: true,
-      message: 'Article published to Facebook Page successfully',
-      fbPostId: fbData.id,
+      message: `Article published to Facebook Page successfully as ${chosenFormat === 'photo' ? 'Native Photo' : 'Clickable Link Card'}`,
+      format: chosenFormat,
+      fbPostId: finalPostId,
       article: {
         id: latestArticle.id,
         title: latestArticle.title,

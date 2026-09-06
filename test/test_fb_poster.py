@@ -20,6 +20,8 @@ from scripts.fb_poster.fb_publisher import (
     save_posted_history,
     cleanup_old_posted_history,
     format_facebook_message,
+    post_native_photo_to_facebook,
+    post_clickable_link_to_facebook,
     run_publisher
 )
 
@@ -101,13 +103,33 @@ class TestFacebookPublisher(unittest.TestCase):
         self.assertIn("last_cleaned_at", cleaned_history)
 
     def test_dry_run_execution(self):
-        """Verify publisher runs in dry-run mode without credentials and exits with code 0."""
-        exit_code = run_publisher(
+        """Verify publisher runs in dry-run mode without credentials across different format options."""
+        # Test default random format
+        exit_code_random = run_publisher(
             site_url="https://ushotnews.online",
             max_posts_per_run=1,
+            post_format="random",
             dry_run=True
         )
-        self.assertEqual(exit_code, 0)
+        self.assertEqual(exit_code_random, 0)
+
+        # Test explicit photo format
+        exit_code_photo = run_publisher(
+            site_url="https://ushotnews.online",
+            max_posts_per_run=1,
+            post_format="photo",
+            dry_run=True
+        )
+        self.assertEqual(exit_code_photo, 0)
+
+        # Test explicit link_card format
+        exit_code_link = run_publisher(
+            site_url="https://ushotnews.online",
+            max_posts_per_run=1,
+            post_format="link_card",
+            dry_run=True
+        )
+        self.assertEqual(exit_code_link, 0)
 
 if __name__ == "__main__":
     unittest.main()

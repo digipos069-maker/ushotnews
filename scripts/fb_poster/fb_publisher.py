@@ -292,6 +292,63 @@ def post_clickable_link_to_facebook(
         return {"success": False, "error": str(e)}
 
 
+def post_native_photo_to_facebook(
+    page_id: str,
+    access_token: str,
+    image_url: str,
+    caption: str,
+    graph_version: str = FB_GRAPH_VERSION
+) -> Dict[str, Any]:
+    """
+    Posts a Native High-Resolution Photo directly to Facebook Page via Meta Graph API /{page_id}/photos.
+    Facebook downloads and attaches the image directly, resulting in maximum organic feed reach.
+    The article link and summary are included in the caption/message.
+    """
+    if not HAS_REQUESTS:
+        return {"success": False, "error": "Missing 'requests' python library"}
+
+    target = page_id if page_id and page_id != "me" else "me"
+    endpoint = f"https://graph.facebook.com/{graph_version}/{target}/photos"
+    payload = {
+        "url": image_url,
+        "caption": caption,
+        "access_token": access_token
+    }
+
+    try:
+        response = requests.post(endpoint, data=payload, timeout=30)
+        data = response.json()
+
+        # Fallback to /me/photos if target global ID is rejected
+        if response.status_code != 200 and target != "me" and ("global id" in str(data).lower() or data.get("error", {}).get("code") == 100):
+            logger.warning(f"Target '{target}' rejected as global ID for photos. Falling back to '/me/photos'...")
+            fallback_endpoint = f"https://graph.facebook.com/{graph_version}/me/photos"
+            fallback_resp = requests.post(fallback_endpoint, data=payload, timeout=30)
+            fallback_data = fallback_resp.json()
+            post_id = fallback_data.get("post_id") or fallback_data.get("id")
+            if fallback_resp.status_code == 200 and post_id:
+                logger.info(f"🎉 Successfully posted Native Photo to Facebook Page via /me/photos! Post ID: {post_id}")
+                return {"success": True, "post_id": post_id}
+            response = fallback_resp
+            data = fallback_data
+
+        post_id = data.get("post_id") or data.get("id")
+        if response.status_code == 200 and post_id:
+            logger.info(f"🎉 Successfully posted Native Photo to Facebook Page! Post ID: {post_id}")
+            return {"success": True, "post_id": post_id}
+        else:
+            err = data.get("error", {})
+            err_msg = err.get("message", response.text)
+            err_code = err.get("code")
+            err_subcode = err.get("error_subcode")
+            logger.error(f"❌ Facebook Graph Photo API Error (HTTP {response.status_code}): {err_msg}")
+            logger.error(f"   Error Code: {err_code}, Subcode: {err_subcode}, Type: {err.get('type')}")
+            return {"success": False, "error": err_msg, "response": data}
+    except Exception as e:
+        logger.error(f"Exception while uploading photo to Facebook Graph API: {e}")
+        return {"success": False, "error": str(e)}
+
+
 def resolve_page_credentials(page_id: str, access_token: str, graph_version: str = FB_GRAPH_VERSION) -> tuple:
     """
     If the user passed a User Access Token (personal account), queries /me/accounts
@@ -339,6 +396,7 @@ def run_publisher(
     api_url: str = DEFAULT_API_URL,
     max_posts_per_run: int = 2,
     cleanup_days: int = 3,
+    post_format: str = "random",
     dry_run: bool = False
 ) -> int:
     """
@@ -346,7 +404,7 @@ def run_publisher(
     1. Loads previously posted history and auto-clears entries older than 3 days.
     2. Fetches latest news articles.
     3. Filters out already posted articles.
-    4. Posts up to max_posts_per_run as Clickable Link Cards.
+    4. Posts up to max_posts_per_run (randomly alternating between Native Photo and Clickable Link Card).
     5. Updates and saves posting history.
     """
     page_id = page_id or os.environ.get("FB_PAGE_ID", "").strip()
@@ -406,29 +464,57 @@ def run_publisher(
         art_id = str(article.get("id") or article.get("slug"))
         slug = article["slug"]
         article_url = f"{site_url.rstrip('/')}/article/{slug}"
+        image_url = article.get("imageUrl")
         message = format_facebook_message(article, site_url)
 
-        logger.info(f"[{idx}/{len(to_publish)}] Preparing post for: '{article.get('title')}'")
+        # Determine format for this post: randomly switch between "photo" and "link_card"
+        if post_format == "photo":
+            chosen_format = "photo" if image_url else "link_card"
+        elif post_format == "link_card":
+            chosen_format = "link_card"
+        else: # "random" or any other value
+            # If valid image exists, 50% chance photo vs link_card
+            chosen_format = random.choice(["photo", "link_card"]) if image_url else "link_card"
+
+        logger.info(f"[{idx}/{len(to_publish)}] Preparing post for: '{article.get('title')}' (Format: {chosen_format.upper()})")
 
         if dry_run:
             print("\n" + "=" * 60)
-            print("[DRY-RUN MODE] Post Details:")
+            print(f"[DRY-RUN MODE] Post Details (Format: {chosen_format.upper()}):")
             print(f"Article ID:  {art_id}")
             print(f"Target URL:  {article_url}")
-            print(f"Image URL:   {article.get('imageUrl')}")
-            print("Facebook Message:")
+            print(f"Image URL:   {image_url}")
+            print("Facebook Message / Caption:")
             print("-" * 40)
             print(message)
             print("=" * 60 + "\n")
             successful_posts += 1
             continue
 
-        result = post_clickable_link_to_facebook(
-            page_id=page_id,
-            access_token=access_token,
-            article_url=article_url,
-            message=message
-        )
+        if chosen_format == "photo" and image_url:
+            result = post_native_photo_to_facebook(
+                page_id=page_id,
+                access_token=access_token,
+                image_url=image_url,
+                caption=message
+            )
+            # If native photo upload fails (e.g. invalid image URL), fallback to link_card
+            if not result.get("success"):
+                logger.warning(f"Native photo upload failed ({result.get('error')}). Falling back to Clickable Link Card...")
+                chosen_format = "link_card"
+                result = post_clickable_link_to_facebook(
+                    page_id=page_id,
+                    access_token=access_token,
+                    article_url=article_url,
+                    message=message
+                )
+        else:
+            result = post_clickable_link_to_facebook(
+                page_id=page_id,
+                access_token=access_token,
+                article_url=article_url,
+                message=message
+            )
 
         if result.get("success"):
             successful_posts += 1
@@ -436,6 +522,7 @@ def run_publisher(
                 "title": article.get("title"),
                 "slug": slug,
                 "url": article_url,
+                "format": chosen_format,
                 "fb_post_id": result.get("post_id"),
                 "posted_at": datetime.now(timezone.utc).isoformat()
             }
@@ -464,6 +551,7 @@ def main():
     parser.add_argument("--site-url", type=str, default=DEFAULT_SITE_URL, help="Site base URL")
     parser.add_argument("--api-url", type=str, default=DEFAULT_API_URL, help="News API endpoint")
     parser.add_argument("--cleanup-days", type=int, default=3, help="Max days to retain history before auto-clearing (default: 3)")
+    parser.add_argument("--format", type=str, default="random", choices=["random", "photo", "link_card"], help="Post format: 'random' (50/50 switch), 'photo' (Native HD Photo), or 'link_card' (Clickable Link Card)")
 
     args = parser.parse_args()
 
@@ -474,6 +562,7 @@ def main():
         api_url=args.api_url,
         max_posts_per_run=args.limit,
         cleanup_days=args.cleanup_days,
+        post_format=args.format,
         dry_run=args.dry_run
     )
     sys.exit(exit_code)
