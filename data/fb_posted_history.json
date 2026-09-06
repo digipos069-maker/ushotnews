@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T05:01:53.501630+00:00",
-  "posted_count": 4,
+  "last_updated": "2026-09-06T05:20:32.357791+00:00",
+  "posted_count": 6,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -29,7 +29,23 @@
       "url": "https://ushotnews.online/article/commvault-cvlt-turns-cyberattacks-into-automated-recovery-through-new-crowdstrike-crwd-dea",
       "fb_post_id": "1325939953941168_122098536045471257",
       "posted_at": "2026-09-06T05:01:53.501574+00:00"
+    },
+    "scraped-1a31c0252f": {
+      "title": "What Could a $5,000 Investment in SpaceX Be Worth by 2030?",
+      "slug": "what-could-a-5000-investment-in-spacex-be-worth-by-2030",
+      "url": "https://ushotnews.online/article/what-could-a-5000-investment-in-spacex-be-worth-by-2030",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122098547817471257",
+      "posted_at": "2026-09-06T05:20:32.357720+00:00"
+    },
+    "what-could-a-5000-investment-in-spacex-be-worth-by-2030": {
+      "title": "What Could a $5,000 Investment in SpaceX Be Worth by 2030?",
+      "slug": "what-could-a-5000-investment-in-spacex-be-worth-by-2030",
+      "url": "https://ushotnews.online/article/what-could-a-5000-investment-in-spacex-be-worth-by-2030",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122098547817471257",
+      "posted_at": "2026-09-06T05:20:32.357720+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T05:01:47.568788+00:00"
+  "last_cleaned_at": "2026-09-06T05:20:26.941855+00:00"
 }
