@@ -21,6 +21,11 @@ def get_permanent_page_token(app_id: str, app_secret: str, user_token: str):
     print("=" * 65)
     print("  US HOT NEWS - Permanent Facebook Page Token Generator")
     print("=" * 65)
+    print("📌 Required Token Permissions for Photo Posting:")
+    print("   - pages_show_list")
+    print("   - pages_read_engagement")
+    print("   - pages_manage_posts")
+    print("   - pages_manage_metadata  <-- Required for native photo uploads")
 
     # 1. Exchange short-lived User Token for 60-Day Long-Lived User Token
     print("\n[Step 1/3] Exchanging Short-Lived User Token for 60-Day Long-Lived Token...")

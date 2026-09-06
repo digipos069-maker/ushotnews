@@ -388,9 +388,9 @@ def post_native_photo_to_facebook(
         response = requests.post(endpoint, data=payload, timeout=30)
         data = response.json()
 
-        # Fallback to /me/photos if target global ID is rejected
-        if response.status_code != 200 and target != "me" and ("global id" in str(data).lower() or data.get("error", {}).get("code") == 100):
-            logger.warning(f"Target '{target}' rejected as global ID for photos. Falling back to '/me/photos'...")
+        # Fallback to /me/photos if target global ID is rejected (e.g. error 100, 283, or global id rejection)
+        if response.status_code != 200 and target != "me":
+            logger.warning(f"Target '{target}' returned error ({response.status_code}). Trying '/me/photos' fallback...")
             fallback_endpoint = f"https://graph.facebook.com/{graph_version}/me/photos"
             fallback_resp = requests.post(fallback_endpoint, data=payload, timeout=30)
             fallback_data = fallback_resp.json()
@@ -416,6 +416,9 @@ def post_native_photo_to_facebook(
             err_subcode = err.get("error_subcode")
             logger.error(f"❌ Facebook Graph Photo API Error (HTTP {response.status_code}): {err_msg}")
             logger.error(f"   Error Code: {err_code}, Subcode: {err_subcode}, Type: {err.get('type')}")
+            if err_code == 283 or "pages_manage_metadata" in str(err_msg).lower():
+                logger.error("💡 [ACTION REQUIRED] Meta requires 'pages_manage_metadata' permission to publish native photos to this Page.")
+                logger.error("   To fix: In Meta Graph API Explorer, add 'pages_manage_metadata' to permissions and re-generate your token.")
             return {"success": False, "error": err_msg, "response": data}
     except Exception as e:
         logger.error(f"Exception while uploading photo to Facebook Graph API: {e}")
