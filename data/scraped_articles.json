@@ -1,5 +1,634 @@
 [
   {
+    "id": "scraped-4f69e386d5",
+    "slug": "we-are-winning-elections-bernie-sanders-on-democrats-progressive-wing",
+    "guid": "000001a0-4942-d6af-afaa-7bced5590000",
+    "title": "'We are winning elections’: Bernie Sanders on Democrats’ progressive wing",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "'We are winning elections’: Bernie Sanders on Democrats’ progressive wing",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'We are winning elections’: Bernie Sanders on Democrats’ pro... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a7b28bcccd",
+    "slug": "bioaffinitys-ai-lung-cancer-stock-jumped-nearly-48-after-a-reverse-split-what-would-have-t",
+    "guid": "bioaffinity-ai-lung-cancer-stock-061350535.html",
+    "title": "bioAffinity’s AI Lung-Cancer Stock Jumped Nearly 48% After a Reverse Split. What Would Have to Go Right?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "bioAffinity’s AI Lung-Cancer Stock Jumped Nearly 48% After a Reverse Split. What Would Have to Go Right?",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/237bf7d81774053ae7a1d6a31c84b22a.jpg",
+    "imageCaption": "bioAffinity’s AI Lung-Cancer Stock Jumped Nearly 48% After a... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-05T06:13:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-86c5625bf0",
+    "slug": "lam-research-legal-chief-sold-15-million-as-ai-chip-demand-booms-is-the-signal-bearish",
+    "guid": "lam-research-legal-chief-sold-062159762.html",
+    "title": "Lam Research Legal Chief Sold $1.5 Million as AI Chip Demand Booms. Is the Signal Bearish?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Lam Research Legal Chief Sold $1.5 Million as AI Chip Demand Booms. Is the Signal Bearish?",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/71211da031f80acee19bd7526e4ccf64.jpg",
+    "imageCaption": "Lam Research Legal Chief Sold $1.5 Million as AI Chip Demand... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-05T06:21:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7bfe971292",
+    "slug": "the-stock-market-just-did-something-for-the-first-time-ever-history-says-investors-should-",
+    "guid": "stock-market-just-did-something-080501482.html",
+    "title": "The Stock Market Just Did Something for the First Time Ever. History Says Investors Should Be Worried. But Could This Time Be Different?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "The Stock Market Just Did Something for the First Time Ever. History Says Investors Should Be Worried. But Could This Time Be Different?",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/motleyfool.com/b7e52a0524532d005a88e7b846292e04.jpg",
+    "imageCaption": "The Stock Market Just Did Something for the First Time Ever.... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-05T08:05:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-95ed25a5ca",
+    "slug": "a-niece-allegedly-stole-nearly-700000-from-the-aunt-she-cared-for-experts-warn-longer-life",
+    "guid": "niece-allegedly-stole-nearly-700-093000162.html",
+    "title": "A niece allegedly stole nearly $700,000 from the aunt she cared for — experts warn longer lifespans worsen the issue",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "A niece allegedly stole nearly $700,000 from the aunt she cared for — experts warn longer lifespans worsen the issue",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/moneywise_327/39e9b3c3f6c145849dd85668e3ebc20d.jpg",
+    "imageCaption": "A niece allegedly stole nearly $700,000 from the aunt she ca... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-05T09:30:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3de79e291b",
+    "slug": "a-judge-spared-alphabet-from-an-ad-tech-breakup-but-ordered-changes-does-that-protect-its-",
+    "guid": "judge-spared-alphabet-ad-tech-090718689.html",
+    "title": "A Judge Spared Alphabet From an Ad-Tech Breakup but Ordered Changes. Does That Protect Its AI War Chest?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "A Judge Spared Alphabet From an Ad-Tech Breakup but Ordered Changes. Does That Protect Its AI War Chest?",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/f8286096530a91642b3c4e988c21ec6d.jpg",
+    "imageCaption": "A Judge Spared Alphabet From an Ad-Tech Breakup but Ordered ... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-05T09:07:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5b8bebbdcd",
+    "slug": "retirees-have-fewer-options-and-less-ability-to-recover-from-setbacks-heres-when-todays-av",
+    "guid": "retirees-fewer-options-less-ability-090000364.html",
+    "title": "Retirees have fewer options and less ability to recover from setbacks. Here's when today's average American is retiring",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Retirees have fewer options and less ability to recover from setbacks. Here's when today's average American is retiring",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/moneywise_327/535876cd1df42c1807490a994d52b68a.jpg",
+    "imageCaption": "Retirees have fewer options and less ability to recover from... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-05T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d7f1880446",
+    "slug": "foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength",
+    "guid": "foxconn-says-third-quarter-outperform-081331124.html",
+    "title": "Foxconn says third quarter to outperform market expectations on AI strength",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Foxconn says third quarter to outperform market expectations on AI strength",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/reuters.com/b6e5ba448539534ce58ddbcc630fa450.jpg",
+    "imageCaption": "Foxconn says third quarter to outperform market expectations... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-05T08:13:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-216699e3ff",
+    "slug": "3-unstoppable-dow-stocks-to-buy-in-september",
+    "guid": "3-unstoppable-dow-stocks-buy-080500367.html",
+    "title": "3 Unstoppable Dow Stocks to Buy in September",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "3 Unstoppable Dow Stocks to Buy in September",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/motleyfool.com/84f049c1746183a2aa97280564b57d5b.jpg",
+    "imageCaption": "3 Unstoppable Dow Stocks to Buy in September... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-05T08:05:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4a37d0e858",
+    "slug": "whatever-happened-to-kindness-spoiler-alert-our-readers-prove-its-alive-and-well",
+    "guid": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+    "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
+    "content": [
+      "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Whatever happened to kindness? Spoiler alert: Our readers pr... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T08:44:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4999a37969",
+    "slug": "quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+    "guid": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+    "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, Solving Procrastination.",
+    "content": [
+      "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, Solving Procrastination.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "QUIZ: Ugh, I'll do it later. How much do you know about proc... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T09:01:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9968d084c4",
+    "slug": "us-envoys-witkoff-and-kushner-set-for-talks-in-kyiv-after-meeting-putin-in-moscow",
+    "guid": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+    "title": "U.S. envoys Witkoff and Kushner set for talks in Kyiv after meeting Putin in Moscow",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia's full-scale invasion of Ukraine.",
+    "content": [
+      "U.S. envoys Steve Witkoff and Jared Kushner are set to arrive in Kyiv on Sunday in their first visit to the Ukrainian capital as part of a renewed push for peace in Russia's full-scale invasion of Ukraine.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. envoys Witkoff and Kushner set for talks in Kyiv after ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T09:51:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9ca19ad5df",
+    "slug": "american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+    "guid": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+    "title": "American Muslims are giving Texas barbecue a halal makeover",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
+    "content": [
+      "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "American Muslims are giving Texas barbecue a halal makeover... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-22c9663037",
+    "slug": "anti-migrant-afd-seeks-to-break-germanys-political-firewall-in-historic-state-election",
+    "guid": "https://www.foxnews.com/world/anti-migrant-afd-seeks-break-germanys-political-firewall-historic-state-election",
+    "title": "Anti-migrant AfD seeks to break Germany’s political ‘firewall’ in historic state election",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Young voters are fueling Germany&apos;s AfD surge in Saxony-Anhalt, where lead candidate Ulrich Siegmund has amassed over 700,000 TikTok followers.",
+    "content": [
+      "Young voters are fueling Germany&apos;s AfD surge in Saxony-Anhalt, where lead candidate Ulrich Siegmund has amassed over 700,000 TikTok followers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/saxony-anhalt-election-posters.jpg?ve=1&tl=1",
+    "imageCaption": "Anti-migrant AfD seeks to break Germany’s political ‘firewal... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T10:00:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-400250e8cb",
+    "slug": "karmelo-anthony-seeks-250k-for-murder-appeal-as-questions-persist-over-familys-previous-63",
+    "guid": "https://www.foxnews.com/us/karmelo-anthony-seeks-250k-murder-appeal-questions-persist-familys-previous-634k-fundraiser",
+    "title": "Karmelo Anthony seeks $250K for murder appeal as questions persist over family’s previous $634K fundraiser",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Karmelo Anthony&apos;s family launches a new $250,000 GiveSendGo appeal fund after a previous campaign raised nearly $634,000 and sparked spending questions.",
+    "content": [
+      "Karmelo Anthony&apos;s family launches a new $250,000 GiveSendGo appeal fund after a previous campaign raised nearly $634,000 and sparked spending questions.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Austin-Metcalf-and-Karmelo-Anthony.jpeg?ve=1&tl=1",
+    "imageCaption": "Karmelo Anthony seeks $250K for murder appeal as questions p... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T10:00:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0844f03c96",
+    "slug": "house-dems-plot-trump-investigation-blitz-if-they-seize-majority",
+    "guid": "https://www.foxnews.com/politics/house-dems-plot-trump-investigation-blitz-seize-majority",
+    "title": "House Dems plot Trump investigation blitz if they seize majority",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Rep. Robert Garcia outlined key targets, including the Trump family, Jeffrey Epstein and ICE, as House Democrats prepare oversight investigations.",
+    "content": [
+      "Rep. Robert Garcia outlined key targets, including the Trump family, Jeffrey Epstein and ICE, as House Democrats prepare oversight investigations.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/donald-trump-oval-office-8-31-26.png?ve=1&tl=1",
+    "imageCaption": "House Dems plot Trump investigation blitz if they seize majo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T10:00:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8072e74ae5",
+    "slug": "american-culture-quiz-test-yourself-on-hollywood-health-and-mountain-missions",
+    "guid": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-hollywood-health-mountain-missions",
+    "title": "American Culture Quiz: Test yourself on Hollywood health and mountain missions",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of Hollywood health, mountain missions and more.",
+    "content": [
+      "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of Hollywood health, mountain missions and more.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/quiz-collage-sept6.jpg?ve=1&tl=1",
+    "imageCaption": "American Culture Quiz: Test yourself on Hollywood health and... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-06T10:00:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-b56a7afcb5",
     "slug": "6-money-saving-apps-to-help-you-grow-your-wealth",
     "guid": "money-saving-apps-230925997.html",
