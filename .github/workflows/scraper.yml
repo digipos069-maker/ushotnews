@@ -30,7 +30,7 @@ jobs:
       - name: Run Scraper Engine
         env:
           ADMIN_API_KEY: ${{ secrets.ADMIN_API_KEY || 'ushotnews_secret_scraper_key_2026' }}
-          VERCEL_SITE_URL: ${{ secrets.VERCEL_SITE_URL || 'http://ushotnews.online' }}
+          VERCEL_SITE_URL: ${{ secrets.VERCEL_SITE_URL || 'https://ushotnews.online' }}
         run: |
           python scripts/news_scraper.py \
             --api "${VERCEL_SITE_URL}/api/articles" \

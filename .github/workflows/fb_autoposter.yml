@@ -1,0 +1,50 @@
+name: Facebook Page Auto-Publisher
+
+on:
+  schedule:
+    # Automatically runs every hour at minute 15 (e.g. 1:15, 2:15, etc.)
+    - cron: '15 * * * *'
+  workflow_dispatch: # Allows manual "Run workflow" trigger in GitHub Actions
+
+permissions:
+  contents: write
+
+jobs:
+  publish-to-facebook:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Check Credentials & Run Facebook Publisher
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          NEXT_PUBLIC_SITE_URL: "https://ushotnews.online"
+        run: |
+          if [ -z "$FB_PAGE_ID" ] || [ -z "$FB_PAGE_ACCESS_TOKEN" ]; then
+            echo "⚠️ [NOTICE] FB_PAGE_ID or FB_PAGE_ACCESS_TOKEN secret is not set yet in GitHub Secrets."
+            echo "Running in DRY-RUN mode to preview articles that would be published:"
+            python scripts/fb_poster/fb_publisher.py --dry-run --limit 1
+          else
+            echo "✅ Facebook credentials detected. Publishing latest story as Clickable Link Card..."
+            python scripts/fb_poster/fb_publisher.py --limit 1
+          fi
+
+      - name: Commit and Push Updated Posting History
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fb_posted_history.json
+          git diff --staged --quiet || (git commit -m "chore(fb-poster): record published story [skip ci]" && git push)
