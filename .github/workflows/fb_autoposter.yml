@@ -29,18 +29,29 @@ jobs:
 
       - name: Check Credentials & Run Facebook Publisher
         env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID || secrets.PAGE_ID || secrets.FB_PAGEID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN || secrets.FB_ACCESS_TOKEN || secrets.PAGE_ACCESS_TOKEN }}
           NEXT_PUBLIC_SITE_URL: "https://ushotnews.online"
         run: |
+          echo "=================================================="
+          echo "🔍 Checking GitHub Secrets for Facebook..."
           if [ -z "$FB_PAGE_ID" ] || [ -z "$FB_PAGE_ACCESS_TOKEN" ]; then
-            echo "⚠️ [NOTICE] FB_PAGE_ID or FB_PAGE_ACCESS_TOKEN secret is not set yet in GitHub Secrets."
-            echo "Running in DRY-RUN mode to preview articles that would be published:"
-            python scripts/fb_poster/fb_publisher.py --dry-run --limit 1
-          else
-            echo "✅ Facebook credentials detected. Publishing latest story as Clickable Link Card..."
-            python scripts/fb_poster/fb_publisher.py --limit 1
+            echo "❌ [ERROR] Missing Facebook Credentials in GitHub Secrets!"
+            echo "   Checked secret names: FB_PAGE_ID (or PAGE_ID) and FB_PAGE_ACCESS_TOKEN (or FB_ACCESS_TOKEN)"
+            echo ""
+            echo "   Please add them in your GitHub Repository under:"
+            echo "   Settings -> Secrets and variables -> Actions -> Repository secrets"
+            echo "   1. FB_PAGE_ID: your Facebook Page ID (e.g. 100092837482)"
+            echo "   2. FB_PAGE_ACCESS_TOKEN: your Page Access Token"
+            echo "=================================================="
+            exit 1
           fi
+
+          echo "✅ Facebook Credentials found in GitHub Secrets!"
+          echo "   Page ID length: ${#FB_PAGE_ID}"
+          echo "   Token length: ${#FB_PAGE_ACCESS_TOKEN}"
+          echo "=================================================="
+          python scripts/fb_poster/fb_publisher.py --limit 1
 
       - name: Commit and Push Updated Posting History
         run: |

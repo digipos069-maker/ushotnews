@@ -163,6 +163,53 @@ def format_facebook_message(article: Dict[str, Any], site_url: str) -> str:
     return "\n".join(lines)
 
 
+def verify_facebook_token(page_id: str, access_token: str, graph_version: str = FB_GRAPH_VERSION) -> Optional[str]:
+    """
+    Validates the Facebook access token before attempting to post.
+    Returns the target Page ID to use, or None if the token is completely invalid.
+    """
+    if not HAS_REQUESTS:
+        return page_id
+
+    try:
+        masked_token = access_token[:8] + "..." + access_token[-4:] if len(access_token) > 15 else "***"
+        logger.info(f"Validating Facebook credentials (Page ID: {page_id}, Token: {masked_token}, Length: {len(access_token)})")
+
+        url = f"https://graph.facebook.com/{graph_version}/me?fields=id,name,category&access_token={access_token}"
+        resp = requests.get(url, timeout=15)
+        data = resp.json()
+
+        if resp.status_code != 200:
+            error_data = data.get("error", {})
+            logger.error(f"❌ Facebook Token Validation FAILED (HTTP {resp.status_code}):")
+            logger.error(f"   Message: {error_data.get('message')}")
+            logger.error(f"   Code: {error_data.get('code')}, Subcode: {error_data.get('error_subcode')}, Type: {error_data.get('type')}")
+            if error_data.get("code") == 190:
+                logger.error("   👉 ACTION REQUIRED: Your access token is EXPIRED or INVALID. Please generate a fresh Page Access Token.")
+            return None
+
+        token_id = str(data.get("id"))
+        token_name = data.get("name")
+        is_page = "category" in data
+
+        logger.info(f"✅ Token Verified! Identity: '{token_name}' (ID: {token_id})")
+
+        if is_page:
+            logger.info(f"✅ Token Type: PAGE ACCESS TOKEN (Page: {token_name})")
+            if token_id != str(page_id):
+                logger.warning(f"⚠️ Notice: Configured FB_PAGE_ID ({page_id}) differs from Token Page ID ({token_id}). Using Token Page ID ({token_id}).")
+                return token_id
+            return page_id
+        else:
+            logger.warning("⚠️ CAUTION: Connected identity is a USER PROFILE, NOT a Facebook Page!")
+            logger.warning("   Facebook requires a PAGE Access Token with 'pages_manage_posts' permission.")
+            logger.warning("   In Meta Graph API Explorer: Open the 'User or Page' dropdown and select your PAGE, not your personal name.")
+            return page_id
+    except Exception as e:
+        logger.warning(f"Could not connect to Facebook verification endpoint: {e}")
+        return page_id
+
+
 def post_clickable_link_to_facebook(
     page_id: str,
     access_token: str,
@@ -186,15 +233,19 @@ def post_clickable_link_to_facebook(
     }
 
     try:
-        response = requests.post(endpoint, data=payload, timeout=20)
+        response = requests.post(endpoint, data=payload, timeout=25)
         data = response.json()
 
         if response.status_code == 200 and "id" in data:
-            logger.info(f"Successfully posted to Facebook Page! Post ID: {data['id']}")
+            logger.info(f"🎉 Successfully posted to Facebook Page! Post ID: {data['id']}")
             return {"success": True, "post_id": data["id"]}
         else:
-            err_msg = data.get("error", {}).get("message", response.text)
-            logger.error(f"Facebook Graph API Error ({response.status_code}): {err_msg}")
+            err = data.get("error", {})
+            err_msg = err.get("message", response.text)
+            err_code = err.get("code")
+            err_subcode = err.get("error_subcode")
+            logger.error(f"❌ Facebook Graph API Error (HTTP {response.status_code}): {err_msg}")
+            logger.error(f"   Error Code: {err_code}, Subcode: {err_subcode}, Type: {err.get('type')}")
             return {"success": False, "error": err_msg, "response": data}
     except Exception as e:
         logger.error(f"Exception while posting to Facebook Graph API: {e}")
@@ -224,6 +275,13 @@ def run_publisher(
         logger.error("Missing required credentials: FB_PAGE_ID or FB_PAGE_ACCESS_TOKEN.")
         logger.info("Run with --dry-run to test article formatting and pipeline without Facebook credentials.")
         return 1
+
+    if not dry_run:
+        verified_page_id = verify_facebook_token(page_id, access_token)
+        if not verified_page_id:
+            logger.error("Aborting run due to invalid Facebook credentials. See details above.")
+            return 1
+        page_id = verified_page_id
 
     history = load_posted_history()
     posted_map = history.get("articles", {})
@@ -297,6 +355,10 @@ def run_publisher(
                 time.sleep(5)
         else:
             logger.error(f"Failed to post article {slug}: {result.get('error')}")
+
+    if to_publish and successful_posts == 0 and not dry_run:
+        logger.error(f"Posting run finished with 0 successes out of {len(to_publish)} attempts. Check errors above.")
+        return 1
 
     logger.info(f"Posting run completed. Successfully published {successful_posts} articles.")
     return 0
