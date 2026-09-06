@@ -183,11 +183,77 @@ async function handleAutoPost(request: NextRequest) {
       );
     }
 
+    // Determine canonical Facebook post URL
+    let fbPostUrl = '';
+    const postIdStr = String(finalPostId).trim();
+    if (postIdStr.includes('_')) {
+      const [pid, sid] = postIdStr.split('_');
+      fbPostUrl = `https://www.facebook.com/${pid}/posts/${sid}`;
+    } else if (target && target !== 'me') {
+      fbPostUrl = `https://www.facebook.com/${target}/posts/${postIdStr}`;
+    } else {
+      fbPostUrl = `https://www.facebook.com/${postIdStr}`;
+    }
+
+    // Query Graph API for official permalink_url if available
+    try {
+      const permalinkResp = await fetch(
+        `https://graph.facebook.com/v21.0/${postIdStr}?fields=permalink_url&access_token=${accessToken}`
+      );
+      if (permalinkResp.ok) {
+        const permalinkData = await permalinkResp.json();
+        if (permalinkData?.permalink_url) {
+          fbPostUrl = permalinkData.permalink_url;
+        }
+      }
+    } catch {
+      // Keep constructed fallback
+    }
+
+    // Safely attempt to persist to data/fb_posted_history.json
+    try {
+      const fs = await import('fs');
+      const path = await import('path');
+      const historyFile = path.join(process.cwd(), 'data', 'fb_posted_history.json');
+      let historyData: any = {
+        last_updated: new Date().toISOString(),
+        posted_count: 0,
+        articles: {},
+      };
+      if (fs.existsSync(historyFile)) {
+        try {
+          const raw = fs.readFileSync(historyFile, 'utf-8');
+          const parsed = JSON.parse(raw);
+          if (parsed && typeof parsed === 'object' && parsed.articles) {
+            historyData = parsed;
+          }
+        } catch {}
+      }
+      const record = {
+        title: latestArticle.title,
+        slug: latestArticle.slug,
+        url: articleUrl,
+        article_url: articleUrl,
+        format: chosenFormat,
+        fb_post_id: finalPostId,
+        fb_post_url: fbPostUrl,
+        posted_at: new Date().toISOString(),
+      };
+      historyData.articles[latestArticle.id] = record;
+      historyData.articles[latestArticle.slug] = record;
+      historyData.last_updated = new Date().toISOString();
+      historyData.posted_count = Object.keys(historyData.articles).length;
+      fs.writeFileSync(historyFile, JSON.stringify(historyData, null, 2), 'utf-8');
+    } catch (saveErr) {
+      console.warn('Could not persist fb_posted_history.json:', saveErr);
+    }
+
     return NextResponse.json({
       success: true,
       message: `Article published to Facebook Page successfully as ${chosenFormat === 'photo' ? 'Native Photo' : 'Clickable Link Card'}`,
       format: chosenFormat,
       fbPostId: finalPostId,
+      fbPostUrl: fbPostUrl,
       article: {
         id: latestArticle.id,
         title: latestArticle.title,

@@ -16,6 +16,7 @@ sys.path.insert(0, PROJECT_ROOT)
 from datetime import datetime, timezone, timedelta
 
 from scripts.fb_poster.fb_publisher import (
+    build_fb_post_url,
     load_posted_history,
     save_posted_history,
     cleanup_old_posted_history,
@@ -53,6 +54,45 @@ class TestFacebookPublisher(unittest.TestCase):
         reloaded = load_posted_history(self.test_history_file)
         self.assertIn("test-slug-123", reloaded["articles"])
         self.assertEqual(reloaded["posted_count"], 1)
+
+    def test_build_fb_post_url(self):
+        """Verify build_fb_post_url generates proper canonical Facebook links."""
+        # Test standard page_post format
+        url1 = build_fb_post_url("1325939953941168_122098519215471257")
+        self.assertEqual(url1, "https://www.facebook.com/1325939953941168/posts/122098519215471257")
+
+        # Test single post ID with explicit page ID
+        url2 = build_fb_post_url("122098519215471257", page_id="1325939953941168")
+        self.assertEqual(url2, "https://www.facebook.com/1325939953941168/posts/122098519215471257")
+
+        # Test single ID fallback
+        url3 = build_fb_post_url("122098519215471257")
+        self.assertEqual(url3, "https://www.facebook.com/122098519215471257")
+
+        # Test empty input
+        self.assertEqual(build_fb_post_url(""), "")
+
+    def test_history_backfills_fb_post_url(self):
+        """Verify that loading history auto-backfills fb_post_url for older records."""
+        legacy_data = {
+            "articles": {
+                "article-1": {
+                    "title": "Old Post Without URL",
+                    "fb_post_id": "1325939953941168_999888777",
+                    "posted_at": "2026-09-06T10:00:00Z"
+                }
+            }
+        }
+        with open(self.test_history_file, "w", encoding="utf-8") as f:
+            json.dump(legacy_data, f)
+
+        loaded = load_posted_history(self.test_history_file)
+        record = loaded["articles"]["article-1"]
+        self.assertIn("fb_post_url", record)
+        self.assertEqual(
+            record["fb_post_url"],
+            "https://www.facebook.com/1325939953941168/posts/999888777"
+        )
 
     def test_format_facebook_message(self):
         """Verify Facebook message formatting contains headline, link, and hashtags."""

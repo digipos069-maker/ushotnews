@@ -5,7 +5,7 @@ import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Article, NewsCategory } from '@/types/news';
-import { Copy, Check, ExternalLink, Filter, Search, ArrowLeft, Globe, Newspaper } from 'lucide-react';
+import { Copy, Check, ExternalLink, Filter, Search, ArrowLeft, Globe, Newspaper, Share2 } from 'lucide-react';
 
 interface PublicUrlClientProps {
   initialArticles: Article[];
@@ -132,14 +132,25 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
             </Link>
           </div>
 
-          <Link
-            href="/"
-            className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-white border border-[#02237d] rounded-none cursor-pointer transition-opacity hover:opacity-90"
-            style={{ backgroundColor: '#032EA1' }}
-          >
-            <ArrowLeft className="w-3.5 h-3.5" />
-            <span>Front Page</span>
-          </Link>
+          <div className="flex items-center gap-2">
+            <Link
+              href="/share-url"
+              className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-white border border-[#02237d] rounded-none cursor-pointer transition-opacity hover:opacity-90"
+              style={{ backgroundColor: '#032EA1' }}
+            >
+              <Share2 className="w-3.5 h-3.5" />
+              <span className="hidden sm:inline">Facebook Posts</span>
+            </Link>
+
+            <Link
+              href="/"
+              className="flex items-center gap-1.5 px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-white border border-[#02237d] rounded-none cursor-pointer transition-opacity hover:opacity-90"
+              style={{ backgroundColor: '#032EA1' }}
+            >
+              <ArrowLeft className="w-3.5 h-3.5" />
+              <span>Front Page</span>
+            </Link>
+          </div>
         </div>
       </header>
 

@@ -46,13 +46,76 @@ DEFAULT_API_URL = os.environ.get("NEXT_API_URL", f"{DEFAULT_SITE_URL}/api/articl
 FB_GRAPH_VERSION = os.environ.get("FB_GRAPH_VERSION", "v21.0")
 
 
+def build_fb_post_url(post_id: str, page_id: Optional[str] = None) -> str:
+    """
+    Constructs the canonical Facebook URL for a given post ID.
+    If post_id is formatted as '{page_id}_{story_id}', returns 'https://www.facebook.com/{page_id}/posts/{story_id}'.
+    Otherwise falls back to page_id or direct post_id link.
+    """
+    if not post_id:
+        return ""
+    post_id_str = str(post_id).strip()
+    if "_" in post_id_str:
+        p_id, s_id = post_id_str.split("_", 1)
+        return f"https://www.facebook.com/{p_id}/posts/{s_id}"
+    elif page_id and str(page_id).strip() != "me":
+        return f"https://www.facebook.com/{str(page_id).strip()}/posts/{post_id_str}"
+    return f"https://www.facebook.com/{post_id_str}"
+
+
+def get_fb_post_permalink(
+    post_id: str,
+    access_token: Optional[str] = None,
+    graph_version: str = FB_GRAPH_VERSION
+) -> Optional[str]:
+    """
+    Queries Meta Graph API to retrieve the official permalink_url for a post.
+    """
+    if not HAS_REQUESTS or not post_id or not access_token:
+        return None
+    try:
+        url = f"https://graph.facebook.com/{graph_version}/{post_id}?fields=permalink_url&access_token={access_token}"
+        resp = requests.get(url, timeout=10)
+        if resp.status_code == 200:
+            data = resp.json()
+            return data.get("permalink_url")
+    except Exception as e:
+        logger.debug(f"Could not fetch permalink_url from Graph API: {e}")
+    return None
+
+
+def resolve_fb_post_url(
+    post_id: str,
+    access_token: Optional[str] = None,
+    page_id: Optional[str] = None,
+    graph_version: str = FB_GRAPH_VERSION
+) -> str:
+    """
+    Resolves the Facebook post URL: attempts official Graph API permalink first,
+    falling back to standard canonical Facebook URL pattern.
+    """
+    permalink = get_fb_post_permalink(post_id, access_token, graph_version)
+    if permalink:
+        return permalink
+    return build_fb_post_url(post_id, page_id)
+
+
 def load_posted_history(file_path: str = HISTORY_FILE) -> Dict[str, Any]:
-    """Loads the history of previously published articles."""
+    """Loads the history of previously published articles and backfills missing fb_post_url."""
     try:
         if os.path.exists(file_path):
             with open(file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
                 if isinstance(data, dict) and "articles" in data:
+                    # Auto-backfill fb_post_url for any records that have fb_post_id but lack fb_post_url
+                    articles = data.get("articles", {})
+                    for key, item in articles.items():
+                        if isinstance(item, dict):
+                            post_id = item.get("fb_post_id")
+                            if post_id and not item.get("fb_post_url"):
+                                item["fb_post_url"] = build_fb_post_url(post_id)
+                            if not item.get("article_url") and item.get("url"):
+                                item["article_url"] = item.get("url")
                     return data
     except Exception as e:
         logger.warning(f"Could not load posted history from {file_path}: {e}")
@@ -270,15 +333,21 @@ def post_clickable_link_to_facebook(
             fallback_resp = requests.post(fallback_endpoint, data=payload, timeout=25)
             fallback_data = fallback_resp.json()
             if fallback_resp.status_code == 200 and "id" in fallback_data:
-                logger.info(f"🎉 Successfully posted to Facebook Page via /me/feed! Post ID: {fallback_data['id']}")
-                return {"success": True, "post_id": fallback_data["id"]}
+                post_id = fallback_data["id"]
+                post_url = resolve_fb_post_url(post_id, access_token, page_id, graph_version)
+                logger.info(f"🎉 Successfully posted to Facebook Page via /me/feed! Post ID: {post_id}")
+                logger.info(f"🔗 Facebook Post Link: {post_url}")
+                return {"success": True, "post_id": post_id, "post_url": post_url}
             # Update to fallback response if it still failed
             response = fallback_resp
             data = fallback_data
 
         if response.status_code == 200 and "id" in data:
-            logger.info(f"🎉 Successfully posted to Facebook Page! Post ID: {data['id']}")
-            return {"success": True, "post_id": data["id"]}
+            post_id = data["id"]
+            post_url = resolve_fb_post_url(post_id, access_token, page_id, graph_version)
+            logger.info(f"🎉 Successfully posted to Facebook Page! Post ID: {post_id}")
+            logger.info(f"🔗 Facebook Post Link: {post_url}")
+            return {"success": True, "post_id": post_id, "post_url": post_url}
         else:
             err = data.get("error", {})
             err_msg = err.get("message", response.text)
@@ -327,15 +396,19 @@ def post_native_photo_to_facebook(
             fallback_data = fallback_resp.json()
             post_id = fallback_data.get("post_id") or fallback_data.get("id")
             if fallback_resp.status_code == 200 and post_id:
+                post_url = resolve_fb_post_url(post_id, access_token, page_id, graph_version)
                 logger.info(f"🎉 Successfully posted Native Photo to Facebook Page via /me/photos! Post ID: {post_id}")
-                return {"success": True, "post_id": post_id}
+                logger.info(f"🔗 Facebook Post Link: {post_url}")
+                return {"success": True, "post_id": post_id, "post_url": post_url}
             response = fallback_resp
             data = fallback_data
 
         post_id = data.get("post_id") or data.get("id")
         if response.status_code == 200 and post_id:
+            post_url = resolve_fb_post_url(post_id, access_token, page_id, graph_version)
             logger.info(f"🎉 Successfully posted Native Photo to Facebook Page! Post ID: {post_id}")
-            return {"success": True, "post_id": post_id}
+            logger.info(f"🔗 Facebook Post Link: {post_url}")
+            return {"success": True, "post_id": post_id, "post_url": post_url}
         else:
             err = data.get("error", {})
             err_msg = err.get("message", response.text)
@@ -518,12 +591,16 @@ def run_publisher(
 
         if result.get("success"):
             successful_posts += 1
+            post_id = result.get("post_id")
+            fb_post_url = result.get("post_url") or resolve_fb_post_url(post_id, access_token, page_id)
             posted_map[art_id] = {
                 "title": article.get("title"),
                 "slug": slug,
                 "url": article_url,
+                "article_url": article_url,
                 "format": chosen_format,
-                "fb_post_id": result.get("post_id"),
+                "fb_post_id": post_id,
+                "fb_post_url": fb_post_url,
                 "posted_at": datetime.now(timezone.utc).isoformat()
             }
             posted_map[slug] = posted_map[art_id] # Also index by slug for deduplication
