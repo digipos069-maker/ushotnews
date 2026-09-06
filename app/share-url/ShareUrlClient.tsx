@@ -31,6 +31,11 @@ export default function ShareUrlClient({ initialPosts, siteUrl }: ShareUrlClient
   const [copiedTitleId, setCopiedTitleId] = useState<string | null>(null);
   const [isRefreshing, setIsRefreshing] = useState(false);
 
+  // Checkbox multi-select states
+  const [selectedIds, setSelectedIds] = useState<string[]>([]);
+  const [copiedCheckedFb, setCopiedCheckedFb] = useState(false);
+  const [copiedCheckedArticle, setCopiedCheckedArticle] = useState(false);
+
   // Filter posts based on search query and format
   const filteredPosts = useMemo(() => {
     return (posts || []).filter((post) => {
@@ -48,6 +53,28 @@ export default function ShareUrlClient({ initialPosts, siteUrl }: ShareUrlClient
       return matchesFormat && matchesSearch;
     });
   }, [posts, selectedFormat, searchQuery]);
+
+  const allVisibleKeys = useMemo(() => {
+    return filteredPosts.map((p) => p.id || p.fb_post_id);
+  }, [filteredPosts]);
+
+  const isAllSelected =
+    allVisibleKeys.length > 0 && allVisibleKeys.every((key) => selectedIds.includes(key));
+  const isSomeSelected = selectedIds.length > 0 && !isAllSelected;
+
+  const toggleSelectAll = () => {
+    if (isAllSelected) {
+      setSelectedIds([]);
+    } else {
+      setSelectedIds(allVisibleKeys);
+    }
+  };
+
+  const toggleSelect = (key: string) => {
+    setSelectedIds((prev) =>
+      prev.includes(key) ? prev.filter((k) => k !== key) : [...prev, key]
+    );
+  };
 
   // Safe clipboard helper with legacy fallback
   const copyToClipboard = async (text: string): Promise<boolean> => {
@@ -69,6 +96,54 @@ export default function ShareUrlClient({ initialPosts, siteUrl }: ShareUrlClient
     } catch (err) {
       console.error('Clipboard copy error:', err);
       return false;
+    }
+  };
+
+  /**
+   * Copies all checked Facebook post URLs in newline-separated format:
+   * url1
+   * url2
+   * url3
+   */
+  const handleCopyCheckedFbUrls = async () => {
+    const selected = filteredPosts.filter((p) =>
+      selectedIds.includes(p.id || p.fb_post_id)
+    );
+    const urls = selected
+      .map((p) => p.fb_post_url)
+      .filter((url): url is string => Boolean(url && url.trim()));
+
+    if (urls.length === 0) return;
+
+    const text = urls.join('\n');
+    const ok = await copyToClipboard(text);
+    if (ok) {
+      setCopiedCheckedFb(true);
+      setTimeout(() => setCopiedCheckedFb(false), 2500);
+    }
+  };
+
+  /**
+   * Copies all checked article website URLs in newline-separated format:
+   * url1
+   * url2
+   * url3
+   */
+  const handleCopyCheckedArticleUrls = async () => {
+    const selected = filteredPosts.filter((p) =>
+      selectedIds.includes(p.id || p.fb_post_id)
+    );
+    const urls = selected
+      .map((p) => p.article_url || p.url || `${siteUrl}/article/${p.slug}`)
+      .filter((url): url is string => Boolean(url && url.trim()));
+
+    if (urls.length === 0) return;
+
+    const text = urls.join('\n');
+    const ok = await copyToClipboard(text);
+    if (ok) {
+      setCopiedCheckedArticle(true);
+      setTimeout(() => setCopiedCheckedArticle(false), 2500);
     }
   };
 
@@ -259,33 +334,126 @@ export default function ShareUrlClient({ initialPosts, siteUrl }: ShareUrlClient
             )}
 
             {/* Format Filter Buttons */}
-            <div className="flex items-center gap-1.5">
-              <div className="flex items-center gap-1 text-xs font-bold text-slate-500 pr-2 border-r border-[#e0e0e0]">
-                <Filter className="w-3.5 h-3.5 text-[#032EA1]" />
-                <span className="uppercase tracking-wider text-[11px]">Format:</span>
+            <div className="flex flex-wrap items-center gap-1.5 flex-1 justify-between">
+              <div className="flex items-center gap-1.5">
+                <div className="flex items-center gap-1 text-xs font-bold text-slate-500 pr-2 border-r border-[#e0e0e0]">
+                  <Filter className="w-3.5 h-3.5 text-[#032EA1]" />
+                  <span className="uppercase tracking-wider text-[11px]">Format:</span>
+                </div>
+                {(['All', 'link_card', 'photo'] as const).map((fmt) => {
+                  const isActive = selectedFormat === fmt;
+                  const label = fmt === 'All' ? 'All' : fmt === 'photo' ? 'Native Photo' : 'Link Card';
+                  return (
+                    <button
+                      key={fmt}
+                      type="button"
+                      onClick={() => setSelectedFormat(fmt)}
+                      className={`px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-none cursor-pointer transition-all border ${
+                        isActive
+                          ? 'text-white border-[#02237d] shadow-xs'
+                          : 'text-slate-700 bg-slate-50 hover:bg-slate-100 border-[#e0e0e0]'
+                      }`}
+                      style={isActive ? { backgroundColor: '#032EA1' } : {}}
+                    >
+                      {label}
+                    </button>
+                  );
+                })}
               </div>
-              {(['All', 'link_card', 'photo'] as const).map((fmt) => {
-                const isActive = selectedFormat === fmt;
-                const label = fmt === 'All' ? 'All' : fmt === 'photo' ? 'Native Photo' : 'Link Card';
-                return (
-                  <button
-                    key={fmt}
-                    type="button"
-                    onClick={() => setSelectedFormat(fmt)}
-                    className={`px-3 py-1.5 text-xs font-bold uppercase tracking-wider rounded-none cursor-pointer transition-all border ${
-                      isActive
-                        ? 'text-white border-[#02237d] shadow-xs'
-                        : 'text-slate-700 bg-slate-50 hover:bg-slate-100 border-[#e0e0e0]'
-                    }`}
-                    style={isActive ? { backgroundColor: '#032EA1' } : {}}
-                  >
-                    {label}
-                  </button>
-                );
-              })}
+
+              {/* Select All Button */}
+              {filteredPosts.length > 0 && (
+                <button
+                  type="button"
+                  onClick={toggleSelectAll}
+                  className="px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-white border border-[#02237d] rounded-none cursor-pointer hover:opacity-90 transition-opacity"
+                  style={{ backgroundColor: '#032EA1' }}
+                  title={isAllSelected ? 'Deselect All Visible Stories' : 'Select All Visible Stories'}
+                >
+                  {isAllSelected ? 'Deselect All' : `Select All (${filteredPosts.length})`}
+                </button>
+              )}
             </div>
           </div>
         </div>
+
+        {/* Batch Action Toolbar when items are checked */}
+        {selectedIds.length > 0 && (
+          <div className="bg-[#032EA1]/5 border-2 border-[#032EA1] p-4 mb-6 rounded-none flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-xs">
+            <div className="flex items-center gap-3">
+              <span className="w-3 h-3 bg-[#032EA1]"></span>
+              <div>
+                <span className="text-xs font-black uppercase tracking-wider text-[#032EA1]">
+                  {selectedIds.length} Story{selectedIds.length > 1 ? 'ies' : ''} Checked
+                </span>
+                <span className="text-[11px] text-slate-500 block font-mono">
+                  Copies 1 URL per line (url1 \n url2 \n url3)
+                </span>
+              </div>
+            </div>
+
+            <div className="flex flex-wrap items-center gap-2">
+              {/* Copy All Checked FB URLs */}
+              <button
+                type="button"
+                onClick={handleCopyCheckedFbUrls}
+                className={`flex items-center gap-1.5 px-3.5 py-2 text-xs font-bold uppercase tracking-wider text-white rounded-none cursor-pointer transition-all border ${
+                  copiedCheckedFb
+                    ? 'bg-emerald-600 border-emerald-700'
+                    : 'border-[#02237d] hover:opacity-90'
+                }`}
+                style={!copiedCheckedFb ? { backgroundColor: '#032EA1' } : {}}
+                title="Copy checked Facebook post URLs (1 URL per line)"
+              >
+                {copiedCheckedFb ? (
+                  <>
+                    <Check className="w-3.5 h-3.5" />
+                    <span>Copied {selectedIds.length} FB URLs!</span>
+                  </>
+                ) : (
+                  <>
+                    <Copy className="w-3.5 h-3.5" />
+                    <span>Copy Checked FB URLs ({selectedIds.length})</span>
+                  </>
+                )}
+              </button>
+
+              {/* Copy All Checked Web URLs */}
+              <button
+                type="button"
+                onClick={handleCopyCheckedArticleUrls}
+                className={`flex items-center gap-1.5 px-3.5 py-2 text-xs font-bold uppercase tracking-wider text-white rounded-none cursor-pointer transition-all border ${
+                  copiedCheckedArticle
+                    ? 'bg-emerald-600 border-emerald-700'
+                    : 'border-[#02237d] hover:opacity-90'
+                }`}
+                style={!copiedCheckedArticle ? { backgroundColor: '#032EA1' } : {}}
+                title="Copy checked website article URLs (1 URL per line)"
+              >
+                {copiedCheckedArticle ? (
+                  <>
+                    <Check className="w-3.5 h-3.5" />
+                    <span>Copied {selectedIds.length} Web URLs!</span>
+                  </>
+                ) : (
+                  <>
+                    <Copy className="w-3.5 h-3.5" />
+                    <span>Copy Checked Web URLs ({selectedIds.length})</span>
+                  </>
+                )}
+              </button>
+
+              {/* Deselect All */}
+              <button
+                type="button"
+                onClick={() => setSelectedIds([])}
+                className="px-3 py-2 text-xs font-bold uppercase tracking-wider text-slate-700 bg-white border border-[#e0e0e0] rounded-none hover:bg-slate-100 cursor-pointer"
+              >
+                Deselect
+              </button>
+            </div>
+          </div>
+        )}
 
         {/* Facebook Posts Table */}
         <div className="bg-white border border-[#e0e0e0] rounded-none shadow-xs overflow-hidden">
@@ -320,7 +488,17 @@ export default function ShareUrlClient({ initialPosts, siteUrl }: ShareUrlClient
               >
                 <thead>
                   <tr className="text-white text-xs uppercase tracking-wider border-b border-[#02237d]">
-                    <th className="py-3.5 px-4 font-bold w-12 text-center border-r border-[#02237d]">#</th>
+                    {/* Checkbox Column Header */}
+                    <th className="py-3.5 px-3 text-center w-12 border-r border-[#02237d]">
+                      <input
+                        type="checkbox"
+                        checked={isAllSelected}
+                        onChange={toggleSelectAll}
+                        title={isAllSelected ? 'Deselect All Visible' : 'Select All Visible'}
+                        className="w-4 h-4 cursor-pointer accent-[#032EA1]"
+                      />
+                    </th>
+                    <th className="py-3.5 px-3 font-bold w-12 text-center border-r border-[#02237d]">#</th>
                     <th className="py-3.5 px-4 font-bold border-r border-[#02237d]">Headline & Story</th>
                     <th className="py-3.5 px-4 font-bold border-r border-[#02237d]">Facebook Post URL</th>
                     <th className="py-3.5 px-4 font-bold border-r border-[#02237d] hidden lg:table-cell">Published</th>
@@ -330,6 +508,7 @@ export default function ShareUrlClient({ initialPosts, siteUrl }: ShareUrlClient
                 <tbody className="divide-y divide-[#e0e0e0] text-xs bg-white">
                   {filteredPosts.map((post, idx) => {
                     const postKey = post.id || post.fb_post_id;
+                    const isSelected = selectedIds.includes(postKey);
                     const isFbUrlCopied = copiedFbUrlId === postKey;
                     const isArticleUrlCopied = copiedArticleUrlId === postKey;
                     const isTitleCopied = copiedTitleId === postKey;
@@ -339,10 +518,23 @@ export default function ShareUrlClient({ initialPosts, siteUrl }: ShareUrlClient
                     return (
                       <tr
                         key={postKey}
-                        className="hover:bg-slate-50 transition-colors group bg-white"
+                        className={`transition-colors group ${
+                          isSelected ? 'bg-blue-50/60' : 'hover:bg-slate-50 bg-white'
+                        }`}
                       >
+                        {/* Checkbox Cell */}
+                        <td className="py-3.5 px-3 text-center border-r border-[#e0e0e0] bg-slate-50/50">
+                          <input
+                            type="checkbox"
+                            checked={isSelected}
+                            onChange={() => toggleSelect(postKey)}
+                            aria-label={`Select ${post.title}`}
+                            className="w-4 h-4 cursor-pointer accent-[#032EA1]"
+                          />
+                        </td>
+
                         {/* Index */}
-                        <td className="py-3.5 px-4 font-mono font-bold text-slate-400 text-center border-r border-[#e0e0e0]">
+                        <td className="py-3.5 px-3 font-mono font-bold text-slate-400 text-center border-r border-[#e0e0e0]">
                           {String(idx + 1).padStart(2, '0')}
                         </td>
 

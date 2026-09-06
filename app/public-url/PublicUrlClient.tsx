@@ -31,6 +31,10 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
   const [copiedUrlId, setCopiedUrlId] = useState<string | null>(null);
   const [copiedTitleId, setCopiedTitleId] = useState<string | null>(null);
 
+  // Checkbox multi-select state
+  const [selectedIds, setSelectedIds] = useState<string[]>([]);
+  const [copiedChecked, setCopiedChecked] = useState(false);
+
   // Filter articles based on Category and optional search query
   const filteredArticles = useMemo(() => {
     return articles.filter((art) => {
@@ -48,6 +52,59 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
 
   const displayedArticles = filteredArticles.slice(0, visibleCount);
   const hasMore = visibleCount < filteredArticles.length;
+
+  const allVisibleIds = useMemo(() => {
+    return displayedArticles.map((a) => a.id);
+  }, [displayedArticles]);
+
+  const isAllSelected =
+    allVisibleIds.length > 0 && allVisibleIds.every((id) => selectedIds.includes(id));
+
+  const toggleSelectAll = () => {
+    if (isAllSelected) {
+      setSelectedIds([]);
+    } else {
+      setSelectedIds(allVisibleIds);
+    }
+  };
+
+  const toggleSelect = (id: string) => {
+    setSelectedIds((prev) =>
+      prev.includes(id) ? prev.filter((item) => item !== id) : [...prev, id]
+    );
+  };
+
+  /**
+   * Copies all checked article URLs in format:
+   * url1
+   * url2
+   * url3
+   */
+  const handleCopyCheckedUrls = async () => {
+    const selectedArticles = articles.filter((a) => selectedIds.includes(a.id));
+    const urls = selectedArticles.map((a) => `${siteUrl}/article/${a.slug}`);
+    if (urls.length === 0) return;
+
+    const text = urls.join('\n');
+    try {
+      if (typeof navigator !== 'undefined' && navigator?.clipboard?.writeText) {
+        await navigator.clipboard.writeText(text);
+      } else {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.position = 'fixed';
+        textarea.style.opacity = '0';
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+      }
+      setCopiedChecked(true);
+      setTimeout(() => setCopiedChecked(false), 2500);
+    } catch (err) {
+      console.error('Failed to copy checked URLs:', err);
+    }
+  };
 
   const handleCopyUrl = async (article: Article) => {
     const fullUrl = `${siteUrl}/article/${article.slug}`;
@@ -248,8 +305,74 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
                 </button>
               );
             })}
+
+            {/* Select All Button */}
+            {displayedArticles.length > 0 && (
+              <button
+                type="button"
+                onClick={toggleSelectAll}
+                className="ml-auto px-3 py-1.5 text-xs font-bold uppercase tracking-wider text-white border border-[#02237d] rounded-none cursor-pointer hover:opacity-90 transition-opacity"
+                style={{ backgroundColor: '#032EA1' }}
+                title={isAllSelected ? 'Deselect All Visible Stories' : 'Select All Visible Stories'}
+              >
+                {isAllSelected ? 'Deselect All' : `Select All (${displayedArticles.length})`}
+              </button>
+            )}
           </div>
         </div>
+
+        {/* Batch Action Toolbar when items checked */}
+        {selectedIds.length > 0 && (
+          <div className="bg-[#032EA1]/5 border-2 border-[#032EA1] p-4 mb-6 rounded-none flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-xs">
+            <div className="flex items-center gap-3">
+              <span className="w-3 h-3 bg-[#032EA1]"></span>
+              <div>
+                <span className="text-xs font-black uppercase tracking-wider text-[#032EA1]">
+                  {selectedIds.length} Article{selectedIds.length > 1 ? 's' : ''} Checked
+                </span>
+                <span className="text-[11px] text-slate-500 block font-mono">
+                  Copies 1 URL per line (url1 \n url2 \n url3)
+                </span>
+              </div>
+            </div>
+
+            <div className="flex flex-wrap items-center gap-2">
+              {/* Copy Checked URLs */}
+              <button
+                type="button"
+                onClick={handleCopyCheckedUrls}
+                className={`flex items-center gap-1.5 px-3.5 py-2 text-xs font-bold uppercase tracking-wider text-white rounded-none cursor-pointer transition-all border ${
+                  copiedChecked
+                    ? 'bg-emerald-600 border-emerald-700'
+                    : 'border-[#02237d] hover:opacity-90'
+                }`}
+                style={!copiedChecked ? { backgroundColor: '#032EA1' } : {}}
+                title="Copy all selected article URLs (1 URL per line)"
+              >
+                {copiedChecked ? (
+                  <>
+                    <Check className="w-3.5 h-3.5" />
+                    <span>Copied {selectedIds.length} URLs!</span>
+                  </>
+                ) : (
+                  <>
+                    <Copy className="w-3.5 h-3.5" />
+                    <span>Copy Checked URLs ({selectedIds.length})</span>
+                  </>
+                )}
+              </button>
+
+              {/* Deselect All */}
+              <button
+                type="button"
+                onClick={() => setSelectedIds([])}
+                className="px-3 py-2 text-xs font-bold uppercase tracking-wider text-slate-700 bg-white border border-[#e0e0e0] rounded-none hover:bg-slate-100 cursor-pointer"
+              >
+                Deselect
+              </button>
+            </div>
+          </div>
+        )}
 
         {/* Articles Table / List */}
         <div className="bg-white border border-[#e0e0e0] rounded-none shadow-xs overflow-hidden">
@@ -275,17 +398,31 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
             </div>
           ) : (
             <div className="overflow-x-auto">
-              <table className="w-full text-left border-collapse">
+              <table
+                className="w-full text-left border-collapse"
+                style={{ backgroundColor: '#032EA1' }}
+              >
                 <thead>
-                  <tr className="bg-slate-100/90 text-slate-700 text-xs uppercase tracking-wider border-b border-[#e0e0e0]">
-                    <th className="py-3 px-4 font-bold w-12 text-center border-r border-[#e0e0e0]">#</th>
-                    <th className="py-3 px-4 font-bold border-r border-[#e0e0e0]">Headline & Category</th>
-                    <th className="py-3 px-4 font-bold border-r border-[#e0e0e0] hidden md:table-cell">Published</th>
-                    <th className="py-3 px-4 font-bold text-right w-64 sm:w-72">Action</th>
+                  <tr className="text-white text-xs uppercase tracking-wider border-b border-[#02237d]">
+                    {/* Checkbox Column Header */}
+                    <th className="py-3.5 px-3 text-center w-12 border-r border-[#02237d]">
+                      <input
+                        type="checkbox"
+                        checked={isAllSelected}
+                        onChange={toggleSelectAll}
+                        title={isAllSelected ? 'Deselect All Visible' : 'Select All Visible'}
+                        className="w-4 h-4 cursor-pointer accent-[#032EA1]"
+                      />
+                    </th>
+                    <th className="py-3.5 px-3 font-bold w-12 text-center border-r border-[#02237d]">#</th>
+                    <th className="py-3.5 px-4 font-bold border-r border-[#02237d]">Headline & Category</th>
+                    <th className="py-3.5 px-4 font-bold border-r border-[#02237d] hidden md:table-cell">Published</th>
+                    <th className="py-3.5 px-4 font-bold text-right w-64 sm:w-72">Action</th>
                   </tr>
                 </thead>
-                <tbody className="divide-y divide-[#e0e0e0] text-xs">
+                <tbody className="divide-y divide-[#e0e0e0] text-xs bg-white">
                   {displayedArticles.map((art, idx) => {
+                    const isSelected = selectedIds.includes(art.id);
                     const isUrlCopied = copiedUrlId === art.id;
                     const isTitleCopied = copiedTitleId === art.id;
                     const fullUrl = `${siteUrl}/article/${art.slug}`;
@@ -293,10 +430,23 @@ export default function PublicUrlClient({ initialArticles, siteUrl }: PublicUrlC
                     return (
                       <tr
                         key={art.id}
-                        className="hover:bg-slate-50 transition-colors group bg-white"
+                        className={`transition-colors group ${
+                          isSelected ? 'bg-blue-50/60' : 'hover:bg-slate-50 bg-white'
+                        }`}
                       >
+                        {/* Checkbox Cell */}
+                        <td className="py-3.5 px-3 text-center border-r border-[#e0e0e0] bg-slate-50/50">
+                          <input
+                            type="checkbox"
+                            checked={isSelected}
+                            onChange={() => toggleSelect(art.id)}
+                            aria-label={`Select ${art.title}`}
+                            className="w-4 h-4 cursor-pointer accent-[#032EA1]"
+                          />
+                        </td>
+
                         {/* Index */}
-                        <td className="py-3.5 px-4 font-mono font-bold text-slate-400 text-center">
+                        <td className="py-3.5 px-3 font-mono font-bold text-slate-400 text-center border-r border-[#e0e0e0]">
                           {String(idx + 1).padStart(2, '0')}
                         </td>
 
