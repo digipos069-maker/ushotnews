@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T14:23:29.748495+00:00",
-  "posted_count": 16,
+  "last_updated": "2026-09-06T15:13:27.206052+00:00",
+  "posted_count": 18,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -157,7 +157,27 @@
       "fb_post_id": "1325939953941168_122098912797471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098912797471257",
       "posted_at": "2026-09-06T14:23:29.748427+00:00"
+    },
+    "scraped-59a6bbfc97": {
+      "title": "The 18-Year Housing Cycle Says the Next Market Crash Is Close",
+      "slug": "the-18-year-housing-cycle-says-the-next-market-crash-is-close",
+      "url": "https://ushotnews.online/article/the-18-year-housing-cycle-says-the-next-market-crash-is-close",
+      "article_url": "https://ushotnews.online/article/the-18-year-housing-cycle-says-the-next-market-crash-is-close",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122098947903471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098947903471257",
+      "posted_at": "2026-09-06T15:13:27.205995+00:00"
+    },
+    "the-18-year-housing-cycle-says-the-next-market-crash-is-close": {
+      "title": "The 18-Year Housing Cycle Says the Next Market Crash Is Close",
+      "slug": "the-18-year-housing-cycle-says-the-next-market-crash-is-close",
+      "url": "https://ushotnews.online/article/the-18-year-housing-cycle-says-the-next-market-crash-is-close",
+      "article_url": "https://ushotnews.online/article/the-18-year-housing-cycle-says-the-next-market-crash-is-close",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122098947903471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098947903471257",
+      "posted_at": "2026-09-06T15:13:27.205995+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T14:23:25.311570+00:00"
+  "last_cleaned_at": "2026-09-06T15:13:20.989055+00:00"
 }
