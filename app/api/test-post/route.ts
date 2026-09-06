@@ -48,20 +48,45 @@ async function handleTestPost(request: NextRequest) {
     const slugParam = searchParams.get('slug') || body.slug;
     const requestedFormat = searchParams.get('format') || body.format || 'photo';
 
-    // Credentials resolution
-    const pageId =
+    // Credentials resolution & sanitization
+    const rawPageId =
       searchParams.get('page_id') ||
       body.page_id ||
       process.env.FB_PAGE_ID ||
       process.env.PAGE_ID;
 
-    const accessToken =
+    const pageId = rawPageId
+      ? String(rawPageId).trim().replace(/^["']|["']$/g, '')
+      : null;
+
+    const rawToken =
       searchParams.get('access_token') ||
       body.access_token ||
       process.env.FB_PAGE_ACCESS_TOKEN ||
       process.env.PAGE_ACCESS_TOKEN;
 
+    const accessToken = rawToken
+      ? String(rawToken).trim().replace(/^["']|["']$/g, '').replace(/\r|\n/g, '')
+      : null;
+
     const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.online').replace(/\/$/, '');
+
+    // Check for masked tokens from logs (e.g. EAAhpZCq...6PuO)
+    if (accessToken && accessToken.includes('...')) {
+      return NextResponse.json(
+        {
+          success: false,
+          mode,
+          error:
+            "The token you entered contains '...' which means it was copied from a masked log (like GitHub Actions output) instead of the actual full token. Please copy the complete, unmasked token (~200-300 characters long).",
+          diagnostics: {
+            token_length: accessToken.length,
+            contains_ellipsis: true,
+          },
+        },
+        { status: 400 }
+      );
+    }
 
     // Step 1: Facebook Credential Diagnostics
     const credentialsConfigured = Boolean(pageId && accessToken);
@@ -70,6 +95,7 @@ async function handleTestPost(request: NextRequest) {
       name?: string;
       id?: string;
       error?: string;
+      help?: string;
     } = { valid: false };
 
     if (accessToken) {
@@ -86,9 +112,16 @@ async function handleTestPost(request: NextRequest) {
             id: verifyData.id,
           };
         } else {
+          const errMsg = verifyData.error?.message || 'Token check failed';
+          let helpNotice = '';
+          if (errMsg.includes('could not be decrypted')) {
+            helpNotice =
+              "Facebook cannot decrypt this token. This happens when: (1) The token was truncated or missing characters, (2) The Meta App Secret was reset, or (3) A masked token was pasted. Please test your token at https://developers.facebook.com/tools/debug/accesstoken/";
+          }
           tokenVerification = {
             valid: false,
-            error: verifyData.error?.message || 'Token check failed',
+            error: errMsg,
+            help: helpNotice || undefined,
           };
         }
       } catch (err: any) {
