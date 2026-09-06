@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T15:13:27.206052+00:00",
-  "posted_count": 18,
+  "last_updated": "2026-09-06T16:52:16.255962+00:00",
+  "posted_count": 20,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -177,7 +177,27 @@
       "fb_post_id": "1325939953941168_122098947903471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098947903471257",
       "posted_at": "2026-09-06T15:13:27.205995+00:00"
+    },
+    "scraped-c9d2d2387e": {
+      "title": "Dianthus (DNTH) Piles Up Clinical Wins While Its Losses Widen",
+      "slug": "dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen",
+      "url": "https://ushotnews.online/article/dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen",
+      "article_url": "https://ushotnews.online/article/dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099018313471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099018313471257",
+      "posted_at": "2026-09-06T16:52:16.255887+00:00"
+    },
+    "dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen": {
+      "title": "Dianthus (DNTH) Piles Up Clinical Wins While Its Losses Widen",
+      "slug": "dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen",
+      "url": "https://ushotnews.online/article/dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen",
+      "article_url": "https://ushotnews.online/article/dianthus-dnth-piles-up-clinical-wins-while-its-losses-widen",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099018313471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099018313471257",
+      "posted_at": "2026-09-06T16:52:16.255887+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T15:13:20.989055+00:00"
+  "last_cleaned_at": "2026-09-06T16:52:10.821208+00:00"
 }
