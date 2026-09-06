@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import Script from "next/script";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import MobilePopunderAd from "@/components/MobilePopunderAd";
 import MobileStickyBottomAd from "@/components/MobileStickyBottomAd";
 
 const geistSans = Geist({
@@ -144,7 +143,6 @@ export default function RootLayout({
         )}
       </head>
       <body className="min-h-full flex flex-col bg-slate-50 text-slate-900">
-        <MobilePopunderAd />
         <MobileStickyBottomAd />
         {children}
       </body>
