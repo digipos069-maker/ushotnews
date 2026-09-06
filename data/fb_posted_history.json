@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T21:39:03.235951+00:00",
-  "posted_count": 32,
+  "last_updated": "2026-09-06T22:58:54.844411+00:00",
+  "posted_count": 34,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -317,7 +317,27 @@
       "fb_post_id": "1325939953941168_122099193573471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099193573471257",
       "posted_at": "2026-09-06T21:39:03.235880+00:00"
+    },
+    "scraped-bc912173a1": {
+      "title": "Team USA basketball survives scare against Italy in FIBA Women's World Cup, secures quarterfinal berth",
+      "slug": "team-usa-basketball-survives-scare-against-italy-in-fiba-womens-world-cup-secures-quarterf",
+      "url": "https://ushotnews.online/article/team-usa-basketball-survives-scare-against-italy-in-fiba-womens-world-cup-secures-quarterf",
+      "article_url": "https://ushotnews.online/article/team-usa-basketball-survives-scare-against-italy-in-fiba-womens-world-cup-secures-quarterf",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099226945471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099226945471257",
+      "posted_at": "2026-09-06T22:58:54.844280+00:00"
+    },
+    "team-usa-basketball-survives-scare-against-italy-in-fiba-womens-world-cup-secures-quarterf": {
+      "title": "Team USA basketball survives scare against Italy in FIBA Women's World Cup, secures quarterfinal berth",
+      "slug": "team-usa-basketball-survives-scare-against-italy-in-fiba-womens-world-cup-secures-quarterf",
+      "url": "https://ushotnews.online/article/team-usa-basketball-survives-scare-against-italy-in-fiba-womens-world-cup-secures-quarterf",
+      "article_url": "https://ushotnews.online/article/team-usa-basketball-survives-scare-against-italy-in-fiba-womens-world-cup-secures-quarterf",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099226945471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099226945471257",
+      "posted_at": "2026-09-06T22:58:54.844280+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T21:38:56.403025+00:00"
+  "last_cleaned_at": "2026-09-06T22:58:49.201663+00:00"
 }
