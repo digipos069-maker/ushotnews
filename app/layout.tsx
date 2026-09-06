@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://ushotnews.online';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.online';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -64,8 +64,10 @@ export const metadata: Metadata = {
     images: [
       {
         url: "/og-image.jpg",
+        secureUrl: `${siteUrl}/og-image.jpg`,
         width: 1200,
         height: 630,
+        type: "image/jpeg",
         alt: "US HOT NEWS - Breaking News & Live Wire",
       },
     ],

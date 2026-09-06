@@ -26,6 +26,9 @@ interface ArticlePageProps {
   params: Promise<{ slug: string }>;
 }
 
+export const dynamicParams = true;
+export const revalidate = 60;
+
 export async function generateStaticParams() {
   const articles = await getAllArticles();
   return articles.map((article) => ({
@@ -116,6 +119,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   const { slug } = await params;
   const article = await getArticleBySlug(slug);
 
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.online';
+
   if (!article) {
     return {
       title: 'Article Not Found',
@@ -123,9 +128,27 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     };
   }
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://ushotnews.online';
   const articleUrl = `${siteUrl}/article/${article.slug}`;
   const dynamicKeywords = extractDynamicKeywords(article);
+
+  // Normalize image URL for Facebook and Open Graph to ensure HTTPS absolute URL
+  let rawImageUrl = article.imageUrl || `${siteUrl}/og-image.jpg`;
+  if (rawImageUrl.startsWith('http://')) {
+    rawImageUrl = rawImageUrl.replace(/^http:\/\//i, 'https://');
+  } else if (rawImageUrl.startsWith('/')) {
+    rawImageUrl = `${siteUrl}${rawImageUrl}`;
+  } else if (!rawImageUrl.startsWith('https://')) {
+    rawImageUrl = `${siteUrl}/${rawImageUrl}`;
+  }
+
+  // Parse ISO date for Open Graph article:published_time
+  let isoPublishedTime: string | undefined = undefined;
+  if (article.publishedAt) {
+    const parsed = Date.parse(article.publishedAt);
+    if (!isNaN(parsed)) {
+      isoPublishedTime = new Date(parsed).toISOString();
+    }
+  }
 
   return {
     title: article.title,
@@ -144,16 +167,19 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       siteName: 'US HOT NEWS',
       locale: 'en_US',
       type: 'article',
-      publishedTime: article.publishedAt,
+      publishedTime: isoPublishedTime,
+      modifiedTime: isoPublishedTime,
       authors: [article.author.name],
       section: article.category,
       tags: article.tags || [],
       images: [
         {
-          url: article.imageUrl,
+          url: rawImageUrl,
+          secureUrl: rawImageUrl,
           width: 1200,
-          height: 675,
+          height: 630,
           alt: article.title,
+          type: rawImageUrl.toLowerCase().endsWith('.png') ? 'image/png' : 'image/jpeg',
         },
       ],
     },
@@ -162,7 +188,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       title: article.title,
       description: article.summary,
       creator: '@ushotnews',
-      images: [article.imageUrl],
+      site: '@ushotnews',
+      images: [rawImageUrl],
     },
     robots: {
       index: true,
@@ -204,8 +231,17 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     (a) => a.id !== article.id && a.category !== article.category
   ).slice(0, 3);
 
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://ushotnews.online';
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.online';
   const articleUrl = `${siteUrl}/article/${article.slug}`;
+
+  let safeImageUrl = article.imageUrl || `${siteUrl}/og-image.jpg`;
+  if (safeImageUrl.startsWith('http://')) {
+    safeImageUrl = safeImageUrl.replace(/^http:\/\//i, 'https://');
+  } else if (safeImageUrl.startsWith('/')) {
+    safeImageUrl = `${siteUrl}${safeImageUrl}`;
+  } else if (!safeImageUrl.startsWith('https://')) {
+    safeImageUrl = `${siteUrl}/${safeImageUrl}`;
+  }
 
   // Structured Data for Google News & Search Engines (schema.org/NewsArticle)
   const newsArticleJsonLd = {
@@ -217,7 +253,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     },
     headline: article.title,
     description: article.summary,
-    image: [article.imageUrl],
+    image: [safeImageUrl],
     datePublished: article.publishedAt,
     dateModified: article.publishedAt,
     author: {

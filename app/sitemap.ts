@@ -5,7 +5,7 @@ export const dynamic = 'force-dynamic';
 export const revalidate = 3600; // regenerate sitemap every hour
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://ushotnews.online';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.online';
   const articles = await getAllArticles();
 
   const articleEntries: MetadataRoute.Sitemap = articles.map((article) => ({

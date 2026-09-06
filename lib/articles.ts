@@ -80,6 +80,66 @@ function saveLocalScrapedArticle(article: Article): boolean {
   }
 }
 
+function mapRowToArticle(r: any): Article {
+  let safeContent = [];
+  try {
+    if (Array.isArray(r.content)) {
+      safeContent = r.content;
+    } else if (typeof r.content === 'string') {
+      safeContent = JSON.parse(r.content || '[]');
+    }
+  } catch {
+    safeContent = [r.summary || ''];
+  }
+
+  let safeTags = [];
+  try {
+    if (Array.isArray(r.tags)) {
+      safeTags = r.tags;
+    } else if (typeof r.tags === 'string') {
+      safeTags = JSON.parse(r.tags || '[]');
+    }
+  } catch {
+    safeTags = [];
+  }
+
+  let safeReactions = { likes: 12, insightful: 6, shocked: 1 };
+  try {
+    if (typeof r.reactions === 'object' && r.reactions !== null) {
+      safeReactions = r.reactions;
+    } else if (typeof r.reactions === 'string') {
+      safeReactions = JSON.parse(r.reactions);
+    }
+  } catch {
+    // Keep default
+  }
+
+  return {
+    id: r.id,
+    slug: r.slug,
+    title: r.title,
+    kicker: r.kicker || 'NEWS WIRE',
+    summary: r.summary,
+    content: safeContent,
+    category: r.category as any,
+    imageUrl: r.image_url || 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80',
+    imageCaption: r.image_caption || '',
+    author: {
+      name: r.author_name || 'US News Bureau',
+      role: r.author_role || 'Correspondent',
+      avatar: r.author_avatar || 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80',
+    },
+    publishedAt: formatRelativeTime(r.published_at, r.created_at),
+    readTimeMinutes: Number(r.read_time_minutes) || 4,
+    isBreaking: Boolean(r.is_breaking),
+    isLeadStory: Boolean(r.is_lead_story),
+    isHot: Boolean(r.is_hot),
+    viewCount: Number(r.view_count) || 1200,
+    reactions: safeReactions,
+    tags: safeTags,
+  };
+}
+
 /**
  * Fetches all articles (combining Cloud DB or local scraped with default editorial articles)
  */
@@ -101,65 +161,7 @@ export async function getAllArticles(limitCount: number = 200): Promise<Article[
       `;
 
       if (rows && rows.length > 0) {
-        const dbArticles: Article[] = rows.map((r: any) => {
-          let safeContent = [];
-          try {
-            if (Array.isArray(r.content)) {
-              safeContent = r.content;
-            } else if (typeof r.content === 'string') {
-              safeContent = JSON.parse(r.content || '[]');
-            }
-          } catch {
-            safeContent = [r.summary || ''];
-          }
-
-          let safeTags = [];
-          try {
-            if (Array.isArray(r.tags)) {
-              safeTags = r.tags;
-            } else if (typeof r.tags === 'string') {
-              safeTags = JSON.parse(r.tags || '[]');
-            }
-          } catch {
-            safeTags = [];
-          }
-
-          let safeReactions = { likes: 12, insightful: 6, shocked: 1 };
-          try {
-            if (typeof r.reactions === 'object' && r.reactions !== null) {
-              safeReactions = r.reactions;
-            } else if (typeof r.reactions === 'string') {
-              safeReactions = JSON.parse(r.reactions);
-            }
-          } catch {
-            // Keep default
-          }
-
-          return {
-            id: r.id,
-            slug: r.slug,
-            title: r.title,
-            kicker: r.kicker || 'NEWS WIRE',
-            summary: r.summary,
-            content: safeContent,
-            category: r.category as any,
-            imageUrl: r.image_url || 'https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80',
-            imageCaption: r.image_caption || '',
-            author: {
-              name: r.author_name || 'US News Bureau',
-              role: r.author_role || 'Correspondent',
-              avatar: r.author_avatar || 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80',
-            },
-            publishedAt: formatRelativeTime(r.published_at, r.created_at),
-            readTimeMinutes: Number(r.read_time_minutes) || 4,
-            isBreaking: Boolean(r.is_breaking),
-            isLeadStory: Boolean(r.is_lead_story),
-            isHot: Boolean(r.is_hot),
-            viewCount: Number(r.view_count) || 1200,
-            reactions: safeReactions,
-            tags: safeTags,
-          };
-        });
+        const dbArticles: Article[] = rows.map(mapRowToArticle);
 
         // If the database has records, return ONLY the real records from your database!
         return dbArticles;
@@ -185,8 +187,43 @@ export async function getAllArticles(limitCount: number = 200): Promise<Article[
  * Retrieves a single article by slug
  */
 export async function getArticleBySlug(slug: string): Promise<Article | null> {
-  const all = await getAllArticles();
-  return all.find((a) => a.slug === slug) || null;
+  const decodedSlug = decodeURIComponent(slug).trim().toLowerCase();
+  const rawSlug = slug.trim().toLowerCase();
+  const sql = getDbClient();
+
+  if (sql) {
+    try {
+      await initDatabaseSchema();
+      const rows = await sql`
+        SELECT 
+          id, slug, title, kicker, summary, content, category, 
+          image_url, image_caption, author_name, author_role, author_avatar,
+          published_at, created_at, read_time_minutes, is_breaking, is_lead_story, 
+          is_hot, view_count, reactions, tags
+        FROM articles 
+        WHERE LOWER(slug) = ${decodedSlug} OR LOWER(slug) = ${rawSlug}
+        LIMIT 1;
+      `;
+
+      if (rows && rows.length > 0) {
+        return mapRowToArticle(rows[0]);
+      }
+    } catch (error) {
+      console.error('Database query for slug failed:', error);
+    }
+  }
+
+  // Fallback (local scraped file or static articles)
+  const localScraped = getLocalScrapedArticles();
+  const foundLocal = localScraped.find((a) => a.slug.toLowerCase() === decodedSlug || a.slug.toLowerCase() === rawSlug);
+  if (foundLocal) {
+    return {
+      ...foundLocal,
+      publishedAt: formatRelativeTime(foundLocal.publishedAt),
+    };
+  }
+
+  return ARTICLES_DATA.find((a) => a.slug.toLowerCase() === decodedSlug || a.slug.toLowerCase() === rawSlug) || null;
 }
 
 /**
