@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T16:52:16.255962+00:00",
-  "posted_count": 20,
+  "last_updated": "2026-09-06T16:53:20.512753+00:00",
+  "posted_count": 22,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -197,7 +197,27 @@
       "fb_post_id": "1325939953941168_122099018313471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099018313471257",
       "posted_at": "2026-09-06T16:52:16.255887+00:00"
+    },
+    "scraped-f83e56c7c4": {
+      "title": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
+      "slug": "trump-admin-targets-tax-exempt-status-at-private-colleges-threatening-a-key-tax-break-for-",
+      "url": "https://ushotnews.online/article/trump-admin-targets-tax-exempt-status-at-private-colleges-threatening-a-key-tax-break-for-",
+      "article_url": "https://ushotnews.online/article/trump-admin-targets-tax-exempt-status-at-private-colleges-threatening-a-key-tax-break-for-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099018865471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099018865471257",
+      "posted_at": "2026-09-06T16:53:20.512687+00:00"
+    },
+    "trump-admin-targets-tax-exempt-status-at-private-colleges-threatening-a-key-tax-break-for-": {
+      "title": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
+      "slug": "trump-admin-targets-tax-exempt-status-at-private-colleges-threatening-a-key-tax-break-for-",
+      "url": "https://ushotnews.online/article/trump-admin-targets-tax-exempt-status-at-private-colleges-threatening-a-key-tax-break-for-",
+      "article_url": "https://ushotnews.online/article/trump-admin-targets-tax-exempt-status-at-private-colleges-threatening-a-key-tax-break-for-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099018865471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099018865471257",
+      "posted_at": "2026-09-06T16:53:20.512687+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T16:52:10.821208+00:00"
+  "last_cleaned_at": "2026-09-06T16:53:13.701063+00:00"
 }
