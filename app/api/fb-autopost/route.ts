@@ -90,7 +90,8 @@ async function handleAutoPost(request: NextRequest) {
     }
 
     // Call Facebook Graph API /feed for a Clickable Link Card
-    const fbResponse = await fetch(`https://graph.facebook.com/v21.0/${pageId}/feed`, {
+    const target = pageId && pageId !== 'me' ? pageId : 'me';
+    let fbResponse = await fetch(`https://graph.facebook.com/v21.0/${target}/feed`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
@@ -102,7 +103,23 @@ async function handleAutoPost(request: NextRequest) {
       }),
     });
 
-    const fbData = await fbResponse.json();
+    let fbData = await fbResponse.json();
+
+    // Fallback to /me/feed if global id error occurs
+    if ((!fbResponse.ok || !fbData.id) && target !== 'me') {
+      fbResponse = await fetch(`https://graph.facebook.com/v21.0/me/feed`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded',
+        },
+        body: new URLSearchParams({
+          link: articleUrl,
+          message: message,
+          access_token: accessToken,
+        }),
+      });
+      fbData = await fbResponse.json();
+    }
 
     if (!fbResponse.ok || !fbData.id) {
       return NextResponse.json(

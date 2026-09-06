@@ -187,14 +187,15 @@ def verify_facebook_token(page_id: str, access_token: str, graph_version: str = 
             if token_id == str(page_id):
                 logger.info(f"✅ Token belongs directly to Page '{token_name}'!")
             else:
-                logger.info(f"ℹ️ Note: Token identity ID ({token_id}) differs from target Page ID ({page_id}). Attempting post to Page {page_id}...")
+                logger.info(f"ℹ️ Switching target to App-Scoped ID ({token_id}) instead of global ID ({page_id}) to comply with Facebook Graph API.")
+            return token_id
         else:
             err = data.get("error", {})
             logger.warning(f"⚠️ Pre-check Notice ({resp.status_code}): {err.get('message')}")
     except Exception as e:
         logger.warning(f"Could not connect to Facebook pre-check endpoint: {e}")
 
-    return page_id
+    return page_id or "me"
 
 
 def post_clickable_link_to_facebook(
@@ -212,7 +213,8 @@ def post_clickable_link_to_facebook(
     if not HAS_REQUESTS:
         return {"success": False, "error": "Missing 'requests' python library"}
 
-    endpoint = f"https://graph.facebook.com/{graph_version}/{page_id}/feed"
+    target = page_id if page_id and page_id != "me" else "me"
+    endpoint = f"https://graph.facebook.com/{graph_version}/{target}/feed"
     payload = {
         "link": article_url,
         "message": message,
@@ -222,6 +224,19 @@ def post_clickable_link_to_facebook(
     try:
         response = requests.post(endpoint, data=payload, timeout=25)
         data = response.json()
+
+        # If Facebook returns "global id is not allowed", automatically fallback to /me/feed
+        if response.status_code != 200 and target != "me" and ("global id" in str(data).lower() or data.get("error", {}).get("code") == 100):
+            logger.warning(f"Target '{target}' rejected as global ID. Automatically falling back to '/me/feed'...")
+            fallback_endpoint = f"https://graph.facebook.com/{graph_version}/me/feed"
+            fallback_resp = requests.post(fallback_endpoint, data=payload, timeout=25)
+            fallback_data = fallback_resp.json()
+            if fallback_resp.status_code == 200 and "id" in fallback_data:
+                logger.info(f"🎉 Successfully posted to Facebook Page via /me/feed! Post ID: {fallback_data['id']}")
+                return {"success": True, "post_id": fallback_data["id"]}
+            # Update to fallback response if it still failed
+            response = fallback_resp
+            data = fallback_data
 
         if response.status_code == 200 and "id" in data:
             logger.info(f"🎉 Successfully posted to Facebook Page! Post ID: {data['id']}")
