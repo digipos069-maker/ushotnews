@@ -108,13 +108,14 @@ async function handleAutoPost(request: NextRequest) {
     let fbData: any;
     let fbResponse: any;
 
-    // Native High-Res Photo upload via /{target}/photos
+    // Native High-Res Photo upload via /{target}/photos with both caption & message
     fbResponse = await fetch(`https://graph.facebook.com/v21.0/${target}/photos`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: new URLSearchParams({
         url: latestArticle.imageUrl,
         caption: message,
+        message: message,
         access_token: accessToken,
       }),
     });
@@ -128,6 +129,7 @@ async function handleAutoPost(request: NextRequest) {
         body: new URLSearchParams({
           url: latestArticle.imageUrl,
           caption: message,
+          message: message,
           access_token: accessToken,
         }),
       });
@@ -146,7 +148,7 @@ async function handleAutoPost(request: NextRequest) {
       );
     }
 
-    // Determine canonical Facebook post URL
+    // Determine canonical Facebook post URL (prefer feed post URL over photo.php)
     let fbPostUrl = '';
     const postIdStr = String(finalPostId).trim();
     if (postIdStr.includes('_')) {
@@ -158,14 +160,14 @@ async function handleAutoPost(request: NextRequest) {
       fbPostUrl = `https://www.facebook.com/${postIdStr}`;
     }
 
-    // Query Graph API for official permalink_url if available
+    // Query Graph API for official permalink_url if available (skip if photo.php)
     try {
       const permalinkResp = await fetch(
         `https://graph.facebook.com/v21.0/${postIdStr}?fields=permalink_url&access_token=${accessToken}`
       );
       if (permalinkResp.ok) {
         const permalinkData = await permalinkResp.json();
-        if (permalinkData?.permalink_url) {
+        if (permalinkData?.permalink_url && !permalinkData.permalink_url.includes('photo.php')) {
           fbPostUrl = permalinkData.permalink_url;
         }
       }

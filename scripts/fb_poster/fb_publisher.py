@@ -91,11 +91,11 @@ def resolve_fb_post_url(
     graph_version: str = FB_GRAPH_VERSION
 ) -> str:
     """
-    Resolves the Facebook post URL: attempts official Graph API permalink first,
-    falling back to standard canonical Facebook URL pattern.
+    Resolves the Facebook post URL. Prefers feed post URLs over photo.php
+    so the post opens with full headline, summary, and clickable link visible.
     """
     permalink = get_fb_post_permalink(post_id, access_token, graph_version)
-    if permalink:
+    if permalink and "photo.php" not in permalink:
         return permalink
     return build_fb_post_url(post_id, page_id)
 
@@ -369,18 +369,78 @@ def post_native_photo_to_facebook(
     graph_version: str = FB_GRAPH_VERSION
 ) -> Dict[str, Any]:
     """
-    Posts a Native High-Resolution Photo directly to Facebook Page via Meta Graph API /{page_id}/photos.
-    Facebook downloads and attaches the image directly, resulting in maximum organic feed reach.
-    The article link and summary are included in the caption/message.
+    Posts a Native High-Resolution Photo with full headline, summary, and link text to Facebook Page.
+    
+    1. Primary Method (Feed Post with Attached Photo):
+       Uploads photo with published=false, then posts to /{target}/feed with `message`
+       and `attached_media`. This ensures Facebook prominently displays the text
+       above the photo in all timeline and mobile feeds.
+    2. Fallback Method (Direct Photo):
+       Sends both `caption` AND `message` parameters to /{target}/photos and /me/photos
+       so no Meta Graph API version drops the text.
     """
     if not HAS_REQUESTS:
         return {"success": False, "error": "Missing 'requests' python library"}
 
     target = page_id if page_id and page_id != "me" else "me"
+
+    # -------------------------------------------------------------
+    # Method 1: Feed Post with Attached Photo (Guarantees Text + Photo)
+    # -------------------------------------------------------------
+    try:
+        logger.info("Attempting Feed Post with Attached Photo for guaranteed text display...")
+        # Step 1: Upload image as unpublished photo
+        upload_endpoint = f"https://graph.facebook.com/{graph_version}/{target}/photos"
+        upload_payload = {
+            "url": image_url,
+            "published": "false",
+            "access_token": access_token
+        }
+        up_resp = requests.post(upload_endpoint, data=upload_payload, timeout=30)
+        up_data = up_resp.json()
+
+        # Fallback to /me/photos if target global ID rejected
+        if up_resp.status_code != 200 and target != "me":
+            fb_up_endpoint = f"https://graph.facebook.com/{graph_version}/me/photos"
+            up_resp = requests.post(fb_up_endpoint, data=upload_payload, timeout=30)
+            up_data = up_resp.json()
+
+        photo_id = up_data.get("id")
+        if up_resp.status_code == 200 and photo_id:
+            # Step 2: Publish feed post attaching the uploaded photo
+            feed_endpoint = f"https://graph.facebook.com/{graph_version}/{target}/feed"
+            feed_payload = {
+                "message": caption,
+                "attached_media": json.dumps([{"media_fbid": str(photo_id)}]),
+                "access_token": access_token
+            }
+            feed_resp = requests.post(feed_endpoint, data=feed_payload, timeout=30)
+            feed_data = feed_resp.json()
+
+            if feed_resp.status_code != 200 and target != "me":
+                fb_feed_endpoint = f"https://graph.facebook.com/{graph_version}/me/feed"
+                feed_resp = requests.post(fb_feed_endpoint, data=feed_payload, timeout=30)
+                feed_data = feed_resp.json()
+
+            feed_post_id = feed_data.get("id")
+            if feed_resp.status_code == 200 and feed_post_id:
+                post_url = resolve_fb_post_url(feed_post_id, access_token, page_id, graph_version)
+                logger.info(f"🎉 Successfully posted Feed Story with Photo & Text! Post ID: {feed_post_id}")
+                logger.info(f"🔗 Facebook Post Link: {post_url}")
+                return {"success": True, "post_id": feed_post_id, "post_url": post_url}
+            else:
+                logger.warning(f"Feed attachment step returned: {feed_data}. Falling back to direct photo upload...")
+    except Exception as e:
+        logger.warning(f"Attached media method encountered exception: {e}. Falling back to direct photo upload...")
+
+    # -------------------------------------------------------------
+    # Method 2: Direct Photo Upload with both caption AND message
+    # -------------------------------------------------------------
     endpoint = f"https://graph.facebook.com/{graph_version}/{target}/photos"
     payload = {
         "url": image_url,
         "caption": caption,
+        "message": caption,
         "access_token": access_token
     }
 
@@ -388,7 +448,7 @@ def post_native_photo_to_facebook(
         response = requests.post(endpoint, data=payload, timeout=30)
         data = response.json()
 
-        # Fallback to /me/photos if target global ID is rejected (e.g. error 100, 283, or global id rejection)
+        # Fallback to /me/photos if target global ID is rejected
         if response.status_code != 200 and target != "me":
             logger.warning(f"Target '{target}' returned error ({response.status_code}). Trying '/me/photos' fallback...")
             fallback_endpoint = f"https://graph.facebook.com/{graph_version}/me/photos"
@@ -397,7 +457,7 @@ def post_native_photo_to_facebook(
             post_id = fallback_data.get("post_id") or fallback_data.get("id")
             if fallback_resp.status_code == 200 and post_id:
                 post_url = resolve_fb_post_url(post_id, access_token, page_id, graph_version)
-                logger.info(f"🎉 Successfully posted Native Photo to Facebook Page via /me/photos! Post ID: {post_id}")
+                logger.info(f"🎉 Successfully posted Native Photo via /me/photos! Post ID: {post_id}")
                 logger.info(f"🔗 Facebook Post Link: {post_url}")
                 return {"success": True, "post_id": post_id, "post_url": post_url}
             response = fallback_resp
@@ -406,7 +466,7 @@ def post_native_photo_to_facebook(
         post_id = data.get("post_id") or data.get("id")
         if response.status_code == 200 and post_id:
             post_url = resolve_fb_post_url(post_id, access_token, page_id, graph_version)
-            logger.info(f"🎉 Successfully posted Native Photo to Facebook Page! Post ID: {post_id}")
+            logger.info(f"🎉 Successfully posted Native Photo with Text to Facebook Page! Post ID: {post_id}")
             logger.info(f"🔗 Facebook Post Link: {post_url}")
             return {"success": True, "post_id": post_id, "post_url": post_url}
         else:
