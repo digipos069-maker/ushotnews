@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T21:03:52.421044+00:00",
-  "posted_count": 30,
+  "last_updated": "2026-09-06T21:39:03.235951+00:00",
+  "posted_count": 32,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -297,7 +297,27 @@
       "fb_post_id": "1325939953941168_122099175477471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099175477471257",
       "posted_at": "2026-09-06T21:03:52.420970+00:00"
+    },
+    "scraped-48b3c5d183": {
+      "title": "WWE star Cody Rhodes, others hunt for John Cena in Clash of Clans, recalls why legend was booted from group",
+      "slug": "wwe-star-cody-rhodes-others-hunt-for-john-cena-in-clash-of-clans-recalls-why-legend-was-bo",
+      "url": "https://ushotnews.online/article/wwe-star-cody-rhodes-others-hunt-for-john-cena-in-clash-of-clans-recalls-why-legend-was-bo",
+      "article_url": "https://ushotnews.online/article/wwe-star-cody-rhodes-others-hunt-for-john-cena-in-clash-of-clans-recalls-why-legend-was-bo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099193573471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099193573471257",
+      "posted_at": "2026-09-06T21:39:03.235880+00:00"
+    },
+    "wwe-star-cody-rhodes-others-hunt-for-john-cena-in-clash-of-clans-recalls-why-legend-was-bo": {
+      "title": "WWE star Cody Rhodes, others hunt for John Cena in Clash of Clans, recalls why legend was booted from group",
+      "slug": "wwe-star-cody-rhodes-others-hunt-for-john-cena-in-clash-of-clans-recalls-why-legend-was-bo",
+      "url": "https://ushotnews.online/article/wwe-star-cody-rhodes-others-hunt-for-john-cena-in-clash-of-clans-recalls-why-legend-was-bo",
+      "article_url": "https://ushotnews.online/article/wwe-star-cody-rhodes-others-hunt-for-john-cena-in-clash-of-clans-recalls-why-legend-was-bo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099193573471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099193573471257",
+      "posted_at": "2026-09-06T21:39:03.235880+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T21:03:45.880052+00:00"
+  "last_cleaned_at": "2026-09-06T21:38:56.403025+00:00"
 }
