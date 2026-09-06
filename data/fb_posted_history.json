@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T19:03:02.960297+00:00",
-  "posted_count": 28,
+  "last_updated": "2026-09-06T21:03:52.421044+00:00",
+  "posted_count": 30,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -277,7 +277,27 @@
       "fb_post_id": "1325939953941168_122099099913471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099099913471257",
       "posted_at": "2026-09-06T19:03:02.960226+00:00"
+    },
+    "scraped-6e48757b73": {
+      "title": "DAVID MARCUS: Congress set to protect AM radio and American discourse",
+      "slug": "david-marcus-congress-set-to-protect-am-radio-and-american-discourse",
+      "url": "https://ushotnews.online/article/david-marcus-congress-set-to-protect-am-radio-and-american-discourse",
+      "article_url": "https://ushotnews.online/article/david-marcus-congress-set-to-protect-am-radio-and-american-discourse",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099175477471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099175477471257",
+      "posted_at": "2026-09-06T21:03:52.420970+00:00"
+    },
+    "david-marcus-congress-set-to-protect-am-radio-and-american-discourse": {
+      "title": "DAVID MARCUS: Congress set to protect AM radio and American discourse",
+      "slug": "david-marcus-congress-set-to-protect-am-radio-and-american-discourse",
+      "url": "https://ushotnews.online/article/david-marcus-congress-set-to-protect-am-radio-and-american-discourse",
+      "article_url": "https://ushotnews.online/article/david-marcus-congress-set-to-protect-am-radio-and-american-discourse",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099175477471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099175477471257",
+      "posted_at": "2026-09-06T21:03:52.420970+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T19:02:57.093889+00:00"
+  "last_cleaned_at": "2026-09-06T21:03:45.880052+00:00"
 }
