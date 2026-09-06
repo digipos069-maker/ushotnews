@@ -40,13 +40,14 @@ async function handleAutoPost(request: NextRequest) {
     const accessToken = process.env.FB_PAGE_ACCESS_TOKEN;
     const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://ushotnews.online';
 
-    // Retrieve latest published articles
-    const articles = await getAllArticles(10);
+    // Retrieve top 8 latest published articles and pick randomly
+    const articles = await getAllArticles(8);
     if (!articles || articles.length === 0) {
       return NextResponse.json({ success: false, message: 'No articles found to post' });
     }
 
-    const latestArticle = articles[0];
+    const randomIndex = Math.floor(Math.random() * articles.length);
+    const latestArticle = articles[randomIndex];
     const cleanSiteUrl = siteUrl.replace(/\/$/, '');
     const articleUrl = `${cleanSiteUrl}/article/${latestArticle.slug}`;
 

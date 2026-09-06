@@ -9,6 +9,7 @@ import os
 import sys
 import json
 import time
+import random
 import argparse
 import logging
 from datetime import datetime, timezone
@@ -77,7 +78,7 @@ def save_posted_history(history: Dict[str, Any], file_path: str = HISTORY_FILE) 
         return False
 
 
-def fetch_articles_from_api(api_url: str, limit: int = 30) -> List[Dict[str, Any]]:
+def fetch_articles_from_api(api_url: str, limit: int = 8) -> List[Dict[str, Any]]:
     """Fetches latest articles from the US HOT NEWS REST API."""
     if not HAS_REQUESTS:
         logger.warning("'requests' library is not available, falling back to local files.")
@@ -118,7 +119,7 @@ def fetch_articles_from_local(file_path: str = LOCAL_SCRAPED_FILE) -> List[Dict[
     return []
 
 
-def get_latest_articles(api_url: str, limit: int = 30) -> List[Dict[str, Any]]:
+def get_latest_articles(api_url: str, limit: int = 8) -> List[Dict[str, Any]]:
     """Retrieves articles trying API first, then local JSON backup."""
     articles = fetch_articles_from_api(api_url, limit)
     if not articles:
@@ -327,14 +328,18 @@ def run_publisher(
     history = load_posted_history()
     posted_map = history.get("articles", {})
 
-    articles = get_latest_articles(api_url)
+    # Fetch the latest 8 articles as the active candidate pool
+    pool_size = 8
+    articles = get_latest_articles(api_url, limit=pool_size)
     if not articles:
         logger.warning("No articles found to process.")
         return 0
 
-    # Identify unposted articles
+    candidate_pool = articles[:pool_size]
+
+    # Identify unposted articles within this 8-article candidate pool
     unposted: List[Dict[str, Any]] = []
-    for art in articles:
+    for art in candidate_pool:
         art_id = str(art.get("id") or art.get("slug"))
         slug = art.get("slug")
         if not slug:
@@ -342,14 +347,16 @@ def run_publisher(
         if art_id not in posted_map and slug not in posted_map:
             unposted.append(art)
 
-    logger.info(f"Found {len(unposted)} new unposted articles out of {len(articles)} total.")
+    logger.info(f"Inspected top {len(candidate_pool)} latest articles. Found {len(unposted)} unposted in this pool.")
 
     if not unposted:
-        logger.info("All articles are already published to Facebook. Nothing to do.")
+        logger.info("All 8 latest articles are already published to Facebook. Nothing to do.")
         return 0
 
-    # Limit to max_posts_per_run to protect page health and comply with rate limits
-    to_publish = unposted[:max_posts_per_run]
+    # Randomly select from the unposted articles in the top-8 pool
+    sample_size = min(len(unposted), max_posts_per_run)
+    to_publish = random.sample(unposted, sample_size)
+    logger.info(f"🎲 Randomly selected {len(to_publish)} story from {len(unposted)} unposted candidates in top 8 pool.")
     successful_posts = 0
 
     for idx, article in enumerate(to_publish, 1):
