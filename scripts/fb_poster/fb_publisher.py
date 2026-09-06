@@ -78,6 +78,43 @@ def save_posted_history(history: Dict[str, Any], file_path: str = HISTORY_FILE) 
         return False
 
 
+def cleanup_old_posted_history(history: Dict[str, Any], max_age_days: int = 3) -> tuple:
+    """
+    Automatically clears article records from fb_posted_history.json that were
+    posted more than `max_age_days` (default: 3 days / 72 hours) ago.
+    """
+    articles = history.get("articles", {})
+    now = datetime.now(timezone.utc)
+    max_age_seconds = max_age_days * 86400
+
+    kept = {}
+    pruned_count = 0
+
+    for key, item in articles.items():
+        posted_at_str = item.get("posted_at") if isinstance(item, dict) else None
+        if not posted_at_str:
+            kept[key] = item
+            continue
+
+        try:
+            posted_at = datetime.fromisoformat(posted_at_str.replace("Z", "+00:00"))
+            age_seconds = (now - posted_at).total_seconds()
+            if age_seconds <= max_age_seconds:
+                kept[key] = item
+            else:
+                pruned_count += 1
+        except Exception:
+            kept[key] = item
+
+    if pruned_count > 0:
+        logger.info(f"🧹 Auto-cleared {pruned_count} record(s) older than {max_age_days} days from fb_posted_history.json.")
+
+    history["articles"] = kept
+    history["posted_count"] = len(kept)
+    history["last_cleaned_at"] = now.isoformat()
+    return history, pruned_count
+
+
 def fetch_articles_from_api(api_url: str, limit: int = 8) -> List[Dict[str, Any]]:
     """Fetches latest articles from the US HOT NEWS REST API."""
     if not HAS_REQUESTS:
@@ -301,11 +338,12 @@ def run_publisher(
     site_url: str = DEFAULT_SITE_URL,
     api_url: str = DEFAULT_API_URL,
     max_posts_per_run: int = 2,
+    cleanup_days: int = 3,
     dry_run: bool = False
 ) -> int:
     """
     Main orchestration loop:
-    1. Loads previously posted history.
+    1. Loads previously posted history and auto-clears entries older than 3 days.
     2. Fetches latest news articles.
     3. Filters out already posted articles.
     4. Posts up to max_posts_per_run as Clickable Link Cards.
@@ -326,6 +364,11 @@ def run_publisher(
         page_id, access_token = resolve_page_credentials(page_id, access_token)
 
     history = load_posted_history()
+    # Auto-clean history: purge any record posted more than `cleanup_days` (3 days) ago
+    history, pruned_count = cleanup_old_posted_history(history, max_age_days=cleanup_days)
+    if pruned_count > 0:
+        save_posted_history(history)
+
     posted_map = history.get("articles", {})
 
     # Fetch the latest 8 articles as the active candidate pool
@@ -420,6 +463,7 @@ def main():
     parser.add_argument("--access-token", type=str, default=None, help="Facebook Page Access Token (or set FB_PAGE_ACCESS_TOKEN)")
     parser.add_argument("--site-url", type=str, default=DEFAULT_SITE_URL, help="Site base URL")
     parser.add_argument("--api-url", type=str, default=DEFAULT_API_URL, help="News API endpoint")
+    parser.add_argument("--cleanup-days", type=int, default=3, help="Max days to retain history before auto-clearing (default: 3)")
 
     args = parser.parse_args()
 
@@ -429,6 +473,7 @@ def main():
         site_url=args.site_url,
         api_url=args.api_url,
         max_posts_per_run=args.limit,
+        cleanup_days=args.cleanup_days,
         dry_run=args.dry_run
     )
     sys.exit(exit_code)

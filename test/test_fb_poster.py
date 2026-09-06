@@ -13,10 +13,12 @@ import unittest
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
 sys.path.insert(0, PROJECT_ROOT)
+from datetime import datetime, timezone, timedelta
 
 from scripts.fb_poster.fb_publisher import (
     load_posted_history,
     save_posted_history,
+    cleanup_old_posted_history,
     format_facebook_message,
     run_publisher
 )
@@ -64,6 +66,39 @@ class TestFacebookPublisher(unittest.TestCase):
         self.assertIn("https://ushotnews.online/article/fed-holds-interest-rates-steady", msg)
         self.assertIn("#Economy", msg)
         self.assertIn("#USHotNews", msg)
+
+    def test_cleanup_old_posted_history(self):
+        """Verify articles older than max_age_days (3 days) are cleared while newer ones are kept."""
+        now = datetime.now(timezone.utc)
+        history = {
+            "articles": {
+                "old-article-1": {
+                    "title": "Old News 4 Days Ago",
+                    "posted_at": (now - timedelta(days=4)).isoformat()
+                },
+                "old-article-2": {
+                    "title": "Old News 5 Days Ago",
+                    "posted_at": (now - timedelta(days=5)).isoformat()
+                },
+                "recent-article-1": {
+                    "title": "Recent News 1 Day Ago",
+                    "posted_at": (now - timedelta(days=1)).isoformat()
+                },
+                "brand-new-article": {
+                    "title": "Fresh News 2 Hours Ago",
+                    "posted_at": (now - timedelta(hours=2)).isoformat()
+                }
+            }
+        }
+
+        cleaned_history, pruned = cleanup_old_posted_history(history, max_age_days=3)
+        self.assertEqual(pruned, 2)
+        self.assertEqual(cleaned_history["posted_count"], 2)
+        self.assertNotIn("old-article-1", cleaned_history["articles"])
+        self.assertNotIn("old-article-2", cleaned_history["articles"])
+        self.assertIn("recent-article-1", cleaned_history["articles"])
+        self.assertIn("brand-new-article", cleaned_history["articles"])
+        self.assertIn("last_cleaned_at", cleaned_history)
 
     def test_dry_run_execution(self):
         """Verify publisher runs in dry-run mode without credentials and exits with code 0."""
