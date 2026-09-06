@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T04:36:12.255385+00:00",
-  "posted_count": 2,
+  "last_updated": "2026-09-06T05:01:53.501630+00:00",
+  "posted_count": 4,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -15,6 +15,21 @@
       "url": "https://ushotnews.online/article/how-to-save-money-on-gas-and-big-savings-on-diesel-labor-day-weekend",
       "fb_post_id": "1325939953941168_122098519215471257",
       "posted_at": "2026-09-06T04:36:12.255306+00:00"
+    },
+    "scraped-5a27cea31c": {
+      "title": "Commvault (CVLT) Turns Cyberattacks Into Automated Recovery Through New CrowdStrike (CRWD) Deal",
+      "slug": "commvault-cvlt-turns-cyberattacks-into-automated-recovery-through-new-crowdstrike-crwd-dea",
+      "url": "https://ushotnews.online/article/commvault-cvlt-turns-cyberattacks-into-automated-recovery-through-new-crowdstrike-crwd-dea",
+      "fb_post_id": "1325939953941168_122098536045471257",
+      "posted_at": "2026-09-06T05:01:53.501574+00:00"
+    },
+    "commvault-cvlt-turns-cyberattacks-into-automated-recovery-through-new-crowdstrike-crwd-dea": {
+      "title": "Commvault (CVLT) Turns Cyberattacks Into Automated Recovery Through New CrowdStrike (CRWD) Deal",
+      "slug": "commvault-cvlt-turns-cyberattacks-into-automated-recovery-through-new-crowdstrike-crwd-dea",
+      "url": "https://ushotnews.online/article/commvault-cvlt-turns-cyberattacks-into-automated-recovery-through-new-crowdstrike-crwd-dea",
+      "fb_post_id": "1325939953941168_122098536045471257",
+      "posted_at": "2026-09-06T05:01:53.501574+00:00"
     }
-  }
+  },
+  "last_cleaned_at": "2026-09-06T05:01:47.568788+00:00"
 }
