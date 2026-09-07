@@ -599,22 +599,29 @@ def run_video_publisher(
 
     # Sort by trending score
     unposted.sort(key=lambda x: x.get("_trending_score", 0), reverse=True)
-    to_publish = unposted[:max_posts_per_run]
 
     # Step 3: Pick up the latest published news story URL from the website for First Comment
     latest_site_article = get_latest_website_article(api_url, site_url)
     first_comment_text = format_first_comment_with_website_link(latest_site_article)
 
     successful_posts = 0
+    max_candidate_attempts = min(len(unposted), max_posts_per_run * 5)
+    attempt_idx = 0
 
-    for idx, item in enumerate(to_publish, 1):
+    for item in unposted:
+        if successful_posts >= max_posts_per_run:
+            break
+        if attempt_idx >= max_candidate_attempts:
+            break
+
+        attempt_idx += 1
         v_id = item["_id"]
         title = item["title"]
         video_url = item["video_url"]
         score = item.get("_trending_score", 0)
         caption = format_facebook_video_caption(item)
 
-        logger.info(f"[{idx}/{len(to_publish)}] Selected #1 Trending Video: '{title}' (Trending Score: {score}/100)")
+        logger.info(f"[Attempt {attempt_idx}/{max_candidate_attempts}] Candidate Trending Video: '{title}' (Trending Score: {score}/100)")
         logger.info(f"🔗 Attached Website Story for 1st Comment: {latest_site_article['url']}")
 
         if dry_run:
@@ -634,23 +641,36 @@ def run_video_publisher(
             successful_posts += 1
             continue
 
-        # Step 4: Download real video file
+        # Step 4: Download real video file with retry
         temp_video_path = None
+        downloaded = False
         with tempfile.NamedTemporaryFile(suffix=".mp4", delete=False) as tf:
             temp_video_path = tf.name
 
-        downloaded = download_actual_news_video(video_url, temp_video_path)
+        for dl_attempt in range(1, 3):
+            downloaded = download_actual_news_video(video_url, temp_video_path)
+            if downloaded:
+                break
+            logger.warning(f"⚠️ Video download attempt {dl_attempt} failed for '{title}'. Retrying...")
+            time.sleep(3)
+
         upload_path = temp_video_path if downloaded else None
 
-        # Step 5: Upload real video to Facebook
-        result = post_video_to_facebook(
-            page_id=page_id,
-            access_token=access_token,
-            video_file_path=upload_path,
-            video_url=video_url if not upload_path else None,
-            title=title,
-            caption=caption
-        )
+        # Step 5: Upload real video to Facebook with retry
+        result = {"success": False}
+        for post_attempt in range(1, 3):
+            result = post_video_to_facebook(
+                page_id=page_id,
+                access_token=access_token,
+                video_file_path=upload_path,
+                video_url=video_url if not upload_path else None,
+                title=title,
+                caption=caption
+            )
+            if result.get("success"):
+                break
+            logger.warning(f"⚠️ Facebook upload attempt {post_attempt} failed: {result.get('error')}. Retrying...")
+            time.sleep(5)
 
         if temp_video_path and os.path.exists(temp_video_path):
             try:
@@ -686,7 +706,7 @@ def run_video_publisher(
             save_video_history(history)
             logger.info(f"✅ Successfully published real news video for '{title}'!")
         else:
-            logger.error(f"Failed to post video {v_id}: {result.get('error')}")
+            logger.error(f"❌ Could not publish candidate '{title}'. Moving to next trending candidate...")
 
     logger.info(f"Video publisher finished. Successfully posted {successful_posts} video(s).")
     return 0 if (successful_posts > 0 or not to_publish or dry_run) else 1

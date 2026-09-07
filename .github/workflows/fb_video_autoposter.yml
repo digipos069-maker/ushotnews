@@ -29,7 +29,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests feedparser yt-dlp
 
-      - name: Check Credentials & Run Video Publisher
+      - name: Check Credentials & Run Video Publisher (With Auto-Retry)
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID || secrets.PAGE_ID || secrets.FB_PAGEID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN || secrets.FB_ACCESS_TOKEN || secrets.PAGE_ACCESS_TOKEN }}
@@ -44,13 +44,52 @@ jobs:
           fi
 
           echo "✅ Facebook Credentials found in GitHub Secrets!"
-          echo "🎥 Running Top Trending US Real News Video Auto-Publisher..."
+          echo "🎥 Running Top Trending US Real News Video Auto-Publisher with retry logic..."
           echo "=================================================="
-          python scripts/fb_poster/fb_video_publisher.py --limit 1 --pool-size 50
+
+          MAX_RETRIES=3
+          RETRY_COUNT=0
+          SUCCESS=0
+
+          until [ $RETRY_COUNT -ge $MAX_RETRIES ]; do
+            RETRY_COUNT=$((RETRY_COUNT+1))
+            echo "▶️ Execution Attempt $RETRY_COUNT of $MAX_RETRIES..."
+            
+            if python scripts/fb_poster/fb_video_publisher.py --limit 1 --pool-size 50; then
+              echo "✅ Video Publisher finished successfully on attempt $RETRY_COUNT!"
+              SUCCESS=1
+              break
+            else
+              echo "⚠️ Attempt $RETRY_COUNT encountered an issue."
+              if [ $RETRY_COUNT -lt $MAX_RETRIES ]; then
+                echo "⏳ Waiting 15 seconds before retrying..."
+                sleep 15
+              fi
+            fi
+          done
+
+          if [ $SUCCESS -ne 1 ]; then
+            echo "❌ Video Publisher failed after $MAX_RETRIES attempts."
+            exit 1
+          fi
 
       - name: Commit and Push Updated Video History
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/fb_video_posted_history.json
-          git diff --staged --quiet || (git commit -m "chore(fb-video-poster): record published trending real video [skip ci]" && git pull --rebase origin main && git push origin main)
+          
+          # Retry git commit/push up to 3 times in case of rebase race conditions
+          for i in {1..3}; do
+            if git diff --staged --quiet; then
+              echo "No new history changes to commit."
+              break
+            fi
+            git commit -m "chore(fb-video-poster): record published trending real video [skip ci]" || true
+            if git pull --rebase origin main && git push origin main; then
+              echo "✅ History pushed successfully to main branch."
+              break
+            fi
+            echo "⚠️ Git push retry $i failed, retrying in 5 seconds..."
+            sleep 5
+          done
