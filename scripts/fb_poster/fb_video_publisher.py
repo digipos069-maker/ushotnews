@@ -889,15 +889,19 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
 
     # Check for optional cookies file or YT_COOKIES environment variable
     cookie_file = None
-    if os.path.exists("cookies.txt"):
+    if os.environ.get("YT_COOKIES"):
+        raw_cookie = os.environ["YT_COOKIES"].strip()
+        if raw_cookie:
+            if not raw_cookie.startswith("# Netscape") and not raw_cookie.startswith("# HTTP Cookie"):
+                raw_cookie = "# Netscape HTTP Cookie File\n" + raw_cookie
+            try:
+                with open("cookies.txt", "w", encoding="utf-8") as cf:
+                    cf.write(raw_cookie + "\n")
+                cookie_file = "cookies.txt"
+            except Exception:
+                pass
+    elif os.path.exists("cookies.txt") and os.path.getsize("cookies.txt") > 10:
         cookie_file = "cookies.txt"
-    elif os.environ.get("YT_COOKIES"):
-        try:
-            with open("cookies.txt", "w", encoding="utf-8") as cf:
-                cf.write(os.environ["YT_COOKIES"])
-            cookie_file = "cookies.txt"
-        except Exception:
-            pass
 
     # Direct MP4 Download (Direct file, 100% reliable, no bot challenges)
     if clean_url.endswith((".mp4", ".mov", ".m4v", ".webm")):
@@ -946,7 +950,7 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
                 except Exception:
                     pass
 
-    # yt-dlp Video Extraction (Configured with mobile/tv client fallback or browser cookies)
+    # Multi-strategy yt-dlp video extraction
     try:
         try:
             import yt_dlp
@@ -954,7 +958,7 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
         except ImportError:
             has_module = False
 
-        ydl_opts = {
+        base_opts = {
             'format': 'best[ext=mp4][height<=720]/best[height<=720]/best',
             'outtmpl': output_path,
             'quiet': True,
@@ -964,44 +968,72 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
         }
 
         has_valid_cookie = bool(cookie_file and os.path.exists(cookie_file) and os.path.getsize(cookie_file) > 10)
-        if has_valid_cookie:
-            logger.info("🍪 Using YouTube cookies for authentication.")
-            ydl_opts['cookiefile'] = cookie_file
-            ydl_opts['http_headers'] = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
-            }
-        else:
-            ydl_opts['extractor_args'] = {
-                'youtube': {
-                    'player_client': ['ios', 'android', 'mweb', 'tv']
-                }
-            }
-            ydl_opts['http_headers'] = {
-                'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1'
-            }
+        strategies = []
 
-        if has_module:
-            logger.info(f"Extracting video with yt-dlp from: {video_url[:80]}...")
-            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-                ydl.download([video_url])
-            if os.path.exists(output_path) and 5000 < os.path.getsize(output_path) <= MAX_VIDEO_BYTES:
-                logger.info(f"✅ Downloaded real video via yt-dlp: {os.path.getsize(output_path) // 1024} KB")
-                return True
-        elif shutil.which("yt-dlp"):
-            cmd = [
-                "yt-dlp",
-                "-f", "best[ext=mp4][height<=720]/best[height<=720]/best",
-                "-o", output_path,
-                "--max-filesize", f"{MAX_VIDEO_BYTES // (1024 * 1024)}M",
-            ]
-            if has_valid_cookie:
-                cmd.extend(["--cookies", cookie_file])
-            else:
-                cmd.extend(["--extractor-args", "youtube:player_client=ios,android,mweb,tv"])
-            cmd.append(video_url)
-            res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=60)
-            if res.returncode == 0 and os.path.exists(output_path) and 5000 < os.path.getsize(output_path) <= MAX_VIDEO_BYTES:
-                return True
+        # Strategy 1: TV and Embedded clients with cookies (bypasses browser JS reload challenges)
+        if has_valid_cookie:
+            strategies.append({
+                "name": "Authenticated (TV & Embedded Client)",
+                "use_cookie": True,
+                "clients": ["tv", "web_embedded", "android"],
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+            })
+            # Strategy 2: Web client with cookies
+            strategies.append({
+                "name": "Authenticated (Standard Web Client)",
+                "use_cookie": True,
+                "clients": ["web", "mweb"],
+                "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+            })
+
+        # Strategy 3: Mobile and TV rotation fallback (unauthenticated)
+        strategies.append({
+            "name": "Direct Client Rotation (TV / iOS / Android)",
+            "use_cookie": False,
+            "clients": ["tv", "ios", "android", "mweb"],
+            "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1"
+        })
+
+        for strat in strategies:
+            try:
+                opts = dict(base_opts)
+                if strat["use_cookie"] and cookie_file:
+                    opts["cookiefile"] = cookie_file
+                if strat.get("clients"):
+                    opts["extractor_args"] = {"youtube": {"player_client": strat["clients"]}}
+                if strat.get("user_agent"):
+                    opts["http_headers"] = {"User-Agent": strat["user_agent"]}
+
+                if has_module:
+                    logger.info(f"Extracting video ({strat['name']}) from: {video_url[:75]}...")
+                    with yt_dlp.YoutubeDL(opts) as ydl:
+                        ydl.download([video_url])
+                    if os.path.exists(output_path) and 5000 < os.path.getsize(output_path) <= MAX_VIDEO_BYTES:
+                        logger.info(f"✅ Real news video downloaded via yt-dlp ({strat['name']}): {os.path.getsize(output_path) // 1024} KB")
+                        return True
+                elif shutil.which("yt-dlp"):
+                    cmd = [
+                        "yt-dlp",
+                        "-f", "best[ext=mp4][height<=720]/best[height<=720]/best",
+                        "-o", output_path,
+                        "--max-filesize", f"{MAX_VIDEO_BYTES // (1024 * 1024)}M",
+                    ]
+                    if strat["use_cookie"] and cookie_file:
+                        cmd.extend(["--cookies", cookie_file])
+                    if strat.get("clients"):
+                        cmd.extend(["--extractor-args", f"youtube:player_client={','.join(strat['clients'])}"])
+                    cmd.append(video_url)
+                    res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=60)
+                    if res.returncode == 0 and os.path.exists(output_path) and 5000 < os.path.getsize(output_path) <= MAX_VIDEO_BYTES:
+                        logger.info(f"✅ Real news video downloaded via yt-dlp CLI ({strat['name']}): {os.path.getsize(output_path) // 1024} KB")
+                        return True
+            except Exception as ex:
+                logger.debug(f"Strategy '{strat['name']}' attempt notice: {ex}")
+                if os.path.exists(output_path):
+                    try:
+                        os.remove(output_path)
+                    except Exception:
+                        pass
     except Exception as e:
         logger.warning(f"yt-dlp extraction notice: {e}")
 
