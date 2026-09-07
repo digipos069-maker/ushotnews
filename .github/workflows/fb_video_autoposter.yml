@@ -27,7 +27,7 @@ jobs:
       - name: Install Dependencies (yt-dlp, requests, feedparser)
         run: |
           python -m pip install --upgrade pip
-          pip install requests feedparser yt-dlp
+          pip install --upgrade --no-cache-dir requests feedparser yt-dlp
 
       - name: Check Credentials & Run Video Publisher (With Auto-Retry)
         env:

@@ -946,7 +946,7 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
                 except Exception:
                     pass
 
-    # yt-dlp Video Extraction (Configured with mobile client and optional cookies to avoid datacenter bot checks)
+    # yt-dlp Video Extraction (Configured with mobile/tv client fallback or browser cookies)
     try:
         try:
             import yt_dlp
@@ -961,17 +961,24 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
             'no_warnings': True,
             'max_filesize': MAX_VIDEO_BYTES,
             'socket_timeout': 30,
-            'extractor_args': {
-                'youtube': {
-                    'player_client': ['android', 'ios', 'mweb']
-                }
-            },
-            'http_headers': {
-                'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1'
-            }
         }
-        if cookie_file:
+
+        has_valid_cookie = bool(cookie_file and os.path.exists(cookie_file) and os.path.getsize(cookie_file) > 10)
+        if has_valid_cookie:
+            logger.info("🍪 Using YouTube cookies for authentication.")
             ydl_opts['cookiefile'] = cookie_file
+            ydl_opts['http_headers'] = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'
+            }
+        else:
+            ydl_opts['extractor_args'] = {
+                'youtube': {
+                    'player_client': ['ios', 'android', 'mweb', 'tv']
+                }
+            }
+            ydl_opts['http_headers'] = {
+                'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1'
+            }
 
         if has_module:
             logger.info(f"Extracting video with yt-dlp from: {video_url[:80]}...")
@@ -983,13 +990,14 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
         elif shutil.which("yt-dlp"):
             cmd = [
                 "yt-dlp",
-                "--extractor-args", "youtube:player_client=android,ios,mweb",
                 "-f", "best[ext=mp4][height<=720]/best[height<=720]/best",
                 "-o", output_path,
                 "--max-filesize", f"{MAX_VIDEO_BYTES // (1024 * 1024)}M",
             ]
-            if cookie_file:
+            if has_valid_cookie:
                 cmd.extend(["--cookies", cookie_file])
+            else:
+                cmd.extend(["--extractor-args", "youtube:player_client=ios,android,mweb,tv"])
             cmd.append(video_url)
             res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=60)
             if res.returncode == 0 and os.path.exists(output_path) and 5000 < os.path.getsize(output_path) <= MAX_VIDEO_BYTES:
