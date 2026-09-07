@@ -60,9 +60,8 @@ FB_GRAPH_VERSION = os.environ.get("FB_GRAPH_VERSION", "v21.0")
 GOOGLE_TRENDS_US_RSS = "https://trends.google.com/trending/rss?geo=US"
 GOOGLE_NEWS_TOP_US_RSS = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
 
-# Direct Live US News Video & Media Feeds
+# Direct Live US News Video & Media Feeds (All direct MP4 / Media streams, 100% cloud-compatible)
 US_VIDEO_FEEDS = [
-    # Direct US News MP4 Podcast / Video Feeds (100% Reliable, Direct MP4, No Bot Blocks)
     {
         "source": "PBS NewsHour Daily Broadcast & Segments",
         "url": "https://www.pbs.org/newshour/feeds/rss/podcasts/show",
@@ -88,36 +87,10 @@ US_VIDEO_FEEDS = [
         "url": "https://www.yahoo.com/news/rss/videos",
         "category": "Politics"
     },
-    # Top US News YouTube Feeds
     {
-        "source": "NBC News Video",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg",
+        "source": "C-SPAN Politics Video",
+        "url": "https://www.c-span.org/rss/video/?category=Latest%20Videos",
         "category": "Politics"
-    },
-    {
-        "source": "CBS News Video",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8p1vwvWtl6T73JiExfWs1g",
-        "category": "Politics"
-    },
-    {
-        "source": "CNN US Video",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw",
-        "category": "Politics"
-    },
-    {
-        "source": "Fox News Video",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXIJgqnII2ZOINSWNOGFThA",
-        "category": "Politics"
-    },
-    {
-        "source": "ABC News Video",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBi2mrWuNuyYy4gbM6fU18Q",
-        "category": "Politics"
-    },
-    {
-        "source": "Associated Press Video",
-        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5HA3Qz6BQ8879gODeTQ",
-        "category": "World"
     }
 ]
 
@@ -352,13 +325,69 @@ def get_latest_website_article(api_url: str = DEFAULT_API_URL, site_url: str = D
     }
 
 
+def fetch_archive_tv_news() -> List[Dict[str, Any]]:
+    """
+    Fetches real-time US TV News recordings from Internet Archive TV News Archive (CNN, Fox, CBS, NBC, ABC, MSNBC).
+    Provides 100% direct, high-speed HTTP .mp4 video downloads without bot challenges or datacenter blocks.
+    """
+    candidates = []
+    if not HAS_REQUESTS:
+        return candidates
+
+    url = (
+        "https://archive.org/advancedsearch.php?"
+        "q=collection%3Atvnews+AND+mediatype%3Amovies&"
+        "fl%5B%5D=identifier%2Ctitle%2Cdescription%2Cpublicdate&"
+        "sort%5B%5D=publicdate+desc&rows=15&page=1&output=json"
+    )
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) USHotNews/1.0"}
+    try:
+        resp = requests.get(url, headers=headers, timeout=12)
+        if resp.status_code == 200:
+            data = resp.json()
+            docs = data.get("response", {}).get("docs", [])
+            for doc in docs:
+                ident = doc.get("identifier")
+                title = doc.get("title")
+                desc = doc.get("description") or ""
+                if not ident or not title:
+                    continue
+
+                clean_title = re.sub(r"<[^>]+>", "", title).strip()
+                clean_desc = re.sub(r"<[^>]+>", "", desc).strip()
+                if len(clean_title) < 10:
+                    continue
+
+                mp4_url = f"https://archive.org/download/{ident}/{ident}.mp4"
+                candidates.append({
+                    "title": clean_title,
+                    "summary": clean_desc if clean_desc else clean_title,
+                    "video_url": mp4_url,
+                    "is_direct_mp4": True,
+                    "source": "US TV News Network",
+                    "category": "Politics",
+                    "guid": f"archive-{ident}",
+                })
+    except Exception as e:
+        logger.debug(f"Archive.org TV News fetch notice: {e}")
+
+    return candidates
+
+
 def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
     """
-    Discovers trending US news videos directly from live US Video Feeds.
+    Discovers trending US news videos directly from live US Video Feeds and TV News Archives.
     """
     video_candidates = []
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
+    # 1. Fetch direct TV news videos from Archive.org
+    archive_candidates = fetch_archive_tv_news()
+    if archive_candidates:
+        video_candidates.extend(archive_candidates)
+        logger.info(f"Discovered {len(archive_candidates)} direct TV news broadcast videos from TV News Archive.")
+
+    # 2. Query RSS video feeds
     for feed in US_VIDEO_FEEDS:
         url = feed["url"]
         source = feed["source"]
@@ -378,9 +407,21 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
                         link = it.findtext("link", "")
                         desc = it.findtext("description", "")
                         guid = it.findtext("guid", link)
-                        entries.append({"title": title, "link": link, "description": desc, "id": guid})
+                        enc_tag = it.find("enclosure")
+                        enc_url = ""
+                        enc_type = ""
+                        if enc_tag is not None:
+                            enc_url = enc_tag.get("url") or enc_tag.get("href") or ""
+                            enc_type = enc_tag.get("type") or ""
+                        entries.append({
+                            "title": title,
+                            "link": link,
+                            "description": desc,
+                            "id": guid,
+                            "enclosures": [{"href": enc_url, "type": enc_type}] if enc_url else []
+                        })
 
-            for e in entries[:6]:
+            for e in entries[:8]:
                 raw_title = e.get("title", "")
                 raw_desc = e.get("description", e.get("summary", ""))
                 guid = e.get("id", e.get("link", ""))
@@ -392,37 +433,39 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
 
                 # Extract video URL
                 video_url = None
-                if hasattr(e, "media_content") and e.media_content:
-                    for mc in e.media_content:
+
+                # Check enclosures (e.g. podcast video RSS, PBS NewsHour)
+                enclosures = e.get("enclosures", []) if isinstance(e, dict) else (getattr(e, "enclosures", []) or [])
+                for enc in enclosures:
+                    e_url = enc.get("href") or enc.get("url") or ""
+                    clean_enc = e_url.split("?")[0].lower()
+                    if clean_enc.endswith((".mp4", ".mov", ".m4v", ".webm")) or "video" in enc.get("type", "").lower() or ".mp4" in e_url.lower():
+                        video_url = e_url
+                        break
+
+                # Check media_content
+                if not video_url:
+                    media_content = e.get("media_content", []) if isinstance(e, dict) else (getattr(e, "media_content", []) or [])
+                    for mc in media_content:
                         m_url = mc.get("url", "")
-                        if "video" in mc.get("type", "") or m_url.endswith((".mp4", ".mov", ".m4v")):
+                        clean_mc = m_url.split("?")[0].lower()
+                        if clean_mc.endswith((".mp4", ".mov", ".m4v", ".webm")) or "video" in mc.get("type", "").lower() or ".mp4" in m_url.lower():
                             video_url = m_url
                             break
-                    if not video_url and e.media_content:
-                        video_url = e.media_content[0].get("url")
 
-                if hasattr(e, "enclosures") and e.enclosures:
-                    for enc in e.enclosures:
-                        e_url = enc.get("href", "")
-                        if "video" in enc.get("type", "") or e_url.endswith((".mp4", ".mov", ".m4v")):
-                            video_url = e_url
-                            break
-
-                if not video_url and ("/video" in guid.lower() or "youtube.com" in guid.lower() or "youtu.be" in guid.lower()):
+                if not video_url and ("/video" in guid.lower() or ".mp4" in guid.lower()):
                     video_url = guid
 
                 if not video_url and e.get("link"):
                     link = e.get("link", "")
-                    if "/video" in link.lower() or "youtube.com" in link.lower() or "youtu.be" in link.lower():
+                    if "/video" in link.lower() or ".mp4" in link.lower():
                         video_url = link
 
                 if video_url:
-                    # Normalize YouTube URL if present
-                    yt_match = re.search(r"(?:v=|/v/|youtu\.be/|/embed/|/shorts/)([a-zA-Z0-9_-]{11})", video_url)
-                    if yt_match:
-                        video_url = f"https://www.youtube.com/watch?v={yt_match.group(1)}"
-
-                    is_direct_mp4 = video_url.lower().split("?")[0].endswith((".mp4", ".mov", ".m4v", ".webm"))
+                    is_direct_mp4 = (
+                        video_url.lower().split("?")[0].endswith((".mp4", ".mov", ".m4v", ".webm"))
+                        or ".mp4" in video_url.lower()
+                    )
 
                     video_candidates.append({
                         "title": title,
@@ -445,7 +488,7 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
                     for a in articles:
                         v_url = a.get("videoUrl")
                         guid = str(a.get("guid") or "")
-                        if not v_url and ("/video" in guid.lower() or "youtube.com" in guid.lower()):
+                        if not v_url and ("/video" in guid.lower()):
                             v_url = guid
                         if v_url:
                             is_direct_mp4 = str(v_url).lower().split("?")[0].endswith((".mp4", ".mov", ".m4v", ".webm"))
