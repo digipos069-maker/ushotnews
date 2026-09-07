@@ -552,6 +552,7 @@ def run_video_publisher(
     api_url: str = DEFAULT_API_URL,
     max_posts_per_run: int = 1,
     cleanup_days: int = 3,
+    pool_size: int = 50,
     dry_run: bool = False
 ) -> int:
     """
@@ -585,7 +586,7 @@ def run_video_publisher(
 
     # Filter unposted videos
     unposted = []
-    for v in video_candidates:
+    for v in video_candidates[:pool_size]:
         v_id = str(v.get("guid") or v.get("video_url") or v.get("title"))
         if v_id not in posted_map and v.get("video_url") not in posted_map:
             v["_trending_score"] = calculate_trending_score(v, trending_signals)
@@ -700,8 +701,9 @@ def main():
     parser.add_argument("--site-url", type=str, default=DEFAULT_SITE_URL, help="Website base URL")
     parser.add_argument("--api-url", type=str, default=DEFAULT_API_URL, help="News API endpoint")
     parser.add_argument("--cleanup-days", type=int, default=3, help="Max days to retain video history before auto-clearing (default: 3)")
+    parser.add_argument("--pool-size", type=int, default=50, help="Candidate pool size of latest video items (default: 50)")
 
-    args = parser.parse_args()
+    args, unknown = parser.parse_known_args()
 
     exit_code = run_video_publisher(
         page_id=args.page_id,
@@ -710,6 +712,7 @@ def main():
         api_url=args.api_url,
         max_posts_per_run=args.limit,
         cleanup_days=args.cleanup_days,
+        pool_size=args.pool_size,
         dry_run=args.dry_run
     )
     sys.exit(exit_code)
