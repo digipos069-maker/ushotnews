@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T16:56:56.612835+00:00",
-  "posted_count": 8,
+  "last_updated": "2026-09-07T20:57:35.184162+00:00",
+  "posted_count": 9,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -89,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1631312015030494",
       "fb_comment_id": "1631312015030494_38194901400156922",
       "posted_at": "2026-09-07T16:56:56.612764+00:00"
+    },
+    "dvids-video:1022008": {
+      "title": "Nolen William Panther Shout out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111956860/DOD_111956860.mp4",
+      "attached_website_url": "https://ushotnews.online/article/listen-up-suze-orman-says-americans-are-miscalculating-1-critical-retirement-cost-are-you-",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2166446080570143",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2166446080570143",
+      "fb_comment_id": "2166446080570143_1071833205732482",
+      "posted_at": "2026-09-07T20:57:35.184093+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T16:55:44.455571+00:00"
+  "last_cleaned_at": "2026-09-07T20:56:31.750459+00:00"
 }
