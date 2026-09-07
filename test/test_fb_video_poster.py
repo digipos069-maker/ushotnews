@@ -25,6 +25,8 @@ from scripts.fb_poster.fb_video_publisher import (
     format_facebook_video_caption,
     format_first_comment_with_website_link,
     get_latest_website_article,
+    post_comment_to_facebook_post,
+    wait_for_video_ready,
     run_video_publisher
 )
 
@@ -136,6 +138,12 @@ class TestFacebookVideoPublisher(unittest.TestCase):
         pid, token = resolve_page_credentials("1325939953941168", "EAABxxxxxxx")
         self.assertEqual(pid, "1325939953941168")
         self.assertEqual(token, "EAABxxxxxxx")
+
+    def test_post_comment_validation(self):
+        """Verify comment function handles missing or invalid arguments safely."""
+        res = post_comment_to_facebook_post("", "", "", wait_ready=False)
+        self.assertFalse(res.get("success"))
+        self.assertIn("Missing", res.get("error"))
 
     def test_dry_run_execution(self):
         """Verify video publisher runs smoothly in dry-run mode."""

@@ -815,34 +815,99 @@ def post_video_to_facebook(
                 pass
 
 
+def wait_for_video_ready(
+    video_id: str,
+    access_token: str,
+    max_wait_seconds: int = 60,
+    poll_interval: int = 5,
+    graph_version: str = FB_GRAPH_VERSION
+) -> bool:
+    """
+    Polls Facebook Graph API GET /{video_id}?fields=status until video_status is 'ready'.
+    Facebook requires the video to be fully encoded and processed before it can receive comments.
+    """
+    if not HAS_REQUESTS or not video_id or not access_token:
+        return True
+
+    endpoint = f"https://graph.facebook.com/{graph_version}/{video_id}?fields=status&access_token={access_token}"
+    start_time = time.time()
+    logger.info(f"⏳ Waiting for Facebook to process video {video_id} before posting first comment...")
+
+    while time.time() - start_time < max_wait_seconds:
+        try:
+            resp = requests.get(endpoint, timeout=15)
+            if resp.status_code == 200:
+                data = resp.json()
+                status_obj = data.get("status", {})
+                v_status = status_obj.get("video_status")
+                logger.info(f"Video {video_id} processing status on Facebook: '{v_status}'")
+                if v_status == "ready":
+                    logger.info(f"✅ Video {video_id} is ready for comments!")
+                    return True
+                elif v_status == "error":
+                    logger.warning(f"⚠️ Video {video_id} processing failed on Facebook side.")
+                    return False
+            else:
+                logger.debug(f"Status check notice (HTTP {resp.status_code}): {resp.text[:100]}")
+        except Exception as e:
+            logger.debug(f"Status check exception: {e}")
+
+        time.sleep(poll_interval)
+
+    logger.warning(f"⚠️ Video processing wait reached timeout ({max_wait_seconds}s). Attempting comment anyway...")
+    return False
+
+
 def post_comment_to_facebook_post(
     post_id: str,
     access_token: str,
     comment_text: str,
-    graph_version: str = FB_GRAPH_VERSION
+    page_id: Optional[str] = None,
+    graph_version: str = FB_GRAPH_VERSION,
+    wait_ready: bool = True
 ) -> Dict[str, Any]:
-    """Posts first comment on Facebook video with website link."""
+    """Posts first comment on Facebook video with website link, waiting for processing if needed."""
     if not HAS_REQUESTS or not post_id or not access_token or not comment_text:
         return {"success": False, "error": "Missing parameters"}
 
-    endpoint = f"https://graph.facebook.com/{graph_version}/{post_id}/comments"
-    payload = {"message": comment_text, "access_token": access_token}
+    if wait_ready:
+        wait_for_video_ready(post_id, access_token, max_wait_seconds=60, poll_interval=5, graph_version=graph_version)
 
-    try:
-        response = requests.post(endpoint, data=payload, timeout=20)
-        data = response.json()
-        if response.status_code == 200 and "id" in data:
-            comment_id = data["id"]
-            logger.info(f"💬 Successfully added first comment with link! Comment ID: {comment_id}")
-            return {"success": True, "comment_id": comment_id}
-        else:
-            err = data.get("error", {})
-            err_msg = err.get("message", response.text)
-            logger.warning(f"⚠️ Could not add first comment to video: {err_msg}")
-            return {"success": False, "error": err_msg, "response": data}
-    except Exception as e:
-        logger.warning(f"⚠️ Exception adding comment: {e}")
-        return {"success": False, "error": str(e)}
+    # Candidate targets: primary is post_id, secondary is page_id_post_id
+    targets = [post_id]
+    if page_id and page_id != "me" and "_" not in post_id and page_id not in post_id:
+        targets.append(f"{page_id}_{post_id}")
+
+    last_err = "Unknown error"
+    last_data = {}
+
+    for target in targets:
+        endpoint = f"https://graph.facebook.com/{graph_version}/{target}/comments"
+        payload = {"message": comment_text, "access_token": access_token}
+
+        # Try up to 3 attempts with 5s backoff
+        for attempt in range(1, 4):
+            try:
+                response = requests.post(endpoint, data=payload, timeout=20)
+                data = response.json()
+                if response.status_code == 200 and "id" in data:
+                    comment_id = data["id"]
+                    logger.info(f"💬 Successfully added first comment with link! Comment ID: {comment_id} (Target: {target})")
+                    return {"success": True, "comment_id": comment_id}
+                else:
+                    err = data.get("error", {})
+                    last_err = err.get("message", response.text)
+                    last_data = data
+                    logger.warning(f"⚠️ Comment attempt {attempt} for target {target} failed: {last_err}")
+                    if "processing" in last_err.lower() or "not ready" in last_err.lower() or err.get("code") == 100:
+                        time.sleep(5)
+            except Exception as e:
+                last_err = str(e)
+                logger.warning(f"⚠️ Exception adding comment on attempt {attempt}: {e}")
+                time.sleep(5)
+
+    logger.error(f"❌ Failed to add first comment to video {post_id}: {last_err}")
+    return {"success": False, "error": last_err, "response": last_data}
 
 
 def run_video_publisher(
@@ -882,6 +947,26 @@ def run_video_publisher(
         save_video_history(history)
 
     posted_map = history.get("articles", {})
+
+    # Check for previously posted videos missing first comment and backfill them
+    if not dry_run:
+        for h_key, h_item in posted_map.items():
+            if isinstance(h_item, dict) and h_item.get("fb_video_id") and not h_item.get("fb_comment_id"):
+                miss_vid = h_item.get("fb_video_id")
+                miss_target_url = h_item.get("attached_website_url") or get_latest_website_article(api_url, site_url)["url"]
+                miss_comment_text = format_first_comment_with_website_link({"url": miss_target_url})
+                logger.info(f"🔄 Backfilling missing first comment for previously published video (ID: {miss_vid})...")
+                c_res = post_comment_to_facebook_post(
+                    post_id=miss_vid,
+                    access_token=access_token,
+                    comment_text=miss_comment_text,
+                    page_id=page_id,
+                    wait_ready=False  # Already published in a prior run
+                )
+                if c_res.get("success"):
+                    h_item["fb_comment_id"] = c_res.get("comment_id")
+                    save_video_history(history)
+                    logger.info(f"✅ Successfully backfilled first comment for video {miss_vid}!")
 
     # Step 1: Research Google Trends
     trending_signals = fetch_trending_signals_us()
@@ -998,11 +1083,13 @@ def run_video_publisher(
             video_id = result.get("video_id")
             fb_video_url = result.get("video_url") or build_fb_video_url(video_id, page_id)
 
-            # Step 6: Post First Comment containing the website news URL
+            # Step 6: Post First Comment containing the website news URL (waits for Facebook video processing)
             comment_result = post_comment_to_facebook_post(
                 post_id=video_id,
                 access_token=access_token,
-                comment_text=first_comment_text
+                comment_text=first_comment_text,
+                page_id=page_id,
+                wait_ready=True
             )
             comment_id = comment_result.get("comment_id")
 
