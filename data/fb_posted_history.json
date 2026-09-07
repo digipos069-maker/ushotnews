@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T19:51:37.834835+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-09-07T20:43:04.337821+00:00",
+  "posted_count": 54,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -531,7 +531,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099854473471257",
       "fb_comment_id": "122099854473471257_1557887708716398",
       "posted_at": "2026-09-07T19:51:37.834762+00:00"
+    },
+    "scraped-ab9650174a": {
+      "title": "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
+      "slug": "innovation-engine-drives-sharkninjas-sn-sustainable-advantage",
+      "url": "https://ushotnews.online/article/innovation-engine-drives-sharkninjas-sn-sustainable-advantage",
+      "article_url": "https://ushotnews.online/article/innovation-engine-drives-sharkninjas-sn-sustainable-advantage",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099873847471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099873847471257",
+      "fb_comment_id": "122099873847471257_1588653342184001",
+      "posted_at": "2026-09-07T20:43:04.337750+00:00"
+    },
+    "innovation-engine-drives-sharkninjas-sn-sustainable-advantage": {
+      "title": "Innovation Engine Drives SharkNinja’s (SN) Sustainable Advantage",
+      "slug": "innovation-engine-drives-sharkninjas-sn-sustainable-advantage",
+      "url": "https://ushotnews.online/article/innovation-engine-drives-sharkninjas-sn-sustainable-advantage",
+      "article_url": "https://ushotnews.online/article/innovation-engine-drives-sharkninjas-sn-sustainable-advantage",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099873847471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099873847471257",
+      "fb_comment_id": "122099873847471257_1588653342184001",
+      "posted_at": "2026-09-07T20:43:04.337750+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T19:51:27.831686+00:00"
+  "last_cleaned_at": "2026-09-07T20:42:51.055341+00:00"
 }
