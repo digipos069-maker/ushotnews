@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T05:34:44.950145+00:00",
-  "posted_count": 2,
+  "last_updated": "2026-09-07T06:30:25.194865+00:00",
+  "posted_count": 3,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -23,7 +23,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1375168557586038",
       "fb_comment_id": null,
       "posted_at": "2026-09-07T05:34:44.950094+00:00"
+    },
+    "nasa-Olympics on the International Space Station": {
+      "title": "Olympics on the International Space Station",
+      "video_url": "http://images-assets.nasa.gov/video/Olympics%20on%20the%20International%20Space%20Station/Olympics%20on%20the%20International%20Space%20Station~medium.mp4",
+      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
+      "trending_score": 81.0,
+      "format": "video",
+      "fb_video_id": "1572284314910052",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1572284314910052",
+      "fb_comment_id": null,
+      "posted_at": "2026-09-07T06:30:25.194778+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T05:34:16.014026+00:00"
+  "last_cleaned_at": "2026-09-07T06:29:35.934578+00:00"
 }
