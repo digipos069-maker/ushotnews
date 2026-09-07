@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T11:40:50.064790+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-09-07T15:45:10.002357+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -465,7 +465,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099592087471257",
       "fb_comment_id": "122099592087471257_1341282842396254",
       "posted_at": "2026-09-07T11:40:50.064718+00:00"
+    },
+    "scraped-f2a2ef07d9": {
+      "title": "Gap closed 350 stores and now has an Old Navy problem",
+      "slug": "gap-closed-350-stores-and-now-has-an-old-navy-problem",
+      "url": "https://ushotnews.online/article/gap-closed-350-stores-and-now-has-an-old-navy-problem",
+      "article_url": "https://ushotnews.online/article/gap-closed-350-stores-and-now-has-an-old-navy-problem",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099730411471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099730411471257",
+      "fb_comment_id": "122099730411471257_2151001669102658",
+      "posted_at": "2026-09-07T15:45:10.002307+00:00"
+    },
+    "gap-closed-350-stores-and-now-has-an-old-navy-problem": {
+      "title": "Gap closed 350 stores and now has an Old Navy problem",
+      "slug": "gap-closed-350-stores-and-now-has-an-old-navy-problem",
+      "url": "https://ushotnews.online/article/gap-closed-350-stores-and-now-has-an-old-navy-problem",
+      "article_url": "https://ushotnews.online/article/gap-closed-350-stores-and-now-has-an-old-navy-problem",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099730411471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099730411471257",
+      "fb_comment_id": "122099730411471257_2151001669102658",
+      "posted_at": "2026-09-07T15:45:10.002307+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T11:40:39.014537+00:00"
+  "last_cleaned_at": "2026-09-07T15:44:57.568882+00:00"
 }
