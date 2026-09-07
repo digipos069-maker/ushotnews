@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T00:51:08.953213+00:00",
-  "posted_count": 38,
+  "last_updated": "2026-09-07T04:23:22.139331+00:00",
+  "posted_count": 40,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -377,7 +377,29 @@
       "fb_post_id": "1325939953941168_122099275059471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099275059471257",
       "posted_at": "2026-09-07T00:51:08.953133+00:00"
+    },
+    "scraped-1b3b416d03": {
+      "title": "I Predicted That Lululemon Stock Was In Trouble Ahead of Earnings. What's Next After Its 17% Drop?",
+      "slug": "i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
+      "url": "https://ushotnews.online/article/i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
+      "article_url": "https://ushotnews.online/article/i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099361261471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099361261471257",
+      "fb_comment_id": null,
+      "posted_at": "2026-09-07T04:23:22.139266+00:00"
+    },
+    "i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-": {
+      "title": "I Predicted That Lululemon Stock Was In Trouble Ahead of Earnings. What's Next After Its 17% Drop?",
+      "slug": "i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
+      "url": "https://ushotnews.online/article/i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
+      "article_url": "https://ushotnews.online/article/i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099361261471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099361261471257",
+      "fb_comment_id": null,
+      "posted_at": "2026-09-07T04:23:22.139266+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T00:51:03.952896+00:00"
+  "last_cleaned_at": "2026-09-07T04:23:16.532382+00:00"
 }
