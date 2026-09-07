@@ -56,6 +56,7 @@ LOCAL_SCRAPED_FILE = os.path.join(PROJECT_ROOT, "data", "scraped_articles.json")
 DEFAULT_SITE_URL = os.environ.get("NEXT_PUBLIC_SITE_URL", "https://ushotnews.online")
 DEFAULT_API_URL = os.environ.get("NEXT_API_URL", f"{DEFAULT_SITE_URL}/api/articles")
 FB_GRAPH_VERSION = os.environ.get("FB_GRAPH_VERSION", "v21.0")
+MAX_VIDEO_BYTES = 75 * 1024 * 1024  # 75 MB max limit for single-request Facebook video uploads
 
 GOOGLE_TRENDS_US_RSS = "https://trends.google.com/trending/rss?geo=US"
 GOOGLE_NEWS_TOP_US_RSS = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
@@ -448,9 +449,19 @@ def fetch_nasa_us_news_videos() -> List[Dict[str, Any]]:
                         if c_resp.status_code == 200:
                             files = c_resp.json()
                             if isinstance(files, list):
-                                medium = [f for f in files if isinstance(f, str) and "~medium.mp4" in f]
-                                orig = [f for f in files if isinstance(f, str) and f.endswith(".mp4")]
-                                selected_url = medium[0] if medium else (orig[0] if orig else None)
+                                mobile = [f for f in files if isinstance(f, str) and "~mobile.mp4" in f.lower()]
+                                medium = [f for f in files if isinstance(f, str) and "~medium.mp4" in f.lower()]
+                                small_mp4 = [
+                                    f for f in files
+                                    if isinstance(f, str)
+                                    and f.lower().endswith(".mp4")
+                                    and "~orig" not in f.lower()
+                                    and "orig.mp4" not in f.lower()
+                                    and "~large" not in f.lower()
+                                    and "1080p" not in f.lower()
+                                    and "2160p" not in f.lower()
+                                ]
+                                selected_url = mobile[0] if mobile else (medium[0] if medium else (small_mp4[0] if small_mp4 else None))
 
                                 if selected_url:
                                     encoded_mp4 = urllib.parse.quote(selected_url, safe=':/?&=')
@@ -699,17 +710,44 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
             session.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) USHotNews/1.0"})
             resp = session.get(video_url, stream=True, timeout=60, allow_redirects=True)
             if resp.status_code == 200:
+                content_len = resp.headers.get("Content-Length")
+                if content_len and content_len.isdigit():
+                    total_bytes = int(content_len)
+                    if total_bytes > MAX_VIDEO_BYTES:
+                        logger.warning(
+                            f"⚠️ Video file too large ({total_bytes // (1024 * 1024)} MB > "
+                            f"{MAX_VIDEO_BYTES // (1024 * 1024)} MB limit). Skipping candidate."
+                        )
+                        return False
+
+                downloaded = 0
                 with open(output_path, "wb") as f:
                     for chunk in resp.iter_content(chunk_size=65536):
                         if chunk:
+                            downloaded += len(chunk)
+                            if downloaded > MAX_VIDEO_BYTES:
+                                logger.warning(
+                                    f"⚠️ Download exceeded maximum size ({MAX_VIDEO_BYTES // (1024 * 1024)} MB). "
+                                    f"Aborting download to avoid Facebook upload failure."
+                                )
+                                f.close()
+                                if os.path.exists(output_path):
+                                    os.remove(output_path)
+                                return False
                             f.write(chunk)
-                if os.path.exists(output_path) and os.path.getsize(output_path) > 5000:
+
+                if os.path.exists(output_path) and 5000 < os.path.getsize(output_path) <= MAX_VIDEO_BYTES:
                     logger.info(f"✅ Real news video downloaded: {os.path.getsize(output_path) // 1024} KB")
                     return True
             else:
                 logger.warning(f"Direct MP4 download returned HTTP {resp.status_code}")
         except Exception as e:
             logger.warning(f"Direct download attempt notice: {e}")
+            if os.path.exists(output_path):
+                try:
+                    os.remove(output_path)
+                except Exception:
+                    pass
 
     # yt-dlp Video Extraction (Configured with mobile client and optional cookies to avoid datacenter bot checks)
     try:
@@ -724,7 +762,7 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
             'outtmpl': output_path,
             'quiet': True,
             'no_warnings': True,
-            'max_filesize': 80 * 1024 * 1024,
+            'max_filesize': MAX_VIDEO_BYTES,
             'socket_timeout': 30,
             'extractor_args': {
                 'youtube': {
@@ -742,7 +780,7 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
             logger.info(f"Extracting video with yt-dlp from: {video_url[:80]}...")
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 ydl.download([video_url])
-            if os.path.exists(output_path) and os.path.getsize(output_path) > 5000:
+            if os.path.exists(output_path) and 5000 < os.path.getsize(output_path) <= MAX_VIDEO_BYTES:
                 logger.info(f"✅ Downloaded real video via yt-dlp: {os.path.getsize(output_path) // 1024} KB")
                 return True
         elif shutil.which("yt-dlp"):
@@ -751,13 +789,13 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
                 "--extractor-args", "youtube:player_client=android,ios,mweb",
                 "-f", "best[ext=mp4][height<=720]/best[height<=720]/best",
                 "-o", output_path,
-                "--max-filesize", "80M",
+                "--max-filesize", f"{MAX_VIDEO_BYTES // (1024 * 1024)}M",
             ]
             if cookie_file:
                 cmd.extend(["--cookies", cookie_file])
             cmd.append(video_url)
             res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=60)
-            if res.returncode == 0 and os.path.exists(output_path) and os.path.getsize(output_path) > 5000:
+            if res.returncode == 0 and os.path.exists(output_path) and 5000 < os.path.getsize(output_path) <= MAX_VIDEO_BYTES:
                 return True
     except Exception as e:
         logger.warning(f"yt-dlp extraction notice: {e}")
@@ -775,6 +813,18 @@ def post_video_to_facebook(
     graph_version: str = FB_GRAPH_VERSION
 ) -> Dict[str, Any]:
     """Uploads video to Facebook Page /{target}/videos."""
+    if video_file_path and os.path.exists(video_file_path):
+        file_size = os.path.getsize(video_file_path)
+        if file_size > MAX_VIDEO_BYTES:
+            logger.warning(
+                f"⚠️ Video file size ({file_size // (1024 * 1024)} MB) exceeds maximum upload limit "
+                f"({MAX_VIDEO_BYTES // (1024 * 1024)} MB). Skipping Facebook upload."
+            )
+            return {
+                "success": False,
+                "error": f"Video file size ({file_size // (1024 * 1024)} MB) exceeds {MAX_VIDEO_BYTES // (1024 * 1024)} MB limit"
+            }
+
     if not HAS_REQUESTS:
         return {"success": False, "error": "Missing 'requests' library"}
 
@@ -793,9 +843,10 @@ def post_video_to_facebook(
 
     try:
         if video_file_path and os.path.exists(video_file_path):
+            file_size = os.path.getsize(video_file_path)
             file_handle = open(video_file_path, "rb")
             files = {"source": (os.path.basename(video_file_path), file_handle, "video/mp4")}
-            logger.info(f"Uploading news video file ({os.path.getsize(video_file_path) // 1024} KB) to Facebook Page ({target})...")
+            logger.info(f"Uploading news video file ({file_size // 1024} KB) to Facebook Page ({target})...")
             response = requests.post(endpoint, data=payload, files=files, timeout=120)
         elif video_url:
             # Only direct media files should ever be passed as file_url
@@ -809,7 +860,10 @@ def post_video_to_facebook(
         else:
             return {"success": False, "error": "No valid video file or URL available"}
 
-        data = response.json()
+        try:
+            data = response.json()
+        except Exception:
+            data = {"error": {"message": f"Non-JSON response from Facebook (HTTP {response.status_code}): {response.text[:200]}"}}
 
         # Fallback to /me/videos if target global ID rejected
         if response.status_code != 200 and target != "me" and ("global id" in str(data).lower() or data.get("error", {}).get("code") == 100):
@@ -817,7 +871,10 @@ def post_video_to_facebook(
             if file_handle:
                 file_handle.seek(0)
             response = requests.post(fb_endpoint, data=payload, files=files, timeout=120)
-            data = response.json()
+            try:
+                data = response.json()
+            except Exception:
+                data = {"error": {"message": f"Non-JSON response from Facebook (HTTP {response.status_code}): {response.text[:200]}"}}
 
         if response.status_code == 200 and "id" in data:
             video_id = data["id"]

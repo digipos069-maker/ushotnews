@@ -26,8 +26,10 @@ from scripts.fb_poster.fb_video_publisher import (
     format_first_comment_with_website_link,
     get_latest_website_article,
     post_comment_to_facebook_post,
+    post_video_to_facebook,
     wait_for_video_ready,
-    run_video_publisher
+    run_video_publisher,
+    MAX_VIDEO_BYTES
 )
 
 class TestFacebookVideoPublisher(unittest.TestCase):
@@ -144,6 +146,24 @@ class TestFacebookVideoPublisher(unittest.TestCase):
         res = post_comment_to_facebook_post("", "", "", wait_ready=False)
         self.assertFalse(res.get("success"))
         self.assertIn("Missing", res.get("error"))
+
+    def test_video_oversize_guard(self):
+        """Verify post_video_to_facebook rejects files exceeding MAX_VIDEO_BYTES."""
+        dummy_file = os.path.join(PROJECT_ROOT, "test", "dummy_huge.mp4")
+        try:
+            with open(dummy_file, "wb") as f:
+                f.seek(MAX_VIDEO_BYTES + 1024)
+                f.write(b"0")
+            res = post_video_to_facebook(
+                page_id="12345",
+                access_token="test_token",
+                video_file_path=dummy_file
+            )
+            self.assertFalse(res.get("success"))
+            self.assertIn("exceeds", res.get("error", ""))
+        finally:
+            if os.path.exists(dummy_file):
+                os.remove(dummy_file)
 
     def test_dry_run_execution(self):
         """Verify video publisher runs smoothly in dry-run mode."""
