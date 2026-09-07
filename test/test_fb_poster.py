@@ -21,6 +21,7 @@ from scripts.fb_poster.fb_publisher import (
     save_posted_history,
     cleanup_old_posted_history,
     format_facebook_message,
+    format_facebook_comment,
     post_native_photo_to_facebook,
     post_clickable_link_to_facebook,
     run_publisher
@@ -95,7 +96,7 @@ class TestFacebookPublisher(unittest.TestCase):
         )
 
     def test_format_facebook_message(self):
-        """Verify Facebook message formatting contains headline, link, and hashtags."""
+        """Verify Facebook message formatting contains headline, summary, first comment pointer, hashtags, and no URL or BREAKING."""
         sample_article = {
             "title": "Federal Reserve Holds Interest Rates Steady",
             "summary": "Central bank signals potential cut later this year.",
@@ -104,10 +105,25 @@ class TestFacebookPublisher(unittest.TestCase):
         }
         msg = format_facebook_message(sample_article, "https://ushotnews.online")
         
-        self.assertIn("Federal Reserve Holds Interest Rates Steady", msg)
-        self.assertIn("https://ushotnews.online/article/fed-holds-interest-rates-steady", msg)
+        self.assertIn("📈 Federal Reserve Holds Interest Rates Steady", msg)
+        self.assertNotIn("BREAKING", msg)
+        self.assertNotIn("https://", msg)
+        self.assertNotIn("http://", msg)
+        self.assertIn("👇 Read the full story in the first comment!", msg)
         self.assertIn("#Economy", msg)
         self.assertIn("#USHotNews", msg)
+
+    def test_format_facebook_comment(self):
+        """Verify Facebook first comment contains direct article URL."""
+        sample_article = {
+            "title": "Federal Reserve Holds Interest Rates Steady",
+            "slug": "fed-holds-interest-rates-steady"
+        }
+        comment = format_facebook_comment(sample_article, "https://ushotnews.online")
+        self.assertEqual(
+            comment,
+            "👉 Read the full verified report at US HOT NEWS:\nhttps://ushotnews.online/article/fed-holds-interest-rates-steady"
+        )
 
     def test_cleanup_old_posted_history(self):
         """Verify articles older than max_age_days (3 days) are cleared while newer ones are kept."""

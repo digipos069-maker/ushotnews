@@ -227,16 +227,15 @@ def get_latest_articles(api_url: str, limit: int = 8) -> List[Dict[str, Any]]:
     return articles
 
 
-def format_facebook_message(article: Dict[str, Any], site_url: str) -> str:
+def format_facebook_message(article: Dict[str, Any], site_url: str = "") -> str:
     """
     Formats an engaging post message for Facebook with headline, summary,
-    direct call-to-action link, and desk hashtags.
+    directive to read the story in the comments, and desk hashtags.
+    Note: The article URL is excluded from caption and posted as the first comment to maximize organic reach.
     """
     title = (article.get("title") or "").strip()
     summary = (article.get("summary") or "").strip()
     category = (article.get("category") or "News").strip().replace(" ", "")
-    slug = (article.get("slug") or "").strip()
-    article_url = f"{site_url.rstrip('/')}/article/{slug}"
 
     # Category specific emoji tag
     category_emojis = {
@@ -248,20 +247,67 @@ def format_facebook_message(article: Dict[str, Any], site_url: str) -> str:
         "Culture": "🎭",
         "Sports": "🏆"
     }
-    emoji = category_emojis.get(category, "🚨")
+    emoji = category_emojis.get(category, "📰")
 
-    lines = [
-        f"{emoji} BREAKING: {title}",
+    lines = [f"{emoji} {title}"]
+    if summary and summary.strip() != title.strip():
+        lines.extend(["", f"{summary}"])
+
+    lines.extend([
         "",
-        f"{summary}",
+        "👇 Read the full story in the first comment!",
         "",
-        f"👉 Read the full verified report at US HOT NEWS:",
-        f"{article_url}",
-        "",
-        f"#{category} #USNews #BreakingNews #USHotNews"
-    ]
+        f"#{category} #USNews #USHotNews"
+    ])
 
     return "\n".join(lines)
+
+
+def format_facebook_comment(article: Dict[str, Any], site_url: str = DEFAULT_SITE_URL) -> str:
+    """
+    Formats the first comment for the Facebook post containing the direct article link.
+    """
+    slug = (article.get("slug") or "").strip()
+    article_url = f"{site_url.rstrip('/')}/article/{slug}"
+    return f"👉 Read the full verified report at US HOT NEWS:\n{article_url}"
+
+
+def post_comment_to_facebook_post(
+    post_id: str,
+    access_token: str,
+    comment_text: str,
+    graph_version: str = FB_GRAPH_VERSION
+) -> Dict[str, Any]:
+    """
+    Posts a first comment on the published Facebook post containing the article link.
+    """
+    if not HAS_REQUESTS:
+        return {"success": False, "error": "Missing 'requests' python library"}
+
+    if not post_id or not access_token or not comment_text:
+        return {"success": False, "error": "Missing post_id, access_token, or comment_text"}
+
+    endpoint = f"https://graph.facebook.com/{graph_version}/{post_id}/comments"
+    payload = {
+        "message": comment_text,
+        "access_token": access_token
+    }
+
+    try:
+        response = requests.post(endpoint, data=payload, timeout=20)
+        data = response.json()
+        if response.status_code == 200 and "id" in data:
+            comment_id = data["id"]
+            logger.info(f"💬 Successfully added first comment with link! Comment ID: {comment_id}")
+            return {"success": True, "comment_id": comment_id}
+        else:
+            err = data.get("error", {})
+            err_msg = err.get("message", response.text)
+            logger.warning(f"⚠️ Could not add first comment to post {post_id}: {err_msg}")
+            return {"success": False, "error": err_msg, "response": data}
+    except Exception as e:
+        logger.warning(f"⚠️ Exception while adding first comment to Facebook post: {e}")
+        return {"success": False, "error": str(e)}
 
 
 def verify_facebook_token(page_id: str, access_token: str, graph_version: str = FB_GRAPH_VERSION) -> str:
@@ -606,6 +652,8 @@ def run_publisher(
         image_url = article.get("imageUrl")
         message = format_facebook_message(article, site_url)
 
+        comment_text = format_facebook_comment(article, site_url)
+
         # Determine format for this post: photo only by default (no random, no link_card)
         if post_format == "photo":
             chosen_format = "photo"
@@ -622,9 +670,12 @@ def run_publisher(
             print(f"Article ID:  {art_id}")
             print(f"Target URL:  {article_url}")
             print(f"Image URL:   {image_url}")
-            print("Facebook Message / Caption:")
+            print("Facebook Caption (Post Body):")
             print("-" * 40)
             print(message)
+            print("-" * 40)
+            print("First Comment (Link in Comment):")
+            print(comment_text)
             print("=" * 60 + "\n")
             successful_posts += 1
             continue
@@ -651,6 +702,15 @@ def run_publisher(
             successful_posts += 1
             post_id = result.get("post_id")
             fb_post_url = result.get("post_url") or resolve_fb_post_url(post_id, access_token, page_id)
+
+            # Post article link as the first comment on the post
+            comment_result = post_comment_to_facebook_post(
+                post_id=post_id,
+                access_token=access_token,
+                comment_text=comment_text
+            )
+            comment_id = comment_result.get("comment_id")
+
             posted_map[art_id] = {
                 "title": article.get("title"),
                 "slug": slug,
@@ -659,6 +719,7 @@ def run_publisher(
                 "format": chosen_format,
                 "fb_post_id": post_id,
                 "fb_post_url": fb_post_url,
+                "fb_comment_id": comment_id,
                 "posted_at": datetime.now(timezone.utc).isoformat()
             }
             posted_map[slug] = posted_map[art_id] # Also index by slug for deduplication

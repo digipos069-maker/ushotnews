@@ -62,18 +62,20 @@ async function handleAutoPost(request: NextRequest) {
       Culture: '🎭',
       Sports: '🏆',
     };
-    const emoji = categoryEmojis[latestArticle.category] || '🚨';
+    const emoji = categoryEmojis[latestArticle.category] || '📰';
 
-    const message = [
-      `${emoji} BREAKING: ${latestArticle.title}`,
+    const messageLines = [`${emoji} ${latestArticle.title}`];
+    if (latestArticle.summary && latestArticle.summary.trim() !== latestArticle.title.trim()) {
+      messageLines.push('', latestArticle.summary);
+    }
+    messageLines.push(
       '',
-      latestArticle.summary,
+      '👇 Read the full story in the first comment!',
       '',
-      '👉 Read the full verified report at US HOT NEWS:',
-      articleUrl,
-      '',
-      `#${latestArticle.category} #USNews #BreakingNews #USHotNews`,
-    ].join('\n');
+      `#${latestArticle.category} #USNews #USHotNews`
+    );
+    const message = messageLines.join('\n');
+    const commentMessage = `👉 Read the full verified report at US HOT NEWS:\n${articleUrl}`;
 
     // Format: Native HD Photo only (no link card, no random)
     const chosenFormat: 'photo' = 'photo';
@@ -93,6 +95,7 @@ async function handleAutoPost(request: NextRequest) {
           link: articleUrl,
           imageUrl: latestArticle.imageUrl,
           fbMessage: message,
+          firstComment: commentMessage,
         },
       });
     }
@@ -146,6 +149,28 @@ async function handleAutoPost(request: NextRequest) {
         },
         { status: 502 }
       );
+    }
+
+    // Post article link as the first comment on the post
+    let fbCommentId: string | null = null;
+    try {
+      const commentResp = await fetch(
+        `https://graph.facebook.com/v21.0/${finalPostId}/comments`,
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({
+            message: commentMessage,
+            access_token: accessToken,
+          }),
+        }
+      );
+      if (commentResp.ok) {
+        const commentData = await commentResp.json();
+        fbCommentId = commentData?.id || null;
+      }
+    } catch (commentErr) {
+      console.warn('Could not post first comment to Facebook post:', commentErr);
     }
 
     // Determine canonical Facebook post URL (prefer feed post URL over photo.php)
@@ -202,6 +227,7 @@ async function handleAutoPost(request: NextRequest) {
         format: chosenFormat,
         fb_post_id: finalPostId,
         fb_post_url: fbPostUrl,
+        fb_comment_id: fbCommentId,
         posted_at: new Date().toISOString(),
       };
       historyData.articles[latestArticle.id] = record;
@@ -219,6 +245,7 @@ async function handleAutoPost(request: NextRequest) {
       format: chosenFormat,
       fbPostId: finalPostId,
       fbPostUrl: fbPostUrl,
+      fbCommentId,
       article: {
         id: latestArticle.id,
         title: latestArticle.title,

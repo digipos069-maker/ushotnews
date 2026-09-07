@@ -184,19 +184,21 @@ async function handleTestPost(request: NextRequest) {
       Culture: '🎭',
       Sports: '🏆',
     };
-    const emoji = categoryEmojis[selectedArticle.category] || '🚨';
+    const emoji = categoryEmojis[selectedArticle.category] || '📰';
     const articleUrl = `${siteUrl}/article/${selectedArticle.slug}`;
 
-    const formattedMessage = [
-      `${emoji} BREAKING: ${selectedArticle.title}`,
+    const messageLines = [`${emoji} ${selectedArticle.title}`];
+    if (selectedArticle.summary && selectedArticle.summary.trim() !== selectedArticle.title.trim()) {
+      messageLines.push('', selectedArticle.summary);
+    }
+    messageLines.push(
       '',
-      selectedArticle.summary || '',
+      '👇 Read the full story in the first comment!',
       '',
-      '👉 Read the full verified report at US HOT NEWS:',
-      articleUrl,
-      '',
-      `#${selectedArticle.category || 'News'} #USNews #BreakingNews #USHotNews`,
-    ].join('\n');
+      `#${selectedArticle.category || 'News'} #USNews #USHotNews`
+    );
+    const formattedMessage = messageLines.join('\n');
+    const firstCommentText = `👉 Read the full verified report at US HOT NEWS:\n${articleUrl}`;
 
     const previewPayload = {
       article_id: selectedArticle.id,
@@ -207,6 +209,7 @@ async function handleTestPost(request: NextRequest) {
       image_url: selectedArticle.imageUrl || null,
       format: requestedFormat,
       caption: formattedMessage,
+      first_comment: firstCommentText,
     };
 
     // Step 4: Handle Dry-Run Mode
@@ -342,7 +345,29 @@ async function handleTestPost(request: NextRequest) {
       );
     }
 
-    // Step 6: Construct Canonical Post URL
+    // Step 6: Post First Comment containing the article link
+    let fbCommentId: string | null = null;
+    try {
+      const commentResp = await fetch(
+        `https://graph.facebook.com/v21.0/${finalPostId}/comments`,
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+          body: new URLSearchParams({
+            message: firstCommentText,
+            access_token: accessToken!,
+          }),
+        }
+      );
+      if (commentResp.ok) {
+        const commentData = await commentResp.json();
+        fbCommentId = commentData?.id || null;
+      }
+    } catch (commentErr) {
+      console.warn('Could not post first comment to Facebook post:', commentErr);
+    }
+
+    // Step 7: Construct Canonical Post URL
     let fbPostUrl = buildFbPostUrl(finalPostId);
     if (!fbPostUrl && target !== 'me') {
       fbPostUrl = `https://www.facebook.com/${target}/posts/${finalPostId}`;
@@ -363,7 +388,7 @@ async function handleTestPost(request: NextRequest) {
       // Keep constructed URL
     }
 
-    // Step 7: Record into data/fb_posted_history.json
+    // Step 8: Record into data/fb_posted_history.json
     try {
       const historyFile = path.join(process.cwd(), 'data', 'fb_posted_history.json');
       let historyData: any = {
@@ -391,6 +416,7 @@ async function handleTestPost(request: NextRequest) {
         format: requestedFormat,
         fb_post_id: finalPostId,
         fb_post_url: fbPostUrl,
+        fb_comment_id: fbCommentId,
         posted_at: new Date().toISOString(),
         published_method: publishMethod,
       };
@@ -413,6 +439,7 @@ async function handleTestPost(request: NextRequest) {
       publish_method: publishMethod,
       fb_post_id: finalPostId,
       fb_post_url: fbPostUrl,
+      fb_comment_id: fbCommentId,
       diagnostics: {
         credentials_configured: true,
         token_verification: tokenVerification,
