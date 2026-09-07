@@ -325,69 +325,146 @@ def get_latest_website_article(api_url: str = DEFAULT_API_URL, site_url: str = D
     }
 
 
-def fetch_archive_tv_news() -> List[Dict[str, Any]]:
+def fetch_dvids_us_news_videos() -> List[Dict[str, Any]]:
     """
-    Fetches real-time US TV News recordings from Internet Archive TV News Archive (CNN, Fox, CBS, NBC, ABC, MSNBC).
-    Provides 100% direct, high-speed HTTP .mp4 video downloads without bot challenges or datacenter blocks.
+    Fetches official US Defense & National News videos from DVIDS (Defense Visual Information Distribution Service).
+    All videos are hosted directly on CloudFront CDN as pure .mp4 files with zero bot protection or IP blocking.
     """
     candidates = []
     if not HAS_REQUESTS:
         return candidates
 
-    url = (
-        "https://archive.org/advancedsearch.php?"
-        "q=collection%3Atvnews+AND+mediatype%3Amovies&"
-        "fl%5B%5D=identifier%2Ctitle%2Cdescription%2Cpublicdate&"
-        "sort%5B%5D=publicdate+desc&rows=15&page=1&output=json"
-    )
+    url = "https://www.dvidshub.net/rss/video"
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) USHotNews/1.0"}
     try:
         resp = requests.get(url, headers=headers, timeout=12)
         if resp.status_code == 200:
-            data = resp.json()
-            docs = data.get("response", {}).get("docs", [])
-            for doc in docs:
-                ident = doc.get("identifier")
-                title = doc.get("title")
-                desc = doc.get("description") or ""
-                if not ident or not title:
+            root = ET.fromstring(resp.content)
+            items = root.findall(".//item")
+            for it in items[:12]:
+                title = it.findtext("title", "").strip()
+                link = it.findtext("link", "").strip()
+                desc = it.findtext("description", "").strip()
+                guid = it.findtext("guid", link)
+
+                if not link or not title or len(title) < 10:
                     continue
 
                 clean_title = re.sub(r"<[^>]+>", "", title).strip()
                 clean_desc = re.sub(r"<[^>]+>", "", desc).strip()
-                if len(clean_title) < 10:
-                    continue
 
-                mp4_url = f"https://archive.org/download/{ident}/{ident}.mp4"
-                candidates.append({
-                    "title": clean_title,
-                    "summary": clean_desc if clean_desc else clean_title,
-                    "video_url": mp4_url,
-                    "is_direct_mp4": True,
-                    "source": "US TV News Network",
-                    "category": "Politics",
-                    "guid": f"archive-{ident}",
-                })
+                try:
+                    p_resp = requests.get(link, headers=headers, timeout=8)
+                    if p_resp.status_code == 200:
+                        html = p_resp.text
+                        mp4_matches = re.findall(r'https?://d34w7g4gy10iej\.cloudfront\.net/video/[^\s"\'<>]+\.mp4', html)
+                        if not mp4_matches:
+                            mp4_matches = re.findall(r'https?://[^\s"\'<>]+\.mp4[^\s"\'<>]*', html)
+
+                        if mp4_matches:
+                            direct_mp4 = mp4_matches[0]
+                            candidates.append({
+                                "title": clean_title,
+                                "summary": clean_desc if clean_desc else clean_title,
+                                "video_url": direct_mp4,
+                                "is_direct_mp4": True,
+                                "source": "DVIDS US National Media",
+                                "category": "Politics",
+                                "guid": f"dvids-{guid}",
+                            })
+                except Exception as ex:
+                    logger.debug(f"DVIDS page scrape notice for {link}: {ex}")
     except Exception as e:
-        logger.debug(f"Archive.org TV News fetch notice: {e}")
+        logger.debug(f"DVIDS RSS fetch notice: {e}")
+
+    return candidates
+
+
+def fetch_nasa_us_news_videos() -> List[Dict[str, Any]]:
+    """
+    Fetches official US Space, Aerospace & Tech news videos from NASA Image and Video Library.
+    All videos have direct CDN .mp4 files with zero bot challenges or rate limits.
+    """
+    import urllib.parse
+    candidates = []
+    if not HAS_REQUESTS:
+        return candidates
+
+    queries = ["news", "space", "launch", "technology", "artemis"]
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) USHotNews/1.0"}
+
+    for q in queries[:2]:
+        try:
+            url = f"https://images-api.nasa.gov/search?q={q}&media_type=video"
+            resp = requests.get(url, headers=headers, timeout=12)
+            if resp.status_code == 200:
+                data = resp.json()
+                items = data.get("collection", {}).get("items", [])
+                for it in items[:6]:
+                    meta_list = it.get("data", [{}])
+                    if not meta_list:
+                        continue
+                    meta = meta_list[0]
+                    title = (meta.get("title") or "").strip()
+                    desc = (meta.get("description") or "").strip()
+                    nasa_id = meta.get("nasa_id", "")
+                    href = it.get("href")
+
+                    if not href or not title or len(title) < 10:
+                        continue
+
+                    clean_title = re.sub(r"<[^>]+>", "", title).strip()
+                    clean_desc = re.sub(r"<[^>]+>", "", desc).strip()
+
+                    try:
+                        coll_url = urllib.parse.quote(href, safe=':/?&=')
+                        c_resp = requests.get(coll_url, headers=headers, timeout=8)
+                        if c_resp.status_code == 200:
+                            files = c_resp.json()
+                            if isinstance(files, list):
+                                medium = [f for f in files if isinstance(f, str) and "~medium.mp4" in f]
+                                orig = [f for f in files if isinstance(f, str) and f.endswith(".mp4")]
+                                selected_url = medium[0] if medium else (orig[0] if orig else None)
+
+                                if selected_url:
+                                    encoded_mp4 = urllib.parse.quote(selected_url, safe=':/?&=')
+                                    candidates.append({
+                                        "title": clean_title,
+                                        "summary": clean_desc[:300] if clean_desc else clean_title,
+                                        "video_url": encoded_mp4,
+                                        "is_direct_mp4": True,
+                                        "source": "NASA US Tech & Science",
+                                        "category": "Technology",
+                                        "guid": f"nasa-{nasa_id or clean_title}",
+                                    })
+                    except Exception as ex:
+                        logger.debug(f"NASA collection parse notice: {ex}")
+        except Exception as e:
+            logger.debug(f"NASA API query notice: {e}")
 
     return candidates
 
 
 def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
     """
-    Discovers trending US news videos directly from live US Video Feeds and TV News Archives.
+    Discovers trending US news videos directly from live US Video Feeds, DVIDS, and NASA.
     """
     video_candidates = []
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
-    # 1. Fetch direct TV news videos from Archive.org
-    archive_candidates = fetch_archive_tv_news()
-    if archive_candidates:
-        video_candidates.extend(archive_candidates)
-        logger.info(f"Discovered {len(archive_candidates)} direct TV news broadcast videos from TV News Archive.")
+    # 1. Fetch official US Defense & National News videos from DVIDS (CloudFront direct MP4)
+    dvids_candidates = fetch_dvids_us_news_videos()
+    if dvids_candidates:
+        video_candidates.extend(dvids_candidates)
+        logger.info(f"Discovered {len(dvids_candidates)} direct MP4 news videos from DVIDS National Hub.")
 
-    # 2. Query RSS video feeds
+    # 2. Fetch US Space & Tech news videos from NASA (direct CDN MP4)
+    nasa_candidates = fetch_nasa_us_news_videos()
+    if nasa_candidates:
+        video_candidates.extend(nasa_candidates)
+        logger.info(f"Discovered {len(nasa_candidates)} direct MP4 news videos from NASA Video Library.")
+
+    # 3. Query RSS video feeds
     for feed in US_VIDEO_FEEDS:
         url = feed["url"]
         source = feed["source"]
@@ -576,16 +653,25 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
 
     clean_url = video_url.split("?")[0].lower()
 
+    # Check for optional cookies file or YT_COOKIES environment variable
+    cookie_file = None
+    if os.path.exists("cookies.txt"):
+        cookie_file = "cookies.txt"
+    elif os.environ.get("YT_COOKIES"):
+        try:
+            with open("cookies.txt", "w", encoding="utf-8") as cf:
+                cf.write(os.environ["YT_COOKIES"])
+            cookie_file = "cookies.txt"
+        except Exception:
+            pass
+
     # Direct MP4 Download (Direct file, 100% reliable, no bot challenges)
     if clean_url.endswith((".mp4", ".mov", ".m4v", ".webm")):
         try:
             logger.info(f"Downloading direct MP4 news video: {video_url[:80]}...")
-            resp = requests.get(
-                video_url,
-                stream=True,
-                timeout=60,
-                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-            )
+            session = requests.Session()
+            session.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) USHotNews/1.0"})
+            resp = session.get(video_url, stream=True, timeout=60, allow_redirects=True)
             if resp.status_code == 200:
                 with open(output_path, "wb") as f:
                     for chunk in resp.iter_content(chunk_size=65536):
@@ -594,10 +680,12 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
                 if os.path.exists(output_path) and os.path.getsize(output_path) > 5000:
                     logger.info(f"✅ Real news video downloaded: {os.path.getsize(output_path) // 1024} KB")
                     return True
+            else:
+                logger.warning(f"Direct MP4 download returned HTTP {resp.status_code}")
         except Exception as e:
             logger.warning(f"Direct download attempt notice: {e}")
 
-    # yt-dlp Video Extraction (Configured with mobile client to avoid datacenter bot checks)
+    # yt-dlp Video Extraction (Configured with mobile client and optional cookies to avoid datacenter bot checks)
     try:
         try:
             import yt_dlp
@@ -621,6 +709,8 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
                 'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1'
             }
         }
+        if cookie_file:
+            ydl_opts['cookiefile'] = cookie_file
 
         if has_module:
             logger.info(f"Extracting video with yt-dlp from: {video_url[:80]}...")
@@ -636,8 +726,10 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
                 "-f", "best[ext=mp4][height<=720]/best[height<=720]/best",
                 "-o", output_path,
                 "--max-filesize", "80M",
-                video_url
             ]
+            if cookie_file:
+                cmd.extend(["--cookies", cookie_file])
+            cmd.append(video_url)
             res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=60)
             if res.returncode == 0 and os.path.exists(output_path) and os.path.getsize(output_path) > 5000:
                 return True

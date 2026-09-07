@@ -33,6 +33,7 @@ jobs:
         env:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID || secrets.PAGE_ID || secrets.FB_PAGEID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN || secrets.FB_ACCESS_TOKEN || secrets.PAGE_ACCESS_TOKEN }}
+          YT_COOKIES: ${{ secrets.YT_COOKIES }}
           NEXT_PUBLIC_SITE_URL: "https://ushotnews.online"
         run: |
           echo "=================================================="
@@ -41,6 +42,11 @@ jobs:
             echo "❌ [ERROR] Missing Facebook Credentials in GitHub Secrets!"
             echo "   Please add FB_PAGE_ID and FB_PAGE_ACCESS_TOKEN in Repository Secrets."
             exit 1
+          fi
+
+          if [ -n "$YT_COOKIES" ]; then
+            echo "$YT_COOKIES" > cookies.txt
+            echo "🍪 Exported YouTube cookies to cookies.txt"
           fi
 
           echo "✅ Facebook Credentials found in GitHub Secrets!"
