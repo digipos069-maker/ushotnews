@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T06:30:25.194865+00:00",
-  "posted_count": 3,
+  "last_updated": "2026-09-07T06:35:23.338632+00:00",
+  "posted_count": 4,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -10,7 +10,7 @@
       "format": "video",
       "fb_video_id": "3479970502152770",
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/3479970502152770",
-      "fb_comment_id": null,
+      "fb_comment_id": "embedded_in_caption",
       "posted_at": "2026-09-07T04:36:15.064921+00:00"
     },
     "nasa-312_ISS_business-in-space": {
@@ -21,7 +21,7 @@
       "format": "video",
       "fb_video_id": "1375168557586038",
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1375168557586038",
-      "fb_comment_id": null,
+      "fb_comment_id": "embedded_in_caption",
       "posted_at": "2026-09-07T05:34:44.950094+00:00"
     },
     "nasa-Olympics on the International Space Station": {
@@ -32,9 +32,20 @@
       "format": "video",
       "fb_video_id": "1572284314910052",
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1572284314910052",
-      "fb_comment_id": null,
+      "fb_comment_id": "embedded_in_caption",
       "posted_at": "2026-09-07T06:30:25.194778+00:00"
+    },
+    "dvids-video:1021985": {
+      "title": "The U.S. Army Parachute Team jumps for Cleveland National Air Show",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111955529/DOD_111955529.mp4",
+      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
+      "trending_score": 63.0,
+      "format": "video",
+      "fb_video_id": "1560256768762558",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1560256768762558",
+      "fb_comment_id": "embedded_in_caption",
+      "posted_at": "2026-09-07T06:35:23.338574+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T06:29:35.934578+00:00"
+  "last_cleaned_at": "2026-09-07T06:34:11.247913+00:00"
 }
