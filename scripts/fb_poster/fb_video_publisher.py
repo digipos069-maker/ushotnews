@@ -128,6 +128,7 @@ def verify_facebook_token(page_id: str, access_token: str, graph_version: str = 
             token_id = str(data.get("id"))
             token_name = data.get("name")
             logger.info(f"✅ Token Verified! Connected Identity: '{token_name}' (ID: {token_id})")
+            check_token_permissions(access_token, graph_version)
             if token_id == str(page_id):
                 logger.info(f"✅ Token belongs directly to Page '{token_name}'!")
             else:
@@ -140,6 +141,31 @@ def verify_facebook_token(page_id: str, access_token: str, graph_version: str = 
         logger.warning(f"Could not connect to Facebook pre-check endpoint: {e}")
 
     return page_id or "me"
+
+
+def check_token_permissions(access_token: str, graph_version: str = FB_GRAPH_VERSION) -> Set[str]:
+    """Checks granted permissions on the Facebook access token."""
+    granted: Set[str] = set()
+    if not HAS_REQUESTS or not access_token:
+        return granted
+    try:
+        url = f"https://graph.facebook.com/{graph_version}/me/permissions?access_token={access_token}"
+        resp = requests.get(url, timeout=10)
+        if resp.status_code == 200:
+            data = resp.json()
+            for p in data.get("data", []):
+                if p.get("status") == "granted":
+                    granted.add(p.get("permission"))
+            logger.info(f"🔑 Token Granted Permissions: {', '.join(sorted(granted)) if granted else 'None'}")
+            if "pages_manage_engagement" not in granted:
+                logger.warning(
+                    "⚠️ Notice: 'pages_manage_engagement' permission is NOT granted on this token.\n"
+                    "   (Meta requires 'pages_manage_engagement' to post comments. If missing, the publisher\n"
+                    "   will automatically place the website link directly into the video caption)."
+                )
+    except Exception as e:
+        logger.debug(f"Permission check notice: {e}")
+    return granted
 
 
 def resolve_page_credentials(page_id: str, access_token: str, graph_version: str = FB_GRAPH_VERSION) -> tuple:
@@ -897,9 +923,13 @@ def post_comment_to_facebook_post(
                 else:
                     err = data.get("error", {})
                     last_err = err.get("message", response.text)
+                    err_code = err.get("code")
                     last_data = data
                     logger.warning(f"⚠️ Comment attempt {attempt} for target {target} failed: {last_err}")
-                    if "processing" in last_err.lower() or "not ready" in last_err.lower() or err.get("code") == 100:
+                    # If Meta returns permission error (Code 200), don't retry in a loop
+                    if err_code == 200 or "permission" in last_err.lower() or "pages_manage_engagement" in last_err.lower():
+                        break
+                    if "processing" in last_err.lower() or "not ready" in last_err.lower() or err_code == 100:
                         time.sleep(5)
             except Exception as e:
                 last_err = str(e)
@@ -908,6 +938,37 @@ def post_comment_to_facebook_post(
 
     logger.error(f"❌ Failed to add first comment to video {post_id}: {last_err}")
     return {"success": False, "error": last_err, "response": last_data}
+
+
+def update_video_description(
+    video_id: str,
+    access_token: str,
+    new_description: str,
+    graph_version: str = FB_GRAPH_VERSION
+) -> bool:
+    """
+    Updates the video description via POST /{video_id} on Facebook.
+    Used as an automatic fallback when comment permissions (pages_manage_engagement)
+    are not granted by Meta, ensuring the website link is never omitted.
+    """
+    if not HAS_REQUESTS or not video_id or not access_token:
+        return False
+
+    endpoint = f"https://graph.facebook.com/{graph_version}/{video_id}"
+    payload = {"description": new_description, "access_token": access_token}
+
+    try:
+        resp = requests.post(endpoint, data=payload, timeout=20)
+        data = resp.json()
+        if resp.status_code == 200 and data.get("success", True):
+            logger.info(f"🔗 Successfully attached website news link directly into video {video_id} caption!")
+            return True
+        else:
+            logger.warning(f"Could not update video description (HTTP {resp.status_code}): {resp.text[:120]}")
+    except Exception as e:
+        logger.warning(f"Exception updating video description: {e}")
+
+    return False
 
 
 def run_video_publisher(
@@ -967,6 +1028,19 @@ def run_video_publisher(
                     h_item["fb_comment_id"] = c_res.get("comment_id")
                     save_video_history(history)
                     logger.info(f"✅ Successfully backfilled first comment for video {miss_vid}!")
+                else:
+                    # If comment blocked by Meta permission #200, automatically update video caption with website link
+                    c_err = str(c_res.get("error", "")).lower()
+                    if "permission" in c_err or c_res.get("response", {}).get("error", {}).get("code") == 200:
+                        logger.info(f"💡 Comment permission not available. Updating description of video {miss_vid} with website link directly...")
+                        updated = update_video_description(
+                            video_id=miss_vid,
+                            access_token=access_token,
+                            new_description=f"👉 Read the full verified story & updates at US HOT NEWS:\n{miss_target_url}"
+                        )
+                        if updated:
+                            h_item["fb_comment_id"] = "embedded_in_caption"
+                            save_video_history(history)
 
     # Step 1: Research Google Trends
     trending_signals = fetch_trending_signals_us()
@@ -1092,6 +1166,21 @@ def run_video_publisher(
                 wait_ready=True
             )
             comment_id = comment_result.get("comment_id")
+
+            # Fallback: If comment was blocked by Meta permissions (#200), automatically add link to video caption
+            if not comment_id:
+                err_msg = str(comment_result.get("error", "")).lower()
+                if "permission" in err_msg or "pages_manage_engagement" in err_msg or comment_result.get("response", {}).get("error", {}).get("code") == 200:
+                    logger.info("💡 Meta blocked comments because 'pages_manage_engagement' is not granted on this token.")
+                    logger.info("   👉 Automatically updating video caption to include direct website article link...")
+                    clean_caption = caption.replace(
+                        "👇 Read the full story & latest updates in the first comment!",
+                        f"👉 Read the full verified report at US HOT NEWS:\n{latest_site_article['url']}"
+                    )
+                    if latest_site_article['url'] not in clean_caption:
+                        clean_caption += f"\n\n👉 Read the full report:\n{latest_site_article['url']}"
+                    if update_video_description(video_id, access_token, clean_caption):
+                        comment_id = "embedded_in_caption"
 
             # Step 7: Record into history
             posted_map[v_id] = {
