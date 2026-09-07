@@ -60,26 +60,58 @@ FB_GRAPH_VERSION = os.environ.get("FB_GRAPH_VERSION", "v21.0")
 GOOGLE_TRENDS_US_RSS = "https://trends.google.com/trending/rss?geo=US"
 GOOGLE_NEWS_TOP_US_RSS = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
 
-# Direct Live US News Video Feeds
+# Direct Live US News Video & Media Feeds
 US_VIDEO_FEEDS = [
+    # Top US News YouTube Feeds (Direct, 100% Reliable 24/7 Real Videos)
+    {
+        "source": "NBC News Video",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg",
+        "category": "Politics"
+    },
     {
         "source": "CBS News Video",
-        "url": "https://www.cbsnews.com/latest/rss/video",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8p1vwvWtl6T73JiExfWs1g",
         "category": "Politics"
     },
     {
         "source": "CNN US Video",
-        "url": "http://rss.cnn.com/rss/cnn_freevideo.rss",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCupvZG-5ko_eiXAupbDfxWw",
         "category": "Politics"
     },
     {
         "source": "Fox News Video",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXIJgqnII2ZOINSWNOGFThA",
+        "category": "Politics"
+    },
+    {
+        "source": "ABC News Video",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBi2mrWuNuyYy4gbM6fU18Q",
+        "category": "Politics"
+    },
+    {
+        "source": "Associated Press Video",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5HA3Qz6BQ8879gODeTQ",
+        "category": "World"
+    },
+    # Direct RSS Media Feeds
+    {
+        "source": "CBS News Video RSS",
+        "url": "https://www.cbsnews.com/latest/rss/video",
+        "category": "Politics"
+    },
+    {
+        "source": "Fox News Media RSS",
         "url": "https://moxie.foxnews.com/google-publisher/video.xml",
         "category": "Politics"
     },
     {
-        "source": "NBC News Video",
+        "source": "NBC News Video RSS",
         "url": "https://feeds.nbcnews.com/nbcnews/public/video",
+        "category": "Politics"
+    },
+    {
+        "source": "Yahoo News Video RSS",
+        "url": "https://www.yahoo.com/news/rss/videos",
         "category": "Politics"
     }
 ]
@@ -96,6 +128,82 @@ def build_fb_video_url(video_id: str, page_id: Optional[str] = None) -> str:
     elif page_id and str(page_id).strip() != "me":
         return f"https://www.facebook.com/{str(page_id).strip()}/videos/{v_id}"
     return f"https://www.facebook.com/watch/?v={v_id}"
+
+
+def verify_facebook_token(page_id: str, access_token: str, graph_version: str = FB_GRAPH_VERSION) -> str:
+    """
+    Validates the Facebook access token before attempting video upload.
+    Returns the connected identity ID.
+    """
+    if not HAS_REQUESTS:
+        return page_id
+
+    try:
+        masked_token = access_token[:8] + "..." + access_token[-4:] if len(access_token) > 15 else "***"
+        logger.info(f"Checking credentials (Target Page ID: {page_id}, Token: {masked_token}, Length: {len(access_token)})")
+
+        url = f"https://graph.facebook.com/{graph_version}/me?fields=id,name&access_token={access_token}"
+        resp = requests.get(url, timeout=15)
+        data = resp.json()
+
+        if resp.status_code == 200 and "id" in data:
+            token_id = str(data.get("id"))
+            token_name = data.get("name")
+            logger.info(f"✅ Token Verified! Connected Identity: '{token_name}' (ID: {token_id})")
+            if token_id == str(page_id):
+                logger.info(f"✅ Token belongs directly to Page '{token_name}'!")
+            else:
+                logger.info(f"ℹ️ Connected identity is '{token_name}' (ID: {token_id}). Exchanging for Page Access Token...")
+            return token_id
+        else:
+            err = data.get("error", {})
+            logger.warning(f"⚠️ Pre-check Notice ({resp.status_code}): {err.get('message')}")
+    except Exception as e:
+        logger.warning(f"Could not connect to Facebook pre-check endpoint: {e}")
+
+    return page_id or "me"
+
+
+def resolve_page_credentials(page_id: str, access_token: str, graph_version: str = FB_GRAPH_VERSION) -> tuple:
+    """
+    If the user passed a User Access Token (personal account), queries /me/accounts
+    to automatically exchange it for the official Page Access Token and Page ID.
+    """
+    if not HAS_REQUESTS:
+        return page_id, access_token
+
+    try:
+        url = f"https://graph.facebook.com/{graph_version}/me/accounts?fields=id,name,access_token&access_token={access_token}"
+        resp = requests.get(url, timeout=15)
+        data = resp.json()
+
+        if resp.status_code == 200 and "data" in data and len(data["data"]) > 0:
+            pages = data["data"]
+            logger.info(f"📋 Found {len(pages)} Facebook Page(s) managed by this account:")
+            matched = None
+            for p in pages:
+                p_id = str(p.get("id"))
+                p_name = p.get("name")
+                logger.info(f"   -> Page: '{p_name}' (ID: {p_id})")
+                if page_id and (page_id == p_id or page_id == "me" or p_id in str(page_id) or str(page_id) in p_id):
+                    matched = p
+
+            if not matched:
+                matched = pages[0]
+
+            selected_id = str(matched.get("id"))
+            selected_name = matched.get("name")
+            page_token = matched.get("access_token")
+            logger.info(f"🎯 Auto-selected Page: '{selected_name}' (ID: {selected_id})")
+            if page_token:
+                logger.info("🔑 Successfully exchanged User Token for official PAGE Access Token!")
+                return selected_id, page_token
+        elif resp.status_code == 200:
+            logger.info("ℹ️ /me/accounts returned no pages. Proceeding with configured token directly.")
+    except Exception as e:
+        logger.warning(f"Notice: /me/accounts query: {e}")
+
+    return page_id, access_token
 
 
 def load_video_history(file_path: str = VIDEO_HISTORY_FILE) -> Dict[str, Any]:
@@ -464,6 +572,7 @@ def post_video_to_facebook(
     payload: Dict[str, Any] = {
         "title": title[:100],
         "description": caption,
+        "published": "true",
         "access_token": access_token
     }
 
@@ -474,12 +583,12 @@ def post_video_to_facebook(
         if video_file_path and os.path.exists(video_file_path):
             file_handle = open(video_file_path, "rb")
             files = {"source": (os.path.basename(video_file_path), file_handle, "video/mp4")}
-            logger.info(f"Uploading news video file ({os.path.getsize(video_file_path) // 1024} KB) to Facebook...")
-            response = requests.post(endpoint, data=payload, files=files, timeout=90)
+            logger.info(f"Uploading news video file ({os.path.getsize(video_file_path) // 1024} KB) to Facebook Page ({target})...")
+            response = requests.post(endpoint, data=payload, files=files, timeout=120)
         elif video_url:
             payload["file_url"] = video_url
-            logger.info(f"Uploading remote video URL to Facebook: {video_url[:60]}...")
-            response = requests.post(endpoint, data=payload, timeout=50)
+            logger.info(f"Uploading remote video URL to Facebook Page ({target}): {video_url[:60]}...")
+            response = requests.post(endpoint, data=payload, timeout=60)
         else:
             return {"success": False, "error": "No valid video file or URL available"}
 
@@ -490,7 +599,7 @@ def post_video_to_facebook(
             fb_endpoint = f"https://graph.facebook.com/{graph_version}/me/videos"
             if file_handle:
                 file_handle.seek(0)
-            response = requests.post(fb_endpoint, data=payload, files=files, timeout=90)
+            response = requests.post(fb_endpoint, data=payload, files=files, timeout=120)
             data = response.json()
 
         if response.status_code == 200 and "id" in data:
@@ -569,6 +678,12 @@ def run_video_publisher(
         logger.error("Missing required credentials: FB_PAGE_ID or FB_PAGE_ACCESS_TOKEN.")
         logger.info("Run with --dry-run to simulate without credentials.")
         return 1
+
+    if not dry_run:
+        # Step 1: Pre-flight identity check
+        verify_facebook_token(page_id, access_token)
+        # Step 2: Auto-exchange User Token for Page Access Token if managed pages exist
+        page_id, access_token = resolve_page_credentials(page_id, access_token)
 
     history = load_video_history()
     history, pruned_count = cleanup_old_video_history(history, max_age_days=cleanup_days)
@@ -709,7 +824,10 @@ def run_video_publisher(
             logger.error(f"❌ Could not publish candidate '{title}'. Moving to next trending candidate...")
 
     logger.info(f"Video publisher finished. Successfully posted {successful_posts} video(s).")
-    return 0 if (successful_posts > 0 or not to_publish or dry_run) else 1
+    if successful_posts == 0 and not dry_run:
+        logger.error("No candidate videos were successfully published in this run.")
+        return 1
+    return 0
 
 
 def main():

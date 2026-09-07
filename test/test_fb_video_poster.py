@@ -16,6 +16,8 @@ sys.path.insert(0, PROJECT_ROOT)
 
 from scripts.fb_poster.fb_video_publisher import (
     build_fb_video_url,
+    verify_facebook_token,
+    resolve_page_credentials,
     load_video_history,
     save_video_history,
     cleanup_old_video_history,
@@ -123,6 +125,17 @@ class TestFacebookVideoPublisher(unittest.TestCase):
         self.assertEqual(pruned, 1)
         self.assertNotIn("old-video", cleaned["articles"])
         self.assertIn("fresh-video", cleaned["articles"])
+
+    def test_verify_facebook_token_fallback(self):
+        """Verify fallback behavior when network or offline."""
+        pid = verify_facebook_token("1325939953941168", "EAABxxxxxxx")
+        self.assertTrue(pid)
+
+    def test_resolve_page_credentials_fallback(self):
+        """Verify resolve page credentials returns tuple."""
+        pid, token = resolve_page_credentials("1325939953941168", "EAABxxxxxxx")
+        self.assertEqual(pid, "1325939953941168")
+        self.assertEqual(token, "EAABxxxxxxx")
 
     def test_dry_run_execution(self):
         """Verify video publisher runs smoothly in dry-run mode."""
