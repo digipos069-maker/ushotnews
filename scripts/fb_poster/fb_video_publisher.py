@@ -17,6 +17,7 @@ import tempfile
 import argparse
 import logging
 import subprocess
+import email.utils
 from datetime import datetime, timezone
 import xml.etree.ElementTree as ET
 from typing import List, Dict, Any, Optional, Set, Tuple
@@ -61,13 +62,50 @@ MAX_VIDEO_BYTES = 75 * 1024 * 1024  # 75 MB max limit for single-request Faceboo
 GOOGLE_TRENDS_US_RSS = "https://trends.google.com/trending/rss?geo=US"
 GOOGLE_NEWS_TOP_US_RSS = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
 
-# Direct Live US News Video & Media Feeds (All direct MP4 / Media streams, 100% cloud-compatible)
+# Top Live US News Video & Media Feeds (Prioritizing US Politics, White House, Congress, Economy & National News)
 US_VIDEO_FEEDS = [
+    # Top US News YouTube Feeds (Instant updates, verified US journalism)
     {
-        "source": "PBS NewsHour Daily Broadcast & Segments",
-        "url": "https://www.pbs.org/newshour/feeds/rss/podcasts/show",
+        "source": "AP (Associated Press) US News",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5wxOL_EZ56xnRx4P0IA",
         "category": "Politics"
     },
+    {
+        "source": "PBS NewsHour Daily Segments",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ZFN9Tx6xh-skXCuRHCDpQ",
+        "category": "Politics"
+    },
+    {
+        "source": "NBC News US",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg",
+        "category": "Politics"
+    },
+    {
+        "source": "ABC News US",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBi2mrWuNuyYy4gbM6fU18Q",
+        "category": "Politics"
+    },
+    {
+        "source": "CBS News US",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8p1vwvWtl6T73JiExfWs1g",
+        "category": "Politics"
+    },
+    {
+        "source": "C-SPAN US Politics & Congress",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCb--64Gl51jIEVE-GLDAVTg",
+        "category": "Politics"
+    },
+    {
+        "source": "Fox News US",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXIJgqnII2ZOINSWNOGFThA",
+        "category": "Politics"
+    },
+    {
+        "source": "Reuters US News",
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ",
+        "category": "Economy"
+    },
+    # Direct Media Feeds
     {
         "source": "CBS News Video RSS",
         "url": "https://www.cbsnews.com/latest/rss/video",
@@ -87,13 +125,63 @@ US_VIDEO_FEEDS = [
         "source": "Yahoo News Video RSS",
         "url": "https://www.yahoo.com/news/rss/videos",
         "category": "Politics"
-    },
-    {
-        "source": "C-SPAN Politics Video",
-        "url": "https://www.c-span.org/rss/video/?category=Latest%20Videos",
-        "category": "Politics"
     }
 ]
+
+# Keywords that indicate space/astronomy is genuinely trending in the US
+SPACE_TRENDING_KEYWORDS = {
+    "nasa", "spacex", "artemis", "moon", "mars", "rocket", "launch",
+    "astronaut", "satellite", "orbit", "telescope", "space station",
+    "iss", "starship", "falcon"
+}
+
+
+def parse_date_to_datetime(date_str: Optional[Any]) -> Optional[datetime]:
+    """Parses various date strings (ISO, RFC 2822, etc.) into UTC datetime."""
+    if not date_str:
+        return None
+    if isinstance(date_str, datetime):
+        return date_str if date_str.tzinfo else date_str.replace(tzinfo=timezone.utc)
+
+    raw = str(date_str).strip()
+    # Try ISO formats (e.g. 2026-09-07T04:12:00Z or 2026-09-07T04:12:00+00:00)
+    try:
+        clean = raw.replace("Z", "+00:00")
+        return datetime.fromisoformat(clean)
+    except Exception:
+        pass
+
+    # Try RFC 2822 / 822 format (standard RSS: "Mon, 07 Sep 2026 04:13:00 GMT")
+    try:
+        dt = email.utils.parsedate_to_datetime(raw)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    return None
+
+
+def is_within_max_age(dt: Optional[datetime], max_hours: int = 48) -> bool:
+    """Checks if datetime is within the last max_hours (strict freshness filter)."""
+    if not dt:
+        return False
+    now = datetime.now(timezone.utc)
+    age_seconds = (now - dt).total_seconds()
+    return 0 <= age_seconds <= (max_hours * 3600)
+
+
+def is_space_trending_in_us(trending_signals: Optional[Set[str]]) -> bool:
+    """Checks if any space/astronomy terms are actively trending in US Google Trends."""
+    if not trending_signals:
+        return False
+    signals_lower = {s.lower() for s in trending_signals}
+    for kw in SPACE_TRENDING_KEYWORDS:
+        if kw in signals_lower:
+            return True
+        for sig in signals_lower:
+            if kw in sig:
+                return True
+    return False
 
 
 def build_fb_video_url(video_id: str, page_id: Optional[str] = None) -> str:
@@ -352,10 +440,11 @@ def get_latest_website_article(api_url: str = DEFAULT_API_URL, site_url: str = D
     }
 
 
-def fetch_dvids_us_news_videos() -> List[Dict[str, Any]]:
+def fetch_dvids_us_news_videos(max_age_hours: int = 48) -> List[Dict[str, Any]]:
     """
     Fetches official US Defense & National News videos from DVIDS (Defense Visual Information Distribution Service).
     All videos are hosted directly on CloudFront CDN as pure .mp4 files with zero bot protection or IP blocking.
+    Only videos published within the last max_age_hours are accepted.
     """
     candidates = []
     if not HAS_REQUESTS:
@@ -368,13 +457,18 @@ def fetch_dvids_us_news_videos() -> List[Dict[str, Any]]:
         if resp.status_code == 200:
             root = ET.fromstring(resp.content)
             items = root.findall(".//item")
-            for it in items[:12]:
+            for it in items[:15]:
                 title = it.findtext("title", "").strip()
                 link = it.findtext("link", "").strip()
                 desc = it.findtext("description", "").strip()
                 guid = it.findtext("guid", link)
+                pub_date = it.findtext("pubDate", "")
 
                 if not link or not title or len(title) < 10:
+                    continue
+
+                pub_dt = parse_date_to_datetime(pub_date)
+                if pub_dt and not is_within_max_age(pub_dt, max_hours=max_age_hours):
                     continue
 
                 clean_title = re.sub(r"<[^>]+>", "", title).strip()
@@ -398,6 +492,7 @@ def fetch_dvids_us_news_videos() -> List[Dict[str, Any]]:
                                 "source": "DVIDS US National Media",
                                 "category": "Politics",
                                 "guid": f"dvids-{guid}",
+                                "published_at": pub_dt.isoformat() if pub_dt else None,
                             })
                 except Exception as ex:
                     logger.debug(f"DVIDS page scrape notice for {link}: {ex}")
@@ -407,20 +502,36 @@ def fetch_dvids_us_news_videos() -> List[Dict[str, Any]]:
     return candidates
 
 
-def fetch_nasa_us_news_videos() -> List[Dict[str, Any]]:
+def fetch_nasa_us_news_videos(trending_signals: Optional[Set[str]] = None, max_age_hours: int = 48) -> List[Dict[str, Any]]:
     """
-    Fetches official US Space, Aerospace & Tech news videos from NASA Image and Video Library.
-    All videos have direct CDN .mp4 files with zero bot challenges or rate limits.
+    Fetches US Space & Tech news videos from NASA Image and Video Library ONLY IF
+    space topics are actively trending in the USA right now (Google Trends US),
+    AND the video was published within the last 48 hours.
     """
-    import urllib.parse
     candidates = []
     if not HAS_REQUESTS:
         return candidates
 
-    queries = ["news", "space", "launch", "technology", "artemis"]
+    # User rule: Only fetch NASA videos if space topics are actively trending in USA
+    if not is_space_trending_in_us(trending_signals):
+        logger.info("ℹ️ No space/NASA keywords currently trending in US Google Trends. Skipping NASA to prioritize US breaking & political news.")
+        return candidates
+
+    logger.info("🚀 Space topic detected in US Google Trends! Querying NASA video library for matching recent releases...")
+    import urllib.parse
+
+    # Extract which space terms matched
+    matched_queries = []
+    if trending_signals:
+        signals_lower = {s.lower() for s in trending_signals}
+        for kw in SPACE_TRENDING_KEYWORDS:
+            if kw in signals_lower or any(kw in sig for sig in signals_lower):
+                matched_queries.append(kw)
+
+    queries = matched_queries[:2] if matched_queries else ["launch"]
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) USHotNews/1.0"}
 
-    for q in queries[:2]:
+    for q in queries:
         try:
             url = f"https://images-api.nasa.gov/search?q={q}&media_type=video"
             resp = requests.get(url, headers=headers, timeout=12)
@@ -436,8 +547,14 @@ def fetch_nasa_us_news_videos() -> List[Dict[str, Any]]:
                     desc = (meta.get("description") or "").strip()
                     nasa_id = meta.get("nasa_id", "")
                     href = it.get("href")
+                    date_created = meta.get("date_created")
 
                     if not href or not title or len(title) < 10:
+                        continue
+
+                    # Strict date check: reject archival or old videos!
+                    pub_dt = parse_date_to_datetime(date_created)
+                    if pub_dt and not is_within_max_age(pub_dt, max_hours=max_age_hours):
                         continue
 
                     clean_title = re.sub(r"<[^>]+>", "", title).strip()
@@ -473,6 +590,7 @@ def fetch_nasa_us_news_videos() -> List[Dict[str, Any]]:
                                         "source": "NASA US Tech & Science",
                                         "category": "Technology",
                                         "guid": f"nasa-{nasa_id or clean_title}",
+                                        "published_at": pub_dt.isoformat() if pub_dt else None,
                                     })
                     except Exception as ex:
                         logger.debug(f"NASA collection parse notice: {ex}")
@@ -482,26 +600,16 @@ def fetch_nasa_us_news_videos() -> List[Dict[str, Any]]:
     return candidates
 
 
-def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
+def fetch_trending_videos_from_web(trending_signals: Optional[Set[str]] = None, max_age_hours: int = 48) -> List[Dict[str, Any]]:
     """
-    Discovers trending US news videos directly from live US Video Feeds, DVIDS, and NASA.
+    Discovers trending US news videos directly from live US Video Feeds (AP, PBS, NBC, CBS, Fox, Reuters),
+    DVIDS, and optionally NASA (only when space topics are trending in the US).
+    Enforces strict publication date freshness (last 48h only).
     """
     video_candidates = []
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) USHotNews/1.0"}
 
-    # 1. Fetch official US Defense & National News videos from DVIDS (CloudFront direct MP4)
-    dvids_candidates = fetch_dvids_us_news_videos()
-    if dvids_candidates:
-        video_candidates.extend(dvids_candidates)
-        logger.info(f"Discovered {len(dvids_candidates)} direct MP4 news videos from DVIDS National Hub.")
-
-    # 2. Fetch US Space & Tech news videos from NASA (direct CDN MP4)
-    nasa_candidates = fetch_nasa_us_news_videos()
-    if nasa_candidates:
-        video_candidates.extend(nasa_candidates)
-        logger.info(f"Discovered {len(nasa_candidates)} direct MP4 news videos from NASA Video Library.")
-
-    # 3. Query RSS video feeds
+    # 1. Query live mainstream US news video feeds (Top US journalistic networks)
     for feed in US_VIDEO_FEEDS:
         url = feed["url"]
         source = feed["source"]
@@ -511,44 +619,96 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
             entries = []
             if HAS_FEEDPARSER:
                 parsed = feedparser.parse(url, request_headers=headers)
-                entries = parsed.entries
+                for entry in parsed.entries:
+                    entries.append({
+                        "title": getattr(entry, "title", ""),
+                        "link": getattr(entry, "link", ""),
+                        "description": getattr(entry, "description", getattr(entry, "summary", "")),
+                        "id": getattr(entry, "id", getattr(entry, "link", "")),
+                        "published": getattr(entry, "published", getattr(entry, "updated", "")),
+                        "enclosures": getattr(entry, "enclosures", []),
+                        "media_content": getattr(entry, "media_content", [])
+                    })
             elif HAS_REQUESTS:
                 resp = requests.get(url, headers=headers, timeout=10)
                 if resp.status_code == 200:
                     root = ET.fromstring(resp.content)
-                    for it in root.findall(".//item"):
-                        title = it.findtext("title", "")
-                        link = it.findtext("link", "")
-                        desc = it.findtext("description", "")
-                        guid = it.findtext("guid", link)
-                        enc_tag = it.find("enclosure")
-                        enc_url = ""
-                        enc_type = ""
-                        if enc_tag is not None:
-                            enc_url = enc_tag.get("url") or enc_tag.get("href") or ""
-                            enc_type = enc_tag.get("type") or ""
-                        entries.append({
-                            "title": title,
-                            "link": link,
-                            "description": desc,
-                            "id": guid,
-                            "enclosures": [{"href": enc_url, "type": enc_type}] if enc_url else []
-                        })
+                    # Check for Atom entry elements (e.g. YouTube feeds)
+                    atom_entries = root.findall(".//{http://www.w3.org/2005/Atom}entry")
+                    if not atom_entries:
+                        atom_entries = root.findall(".//entry")
 
-            for e in entries[:8]:
+                    if atom_entries:
+                        for entry in atom_entries:
+                            e_title = entry.findtext("{http://www.w3.org/2005/Atom}title", entry.findtext("title", ""))
+                            e_link = ""
+                            for l_elem in entry.findall("{http://www.w3.org/2005/Atom}link"):
+                                if l_elem.get("href"):
+                                    e_link = l_elem.get("href")
+                                    break
+                            if not e_link:
+                                for l_elem in entry.findall("link"):
+                                    if l_elem.get("href"):
+                                        e_link = l_elem.get("href")
+                                        break
+                            if not e_link:
+                                e_link = entry.findtext("link", "")
+
+                            pub_val = (
+                                entry.findtext("{http://www.w3.org/2005/Atom}published")
+                                or entry.findtext("{http://www.w3.org/2005/Atom}updated")
+                                or entry.findtext("published")
+                                or entry.findtext("updated")
+                                or ""
+                            )
+                            desc_val = (
+                                entry.findtext(".//{http://search.yahoo.com/mrss/}description")
+                                or entry.findtext("summary")
+                                or ""
+                            )
+                            guid_val = entry.findtext("{http://www.w3.org/2005/Atom}id", entry.findtext("id", e_link))
+                            entries.append({
+                                "title": e_title,
+                                "link": e_link,
+                                "description": desc_val,
+                                "id": guid_val,
+                                "published": pub_val,
+                                "enclosures": []
+                            })
+                    else:
+                        for it in root.findall(".//item"):
+                            enc_tag = it.find("enclosure")
+                            enc_url = enc_tag.get("url") or enc_tag.get("href") or "" if enc_tag is not None else ""
+                            enc_type = enc_tag.get("type") or "" if enc_tag is not None else ""
+                            entries.append({
+                                "title": it.findtext("title", ""),
+                                "link": it.findtext("link", ""),
+                                "description": it.findtext("description", ""),
+                                "id": it.findtext("guid", it.findtext("link", "")),
+                                "published": it.findtext("pubDate", ""),
+                                "enclosures": [{"href": enc_url, "type": enc_type}] if enc_url else []
+                            })
+
+            for e in entries[:10]:
                 raw_title = e.get("title", "")
                 raw_desc = e.get("description", e.get("summary", ""))
                 guid = e.get("id", e.get("link", ""))
+                pub_raw = e.get("published") or e.get("pubDate") or e.get("updated")
 
                 title = re.sub(r"<[^>]+>", "", raw_title).strip()
                 summary = re.sub(r"<[^>]+>", "", raw_desc).strip()
                 if not title or len(title) < 15:
                     continue
 
+                # Strict Freshness Check
+                pub_dt = parse_date_to_datetime(pub_raw)
+                if pub_dt and not is_within_max_age(pub_dt, max_hours=max_age_hours):
+                    continue
+
                 # Extract video URL
                 video_url = None
 
-                # Check enclosures (e.g. podcast video RSS, PBS NewsHour)
+                # Check enclosures
                 enclosures = e.get("enclosures", []) if isinstance(e, dict) else (getattr(e, "enclosures", []) or [])
                 for enc in enclosures:
                     e_url = enc.get("href") or enc.get("url") or ""
@@ -567,12 +727,12 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
                             video_url = m_url
                             break
 
-                if not video_url and ("/video" in guid.lower() or ".mp4" in guid.lower()):
+                if not video_url and ("/video" in guid.lower() or ".mp4" in guid.lower() or "youtube.com/watch" in guid.lower()):
                     video_url = guid
 
                 if not video_url and e.get("link"):
                     link = e.get("link", "")
-                    if "/video" in link.lower() or ".mp4" in link.lower():
+                    if "/video" in link.lower() or ".mp4" in link.lower() or "youtube.com/watch" in link.lower() or "youtu.be/" in link.lower():
                         video_url = link
 
                 if video_url:
@@ -589,12 +749,25 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
                         "source": source,
                         "category": default_cat,
                         "guid": guid or video_url,
+                        "published_at": pub_dt.isoformat() if pub_dt else None,
                     })
         except Exception as e:
             logger.debug(f"Feed {source} query notice: {e}")
 
-    # Also check local scraped backup for video items
-    if not video_candidates and os.path.exists(LOCAL_SCRAPED_FILE):
+    # 2. Fetch official US Defense & National News videos from DVIDS (CloudFront direct MP4, fresh only)
+    dvids_candidates = fetch_dvids_us_news_videos(max_age_hours=max_age_hours)
+    if dvids_candidates:
+        video_candidates.extend(dvids_candidates)
+        logger.info(f"Discovered {len(dvids_candidates)} fresh direct MP4 news videos from DVIDS National Hub.")
+
+    # 3. Fetch US Space & Tech news videos from NASA (ONLY IF space is trending in US Google Trends)
+    nasa_candidates = fetch_nasa_us_news_videos(trending_signals=trending_signals, max_age_hours=max_age_hours)
+    if nasa_candidates:
+        video_candidates.extend(nasa_candidates)
+        logger.info(f"Discovered {len(nasa_candidates)} trending NASA videos matching today's US topics.")
+
+    # 4. Also check local scraped backup for fresh video items
+    if os.path.exists(LOCAL_SCRAPED_FILE):
         try:
             with open(LOCAL_SCRAPED_FILE, "r", encoding="utf-8") as f:
                 articles = json.load(f)
@@ -605,6 +778,9 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
                         if not v_url and ("/video" in guid.lower()):
                             v_url = guid
                         if v_url:
+                            pub_dt = parse_date_to_datetime(a.get("publishedAt"))
+                            if pub_dt and not is_within_max_age(pub_dt, max_hours=max_age_hours):
+                                continue
                             is_direct_mp4 = str(v_url).lower().split("?")[0].endswith((".mp4", ".mov", ".m4v", ".webm"))
                             video_candidates.append({
                                 "title": a.get("title"),
@@ -614,6 +790,7 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
                                 "source": "US News Wire",
                                 "category": a.get("category", "Politics"),
                                 "guid": a.get("guid", a.get("id")),
+                                "published_at": pub_dt.isoformat() if pub_dt else None,
                             })
         except Exception:
             pass
@@ -622,20 +799,40 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
 
 
 def calculate_trending_score(item: Dict[str, Any], trending_signals: Set[str]) -> float:
-    """Calculates trending relevance score."""
+    """Calculates trending relevance score prioritizing real-time US news and Google Trends."""
     score = 20.0
     text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
 
+    # Google Trends US match (highest value)
     if trending_signals:
         matches = sum(1 for term in trending_signals if len(term) > 3 and term in text)
-        score += min(matches * 10.0, 50.0)
+        score += min(matches * 15.0, 50.0)
 
-    # Prioritize direct MP4 downloads for maximum reliability on serverless / cloud runners
-    if item.get("is_direct_mp4"):
-        score += 25.0
-
-    category_weights = {"Politics": 18.0, "Economy": 18.0, "Technology": 16.0, "Culture": 14.0}
+    # Core US News category weights (Politics and Economy take top priority)
+    category_weights = {
+        "Politics": 25.0,
+        "Economy": 22.0,
+        "National": 20.0,
+        "Technology": 12.0,
+        "World": 12.0,
+        "Culture": 10.0,
+        "Sports": 10.0
+    }
     score += category_weights.get(item.get("category", "Politics"), 10.0)
+
+    # Freshness Bonus: Extra points for being fresh off the wire
+    pub_dt = parse_date_to_datetime(item.get("published_at"))
+    if pub_dt:
+        age_hours = (datetime.now(timezone.utc) - pub_dt).total_seconds() / 3600
+        if age_hours <= 12:
+            score += 20.0
+        elif age_hours <= 24:
+            score += 10.0
+
+    # Slight bonus for direct MP4 reliability (5 points instead of 25)
+    if item.get("is_direct_mp4"):
+        score += 5.0
+
     return round(score, 2)
 
 
@@ -1092,7 +1289,7 @@ def run_video_publisher(
     trending_signals = fetch_trending_signals_us()
 
     # Step 2: Discover live trending news videos
-    video_candidates = fetch_trending_videos_from_web()
+    video_candidates = fetch_trending_videos_from_web(trending_signals=trending_signals)
     logger.info(f"Discovered {len(video_candidates)} candidate trending news videos.")
 
     # Filter unposted videos

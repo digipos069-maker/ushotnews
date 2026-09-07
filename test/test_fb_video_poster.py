@@ -29,7 +29,11 @@ from scripts.fb_poster.fb_video_publisher import (
     post_video_to_facebook,
     wait_for_video_ready,
     run_video_publisher,
-    MAX_VIDEO_BYTES
+    MAX_VIDEO_BYTES,
+    parse_date_to_datetime,
+    is_within_max_age,
+    is_space_trending_in_us,
+    fetch_nasa_us_news_videos
 )
 
 class TestFacebookVideoPublisher(unittest.TestCase):
@@ -164,6 +168,37 @@ class TestFacebookVideoPublisher(unittest.TestCase):
         finally:
             if os.path.exists(dummy_file):
                 os.remove(dummy_file)
+
+    def test_date_parsing_and_freshness_filter(self):
+        """Verify strict freshness filtering rejects items older than 48 hours."""
+        now = datetime.now(timezone.utc)
+        fresh_dt = now - timedelta(hours=6)
+        old_dt = now - timedelta(days=4)
+        ancient_dt = datetime(2019, 5, 2, 12, 0, 0, tzinfo=timezone.utc)
+
+        self.assertTrue(is_within_max_age(fresh_dt, max_hours=48))
+        self.assertFalse(is_within_max_age(old_dt, max_hours=48))
+        self.assertFalse(is_within_max_age(ancient_dt, max_hours=48))
+
+        # Test string parsing
+        parsed_iso = parse_date_to_datetime(now.isoformat())
+        self.assertIsNotNone(parsed_iso)
+        self.assertTrue(is_within_max_age(parsed_iso, max_hours=48))
+
+        parsed_rfc = parse_date_to_datetime("Mon, 07 Sep 2026 04:13:00 GMT")
+        self.assertIsNotNone(parsed_rfc)
+
+    def test_nasa_conditional_trending_check(self):
+        """Verify NASA is skipped unless space topics are actively in US Google Trends."""
+        politics_trends = {"biden", "trump", "economy", "senate", "jobs report"}
+        space_trends = {"spacex", "launch", "moon", "starship"}
+
+        self.assertFalse(is_space_trending_in_us(politics_trends))
+        self.assertTrue(is_space_trending_in_us(space_trends))
+
+        # When space is not trending, fetch_nasa_us_news_videos returns empty
+        candidates = fetch_nasa_us_news_videos(trending_signals=politics_trends)
+        self.assertEqual(candidates, [])
 
     def test_dry_run_execution(self):
         """Verify video publisher runs smoothly in dry-run mode."""
