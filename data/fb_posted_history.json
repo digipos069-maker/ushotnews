@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T15:45:10.002357+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-09-07T17:19:30.946013+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -487,7 +487,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099730411471257",
       "fb_comment_id": "122099730411471257_2151001669102658",
       "posted_at": "2026-09-07T15:45:10.002307+00:00"
+    },
+    "scraped-c44d936f02": {
+      "title": "Dangerous mosquito-borne virus spreads in one state as officials warn of rising cases",
+      "slug": "dangerous-mosquito-borne-virus-spreads-in-one-state-as-officials-warn-of-rising-cases",
+      "url": "https://ushotnews.online/article/dangerous-mosquito-borne-virus-spreads-in-one-state-as-officials-warn-of-rising-cases",
+      "article_url": "https://ushotnews.online/article/dangerous-mosquito-borne-virus-spreads-in-one-state-as-officials-warn-of-rising-cases",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099778249471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099778249471257",
+      "fb_comment_id": "122099778249471257_2812908599065720",
+      "posted_at": "2026-09-07T17:19:30.945952+00:00"
+    },
+    "dangerous-mosquito-borne-virus-spreads-in-one-state-as-officials-warn-of-rising-cases": {
+      "title": "Dangerous mosquito-borne virus spreads in one state as officials warn of rising cases",
+      "slug": "dangerous-mosquito-borne-virus-spreads-in-one-state-as-officials-warn-of-rising-cases",
+      "url": "https://ushotnews.online/article/dangerous-mosquito-borne-virus-spreads-in-one-state-as-officials-warn-of-rising-cases",
+      "article_url": "https://ushotnews.online/article/dangerous-mosquito-borne-virus-spreads-in-one-state-as-officials-warn-of-rising-cases",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099778249471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099778249471257",
+      "fb_comment_id": "122099778249471257_2812908599065720",
+      "posted_at": "2026-09-07T17:19:30.945952+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T15:44:57.568882+00:00"
+  "last_cleaned_at": "2026-09-07T17:19:20.269364+00:00"
 }
