@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T04:23:22.139331+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-09-07T05:42:56.824087+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -399,7 +399,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099361261471257",
       "fb_comment_id": null,
       "posted_at": "2026-09-07T04:23:22.139266+00:00"
+    },
+    "scraped-affff17355": {
+      "title": "Why It’s Time to Load Up on SoFi Stock",
+      "slug": "why-its-time-to-load-up-on-sofi-stock",
+      "url": "https://ushotnews.online/article/why-its-time-to-load-up-on-sofi-stock",
+      "article_url": "https://ushotnews.online/article/why-its-time-to-load-up-on-sofi-stock",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099406675471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099406675471257",
+      "fb_comment_id": null,
+      "posted_at": "2026-09-07T05:42:56.824021+00:00"
+    },
+    "why-its-time-to-load-up-on-sofi-stock": {
+      "title": "Why It’s Time to Load Up on SoFi Stock",
+      "slug": "why-its-time-to-load-up-on-sofi-stock",
+      "url": "https://ushotnews.online/article/why-its-time-to-load-up-on-sofi-stock",
+      "article_url": "https://ushotnews.online/article/why-its-time-to-load-up-on-sofi-stock",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099406675471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099406675471257",
+      "fb_comment_id": null,
+      "posted_at": "2026-09-07T05:42:56.824021+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T04:23:16.532382+00:00"
+  "last_cleaned_at": "2026-09-07T05:42:51.689517+00:00"
 }
