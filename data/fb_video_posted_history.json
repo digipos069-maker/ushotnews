@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T04:36:15.064969+00:00",
-  "posted_count": 1,
+  "last_updated": "2026-09-07T05:34:44.950145+00:00",
+  "posted_count": 2,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -12,7 +12,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/3479970502152770",
       "fb_comment_id": null,
       "posted_at": "2026-09-07T04:36:15.064921+00:00"
+    },
+    "nasa-312_ISS_business-in-space": {
+      "title": "NASA ScienceCasts: Doing Business in Space",
+      "video_url": "http://images-assets.nasa.gov/video/312_ISS_business-in-space/312_ISS_business-in-space~medium.mp4",
+      "attached_website_url": "https://ushotnews.online/article/spacex-just-dealt-a-big-blow-to-howmet-aerospace-stock",
+      "trending_score": 71.0,
+      "format": "video",
+      "fb_video_id": "1375168557586038",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1375168557586038",
+      "fb_comment_id": null,
+      "posted_at": "2026-09-07T05:34:44.950094+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T04:36:05.995990+00:00"
+  "last_cleaned_at": "2026-09-07T05:34:16.014026+00:00"
 }
