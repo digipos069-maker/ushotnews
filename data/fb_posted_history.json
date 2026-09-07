@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T23:46:00.803217+00:00",
-  "posted_count": 36,
+  "last_updated": "2026-09-07T00:51:08.953213+00:00",
+  "posted_count": 38,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -357,7 +357,27 @@
       "fb_post_id": "1325939953941168_122099248083471257",
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099248083471257",
       "posted_at": "2026-09-06T23:46:00.803155+00:00"
+    },
+    "scraped-aa6523c916": {
+      "title": "Nvidia Says Memory Pricing Has Turned ‘Extreme’ and Is ‘Headed Even Higher Into Next Year,’ But Its Own Price Increases Are Already Executed",
+      "slug": "nvidia-says-memory-pricing-has-turned-extreme-and-is-headed-even-higher-into-next-year-but",
+      "url": "https://ushotnews.online/article/nvidia-says-memory-pricing-has-turned-extreme-and-is-headed-even-higher-into-next-year-but",
+      "article_url": "https://ushotnews.online/article/nvidia-says-memory-pricing-has-turned-extreme-and-is-headed-even-higher-into-next-year-but",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099275059471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099275059471257",
+      "posted_at": "2026-09-07T00:51:08.953133+00:00"
+    },
+    "nvidia-says-memory-pricing-has-turned-extreme-and-is-headed-even-higher-into-next-year-but": {
+      "title": "Nvidia Says Memory Pricing Has Turned ‘Extreme’ and Is ‘Headed Even Higher Into Next Year,’ But Its Own Price Increases Are Already Executed",
+      "slug": "nvidia-says-memory-pricing-has-turned-extreme-and-is-headed-even-higher-into-next-year-but",
+      "url": "https://ushotnews.online/article/nvidia-says-memory-pricing-has-turned-extreme-and-is-headed-even-higher-into-next-year-but",
+      "article_url": "https://ushotnews.online/article/nvidia-says-memory-pricing-has-turned-extreme-and-is-headed-even-higher-into-next-year-but",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099275059471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099275059471257",
+      "posted_at": "2026-09-07T00:51:08.953133+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-06T23:45:55.702216+00:00"
+  "last_cleaned_at": "2026-09-07T00:51:03.952896+00:00"
 }
