@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T20:43:04.337821+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-09-07T22:45:54.820161+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -553,7 +553,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099873847471257",
       "fb_comment_id": "122099873847471257_1588653342184001",
       "posted_at": "2026-09-07T20:43:04.337750+00:00"
+    },
+    "scraped-76fe946b56": {
+      "title": "Outraged cruise passengers sound off about 'immense disappointment' after abrupt cancellation",
+      "slug": "outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
+      "url": "https://ushotnews.online/article/outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
+      "article_url": "https://ushotnews.online/article/outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099930109471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099930109471257",
+      "fb_comment_id": "122099930109471257_28454586367507567",
+      "posted_at": "2026-09-07T22:45:54.820081+00:00"
+    },
+    "outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio": {
+      "title": "Outraged cruise passengers sound off about 'immense disappointment' after abrupt cancellation",
+      "slug": "outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
+      "url": "https://ushotnews.online/article/outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
+      "article_url": "https://ushotnews.online/article/outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099930109471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099930109471257",
+      "fb_comment_id": "122099930109471257_28454586367507567",
+      "posted_at": "2026-09-07T22:45:54.820081+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T20:42:51.055341+00:00"
+  "last_cleaned_at": "2026-09-07T22:45:43.786955+00:00"
 }
