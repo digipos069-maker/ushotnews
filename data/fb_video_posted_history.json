@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T07:06:29.600160+00:00",
-  "posted_count": 5,
+  "last_updated": "2026-09-07T08:25:21.923368+00:00",
+  "posted_count": 6,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -56,7 +56,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2155246905415140",
       "fb_comment_id": "2155246905415140_1064400896203540",
       "posted_at": "2026-09-07T07:06:29.600093+00:00"
+    },
+    "dvids-video:1021988": {
+      "title": "US, AUS, and JPN Forces continue Exercise Yama Sakura 91",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111956584/DOD_111956584.mp4",
+      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1081747008120028",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1081747008120028",
+      "fb_comment_id": "1081747008120028_1275981582272111",
+      "posted_at": "2026-09-07T08:25:21.923296+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T07:03:53.035757+00:00"
+  "last_cleaned_at": "2026-09-07T08:24:21.922184+00:00"
 }
