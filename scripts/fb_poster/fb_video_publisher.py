@@ -629,7 +629,7 @@ def calculate_trending_score(item: Dict[str, Any], trending_signals: Set[str]) -
 
 
 def format_facebook_video_caption(video_item: Dict[str, Any]) -> str:
-    """Formats video caption without URL and without BREAKING."""
+    """Formats clean video caption without URL."""
     title = (video_item.get("title") or "").strip()
     summary = (video_item.get("summary") or "").strip()
     category = (video_item.get("category") or "News").strip().replace(" ", "")
@@ -1029,18 +1029,7 @@ def run_video_publisher(
                     save_video_history(history)
                     logger.info(f"✅ Successfully backfilled first comment for video {miss_vid}!")
                 else:
-                    # If comment blocked by Meta permission #200, automatically update video caption with website link
-                    c_err = str(c_res.get("error", "")).lower()
-                    if "permission" in c_err or c_res.get("response", {}).get("error", {}).get("code") == 200:
-                        logger.info(f"💡 Comment permission not available. Updating description of video {miss_vid} with website link directly...")
-                        updated = update_video_description(
-                            video_id=miss_vid,
-                            access_token=access_token,
-                            new_description=f"👉 Read the full verified story & updates at US HOT NEWS:\n{miss_target_url}"
-                        )
-                        if updated:
-                            h_item["fb_comment_id"] = "embedded_in_caption"
-                            save_video_history(history)
+                    logger.warning(f"⚠️ Could not backfill comment for video {miss_vid}: {c_res.get('error')}")
 
     # Step 1: Research Google Trends
     trending_signals = fetch_trending_signals_us()
@@ -1166,21 +1155,8 @@ def run_video_publisher(
                 wait_ready=True
             )
             comment_id = comment_result.get("comment_id")
-
-            # Fallback: If comment was blocked by Meta permissions (#200), automatically add link to video caption
             if not comment_id:
-                err_msg = str(comment_result.get("error", "")).lower()
-                if "permission" in err_msg or "pages_manage_engagement" in err_msg or comment_result.get("response", {}).get("error", {}).get("code") == 200:
-                    logger.info("💡 Meta blocked comments because 'pages_manage_engagement' is not granted on this token.")
-                    logger.info("   👉 Automatically updating video caption to include direct website article link...")
-                    clean_caption = caption.replace(
-                        "👇 Read the full story & latest updates in the first comment!",
-                        f"👉 Read the full verified report at US HOT NEWS:\n{latest_site_article['url']}"
-                    )
-                    if latest_site_article['url'] not in clean_caption:
-                        clean_caption += f"\n\n👉 Read the full report:\n{latest_site_article['url']}"
-                    if update_video_description(video_id, access_token, clean_caption):
-                        comment_id = "embedded_in_caption"
+                logger.warning(f"⚠️ Could not post first comment to video {video_id}: {comment_result.get('error')}")
 
             # Step 7: Record into history
             posted_map[v_id] = {

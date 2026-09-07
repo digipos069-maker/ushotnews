@@ -7,25 +7,53 @@ Converts a short-lived Meta Graph API Explorer token into a PERMANENT Page Acces
 import sys
 import json
 import argparse
+import urllib.request
+import urllib.error
+
 try:
     import requests
+    HAS_REQUESTS = True
 except ImportError:
-    print("Error: 'requests' library is required. Install it using: pip install requests")
-    sys.exit(1)
-
+    HAS_REQUESTS = False
 
 GRAPH_VERSION = "v21.0"
+DEFAULT_APP_ID = "2368342323696680"
+DEFAULT_APP_SECRET = "0d4ad15350307d46c978e6cc9b91677b"
+
+
+def http_get_json(url: str, timeout: int = 15):
+    """Performs HTTP GET and returns (status_code, data_dict), works with requests or standard urllib."""
+    if HAS_REQUESTS:
+        try:
+            resp = requests.get(url, timeout=timeout)
+            return resp.status_code, resp.json()
+        except Exception as e:
+            return 500, {"error": {"message": str(e)}}
+    else:
+        req = urllib.request.Request(url, headers={"User-Agent": "USHotNews/1.0"})
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.status, json.loads(r.read().decode('utf-8'))
+        except urllib.error.HTTPError as e:
+            try:
+                body = json.loads(e.read().decode('utf-8'))
+            except Exception:
+                body = {"error": {"message": str(e)}}
+            return e.code, body
+        except Exception as ex:
+            return 500, {"error": {"message": str(ex)}}
 
 
 def get_permanent_page_token(app_id: str, app_secret: str, user_token: str):
     print("=" * 65)
     print("  US HOT NEWS - Permanent Facebook Page Token Generator")
     print("=" * 65)
-    print("📌 Required Token Permissions for Photo Posting:")
+    print("📌 Recommended Token Permissions in Graph API Explorer:")
     print("   - pages_show_list")
     print("   - pages_read_engagement")
     print("   - pages_manage_posts")
-    print("   - pages_manage_metadata  <-- Required for native photo uploads")
+    print("   - pages_manage_engagement  <-- Required for posting 1st Comment with website link")
+    print("   (Note: DO NOT select 'pages_read_user_content' as it is deprecated)")
 
     # 1. Exchange short-lived User Token for 60-Day Long-Lived User Token
     print("\n[Step 1/3] Exchanging Short-Lived User Token for 60-Day Long-Lived Token...")
@@ -37,16 +65,11 @@ def get_permanent_page_token(app_id: str, app_secret: str, user_token: str):
         f"&fb_exchange_token={user_token}"
     )
 
-    try:
-        resp = requests.get(exchange_url, timeout=15)
-        data = resp.json()
-    except Exception as e:
-        print(f"❌ Network error while connecting to Meta Graph API: {e}")
-        return False
+    status_code, data = http_get_json(exchange_url, timeout=15)
 
-    if resp.status_code != 200 or "access_token" not in data:
+    if status_code != 200 or "access_token" not in data:
         err = data.get("error", {})
-        print(f"❌ Failed to exchange token (HTTP {resp.status_code}): {err.get('message', resp.text)}")
+        print(f"❌ Failed to exchange token (HTTP {status_code}): {err.get('message', str(data))}")
         print("\nTip: Ensure your input token is a USER TOKEN generated from Meta Graph API Explorer,")
         print("     and that App ID and App Secret match the App used to generate the token.")
         return False
@@ -59,12 +82,7 @@ def get_permanent_page_token(app_id: str, app_secret: str, user_token: str):
     print("\n[Step 2/3] Querying /me/accounts to derive Permanent Page Access Token(s)...")
     accounts_url = f"https://graph.facebook.com/{GRAPH_VERSION}/me/accounts?fields=id,name,access_token&access_token={long_lived_user_token}"
 
-    try:
-        resp = requests.get(accounts_url, timeout=15)
-        data = resp.json()
-    except Exception as e:
-        print(f"❌ Network error while querying /me/accounts: {e}")
-        return False
+    status_code, data = http_get_json(accounts_url, timeout=15)
 
     pages = data.get("data", [])
     if not pages:
@@ -82,15 +100,15 @@ def get_permanent_page_token(app_id: str, app_secret: str, user_token: str):
 
         # Debug token to verify expiration
         debug_url = f"https://graph.facebook.com/debug_token?input_token={page_token}&access_token={app_id}|{app_secret}"
+        scopes = []
         try:
-            d_resp = requests.get(debug_url, timeout=10)
-            d_data = d_resp.json().get("data", {})
+            _, d_resp = http_get_json(debug_url, timeout=10)
+            d_data = d_resp.get("data", {})
             expires_at = d_data.get("expires_at", 0)
-            is_valid = d_data.get("is_valid", False)
+            scopes = d_data.get("scopes", [])
             never_expires = (expires_at == 0 or expires_at is None)
         except Exception:
             never_expires = True
-            is_valid = True
 
         status = "NEVER EXPIRES (Permanent)" if never_expires else f"Expires at {expires_at}"
 
@@ -98,6 +116,12 @@ def get_permanent_page_token(app_id: str, app_secret: str, user_token: str):
         print(f"Page #{idx}: {page_name}")
         print(f"Page ID:   {page_id}")
         print(f"Status:    {'✅ ' + status if never_expires else '⚠️ ' + status}")
+        if scopes:
+            print(f"Scopes:    {', '.join(scopes)}")
+            if "pages_manage_engagement" in scopes:
+                print("Permissions: ✅ 'pages_manage_engagement' is ACTIVE! (First comments will work!)")
+            else:
+                print("Permissions: ⚠️ 'pages_manage_engagement' is missing from this token.")
         print("=" * 65)
         print("\n🔑 COPY THIS TO YOUR GITHUB SECRETS (FB_PAGE_ACCESS_TOKEN):\n")
         print(page_token)
@@ -111,18 +135,18 @@ def get_permanent_page_token(app_id: str, app_secret: str, user_token: str):
 
 def main():
     parser = argparse.ArgumentParser(description="Generate a Never-Expiring Facebook Page Access Token")
-    parser.add_argument("--app-id", type=str, help="Meta App ID")
-    parser.add_argument("--app-secret", type=str, help="Meta App Secret")
+    parser.add_argument("--app-id", type=str, default=DEFAULT_APP_ID, help=f"Meta App ID (default: {DEFAULT_APP_ID})")
+    parser.add_argument("--app-secret", type=str, default=DEFAULT_APP_SECRET, help="Meta App Secret")
     parser.add_argument("--token", type=str, help="Short-lived User Token from Graph API Explorer")
 
     args = parser.parse_args()
 
-    app_id = args.app_id or input("Enter your Meta App ID: ").strip()
-    app_secret = args.app_secret or input("Enter your Meta App Secret: ").strip()
+    app_id = args.app_id or DEFAULT_APP_ID
+    app_secret = args.app_secret or DEFAULT_APP_SECRET
     user_token = args.token or input("Enter Short-Lived User Token from Graph API Explorer: ").strip()
 
     if not app_id or not app_secret or not user_token:
-        print("❌ Error: App ID, App Secret, and User Token are all required.")
+        print("❌ Error: User Token is required.")
         sys.exit(1)
 
     success = get_permanent_page_token(app_id, app_secret, user_token)
