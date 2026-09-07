@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T17:19:30.946013+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-09-07T19:51:37.834835+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -509,7 +509,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099778249471257",
       "fb_comment_id": "122099778249471257_2812908599065720",
       "posted_at": "2026-09-07T17:19:30.945952+00:00"
+    },
+    "scraped-65e2715ade": {
+      "title": "Michigan coach says Bryce Underwood is Wolverines quarterback for 'right now' after near disaster in opener",
+      "slug": "michigan-coach-says-bryce-underwood-is-wolverines-quarterback-for-right-now-after-near-dis",
+      "url": "https://ushotnews.online/article/michigan-coach-says-bryce-underwood-is-wolverines-quarterback-for-right-now-after-near-dis",
+      "article_url": "https://ushotnews.online/article/michigan-coach-says-bryce-underwood-is-wolverines-quarterback-for-right-now-after-near-dis",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099854473471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099854473471257",
+      "fb_comment_id": "122099854473471257_1557887708716398",
+      "posted_at": "2026-09-07T19:51:37.834762+00:00"
+    },
+    "michigan-coach-says-bryce-underwood-is-wolverines-quarterback-for-right-now-after-near-dis": {
+      "title": "Michigan coach says Bryce Underwood is Wolverines quarterback for 'right now' after near disaster in opener",
+      "slug": "michigan-coach-says-bryce-underwood-is-wolverines-quarterback-for-right-now-after-near-dis",
+      "url": "https://ushotnews.online/article/michigan-coach-says-bryce-underwood-is-wolverines-quarterback-for-right-now-after-near-dis",
+      "article_url": "https://ushotnews.online/article/michigan-coach-says-bryce-underwood-is-wolverines-quarterback-for-right-now-after-near-dis",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099854473471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099854473471257",
+      "fb_comment_id": "122099854473471257_1557887708716398",
+      "posted_at": "2026-09-07T19:51:37.834762+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T17:19:20.269364+00:00"
+  "last_cleaned_at": "2026-09-07T19:51:27.831686+00:00"
 }
