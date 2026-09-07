@@ -1,0 +1,56 @@
+name: Facebook Page Video Auto-Publisher (Trending US Real News Video)
+
+on:
+  schedule:
+    # Runs every 2 hours at minute 0
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allows manual "Run workflow" trigger in GitHub Actions
+
+permissions:
+  contents: write
+
+jobs:
+  publish-trending-video:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Install Dependencies (yt-dlp, requests, feedparser)
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests feedparser yt-dlp
+
+      - name: Check Credentials & Run Video Publisher
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID || secrets.PAGE_ID || secrets.FB_PAGEID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN || secrets.FB_ACCESS_TOKEN || secrets.PAGE_ACCESS_TOKEN }}
+          NEXT_PUBLIC_SITE_URL: "https://ushotnews.online"
+        run: |
+          echo "=================================================="
+          echo "🔍 Checking GitHub Secrets for Facebook Video Auto-Publisher..."
+          if [ -z "$FB_PAGE_ID" ] || [ -z "$FB_PAGE_ACCESS_TOKEN" ]; then
+            echo "❌ [ERROR] Missing Facebook Credentials in GitHub Secrets!"
+            echo "   Please add FB_PAGE_ID and FB_PAGE_ACCESS_TOKEN in Repository Secrets."
+            exit 1
+          fi
+
+          echo "✅ Facebook Credentials found in GitHub Secrets!"
+          echo "🎥 Running Top Trending US Real News Video Auto-Publisher..."
+          echo "=================================================="
+          python scripts/fb_poster/fb_video_publisher.py --limit 1 --pool-size 50
+
+      - name: Commit and Push Updated Video History
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fb_video_posted_history.json
+          git diff --staged --quiet || (git commit -m "chore(fb-video-poster): record published trending real video [skip ci]" && git pull --rebase origin main && git push origin main)
