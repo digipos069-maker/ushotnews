@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T08:25:21.923368+00:00",
-  "posted_count": 6,
+  "last_updated": "2026-09-07T11:10:06.967538+00:00",
+  "posted_count": 7,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -67,7 +67,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1081747008120028",
       "fb_comment_id": "1081747008120028_1275981582272111",
       "posted_at": "2026-09-07T08:25:21.923296+00:00"
+    },
+    "dvids-video:1021991": {
+      "title": "Reel: US Army 1st Sgt Joshua Pless-Mosley describes significance of the Monte Berico cleanup event [Social Media 16:9]",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111956646/DOD_111956646.mp4",
+      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2010875256360858",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2010875256360858",
+      "fb_comment_id": "2010875256360858_2249796449119580",
+      "posted_at": "2026-09-07T11:10:06.967478+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T08:24:21.922184+00:00"
+  "last_cleaned_at": "2026-09-07T11:08:51.346599+00:00"
 }
