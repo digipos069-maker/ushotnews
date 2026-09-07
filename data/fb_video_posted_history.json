@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T06:35:23.338632+00:00",
-  "posted_count": 4,
+  "last_updated": "2026-09-07T07:06:29.600160+00:00",
+  "posted_count": 5,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -45,7 +45,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1560256768762558",
       "fb_comment_id": "embedded_in_caption",
       "posted_at": "2026-09-07T06:35:23.338574+00:00"
+    },
+    "nasa-Introducing NASA’s NEW Earth System Observatory": {
+      "title": "Introducing NASA’s NEW Earth System Observatory",
+      "video_url": "http://images-assets.nasa.gov/video/Introducing%20NASA%E2%80%99s%20NEW%20Earth%20System%20Observatory/Introducing%20NASA%E2%80%99s%20NEW%20Earth%20System%20Observatory~medium.mp4",
+      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
+      "trending_score": 71.0,
+      "format": "video",
+      "fb_video_id": "2155246905415140",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2155246905415140",
+      "fb_comment_id": "2155246905415140_1064400896203540",
+      "posted_at": "2026-09-07T07:06:29.600093+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T06:34:11.247913+00:00"
+  "last_cleaned_at": "2026-09-07T07:03:53.035757+00:00"
 }
