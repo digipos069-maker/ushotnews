@@ -892,8 +892,37 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
     if os.environ.get("YT_COOKIES"):
         raw_cookie = os.environ["YT_COOKIES"].strip()
         if raw_cookie:
+            # Auto-detect Base64 encoded cookies
+            import base64
+            try:
+                decoded = base64.b64decode(raw_cookie).decode("utf-8")
+                if "youtube.com" in decoded or "\t" in decoded:
+                    raw_cookie = decoded
+            except Exception:
+                pass
+
+            # Auto-repair space-separated lines if GitHub Secrets converted tabs to spaces
+            cleaned_lines = []
+            for line in raw_cookie.splitlines():
+                line = line.strip()
+                if not line:
+                    continue
+                if line.startswith("#"):
+                    cleaned_lines.append(line)
+                    continue
+                if "\t" in line:
+                    cleaned_lines.append(line)
+                else:
+                    parts = re.split(r"\s+", line)
+                    if len(parts) >= 7:
+                        cleaned_lines.append("\t".join(parts[:7]))
+                    else:
+                        cleaned_lines.append(line)
+
+            raw_cookie = "\n".join(cleaned_lines)
             if not raw_cookie.startswith("# Netscape") and not raw_cookie.startswith("# HTTP Cookie"):
                 raw_cookie = "# Netscape HTTP Cookie File\n" + raw_cookie
+
             try:
                 with open("cookies.txt", "w", encoding="utf-8") as cf:
                     cf.write(raw_cookie + "\n")
@@ -1353,8 +1382,10 @@ def run_video_publisher(
     first_comment_text = format_first_comment_with_website_link(latest_site_article)
 
     successful_posts = 0
-    max_candidate_attempts = min(len(unposted), max_posts_per_run * 8)
+    max_candidate_attempts = min(len(unposted), max_posts_per_run * 15)
     attempt_idx = 0
+    youtube_failures = 0
+    max_consecutive_yt_failures = 2
 
     for item in unposted:
         if successful_posts >= max_posts_per_run:
@@ -1362,10 +1393,17 @@ def run_video_publisher(
         if attempt_idx >= max_candidate_attempts:
             break
 
+        video_url = item["video_url"]
+        is_youtube = any(yt_host in video_url.lower() for yt_host in ["youtube.com", "youtu.be"])
+
+        # If YouTube bot detection is active on this runner, skip further YouTube candidates and prioritize direct MP4 sources
+        if is_youtube and youtube_failures >= max_consecutive_yt_failures:
+            logger.info(f"⏭️ Skipping YouTube candidate '{item['title'][:60]}' (YouTube bot challenge active on runner). Prioritizing direct MP4 US news sources.")
+            continue
+
         attempt_idx += 1
         v_id = item["_id"]
         title = item["title"]
-        video_url = item["video_url"]
         score = item.get("_trending_score", 0)
         caption = format_facebook_video_caption(item)
 
@@ -1401,6 +1439,14 @@ def run_video_publisher(
                 break
             logger.warning(f"⚠️ Video download attempt {dl_attempt} failed for '{title}'. Retrying...")
             time.sleep(2)
+
+        if is_youtube:
+            if downloaded:
+                youtube_failures = 0
+            else:
+                youtube_failures += 1
+                if youtube_failures >= max_consecutive_yt_failures:
+                    logger.warning("⚠️ YouTube bot challenge active on this runner. Circuit breaker activated: immediately prioritizing direct MP4 US news sources (DVIDS, etc.) for remaining candidates.")
 
         upload_path = temp_video_path if downloaded else None
 
