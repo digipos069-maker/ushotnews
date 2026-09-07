@@ -62,7 +62,33 @@ GOOGLE_NEWS_TOP_US_RSS = "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en"
 
 # Direct Live US News Video & Media Feeds
 US_VIDEO_FEEDS = [
-    # Top US News YouTube Feeds (Direct, 100% Reliable 24/7 Real Videos)
+    # Direct US News MP4 Podcast / Video Feeds (100% Reliable, Direct MP4, No Bot Blocks)
+    {
+        "source": "PBS NewsHour Daily Broadcast & Segments",
+        "url": "https://www.pbs.org/newshour/feeds/rss/podcasts/show",
+        "category": "Politics"
+    },
+    {
+        "source": "CBS News Video RSS",
+        "url": "https://www.cbsnews.com/latest/rss/video",
+        "category": "Politics"
+    },
+    {
+        "source": "Fox News Media RSS",
+        "url": "https://moxie.foxnews.com/google-publisher/video.xml",
+        "category": "Politics"
+    },
+    {
+        "source": "NBC News Video RSS",
+        "url": "https://feeds.nbcnews.com/nbcnews/public/video",
+        "category": "Politics"
+    },
+    {
+        "source": "Yahoo News Video RSS",
+        "url": "https://www.yahoo.com/news/rss/videos",
+        "category": "Politics"
+    },
+    # Top US News YouTube Feeds
     {
         "source": "NBC News Video",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeY0bbntWzzVIaj2z3QigXg",
@@ -92,27 +118,6 @@ US_VIDEO_FEEDS = [
         "source": "Associated Press Video",
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5HA3Qz6BQ8879gODeTQ",
         "category": "World"
-    },
-    # Direct RSS Media Feeds
-    {
-        "source": "CBS News Video RSS",
-        "url": "https://www.cbsnews.com/latest/rss/video",
-        "category": "Politics"
-    },
-    {
-        "source": "Fox News Media RSS",
-        "url": "https://moxie.foxnews.com/google-publisher/video.xml",
-        "category": "Politics"
-    },
-    {
-        "source": "NBC News Video RSS",
-        "url": "https://feeds.nbcnews.com/nbcnews/public/video",
-        "category": "Politics"
-    },
-    {
-        "source": "Yahoo News Video RSS",
-        "url": "https://www.yahoo.com/news/rss/videos",
-        "category": "Politics"
     }
 ]
 
@@ -403,17 +408,30 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
                             video_url = e_url
                             break
 
-                if not video_url and ("/video" in guid.lower() or "youtube.com" in guid.lower()):
+                if not video_url and ("/video" in guid.lower() or "youtube.com" in guid.lower() or "youtu.be" in guid.lower()):
                     video_url = guid
 
+                if not video_url and e.get("link"):
+                    link = e.get("link", "")
+                    if "/video" in link.lower() or "youtube.com" in link.lower() or "youtu.be" in link.lower():
+                        video_url = link
+
                 if video_url:
+                    # Normalize YouTube URL if present
+                    yt_match = re.search(r"(?:v=|/v/|youtu\.be/|/embed/|/shorts/)([a-zA-Z0-9_-]{11})", video_url)
+                    if yt_match:
+                        video_url = f"https://www.youtube.com/watch?v={yt_match.group(1)}"
+
+                    is_direct_mp4 = video_url.lower().split("?")[0].endswith((".mp4", ".mov", ".m4v", ".webm"))
+
                     video_candidates.append({
                         "title": title,
                         "summary": summary if summary else title,
                         "video_url": video_url,
+                        "is_direct_mp4": is_direct_mp4,
                         "source": source,
                         "category": default_cat,
-                        "guid": guid,
+                        "guid": guid or video_url,
                     })
         except Exception as e:
             logger.debug(f"Feed {source} query notice: {e}")
@@ -430,10 +448,12 @@ def fetch_trending_videos_from_web() -> List[Dict[str, Any]]:
                         if not v_url and ("/video" in guid.lower() or "youtube.com" in guid.lower()):
                             v_url = guid
                         if v_url:
+                            is_direct_mp4 = str(v_url).lower().split("?")[0].endswith((".mp4", ".mov", ".m4v", ".webm"))
                             video_candidates.append({
                                 "title": a.get("title"),
                                 "summary": a.get("summary"),
                                 "video_url": v_url,
+                                "is_direct_mp4": is_direct_mp4,
                                 "source": "US News Wire",
                                 "category": a.get("category", "Politics"),
                                 "guid": a.get("guid", a.get("id")),
@@ -452,6 +472,10 @@ def calculate_trending_score(item: Dict[str, Any], trending_signals: Set[str]) -
     if trending_signals:
         matches = sum(1 for term in trending_signals if len(term) > 3 and term in text)
         score += min(matches * 10.0, 50.0)
+
+    # Prioritize direct MP4 downloads for maximum reliability on serverless / cloud runners
+    if item.get("is_direct_mp4"):
+        score += 25.0
 
     category_weights = {"Politics": 18.0, "Economy": 18.0, "Technology": 16.0, "Culture": 14.0}
     score += category_weights.get(item.get("category", "Politics"), 10.0)
@@ -502,13 +526,23 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
     if not video_url:
         return False
 
+    # Normalize YouTube URL if present
+    yt_match = re.search(r"(?:v=|/v/|youtu\.be/|/embed/|/shorts/)([a-zA-Z0-9_-]{11})", video_url)
+    if yt_match:
+        video_url = f"https://www.youtube.com/watch?v={yt_match.group(1)}"
+
     clean_url = video_url.split("?")[0].lower()
 
-    # Direct MP4 Download
+    # Direct MP4 Download (Direct file, 100% reliable, no bot challenges)
     if clean_url.endswith((".mp4", ".mov", ".m4v", ".webm")):
         try:
             logger.info(f"Downloading direct MP4 news video: {video_url[:80]}...")
-            resp = requests.get(video_url, stream=True, timeout=35, headers={"User-Agent": "Mozilla/5.0"})
+            resp = requests.get(
+                video_url,
+                stream=True,
+                timeout=60,
+                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            )
             if resp.status_code == 200:
                 with open(output_path, "wb") as f:
                     for chunk in resp.iter_content(chunk_size=65536):
@@ -520,7 +554,7 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
         except Exception as e:
             logger.warning(f"Direct download attempt notice: {e}")
 
-    # yt-dlp Video Extraction
+    # yt-dlp Video Extraction (Configured with mobile client to avoid datacenter bot checks)
     try:
         try:
             import yt_dlp
@@ -528,22 +562,39 @@ def download_actual_news_video(video_url: str, output_path: str) -> bool:
         except ImportError:
             has_module = False
 
+        ydl_opts = {
+            'format': 'best[ext=mp4][height<=720]/best[height<=720]/best',
+            'outtmpl': output_path,
+            'quiet': True,
+            'no_warnings': True,
+            'max_filesize': 80 * 1024 * 1024,
+            'socket_timeout': 30,
+            'extractor_args': {
+                'youtube': {
+                    'player_client': ['android', 'ios', 'mweb']
+                }
+            },
+            'http_headers': {
+                'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1'
+            }
+        }
+
         if has_module:
             logger.info(f"Extracting video with yt-dlp from: {video_url[:80]}...")
-            ydl_opts = {
-                'format': 'best[ext=mp4]/best',
-                'outtmpl': output_path,
-                'quiet': True,
-                'no_warnings': True,
-                'max_filesize': 100 * 1024 * 1024,
-            }
             with yt_dlp.YoutubeDL(ydl_opts) as ydl:
                 ydl.download([video_url])
             if os.path.exists(output_path) and os.path.getsize(output_path) > 5000:
                 logger.info(f"✅ Downloaded real video via yt-dlp: {os.path.getsize(output_path) // 1024} KB")
                 return True
         elif shutil.which("yt-dlp"):
-            cmd = ["yt-dlp", "-f", "best[ext=mp4]/best", "-o", output_path, "--max-filesize", "100M", video_url]
+            cmd = [
+                "yt-dlp",
+                "--extractor-args", "youtube:player_client=android,ios,mweb",
+                "-f", "best[ext=mp4][height<=720]/best[height<=720]/best",
+                "-o", output_path,
+                "--max-filesize", "80M",
+                video_url
+            ]
             res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=60)
             if res.returncode == 0 and os.path.exists(output_path) and os.path.getsize(output_path) > 5000:
                 return True
@@ -586,9 +637,14 @@ def post_video_to_facebook(
             logger.info(f"Uploading news video file ({os.path.getsize(video_file_path) // 1024} KB) to Facebook Page ({target})...")
             response = requests.post(endpoint, data=payload, files=files, timeout=120)
         elif video_url:
-            payload["file_url"] = video_url
-            logger.info(f"Uploading remote video URL to Facebook Page ({target}): {video_url[:60]}...")
-            response = requests.post(endpoint, data=payload, timeout=60)
+            # Only direct media files should ever be passed as file_url
+            clean_url = video_url.split("?")[0].lower()
+            if clean_url.endswith((".mp4", ".mov", ".m4v", ".webm")):
+                payload["file_url"] = video_url
+                logger.info(f"Uploading direct video URL to Facebook Page ({target}): {video_url[:60]}...")
+                response = requests.post(endpoint, data=payload, timeout=60)
+            else:
+                return {"success": False, "error": "file_url must be a direct .mp4/.mov media stream, not a web page"}
         else:
             return {"success": False, "error": "No valid video file or URL available"}
 
@@ -720,7 +776,7 @@ def run_video_publisher(
     first_comment_text = format_first_comment_with_website_link(latest_site_article)
 
     successful_posts = 0
-    max_candidate_attempts = min(len(unposted), max_posts_per_run * 5)
+    max_candidate_attempts = min(len(unposted), max_posts_per_run * 8)
     attempt_idx = 0
 
     for item in unposted:
@@ -767,9 +823,19 @@ def run_video_publisher(
             if downloaded:
                 break
             logger.warning(f"⚠️ Video download attempt {dl_attempt} failed for '{title}'. Retrying...")
-            time.sleep(3)
+            time.sleep(2)
 
         upload_path = temp_video_path if downloaded else None
+
+        # Guard: If video was not downloaded, DO NOT call Facebook API with web URL!
+        if not upload_path:
+            logger.warning(f"⚠️ Could not download real video file for '{title}'. Skipping candidate to avoid Facebook API error.")
+            if temp_video_path and os.path.exists(temp_video_path):
+                try:
+                    os.remove(temp_video_path)
+                except Exception:
+                    pass
+            continue
 
         # Step 5: Upload real video to Facebook with retry
         result = {"success": False}
@@ -778,7 +844,6 @@ def run_video_publisher(
                 page_id=page_id,
                 access_token=access_token,
                 video_file_path=upload_path,
-                video_url=video_url if not upload_path else None,
                 title=title,
                 caption=caption
             )

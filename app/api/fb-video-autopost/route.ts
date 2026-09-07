@@ -101,11 +101,13 @@ async function handleVideoAutoPost(request: NextRequest) {
     const payload: Record<string, string> = {
       title: latestArticle.title.slice(0, 100),
       description: message,
+      published: 'true',
       access_token: accessToken,
     };
 
-    if ((latestArticle as any).videoUrl) {
-      payload.file_url = (latestArticle as any).videoUrl;
+    const vUrl = (latestArticle as any).videoUrl;
+    if (vUrl && typeof vUrl === 'string' && vUrl.toLowerCase().split('?')[0].match(/\.(mp4|mov|m4v|webm)$/)) {
+      payload.file_url = vUrl;
     }
 
     fbResponse = await fetch(`https://graph.facebook.com/v21.0/${target}/videos`, {
