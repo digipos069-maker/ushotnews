@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T05:42:56.824087+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-09-07T09:39:36.579076+00:00",
+  "posted_count": 44,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -421,7 +421,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099406675471257",
       "fb_comment_id": null,
       "posted_at": "2026-09-07T05:42:56.824021+00:00"
+    },
+    "scraped-512a887aa8": {
+      "title": "Dell’s Monster Quarter Just Confirmed Micron’s Biggest Opportunity Is Not Just HBM",
+      "slug": "dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
+      "url": "https://ushotnews.online/article/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
+      "article_url": "https://ushotnews.online/article/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099527527471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099527527471257",
+      "fb_comment_id": "122099527527471257_1801646320829240",
+      "posted_at": "2026-09-07T09:39:36.578993+00:00"
+    },
+    "dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm": {
+      "title": "Dell’s Monster Quarter Just Confirmed Micron’s Biggest Opportunity Is Not Just HBM",
+      "slug": "dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
+      "url": "https://ushotnews.online/article/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
+      "article_url": "https://ushotnews.online/article/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099527527471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099527527471257",
+      "fb_comment_id": "122099527527471257_1801646320829240",
+      "posted_at": "2026-09-07T09:39:36.578993+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T05:42:51.689517+00:00"
+  "last_cleaned_at": "2026-09-07T09:39:25.961237+00:00"
 }
