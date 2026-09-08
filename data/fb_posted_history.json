@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T11:42:38.369090+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-08T16:03:33.730565+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -729,7 +729,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100272217471257",
       "fb_comment_id": "122100272217471257_1530731625489368",
       "posted_at": "2026-09-08T11:42:38.369027+00:00"
+    },
+    "scraped-7cd54c6506": {
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "slug": "googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
+      "url": "https://ushotnews.online/article/googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
+      "article_url": "https://ushotnews.online/article/googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100402975471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100402975471257",
+      "fb_comment_id": "122100402975471257_1592601422332256",
+      "posted_at": "2026-09-08T16:03:33.730505+00:00"
+    },
+    "googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments": {
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "slug": "googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
+      "url": "https://ushotnews.online/article/googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
+      "article_url": "https://ushotnews.online/article/googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100402975471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100402975471257",
+      "fb_comment_id": "122100402975471257_1592601422332256",
+      "posted_at": "2026-09-08T16:03:33.730505+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T11:42:27.488814+00:00"
+  "last_cleaned_at": "2026-09-08T16:03:15.918688+00:00"
 }
