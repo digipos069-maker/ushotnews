@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T16:03:33.730565+00:00",
-  "posted_count": 72,
+  "last_updated": "2026-09-08T16:33:15.666388+00:00",
+  "posted_count": 74,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -751,7 +751,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100402975471257",
       "fb_comment_id": "122100402975471257_1592601422332256",
       "posted_at": "2026-09-08T16:03:33.730505+00:00"
+    },
+    "scraped-565df73e49": {
+      "title": "Australian social media users to be offered choice to opt out of algorithms",
+      "slug": "australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "url": "https://ushotnews.online/article/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "article_url": "https://ushotnews.online/article/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100421851471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100421851471257",
+      "fb_comment_id": "122100421851471257_2255288011928288",
+      "posted_at": "2026-09-08T16:33:15.666301+00:00"
+    },
+    "australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms": {
+      "title": "Australian social media users to be offered choice to opt out of algorithms",
+      "slug": "australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "url": "https://ushotnews.online/article/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "article_url": "https://ushotnews.online/article/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100421851471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100421851471257",
+      "fb_comment_id": "122100421851471257_2255288011928288",
+      "posted_at": "2026-09-08T16:33:15.666301+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T16:03:15.918688+00:00"
+  "last_cleaned_at": "2026-09-08T16:33:01.951917+00:00"
 }
