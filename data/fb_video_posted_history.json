@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T20:57:35.184162+00:00",
-  "posted_count": 9,
+  "last_updated": "2026-09-08T02:18:13.043975+00:00",
+  "posted_count": 10,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -100,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2166446080570143",
       "fb_comment_id": "2166446080570143_1071833205732482",
       "posted_at": "2026-09-07T20:57:35.184093+00:00"
+    },
+    "dvids-video:1022015": {
+      "title": "36th AS, JGSDF Conduct Airborne Training Over Narashino",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111957023/DOD_111957023.mp4",
+      "attached_website_url": "https://ushotnews.online/article/are-banks-open-on-labor-day-12-federal-holidays-when-your-bank-is-closed",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2244587739726675",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2244587739726675",
+      "fb_comment_id": "2244587739726675_27229587333384576",
+      "posted_at": "2026-09-08T02:18:13.043914+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T20:56:31.750459+00:00"
+  "last_cleaned_at": "2026-09-08T02:17:16.538510+00:00"
 }
