@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T19:30:03.594078+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-08T19:51:25.506925+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -795,7 +795,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100506961471257",
       "fb_comment_id": "122100506961471257_3797754333700453",
       "posted_at": "2026-09-08T19:30:03.594001+00:00"
+    },
+    "scraped-42f1a8a7af": {
+      "title": "How Is Moderna's Stock Performance Compared to Other Healthcare Stocks",
+      "slug": "how-is-modernas-stock-performance-compared-to-other-healthcare-stocks",
+      "url": "https://ushotnews.online/article/how-is-modernas-stock-performance-compared-to-other-healthcare-stocks",
+      "article_url": "https://ushotnews.online/article/how-is-modernas-stock-performance-compared-to-other-healthcare-stocks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100514515471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100514515471257",
+      "fb_comment_id": "122100514515471257_1805880134188333",
+      "posted_at": "2026-09-08T19:51:25.506855+00:00"
+    },
+    "how-is-modernas-stock-performance-compared-to-other-healthcare-stocks": {
+      "title": "How Is Moderna's Stock Performance Compared to Other Healthcare Stocks",
+      "slug": "how-is-modernas-stock-performance-compared-to-other-healthcare-stocks",
+      "url": "https://ushotnews.online/article/how-is-modernas-stock-performance-compared-to-other-healthcare-stocks",
+      "article_url": "https://ushotnews.online/article/how-is-modernas-stock-performance-compared-to-other-healthcare-stocks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100514515471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100514515471257",
+      "fb_comment_id": "122100514515471257_1805880134188333",
+      "posted_at": "2026-09-08T19:51:25.506855+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T19:29:48.918070+00:00"
+  "last_cleaned_at": "2026-09-08T19:51:13.856114+00:00"
 }
