@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T23:18:07.626894+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-09-08T01:07:24.551661+00:00",
+  "posted_count": 60,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -597,7 +597,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099940849471257",
       "fb_comment_id": "122099940849471257_1571677958032232",
       "posted_at": "2026-09-07T23:18:07.626813+00:00"
+    },
+    "scraped-1cfc265c77": {
+      "title": "Xponential Fitness (XPOF) Swings To A Loss And Cuts Guidance",
+      "slug": "xponential-fitness-xpof-swings-to-a-loss-and-cuts-guidance",
+      "url": "https://ushotnews.online/article/xponential-fitness-xpof-swings-to-a-loss-and-cuts-guidance",
+      "article_url": "https://ushotnews.online/article/xponential-fitness-xpof-swings-to-a-loss-and-cuts-guidance",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099981139471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099981139471257",
+      "fb_comment_id": "122099981139471257_4563985963820274",
+      "posted_at": "2026-09-08T01:07:24.551596+00:00"
+    },
+    "xponential-fitness-xpof-swings-to-a-loss-and-cuts-guidance": {
+      "title": "Xponential Fitness (XPOF) Swings To A Loss And Cuts Guidance",
+      "slug": "xponential-fitness-xpof-swings-to-a-loss-and-cuts-guidance",
+      "url": "https://ushotnews.online/article/xponential-fitness-xpof-swings-to-a-loss-and-cuts-guidance",
+      "article_url": "https://ushotnews.online/article/xponential-fitness-xpof-swings-to-a-loss-and-cuts-guidance",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099981139471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099981139471257",
+      "fb_comment_id": "122099981139471257_4563985963820274",
+      "posted_at": "2026-09-08T01:07:24.551596+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-07T23:17:56.712805+00:00"
+  "last_cleaned_at": "2026-09-08T01:07:10.706801+00:00"
 }
