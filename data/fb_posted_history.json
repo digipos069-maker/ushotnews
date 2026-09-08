@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T21:59:35.903791+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-08T22:33:41.791558+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -839,7 +839,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100568557471257",
       "fb_comment_id": "122100568557471257_2024382198081718",
       "posted_at": "2026-09-08T21:59:35.903718+00:00"
+    },
+    "scraped-b39d566260": {
+      "title": "Tetra Tech (TTEK): Navigating Growth Amid Infrastructure Investment Uncertainty",
+      "slug": "tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
+      "url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
+      "article_url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100582747471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100582747471257",
+      "fb_comment_id": "122100582747471257_2155628122030185",
+      "posted_at": "2026-09-08T22:33:41.791474+00:00"
+    },
+    "tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty": {
+      "title": "Tetra Tech (TTEK): Navigating Growth Amid Infrastructure Investment Uncertainty",
+      "slug": "tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
+      "url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
+      "article_url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100582747471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100582747471257",
+      "fb_comment_id": "122100582747471257_2155628122030185",
+      "posted_at": "2026-09-08T22:33:41.791474+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T21:59:22.966682+00:00"
+  "last_cleaned_at": "2026-09-08T22:33:29.787798+00:00"
 }
