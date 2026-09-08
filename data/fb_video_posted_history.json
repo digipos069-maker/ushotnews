@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T02:18:13.043975+00:00",
-  "posted_count": 10,
+  "last_updated": "2026-09-08T19:10:41.341713+00:00",
+  "posted_count": 11,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -111,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2244587739726675",
       "fb_comment_id": "2244587739726675_27229587333384576",
       "posted_at": "2026-09-08T02:18:13.043914+00:00"
+    },
+    "dvids-video:1022124": {
+      "title": "LTJG Antonio Hinds-Parks - 49ers Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111959040/DOD_111959040.mp4",
+      "attached_website_url": "https://ushotnews.online/article/bitmine-buys-69m-in-ether-closes-in-on-5-of-ethereum-supply",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "953566717789458",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/953566717789458",
+      "fb_comment_id": "953566717789458_2279249112865537",
+      "posted_at": "2026-09-08T19:10:41.341650+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T02:17:16.538510+00:00"
+  "last_cleaned_at": "2026-09-08T19:09:28.262937+00:00"
 }
