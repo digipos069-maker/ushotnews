@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T19:51:25.506925+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-09-08T21:59:35.903791+00:00",
+  "posted_count": 80,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -817,7 +817,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100514515471257",
       "fb_comment_id": "122100514515471257_1805880134188333",
       "posted_at": "2026-09-08T19:51:25.506855+00:00"
+    },
+    "scraped-31dba0f413": {
+      "title": "Global Growth Fund is Re-Evaluating Flutter Entertainment’s (FLUT) Strategic Fit",
+      "slug": "global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
+      "url": "https://ushotnews.online/article/global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
+      "article_url": "https://ushotnews.online/article/global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100568557471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100568557471257",
+      "fb_comment_id": "122100568557471257_2024382198081718",
+      "posted_at": "2026-09-08T21:59:35.903718+00:00"
+    },
+    "global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit": {
+      "title": "Global Growth Fund is Re-Evaluating Flutter Entertainment’s (FLUT) Strategic Fit",
+      "slug": "global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
+      "url": "https://ushotnews.online/article/global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
+      "article_url": "https://ushotnews.online/article/global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100568557471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100568557471257",
+      "fb_comment_id": "122100568557471257_2024382198081718",
+      "posted_at": "2026-09-08T21:59:35.903718+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T19:51:13.856114+00:00"
+  "last_cleaned_at": "2026-09-08T21:59:22.966682+00:00"
 }
