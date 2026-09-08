@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T06:30:03.296711+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-09-08T11:35:09.154653+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -685,7 +685,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100123069471257",
       "fb_comment_id": "122100123069471257_2567766890356041",
       "posted_at": "2026-09-08T06:30:03.296634+00:00"
+    },
+    "scraped-19849b1012": {
+      "title": "Prince Harry finds way to live ‘half-in, half-out’ life Queen Elizabeth refused to endorse: experts",
+      "slug": "prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
+      "url": "https://ushotnews.online/article/prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
+      "article_url": "https://ushotnews.online/article/prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100267681471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100267681471257",
+      "fb_comment_id": "122100267681471257_1324955122841099",
+      "posted_at": "2026-09-08T11:35:09.154587+00:00"
+    },
+    "prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex": {
+      "title": "Prince Harry finds way to live ‘half-in, half-out’ life Queen Elizabeth refused to endorse: experts",
+      "slug": "prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
+      "url": "https://ushotnews.online/article/prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
+      "article_url": "https://ushotnews.online/article/prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100267681471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100267681471257",
+      "fb_comment_id": "122100267681471257_1324955122841099",
+      "posted_at": "2026-09-08T11:35:09.154587+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T06:29:53.248889+00:00"
+  "last_cleaned_at": "2026-09-08T11:34:56.330315+00:00"
 }
