@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T06:17:02.404104+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-09-08T06:30:03.296711+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -663,7 +663,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100119139471257",
       "fb_comment_id": "122100119139471257_1540186360762540",
       "posted_at": "2026-09-08T06:17:02.404039+00:00"
+    },
+    "scraped-54944a1b48": {
+      "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
+      "slug": "russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
+      "url": "https://ushotnews.online/article/russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
+      "article_url": "https://ushotnews.online/article/russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100123069471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100123069471257",
+      "fb_comment_id": "122100123069471257_2567766890356041",
+      "posted_at": "2026-09-08T06:30:03.296634+00:00"
+    },
+    "russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv": {
+      "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
+      "slug": "russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
+      "url": "https://ushotnews.online/article/russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
+      "article_url": "https://ushotnews.online/article/russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100123069471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100123069471257",
+      "fb_comment_id": "122100123069471257_2567766890356041",
+      "posted_at": "2026-09-08T06:30:03.296634+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T06:16:52.951720+00:00"
+  "last_cleaned_at": "2026-09-08T06:29:53.248889+00:00"
 }
