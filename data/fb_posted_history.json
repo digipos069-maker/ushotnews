@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T01:07:24.551661+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-09-08T01:18:14.256601+00:00",
+  "posted_count": 62,
   "articles": {
     "scraped-4bfd29c581": {
       "title": "How to save money on gas (and big savings on diesel) Labor Day weekend",
@@ -619,7 +619,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099981139471257",
       "fb_comment_id": "122099981139471257_4563985963820274",
       "posted_at": "2026-09-08T01:07:24.551596+00:00"
+    },
+    "scraped-275356c6c2": {
+      "title": "Alexandria’s (ARE) Profit Rebound Comes With A Cash Flow Catch",
+      "slug": "alexandrias-are-profit-rebound-comes-with-a-cash-flow-catch",
+      "url": "https://ushotnews.online/article/alexandrias-are-profit-rebound-comes-with-a-cash-flow-catch",
+      "article_url": "https://ushotnews.online/article/alexandrias-are-profit-rebound-comes-with-a-cash-flow-catch",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099993685471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099993685471257",
+      "fb_comment_id": "122099993685471257_1092038913537358",
+      "posted_at": "2026-09-08T01:18:14.256540+00:00"
+    },
+    "alexandrias-are-profit-rebound-comes-with-a-cash-flow-catch": {
+      "title": "Alexandria’s (ARE) Profit Rebound Comes With A Cash Flow Catch",
+      "slug": "alexandrias-are-profit-rebound-comes-with-a-cash-flow-catch",
+      "url": "https://ushotnews.online/article/alexandrias-are-profit-rebound-comes-with-a-cash-flow-catch",
+      "article_url": "https://ushotnews.online/article/alexandrias-are-profit-rebound-comes-with-a-cash-flow-catch",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122099993685471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099993685471257",
+      "fb_comment_id": "122099993685471257_1092038913537358",
+      "posted_at": "2026-09-08T01:18:14.256540+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T01:07:10.706801+00:00"
+  "last_cleaned_at": "2026-09-08T01:18:01.781324+00:00"
 }
