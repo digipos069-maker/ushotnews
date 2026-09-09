@@ -1,47 +1,7 @@
 {
-  "last_updated": "2026-09-09T06:36:17.479856+00:00",
-  "posted_count": 84,
+  "last_updated": "2026-09-09T09:35:31.499170+00:00",
+  "posted_count": 82,
   "articles": {
-    "scraped-9e3fcf57e5": {
-      "title": "Wheat Bulls Take Money Off the Table Ahead of the Holiday Weekend",
-      "slug": "wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
-      "url": "https://ushotnews.online/article/wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
-      "article_url": "https://ushotnews.online/article/wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
-      "format": "link_card",
-      "fb_post_id": "1325939953941168_122098704393471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098704393471257",
-      "posted_at": "2026-09-06T09:18:56.140588+00:00"
-    },
-    "wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend": {
-      "title": "Wheat Bulls Take Money Off the Table Ahead of the Holiday Weekend",
-      "slug": "wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
-      "url": "https://ushotnews.online/article/wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
-      "article_url": "https://ushotnews.online/article/wheat-bulls-take-money-off-the-table-ahead-of-the-holiday-weekend",
-      "format": "link_card",
-      "fb_post_id": "1325939953941168_122098704393471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098704393471257",
-      "posted_at": "2026-09-06T09:18:56.140588+00:00"
-    },
-    "scraped-b56a7afcb5": {
-      "title": "6 money-saving apps to help you grow your wealth",
-      "slug": "6-money-saving-apps-to-help-you-grow-your-wealth",
-      "url": "https://ushotnews.online/article/6-money-saving-apps-to-help-you-grow-your-wealth",
-      "article_url": "https://ushotnews.online/article/6-money-saving-apps-to-help-you-grow-your-wealth",
-      "format": "link_card",
-      "fb_post_id": "1325939953941168_122098708869471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098708869471257",
-      "posted_at": "2026-09-06T09:26:44.462402+00:00"
-    },
-    "6-money-saving-apps-to-help-you-grow-your-wealth": {
-      "title": "6 money-saving apps to help you grow your wealth",
-      "slug": "6-money-saving-apps-to-help-you-grow-your-wealth",
-      "url": "https://ushotnews.online/article/6-money-saving-apps-to-help-you-grow-your-wealth",
-      "article_url": "https://ushotnews.online/article/6-money-saving-apps-to-help-you-grow-your-wealth",
-      "format": "link_card",
-      "fb_post_id": "1325939953941168_122098708869471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122098708869471257",
-      "posted_at": "2026-09-06T09:26:44.462402+00:00"
-    },
     "scraped-2681f02c76": {
       "title": "Soybeans Correct Lower into the Long Weekend",
       "slug": "soybeans-correct-lower-into-the-long-weekend",
@@ -893,7 +853,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100791673471257",
       "fb_comment_id": "122100791673471257_1356139799588877",
       "posted_at": "2026-09-09T06:36:17.479793+00:00"
+    },
+    "scraped-248732ad18": {
+      "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island",
+      "slug": "traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
+      "url": "https://ushotnews.online/article/traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
+      "article_url": "https://ushotnews.online/article/traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100908259471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100908259471257",
+      "fb_comment_id": "122100908259471257_1604617047965380",
+      "posted_at": "2026-09-09T09:35:31.499105+00:00"
+    },
+    "traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan": {
+      "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island",
+      "slug": "traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
+      "url": "https://ushotnews.online/article/traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
+      "article_url": "https://ushotnews.online/article/traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122100908259471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100908259471257",
+      "fb_comment_id": "122100908259471257_1604617047965380",
+      "posted_at": "2026-09-09T09:35:31.499105+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-09T06:36:08.914827+00:00"
+  "last_cleaned_at": "2026-09-09T09:35:22.396914+00:00"
 }
