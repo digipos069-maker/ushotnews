@@ -1,27 +1,7 @@
 {
-  "last_updated": "2026-09-09T09:35:31.499170+00:00",
+  "last_updated": "2026-09-09T12:17:44.745102+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-2681f02c76": {
-      "title": "Soybeans Correct Lower into the Long Weekend",
-      "slug": "soybeans-correct-lower-into-the-long-weekend",
-      "url": "https://ushotnews.online/article/soybeans-correct-lower-into-the-long-weekend",
-      "article_url": "https://ushotnews.online/article/soybeans-correct-lower-into-the-long-weekend",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122098726395471257",
-      "fb_post_url": "https://www.facebook.com/photo.php?fbid=122098726395471257&set=a.122098726371471257&type=3",
-      "posted_at": "2026-09-06T09:52:41.548796+00:00"
-    },
-    "soybeans-correct-lower-into-the-long-weekend": {
-      "title": "Soybeans Correct Lower into the Long Weekend",
-      "slug": "soybeans-correct-lower-into-the-long-weekend",
-      "url": "https://ushotnews.online/article/soybeans-correct-lower-into-the-long-weekend",
-      "article_url": "https://ushotnews.online/article/soybeans-correct-lower-into-the-long-weekend",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122098726395471257",
-      "fb_post_url": "https://www.facebook.com/photo.php?fbid=122098726395471257&set=a.122098726371471257&type=3",
-      "posted_at": "2026-09-06T09:52:41.548796+00:00"
-    },
     "scraped-86c5625bf0": {
       "title": "Lam Research Legal Chief Sold $1.5 Million as AI Chip Demand Booms. Is the Signal Bearish?",
       "slug": "lam-research-legal-chief-sold-15-million-as-ai-chip-demand-booms-is-the-signal-bearish",
@@ -875,7 +855,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100908259471257",
       "fb_comment_id": "122100908259471257_1604617047965380",
       "posted_at": "2026-09-09T09:35:31.499105+00:00"
+    },
+    "scraped-6496f7050d": {
+      "title": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
+      "slug": "eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
+      "url": "https://ushotnews.online/article/eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
+      "article_url": "https://ushotnews.online/article/eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101015761471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101015761471257",
+      "fb_comment_id": "122101015761471257_1387859506213429",
+      "posted_at": "2026-09-09T12:17:44.745035+00:00"
+    },
+    "eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other": {
+      "title": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
+      "slug": "eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
+      "url": "https://ushotnews.online/article/eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
+      "article_url": "https://ushotnews.online/article/eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101015761471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101015761471257",
+      "fb_comment_id": "122101015761471257_1387859506213429",
+      "posted_at": "2026-09-09T12:17:44.745035+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-09T09:35:22.396914+00:00"
+  "last_cleaned_at": "2026-09-09T12:17:30.562343+00:00"
 }
