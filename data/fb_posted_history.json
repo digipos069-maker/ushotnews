@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T22:27:46.535336+00:00",
-  "posted_count": 74,
+  "last_updated": "2026-09-09T22:42:56.401145+00:00",
+  "posted_count": 76,
   "articles": {
     "scraped-bc912173a1": {
       "title": "Team USA basketball survives scare against Italy in FIBA Women's World Cup, secures quarterfinal berth",
@@ -809,7 +809,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101367931471257",
       "fb_comment_id": "122101367931471257_1774190547062237",
       "posted_at": "2026-09-09T22:27:46.535266+00:00"
+    },
+    "scraped-e07e43b102": {
+      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
+      "slug": "conductor-julian-wachner-receives-suspended-sentence-for-possession-of-child-sex-abuse-mat",
+      "url": "https://ushotnews.online/article/conductor-julian-wachner-receives-suspended-sentence-for-possession-of-child-sex-abuse-mat",
+      "article_url": "https://ushotnews.online/article/conductor-julian-wachner-receives-suspended-sentence-for-possession-of-child-sex-abuse-mat",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101377147471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101377147471257",
+      "fb_comment_id": "122101377147471257_1974588629862110",
+      "posted_at": "2026-09-09T22:42:56.401081+00:00"
+    },
+    "conductor-julian-wachner-receives-suspended-sentence-for-possession-of-child-sex-abuse-mat": {
+      "title": "Conductor Julian Wachner receives suspended sentence for possession of child sex abuse material",
+      "slug": "conductor-julian-wachner-receives-suspended-sentence-for-possession-of-child-sex-abuse-mat",
+      "url": "https://ushotnews.online/article/conductor-julian-wachner-receives-suspended-sentence-for-possession-of-child-sex-abuse-mat",
+      "article_url": "https://ushotnews.online/article/conductor-julian-wachner-receives-suspended-sentence-for-possession-of-child-sex-abuse-mat",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101377147471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101377147471257",
+      "fb_comment_id": "122101377147471257_1974588629862110",
+      "posted_at": "2026-09-09T22:42:56.401081+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-09T22:27:35.510970+00:00"
+  "last_cleaned_at": "2026-09-09T22:42:47.731040+00:00"
 }
