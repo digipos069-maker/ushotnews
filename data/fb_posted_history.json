@@ -1,47 +1,7 @@
 {
-  "last_updated": "2026-09-09T17:54:56.632260+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-09T19:41:53.446117+00:00",
+  "posted_count": 74,
   "articles": {
-    "scraped-2378365967": {
-      "title": "German exit polls suggest far-right party has big lead in regional election",
-      "slug": "german-exit-polls-suggest-far-right-party-has-big-lead-in-regional-election",
-      "url": "https://ushotnews.online/article/german-exit-polls-suggest-far-right-party-has-big-lead-in-regional-election",
-      "article_url": "https://ushotnews.online/article/german-exit-polls-suggest-far-right-party-has-big-lead-in-regional-election",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099092545471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099092545471257",
-      "posted_at": "2026-09-06T18:51:31.121391+00:00"
-    },
-    "german-exit-polls-suggest-far-right-party-has-big-lead-in-regional-election": {
-      "title": "German exit polls suggest far-right party has big lead in regional election",
-      "slug": "german-exit-polls-suggest-far-right-party-has-big-lead-in-regional-election",
-      "url": "https://ushotnews.online/article/german-exit-polls-suggest-far-right-party-has-big-lead-in-regional-election",
-      "article_url": "https://ushotnews.online/article/german-exit-polls-suggest-far-right-party-has-big-lead-in-regional-election",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099092545471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099092545471257",
-      "posted_at": "2026-09-06T18:51:31.121391+00:00"
-    },
-    "scraped-f4d4799d43": {
-      "title": "BDC and Mortgage REIT Income Is Taxed Differently Than a Bank Dividend. Here's Where to Hold Each.",
-      "slug": "bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
-      "url": "https://ushotnews.online/article/bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
-      "article_url": "https://ushotnews.online/article/bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099099913471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099099913471257",
-      "posted_at": "2026-09-06T19:03:02.960226+00:00"
-    },
-    "bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold": {
-      "title": "BDC and Mortgage REIT Income Is Taxed Differently Than a Bank Dividend. Here's Where to Hold Each.",
-      "slug": "bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
-      "url": "https://ushotnews.online/article/bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
-      "article_url": "https://ushotnews.online/article/bdc-and-mortgage-reit-income-is-taxed-differently-than-a-bank-dividend-heres-where-to-hold",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099099913471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099099913471257",
-      "posted_at": "2026-09-06T19:03:02.960226+00:00"
-    },
     "scraped-6e48757b73": {
       "title": "DAVID MARCUS: Congress set to protect AM radio and American discourse",
       "slug": "david-marcus-congress-set-to-protect-am-radio-and-american-discourse",
@@ -823,7 +783,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101242357471257",
       "fb_comment_id": "122101242357471257_942969058863869",
       "posted_at": "2026-09-09T17:54:56.632195+00:00"
+    },
+    "scraped-b5e3d91ed8": {
+      "title": "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
+      "slug": "sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-hold",
+      "url": "https://ushotnews.online/article/sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-hold",
+      "article_url": "https://ushotnews.online/article/sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-hold",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101302153471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101302153471257",
+      "fb_comment_id": "122101302153471257_1497092848841875",
+      "posted_at": "2026-09-09T19:41:53.446047+00:00"
+    },
+    "sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-hold": {
+      "title": "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
+      "slug": "sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-hold",
+      "url": "https://ushotnews.online/article/sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-hold",
+      "article_url": "https://ushotnews.online/article/sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-hold",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101302153471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101302153471257",
+      "fb_comment_id": "122101302153471257_1497092848841875",
+      "posted_at": "2026-09-09T19:41:53.446047+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-09T17:54:48.843671+00:00"
+  "last_cleaned_at": "2026-09-09T19:41:43.272990+00:00"
 }
