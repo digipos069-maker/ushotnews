@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T19:41:53.446117+00:00",
-  "posted_count": 74,
+  "last_updated": "2026-09-09T20:29:13.984060+00:00",
+  "posted_count": 76,
   "articles": {
     "scraped-6e48757b73": {
       "title": "DAVID MARCUS: Congress set to protect AM radio and American discourse",
@@ -805,7 +805,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101302153471257",
       "fb_comment_id": "122101302153471257_1497092848841875",
       "posted_at": "2026-09-09T19:41:53.446047+00:00"
+    },
+    "scraped-7e4e43dbe1": {
+      "title": "Ted Cruz battles 'The View' on Clarence Thomas and affirmative action, as host says 'Welcome to being Black'",
+      "slug": "ted-cruz-battles-the-view-on-clarence-thomas-and-affirmative-action-as-host-says-welcome-t",
+      "url": "https://ushotnews.online/article/ted-cruz-battles-the-view-on-clarence-thomas-and-affirmative-action-as-host-says-welcome-t",
+      "article_url": "https://ushotnews.online/article/ted-cruz-battles-the-view-on-clarence-thomas-and-affirmative-action-as-host-says-welcome-t",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101319763471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101319763471257",
+      "fb_comment_id": "122101319763471257_1636479024717499",
+      "posted_at": "2026-09-09T20:29:13.984001+00:00"
+    },
+    "ted-cruz-battles-the-view-on-clarence-thomas-and-affirmative-action-as-host-says-welcome-t": {
+      "title": "Ted Cruz battles 'The View' on Clarence Thomas and affirmative action, as host says 'Welcome to being Black'",
+      "slug": "ted-cruz-battles-the-view-on-clarence-thomas-and-affirmative-action-as-host-says-welcome-t",
+      "url": "https://ushotnews.online/article/ted-cruz-battles-the-view-on-clarence-thomas-and-affirmative-action-as-host-says-welcome-t",
+      "article_url": "https://ushotnews.online/article/ted-cruz-battles-the-view-on-clarence-thomas-and-affirmative-action-as-host-says-welcome-t",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101319763471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101319763471257",
+      "fb_comment_id": "122101319763471257_1636479024717499",
+      "posted_at": "2026-09-09T20:29:13.984001+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-09T19:41:43.272990+00:00"
+  "last_cleaned_at": "2026-09-09T20:29:01.438459+00:00"
 }
