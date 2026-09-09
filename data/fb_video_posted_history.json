@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T02:22:10.216369+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-09-09T18:58:52.208391+00:00",
+  "posted_count": 14,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -144,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1703638387363774",
       "fb_comment_id": "1703638387363774_824041557434533",
       "posted_at": "2026-09-09T02:22:10.216304+00:00"
+    },
+    "dvids-video:1022275": {
+      "title": "Raider Report Ep. 151 WSA honorary commanders immersion & upcoming Air Force Ball",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111961723/DOD_111961723.mp4",
+      "attached_website_url": "https://ushotnews.online/article/jim-cramer-breaks-down-why-amazon-amzn-is-a-screaming-buy-on-ai-potential",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "939744431940463",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/939744431940463",
+      "fb_comment_id": "939744431940463_1804162697243782",
+      "posted_at": "2026-09-09T18:58:52.208325+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-09T02:20:54.587393+00:00"
+  "last_cleaned_at": "2026-09-09T18:57:23.266992+00:00"
 }
