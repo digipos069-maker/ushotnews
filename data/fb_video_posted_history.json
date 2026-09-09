@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T22:14:20.059478+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-09-09T02:22:10.216369+00:00",
+  "posted_count": 13,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -133,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1392025963036523",
       "fb_comment_id": "1392025963036523_2192480044664789",
       "posted_at": "2026-09-08T22:14:20.059405+00:00"
+    },
+    "dvids-video:1022169": {
+      "title": "Freedom Edge 26 Open ceremony broll",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111959814/DOD_111959814.mp4",
+      "attached_website_url": "https://ushotnews.online/article/republicans-are-hoping-trump-a-palooza-isnt-only-about-trump",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1703638387363774",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1703638387363774",
+      "fb_comment_id": "1703638387363774_824041557434533",
+      "posted_at": "2026-09-09T02:22:10.216304+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-08T22:13:06.430911+00:00"
+  "last_cleaned_at": "2026-09-09T02:20:54.587393+00:00"
 }
