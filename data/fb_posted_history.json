@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T17:49:43.091647+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-10T18:08:10.317634+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-65e2715ade": {
       "title": "Michigan coach says Bryce Underwood is Wolverines quarterback for 'right now' after near disaster in opener",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101996467471257",
       "fb_comment_id": "122101996467471257_951200474042366",
       "posted_at": "2026-09-10T17:49:43.091577+00:00"
+    },
+    "scraped-38ccfe0a23": {
+      "title": "Google to invest $15 billion AI infrastructure in Finland",
+      "slug": "google-to-invest-15-billion-ai-infrastructure-in-finland",
+      "url": "https://ushotnews.online/article/google-to-invest-15-billion-ai-infrastructure-in-finland",
+      "article_url": "https://ushotnews.online/article/google-to-invest-15-billion-ai-infrastructure-in-finland",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102006181471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102006181471257",
+      "fb_comment_id": "122102006181471257_977540602040274",
+      "posted_at": "2026-09-10T18:08:10.317564+00:00"
+    },
+    "google-to-invest-15-billion-ai-infrastructure-in-finland": {
+      "title": "Google to invest $15 billion AI infrastructure in Finland",
+      "slug": "google-to-invest-15-billion-ai-infrastructure-in-finland",
+      "url": "https://ushotnews.online/article/google-to-invest-15-billion-ai-infrastructure-in-finland",
+      "article_url": "https://ushotnews.online/article/google-to-invest-15-billion-ai-infrastructure-in-finland",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102006181471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102006181471257",
+      "fb_comment_id": "122102006181471257_977540602040274",
+      "posted_at": "2026-09-10T18:08:10.317564+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T17:49:30.864953+00:00"
+  "last_cleaned_at": "2026-09-10T18:07:59.859023+00:00"
 }
