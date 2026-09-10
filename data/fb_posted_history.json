@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-10T00:52:11.864184+00:00",
+  "last_updated": "2026-09-10T05:13:47.032918+00:00",
   "posted_count": 74,
   "articles": {
-    "scraped-1b3b416d03": {
-      "title": "I Predicted That Lululemon Stock Was In Trouble Ahead of Earnings. What's Next After Its 17% Drop?",
-      "slug": "i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
-      "url": "https://ushotnews.online/article/i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
-      "article_url": "https://ushotnews.online/article/i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099361261471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099361261471257",
-      "fb_comment_id": null,
-      "posted_at": "2026-09-07T04:23:22.139266+00:00"
-    },
-    "i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-": {
-      "title": "I Predicted That Lululemon Stock Was In Trouble Ahead of Earnings. What's Next After Its 17% Drop?",
-      "slug": "i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
-      "url": "https://ushotnews.online/article/i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
-      "article_url": "https://ushotnews.online/article/i-predicted-that-lululemon-stock-was-in-trouble-ahead-of-earnings-whats-next-after-its-17-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099361261471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099361261471257",
-      "fb_comment_id": null,
-      "posted_at": "2026-09-07T04:23:22.139266+00:00"
-    },
     "scraped-affff17355": {
       "title": "Why It’s Time to Load Up on SoFi Stock",
       "slug": "why-its-time-to-load-up-on-sofi-stock",
@@ -815,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101432659471257",
       "fb_comment_id": "122101432659471257_4445549302367168",
       "posted_at": "2026-09-10T00:52:11.864128+00:00"
+    },
+    "scraped-e62c3f86da": {
+      "title": "Micron Price Targets Are Rising - Bull Put Credit Spreads in MU Are Attractive for Investors with Limited Funds",
+      "slug": "micron-price-targets-are-rising-bull-put-credit-spreads-in-mu-are-attractive-for-investors",
+      "url": "https://ushotnews.online/article/micron-price-targets-are-rising-bull-put-credit-spreads-in-mu-are-attractive-for-investors",
+      "article_url": "https://ushotnews.online/article/micron-price-targets-are-rising-bull-put-credit-spreads-in-mu-are-attractive-for-investors",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101562187471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101562187471257",
+      "fb_comment_id": "122101562187471257_4541019722811943",
+      "posted_at": "2026-09-10T05:13:47.032845+00:00"
+    },
+    "micron-price-targets-are-rising-bull-put-credit-spreads-in-mu-are-attractive-for-investors": {
+      "title": "Micron Price Targets Are Rising - Bull Put Credit Spreads in MU Are Attractive for Investors with Limited Funds",
+      "slug": "micron-price-targets-are-rising-bull-put-credit-spreads-in-mu-are-attractive-for-investors",
+      "url": "https://ushotnews.online/article/micron-price-targets-are-rising-bull-put-credit-spreads-in-mu-are-attractive-for-investors",
+      "article_url": "https://ushotnews.online/article/micron-price-targets-are-rising-bull-put-credit-spreads-in-mu-are-attractive-for-investors",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101562187471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101562187471257",
+      "fb_comment_id": "122101562187471257_4541019722811943",
+      "posted_at": "2026-09-10T05:13:47.032845+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T00:52:02.377372+00:00"
+  "last_cleaned_at": "2026-09-10T05:13:31.129576+00:00"
 }
