@@ -1,5 +1,708 @@
 [
   {
+    "id": "scraped-91f2397b9f",
+    "slug": "we-are-going-in-the-wrong-direction-republican-convention-dogged-by-the-cost-of-living",
+    "guid": "000001a0-8878-d4fe-a9ae-bdfab8d20000",
+    "title": "‘We are going in the wrong direction’: Republican convention dogged by the cost of living",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The GOP is gathering in Dallas to tout the administration’s wins. Many Republicans worry there are few on affordability.",
+    "content": [
+      "The GOP is gathering in Dallas to tout the administration’s wins. Many Republicans worry there are few on affordability.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/2a/76/433d62ee41d19552b1a6a5fa125f/090926-shs04928-rncdayone-47.JPG",
+    "imageCaption": "‘We are going in the wrong direction’: Republican convention... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-09T23:25:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-418fb6599c",
+    "slug": "dan-mckee-becomes-first-governor-in-8-years-to-lose-primary",
+    "guid": "000001a0-88b3-d4fe-a9ae-bdfb8a620000",
+    "title": "Dan McKee becomes first governor in 8 years to lose primary",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Former CVS executive Helena Foulkes defeated the Rhode Island governor in the Democratic primary after he failed to corral a growing political crisis around a bridge.",
+    "content": [
+      "Former CVS executive Helena Foulkes defeated the Rhode Island governor in the Democratic primary after he failed to corral a growing political crisis around a bridge.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/4e/67/87fffece4fd69938b7f3525f6c32/ap24193820325355.jpg",
+    "imageCaption": "Dan McKee becomes first governor in 8 years to lose primary... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-10T00:25:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e62c3f86da",
+    "slug": "micron-price-targets-are-rising-bull-put-credit-spreads-in-mu-are-attractive-for-investors",
+    "guid": "micron-price-targets-rising-bull-131501074.html",
+    "title": "Micron Price Targets Are Rising - Bull Put Credit Spreads in MU Are Attractive for Investors with Limited Funds",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Micron Price Targets Are Rising - Bull Put Credit Spreads in MU Are Attractive for Investors with Limited Funds",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/b3f702a9023bce76e94a3d700612e681.jpg",
+    "imageCaption": "Micron Price Targets Are Rising - Bull Put Credit Spreads in... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-08T13:15:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5d50e97d53",
+    "slug": "with-paypal-layoffs-brewing-how-to-play-pypl-stock-in-september-2026",
+    "guid": "paypal-layoffs-brewing-play-pypl-131501926.html",
+    "title": "With PayPal Layoffs Brewing, How to Play PYPL Stock in September 2026",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "With PayPal Layoffs Brewing, How to Play PYPL Stock in September 2026",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/af1f17f71f50efa3970142a8af3c1249.jpg",
+    "imageCaption": "With PayPal Layoffs Brewing, How to Play PYPL Stock in Septe... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-08T13:15:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-10b78887b1",
+    "slug": "meta-platforms-is-set-to-steal-googles-advertsing-crownwhat-it-means-for-investors",
+    "guid": "meta-platforms-set-steal-googles-131000645.html",
+    "title": "Meta Platforms Is Set to Steal Google's Advertsing Crown—What It Means for Investors",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Meta Platforms Is Set to Steal Google's Advertsing Crown—What It Means for Investors",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/marketbeat_955/346e07997e65056b98cc03226d1768c3.jpg",
+    "imageCaption": "Meta Platforms Is Set to Steal Google's Advertsing Crown—Wha... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-08T13:10:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5ede6d03e3",
+    "slug": "why-southwest-airlines-luv-stocks-implosion-could-offer-a-contrarian-ticket-higher",
+    "guid": "why-southwest-airlines-luv-stock-131501993.html",
+    "title": "Why Southwest Airlines (LUV) Stock’s Implosion Could Offer a Contrarian Ticket Higher",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Why Southwest Airlines (LUV) Stock’s Implosion Could Offer a Contrarian Ticket Higher",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/9f65588d9940828c77c61fb2833dfa6f.jpg",
+    "imageCaption": "Why Southwest Airlines (LUV) Stock’s Implosion Could Offer a... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-08T13:15:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f3a44088b1",
+    "slug": "teledyne-technologies-tdy-raises-guidance-as-defense-space-and-industrial-demand-accelerat",
+    "guid": "teledyne-technologies-tdy-raises-guidance-130635631.html",
+    "title": "Teledyne Technologies (TDY) Raises Guidance as Defense, Space and Industrial Demand Accelerate",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Teledyne Technologies (TDY) Raises Guidance as Defense, Space and Industrial Demand Accelerate",
+    "content": [
+      "WASHINGTON — In a developing report from the Science desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/068ccd4ccadd24584ff4382a18228011.jpg",
+    "imageCaption": "Teledyne Technologies (TDY) Raises Guidance as Defense, Spac... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-08T13:06:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7a5da28e81",
+    "slug": "dr-horton-stock-is-dhi-underperforming-the-consumer-cyclical-sector",
+    "guid": "d-r-horton-stock-dhi-130844917.html",
+    "title": "D.R. Horton Stock: Is DHI Underperforming the Consumer Cyclical Sector?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "D.R. Horton Stock: Is DHI Underperforming the Consumer Cyclical Sector?",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/0ac6e2fc96052ef5fccdc9cf7a9fc9dc.jpg",
+    "imageCaption": "D.R. Horton Stock: Is DHI Underperforming the Consumer Cycli... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-08T13:08:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0fbf4d8728",
+    "slug": "is-tradeweb-markets-tw-set-for-a-rebound",
+    "guid": "tradeweb-markets-tw-set-rebound-131324545.html",
+    "title": "Is Tradeweb Markets (TW) Set for a Rebound?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Is Tradeweb Markets (TW) Set for a Rebound?",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/insidermonkey.com/1f0dfc2abbb0a84c560c15b2fe9f82bc.jpg",
+    "imageCaption": "Is Tradeweb Markets (TW) Set for a Rebound?... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-08T13:13:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a2d97a2a24",
+    "slug": "ai-infrastructure-will-cost-trillions-more",
+    "guid": "ai-infrastructure-will-cost-trillions-more-f16af49a?siteid=yhoof2&yptr=yahoo",
+    "title": "AI Infrastructure Will Cost Trillions More",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "AI Infrastructure Will Cost Trillions More",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/wsj.com/d8791a7eea72064680051d98e0a849a6.jpg",
+    "imageCaption": "AI Infrastructure Will Cost Trillions More... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-08T13:11:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-69fe1d2ea6",
+    "slug": "there-arent-airpods-with-cameras-yet-and-i-hope-it-stays-that-way",
+    "guid": "https://www.theverge.com/?p=993064",
+    "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to [&#8230;]",
+    "content": [
+      "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on the cheapest AirPods model, the AirPods 5; and a Siri Recap feature comes to [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "There aren’t AirPods with cameras yet and I hope it stays th... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-09T23:00:04+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a28837a913",
+    "slug": "the-potential-replacement-for-dabo-swinney-at-clemson-is-staring-the-tigers-right-in-the-f",
+    "guid": "https://www.foxnews.com/outkick-sports/potential-replacement-dabo-swinney-clemson-staring-tigers-face",
+    "title": "The potential replacement for Dabo Swinney at Clemson is staring the Tigers right in the face",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tony Elliott&apos;s historic run at Virginia makes the Clemson Tigers alum and former coordinator the obvious choice if the Dabo Swinney era ends.",
+    "content": [
+      "Tony Elliott&apos;s historic run at Virginia makes the Clemson Tigers alum and former coordinator the obvious choice if the Dabo Swinney era ends.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tony-elliott-virginia-cavaliers-scott-stadium.jpg?ve=1&tl=1",
+    "imageCaption": "The potential replacement for Dabo Swinney at Clemson is sta... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-09T23:20:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c6ac43302b",
+    "slug": "chris-rock-says-president-trump-is-correct-on-one-key-issue-and-it-almost-redeems-his-othe",
+    "guid": "https://www.foxnews.com/media/chris-rock-says-president-trump-correct-one-key-issue-almost-redeems-his-other-sins",
+    "title": "Chris Rock says President Trump is correct on one key issue, and it almost redeems his ‘other sins’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Chris Rock says Trump got it right about fake news, calling media bias the one thing that almost clears Trump of all his other sins in a new interview.",
+    "content": [
+      "Chris Rock says Trump got it right about fake news, calling media bias the one thing that almost clears Trump of all his other sins in a new interview.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/chris-rock-performs-beacon-theatre.jpg?ve=1&tl=1",
+    "imageCaption": "Chris Rock says President Trump is correct on one key issue,... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-09T23:24:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a432ebaba7",
+    "slug": "ex-titans-scout-blaise-taylor-gets-consecutive-life-terms-for-cocaine-poisoning-of-pregnan",
+    "guid": "https://www.foxnews.com/outkick-sports/ex-titans-scout-blaise-taylor-consecutive-life-terms-cocaine-poisoning-pregnant-girlfriend",
+    "title": "Ex-Titans scout Blaise Taylor gets consecutive life terms for cocaine poisoning of pregnant girlfriend",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Blaise Taylor poisoned Jade Benning&apos;s pink lemonade with cocaine at her Nashville apartment, killing her and their unborn daughter in February 2023.",
+    "content": [
+      "Blaise Taylor poisoned Jade Benning&apos;s pink lemonade with cocaine at her Nashville apartment, killing her and their unborn daughter in February 2023.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tennessee-titans-helmet-press-conference.jpg?ve=1&tl=1",
+    "imageCaption": "Ex-Titans scout Blaise Taylor gets consecutive life terms fo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-09T23:45:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-78414edb07",
+    "slug": "new-york-knicks-star-jalen-brunson-gets-the-nod-to-host-the-saturday-night-live-season-pre",
+    "guid": "https://www.foxnews.com/outkick-sports/new-york-knicks-star-jalen-brunson-nod-host-saturday-night-live-season-premiere",
+    "title": "New York Knicks star Jalen Brunson gets the nod to host the 'Saturday Night Live' season premiere",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jalen Brunson will host the Saturday Night Live season premiere, joining Peyton Manning, LeBron James and Michael Jordan among athlete hosts.",
+    "content": [
+      "Jalen Brunson will host the Saturday Night Live season premiere, joining Peyton Manning, LeBron James and Michael Jordan among athlete hosts.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jalen-brunson.jpg?ve=1&tl=1",
+    "imageCaption": "New York Knicks star Jalen Brunson gets the nod to host the ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-09T23:58:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-865e9bf7eb",
+    "slug": "nbc-reminds-pregame-viewers-about-mike-vrabel-dianna-russini-scandal-coach-and-patriots-wa",
+    "guid": "https://www.foxnews.com/outkick-sports/nbc-reminds-pregame-viewers-mike-vrabel-dianna-russini-scandal-coach-patriots-want-forget",
+    "title": "NBC reminds pregame viewers about Mike Vrabel-Dianna Russini scandal coach and Patriots want to forget",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "NBC&apos;s pregame show spotlighted the Mike Vrabel-Dianna Russini scandal before the New England Patriots&apos; season opener against the Seattle Seahawks.",
+    "content": [
+      "NBC&apos;s pregame show spotlighted the Mike Vrabel-Dianna Russini scandal before the New England Patriots&apos; season opener against the Seattle Seahawks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/patriots-mike-vrabel-starbucks-fox-news.jpg?ve=1&tl=1",
+    "imageCaption": "NBC reminds pregame viewers about Mike Vrabel-Dianna Russini... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-10T00:03:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-41fad7ac84",
+    "slug": "veteran-dem-senator-cruises-past-far-left-primary-challengers-in-bid-for-sixth-term",
+    "guid": "https://www.foxnews.com/politics/veteran-dem-senator-cruises-past-progressive-primary-challengers-bid-sixth-term",
+    "title": "Veteran Dem senator cruises past far-left primary challengers in bid for sixth term",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sen. Jack Reed, D-R.I., defeated two far-left challengers in the Rhode Island U.S. Senate primary Wednesday, advancing to the November general election in his bid for a sixth term.",
+    "content": [
+      "Sen. Jack Reed, D-R.I., defeated two far-left challengers in the Rhode Island U.S. Senate primary Wednesday, advancing to the November general election in his bid for a sixth term.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/2024-11-13t194524z_1953348671_rc2d4bak9n80_rtrmadp_3_usa-congress-leadership-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "Veteran Dem senator cruises past far-left primary challenger... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-10T00:17:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6eeb507b21",
+    "slug": "illegal-alien-ordered-removed-years-ago-charged-in-crash-that-killed-newly-engaged-23-year",
+    "guid": "https://www.foxnews.com/politics/illegal-alien-ordered-removed-years-ago-charged-crash-killed-newly-engaged-23-year-old-teacher",
+    "title": "Illegal alien ordered removed years ago charged in crash that killed newly engaged 23-year-old teacher",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Cameron Lyon, a newly engaged Ohio teacher, was killed when a previously deported illegal immigrant allegedly flipped his SUV into oncoming traffic.",
+    "content": [
+      "Cameron Lyon, a newly engaged Ohio teacher, was killed when a previously deported illegal immigrant allegedly flipped his SUV into oncoming traffic.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cameron-lyon-abrielle-kerns-alvaro-uribe-gonzalez.jpg?ve=1&tl=1",
+    "imageCaption": "Illegal alien ordered removed years ago charged in crash tha... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-10T00:21:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-128a56d5d3",
+    "slug": "dem-incumbent-becomes-first-sitting-governor-to-lose-primary-since-2018",
+    "guid": "https://www.foxnews.com/politics/dem-incumbent-becomes-first-sitting-governor-lose-primary-decade",
+    "title": "Dem incumbent becomes first sitting governor to lose primary since 2018",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Costco board member, former CVS exec avenges narrow 2022 loss to Gov. Dan McKee in high-stakes Rhode Island rematch, causing sitting governor to become first to lose party primary in several years.",
+    "content": [
+      "Costco board member, former CVS exec avenges narrow 2022 loss to Gov. Dan McKee in high-stakes Rhode Island rematch, causing sitting governor to become first to lose party primary in several years.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Dan-McKee.jpg?ve=1&tl=1",
+    "imageCaption": "Dem incumbent becomes first sitting governor to lose primary... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-10T00:40:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-2dc34b1175",
     "slug": "capex-rebound-powers-applied-materials-amat-performance",
     "guid": "capex-rebound-powers-applied-materials-143910451.html",
