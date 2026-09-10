@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-10T21:04:52.855194+00:00",
+  "last_updated": "2026-09-10T23:05:07.638073+00:00",
   "posted_count": 78,
   "articles": {
-    "scraped-76fe946b56": {
-      "title": "Outraged cruise passengers sound off about 'immense disappointment' after abrupt cancellation",
-      "slug": "outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
-      "url": "https://ushotnews.online/article/outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
-      "article_url": "https://ushotnews.online/article/outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099930109471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099930109471257",
-      "fb_comment_id": "122099930109471257_28454586367507567",
-      "posted_at": "2026-09-07T22:45:54.820081+00:00"
-    },
-    "outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio": {
-      "title": "Outraged cruise passengers sound off about 'immense disappointment' after abrupt cancellation",
-      "slug": "outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
-      "url": "https://ushotnews.online/article/outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
-      "article_url": "https://ushotnews.online/article/outraged-cruise-passengers-sound-off-about-immense-disappointment-after-abrupt-cancellatio",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099930109471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099930109471257",
-      "fb_comment_id": "122099930109471257_28454586367507567",
-      "posted_at": "2026-09-07T22:45:54.820081+00:00"
-    },
     "scraped-468a910c7f": {
       "title": "NTSB reveals if crew survived Amazon cargo jet disaster as it shares details about victims",
       "slug": "ntsb-reveals-if-crew-survived-amazon-cargo-jet-disaster-as-it-shares-details-about-victims",
@@ -859,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102092137471257",
       "fb_comment_id": "122102092137471257_1381988714045895",
       "posted_at": "2026-09-10T21:04:52.855107+00:00"
+    },
+    "scraped-c9e6b77e53": {
+      "title": "Family of 9/11 hero to retrace his steps in final Tunnel to Towers stop",
+      "slug": "family-of-911-hero-to-retrace-his-steps-in-final-tunnel-to-towers-stop",
+      "url": "https://ushotnews.online/article/family-of-911-hero-to-retrace-his-steps-in-final-tunnel-to-towers-stop",
+      "article_url": "https://ushotnews.online/article/family-of-911-hero-to-retrace-his-steps-in-final-tunnel-to-towers-stop",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102140689471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102140689471257",
+      "fb_comment_id": "122102140689471257_2020465098597964",
+      "posted_at": "2026-09-10T23:05:07.638000+00:00"
+    },
+    "family-of-911-hero-to-retrace-his-steps-in-final-tunnel-to-towers-stop": {
+      "title": "Family of 9/11 hero to retrace his steps in final Tunnel to Towers stop",
+      "slug": "family-of-911-hero-to-retrace-his-steps-in-final-tunnel-to-towers-stop",
+      "url": "https://ushotnews.online/article/family-of-911-hero-to-retrace-his-steps-in-final-tunnel-to-towers-stop",
+      "article_url": "https://ushotnews.online/article/family-of-911-hero-to-retrace-his-steps-in-final-tunnel-to-towers-stop",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102140689471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102140689471257",
+      "fb_comment_id": "122102140689471257_2020465098597964",
+      "posted_at": "2026-09-10T23:05:07.638000+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T21:04:34.533206+00:00"
+  "last_cleaned_at": "2026-09-10T23:04:57.394645+00:00"
 }
