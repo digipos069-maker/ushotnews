@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T09:59:58.804491+00:00",
-  "posted_count": 74,
+  "last_updated": "2026-09-10T10:42:26.528136+00:00",
+  "posted_count": 76,
   "articles": {
     "scraped-1d1c929c9d": {
       "title": "Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY",
@@ -815,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101707057471257",
       "fb_comment_id": "122101707057471257_1773917970321634",
       "posted_at": "2026-09-10T09:59:58.804402+00:00"
+    },
+    "scraped-9882f1b0c6": {
+      "title": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens",
+      "slug": "hedge-funds-pile-into-fuels-as-us-supply-squeeze-deepens",
+      "url": "https://ushotnews.online/article/hedge-funds-pile-into-fuels-as-us-supply-squeeze-deepens",
+      "article_url": "https://ushotnews.online/article/hedge-funds-pile-into-fuels-as-us-supply-squeeze-deepens",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101724919471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101724919471257",
+      "fb_comment_id": "122101724919471257_1442874787665098",
+      "posted_at": "2026-09-10T10:42:26.528064+00:00"
+    },
+    "hedge-funds-pile-into-fuels-as-us-supply-squeeze-deepens": {
+      "title": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens",
+      "slug": "hedge-funds-pile-into-fuels-as-us-supply-squeeze-deepens",
+      "url": "https://ushotnews.online/article/hedge-funds-pile-into-fuels-as-us-supply-squeeze-deepens",
+      "article_url": "https://ushotnews.online/article/hedge-funds-pile-into-fuels-as-us-supply-squeeze-deepens",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101724919471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101724919471257",
+      "fb_comment_id": "122101724919471257_1442874787665098",
+      "posted_at": "2026-09-10T10:42:26.528064+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T09:59:45.336104+00:00"
+  "last_cleaned_at": "2026-09-10T10:42:17.212757+00:00"
 }
