@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-10T23:05:07.638073+00:00",
+  "last_updated": "2026-09-10T23:20:29.109595+00:00",
   "posted_count": 78,
   "articles": {
-    "scraped-468a910c7f": {
-      "title": "NTSB reveals if crew survived Amazon cargo jet disaster as it shares details about victims",
-      "slug": "ntsb-reveals-if-crew-survived-amazon-cargo-jet-disaster-as-it-shares-details-about-victims",
-      "url": "https://ushotnews.online/article/ntsb-reveals-if-crew-survived-amazon-cargo-jet-disaster-as-it-shares-details-about-victims",
-      "article_url": "https://ushotnews.online/article/ntsb-reveals-if-crew-survived-amazon-cargo-jet-disaster-as-it-shares-details-about-victims",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099940849471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099940849471257",
-      "fb_comment_id": "122099940849471257_1571677958032232",
-      "posted_at": "2026-09-07T23:18:07.626813+00:00"
-    },
-    "ntsb-reveals-if-crew-survived-amazon-cargo-jet-disaster-as-it-shares-details-about-victims": {
-      "title": "NTSB reveals if crew survived Amazon cargo jet disaster as it shares details about victims",
-      "slug": "ntsb-reveals-if-crew-survived-amazon-cargo-jet-disaster-as-it-shares-details-about-victims",
-      "url": "https://ushotnews.online/article/ntsb-reveals-if-crew-survived-amazon-cargo-jet-disaster-as-it-shares-details-about-victims",
-      "article_url": "https://ushotnews.online/article/ntsb-reveals-if-crew-survived-amazon-cargo-jet-disaster-as-it-shares-details-about-victims",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099940849471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099940849471257",
-      "fb_comment_id": "122099940849471257_1571677958032232",
-      "posted_at": "2026-09-07T23:18:07.626813+00:00"
-    },
     "scraped-1cfc265c77": {
       "title": "Xponential Fitness (XPOF) Swings To A Loss And Cuts Guidance",
       "slug": "xponential-fitness-xpof-swings-to-a-loss-and-cuts-guidance",
@@ -859,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102140689471257",
       "fb_comment_id": "122102140689471257_2020465098597964",
       "posted_at": "2026-09-10T23:05:07.638000+00:00"
+    },
+    "scraped-0369daa86a": {
+      "title": "Bioweapon threat exposed as Anthropic sounds alarm on foreign actors plotting virus experiments",
+      "slug": "bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
+      "url": "https://ushotnews.online/article/bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
+      "article_url": "https://ushotnews.online/article/bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102150145471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102150145471257",
+      "fb_comment_id": "122102150145471257_1638625421213354",
+      "posted_at": "2026-09-10T23:20:29.109534+00:00"
+    },
+    "bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi": {
+      "title": "Bioweapon threat exposed as Anthropic sounds alarm on foreign actors plotting virus experiments",
+      "slug": "bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
+      "url": "https://ushotnews.online/article/bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
+      "article_url": "https://ushotnews.online/article/bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102150145471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102150145471257",
+      "fb_comment_id": "122102150145471257_1638625421213354",
+      "posted_at": "2026-09-10T23:20:29.109534+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T23:04:57.394645+00:00"
+  "last_cleaned_at": "2026-09-10T23:20:15.551588+00:00"
 }
