@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T14:21:19.439346+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-10T14:51:26.926357+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-f2a2ef07d9": {
       "title": "Gap closed 350 stores and now has an Old Navy problem",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101868979471257",
       "fb_comment_id": "122101868979471257_1386202039714519",
       "posted_at": "2026-09-10T14:21:19.439276+00:00"
+    },
+    "scraped-1a49d0d2b4": {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-extend-losses-as-bond-yields-jump-oil-holds-above-100",
+      "url": "https://ushotnews.online/article/stock-market-today-dow-sp-500-nasdaq-extend-losses-as-bond-yields-jump-oil-holds-above-100",
+      "article_url": "https://ushotnews.online/article/stock-market-today-dow-sp-500-nasdaq-extend-losses-as-bond-yields-jump-oil-holds-above-100",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101886883471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101886883471257",
+      "fb_comment_id": "122101886883471257_1852947462734298",
+      "posted_at": "2026-09-10T14:51:26.926282+00:00"
+    },
+    "stock-market-today-dow-sp-500-nasdaq-extend-losses-as-bond-yields-jump-oil-holds-above-100": {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100",
+      "slug": "stock-market-today-dow-sp-500-nasdaq-extend-losses-as-bond-yields-jump-oil-holds-above-100",
+      "url": "https://ushotnews.online/article/stock-market-today-dow-sp-500-nasdaq-extend-losses-as-bond-yields-jump-oil-holds-above-100",
+      "article_url": "https://ushotnews.online/article/stock-market-today-dow-sp-500-nasdaq-extend-losses-as-bond-yields-jump-oil-holds-above-100",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101886883471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101886883471257",
+      "fb_comment_id": "122101886883471257_1852947462734298",
+      "posted_at": "2026-09-10T14:51:26.926282+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T14:21:08.143477+00:00"
+  "last_cleaned_at": "2026-09-10T14:51:11.362099+00:00"
 }
