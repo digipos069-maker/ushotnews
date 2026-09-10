@@ -1,95 +1,7 @@
 {
-  "last_updated": "2026-09-10T02:20:23.003456+00:00",
-  "posted_count": 16,
+  "last_updated": "2026-09-10T20:17:55.339990+00:00",
+  "posted_count": 9,
   "articles": {
-    "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
-      "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
-      "video_url": "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn",
-      "attached_website_url": "https://ushotnews.online/article/spacex-just-dealt-a-big-blow-to-howmet-aerospace-stock",
-      "trending_score": 48.0,
-      "format": "video",
-      "fb_video_id": "3479970502152770",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3479970502152770",
-      "fb_comment_id": "embedded_in_caption",
-      "posted_at": "2026-09-07T04:36:15.064921+00:00"
-    },
-    "nasa-312_ISS_business-in-space": {
-      "title": "NASA ScienceCasts: Doing Business in Space",
-      "video_url": "http://images-assets.nasa.gov/video/312_ISS_business-in-space/312_ISS_business-in-space~medium.mp4",
-      "attached_website_url": "https://ushotnews.online/article/spacex-just-dealt-a-big-blow-to-howmet-aerospace-stock",
-      "trending_score": 71.0,
-      "format": "video",
-      "fb_video_id": "1375168557586038",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1375168557586038",
-      "fb_comment_id": "embedded_in_caption",
-      "posted_at": "2026-09-07T05:34:44.950094+00:00"
-    },
-    "nasa-Olympics on the International Space Station": {
-      "title": "Olympics on the International Space Station",
-      "video_url": "http://images-assets.nasa.gov/video/Olympics%20on%20the%20International%20Space%20Station/Olympics%20on%20the%20International%20Space%20Station~medium.mp4",
-      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
-      "trending_score": 81.0,
-      "format": "video",
-      "fb_video_id": "1572284314910052",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1572284314910052",
-      "fb_comment_id": "embedded_in_caption",
-      "posted_at": "2026-09-07T06:30:25.194778+00:00"
-    },
-    "dvids-video:1021985": {
-      "title": "The U.S. Army Parachute Team jumps for Cleveland National Air Show",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111955529/DOD_111955529.mp4",
-      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
-      "trending_score": 63.0,
-      "format": "video",
-      "fb_video_id": "1560256768762558",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1560256768762558",
-      "fb_comment_id": "embedded_in_caption",
-      "posted_at": "2026-09-07T06:35:23.338574+00:00"
-    },
-    "nasa-Introducing NASA’s NEW Earth System Observatory": {
-      "title": "Introducing NASA’s NEW Earth System Observatory",
-      "video_url": "http://images-assets.nasa.gov/video/Introducing%20NASA%E2%80%99s%20NEW%20Earth%20System%20Observatory/Introducing%20NASA%E2%80%99s%20NEW%20Earth%20System%20Observatory~medium.mp4",
-      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
-      "trending_score": 71.0,
-      "format": "video",
-      "fb_video_id": "2155246905415140",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2155246905415140",
-      "fb_comment_id": "2155246905415140_1064400896203540",
-      "posted_at": "2026-09-07T07:06:29.600093+00:00"
-    },
-    "dvids-video:1021988": {
-      "title": "US, AUS, and JPN Forces continue Exercise Yama Sakura 91",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111956584/DOD_111956584.mp4",
-      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1081747008120028",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1081747008120028",
-      "fb_comment_id": "1081747008120028_1275981582272111",
-      "posted_at": "2026-09-07T08:25:21.923296+00:00"
-    },
-    "dvids-video:1021991": {
-      "title": "Reel: US Army 1st Sgt Joshua Pless-Mosley describes significance of the Monte Berico cleanup event [Social Media 16:9]",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111956646/DOD_111956646.mp4",
-      "attached_website_url": "https://ushotnews.online/article/snowflake-snows-ai-flywheel-transitions-into-a-growth-engine",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2010875256360858",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2010875256360858",
-      "fb_comment_id": "2010875256360858_2249796449119580",
-      "posted_at": "2026-09-07T11:10:06.967478+00:00"
-    },
-    "dvids-video:1022004": {
-      "title": "Original Six Frigates: Forging American Naval Power",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111956751/DOD_111956751.mp4",
-      "attached_website_url": "https://ushotnews.online/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1631312015030494",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1631312015030494",
-      "fb_comment_id": "1631312015030494_38194901400156922",
-      "posted_at": "2026-09-07T16:56:56.612764+00:00"
-    },
     "dvids-video:1022008": {
       "title": "Nolen William Panther Shout out",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111956860/DOD_111956860.mp4",
@@ -177,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1781873156338417",
       "fb_comment_id": "1781873156338417_3289575231244243",
       "posted_at": "2026-09-10T02:20:23.003394+00:00"
+    },
+    "dvids-video:1022469": {
+      "title": "Amazing Grace 9/11 Tribute",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111964997/DOD_111964997.mp4",
+      "attached_website_url": "https://ushotnews.online/article/is-fortinet-stock-outperforming-the-sp-500",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2418155535375617",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2418155535375617",
+      "fb_comment_id": "2418155535375617_2032272587421550",
+      "posted_at": "2026-09-10T20:17:55.339930+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T02:19:23.651118+00:00"
+  "last_cleaned_at": "2026-09-10T20:16:05.367345+00:00"
 }
