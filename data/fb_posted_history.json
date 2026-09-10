@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-10T10:42:26.528136+00:00",
+  "last_updated": "2026-09-10T14:21:19.439346+00:00",
   "posted_count": 76,
   "articles": {
-    "scraped-1d1c929c9d": {
-      "title": "Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY",
-      "slug": "best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy",
-      "url": "https://ushotnews.online/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy",
-      "article_url": "https://ushotnews.online/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099592087471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099592087471257",
-      "fb_comment_id": "122099592087471257_1341282842396254",
-      "posted_at": "2026-09-07T11:40:50.064718+00:00"
-    },
-    "best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy": {
-      "title": "Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY",
-      "slug": "best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy",
-      "url": "https://ushotnews.online/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy",
-      "article_url": "https://ushotnews.online/article/best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099592087471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099592087471257",
-      "fb_comment_id": "122099592087471257_1341282842396254",
-      "posted_at": "2026-09-07T11:40:50.064718+00:00"
-    },
     "scraped-f2a2ef07d9": {
       "title": "Gap closed 350 stores and now has an Old Navy problem",
       "slug": "gap-closed-350-stores-and-now-has-an-old-navy-problem",
@@ -837,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101724919471257",
       "fb_comment_id": "122101724919471257_1442874787665098",
       "posted_at": "2026-09-10T10:42:26.528064+00:00"
+    },
+    "scraped-02219316c0": {
+      "title": "A huge 11th-century tapestry of the Norman Conquest has (carefully) traveled to England",
+      "slug": "a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-england",
+      "url": "https://ushotnews.online/article/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-england",
+      "article_url": "https://ushotnews.online/article/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-england",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101868979471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101868979471257",
+      "fb_comment_id": "122101868979471257_1386202039714519",
+      "posted_at": "2026-09-10T14:21:19.439276+00:00"
+    },
+    "a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-england": {
+      "title": "A huge 11th-century tapestry of the Norman Conquest has (carefully) traveled to England",
+      "slug": "a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-england",
+      "url": "https://ushotnews.online/article/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-england",
+      "article_url": "https://ushotnews.online/article/a-huge-11th-century-tapestry-of-the-norman-conquest-has-carefully-traveled-to-england",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101868979471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101868979471257",
+      "fb_comment_id": "122101868979471257_1386202039714519",
+      "posted_at": "2026-09-10T14:21:19.439276+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T10:42:17.212757+00:00"
+  "last_cleaned_at": "2026-09-10T14:21:08.143477+00:00"
 }
