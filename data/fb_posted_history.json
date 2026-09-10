@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-10T05:38:43.992108+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-10T09:59:58.804491+00:00",
+  "posted_count": 74,
   "articles": {
-    "scraped-affff17355": {
-      "title": "Why It’s Time to Load Up on SoFi Stock",
-      "slug": "why-its-time-to-load-up-on-sofi-stock",
-      "url": "https://ushotnews.online/article/why-its-time-to-load-up-on-sofi-stock",
-      "article_url": "https://ushotnews.online/article/why-its-time-to-load-up-on-sofi-stock",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099406675471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099406675471257",
-      "fb_comment_id": null,
-      "posted_at": "2026-09-07T05:42:56.824021+00:00"
-    },
-    "why-its-time-to-load-up-on-sofi-stock": {
-      "title": "Why It’s Time to Load Up on SoFi Stock",
-      "slug": "why-its-time-to-load-up-on-sofi-stock",
-      "url": "https://ushotnews.online/article/why-its-time-to-load-up-on-sofi-stock",
-      "article_url": "https://ushotnews.online/article/why-its-time-to-load-up-on-sofi-stock",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099406675471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099406675471257",
-      "fb_comment_id": null,
-      "posted_at": "2026-09-07T05:42:56.824021+00:00"
-    },
-    "scraped-512a887aa8": {
-      "title": "Dell’s Monster Quarter Just Confirmed Micron’s Biggest Opportunity Is Not Just HBM",
-      "slug": "dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
-      "url": "https://ushotnews.online/article/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
-      "article_url": "https://ushotnews.online/article/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099527527471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099527527471257",
-      "fb_comment_id": "122099527527471257_1801646320829240",
-      "posted_at": "2026-09-07T09:39:36.578993+00:00"
-    },
-    "dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm": {
-      "title": "Dell’s Monster Quarter Just Confirmed Micron’s Biggest Opportunity Is Not Just HBM",
-      "slug": "dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
-      "url": "https://ushotnews.online/article/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
-      "article_url": "https://ushotnews.online/article/dells-monster-quarter-just-confirmed-microns-biggest-opportunity-is-not-just-hbm",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122099527527471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122099527527471257",
-      "fb_comment_id": "122099527527471257_1801646320829240",
-      "posted_at": "2026-09-07T09:39:36.578993+00:00"
-    },
     "scraped-1d1c929c9d": {
       "title": "Best CD rates today, Monday, September 7, 2026: Lock in up to 4.35% APY",
       "slug": "best-cd-rates-today-monday-september-7-2026-lock-in-up-to-435-apy",
@@ -837,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101572651471257",
       "fb_comment_id": "122101572651471257_2137452547124306",
       "posted_at": "2026-09-10T05:38:43.992003+00:00"
+    },
+    "scraped-8af2bad3bf": {
+      "title": "Citi Just Upgraded UiPath Stock. Here's Why.",
+      "slug": "citi-just-upgraded-uipath-stock-heres-why",
+      "url": "https://ushotnews.online/article/citi-just-upgraded-uipath-stock-heres-why",
+      "article_url": "https://ushotnews.online/article/citi-just-upgraded-uipath-stock-heres-why",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101707057471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101707057471257",
+      "fb_comment_id": "122101707057471257_1773917970321634",
+      "posted_at": "2026-09-10T09:59:58.804402+00:00"
+    },
+    "citi-just-upgraded-uipath-stock-heres-why": {
+      "title": "Citi Just Upgraded UiPath Stock. Here's Why.",
+      "slug": "citi-just-upgraded-uipath-stock-heres-why",
+      "url": "https://ushotnews.online/article/citi-just-upgraded-uipath-stock-heres-why",
+      "article_url": "https://ushotnews.online/article/citi-just-upgraded-uipath-stock-heres-why",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101707057471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101707057471257",
+      "fb_comment_id": "122101707057471257_1773917970321634",
+      "posted_at": "2026-09-10T09:59:58.804402+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T05:38:35.990682+00:00"
+  "last_cleaned_at": "2026-09-10T09:59:45.336104+00:00"
 }
