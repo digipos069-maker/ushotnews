@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T05:13:47.032918+00:00",
-  "posted_count": 74,
+  "last_updated": "2026-09-10T05:38:43.992108+00:00",
+  "posted_count": 76,
   "articles": {
     "scraped-affff17355": {
       "title": "Why It’s Time to Load Up on SoFi Stock",
@@ -815,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101562187471257",
       "fb_comment_id": "122101562187471257_4541019722811943",
       "posted_at": "2026-09-10T05:13:47.032845+00:00"
+    },
+    "scraped-aec234d11c": {
+      "title": "Accenture and Google Cloud launch Gemini Enterprise Business Group",
+      "slug": "accenture-and-google-cloud-launch-gemini-enterprise-business-group",
+      "url": "https://ushotnews.online/article/accenture-and-google-cloud-launch-gemini-enterprise-business-group",
+      "article_url": "https://ushotnews.online/article/accenture-and-google-cloud-launch-gemini-enterprise-business-group",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101572651471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101572651471257",
+      "fb_comment_id": "122101572651471257_2137452547124306",
+      "posted_at": "2026-09-10T05:38:43.992003+00:00"
+    },
+    "accenture-and-google-cloud-launch-gemini-enterprise-business-group": {
+      "title": "Accenture and Google Cloud launch Gemini Enterprise Business Group",
+      "slug": "accenture-and-google-cloud-launch-gemini-enterprise-business-group",
+      "url": "https://ushotnews.online/article/accenture-and-google-cloud-launch-gemini-enterprise-business-group",
+      "article_url": "https://ushotnews.online/article/accenture-and-google-cloud-launch-gemini-enterprise-business-group",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122101572651471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101572651471257",
+      "fb_comment_id": "122101572651471257_2137452547124306",
+      "posted_at": "2026-09-10T05:38:43.992003+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T05:13:31.129576+00:00"
+  "last_cleaned_at": "2026-09-10T05:38:35.990682+00:00"
 }
