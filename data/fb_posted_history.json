@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-10T20:47:19.762977+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-10T21:04:52.855194+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-76fe946b56": {
       "title": "Outraged cruise passengers sound off about 'immense disappointment' after abrupt cancellation",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102086011471257",
       "fb_comment_id": "122102086011471257_1515774467021845",
       "posted_at": "2026-09-10T20:47:19.762917+00:00"
+    },
+    "scraped-67af45b89a": {
+      "title": "Kamala Harris to campaign with Ossoff in Georgia",
+      "slug": "kamala-harris-to-campaign-with-ossoff-in-georgia",
+      "url": "https://ushotnews.online/article/kamala-harris-to-campaign-with-ossoff-in-georgia",
+      "article_url": "https://ushotnews.online/article/kamala-harris-to-campaign-with-ossoff-in-georgia",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102092137471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102092137471257",
+      "fb_comment_id": "122102092137471257_1381988714045895",
+      "posted_at": "2026-09-10T21:04:52.855107+00:00"
+    },
+    "kamala-harris-to-campaign-with-ossoff-in-georgia": {
+      "title": "Kamala Harris to campaign with Ossoff in Georgia",
+      "slug": "kamala-harris-to-campaign-with-ossoff-in-georgia",
+      "url": "https://ushotnews.online/article/kamala-harris-to-campaign-with-ossoff-in-georgia",
+      "article_url": "https://ushotnews.online/article/kamala-harris-to-campaign-with-ossoff-in-georgia",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102092137471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102092137471257",
+      "fb_comment_id": "122102092137471257_1381988714045895",
+      "posted_at": "2026-09-10T21:04:52.855107+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T20:47:05.130969+00:00"
+  "last_cleaned_at": "2026-09-10T21:04:34.533206+00:00"
 }
