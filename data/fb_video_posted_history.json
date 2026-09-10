@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T22:09:21.121277+00:00",
-  "posted_count": 15,
+  "last_updated": "2026-09-10T02:20:23.003456+00:00",
+  "posted_count": 16,
   "articles": {
     "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn": {
       "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
@@ -166,7 +166,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1912295736874883",
       "fb_comment_id": "1912295736874883_1072874339041402",
       "posted_at": "2026-09-09T22:09:21.121208+00:00"
+    },
+    "dvids-video:1022312": {
+      "title": "USAG Humphreys Emergency Services Test Readiness During Simulated Airfield Mishap",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111962510/DOD_111962510.mp4",
+      "attached_website_url": "https://ushotnews.online/article/we-are-going-in-the-wrong-direction-republican-convention-dogged-by-the-cost-of-living",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1781873156338417",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1781873156338417",
+      "fb_comment_id": "1781873156338417_3289575231244243",
+      "posted_at": "2026-09-10T02:20:23.003394+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-09T22:07:58.410713+00:00"
+  "last_cleaned_at": "2026-09-10T02:19:23.651118+00:00"
 }
