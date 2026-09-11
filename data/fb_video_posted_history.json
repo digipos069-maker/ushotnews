@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-09-10T20:17:55.339990+00:00",
+  "last_updated": "2026-09-11T01:34:36.212920+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1022008": {
-      "title": "Nolen William Panther Shout out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111956860/DOD_111956860.mp4",
-      "attached_website_url": "https://ushotnews.online/article/listen-up-suze-orman-says-americans-are-miscalculating-1-critical-retirement-cost-are-you-",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2166446080570143",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2166446080570143",
-      "fb_comment_id": "2166446080570143_1071833205732482",
-      "posted_at": "2026-09-07T20:57:35.184093+00:00"
-    },
     "dvids-video:1022015": {
       "title": "36th AS, JGSDF Conduct Airborne Training Over Narashino",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111957023/DOD_111957023.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2418155535375617",
       "fb_comment_id": "2418155535375617_2032272587421550",
       "posted_at": "2026-09-10T20:17:55.339930+00:00"
+    },
+    "dvids-video:1022498": {
+      "title": "AFN Misawa PSA: Absentee Voting Resources",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111965692/DOD_111965692.mp4",
+      "attached_website_url": "https://ushotnews.online/article/openai-and-samsung-deepen-chip-and-enterprise-ai-cooperation",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2140909866495752",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2140909866495752",
+      "fb_comment_id": "2140909866495752_932536676577599",
+      "posted_at": "2026-09-11T01:34:36.212853+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-10T20:16:05.367345+00:00"
+  "last_cleaned_at": "2026-09-11T01:33:36.613239+00:00"
 }
