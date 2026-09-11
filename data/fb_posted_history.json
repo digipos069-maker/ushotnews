@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-11T06:35:35.006378+00:00",
+  "last_updated": "2026-09-11T11:41:35.839087+00:00",
   "posted_count": 78,
   "articles": {
-    "scraped-19849b1012": {
-      "title": "Prince Harry finds way to live ‘half-in, half-out’ life Queen Elizabeth refused to endorse: experts",
-      "slug": "prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
-      "url": "https://ushotnews.online/article/prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
-      "article_url": "https://ushotnews.online/article/prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100267681471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100267681471257",
-      "fb_comment_id": "122100267681471257_1324955122841099",
-      "posted_at": "2026-09-08T11:35:09.154587+00:00"
-    },
-    "prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex": {
-      "title": "Prince Harry finds way to live ‘half-in, half-out’ life Queen Elizabeth refused to endorse: experts",
-      "slug": "prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
-      "url": "https://ushotnews.online/article/prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
-      "article_url": "https://ushotnews.online/article/prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100267681471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100267681471257",
-      "fb_comment_id": "122100267681471257_1324955122841099",
-      "posted_at": "2026-09-08T11:35:09.154587+00:00"
-    },
     "scraped-a73a5c46a1": {
       "title": "Comedian Matt Mathews faces wrath of WWE stars as he gets dragged into ring on 'Monday Night Raw'",
       "slug": "comedian-matt-mathews-faces-wrath-of-wwe-stars-as-he-gets-dragged-into-ring-on-monday-nigh",
@@ -859,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102356293471257",
       "fb_comment_id": "122102356293471257_1645307197172806",
       "posted_at": "2026-09-11T06:35:35.006320+00:00"
+    },
+    "scraped-5ee83e1d4d": {
+      "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
+      "slug": "hive-brings-in-enterprise-veteran-to-scale-buzz-hpcs-ai-cloud-business",
+      "url": "https://ushotnews.online/article/hive-brings-in-enterprise-veteran-to-scale-buzz-hpcs-ai-cloud-business",
+      "article_url": "https://ushotnews.online/article/hive-brings-in-enterprise-veteran-to-scale-buzz-hpcs-ai-cloud-business",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102545467471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102545467471257",
+      "fb_comment_id": "122102545467471257_1012051245189608",
+      "posted_at": "2026-09-11T11:41:35.839007+00:00"
+    },
+    "hive-brings-in-enterprise-veteran-to-scale-buzz-hpcs-ai-cloud-business": {
+      "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
+      "slug": "hive-brings-in-enterprise-veteran-to-scale-buzz-hpcs-ai-cloud-business",
+      "url": "https://ushotnews.online/article/hive-brings-in-enterprise-veteran-to-scale-buzz-hpcs-ai-cloud-business",
+      "article_url": "https://ushotnews.online/article/hive-brings-in-enterprise-veteran-to-scale-buzz-hpcs-ai-cloud-business",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102545467471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102545467471257",
+      "fb_comment_id": "122102545467471257_1012051245189608",
+      "posted_at": "2026-09-11T11:41:35.839007+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T06:35:23.135717+00:00"
+  "last_cleaned_at": "2026-09-11T11:41:22.136447+00:00"
 }
