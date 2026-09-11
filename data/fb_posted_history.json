@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-11T15:56:24.256901+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-11T16:43:28.140598+00:00",
+  "posted_count": 78,
   "articles": {
-    "scraped-7cd54c6506": {
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "slug": "googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
-      "url": "https://ushotnews.online/article/googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
-      "article_url": "https://ushotnews.online/article/googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100402975471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100402975471257",
-      "fb_comment_id": "122100402975471257_1592601422332256",
-      "posted_at": "2026-09-08T16:03:33.730505+00:00"
-    },
-    "googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments": {
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "slug": "googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
-      "url": "https://ushotnews.online/article/googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
-      "article_url": "https://ushotnews.online/article/googles-atlas-of-the-human-genome-could-pave-the-way-for-new-treatments",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100402975471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100402975471257",
-      "fb_comment_id": "122100402975471257_1592601422332256",
-      "posted_at": "2026-09-08T16:03:33.730505+00:00"
-    },
-    "scraped-565df73e49": {
-      "title": "Australian social media users to be offered choice to opt out of algorithms",
-      "slug": "australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-      "url": "https://ushotnews.online/article/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-      "article_url": "https://ushotnews.online/article/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100421851471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100421851471257",
-      "fb_comment_id": "122100421851471257_2255288011928288",
-      "posted_at": "2026-09-08T16:33:15.666301+00:00"
-    },
-    "australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms": {
-      "title": "Australian social media users to be offered choice to opt out of algorithms",
-      "slug": "australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-      "url": "https://ushotnews.online/article/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-      "article_url": "https://ushotnews.online/article/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100421851471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100421851471257",
-      "fb_comment_id": "122100421851471257_2255288011928288",
-      "posted_at": "2026-09-08T16:33:15.666301+00:00"
-    },
     "scraped-348f9b51eb": {
       "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
       "slug": "us-downplays-irans-seizure-of-unmanned-sub-in-hormuz-strait",
@@ -881,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102732307471257",
       "fb_comment_id": "122102732307471257_946638111267041",
       "posted_at": "2026-09-11T15:56:24.256841+00:00"
+    },
+    "scraped-d8cbdaafe9": {
+      "title": "Qualcomm’s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
+      "slug": "qualcomms-aws-deal-takes-aim-at-nvidia-but-comes-with-fine-print",
+      "url": "https://ushotnews.online/article/qualcomms-aws-deal-takes-aim-at-nvidia-but-comes-with-fine-print",
+      "article_url": "https://ushotnews.online/article/qualcomms-aws-deal-takes-aim-at-nvidia-but-comes-with-fine-print",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102759013471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102759013471257",
+      "fb_comment_id": "122102759013471257_1398407615590528",
+      "posted_at": "2026-09-11T16:43:28.140537+00:00"
+    },
+    "qualcomms-aws-deal-takes-aim-at-nvidia-but-comes-with-fine-print": {
+      "title": "Qualcomm’s AWS Deal Takes Aim at Nvidia, But Comes With Fine Print",
+      "slug": "qualcomms-aws-deal-takes-aim-at-nvidia-but-comes-with-fine-print",
+      "url": "https://ushotnews.online/article/qualcomms-aws-deal-takes-aim-at-nvidia-but-comes-with-fine-print",
+      "article_url": "https://ushotnews.online/article/qualcomms-aws-deal-takes-aim-at-nvidia-but-comes-with-fine-print",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102759013471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102759013471257",
+      "fb_comment_id": "122102759013471257_1398407615590528",
+      "posted_at": "2026-09-11T16:43:28.140537+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T15:56:12.437158+00:00"
+  "last_cleaned_at": "2026-09-11T16:43:13.795350+00:00"
 }
