@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T01:34:36.212920+00:00",
-  "posted_count": 9,
+  "last_updated": "2026-09-11T02:16:16.480783+00:00",
+  "posted_count": 10,
   "articles": {
     "dvids-video:1022015": {
       "title": "36th AS, JGSDF Conduct Airborne Training Over Narashino",
@@ -100,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2140909866495752",
       "fb_comment_id": "2140909866495752_932536676577599",
       "posted_at": "2026-09-11T01:34:36.212853+00:00"
+    },
+    "dvids-video:1022503": {
+      "title": "Camp Humphreys 9/11 Remembrance Ruck March",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111965734/DOD_111965734.mp4",
+      "attached_website_url": "https://ushotnews.online/article/openai-and-samsung-deepen-chip-and-enterprise-ai-cooperation",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "3035154040167974",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3035154040167974",
+      "fb_comment_id": "3035154040167974_1383731280023700",
+      "posted_at": "2026-09-11T02:16:16.480722+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T01:33:36.613239+00:00"
+  "last_cleaned_at": "2026-09-11T02:14:48.274652+00:00"
 }
