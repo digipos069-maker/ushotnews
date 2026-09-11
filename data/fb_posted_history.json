@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-11T06:25:27.605226+00:00",
+  "last_updated": "2026-09-11T06:35:35.006378+00:00",
   "posted_count": 78,
   "articles": {
-    "scraped-54944a1b48": {
-      "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
-      "slug": "russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
-      "url": "https://ushotnews.online/article/russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
-      "article_url": "https://ushotnews.online/article/russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100123069471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100123069471257",
-      "fb_comment_id": "122100123069471257_2567766890356041",
-      "posted_at": "2026-09-08T06:30:03.296634+00:00"
-    },
-    "russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv": {
-      "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
-      "slug": "russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
-      "url": "https://ushotnews.online/article/russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
-      "article_url": "https://ushotnews.online/article/russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100123069471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100123069471257",
-      "fb_comment_id": "122100123069471257_2567766890356041",
-      "posted_at": "2026-09-08T06:30:03.296634+00:00"
-    },
     "scraped-19849b1012": {
       "title": "Prince Harry finds way to live ‘half-in, half-out’ life Queen Elizabeth refused to endorse: experts",
       "slug": "prince-harry-finds-way-to-live-half-in-half-out-life-queen-elizabeth-refused-to-endorse-ex",
@@ -859,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102350557471257",
       "fb_comment_id": "122102350557471257_1886211425688823",
       "posted_at": "2026-09-11T06:25:27.605166+00:00"
+    },
+    "scraped-0ab9c8f3b1": {
+      "title": "Juror on Lindsay Clancy trial says 'we let down Lindsay' following mistrial",
+      "slug": "juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
+      "url": "https://ushotnews.online/article/juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
+      "article_url": "https://ushotnews.online/article/juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102356293471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102356293471257",
+      "fb_comment_id": "122102356293471257_1645307197172806",
+      "posted_at": "2026-09-11T06:35:35.006320+00:00"
+    },
+    "juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial": {
+      "title": "Juror on Lindsay Clancy trial says 'we let down Lindsay' following mistrial",
+      "slug": "juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
+      "url": "https://ushotnews.online/article/juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
+      "article_url": "https://ushotnews.online/article/juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102356293471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102356293471257",
+      "fb_comment_id": "122102356293471257_1645307197172806",
+      "posted_at": "2026-09-11T06:35:35.006320+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T06:25:12.063334+00:00"
+  "last_cleaned_at": "2026-09-11T06:35:23.135717+00:00"
 }
