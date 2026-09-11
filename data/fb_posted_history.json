@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-11T22:28:35.507100+00:00",
+  "last_updated": "2026-09-11T23:53:27.287228+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-b39d566260": {
-      "title": "Tetra Tech (TTEK): Navigating Growth Amid Infrastructure Investment Uncertainty",
-      "slug": "tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
-      "url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
-      "article_url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100582747471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100582747471257",
-      "fb_comment_id": "122100582747471257_2155628122030185",
-      "posted_at": "2026-09-08T22:33:41.791474+00:00"
-    },
-    "tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty": {
-      "title": "Tetra Tech (TTEK): Navigating Growth Amid Infrastructure Investment Uncertainty",
-      "slug": "tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
-      "url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
-      "article_url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100582747471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100582747471257",
-      "fb_comment_id": "122100582747471257_2155628122030185",
-      "posted_at": "2026-09-08T22:33:41.791474+00:00"
-    },
     "scraped-0115a7190b": {
       "title": "Jennifer Lopez stuns in patterned swimsuit while soaking up final days of summer",
       "slug": "jennifer-lopez-stuns-in-patterned-swimsuit-while-soaking-up-final-days-of-summer",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102963517471257",
       "fb_comment_id": "122102963517471257_2585382458591604",
       "posted_at": "2026-09-11T22:28:35.507030+00:00"
+    },
+    "scraped-6892ab4848": {
+      "title": "MongoDB (MDB) Reports 30% Revenue Growth and 91% RPO Growth. Is Atlas Demand Durable Enough to Sustain Operating Leverage?",
+      "slug": "mongodb-mdb-reports-30-revenue-growth-and-91-rpo-growth-is-atlas-demand-durable-enough-to-",
+      "url": "https://ushotnews.online/article/mongodb-mdb-reports-30-revenue-growth-and-91-rpo-growth-is-atlas-demand-durable-enough-to-",
+      "article_url": "https://ushotnews.online/article/mongodb-mdb-reports-30-revenue-growth-and-91-rpo-growth-is-atlas-demand-durable-enough-to-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102994303471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102994303471257",
+      "fb_comment_id": "122102994303471257_1732277918063317",
+      "posted_at": "2026-09-11T23:53:27.287156+00:00"
+    },
+    "mongodb-mdb-reports-30-revenue-growth-and-91-rpo-growth-is-atlas-demand-durable-enough-to-": {
+      "title": "MongoDB (MDB) Reports 30% Revenue Growth and 91% RPO Growth. Is Atlas Demand Durable Enough to Sustain Operating Leverage?",
+      "slug": "mongodb-mdb-reports-30-revenue-growth-and-91-rpo-growth-is-atlas-demand-durable-enough-to-",
+      "url": "https://ushotnews.online/article/mongodb-mdb-reports-30-revenue-growth-and-91-rpo-growth-is-atlas-demand-durable-enough-to-",
+      "article_url": "https://ushotnews.online/article/mongodb-mdb-reports-30-revenue-growth-and-91-rpo-growth-is-atlas-demand-durable-enough-to-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102994303471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102994303471257",
+      "fb_comment_id": "122102994303471257_1732277918063317",
+      "posted_at": "2026-09-11T23:53:27.287156+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T22:28:22.945313+00:00"
+  "last_cleaned_at": "2026-09-11T23:53:14.748664+00:00"
 }
