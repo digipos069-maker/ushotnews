@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T01:20:45.734387+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-11T01:24:24.833176+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-a8c15428bf": {
       "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102214081471257",
       "fb_comment_id": "122102214081471257_1110462598166516",
       "posted_at": "2026-09-11T01:20:45.734309+00:00"
+    },
+    "scraped-6018ca64ce": {
+      "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
+      "slug": "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
+      "url": "https://ushotnews.online/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
+      "article_url": "https://ushotnews.online/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102215827471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102215827471257",
+      "fb_comment_id": "122102215827471257_2172049533660558",
+      "posted_at": "2026-09-11T01:24:24.833094+00:00"
+    },
+    "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-": {
+      "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
+      "slug": "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
+      "url": "https://ushotnews.online/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
+      "article_url": "https://ushotnews.online/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102215827471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102215827471257",
+      "fb_comment_id": "122102215827471257_2172049533660558",
+      "posted_at": "2026-09-11T01:24:24.833094+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T01:20:37.119444+00:00"
+  "last_cleaned_at": "2026-09-11T01:24:15.276879+00:00"
 }
