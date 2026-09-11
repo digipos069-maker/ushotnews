@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-11T01:24:24.833176+00:00",
+  "last_updated": "2026-09-11T06:25:27.605226+00:00",
   "posted_count": 78,
   "articles": {
-    "scraped-a8c15428bf": {
-      "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
-      "slug": "nvidia-supplier-wistrons-shares-drop-after-it-announces-15-billion-global-stock-sale",
-      "url": "https://ushotnews.online/article/nvidia-supplier-wistrons-shares-drop-after-it-announces-15-billion-global-stock-sale",
-      "article_url": "https://ushotnews.online/article/nvidia-supplier-wistrons-shares-drop-after-it-announces-15-billion-global-stock-sale",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100119139471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100119139471257",
-      "fb_comment_id": "122100119139471257_1540186360762540",
-      "posted_at": "2026-09-08T06:17:02.404039+00:00"
-    },
-    "nvidia-supplier-wistrons-shares-drop-after-it-announces-15-billion-global-stock-sale": {
-      "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
-      "slug": "nvidia-supplier-wistrons-shares-drop-after-it-announces-15-billion-global-stock-sale",
-      "url": "https://ushotnews.online/article/nvidia-supplier-wistrons-shares-drop-after-it-announces-15-billion-global-stock-sale",
-      "article_url": "https://ushotnews.online/article/nvidia-supplier-wistrons-shares-drop-after-it-announces-15-billion-global-stock-sale",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100119139471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100119139471257",
-      "fb_comment_id": "122100119139471257_1540186360762540",
-      "posted_at": "2026-09-08T06:17:02.404039+00:00"
-    },
     "scraped-54944a1b48": {
       "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
       "slug": "russian-strikes-continue-following-visit-by-witkoff-and-kushner-to-kyiv",
@@ -859,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102215827471257",
       "fb_comment_id": "122102215827471257_2172049533660558",
       "posted_at": "2026-09-11T01:24:24.833094+00:00"
+    },
+    "scraped-4658845214": {
+      "title": "Direct lending activity improves from Q2 lows, but still lags Q1 – PC Monitor",
+      "slug": "direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
+      "url": "https://ushotnews.online/article/direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
+      "article_url": "https://ushotnews.online/article/direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102350557471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102350557471257",
+      "fb_comment_id": "122102350557471257_1886211425688823",
+      "posted_at": "2026-09-11T06:25:27.605166+00:00"
+    },
+    "direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor": {
+      "title": "Direct lending activity improves from Q2 lows, but still lags Q1 – PC Monitor",
+      "slug": "direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
+      "url": "https://ushotnews.online/article/direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
+      "article_url": "https://ushotnews.online/article/direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102350557471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102350557471257",
+      "fb_comment_id": "122102350557471257_1886211425688823",
+      "posted_at": "2026-09-11T06:25:27.605166+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T01:24:15.276879+00:00"
+  "last_cleaned_at": "2026-09-11T06:25:12.063334+00:00"
 }
