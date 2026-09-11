@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-09-11T20:16:59.724645+00:00",
+  "last_updated": "2026-09-11T23:44:50.519328+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1022156": {
-      "title": "Light Day (Morning PT)",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111959577/DOD_111959577.mp4",
-      "attached_website_url": "https://ushotnews.online/article/tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1392025963036523",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1392025963036523",
-      "fb_comment_id": "1392025963036523_2192480044664789",
-      "posted_at": "2026-09-08T22:14:20.059405+00:00"
-    },
     "dvids-video:1022169": {
       "title": "Freedom Edge 26 Open ceremony broll",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111959814/DOD_111959814.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/924992583564761",
       "fb_comment_id": "924992583564761_2794972950903418",
       "posted_at": "2026-09-11T20:16:59.724578+00:00"
+    },
+    "dvids-video:1022774": {
+      "title": "Chilean Soldiers Participate in Southern Vanguard 26",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111970008/DOD_111970008.mp4",
+      "attached_website_url": "https://ushotnews.online/article/at-911-ceremony-giuliani-and-mamdani-shake-hands",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1087525913857667",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1087525913857667",
+      "fb_comment_id": "1087525913857667_1586103703003763",
+      "posted_at": "2026-09-11T23:44:50.519248+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T20:15:20.863688+00:00"
+  "last_cleaned_at": "2026-09-11T23:43:28.784610+00:00"
 }
