@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T12:10:33.260238+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-09-11T15:56:24.256901+00:00",
+  "posted_count": 80,
   "articles": {
     "scraped-7cd54c6506": {
       "title": "Google’s Atlas of the human genome could pave the way for new treatments",
@@ -859,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102578251471257",
       "fb_comment_id": "122102578251471257_1801029534358113",
       "posted_at": "2026-09-11T12:10:33.260177+00:00"
+    },
+    "scraped-875b76e644": {
+      "title": "Patriots star AJ Brown has high ankle sprain as team suffers big blow after brutal Seahawks loss: reports",
+      "slug": "patriots-star-aj-brown-has-high-ankle-sprain-as-team-suffers-big-blow-after-brutal-seahawk",
+      "url": "https://ushotnews.online/article/patriots-star-aj-brown-has-high-ankle-sprain-as-team-suffers-big-blow-after-brutal-seahawk",
+      "article_url": "https://ushotnews.online/article/patriots-star-aj-brown-has-high-ankle-sprain-as-team-suffers-big-blow-after-brutal-seahawk",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102732307471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102732307471257",
+      "fb_comment_id": "122102732307471257_946638111267041",
+      "posted_at": "2026-09-11T15:56:24.256841+00:00"
+    },
+    "patriots-star-aj-brown-has-high-ankle-sprain-as-team-suffers-big-blow-after-brutal-seahawk": {
+      "title": "Patriots star AJ Brown has high ankle sprain as team suffers big blow after brutal Seahawks loss: reports",
+      "slug": "patriots-star-aj-brown-has-high-ankle-sprain-as-team-suffers-big-blow-after-brutal-seahawk",
+      "url": "https://ushotnews.online/article/patriots-star-aj-brown-has-high-ankle-sprain-as-team-suffers-big-blow-after-brutal-seahawk",
+      "article_url": "https://ushotnews.online/article/patriots-star-aj-brown-has-high-ankle-sprain-as-team-suffers-big-blow-after-brutal-seahawk",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102732307471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102732307471257",
+      "fb_comment_id": "122102732307471257_946638111267041",
+      "posted_at": "2026-09-11T15:56:24.256841+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T12:10:17.659107+00:00"
+  "last_cleaned_at": "2026-09-11T15:56:12.437158+00:00"
 }
