@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-11T21:40:40.173608+00:00",
+  "last_updated": "2026-09-11T22:28:35.507100+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-31dba0f413": {
-      "title": "Global Growth Fund is Re-Evaluating Flutter Entertainment’s (FLUT) Strategic Fit",
-      "slug": "global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
-      "url": "https://ushotnews.online/article/global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
-      "article_url": "https://ushotnews.online/article/global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100568557471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100568557471257",
-      "fb_comment_id": "122100568557471257_2024382198081718",
-      "posted_at": "2026-09-08T21:59:35.903718+00:00"
-    },
-    "global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit": {
-      "title": "Global Growth Fund is Re-Evaluating Flutter Entertainment’s (FLUT) Strategic Fit",
-      "slug": "global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
-      "url": "https://ushotnews.online/article/global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
-      "article_url": "https://ushotnews.online/article/global-growth-fund-is-re-evaluating-flutter-entertainments-flut-strategic-fit",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100568557471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100568557471257",
-      "fb_comment_id": "122100568557471257_2024382198081718",
-      "posted_at": "2026-09-08T21:59:35.903718+00:00"
-    },
     "scraped-b39d566260": {
       "title": "Tetra Tech (TTEK): Navigating Growth Amid Infrastructure Investment Uncertainty",
       "slug": "tetra-tech-ttek-navigating-growth-amid-infrastructure-investment-uncertainty",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102939295471257",
       "fb_comment_id": "122102939295471257_1656406742732824",
       "posted_at": "2026-09-11T21:40:40.173552+00:00"
+    },
+    "scraped-f72a5b99ac": {
+      "title": "How Is Nucor’s Stock Performance Compared to Other Steel Stocks",
+      "slug": "how-is-nucors-stock-performance-compared-to-other-steel-stocks",
+      "url": "https://ushotnews.online/article/how-is-nucors-stock-performance-compared-to-other-steel-stocks",
+      "article_url": "https://ushotnews.online/article/how-is-nucors-stock-performance-compared-to-other-steel-stocks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102963517471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102963517471257",
+      "fb_comment_id": "122102963517471257_2585382458591604",
+      "posted_at": "2026-09-11T22:28:35.507030+00:00"
+    },
+    "how-is-nucors-stock-performance-compared-to-other-steel-stocks": {
+      "title": "How Is Nucor’s Stock Performance Compared to Other Steel Stocks",
+      "slug": "how-is-nucors-stock-performance-compared-to-other-steel-stocks",
+      "url": "https://ushotnews.online/article/how-is-nucors-stock-performance-compared-to-other-steel-stocks",
+      "article_url": "https://ushotnews.online/article/how-is-nucors-stock-performance-compared-to-other-steel-stocks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122102963517471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102963517471257",
+      "fb_comment_id": "122102963517471257_2585382458591604",
+      "posted_at": "2026-09-11T22:28:35.507030+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T21:40:26.597523+00:00"
+  "last_cleaned_at": "2026-09-11T22:28:22.945313+00:00"
 }
