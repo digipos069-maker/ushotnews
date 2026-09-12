@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-12T17:02:45.019358+00:00",
+  "last_updated": "2026-09-12T18:07:41.409239+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-42bec9153a": {
-      "title": "WNBA legend Breanna Stewart opens up on representing America at FIBA Women's World Cup",
-      "slug": "wnba-legend-breanna-stewart-opens-up-on-representing-america-at-fiba-womens-world-cup",
-      "url": "https://ushotnews.online/article/wnba-legend-breanna-stewart-opens-up-on-representing-america-at-fiba-womens-world-cup",
-      "article_url": "https://ushotnews.online/article/wnba-legend-breanna-stewart-opens-up-on-representing-america-at-fiba-womens-world-cup",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101242357471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101242357471257",
-      "fb_comment_id": "122101242357471257_942969058863869",
-      "posted_at": "2026-09-09T17:54:56.632195+00:00"
-    },
-    "wnba-legend-breanna-stewart-opens-up-on-representing-america-at-fiba-womens-world-cup": {
-      "title": "WNBA legend Breanna Stewart opens up on representing America at FIBA Women's World Cup",
-      "slug": "wnba-legend-breanna-stewart-opens-up-on-representing-america-at-fiba-womens-world-cup",
-      "url": "https://ushotnews.online/article/wnba-legend-breanna-stewart-opens-up-on-representing-america-at-fiba-womens-world-cup",
-      "article_url": "https://ushotnews.online/article/wnba-legend-breanna-stewart-opens-up-on-representing-america-at-fiba-womens-world-cup",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101242357471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101242357471257",
-      "fb_comment_id": "122101242357471257_942969058863869",
-      "posted_at": "2026-09-09T17:54:56.632195+00:00"
-    },
     "scraped-b5e3d91ed8": {
       "title": "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
       "slug": "sofi-dips-3-despite-reported-kraken-crypto-settlement-tie-up-affirm-drops-5-robinhood-hold",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103567351471257",
       "fb_comment_id": "122103567351471257_1062340076690167",
       "posted_at": "2026-09-12T17:02:45.019296+00:00"
+    },
+    "scraped-efb3c996d0": {
+      "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
+      "slug": "novo-nordisk-nvos-pediatric-obesity-opportunity-faces-a-bigger-test",
+      "url": "https://ushotnews.online/article/novo-nordisk-nvos-pediatric-obesity-opportunity-faces-a-bigger-test",
+      "article_url": "https://ushotnews.online/article/novo-nordisk-nvos-pediatric-obesity-opportunity-faces-a-bigger-test",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103599427471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103599427471257",
+      "fb_comment_id": "122103599427471257_1016673378044711",
+      "posted_at": "2026-09-12T18:07:41.409138+00:00"
+    },
+    "novo-nordisk-nvos-pediatric-obesity-opportunity-faces-a-bigger-test": {
+      "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
+      "slug": "novo-nordisk-nvos-pediatric-obesity-opportunity-faces-a-bigger-test",
+      "url": "https://ushotnews.online/article/novo-nordisk-nvos-pediatric-obesity-opportunity-faces-a-bigger-test",
+      "article_url": "https://ushotnews.online/article/novo-nordisk-nvos-pediatric-obesity-opportunity-faces-a-bigger-test",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103599427471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103599427471257",
+      "fb_comment_id": "122103599427471257_1016673378044711",
+      "posted_at": "2026-09-12T18:07:41.409138+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T17:02:33.647605+00:00"
+  "last_cleaned_at": "2026-09-12T18:07:29.237524+00:00"
 }
