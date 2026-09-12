@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T20:48:12.680345+00:00",
-  "posted_count": 82,
+  "last_updated": "2026-09-12T22:16:05.217178+00:00",
+  "posted_count": 84,
   "articles": {
     "scraped-d27e4406ef": {
       "title": "Here’s how the new iPhone 18 Pro stacks up to the last-gen models",
@@ -903,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103705177471257",
       "fb_comment_id": "122103705177471257_1448107907161860",
       "posted_at": "2026-09-12T20:48:12.680285+00:00"
+    },
+    "scraped-be84f5d8a9": {
+      "title": "Henry Winkler's wife says the actor tends to exaggerate about the size of his ... fish",
+      "slug": "henry-winklers-wife-says-the-actor-tends-to-exaggerate-about-the-size-of-his-fish",
+      "url": "https://ushotnews.online/article/henry-winklers-wife-says-the-actor-tends-to-exaggerate-about-the-size-of-his-fish",
+      "article_url": "https://ushotnews.online/article/henry-winklers-wife-says-the-actor-tends-to-exaggerate-about-the-size-of-his-fish",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103751647471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103751647471257",
+      "fb_comment_id": "122103751647471257_1382609770732590",
+      "posted_at": "2026-09-12T22:16:05.217108+00:00"
+    },
+    "henry-winklers-wife-says-the-actor-tends-to-exaggerate-about-the-size-of-his-fish": {
+      "title": "Henry Winkler's wife says the actor tends to exaggerate about the size of his ... fish",
+      "slug": "henry-winklers-wife-says-the-actor-tends-to-exaggerate-about-the-size-of-his-fish",
+      "url": "https://ushotnews.online/article/henry-winklers-wife-says-the-actor-tends-to-exaggerate-about-the-size-of-his-fish",
+      "article_url": "https://ushotnews.online/article/henry-winklers-wife-says-the-actor-tends-to-exaggerate-about-the-size-of-his-fish",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103751647471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103751647471257",
+      "fb_comment_id": "122103751647471257_1382609770732590",
+      "posted_at": "2026-09-12T22:16:05.217108+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T20:47:59.321010+00:00"
+  "last_cleaned_at": "2026-09-12T22:15:54.639946+00:00"
 }
