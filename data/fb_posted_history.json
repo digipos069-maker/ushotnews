@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T18:07:41.409239+00:00",
-  "posted_count": 82,
+  "last_updated": "2026-09-12T19:37:03.160614+00:00",
+  "posted_count": 84,
   "articles": {
     "scraped-b5e3d91ed8": {
       "title": "SoFi Dips 3% Despite Reported Kraken Crypto Settlement Tie-Up; Affirm Drops 5%, Robinhood Holds Steady",
@@ -903,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103599427471257",
       "fb_comment_id": "122103599427471257_1016673378044711",
       "posted_at": "2026-09-12T18:07:41.409138+00:00"
+    },
+    "scraped-bd9dfc231a": {
+      "title": "Iowa supervisor slams ban on guaranteed income programs as state ‘waging ideological wars’",
+      "slug": "iowa-supervisor-slams-ban-on-guaranteed-income-programs-as-state-waging-ideological-wars",
+      "url": "https://ushotnews.online/article/iowa-supervisor-slams-ban-on-guaranteed-income-programs-as-state-waging-ideological-wars",
+      "article_url": "https://ushotnews.online/article/iowa-supervisor-slams-ban-on-guaranteed-income-programs-as-state-waging-ideological-wars",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103661479471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103661479471257",
+      "fb_comment_id": "122103661479471257_2133989337520592",
+      "posted_at": "2026-09-12T19:37:03.160542+00:00"
+    },
+    "iowa-supervisor-slams-ban-on-guaranteed-income-programs-as-state-waging-ideological-wars": {
+      "title": "Iowa supervisor slams ban on guaranteed income programs as state ‘waging ideological wars’",
+      "slug": "iowa-supervisor-slams-ban-on-guaranteed-income-programs-as-state-waging-ideological-wars",
+      "url": "https://ushotnews.online/article/iowa-supervisor-slams-ban-on-guaranteed-income-programs-as-state-waging-ideological-wars",
+      "article_url": "https://ushotnews.online/article/iowa-supervisor-slams-ban-on-guaranteed-income-programs-as-state-waging-ideological-wars",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103661479471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103661479471257",
+      "fb_comment_id": "122103661479471257_2133989337520592",
+      "posted_at": "2026-09-12T19:37:03.160542+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T18:07:29.237524+00:00"
+  "last_cleaned_at": "2026-09-12T19:36:54.392890+00:00"
 }
