@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-11T23:53:27.287228+00:00",
+  "last_updated": "2026-09-12T00:34:41.333853+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-0115a7190b": {
-      "title": "Jennifer Lopez stuns in patterned swimsuit while soaking up final days of summer",
-      "slug": "jennifer-lopez-stuns-in-patterned-swimsuit-while-soaking-up-final-days-of-summer",
-      "url": "https://ushotnews.online/article/jennifer-lopez-stuns-in-patterned-swimsuit-while-soaking-up-final-days-of-summer",
-      "article_url": "https://ushotnews.online/article/jennifer-lopez-stuns-in-patterned-swimsuit-while-soaking-up-final-days-of-summer",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100614319471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100614319471257",
-      "fb_comment_id": "122100614319471257_1870665150584512",
-      "posted_at": "2026-09-09T00:02:18.863303+00:00"
-    },
-    "jennifer-lopez-stuns-in-patterned-swimsuit-while-soaking-up-final-days-of-summer": {
-      "title": "Jennifer Lopez stuns in patterned swimsuit while soaking up final days of summer",
-      "slug": "jennifer-lopez-stuns-in-patterned-swimsuit-while-soaking-up-final-days-of-summer",
-      "url": "https://ushotnews.online/article/jennifer-lopez-stuns-in-patterned-swimsuit-while-soaking-up-final-days-of-summer",
-      "article_url": "https://ushotnews.online/article/jennifer-lopez-stuns-in-patterned-swimsuit-while-soaking-up-final-days-of-summer",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100614319471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100614319471257",
-      "fb_comment_id": "122100614319471257_1870665150584512",
-      "posted_at": "2026-09-09T00:02:18.863303+00:00"
-    },
     "scraped-79eea7d859": {
       "title": "PNC Financial Services Stock: Is PNC Underperforming the Financials Sector?",
       "slug": "pnc-financial-services-stock-is-pnc-underperforming-the-financials-sector",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102994303471257",
       "fb_comment_id": "122102994303471257_1732277918063317",
       "posted_at": "2026-09-11T23:53:27.287156+00:00"
+    },
+    "scraped-bec47aa2aa": {
+      "title": "Tether Expands Into Private Credit",
+      "slug": "tether-expands-into-private-credit",
+      "url": "https://ushotnews.online/article/tether-expands-into-private-credit",
+      "article_url": "https://ushotnews.online/article/tether-expands-into-private-credit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103010521471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103010521471257",
+      "fb_comment_id": "122103010521471257_988283007005528",
+      "posted_at": "2026-09-12T00:34:41.333791+00:00"
+    },
+    "tether-expands-into-private-credit": {
+      "title": "Tether Expands Into Private Credit",
+      "slug": "tether-expands-into-private-credit",
+      "url": "https://ushotnews.online/article/tether-expands-into-private-credit",
+      "article_url": "https://ushotnews.online/article/tether-expands-into-private-credit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103010521471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103010521471257",
+      "fb_comment_id": "122103010521471257_988283007005528",
+      "posted_at": "2026-09-12T00:34:41.333791+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T23:53:14.748664+00:00"
+  "last_cleaned_at": "2026-09-12T00:34:29.591753+00:00"
 }
