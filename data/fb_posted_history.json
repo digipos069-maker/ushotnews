@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-12T03:17:50.476348+00:00",
+  "last_updated": "2026-09-12T05:38:22.912305+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-7119fe1646": {
-      "title": "Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes",
-      "slug": "hit-tv-show-south-park-becomes-south-america-in-apparent-reference-to-trumps-geographic-na",
-      "url": "https://ushotnews.online/article/hit-tv-show-south-park-becomes-south-america-in-apparent-reference-to-trumps-geographic-na",
-      "article_url": "https://ushotnews.online/article/hit-tv-show-south-park-becomes-south-america-in-apparent-reference-to-trumps-geographic-na",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100744741471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100744741471257",
-      "fb_comment_id": "122100744741471257_1112510217869541",
-      "posted_at": "2026-09-09T04:59:57.148614+00:00"
-    },
-    "hit-tv-show-south-park-becomes-south-america-in-apparent-reference-to-trumps-geographic-na": {
-      "title": "Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes",
-      "slug": "hit-tv-show-south-park-becomes-south-america-in-apparent-reference-to-trumps-geographic-na",
-      "url": "https://ushotnews.online/article/hit-tv-show-south-park-becomes-south-america-in-apparent-reference-to-trumps-geographic-na",
-      "article_url": "https://ushotnews.online/article/hit-tv-show-south-park-becomes-south-america-in-apparent-reference-to-trumps-geographic-na",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100744741471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100744741471257",
-      "fb_comment_id": "122100744741471257_1112510217869541",
-      "posted_at": "2026-09-09T04:59:57.148614+00:00"
-    },
     "scraped-e2ec617319": {
       "title": "LIV Golf files for bankruptcy after Saudi fund pulls support, leaving players owed millions in unpaid money",
       "slug": "liv-golf-files-for-bankruptcy-after-saudi-fund-pulls-support-leaving-players-owed-millions",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103076053471257",
       "fb_comment_id": "122103076053471257_3543296285850642",
       "posted_at": "2026-09-12T03:17:50.476269+00:00"
+    },
+    "scraped-ad6a9734fe": {
+      "title": "ETF League Tables: $43M Exits Simplify ETFs",
+      "slug": "etf-league-tables-43m-exits-simplify-etfs",
+      "url": "https://ushotnews.online/article/etf-league-tables-43m-exits-simplify-etfs",
+      "article_url": "https://ushotnews.online/article/etf-league-tables-43m-exits-simplify-etfs",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103154989471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103154989471257",
+      "fb_comment_id": "122103154989471257_4384276781717931",
+      "posted_at": "2026-09-12T05:38:22.912249+00:00"
+    },
+    "etf-league-tables-43m-exits-simplify-etfs": {
+      "title": "ETF League Tables: $43M Exits Simplify ETFs",
+      "slug": "etf-league-tables-43m-exits-simplify-etfs",
+      "url": "https://ushotnews.online/article/etf-league-tables-43m-exits-simplify-etfs",
+      "article_url": "https://ushotnews.online/article/etf-league-tables-43m-exits-simplify-etfs",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103154989471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103154989471257",
+      "fb_comment_id": "122103154989471257_4384276781717931",
+      "posted_at": "2026-09-12T05:38:22.912249+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T03:17:38.008492+00:00"
+  "last_cleaned_at": "2026-09-12T05:38:12.013576+00:00"
 }
