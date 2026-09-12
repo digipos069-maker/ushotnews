@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-12T14:00:43.373569+00:00",
+  "last_updated": "2026-09-12T15:44:04.272536+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-088dd64636": {
-      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-      "slug": "amazon-prime-videos-new-ai-tech-matches-lips-to-dubbed-audio",
-      "url": "https://ushotnews.online/article/amazon-prime-videos-new-ai-tech-matches-lips-to-dubbed-audio",
-      "article_url": "https://ushotnews.online/article/amazon-prime-videos-new-ai-tech-matches-lips-to-dubbed-audio",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101093965471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101093965471257",
-      "fb_comment_id": "122101093965471257_1982980619031173",
-      "posted_at": "2026-09-09T14:11:27.106374+00:00"
-    },
-    "amazon-prime-videos-new-ai-tech-matches-lips-to-dubbed-audio": {
-      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-      "slug": "amazon-prime-videos-new-ai-tech-matches-lips-to-dubbed-audio",
-      "url": "https://ushotnews.online/article/amazon-prime-videos-new-ai-tech-matches-lips-to-dubbed-audio",
-      "article_url": "https://ushotnews.online/article/amazon-prime-videos-new-ai-tech-matches-lips-to-dubbed-audio",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101093965471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101093965471257",
-      "fb_comment_id": "122101093965471257_1982980619031173",
-      "posted_at": "2026-09-09T14:11:27.106374+00:00"
-    },
     "scraped-2c4c592904": {
       "title": "Good luck replacing NFL sideline reporter Melanie Collins with an AI bot, 'Take a Michigan' & Jed York jokes",
       "slug": "good-luck-replacing-nfl-sideline-reporter-melanie-collins-with-an-ai-bot-take-a-michigan-j",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103456135471257",
       "fb_comment_id": "122103456135471257_39328953506691844",
       "posted_at": "2026-09-12T14:00:43.373489+00:00"
+    },
+    "scraped-fc3fbf4beb": {
+      "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
+      "slug": "wileys-wly-ai-bet-is-starting-to-pay-off",
+      "url": "https://ushotnews.online/article/wileys-wly-ai-bet-is-starting-to-pay-off",
+      "article_url": "https://ushotnews.online/article/wileys-wly-ai-bet-is-starting-to-pay-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103519183471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103519183471257",
+      "fb_comment_id": "122103519183471257_1423757403150942",
+      "posted_at": "2026-09-12T15:44:04.272465+00:00"
+    },
+    "wileys-wly-ai-bet-is-starting-to-pay-off": {
+      "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
+      "slug": "wileys-wly-ai-bet-is-starting-to-pay-off",
+      "url": "https://ushotnews.online/article/wileys-wly-ai-bet-is-starting-to-pay-off",
+      "article_url": "https://ushotnews.online/article/wileys-wly-ai-bet-is-starting-to-pay-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103519183471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103519183471257",
+      "fb_comment_id": "122103519183471257_1423757403150942",
+      "posted_at": "2026-09-12T15:44:04.272465+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T14:00:25.691149+00:00"
+  "last_cleaned_at": "2026-09-12T15:43:52.962141+00:00"
 }
