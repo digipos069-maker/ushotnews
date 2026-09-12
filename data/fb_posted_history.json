@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-12T05:38:22.912305+00:00",
+  "last_updated": "2026-09-12T08:04:37.837734+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-e2ec617319": {
-      "title": "LIV Golf files for bankruptcy after Saudi fund pulls support, leaving players owed millions in unpaid money",
-      "slug": "liv-golf-files-for-bankruptcy-after-saudi-fund-pulls-support-leaving-players-owed-millions",
-      "url": "https://ushotnews.online/article/liv-golf-files-for-bankruptcy-after-saudi-fund-pulls-support-leaving-players-owed-millions",
-      "article_url": "https://ushotnews.online/article/liv-golf-files-for-bankruptcy-after-saudi-fund-pulls-support-leaving-players-owed-millions",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100791673471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100791673471257",
-      "fb_comment_id": "122100791673471257_1356139799588877",
-      "posted_at": "2026-09-09T06:36:17.479793+00:00"
-    },
-    "liv-golf-files-for-bankruptcy-after-saudi-fund-pulls-support-leaving-players-owed-millions": {
-      "title": "LIV Golf files for bankruptcy after Saudi fund pulls support, leaving players owed millions in unpaid money",
-      "slug": "liv-golf-files-for-bankruptcy-after-saudi-fund-pulls-support-leaving-players-owed-millions",
-      "url": "https://ushotnews.online/article/liv-golf-files-for-bankruptcy-after-saudi-fund-pulls-support-leaving-players-owed-millions",
-      "article_url": "https://ushotnews.online/article/liv-golf-files-for-bankruptcy-after-saudi-fund-pulls-support-leaving-players-owed-millions",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100791673471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100791673471257",
-      "fb_comment_id": "122100791673471257_1356139799588877",
-      "posted_at": "2026-09-09T06:36:17.479793+00:00"
-    },
     "scraped-248732ad18": {
       "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island",
       "slug": "traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103154989471257",
       "fb_comment_id": "122103154989471257_4384276781717931",
       "posted_at": "2026-09-12T05:38:22.912249+00:00"
+    },
+    "scraped-f2ad5a8d6a": {
+      "title": "US Home Sales Hit 14-Month Low as Borrowing Costs Bite",
+      "slug": "us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
+      "url": "https://ushotnews.online/article/us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
+      "article_url": "https://ushotnews.online/article/us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103241323471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103241323471257",
+      "fb_comment_id": "122103241323471257_916891627769592",
+      "posted_at": "2026-09-12T08:04:37.837671+00:00"
+    },
+    "us-home-sales-hit-14-month-low-as-borrowing-costs-bite": {
+      "title": "US Home Sales Hit 14-Month Low as Borrowing Costs Bite",
+      "slug": "us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
+      "url": "https://ushotnews.online/article/us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
+      "article_url": "https://ushotnews.online/article/us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103241323471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103241323471257",
+      "fb_comment_id": "122103241323471257_916891627769592",
+      "posted_at": "2026-09-12T08:04:37.837671+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T05:38:12.013576+00:00"
+  "last_cleaned_at": "2026-09-12T08:04:22.152270+00:00"
 }
