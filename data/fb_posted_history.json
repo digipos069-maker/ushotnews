@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-12T10:36:56.777751+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-12T12:17:53.604349+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-6496f7050d": {
       "title": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103333273471257",
       "fb_comment_id": "122103333273471257_1107536508372037",
       "posted_at": "2026-09-12T10:36:56.777690+00:00"
+    },
+    "scraped-55c28bcade": {
+      "title": "HPE's $7.6 Billion AI Backlog Is Waiting on Memory Supply to Catch Up",
+      "slug": "hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
+      "url": "https://ushotnews.online/article/hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
+      "article_url": "https://ushotnews.online/article/hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103394761471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103394761471257",
+      "fb_comment_id": "122103394761471257_2228384631279672",
+      "posted_at": "2026-09-12T12:17:53.604284+00:00"
+    },
+    "hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up": {
+      "title": "HPE's $7.6 Billion AI Backlog Is Waiting on Memory Supply to Catch Up",
+      "slug": "hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
+      "url": "https://ushotnews.online/article/hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
+      "article_url": "https://ushotnews.online/article/hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103394761471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103394761471257",
+      "fb_comment_id": "122103394761471257_2228384631279672",
+      "posted_at": "2026-09-12T12:17:53.604284+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T10:36:43.050873+00:00"
+  "last_cleaned_at": "2026-09-12T12:17:37.587830+00:00"
 }
