@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-12T15:44:04.272536+00:00",
+  "last_updated": "2026-09-12T17:02:45.019358+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-2c4c592904": {
-      "title": "Good luck replacing NFL sideline reporter Melanie Collins with an AI bot, 'Take a Michigan' & Jed York jokes",
-      "slug": "good-luck-replacing-nfl-sideline-reporter-melanie-collins-with-an-ai-bot-take-a-michigan-j",
-      "url": "https://ushotnews.online/article/good-luck-replacing-nfl-sideline-reporter-melanie-collins-with-an-ai-bot-take-a-michigan-j",
-      "article_url": "https://ushotnews.online/article/good-luck-replacing-nfl-sideline-reporter-melanie-collins-with-an-ai-bot-take-a-michigan-j",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101198521471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101198521471257",
-      "fb_comment_id": "122101198521471257_1095271676777370",
-      "posted_at": "2026-09-09T16:51:43.310832+00:00"
-    },
-    "good-luck-replacing-nfl-sideline-reporter-melanie-collins-with-an-ai-bot-take-a-michigan-j": {
-      "title": "Good luck replacing NFL sideline reporter Melanie Collins with an AI bot, 'Take a Michigan' & Jed York jokes",
-      "slug": "good-luck-replacing-nfl-sideline-reporter-melanie-collins-with-an-ai-bot-take-a-michigan-j",
-      "url": "https://ushotnews.online/article/good-luck-replacing-nfl-sideline-reporter-melanie-collins-with-an-ai-bot-take-a-michigan-j",
-      "article_url": "https://ushotnews.online/article/good-luck-replacing-nfl-sideline-reporter-melanie-collins-with-an-ai-bot-take-a-michigan-j",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101198521471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101198521471257",
-      "fb_comment_id": "122101198521471257_1095271676777370",
-      "posted_at": "2026-09-09T16:51:43.310832+00:00"
-    },
     "scraped-42bec9153a": {
       "title": "WNBA legend Breanna Stewart opens up on representing America at FIBA Women's World Cup",
       "slug": "wnba-legend-breanna-stewart-opens-up-on-representing-america-at-fiba-womens-world-cup",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103519183471257",
       "fb_comment_id": "122103519183471257_1423757403150942",
       "posted_at": "2026-09-12T15:44:04.272465+00:00"
+    },
+    "scraped-b2acce18d2": {
+      "title": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
+      "slug": "nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
+      "url": "https://ushotnews.online/article/nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
+      "article_url": "https://ushotnews.online/article/nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103567351471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103567351471257",
+      "fb_comment_id": "122103567351471257_1062340076690167",
+      "posted_at": "2026-09-12T17:02:45.019296+00:00"
+    },
+    "nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond": {
+      "title": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
+      "slug": "nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
+      "url": "https://ushotnews.online/article/nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
+      "article_url": "https://ushotnews.online/article/nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103567351471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103567351471257",
+      "fb_comment_id": "122103567351471257_1062340076690167",
+      "posted_at": "2026-09-12T17:02:45.019296+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T15:43:52.962141+00:00"
+  "last_cleaned_at": "2026-09-12T17:02:33.647605+00:00"
 }
