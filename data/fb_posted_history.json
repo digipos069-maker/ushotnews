@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-12T00:34:41.333853+00:00",
+  "last_updated": "2026-09-12T03:17:50.476348+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-79eea7d859": {
-      "title": "PNC Financial Services Stock: Is PNC Underperforming the Financials Sector?",
-      "slug": "pnc-financial-services-stock-is-pnc-underperforming-the-financials-sector",
-      "url": "https://ushotnews.online/article/pnc-financial-services-stock-is-pnc-underperforming-the-financials-sector",
-      "article_url": "https://ushotnews.online/article/pnc-financial-services-stock-is-pnc-underperforming-the-financials-sector",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100644349471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100644349471257",
-      "fb_comment_id": "122100644349471257_1777102880088349",
-      "posted_at": "2026-09-09T01:11:57.065290+00:00"
-    },
-    "pnc-financial-services-stock-is-pnc-underperforming-the-financials-sector": {
-      "title": "PNC Financial Services Stock: Is PNC Underperforming the Financials Sector?",
-      "slug": "pnc-financial-services-stock-is-pnc-underperforming-the-financials-sector",
-      "url": "https://ushotnews.online/article/pnc-financial-services-stock-is-pnc-underperforming-the-financials-sector",
-      "article_url": "https://ushotnews.online/article/pnc-financial-services-stock-is-pnc-underperforming-the-financials-sector",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100644349471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100644349471257",
-      "fb_comment_id": "122100644349471257_1777102880088349",
-      "posted_at": "2026-09-09T01:11:57.065290+00:00"
-    },
     "scraped-7119fe1646": {
       "title": "Hit TV show 'South Park' becomes 'South America' in apparent reference to Trump's geographic name changes",
       "slug": "hit-tv-show-south-park-becomes-south-america-in-apparent-reference-to-trumps-geographic-na",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103010521471257",
       "fb_comment_id": "122103010521471257_988283007005528",
       "posted_at": "2026-09-12T00:34:41.333791+00:00"
+    },
+    "scraped-00477afe8a": {
+      "title": "WWE's Rey Mysterio reflects on Triplemania involvement, says he's unfazed going into match with 7-foot-3 giant",
+      "slug": "wwes-rey-mysterio-reflects-on-triplemania-involvement-says-hes-unfazed-going-into-match-wi",
+      "url": "https://ushotnews.online/article/wwes-rey-mysterio-reflects-on-triplemania-involvement-says-hes-unfazed-going-into-match-wi",
+      "article_url": "https://ushotnews.online/article/wwes-rey-mysterio-reflects-on-triplemania-involvement-says-hes-unfazed-going-into-match-wi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103076053471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103076053471257",
+      "fb_comment_id": "122103076053471257_3543296285850642",
+      "posted_at": "2026-09-12T03:17:50.476269+00:00"
+    },
+    "wwes-rey-mysterio-reflects-on-triplemania-involvement-says-hes-unfazed-going-into-match-wi": {
+      "title": "WWE's Rey Mysterio reflects on Triplemania involvement, says he's unfazed going into match with 7-foot-3 giant",
+      "slug": "wwes-rey-mysterio-reflects-on-triplemania-involvement-says-hes-unfazed-going-into-match-wi",
+      "url": "https://ushotnews.online/article/wwes-rey-mysterio-reflects-on-triplemania-involvement-says-hes-unfazed-going-into-match-wi",
+      "article_url": "https://ushotnews.online/article/wwes-rey-mysterio-reflects-on-triplemania-involvement-says-hes-unfazed-going-into-match-wi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103076053471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103076053471257",
+      "fb_comment_id": "122103076053471257_3543296285850642",
+      "posted_at": "2026-09-12T03:17:50.476269+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T00:34:29.591753+00:00"
+  "last_cleaned_at": "2026-09-12T03:17:38.008492+00:00"
 }
