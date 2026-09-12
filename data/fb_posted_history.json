@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-12T12:17:53.604349+00:00",
+  "last_updated": "2026-09-12T14:00:43.373569+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-6496f7050d": {
-      "title": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
-      "slug": "eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
-      "url": "https://ushotnews.online/article/eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
-      "article_url": "https://ushotnews.online/article/eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101015761471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101015761471257",
-      "fb_comment_id": "122101015761471257_1387859506213429",
-      "posted_at": "2026-09-09T12:17:44.745035+00:00"
-    },
-    "eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other": {
-      "title": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
-      "slug": "eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
-      "url": "https://ushotnews.online/article/eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
-      "article_url": "https://ushotnews.online/article/eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101015761471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101015761471257",
-      "fb_comment_id": "122101015761471257_1387859506213429",
-      "posted_at": "2026-09-09T12:17:44.745035+00:00"
-    },
     "scraped-088dd64636": {
       "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
       "slug": "amazon-prime-videos-new-ai-tech-matches-lips-to-dubbed-audio",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103394761471257",
       "fb_comment_id": "122103394761471257_2228384631279672",
       "posted_at": "2026-09-12T12:17:53.604284+00:00"
+    },
+    "scraped-3f9e2a93ed": {
+      "title": "Why are the people building the most powerful AI so worried about what it could do?",
+      "slug": "why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
+      "url": "https://ushotnews.online/article/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
+      "article_url": "https://ushotnews.online/article/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103456135471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103456135471257",
+      "fb_comment_id": "122103456135471257_39328953506691844",
+      "posted_at": "2026-09-12T14:00:43.373489+00:00"
+    },
+    "why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do": {
+      "title": "Why are the people building the most powerful AI so worried about what it could do?",
+      "slug": "why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
+      "url": "https://ushotnews.online/article/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
+      "article_url": "https://ushotnews.online/article/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103456135471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103456135471257",
+      "fb_comment_id": "122103456135471257_39328953506691844",
+      "posted_at": "2026-09-12T14:00:43.373489+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T12:17:37.587830+00:00"
+  "last_cleaned_at": "2026-09-12T14:00:25.691149+00:00"
 }
