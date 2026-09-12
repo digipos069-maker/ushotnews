@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-12T08:04:37.837734+00:00",
+  "last_updated": "2026-09-12T10:36:56.777751+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-248732ad18": {
-      "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island",
-      "slug": "traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
-      "url": "https://ushotnews.online/article/traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
-      "article_url": "https://ushotnews.online/article/traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100908259471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100908259471257",
-      "fb_comment_id": "122100908259471257_1604617047965380",
-      "posted_at": "2026-09-09T09:35:31.499105+00:00"
-    },
-    "traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan": {
-      "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island",
-      "slug": "traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
-      "url": "https://ushotnews.online/article/traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
-      "article_url": "https://ushotnews.online/article/traffic-drama-threatens-to-end-dem-governors-tenure-as-voters-head-to-polls-in-rhode-islan",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122100908259471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122100908259471257",
-      "fb_comment_id": "122100908259471257_1604617047965380",
-      "posted_at": "2026-09-09T09:35:31.499105+00:00"
-    },
     "scraped-6496f7050d": {
       "title": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
       "slug": "eli-lilly-vs-novo-nordisk-one-has-39-upside-im-picking-the-other",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103241323471257",
       "fb_comment_id": "122103241323471257_916891627769592",
       "posted_at": "2026-09-12T08:04:37.837671+00:00"
+    },
+    "scraped-fa7b448514": {
+      "title": "Crude Oil Prices Soar on Fears US-Iran War to Persist",
+      "slug": "crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
+      "url": "https://ushotnews.online/article/crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
+      "article_url": "https://ushotnews.online/article/crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103333273471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103333273471257",
+      "fb_comment_id": "122103333273471257_1107536508372037",
+      "posted_at": "2026-09-12T10:36:56.777690+00:00"
+    },
+    "crude-oil-prices-soar-on-fears-us-iran-war-to-persist": {
+      "title": "Crude Oil Prices Soar on Fears US-Iran War to Persist",
+      "slug": "crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
+      "url": "https://ushotnews.online/article/crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
+      "article_url": "https://ushotnews.online/article/crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103333273471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103333273471257",
+      "fb_comment_id": "122103333273471257_1107536508372037",
+      "posted_at": "2026-09-12T10:36:56.777690+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-12T08:04:22.152270+00:00"
+  "last_cleaned_at": "2026-09-12T10:36:43.050873+00:00"
 }
