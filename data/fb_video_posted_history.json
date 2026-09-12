@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T23:44:50.519328+00:00",
-  "posted_count": 9,
+  "last_updated": "2026-09-12T02:22:29.038640+00:00",
+  "posted_count": 10,
   "articles": {
     "dvids-video:1022169": {
       "title": "Freedom Edge 26 Open ceremony broll",
@@ -100,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1087525913857667",
       "fb_comment_id": "1087525913857667_1586103703003763",
       "posted_at": "2026-09-11T23:44:50.519248+00:00"
+    },
+    "dvids-video:1022772": {
+      "title": "Chilean Soldiers Participate in Southern Vanguard 26",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2609/DOD_111969878/DOD_111969878.mp4",
+      "attached_website_url": "https://ushotnews.online/article/172-year-old-bank-sees-400-upside-for-federal-bank-token",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "4450789228520614",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4450789228520614",
+      "fb_comment_id": "4450789228520614_1114501927673589",
+      "posted_at": "2026-09-12T02:22:29.038576+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-11T23:43:28.784610+00:00"
+  "last_cleaned_at": "2026-09-12T02:21:23.896854+00:00"
 }
