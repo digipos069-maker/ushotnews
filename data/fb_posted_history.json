@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-13T05:18:36.420878+00:00",
+  "last_updated": "2026-09-13T05:41:33.189168+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-aec234d11c": {
-      "title": "Accenture and Google Cloud launch Gemini Enterprise Business Group",
-      "slug": "accenture-and-google-cloud-launch-gemini-enterprise-business-group",
-      "url": "https://ushotnews.online/article/accenture-and-google-cloud-launch-gemini-enterprise-business-group",
-      "article_url": "https://ushotnews.online/article/accenture-and-google-cloud-launch-gemini-enterprise-business-group",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101572651471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101572651471257",
-      "fb_comment_id": "122101572651471257_2137452547124306",
-      "posted_at": "2026-09-10T05:38:43.992003+00:00"
-    },
-    "accenture-and-google-cloud-launch-gemini-enterprise-business-group": {
-      "title": "Accenture and Google Cloud launch Gemini Enterprise Business Group",
-      "slug": "accenture-and-google-cloud-launch-gemini-enterprise-business-group",
-      "url": "https://ushotnews.online/article/accenture-and-google-cloud-launch-gemini-enterprise-business-group",
-      "article_url": "https://ushotnews.online/article/accenture-and-google-cloud-launch-gemini-enterprise-business-group",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101572651471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101572651471257",
-      "fb_comment_id": "122101572651471257_2137452547124306",
-      "posted_at": "2026-09-10T05:38:43.992003+00:00"
-    },
     "scraped-8af2bad3bf": {
       "title": "Citi Just Upgraded UiPath Stock. Here's Why.",
       "slug": "citi-just-upgraded-uipath-stock-heres-why",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103970701471257",
       "fb_comment_id": "122103970701471257_1037440465950394",
       "posted_at": "2026-09-13T05:18:36.420816+00:00"
+    },
+    "scraped-56a01e1478": {
+      "title": "What the Numbers Tell About FedEx Freight (FDXF) Following Spin-Off",
+      "slug": "what-the-numbers-tell-about-fedex-freight-fdxf-following-spin-off",
+      "url": "https://ushotnews.online/article/what-the-numbers-tell-about-fedex-freight-fdxf-following-spin-off",
+      "article_url": "https://ushotnews.online/article/what-the-numbers-tell-about-fedex-freight-fdxf-following-spin-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103980811471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103980811471257",
+      "fb_comment_id": "122103980811471257_1609948507291564",
+      "posted_at": "2026-09-13T05:41:33.189116+00:00"
+    },
+    "what-the-numbers-tell-about-fedex-freight-fdxf-following-spin-off": {
+      "title": "What the Numbers Tell About FedEx Freight (FDXF) Following Spin-Off",
+      "slug": "what-the-numbers-tell-about-fedex-freight-fdxf-following-spin-off",
+      "url": "https://ushotnews.online/article/what-the-numbers-tell-about-fedex-freight-fdxf-following-spin-off",
+      "article_url": "https://ushotnews.online/article/what-the-numbers-tell-about-fedex-freight-fdxf-following-spin-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103980811471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103980811471257",
+      "fb_comment_id": "122103980811471257_1609948507291564",
+      "posted_at": "2026-09-13T05:41:33.189116+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T05:18:20.698004+00:00"
+  "last_cleaned_at": "2026-09-13T05:41:19.039551+00:00"
 }
