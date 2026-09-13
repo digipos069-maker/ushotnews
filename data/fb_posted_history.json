@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-13T21:01:41.876018+00:00",
+  "last_updated": "2026-09-13T21:05:47.938907+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-67af45b89a": {
-      "title": "Kamala Harris to campaign with Ossoff in Georgia",
-      "slug": "kamala-harris-to-campaign-with-ossoff-in-georgia",
-      "url": "https://ushotnews.online/article/kamala-harris-to-campaign-with-ossoff-in-georgia",
-      "article_url": "https://ushotnews.online/article/kamala-harris-to-campaign-with-ossoff-in-georgia",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102092137471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102092137471257",
-      "fb_comment_id": "122102092137471257_1381988714045895",
-      "posted_at": "2026-09-10T21:04:52.855107+00:00"
-    },
-    "kamala-harris-to-campaign-with-ossoff-in-georgia": {
-      "title": "Kamala Harris to campaign with Ossoff in Georgia",
-      "slug": "kamala-harris-to-campaign-with-ossoff-in-georgia",
-      "url": "https://ushotnews.online/article/kamala-harris-to-campaign-with-ossoff-in-georgia",
-      "article_url": "https://ushotnews.online/article/kamala-harris-to-campaign-with-ossoff-in-georgia",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102092137471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102092137471257",
-      "fb_comment_id": "122102092137471257_1381988714045895",
-      "posted_at": "2026-09-10T21:04:52.855107+00:00"
-    },
     "scraped-c9e6b77e53": {
       "title": "Family of 9/11 hero to retrace his steps in final Tunnel to Towers stop",
       "slug": "family-of-911-hero-to-retrace-his-steps-in-final-tunnel-to-towers-stop",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104583331471257",
       "fb_comment_id": "122104583331471257_1067131792773065",
       "posted_at": "2026-09-13T21:01:41.875959+00:00"
+    },
+    "scraped-641e634077": {
+      "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
+      "slug": "being-a-millionaire-isnt-enough-to-join-americas-top-10-heres-the-net-worth-it-actually-ta",
+      "url": "https://ushotnews.online/article/being-a-millionaire-isnt-enough-to-join-americas-top-10-heres-the-net-worth-it-actually-ta",
+      "article_url": "https://ushotnews.online/article/being-a-millionaire-isnt-enough-to-join-americas-top-10-heres-the-net-worth-it-actually-ta",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104584303471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104584303471257",
+      "fb_comment_id": "122104584303471257_4096250570675732",
+      "posted_at": "2026-09-13T21:05:47.938836+00:00"
+    },
+    "being-a-millionaire-isnt-enough-to-join-americas-top-10-heres-the-net-worth-it-actually-ta": {
+      "title": "Being a millionaire isn’t enough to join America’s top 10% — here’s the net worth it actually takes to be in the top",
+      "slug": "being-a-millionaire-isnt-enough-to-join-americas-top-10-heres-the-net-worth-it-actually-ta",
+      "url": "https://ushotnews.online/article/being-a-millionaire-isnt-enough-to-join-americas-top-10-heres-the-net-worth-it-actually-ta",
+      "article_url": "https://ushotnews.online/article/being-a-millionaire-isnt-enough-to-join-americas-top-10-heres-the-net-worth-it-actually-ta",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104584303471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104584303471257",
+      "fb_comment_id": "122104584303471257_4096250570675732",
+      "posted_at": "2026-09-13T21:05:47.938836+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T21:01:31.168057+00:00"
+  "last_cleaned_at": "2026-09-13T21:05:31.816467+00:00"
 }
