@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T14:54:20.882661+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-13T14:58:57.630601+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-b8fafb9df0": {
       "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104347447471257",
       "fb_comment_id": "122104347447471257_1060711006594099",
       "posted_at": "2026-09-13T14:54:20.882597+00:00"
+    },
+    "scraped-d720bd42c8": {
+      "title": "Paige Spiranac golfs and talks about hooking up in college, Ava Hunt on game day & a brawl in WVU's blue lot",
+      "slug": "paige-spiranac-golfs-and-talks-about-hooking-up-in-college-ava-hunt-on-game-day-a-brawl-in",
+      "url": "https://ushotnews.online/article/paige-spiranac-golfs-and-talks-about-hooking-up-in-college-ava-hunt-on-game-day-a-brawl-in",
+      "article_url": "https://ushotnews.online/article/paige-spiranac-golfs-and-talks-about-hooking-up-in-college-ava-hunt-on-game-day-a-brawl-in",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104357575471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104357575471257",
+      "fb_comment_id": "122104357575471257_1066047516135635",
+      "posted_at": "2026-09-13T14:58:57.630540+00:00"
+    },
+    "paige-spiranac-golfs-and-talks-about-hooking-up-in-college-ava-hunt-on-game-day-a-brawl-in": {
+      "title": "Paige Spiranac golfs and talks about hooking up in college, Ava Hunt on game day & a brawl in WVU's blue lot",
+      "slug": "paige-spiranac-golfs-and-talks-about-hooking-up-in-college-ava-hunt-on-game-day-a-brawl-in",
+      "url": "https://ushotnews.online/article/paige-spiranac-golfs-and-talks-about-hooking-up-in-college-ava-hunt-on-game-day-a-brawl-in",
+      "article_url": "https://ushotnews.online/article/paige-spiranac-golfs-and-talks-about-hooking-up-in-college-ava-hunt-on-game-day-a-brawl-in",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104357575471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104357575471257",
+      "fb_comment_id": "122104357575471257_1066047516135635",
+      "posted_at": "2026-09-13T14:58:57.630540+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T14:54:08.280997+00:00"
+  "last_cleaned_at": "2026-09-13T14:58:46.533540+00:00"
 }
