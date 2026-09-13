@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-13T00:13:14.451416+00:00",
+  "last_updated": "2026-09-13T00:38:11.359093+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-7d1e225533": {
-      "title": "Dear DraftKings Stock Fans, Mark Your Calendars for September 9",
-      "slug": "dear-draftkings-stock-fans-mark-your-calendars-for-september-9",
-      "url": "https://ushotnews.online/article/dear-draftkings-stock-fans-mark-your-calendars-for-september-9",
-      "article_url": "https://ushotnews.online/article/dear-draftkings-stock-fans-mark-your-calendars-for-september-9",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101425237471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101425237471257",
-      "fb_comment_id": "122101425237471257_1086652730513981",
-      "posted_at": "2026-09-10T00:32:01.076765+00:00"
-    },
-    "dear-draftkings-stock-fans-mark-your-calendars-for-september-9": {
-      "title": "Dear DraftKings Stock Fans, Mark Your Calendars for September 9",
-      "slug": "dear-draftkings-stock-fans-mark-your-calendars-for-september-9",
-      "url": "https://ushotnews.online/article/dear-draftkings-stock-fans-mark-your-calendars-for-september-9",
-      "article_url": "https://ushotnews.online/article/dear-draftkings-stock-fans-mark-your-calendars-for-september-9",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101425237471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101425237471257",
-      "fb_comment_id": "122101425237471257_1086652730513981",
-      "posted_at": "2026-09-10T00:32:01.076765+00:00"
-    },
     "scraped-5d50e97d53": {
       "title": "With PayPal Layoffs Brewing, How to Play PYPL Stock in September 2026",
       "slug": "with-paypal-layoffs-brewing-how-to-play-pypl-stock-in-september-2026",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103810447471257",
       "fb_comment_id": "122103810447471257_3563142460515251",
       "posted_at": "2026-09-13T00:13:14.451350+00:00"
+    },
+    "scraped-3aebe8c02c": {
+      "title": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
+      "slug": "here-is-why-piper-sandler-named-q2-holdings-qtwo-its-top-pick",
+      "url": "https://ushotnews.online/article/here-is-why-piper-sandler-named-q2-holdings-qtwo-its-top-pick",
+      "article_url": "https://ushotnews.online/article/here-is-why-piper-sandler-named-q2-holdings-qtwo-its-top-pick",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103817881471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103817881471257",
+      "fb_comment_id": "122103817881471257_929017163153965",
+      "posted_at": "2026-09-13T00:38:11.359046+00:00"
+    },
+    "here-is-why-piper-sandler-named-q2-holdings-qtwo-its-top-pick": {
+      "title": "Here is Why Piper Sandler Named Q2 Holdings (QTWO) Its Top Pick",
+      "slug": "here-is-why-piper-sandler-named-q2-holdings-qtwo-its-top-pick",
+      "url": "https://ushotnews.online/article/here-is-why-piper-sandler-named-q2-holdings-qtwo-its-top-pick",
+      "article_url": "https://ushotnews.online/article/here-is-why-piper-sandler-named-q2-holdings-qtwo-its-top-pick",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122103817881471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103817881471257",
+      "fb_comment_id": "122103817881471257_929017163153965",
+      "posted_at": "2026-09-13T00:38:11.359046+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T00:13:00.211702+00:00"
+  "last_cleaned_at": "2026-09-13T00:38:02.079964+00:00"
 }
