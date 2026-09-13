@@ -1,5 +1,449 @@
 [
   {
+    "id": "scraped-adf050cf3f",
+    "slug": "texas-republicans-denounce-gop-statewide-candidate-over-xenophobic-post",
+    "guid": "000001a0-9cba-d4fe-a9ae-bdfa62c60001",
+    "title": "Texas Republicans denounce GOP statewide candidate over xenophobic post",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Bo French, the GOP candidate for the state’s railroad commission, has repeatedly engaged in inflammatory rhetoric.",
+    "content": [
+      "Bo French, the GOP candidate for the state’s railroad commission, has repeatedly engaged in inflammatory rhetoric.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/4d/c4/c67ff19f496bb84b14de280d20da/u-s-congress-69225.jpg",
+    "imageCaption": "Texas Republicans denounce GOP statewide candidate over xeno... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T22:00:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b185631886",
+    "slug": "further-oil-price-spikes-could-rekindle-recession-fears",
+    "guid": "further-oil-price-spikes-could-210000970.html",
+    "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Further Oil Price Spikes Could Rekindle Recession Fears",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/oilprice.com/4d9980e47dfb6f7b3add2920b1327802.jpg",
+    "imageCaption": "Further Oil Price Spikes Could Rekindle Recession Fears... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T21:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9598b02869",
+    "slug": "from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
+    "guid": "https://www.npr.org/2026/09/13/nx-s1-5946724/from-fracking-to-data-centers-hearing-from-people-on-both-sides-of-the-opposition",
+    "title": "From fracking to data centers: Hearing from people on both sides of the opposition",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "NPR's Ayesha Rascoe speaks with environmentalist, Bill McKibben, and public relations specialist, Frank Maisano, about opposition to industrial development projects like fracking and data centers.",
+    "content": [
+      "NPR's Ayesha Rascoe speaks with environmentalist, Bill McKibben, and public relations specialist, Frank Maisano, about opposition to industrial development projects like fracking and data centers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "From fracking to data centers: Hearing from people on both s... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T12:04:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-67fe18c9df",
+    "slug": "trump-warns-against-slowing-down-ai-but-he-is-not-against-some-guardrails",
+    "guid": "https://www.npr.org/2026/09/13/nx-s1-5968078/trump-mike-johnson-ai-slowdown",
+    "title": "Trump warns against slowing down AI but he is not against some guardrails",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
+    "content": [
+      "President Trump said there were \"negative forces\" predicting things that he says won't happen.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump warns against slowing down AI but he is not against so... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T22:32:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a5be695a37",
+    "slug": "kyler-murray-knocked-out-of-vikings-debut-after-forearm-to-the-helmet-and-blow-to-neck-by-",
+    "guid": "https://www.foxnews.com/outkick-sports/kyler-murray-knocked-out-vikings-debut-forearm-helmet-blow-neck-packers",
+    "title": "Kyler Murray knocked out of Vikings debut after forearm to the helmet and blow to neck by two Packers",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kyler Murray left the Vikings&apos; home opener after a brutal hit from Lukas Van Ness and Javon Bullard sent triggered the NFL concussion protocol.",
+    "content": [
+      "Kyler Murray left the Vikings&apos; home opener after a brutal hit from Lukas Van Ness and Javon Bullard sent triggered the NFL concussion protocol.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kyler-murray-vikings-preseason-giants.jpg?ve=1&tl=1",
+    "imageCaption": "Kyler Murray knocked out of Vikings debut after forearm to t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T21:48:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a84028c165",
+    "slug": "trump-unloads-on-aoc-mamdani-for-laughing-during-sacred-911-ceremony-at-ground-zero",
+    "guid": "https://www.foxnews.com/politics/trump-unloads-aoc-mamdani-laughing-during-sacred-9-11-ceremony-ground-zero",
+    "title": "Trump unloads on AOC, Mamdani for laughing during sacred 9/11 ceremony at Ground Zero",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "President Donald Trump called the moment terrible after video showed AOC and Zohran Mamdani appearing to laugh during the Ground Zero ceremony.",
+    "content": [
+      "President Donald Trump called the moment terrible after video showed AOC and Zohran Mamdani appearing to laugh during the Ground Zero ceremony.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mamdani-aoc-laughing.jpg?ve=1&tl=1",
+    "imageCaption": "Trump unloads on AOC, Mamdani for laughing during sacred 9/1... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T21:54:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ab1b2077e7",
+    "slug": "josh-allen-torches-one-of-nfls-best-defenses-to-make-case-its-time-to-move-on-from-2025-pl",
+    "guid": "https://www.foxnews.com/outkick-sports/josh-allen-torches-one-nfl-best-defenses-make-case-time-move-2025-playoff-loss",
+    "title": "Josh Allen torches one of NFL's best defenses to make case it's time to move on from 2025 playoff loss",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Josh Allen passed for 334 yards, threw 2 TDs and ran for 2 others as the Buffalo Bills scored 36 points against an elite Houston Texans defense.",
+    "content": [
+      "Josh Allen passed for 334 yards, threw 2 TDs and ran for 2 others as the Buffalo Bills scored 36 points against an elite Houston Texans defense.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/josh-allen-passes-buffalo-bills-texans-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Josh Allen torches one of NFL's best defenses to make case i... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T22:15:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5761ca3644",
+    "slug": "jeremiyah-love-makes-immediate-statement-with-touchdown-on-first-career-drive-for-cardinal",
+    "guid": "https://www.foxnews.com/outkick-sports/jeremiyah-love-makes-immediate-statement-touchdown-first-career-drive-cardinals",
+    "title": "Jeremiyah Love makes immediate statement with touchdown on first career drive for Cardinals",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jeremiyah Love&apos;s NFL debut featured a statement touchdown as the Arizona Cardinals opened their season against the Los Angeles Chargers at SoFi Stadium.",
+    "content": [
+      "Jeremiyah Love&apos;s NFL debut featured a statement touchdown as the Arizona Cardinals opened their season against the Los Angeles Chargers at SoFi Stadium.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jeremiyah-love-arizona-cardinals-chargers_001.jpg?ve=1&tl=1",
+    "imageCaption": "Jeremiyah Love makes immediate statement with touchdown on f... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T22:19:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-082997b7d5",
+    "slug": "dolph-lundgren-and-wife-emma-krokdal-enjoy-date-night-at-arnold-schwarzeneggers-charity-ev",
+    "guid": "https://www.foxnews.com/entertainment/dolph-lundgren-wife-emma-krokdal-enjoy-date-night-arnold-schwarzenegger-charity-event",
+    "title": "Dolph Lundgren and wife Emma Krokdal enjoy date night at Arnold Schwarzenegger’s charity event",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Dolph Lundgren and wife Emma Krokdal stepped out for Arnold Schwarzenegger&apos;s charity fundraiser, where the Rocky IV star mixed cocktails for guests with his Hard Cut Vodka.",
+    "content": [
+      "Dolph Lundgren and wife Emma Krokdal stepped out for Arnold Schwarzenegger&apos;s charity fundraiser, where the Rocky IV star mixed cocktails for guests with his Hard Cut Vodka.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/emma-krokdal-dolph-lundgren.jpg?ve=1&tl=1",
+    "imageCaption": "Dolph Lundgren and wife Emma Krokdal enjoy date night at Arn... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T22:36:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ef4073dfd9",
+    "slug": "ben-shelton-loses-in-us-open-final-to-zverev-but-america-has-found-its-next-big-mens-tenni",
+    "guid": "https://www.foxnews.com/outkick-sports/ben-shelton-loses-us-open-final-zverev-america-found-next-big-mens-tennis-star",
+    "title": "Ben Shelton loses in US Open final to Zverev, but America has found its next big men's tennis star",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Alexander Zverev beat Ben Shelton 6-3, 7-6, 5-7, 6-2 to win the US Open, but the 23-year-old American&apos;s fight showed why fans can&apos;t wait to watch him.",
+    "content": [
+      "Alexander Zverev beat Ben Shelton 6-3, 7-6, 5-7, 6-2 to win the US Open, but the 23-year-old American&apos;s fight showed why fans can&apos;t wait to watch him.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ben-shelton-alexander-zverev-us-open-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Ben Shelton loses in US Open final to Zverev, but America ha... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T22:36:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-78d10534ed",
+    "slug": "houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
+    "guid": "https://www.foxnews.com/world/houthis-enter-us-kill-box-after-seizing-red-sea-cork-former-pentagon-official-warns",
+    "title": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Houthi rebels seized Perim Island in the Bab el-Mandeb Strait, but a former Pentagon official warns they&apos;ve entered a vulnerable U.S. Navy kill box.",
+    "content": [
+      "Houthi rebels seized Perim Island in the Bab el-Mandeb Strait, but a former Pentagon official warns they&apos;ve entered a vulnerable U.S. Navy kill box.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/houthis-perim-island.jpg?ve=1&tl=1",
+    "imageCaption": "Houthis enter US 'kill box' after seizing Red Sea 'cork,' fo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T22:52:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2391f18f7a",
+    "slug": "anthropic-ceo-likens-ai-fight-with-china-to-cold-war-seeks-disarmament-negotiations",
+    "guid": "https://www.foxnews.com/media/anthropic-ceo-likens-ai-fight-china-cold-war-seeks-disarmament-negotiations",
+    "title": "Anthropic CEO likens AI fight with China to Cold War, seeks 'disarmament negotiations'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Anthropic CEO Dario Amodei compared the AI race with China to Cold War nuclear tensions, urging arms limitation-style talks to slow growing technology.",
+    "content": [
+      "Anthropic CEO Dario Amodei compared the AI race with China to Cold War nuclear tensions, urging arms limitation-style talks to slow growing technology.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/dario-amodei-ai-fox-news.png?ve=1&tl=1",
+    "imageCaption": "Anthropic CEO likens AI fight with China to Cold War, seeks ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-13T23:12:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-fde4c3a6dd",
     "slug": "intel-intc-is-winning-from-the-cpu-shortage-but-its-foundry-valuation-needs-more-proof",
     "guid": "intel-intc-winning-cpu-shortage-191052125.html",
