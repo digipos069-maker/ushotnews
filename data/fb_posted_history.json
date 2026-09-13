@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-13T14:58:57.630601+00:00",
+  "last_updated": "2026-09-13T18:04:15.330138+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-b8fafb9df0": {
-      "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
-      "slug": "trump-promises-americans-5k-if-gop-wins-and-kirk-supporters-reflect-on-his-death",
-      "url": "https://ushotnews.online/article/trump-promises-americans-5k-if-gop-wins-and-kirk-supporters-reflect-on-his-death",
-      "article_url": "https://ushotnews.online/article/trump-promises-americans-5k-if-gop-wins-and-kirk-supporters-reflect-on-his-death",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101996467471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101996467471257",
-      "fb_comment_id": "122101996467471257_951200474042366",
-      "posted_at": "2026-09-10T17:49:43.091577+00:00"
-    },
-    "trump-promises-americans-5k-if-gop-wins-and-kirk-supporters-reflect-on-his-death": {
-      "title": "Trump promises Americans $5K if GOP wins. And, Kirk supporters reflect on his death",
-      "slug": "trump-promises-americans-5k-if-gop-wins-and-kirk-supporters-reflect-on-his-death",
-      "url": "https://ushotnews.online/article/trump-promises-americans-5k-if-gop-wins-and-kirk-supporters-reflect-on-his-death",
-      "article_url": "https://ushotnews.online/article/trump-promises-americans-5k-if-gop-wins-and-kirk-supporters-reflect-on-his-death",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101996467471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101996467471257",
-      "fb_comment_id": "122101996467471257_951200474042366",
-      "posted_at": "2026-09-10T17:49:43.091577+00:00"
-    },
     "scraped-38ccfe0a23": {
       "title": "Google to invest $15 billion AI infrastructure in Finland",
       "slug": "google-to-invest-15-billion-ai-infrastructure-in-finland",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104357575471257",
       "fb_comment_id": "122104357575471257_1066047516135635",
       "posted_at": "2026-09-13T14:58:57.630540+00:00"
+    },
+    "scraped-82cc75950d": {
+      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+      "slug": "washington-scrambles-to-meet-calls-for-ai-guardrails-while-the-window-to-act-closes",
+      "url": "https://ushotnews.online/article/washington-scrambles-to-meet-calls-for-ai-guardrails-while-the-window-to-act-closes",
+      "article_url": "https://ushotnews.online/article/washington-scrambles-to-meet-calls-for-ai-guardrails-while-the-window-to-act-closes",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104468773471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104468773471257",
+      "fb_comment_id": "122104468773471257_1819664082809816",
+      "posted_at": "2026-09-13T18:04:15.330052+00:00"
+    },
+    "washington-scrambles-to-meet-calls-for-ai-guardrails-while-the-window-to-act-closes": {
+      "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
+      "slug": "washington-scrambles-to-meet-calls-for-ai-guardrails-while-the-window-to-act-closes",
+      "url": "https://ushotnews.online/article/washington-scrambles-to-meet-calls-for-ai-guardrails-while-the-window-to-act-closes",
+      "article_url": "https://ushotnews.online/article/washington-scrambles-to-meet-calls-for-ai-guardrails-while-the-window-to-act-closes",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104468773471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104468773471257",
+      "fb_comment_id": "122104468773471257_1819664082809816",
+      "posted_at": "2026-09-13T18:04:15.330052+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T14:58:46.533540+00:00"
+  "last_cleaned_at": "2026-09-13T18:04:03.817296+00:00"
 }
