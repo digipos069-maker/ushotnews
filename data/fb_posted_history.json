@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-13T23:19:44.956868+00:00",
+  "last_updated": "2026-09-13T23:25:55.825516+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-0369daa86a": {
-      "title": "Bioweapon threat exposed as Anthropic sounds alarm on foreign actors plotting virus experiments",
-      "slug": "bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
-      "url": "https://ushotnews.online/article/bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
-      "article_url": "https://ushotnews.online/article/bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102150145471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102150145471257",
-      "fb_comment_id": "122102150145471257_1638625421213354",
-      "posted_at": "2026-09-10T23:20:29.109534+00:00"
-    },
-    "bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi": {
-      "title": "Bioweapon threat exposed as Anthropic sounds alarm on foreign actors plotting virus experiments",
-      "slug": "bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
-      "url": "https://ushotnews.online/article/bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
-      "article_url": "https://ushotnews.online/article/bioweapon-threat-exposed-as-anthropic-sounds-alarm-on-foreign-actors-plotting-virus-experi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102150145471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102150145471257",
-      "fb_comment_id": "122102150145471257_1638625421213354",
-      "posted_at": "2026-09-10T23:20:29.109534+00:00"
-    },
     "scraped-e956dd67ed": {
       "title": "Top Trump official reveals how 30-minute military op unlocked Venezuela oil windfall for US buyers",
       "slug": "top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall-for-u",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104671255471257",
       "fb_comment_id": "122104671255471257_1141573638440978",
       "posted_at": "2026-09-13T23:19:44.956808+00:00"
+    },
+    "scraped-b185631886": {
+      "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "slug": "further-oil-price-spikes-could-rekindle-recession-fears",
+      "url": "https://ushotnews.online/article/further-oil-price-spikes-could-rekindle-recession-fears",
+      "article_url": "https://ushotnews.online/article/further-oil-price-spikes-could-rekindle-recession-fears",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104674177471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104674177471257",
+      "fb_comment_id": "122104674177471257_3009111849480528",
+      "posted_at": "2026-09-13T23:25:55.825442+00:00"
+    },
+    "further-oil-price-spikes-could-rekindle-recession-fears": {
+      "title": "Further Oil Price Spikes Could Rekindle Recession Fears",
+      "slug": "further-oil-price-spikes-could-rekindle-recession-fears",
+      "url": "https://ushotnews.online/article/further-oil-price-spikes-could-rekindle-recession-fears",
+      "article_url": "https://ushotnews.online/article/further-oil-price-spikes-could-rekindle-recession-fears",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104674177471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104674177471257",
+      "fb_comment_id": "122104674177471257_3009111849480528",
+      "posted_at": "2026-09-13T23:25:55.825442+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T23:19:32.374675+00:00"
+  "last_cleaned_at": "2026-09-13T23:25:43.742218+00:00"
 }
