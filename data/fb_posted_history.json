@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-13T18:04:15.330138+00:00",
-  "posted_count": 82,
+  "last_updated": "2026-09-13T18:05:42.319478+00:00",
+  "posted_count": 84,
   "articles": {
     "scraped-38ccfe0a23": {
       "title": "Google to invest $15 billion AI infrastructure in Finland",
@@ -903,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104468773471257",
       "fb_comment_id": "122104468773471257_1819664082809816",
       "posted_at": "2026-09-13T18:04:15.330052+00:00"
+    },
+    "scraped-bb975f0ab1": {
+      "title": "Deshaun Watson throws interception five snaps into 2026 season as Browns get off to rough start",
+      "slug": "deshaun-watson-throws-interception-five-snaps-into-2026-season-as-browns-get-off-to-rough-",
+      "url": "https://ushotnews.online/article/deshaun-watson-throws-interception-five-snaps-into-2026-season-as-browns-get-off-to-rough-",
+      "article_url": "https://ushotnews.online/article/deshaun-watson-throws-interception-five-snaps-into-2026-season-as-browns-get-off-to-rough-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104469571471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104469571471257",
+      "fb_comment_id": "122104469571471257_1105321232075645",
+      "posted_at": "2026-09-13T18:05:42.319406+00:00"
+    },
+    "deshaun-watson-throws-interception-five-snaps-into-2026-season-as-browns-get-off-to-rough-": {
+      "title": "Deshaun Watson throws interception five snaps into 2026 season as Browns get off to rough start",
+      "slug": "deshaun-watson-throws-interception-five-snaps-into-2026-season-as-browns-get-off-to-rough-",
+      "url": "https://ushotnews.online/article/deshaun-watson-throws-interception-five-snaps-into-2026-season-as-browns-get-off-to-rough-",
+      "article_url": "https://ushotnews.online/article/deshaun-watson-throws-interception-five-snaps-into-2026-season-as-browns-get-off-to-rough-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104469571471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104469571471257",
+      "fb_comment_id": "122104469571471257_1105321232075645",
+      "posted_at": "2026-09-13T18:05:42.319406+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T18:04:03.817296+00:00"
+  "last_cleaned_at": "2026-09-13T18:05:28.614622+00:00"
 }
