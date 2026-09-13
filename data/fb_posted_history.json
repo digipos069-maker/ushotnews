@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-13T05:41:33.189168+00:00",
+  "last_updated": "2026-09-13T10:34:20.297155+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-8af2bad3bf": {
-      "title": "Citi Just Upgraded UiPath Stock. Here's Why.",
-      "slug": "citi-just-upgraded-uipath-stock-heres-why",
-      "url": "https://ushotnews.online/article/citi-just-upgraded-uipath-stock-heres-why",
-      "article_url": "https://ushotnews.online/article/citi-just-upgraded-uipath-stock-heres-why",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101707057471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101707057471257",
-      "fb_comment_id": "122101707057471257_1773917970321634",
-      "posted_at": "2026-09-10T09:59:58.804402+00:00"
-    },
-    "citi-just-upgraded-uipath-stock-heres-why": {
-      "title": "Citi Just Upgraded UiPath Stock. Here's Why.",
-      "slug": "citi-just-upgraded-uipath-stock-heres-why",
-      "url": "https://ushotnews.online/article/citi-just-upgraded-uipath-stock-heres-why",
-      "article_url": "https://ushotnews.online/article/citi-just-upgraded-uipath-stock-heres-why",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122101707057471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122101707057471257",
-      "fb_comment_id": "122101707057471257_1773917970321634",
-      "posted_at": "2026-09-10T09:59:58.804402+00:00"
-    },
     "scraped-9882f1b0c6": {
       "title": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens",
       "slug": "hedge-funds-pile-into-fuels-as-us-supply-squeeze-deepens",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103980811471257",
       "fb_comment_id": "122103980811471257_1609948507291564",
       "posted_at": "2026-09-13T05:41:33.189116+00:00"
+    },
+    "scraped-f48e58be68": {
+      "title": "Uninvited woman enters Kamala Harris' Malibu property prompting sheriff response: reports",
+      "slug": "uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response-reports",
+      "url": "https://ushotnews.online/article/uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response-reports",
+      "article_url": "https://ushotnews.online/article/uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response-reports",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104152843471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104152843471257",
+      "fb_comment_id": "122104152843471257_1094258109739483",
+      "posted_at": "2026-09-13T10:34:20.297094+00:00"
+    },
+    "uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response-reports": {
+      "title": "Uninvited woman enters Kamala Harris' Malibu property prompting sheriff response: reports",
+      "slug": "uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response-reports",
+      "url": "https://ushotnews.online/article/uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response-reports",
+      "article_url": "https://ushotnews.online/article/uninvited-woman-enters-kamala-harris-malibu-property-prompting-sheriff-response-reports",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104152843471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104152843471257",
+      "fb_comment_id": "122104152843471257_1094258109739483",
+      "posted_at": "2026-09-13T10:34:20.297094+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T05:41:19.039551+00:00"
+  "last_cleaned_at": "2026-09-13T10:34:06.310577+00:00"
 }
