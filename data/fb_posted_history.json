@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-14T19:49:25.037176+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-09-14T22:38:36.986468+00:00",
+  "posted_count": 76,
   "articles": {
-    "scraped-c0ff85a9d8": {
-      "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
-      "slug": "in-photos-remembering-the-sept-11-attacks-25-years-later",
-      "url": "https://ushotnews.online/article/in-photos-remembering-the-sept-11-attacks-25-years-later",
-      "article_url": "https://ushotnews.online/article/in-photos-remembering-the-sept-11-attacks-25-years-later",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102939295471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102939295471257",
-      "fb_comment_id": "122102939295471257_1656406742732824",
-      "posted_at": "2026-09-11T21:40:40.173552+00:00"
-    },
-    "in-photos-remembering-the-sept-11-attacks-25-years-later": {
-      "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
-      "slug": "in-photos-remembering-the-sept-11-attacks-25-years-later",
-      "url": "https://ushotnews.online/article/in-photos-remembering-the-sept-11-attacks-25-years-later",
-      "article_url": "https://ushotnews.online/article/in-photos-remembering-the-sept-11-attacks-25-years-later",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102939295471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102939295471257",
-      "fb_comment_id": "122102939295471257_1656406742732824",
-      "posted_at": "2026-09-11T21:40:40.173552+00:00"
-    },
-    "scraped-f72a5b99ac": {
-      "title": "How Is Nucor’s Stock Performance Compared to Other Steel Stocks",
-      "slug": "how-is-nucors-stock-performance-compared-to-other-steel-stocks",
-      "url": "https://ushotnews.online/article/how-is-nucors-stock-performance-compared-to-other-steel-stocks",
-      "article_url": "https://ushotnews.online/article/how-is-nucors-stock-performance-compared-to-other-steel-stocks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102963517471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102963517471257",
-      "fb_comment_id": "122102963517471257_2585382458591604",
-      "posted_at": "2026-09-11T22:28:35.507030+00:00"
-    },
-    "how-is-nucors-stock-performance-compared-to-other-steel-stocks": {
-      "title": "How Is Nucor’s Stock Performance Compared to Other Steel Stocks",
-      "slug": "how-is-nucors-stock-performance-compared-to-other-steel-stocks",
-      "url": "https://ushotnews.online/article/how-is-nucors-stock-performance-compared-to-other-steel-stocks",
-      "article_url": "https://ushotnews.online/article/how-is-nucors-stock-performance-compared-to-other-steel-stocks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102963517471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102963517471257",
-      "fb_comment_id": "122102963517471257_2585382458591604",
-      "posted_at": "2026-09-11T22:28:35.507030+00:00"
-    },
     "scraped-6892ab4848": {
       "title": "MongoDB (MDB) Reports 30% Revenue Growth and 91% RPO Growth. Is Atlas Demand Durable Enough to Sustain Operating Leverage?",
       "slug": "mongodb-mdb-reports-30-revenue-growth-and-91-rpo-growth-is-atlas-demand-durable-enough-to-",
@@ -859,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105490777471257",
       "fb_comment_id": "122105490777471257_1388550990157408",
       "posted_at": "2026-09-14T19:49:25.037104+00:00"
+    },
+    "scraped-193ea7a9eb": {
+      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
+      "slug": "alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
+      "url": "https://ushotnews.online/article/alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
+      "article_url": "https://ushotnews.online/article/alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105604945471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105604945471257",
+      "fb_comment_id": "122105604945471257_1979788486061908",
+      "posted_at": "2026-09-14T22:38:36.986398+00:00"
+    },
+    "alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas": {
+      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
+      "slug": "alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
+      "url": "https://ushotnews.online/article/alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
+      "article_url": "https://ushotnews.online/article/alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105604945471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105604945471257",
+      "fb_comment_id": "122105604945471257_1979788486061908",
+      "posted_at": "2026-09-14T22:38:36.986398+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-14T19:49:10.069222+00:00"
+  "last_cleaned_at": "2026-09-14T22:38:23.875008+00:00"
 }
