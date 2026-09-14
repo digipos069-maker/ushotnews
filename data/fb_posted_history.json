@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T06:45:31.178853+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-14T07:50:54.659089+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-5ee83e1d4d": {
       "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104899981471257",
       "fb_comment_id": "122104899981471257_2113997652535062",
       "posted_at": "2026-09-14T06:45:31.178787+00:00"
+    },
+    "scraped-8b2cdd9d3b": {
+      "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
+      "slug": "cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
+      "url": "https://ushotnews.online/article/cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
+      "article_url": "https://ushotnews.online/article/cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104926267471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104926267471257",
+      "fb_comment_id": "122104926267471257_28218462874492398",
+      "posted_at": "2026-09-14T07:50:54.659025+00:00"
+    },
+    "cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i": {
+      "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
+      "slug": "cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
+      "url": "https://ushotnews.online/article/cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
+      "article_url": "https://ushotnews.online/article/cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104926267471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104926267471257",
+      "fb_comment_id": "122104926267471257_28218462874492398",
+      "posted_at": "2026-09-14T07:50:54.659025+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-14T06:45:08.254315+00:00"
+  "last_cleaned_at": "2026-09-14T07:50:41.015486+00:00"
 }
