@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-14T22:38:36.986468+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-14T23:04:30.492300+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-6892ab4848": {
       "title": "MongoDB (MDB) Reports 30% Revenue Growth and 91% RPO Growth. Is Atlas Demand Durable Enough to Sustain Operating Leverage?",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105604945471257",
       "fb_comment_id": "122105604945471257_1979788486061908",
       "posted_at": "2026-09-14T22:38:36.986398+00:00"
+    },
+    "scraped-c947a426e8": {
+      "title": "Texas GOP candidate stands by xenophobic comments following backlash",
+      "slug": "texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
+      "url": "https://ushotnews.online/article/texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
+      "article_url": "https://ushotnews.online/article/texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105618205471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105618205471257",
+      "fb_comment_id": "122105618205471257_28095937360088407",
+      "posted_at": "2026-09-14T23:04:30.492226+00:00"
+    },
+    "texas-gop-candidate-stands-by-xenophobic-comments-following-backlash": {
+      "title": "Texas GOP candidate stands by xenophobic comments following backlash",
+      "slug": "texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
+      "url": "https://ushotnews.online/article/texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
+      "article_url": "https://ushotnews.online/article/texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105618205471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105618205471257",
+      "fb_comment_id": "122105618205471257_28095937360088407",
+      "posted_at": "2026-09-14T23:04:30.492226+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-14T22:38:23.875008+00:00"
+  "last_cleaned_at": "2026-09-14T23:04:18.200479+00:00"
 }
