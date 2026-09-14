@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-14T19:03:05.122254+00:00",
+  "last_updated": "2026-09-14T19:49:25.037176+00:00",
   "posted_count": 78,
   "articles": {
-    "scraped-699ffcbe0a": {
-      "title": "Kansas renews Border War rivalry with Missouri by calling Tigers 'evil,' invoking slavery imagery",
-      "slug": "kansas-renews-border-war-rivalry-with-missouri-by-calling-tigers-evil-invoking-slavery-ima",
-      "url": "https://ushotnews.online/article/kansas-renews-border-war-rivalry-with-missouri-by-calling-tigers-evil-invoking-slavery-ima",
-      "article_url": "https://ushotnews.online/article/kansas-renews-border-war-rivalry-with-missouri-by-calling-tigers-evil-invoking-slavery-ima",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102884707471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102884707471257",
-      "fb_comment_id": "122102884707471257_1607965420884929",
-      "posted_at": "2026-09-11T19:34:19.081690+00:00"
-    },
-    "kansas-renews-border-war-rivalry-with-missouri-by-calling-tigers-evil-invoking-slavery-ima": {
-      "title": "Kansas renews Border War rivalry with Missouri by calling Tigers 'evil,' invoking slavery imagery",
-      "slug": "kansas-renews-border-war-rivalry-with-missouri-by-calling-tigers-evil-invoking-slavery-ima",
-      "url": "https://ushotnews.online/article/kansas-renews-border-war-rivalry-with-missouri-by-calling-tigers-evil-invoking-slavery-ima",
-      "article_url": "https://ushotnews.online/article/kansas-renews-border-war-rivalry-with-missouri-by-calling-tigers-evil-invoking-slavery-ima",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102884707471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102884707471257",
-      "fb_comment_id": "122102884707471257_1607965420884929",
-      "posted_at": "2026-09-11T19:34:19.081690+00:00"
-    },
     "scraped-c0ff85a9d8": {
       "title": "In photos: Remembering the Sept. 11 attacks, 25 years later",
       "slug": "in-photos-remembering-the-sept-11-attacks-25-years-later",
@@ -859,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105457705471257",
       "fb_comment_id": "122105457705471257_1821837655475196",
       "posted_at": "2026-09-14T19:03:05.122191+00:00"
+    },
+    "scraped-87f2887c98": {
+      "title": "macOS 27 is available now",
+      "slug": "macos-27-is-available-now",
+      "url": "https://ushotnews.online/article/macos-27-is-available-now",
+      "article_url": "https://ushotnews.online/article/macos-27-is-available-now",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105490777471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105490777471257",
+      "fb_comment_id": "122105490777471257_1388550990157408",
+      "posted_at": "2026-09-14T19:49:25.037104+00:00"
+    },
+    "macos-27-is-available-now": {
+      "title": "macOS 27 is available now",
+      "slug": "macos-27-is-available-now",
+      "url": "https://ushotnews.online/article/macos-27-is-available-now",
+      "article_url": "https://ushotnews.online/article/macos-27-is-available-now",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105490777471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105490777471257",
+      "fb_comment_id": "122105490777471257_1388550990157408",
+      "posted_at": "2026-09-14T19:49:25.037104+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-14T19:02:54.910695+00:00"
+  "last_cleaned_at": "2026-09-14T19:49:10.069222+00:00"
 }
