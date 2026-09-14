@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-13T23:25:55.825516+00:00",
+  "last_updated": "2026-09-14T01:22:57.716469+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-e956dd67ed": {
-      "title": "Top Trump official reveals how 30-minute military op unlocked Venezuela oil windfall for US buyers",
-      "slug": "top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall-for-u",
-      "url": "https://ushotnews.online/article/top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall-for-u",
-      "article_url": "https://ushotnews.online/article/top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall-for-u",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102214081471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102214081471257",
-      "fb_comment_id": "122102214081471257_1110462598166516",
-      "posted_at": "2026-09-11T01:20:45.734309+00:00"
-    },
-    "top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall-for-u": {
-      "title": "Top Trump official reveals how 30-minute military op unlocked Venezuela oil windfall for US buyers",
-      "slug": "top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall-for-u",
-      "url": "https://ushotnews.online/article/top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall-for-u",
-      "article_url": "https://ushotnews.online/article/top-trump-official-reveals-how-30-minute-military-op-unlocked-venezuela-oil-windfall-for-u",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102214081471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102214081471257",
-      "fb_comment_id": "122102214081471257_1110462598166516",
-      "posted_at": "2026-09-11T01:20:45.734309+00:00"
-    },
     "scraped-6018ca64ce": {
       "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
       "slug": "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104674177471257",
       "fb_comment_id": "122104674177471257_3009111849480528",
       "posted_at": "2026-09-13T23:25:55.825442+00:00"
+    },
+    "scraped-adf050cf3f": {
+      "title": "Texas Republicans denounce GOP statewide candidate over xenophobic post",
+      "slug": "texas-republicans-denounce-gop-statewide-candidate-over-xenophobic-post",
+      "url": "https://ushotnews.online/article/texas-republicans-denounce-gop-statewide-candidate-over-xenophobic-post",
+      "article_url": "https://ushotnews.online/article/texas-republicans-denounce-gop-statewide-candidate-over-xenophobic-post",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104753905471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104753905471257",
+      "fb_comment_id": "122104753905471257_3687934021358788",
+      "posted_at": "2026-09-14T01:22:57.716389+00:00"
+    },
+    "texas-republicans-denounce-gop-statewide-candidate-over-xenophobic-post": {
+      "title": "Texas Republicans denounce GOP statewide candidate over xenophobic post",
+      "slug": "texas-republicans-denounce-gop-statewide-candidate-over-xenophobic-post",
+      "url": "https://ushotnews.online/article/texas-republicans-denounce-gop-statewide-candidate-over-xenophobic-post",
+      "article_url": "https://ushotnews.online/article/texas-republicans-denounce-gop-statewide-candidate-over-xenophobic-post",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104753905471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104753905471257",
+      "fb_comment_id": "122104753905471257_3687934021358788",
+      "posted_at": "2026-09-14T01:22:57.716389+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-13T23:25:43.742218+00:00"
+  "last_cleaned_at": "2026-09-14T01:22:45.668478+00:00"
 }
