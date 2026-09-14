@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-14T01:22:57.716469+00:00",
+  "last_updated": "2026-09-14T01:32:35.142681+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-6018ca64ce": {
-      "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
-      "slug": "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
-      "url": "https://ushotnews.online/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
-      "article_url": "https://ushotnews.online/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102215827471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102215827471257",
-      "fb_comment_id": "122102215827471257_2172049533660558",
-      "posted_at": "2026-09-11T01:24:24.833094+00:00"
-    },
-    "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-": {
-      "title": "Gold price today, Wednesday, September 9, 2026: Gold prices drop following U.S. strikes on five Iranian oil tankers",
-      "slug": "gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
-      "url": "https://ushotnews.online/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
-      "article_url": "https://ushotnews.online/article/gold-price-today-wednesday-september-9-2026-gold-prices-drop-following-us-strikes-on-five-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102215827471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102215827471257",
-      "fb_comment_id": "122102215827471257_2172049533660558",
-      "posted_at": "2026-09-11T01:24:24.833094+00:00"
-    },
     "scraped-4658845214": {
       "title": "Direct lending activity improves from Q2 lows, but still lags Q1 – PC Monitor",
       "slug": "direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104753905471257",
       "fb_comment_id": "122104753905471257_3687934021358788",
       "posted_at": "2026-09-14T01:22:57.716389+00:00"
+    },
+    "scraped-17454e0e56": {
+      "title": "WWE star Stephanie Vaquer captures Women's World Championship at Chile live event in surprising moment",
+      "slug": "wwe-star-stephanie-vaquer-captures-womens-world-championship-at-chile-live-event-in-surpri",
+      "url": "https://ushotnews.online/article/wwe-star-stephanie-vaquer-captures-womens-world-championship-at-chile-live-event-in-surpri",
+      "article_url": "https://ushotnews.online/article/wwe-star-stephanie-vaquer-captures-womens-world-championship-at-chile-live-event-in-surpri",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104759941471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104759941471257",
+      "fb_comment_id": "122104759941471257_4661376797474797",
+      "posted_at": "2026-09-14T01:32:35.142618+00:00"
+    },
+    "wwe-star-stephanie-vaquer-captures-womens-world-championship-at-chile-live-event-in-surpri": {
+      "title": "WWE star Stephanie Vaquer captures Women's World Championship at Chile live event in surprising moment",
+      "slug": "wwe-star-stephanie-vaquer-captures-womens-world-championship-at-chile-live-event-in-surpri",
+      "url": "https://ushotnews.online/article/wwe-star-stephanie-vaquer-captures-womens-world-championship-at-chile-live-event-in-surpri",
+      "article_url": "https://ushotnews.online/article/wwe-star-stephanie-vaquer-captures-womens-world-championship-at-chile-live-event-in-surpri",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104759941471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104759941471257",
+      "fb_comment_id": "122104759941471257_4661376797474797",
+      "posted_at": "2026-09-14T01:32:35.142618+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-14T01:22:45.668478+00:00"
+  "last_cleaned_at": "2026-09-14T01:32:24.414561+00:00"
 }
