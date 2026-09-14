@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-14T01:32:35.142681+00:00",
-  "posted_count": 82,
+  "last_updated": "2026-09-14T06:45:31.178853+00:00",
+  "posted_count": 80,
   "articles": {
-    "scraped-4658845214": {
-      "title": "Direct lending activity improves from Q2 lows, but still lags Q1 – PC Monitor",
-      "slug": "direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
-      "url": "https://ushotnews.online/article/direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
-      "article_url": "https://ushotnews.online/article/direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102350557471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102350557471257",
-      "fb_comment_id": "122102350557471257_1886211425688823",
-      "posted_at": "2026-09-11T06:25:27.605166+00:00"
-    },
-    "direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor": {
-      "title": "Direct lending activity improves from Q2 lows, but still lags Q1 – PC Monitor",
-      "slug": "direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
-      "url": "https://ushotnews.online/article/direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
-      "article_url": "https://ushotnews.online/article/direct-lending-activity-improves-from-q2-lows-but-still-lags-q1-pc-monitor",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102350557471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102350557471257",
-      "fb_comment_id": "122102350557471257_1886211425688823",
-      "posted_at": "2026-09-11T06:25:27.605166+00:00"
-    },
-    "scraped-0ab9c8f3b1": {
-      "title": "Juror on Lindsay Clancy trial says 'we let down Lindsay' following mistrial",
-      "slug": "juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
-      "url": "https://ushotnews.online/article/juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
-      "article_url": "https://ushotnews.online/article/juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102356293471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102356293471257",
-      "fb_comment_id": "122102356293471257_1645307197172806",
-      "posted_at": "2026-09-11T06:35:35.006320+00:00"
-    },
-    "juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial": {
-      "title": "Juror on Lindsay Clancy trial says 'we let down Lindsay' following mistrial",
-      "slug": "juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
-      "url": "https://ushotnews.online/article/juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
-      "article_url": "https://ushotnews.online/article/juror-on-lindsay-clancy-trial-says-we-let-down-lindsay-following-mistrial",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122102356293471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122102356293471257",
-      "fb_comment_id": "122102356293471257_1645307197172806",
-      "posted_at": "2026-09-11T06:35:35.006320+00:00"
-    },
     "scraped-5ee83e1d4d": {
       "title": "HIVE brings in enterprise veteran to scale BUZZ HPC's AI cloud business",
       "slug": "hive-brings-in-enterprise-veteran-to-scale-buzz-hpcs-ai-cloud-business",
@@ -903,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104759941471257",
       "fb_comment_id": "122104759941471257_4661376797474797",
       "posted_at": "2026-09-14T01:32:35.142618+00:00"
+    },
+    "scraped-2a2ad5a026": {
+      "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
+      "slug": "amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
+      "url": "https://ushotnews.online/article/amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
+      "article_url": "https://ushotnews.online/article/amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104899981471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104899981471257",
+      "fb_comment_id": "122104899981471257_2113997652535062",
+      "posted_at": "2026-09-14T06:45:31.178787+00:00"
+    },
+    "amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway": {
+      "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
+      "slug": "amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
+      "url": "https://ushotnews.online/article/amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
+      "article_url": "https://ushotnews.online/article/amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122104899981471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104899981471257",
+      "fb_comment_id": "122104899981471257_2113997652535062",
+      "posted_at": "2026-09-14T06:45:31.178787+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-14T01:32:24.414561+00:00"
+  "last_cleaned_at": "2026-09-14T06:45:08.254315+00:00"
 }
