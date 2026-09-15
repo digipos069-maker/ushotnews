@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-15T16:50:54.544623+00:00",
+  "last_updated": "2026-09-15T17:44:53.829702+00:00",
   "posted_count": 74,
   "articles": {
-    "scraped-b2acce18d2": {
-      "title": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
-      "slug": "nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
-      "url": "https://ushotnews.online/article/nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
-      "article_url": "https://ushotnews.online/article/nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103567351471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103567351471257",
-      "fb_comment_id": "122103567351471257_1062340076690167",
-      "posted_at": "2026-09-12T17:02:45.019296+00:00"
-    },
-    "nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond": {
-      "title": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
-      "slug": "nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
-      "url": "https://ushotnews.online/article/nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
-      "article_url": "https://ushotnews.online/article/nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103567351471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103567351471257",
-      "fb_comment_id": "122103567351471257_1062340076690167",
-      "posted_at": "2026-09-12T17:02:45.019296+00:00"
-    },
     "scraped-efb3c996d0": {
       "title": "Novo Nordisk (NVO)’s Pediatric Obesity Opportunity Faces a Bigger Test",
       "slug": "novo-nordisk-nvos-pediatric-obesity-opportunity-faces-a-bigger-test",
@@ -815,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106359961471257",
       "fb_comment_id": "122106359961471257_2656153001485284",
       "posted_at": "2026-09-15T16:50:54.544549+00:00"
+    },
+    "scraped-a3a8fbb844": {
+      "title": "Savannah Guthrie thanks Allison Janney after emotional Emmy tribute: 'Our family is in such pain'",
+      "slug": "savannah-guthrie-thanks-allison-janney-after-emotional-emmy-tribute-our-family-is-in-such-",
+      "url": "https://ushotnews.online/article/savannah-guthrie-thanks-allison-janney-after-emotional-emmy-tribute-our-family-is-in-such-",
+      "article_url": "https://ushotnews.online/article/savannah-guthrie-thanks-allison-janney-after-emotional-emmy-tribute-our-family-is-in-such-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106400749471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106400749471257",
+      "fb_comment_id": "122106400749471257_1120371623899584",
+      "posted_at": "2026-09-15T17:44:53.829639+00:00"
+    },
+    "savannah-guthrie-thanks-allison-janney-after-emotional-emmy-tribute-our-family-is-in-such-": {
+      "title": "Savannah Guthrie thanks Allison Janney after emotional Emmy tribute: 'Our family is in such pain'",
+      "slug": "savannah-guthrie-thanks-allison-janney-after-emotional-emmy-tribute-our-family-is-in-such-",
+      "url": "https://ushotnews.online/article/savannah-guthrie-thanks-allison-janney-after-emotional-emmy-tribute-our-family-is-in-such-",
+      "article_url": "https://ushotnews.online/article/savannah-guthrie-thanks-allison-janney-after-emotional-emmy-tribute-our-family-is-in-such-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106400749471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106400749471257",
+      "fb_comment_id": "122106400749471257_1120371623899584",
+      "posted_at": "2026-09-15T17:44:53.829639+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-15T16:50:42.060945+00:00"
+  "last_cleaned_at": "2026-09-15T17:44:38.027751+00:00"
 }
