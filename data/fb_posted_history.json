@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T01:11:18.993837+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-15T01:50:42.648947+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-00477afe8a": {
       "title": "WWE's Rey Mysterio reflects on Triplemania involvement, says he's unfazed going into match with 7-foot-3 giant",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105697429471257",
       "fb_comment_id": "122105697429471257_1354382983121455",
       "posted_at": "2026-09-15T01:11:18.993768+00:00"
+    },
+    "scraped-19d4c89ea3": {
+      "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
+      "slug": "clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
+      "url": "https://ushotnews.online/article/clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
+      "article_url": "https://ushotnews.online/article/clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105713221471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105713221471257",
+      "fb_comment_id": "122105713221471257_1807031530442206",
+      "posted_at": "2026-09-15T01:50:42.648885+00:00"
+    },
+    "clear-channel-outdoor-cco-grows-fastest-right-before-going-private": {
+      "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
+      "slug": "clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
+      "url": "https://ushotnews.online/article/clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
+      "article_url": "https://ushotnews.online/article/clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105713221471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105713221471257",
+      "fb_comment_id": "122105713221471257_1807031530442206",
+      "posted_at": "2026-09-15T01:50:42.648885+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-15T01:11:08.811626+00:00"
+  "last_cleaned_at": "2026-09-15T01:50:29.438133+00:00"
 }
