@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T23:03:49.361575+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-15T23:39:02.919285+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-bfc5657155": {
       "title": "StarCraft returns in 2030 as an open-world shooter",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106593919471257",
       "fb_comment_id": "122106593919471257_1695601498194010",
       "posted_at": "2026-09-15T23:03:49.361520+00:00"
+    },
+    "scraped-0fff9e0ce9": {
+      "title": "Senate moves to rein in college sports 'Wild West' with sweeping new rules for players, schools",
+      "slug": "senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
+      "url": "https://ushotnews.online/article/senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
+      "article_url": "https://ushotnews.online/article/senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106612495471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106612495471257",
+      "fb_comment_id": "122106612495471257_3227775770756162",
+      "posted_at": "2026-09-15T23:39:02.919227+00:00"
+    },
+    "senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo": {
+      "title": "Senate moves to rein in college sports 'Wild West' with sweeping new rules for players, schools",
+      "slug": "senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
+      "url": "https://ushotnews.online/article/senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
+      "article_url": "https://ushotnews.online/article/senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106612495471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106612495471257",
+      "fb_comment_id": "122106612495471257_3227775770756162",
+      "posted_at": "2026-09-15T23:39:02.919227+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-15T23:03:34.980398+00:00"
+  "last_cleaned_at": "2026-09-15T23:38:51.384328+00:00"
 }
