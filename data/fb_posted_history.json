@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-15T06:27:47.277044+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-15T07:38:08.606605+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-f2ad5a8d6a": {
       "title": "US Home Sales Hit 14-Month Low as Borrowing Costs Bite",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105872743471257",
       "fb_comment_id": "122105872743471257_2225036948423261",
       "posted_at": "2026-09-15T06:27:47.276978+00:00"
+    },
+    "scraped-d929865269": {
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "slug": "chinas-august-retail-sales-miss-forecast-while-investment-slump-deepens-piling-pressure-on",
+      "url": "https://ushotnews.online/article/chinas-august-retail-sales-miss-forecast-while-investment-slump-deepens-piling-pressure-on",
+      "article_url": "https://ushotnews.online/article/chinas-august-retail-sales-miss-forecast-while-investment-slump-deepens-piling-pressure-on",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105919993471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105919993471257",
+      "fb_comment_id": "122105919993471257_1522653622999450",
+      "posted_at": "2026-09-15T07:38:08.606550+00:00"
+    },
+    "chinas-august-retail-sales-miss-forecast-while-investment-slump-deepens-piling-pressure-on": {
+      "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
+      "slug": "chinas-august-retail-sales-miss-forecast-while-investment-slump-deepens-piling-pressure-on",
+      "url": "https://ushotnews.online/article/chinas-august-retail-sales-miss-forecast-while-investment-slump-deepens-piling-pressure-on",
+      "article_url": "https://ushotnews.online/article/chinas-august-retail-sales-miss-forecast-while-investment-slump-deepens-piling-pressure-on",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122105919993471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105919993471257",
+      "fb_comment_id": "122105919993471257_1522653622999450",
+      "posted_at": "2026-09-15T07:38:08.606550+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-15T06:27:36.224141+00:00"
+  "last_cleaned_at": "2026-09-15T07:37:57.325328+00:00"
 }
