@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-15T07:38:08.606605+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-09-15T12:00:46.586563+00:00",
+  "posted_count": 76,
   "articles": {
-    "scraped-f2ad5a8d6a": {
-      "title": "US Home Sales Hit 14-Month Low as Borrowing Costs Bite",
-      "slug": "us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
-      "url": "https://ushotnews.online/article/us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
-      "article_url": "https://ushotnews.online/article/us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103241323471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103241323471257",
-      "fb_comment_id": "122103241323471257_916891627769592",
-      "posted_at": "2026-09-12T08:04:37.837671+00:00"
-    },
-    "us-home-sales-hit-14-month-low-as-borrowing-costs-bite": {
-      "title": "US Home Sales Hit 14-Month Low as Borrowing Costs Bite",
-      "slug": "us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
-      "url": "https://ushotnews.online/article/us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
-      "article_url": "https://ushotnews.online/article/us-home-sales-hit-14-month-low-as-borrowing-costs-bite",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103241323471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103241323471257",
-      "fb_comment_id": "122103241323471257_916891627769592",
-      "posted_at": "2026-09-12T08:04:37.837671+00:00"
-    },
-    "scraped-fa7b448514": {
-      "title": "Crude Oil Prices Soar on Fears US-Iran War to Persist",
-      "slug": "crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
-      "url": "https://ushotnews.online/article/crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
-      "article_url": "https://ushotnews.online/article/crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103333273471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103333273471257",
-      "fb_comment_id": "122103333273471257_1107536508372037",
-      "posted_at": "2026-09-12T10:36:56.777690+00:00"
-    },
-    "crude-oil-prices-soar-on-fears-us-iran-war-to-persist": {
-      "title": "Crude Oil Prices Soar on Fears US-Iran War to Persist",
-      "slug": "crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
-      "url": "https://ushotnews.online/article/crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
-      "article_url": "https://ushotnews.online/article/crude-oil-prices-soar-on-fears-us-iran-war-to-persist",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103333273471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122103333273471257",
-      "fb_comment_id": "122103333273471257_1107536508372037",
-      "posted_at": "2026-09-12T10:36:56.777690+00:00"
-    },
     "scraped-55c28bcade": {
       "title": "HPE's $7.6 Billion AI Backlog Is Waiting on Memory Supply to Catch Up",
       "slug": "hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
@@ -859,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105919993471257",
       "fb_comment_id": "122105919993471257_1522653622999450",
       "posted_at": "2026-09-15T07:38:08.606550+00:00"
+    },
+    "scraped-8bc0df6cd1": {
+      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+      "slug": "scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
+      "url": "https://ushotnews.online/article/scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
+      "article_url": "https://ushotnews.online/article/scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106136965471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106136965471257",
+      "fb_comment_id": "122106136965471257_1646939063496644",
+      "posted_at": "2026-09-15T12:00:46.586487+00:00"
+    },
+    "scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis": {
+      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
+      "slug": "scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
+      "url": "https://ushotnews.online/article/scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
+      "article_url": "https://ushotnews.online/article/scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106136965471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106136965471257",
+      "fb_comment_id": "122106136965471257_1646939063496644",
+      "posted_at": "2026-09-15T12:00:46.586487+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-15T07:37:57.325328+00:00"
+  "last_cleaned_at": "2026-09-15T12:00:29.981488+00:00"
 }
