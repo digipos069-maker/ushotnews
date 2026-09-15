@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-15T12:00:46.586563+00:00",
+  "last_updated": "2026-09-15T13:26:46.582337+00:00",
   "posted_count": 76,
   "articles": {
-    "scraped-55c28bcade": {
-      "title": "HPE's $7.6 Billion AI Backlog Is Waiting on Memory Supply to Catch Up",
-      "slug": "hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
-      "url": "https://ushotnews.online/article/hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
-      "article_url": "https://ushotnews.online/article/hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103394761471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103394761471257",
-      "fb_comment_id": "122103394761471257_2228384631279672",
-      "posted_at": "2026-09-12T12:17:53.604284+00:00"
-    },
-    "hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up": {
-      "title": "HPE's $7.6 Billion AI Backlog Is Waiting on Memory Supply to Catch Up",
-      "slug": "hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
-      "url": "https://ushotnews.online/article/hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
-      "article_url": "https://ushotnews.online/article/hpes-76-billion-ai-backlog-is-waiting-on-memory-supply-to-catch-up",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103394761471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103394761471257",
-      "fb_comment_id": "122103394761471257_2228384631279672",
-      "posted_at": "2026-09-12T12:17:53.604284+00:00"
-    },
     "scraped-3f9e2a93ed": {
       "title": "Why are the people building the most powerful AI so worried about what it could do?",
       "slug": "why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
@@ -837,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106136965471257",
       "fb_comment_id": "122106136965471257_1646939063496644",
       "posted_at": "2026-09-15T12:00:46.586487+00:00"
+    },
+    "scraped-acf637c229": {
+      "title": "Prince Harry's first birthday back in Britain unlikely to bring reconciliation with the royal family: experts",
+      "slug": "prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
+      "url": "https://ushotnews.online/article/prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
+      "article_url": "https://ushotnews.online/article/prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106203877471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106203877471257",
+      "fb_comment_id": "122106203877471257_1764876161418938",
+      "posted_at": "2026-09-15T13:26:46.582270+00:00"
+    },
+    "prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy": {
+      "title": "Prince Harry's first birthday back in Britain unlikely to bring reconciliation with the royal family: experts",
+      "slug": "prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
+      "url": "https://ushotnews.online/article/prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
+      "article_url": "https://ushotnews.online/article/prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106203877471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106203877471257",
+      "fb_comment_id": "122106203877471257_1764876161418938",
+      "posted_at": "2026-09-15T13:26:46.582270+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-15T12:00:29.981488+00:00"
+  "last_cleaned_at": "2026-09-15T13:26:34.489999+00:00"
 }
