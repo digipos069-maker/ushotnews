@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-15T13:26:46.582337+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-15T16:50:54.544623+00:00",
+  "posted_count": 74,
   "articles": {
-    "scraped-3f9e2a93ed": {
-      "title": "Why are the people building the most powerful AI so worried about what it could do?",
-      "slug": "why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
-      "url": "https://ushotnews.online/article/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
-      "article_url": "https://ushotnews.online/article/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103456135471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103456135471257",
-      "fb_comment_id": "122103456135471257_39328953506691844",
-      "posted_at": "2026-09-12T14:00:43.373489+00:00"
-    },
-    "why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do": {
-      "title": "Why are the people building the most powerful AI so worried about what it could do?",
-      "slug": "why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
-      "url": "https://ushotnews.online/article/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
-      "article_url": "https://ushotnews.online/article/why-are-the-people-building-the-most-powerful-ai-so-worried-about-what-it-could-do",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103456135471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103456135471257",
-      "fb_comment_id": "122103456135471257_39328953506691844",
-      "posted_at": "2026-09-12T14:00:43.373489+00:00"
-    },
-    "scraped-fc3fbf4beb": {
-      "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
-      "slug": "wileys-wly-ai-bet-is-starting-to-pay-off",
-      "url": "https://ushotnews.online/article/wileys-wly-ai-bet-is-starting-to-pay-off",
-      "article_url": "https://ushotnews.online/article/wileys-wly-ai-bet-is-starting-to-pay-off",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103519183471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103519183471257",
-      "fb_comment_id": "122103519183471257_1423757403150942",
-      "posted_at": "2026-09-12T15:44:04.272465+00:00"
-    },
-    "wileys-wly-ai-bet-is-starting-to-pay-off": {
-      "title": "Wiley’s (WLY) AI Bet Is Starting To Pay Off",
-      "slug": "wileys-wly-ai-bet-is-starting-to-pay-off",
-      "url": "https://ushotnews.online/article/wileys-wly-ai-bet-is-starting-to-pay-off",
-      "article_url": "https://ushotnews.online/article/wileys-wly-ai-bet-is-starting-to-pay-off",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103519183471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103519183471257",
-      "fb_comment_id": "122103519183471257_1423757403150942",
-      "posted_at": "2026-09-12T15:44:04.272465+00:00"
-    },
     "scraped-b2acce18d2": {
       "title": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond.",
       "slug": "nuscale-power-stock-jumps-15-in-1-day-heres-how-nuclear-energy-investors-should-respond",
@@ -837,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106203877471257",
       "fb_comment_id": "122106203877471257_1764876161418938",
       "posted_at": "2026-09-15T13:26:46.582270+00:00"
+    },
+    "scraped-5f4d159242": {
+      "title": "Joe Manchin calls on Trump to freeze AI IPOs, claims president has 'power to save humanity'",
+      "slug": "joe-manchin-calls-on-trump-to-freeze-ai-ipos-claims-president-has-power-to-save-humanity",
+      "url": "https://ushotnews.online/article/joe-manchin-calls-on-trump-to-freeze-ai-ipos-claims-president-has-power-to-save-humanity",
+      "article_url": "https://ushotnews.online/article/joe-manchin-calls-on-trump-to-freeze-ai-ipos-claims-president-has-power-to-save-humanity",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106359961471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106359961471257",
+      "fb_comment_id": "122106359961471257_2656153001485284",
+      "posted_at": "2026-09-15T16:50:54.544549+00:00"
+    },
+    "joe-manchin-calls-on-trump-to-freeze-ai-ipos-claims-president-has-power-to-save-humanity": {
+      "title": "Joe Manchin calls on Trump to freeze AI IPOs, claims president has 'power to save humanity'",
+      "slug": "joe-manchin-calls-on-trump-to-freeze-ai-ipos-claims-president-has-power-to-save-humanity",
+      "url": "https://ushotnews.online/article/joe-manchin-calls-on-trump-to-freeze-ai-ipos-claims-president-has-power-to-save-humanity",
+      "article_url": "https://ushotnews.online/article/joe-manchin-calls-on-trump-to-freeze-ai-ipos-claims-president-has-power-to-save-humanity",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106359961471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106359961471257",
+      "fb_comment_id": "122106359961471257_2656153001485284",
+      "posted_at": "2026-09-15T16:50:54.544549+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-15T13:26:34.489999+00:00"
+  "last_cleaned_at": "2026-09-15T16:50:42.060945+00:00"
 }
