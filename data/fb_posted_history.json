@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-15T20:01:49.946554+00:00",
+  "last_updated": "2026-09-15T21:13:48.695360+00:00",
   "posted_count": 72,
   "articles": {
-    "scraped-eecff0f1bb": {
-      "title": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
-      "slug": "tevas-teva-125-million-bioxcel-bid-offers-upside-but-fda-and-auction-risks-remain",
-      "url": "https://ushotnews.online/article/tevas-teva-125-million-bioxcel-bid-offers-upside-but-fda-and-auction-risks-remain",
-      "article_url": "https://ushotnews.online/article/tevas-teva-125-million-bioxcel-bid-offers-upside-but-fda-and-auction-risks-remain",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103705177471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103705177471257",
-      "fb_comment_id": "122103705177471257_1448107907161860",
-      "posted_at": "2026-09-12T20:48:12.680285+00:00"
-    },
-    "tevas-teva-125-million-bioxcel-bid-offers-upside-but-fda-and-auction-risks-remain": {
-      "title": "Teva’s (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain",
-      "slug": "tevas-teva-125-million-bioxcel-bid-offers-upside-but-fda-and-auction-risks-remain",
-      "url": "https://ushotnews.online/article/tevas-teva-125-million-bioxcel-bid-offers-upside-but-fda-and-auction-risks-remain",
-      "article_url": "https://ushotnews.online/article/tevas-teva-125-million-bioxcel-bid-offers-upside-but-fda-and-auction-risks-remain",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122103705177471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122103705177471257",
-      "fb_comment_id": "122103705177471257_1448107907161860",
-      "posted_at": "2026-09-12T20:48:12.680285+00:00"
-    },
     "scraped-be84f5d8a9": {
       "title": "Henry Winkler's wife says the actor tends to exaggerate about the size of his ... fish",
       "slug": "henry-winklers-wife-says-the-actor-tends-to-exaggerate-about-the-size-of-his-fish",
@@ -793,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106490671471257",
       "fb_comment_id": "122106490671471257_1500757835412520",
       "posted_at": "2026-09-15T20:01:49.946494+00:00"
+    },
+    "scraped-1920df1638": {
+      "title": "Prosecutors won't seek the death penalty for Nick Reiner",
+      "slug": "prosecutors-wont-seek-the-death-penalty-for-nick-reiner",
+      "url": "https://ushotnews.online/article/prosecutors-wont-seek-the-death-penalty-for-nick-reiner",
+      "article_url": "https://ushotnews.online/article/prosecutors-wont-seek-the-death-penalty-for-nick-reiner",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106532509471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106532509471257",
+      "fb_comment_id": "122106532509471257_1064356749570175",
+      "posted_at": "2026-09-15T21:13:48.695291+00:00"
+    },
+    "prosecutors-wont-seek-the-death-penalty-for-nick-reiner": {
+      "title": "Prosecutors won't seek the death penalty for Nick Reiner",
+      "slug": "prosecutors-wont-seek-the-death-penalty-for-nick-reiner",
+      "url": "https://ushotnews.online/article/prosecutors-wont-seek-the-death-penalty-for-nick-reiner",
+      "article_url": "https://ushotnews.online/article/prosecutors-wont-seek-the-death-penalty-for-nick-reiner",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106532509471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106532509471257",
+      "fb_comment_id": "122106532509471257_1064356749570175",
+      "posted_at": "2026-09-15T21:13:48.695291+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-15T20:01:34.915190+00:00"
+  "last_cleaned_at": "2026-09-15T21:13:31.289369+00:00"
 }
