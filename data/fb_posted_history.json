@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T07:17:21.212666+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-16T09:50:55.049247+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-f48e58be68": {
       "title": "Uninvited woman enters Kamala Harris' Malibu property prompting sheriff response: reports",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106892383471257",
       "fb_comment_id": "122106892383471257_1683431759810248",
       "posted_at": "2026-09-16T07:17:21.212595+00:00"
+    },
+    "scraped-91881d79ae": {
+      "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
+      "slug": "judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
+      "url": "https://ushotnews.online/article/judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
+      "article_url": "https://ushotnews.online/article/judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107004937471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107004937471257",
+      "fb_comment_id": "122107004937471257_964847656637859",
+      "posted_at": "2026-09-16T09:50:55.049167+00:00"
+    },
+    "judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official": {
+      "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
+      "slug": "judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
+      "url": "https://ushotnews.online/article/judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
+      "article_url": "https://ushotnews.online/article/judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107004937471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107004937471257",
+      "fb_comment_id": "122107004937471257_964847656637859",
+      "posted_at": "2026-09-16T09:50:55.049167+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-16T07:17:08.774275+00:00"
+  "last_cleaned_at": "2026-09-16T09:50:38.759438+00:00"
 }
