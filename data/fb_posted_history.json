@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T01:32:35.154384+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-16T04:39:47.747046+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-565fcb78cb": {
       "title": "OpenAI’s rogue AI tried to hack another company in May",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106681885471257",
       "fb_comment_id": "122106681885471257_886401651071340",
       "posted_at": "2026-09-16T01:32:35.154323+00:00"
+    },
+    "scraped-2773705ec8": {
+      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+      "slug": "the-eos-r8-mark-ii-is-canons-lightest-full-frame-camera-with-stabilization",
+      "url": "https://ushotnews.online/article/the-eos-r8-mark-ii-is-canons-lightest-full-frame-camera-with-stabilization",
+      "article_url": "https://ushotnews.online/article/the-eos-r8-mark-ii-is-canons-lightest-full-frame-camera-with-stabilization",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106797991471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106797991471257",
+      "fb_comment_id": "122106797991471257_3091848164353654",
+      "posted_at": "2026-09-16T04:39:47.746978+00:00"
+    },
+    "the-eos-r8-mark-ii-is-canons-lightest-full-frame-camera-with-stabilization": {
+      "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+      "slug": "the-eos-r8-mark-ii-is-canons-lightest-full-frame-camera-with-stabilization",
+      "url": "https://ushotnews.online/article/the-eos-r8-mark-ii-is-canons-lightest-full-frame-camera-with-stabilization",
+      "article_url": "https://ushotnews.online/article/the-eos-r8-mark-ii-is-canons-lightest-full-frame-camera-with-stabilization",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122106797991471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106797991471257",
+      "fb_comment_id": "122106797991471257_3091848164353654",
+      "posted_at": "2026-09-16T04:39:47.746978+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-16T01:32:24.749320+00:00"
+  "last_cleaned_at": "2026-09-16T04:39:36.014411+00:00"
 }
