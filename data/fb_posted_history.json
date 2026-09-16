@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T22:03:52.514927+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-09-16T23:10:07.426993+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-a5be695a37": {
       "title": "Kyler Murray knocked out of Vikings debut after forearm to the helmet and blow to neck by two Packers",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107593717471257",
       "fb_comment_id": "122107593717471257_1654657179602514",
       "posted_at": "2026-09-16T22:03:52.514865+00:00"
+    },
+    "scraped-0fbd18ddcf": {
+      "title": "Matt Fitzpatrick shares why he feels uncomfortable about traveling to Middle East for DP World Tour finale",
+      "slug": "matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
+      "url": "https://ushotnews.online/article/matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
+      "article_url": "https://ushotnews.online/article/matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107629087471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107629087471257",
+      "fb_comment_id": "122107629087471257_2026912721346251",
+      "posted_at": "2026-09-16T23:10:07.426930+00:00"
+    },
+    "matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w": {
+      "title": "Matt Fitzpatrick shares why he feels uncomfortable about traveling to Middle East for DP World Tour finale",
+      "slug": "matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
+      "url": "https://ushotnews.online/article/matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
+      "article_url": "https://ushotnews.online/article/matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107629087471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107629087471257",
+      "fb_comment_id": "122107629087471257_2026912721346251",
+      "posted_at": "2026-09-16T23:10:07.426930+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-16T22:03:41.292294+00:00"
+  "last_cleaned_at": "2026-09-16T23:09:57.268769+00:00"
 }
