@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T12:44:20.906541+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-16T14:49:40.455304+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-f86f2f468a": {
       "title": "Southern breakfast chain in just 3 states beats McDonald's, Chick-fil-A for best in America",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107135635471257",
       "fb_comment_id": "122107135635471257_1443987797635196",
       "posted_at": "2026-09-16T12:44:20.906473+00:00"
+    },
+    "scraped-f2a7f3b536": {
+      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
+      "slug": "eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
+      "url": "https://ushotnews.online/article/eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
+      "article_url": "https://ushotnews.online/article/eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107254495471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107254495471257",
+      "fb_comment_id": "122107254495471257_1456001936370998",
+      "posted_at": "2026-09-16T14:49:40.455228+00:00"
+    },
+    "eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member": {
+      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
+      "slug": "eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
+      "url": "https://ushotnews.online/article/eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
+      "article_url": "https://ushotnews.online/article/eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107254495471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107254495471257",
+      "fb_comment_id": "122107254495471257_1456001936370998",
+      "posted_at": "2026-09-16T14:49:40.455228+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-16T12:44:00.651407+00:00"
+  "last_cleaned_at": "2026-09-16T14:49:25.605273+00:00"
 }
