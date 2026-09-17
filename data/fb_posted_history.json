@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T01:36:48.310644+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-09-17T06:01:29.888195+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-2a2ad5a026": {
       "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107714041471257",
       "fb_comment_id": "122107714041471257_1065056409776402",
       "posted_at": "2026-09-17T01:36:48.310582+00:00"
+    },
+    "scraped-f23693984b": {
+      "title": "Young newlyweds killed after boat collides with water taxi and sinks in Venice lagoon",
+      "slug": "young-newlyweds-killed-after-boat-collides-with-water-taxi-and-sinks-in-venice-lagoon",
+      "url": "https://ushotnews.online/article/young-newlyweds-killed-after-boat-collides-with-water-taxi-and-sinks-in-venice-lagoon",
+      "article_url": "https://ushotnews.online/article/young-newlyweds-killed-after-boat-collides-with-water-taxi-and-sinks-in-venice-lagoon",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107885689471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107885689471257",
+      "fb_comment_id": "122107885689471257_969149428778301",
+      "posted_at": "2026-09-17T06:01:29.888130+00:00"
+    },
+    "young-newlyweds-killed-after-boat-collides-with-water-taxi-and-sinks-in-venice-lagoon": {
+      "title": "Young newlyweds killed after boat collides with water taxi and sinks in Venice lagoon",
+      "slug": "young-newlyweds-killed-after-boat-collides-with-water-taxi-and-sinks-in-venice-lagoon",
+      "url": "https://ushotnews.online/article/young-newlyweds-killed-after-boat-collides-with-water-taxi-and-sinks-in-venice-lagoon",
+      "article_url": "https://ushotnews.online/article/young-newlyweds-killed-after-boat-collides-with-water-taxi-and-sinks-in-venice-lagoon",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107885689471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107885689471257",
+      "fb_comment_id": "122107885689471257_969149428778301",
+      "posted_at": "2026-09-17T06:01:29.888130+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-17T01:36:38.953744+00:00"
+  "last_cleaned_at": "2026-09-17T06:01:17.516799+00:00"
 }
