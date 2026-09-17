@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-17T20:31:21.637185+00:00",
+  "last_updated": "2026-09-17T23:02:25.556945+00:00",
   "posted_count": 66,
   "articles": {
-    "scraped-193ea7a9eb": {
-      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
-      "slug": "alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
-      "url": "https://ushotnews.online/article/alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
-      "article_url": "https://ushotnews.online/article/alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105604945471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105604945471257",
-      "fb_comment_id": "122105604945471257_1979788486061908",
-      "posted_at": "2026-09-14T22:38:36.986398+00:00"
-    },
-    "alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas": {
-      "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
-      "slug": "alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
-      "url": "https://ushotnews.online/article/alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
-      "article_url": "https://ushotnews.online/article/alibaba-and-amazon-face-the-same-ai-spending-question-how-quickly-does-capacity-become-cas",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105604945471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105604945471257",
-      "fb_comment_id": "122105604945471257_1979788486061908",
-      "posted_at": "2026-09-14T22:38:36.986398+00:00"
-    },
     "scraped-c947a426e8": {
       "title": "Texas GOP candidate stands by xenophobic comments following backlash",
       "slug": "texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
@@ -727,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108677923471257",
       "fb_comment_id": "122108677923471257_2244416979670016",
       "posted_at": "2026-09-17T20:31:21.637110+00:00"
+    },
+    "scraped-e891338792": {
+      "title": "Starbucks agrees to DEI overhaul after blockbuster Florida legal showdown",
+      "slug": "starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
+      "url": "https://ushotnews.online/article/starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
+      "article_url": "https://ushotnews.online/article/starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108781663471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108781663471257",
+      "fb_comment_id": "122108781663471257_1806499924127734",
+      "posted_at": "2026-09-17T23:02:25.556880+00:00"
+    },
+    "starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown": {
+      "title": "Starbucks agrees to DEI overhaul after blockbuster Florida legal showdown",
+      "slug": "starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
+      "url": "https://ushotnews.online/article/starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
+      "article_url": "https://ushotnews.online/article/starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108781663471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108781663471257",
+      "fb_comment_id": "122108781663471257_1806499924127734",
+      "posted_at": "2026-09-17T23:02:25.556880+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-17T20:31:11.694196+00:00"
+  "last_cleaned_at": "2026-09-17T23:02:16.175063+00:00"
 }
