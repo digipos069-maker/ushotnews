@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-17T07:12:54.826679+00:00",
+  "last_updated": "2026-09-17T11:34:25.480698+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-8b2cdd9d3b": {
-      "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
-      "slug": "cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
-      "url": "https://ushotnews.online/article/cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
-      "article_url": "https://ushotnews.online/article/cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122104926267471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104926267471257",
-      "fb_comment_id": "122104926267471257_28218462874492398",
-      "posted_at": "2026-09-14T07:50:54.659025+00:00"
-    },
-    "cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i": {
-      "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
-      "slug": "cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
-      "url": "https://ushotnews.online/article/cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
-      "article_url": "https://ushotnews.online/article/cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122104926267471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104926267471257",
-      "fb_comment_id": "122104926267471257_28218462874492398",
-      "posted_at": "2026-09-14T07:50:54.659025+00:00"
-    },
     "scraped-b5186f5c9b": {
       "title": "Denny Hamlin says forward-facing sonar in professional bass fishing has gone 'a little overboard'",
       "slug": "denny-hamlin-says-forward-facing-sonar-in-professional-bass-fishing-has-gone-a-little-over",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107932807471257",
       "fb_comment_id": "122107932807471257_972655775848376",
       "posted_at": "2026-09-17T07:12:54.826622+00:00"
+    },
+    "scraped-47d9d20031": {
+      "title": "Swarmer Targets $200M in Pro Forma Revenue Next Year – Report",
+      "slug": "swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
+      "url": "https://ushotnews.online/article/swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
+      "article_url": "https://ushotnews.online/article/swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108120511471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108120511471257",
+      "fb_comment_id": "122108120511471257_4798258110393857",
+      "posted_at": "2026-09-17T11:34:25.480627+00:00"
+    },
+    "swarmer-targets-200m-in-pro-forma-revenue-next-year-report": {
+      "title": "Swarmer Targets $200M in Pro Forma Revenue Next Year – Report",
+      "slug": "swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
+      "url": "https://ushotnews.online/article/swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
+      "article_url": "https://ushotnews.online/article/swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108120511471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108120511471257",
+      "fb_comment_id": "122108120511471257_4798258110393857",
+      "posted_at": "2026-09-17T11:34:25.480627+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-17T07:12:41.411124+00:00"
+  "last_cleaned_at": "2026-09-17T11:34:14.433680+00:00"
 }
