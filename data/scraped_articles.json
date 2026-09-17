@@ -1,5 +1,930 @@
 [
   {
+    "id": "scraped-2c1ddfd3c1",
+    "slug": "democratic-advisers-are-warning-their-candidates-not-to-go-too-hard-at-ai",
+    "guid": "000001a0-b075-d670-a7ea-f7fd2dda0001",
+    "title": "Democratic advisers are warning their candidates not to go too hard at AI",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Democratic consultants are warning their candidates in some key races not to lean into AI regulations out of fear that powerful tech groups could spend heavily against them.",
+    "content": [
+      "Democratic consultants are warning their candidates in some key races not to lean into AI regulations out of fear that powerful tech groups could spend heavily against them.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://static.politico.com/2c/71/d4a00e4f4c45a3fa5186f971ec48/u-s-congress-33454.jpg",
+    "imageCaption": "Democratic advisers are warning their candidates not to go t... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T17:55:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0d88b41e63",
+    "slug": "heres-how-many-americans-have-500k-saved-for-retirement-and-its-more-than-you-might-think-",
+    "guid": "many-americans-500k-saved-retirement-114500328.html",
+    "title": "Here’s how many Americans have $500K saved for retirement — and it’s more than you might think. Are you in this group?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Here’s how many Americans have $500K saved for retirement — and it’s more than you might think. Are you in this group?",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/moneywise_ecomm_711/337e828d0ab51f0dd37d449bbc85430f.jpg",
+    "imageCaption": "Here’s how many Americans have $500K saved for retirement — ... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-16T11:45:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-29ada9f145",
+    "slug": "steris-stock-is-ste-underperforming-the-healthcare-sector",
+    "guid": "steris-stock-ste-underperforming-healthcare-114339003.html",
+    "title": "STERIS Stock: Is STE Underperforming the Healthcare Sector?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "STERIS Stock: Is STE Underperforming the Healthcare Sector?",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/a1541d084b4963d505efa9a04134f53c.jpg",
+    "imageCaption": "STERIS Stock: Is STE Underperforming the Healthcare Sector?... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-16T11:43:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0dd8c037cb",
+    "slug": "fincom-exits-stealth-with-20m-to-expand-payment-rails",
+    "guid": "fin-com-exits-stealth-20m-115331301.html",
+    "title": "Fin.com exits stealth with $20m to expand payment rails",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Fin.com exits stealth with $20m to expand payment rails",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/electronic_payments_938/4d4b14d50d8c810fef55984d8b38d95b.jpg",
+    "imageCaption": "Fin.com exits stealth with $20m to expand payment rails... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-16T11:53:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ef0a402051",
+    "slug": "the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
+    "guid": "finance-bros-gonna-hate-tori-120000680.html",
+    "title": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/moneywise_327/c6a907c0888a4eb32f14d2de04240566.jpg",
+    "imageCaption": "'The finance bros are gonna hate me for this': Tori Dunlap s... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-16T12:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-476fd6053e",
+    "slug": "how-is-teradyne-stock-performance-compared-to-other-semiconductor-stocks",
+    "guid": "teradyne-stock-performance-compared-other-114846545.html",
+    "title": "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "How Is Teradyne Stock Performance Compared to Other Semiconductor Stocks",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/8aa947ed794f936d580be081f492ca1f.jpg",
+    "imageCaption": "How Is Teradyne Stock Performance Compared to Other Semicond... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-16T11:48:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-29b6060ca7",
+    "slug": "is-west-pharmaceutical-services-stock-outperforming-the-nasdaq",
+    "guid": "west-pharmaceutical-services-stock-outperforming-115008400.html",
+    "title": "Is West Pharmaceutical Services Stock Outperforming the Nasdaq?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Is West Pharmaceutical Services Stock Outperforming the Nasdaq?",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/8c837d55b2afe6d5f42992c7b8b2b750.jpg",
+    "imageCaption": "Is West Pharmaceutical Services Stock Outperforming the Nasd... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-16T11:50:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-48071d5e03",
+    "slug": "is-aptiv-underperforming-the-nasdaq",
+    "guid": "aptiv-underperforming-nasdaq-115437795.html",
+    "title": "Is Aptiv Underperforming the Nasdaq?",
+    "kicker": "YAHOO FINANCE US EXCLUSIVE",
+    "summary": "Is Aptiv Underperforming the Nasdaq?",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Yahoo Finance US newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://media.zenfs.com/en/barchart_com_477/ce057775b861c18763c5281c1388b9ed.jpg",
+    "imageCaption": "Is Aptiv Underperforming the Nasdaq?... Reported by Yahoo Finance US.",
+    "author": {
+      "name": "Yahoo Finance US Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-16T11:54:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "YahooFinanceUS",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-acff2e6b6d",
+    "slug": "claude-code-relaunches-projects-to-manage-multiple-ai-agents-in-the-cloud",
+    "guid": "https://www.theverge.com/?p=997134",
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: [&#8230;]",
+    "content": [
+      "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project has \"threads\" running different tasks in parallel, with a \"coordinator\" directing everything: [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Claude Code relaunches Projects to manage multiple AI agents... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T18:58:05+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-267b8160b3",
+    "slug": "the-ai-superintelligence-slowdown",
+    "guid": "https://www.theverge.com/?post_type=vm_stream&p=996923",
+    "title": "The AI Superintelligence Slowdown",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
+    "content": [
+      "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The AI Superintelligence Slowdown... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T19:28:24+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f5284688ce",
+    "slug": "can-an-ai-chatbot-save-lives-by-answering-texts-about-pregnancy",
+    "guid": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+    "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
+    "content": [
+      "Many questions come up during pregnancy. Is swelling normal? Are avocados safe to eat? For folks in Kenya who don't have a search engine at their fingertips, a chatbot is offering a lifeline.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Can an AI chatbot save lives by answering texts about pregna... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T19:33:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e4bf9202f3",
+    "slug": "ice-agent-appears-in-minnesota-court-to-face-charges-in-the-shooting-of-a-venezuelan-immig",
+    "guid": "https://www.npr.org/2026/09/17/nx-s1-5973127/ice-agent-court-extradition-minnesota-immigrant-shooting",
+    "title": "ICE agent appears in Minnesota court to face charges in the shooting of a Venezuelan immigrant",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Christian Castro, a federal immigration officer, made his first court appearance in Minnesota since he was booked Wednesday into a local jail. Castro faces multiple state and federal charges in connection with a shooting during the immigration surge in Minnesota.",
+    "content": [
+      "Christian Castro, a federal immigration officer, made his first court appearance in Minnesota since he was booked Wednesday into a local jail. Castro faces multiple state and federal charges in connection with a shooting during the immigration surge in Minnesota.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "ICE agent appears in Minnesota court to face charges in the ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T20:23:34+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dfb25dcc85",
+    "slug": "boston-red-sox-send-sonny-gray-to-the-mound-against-texas-rangers-in-key-mlb-matchup-tonig",
+    "guid": "https://www.foxnews.com/outkick/boston-red-sox-send-sonny-gray-mound-texas-rangers-key-mlb-matchup-tonight",
+    "title": "Boston Red Sox send Sonny Gray to the mound against Texas Rangers in key MLB matchup tonight",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sonny Gray and the Boston Red Sox face the Texas Rangers in a crucial matchup with Wild Card and AL West division implications on the line.",
+    "content": [
+      "Sonny Gray and the Boston Red Sox face the Texas Rangers in a crucial matchup with Wild Card and AL West division implications on the line.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/sonny-gray-red-sox-pitch-fox-news-001.jpeg?ve=1&tl=1",
+    "imageCaption": "Boston Red Sox send Sonny Gray to the mound against Texas Ra... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T19:46:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8b641a6f54",
+    "slug": "best-hikes-in-and-around-oxford-to-get-you-ready-for-ole-miss-lsus-week-three-showdown",
+    "guid": "https://www.foxnews.com/outkick-culture/best-hikes-oxford-ole-miss-lsu-week-three-showdown",
+    "title": "Best hikes in and around Oxford to get you ready for Ole Miss-LSU's week three showdown",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "From Sardis Lake&apos;s 13-mile Clear Creek Trail to the family-friendly Lamar Park walking loop, these Oxford hikes are perfect before Ole Miss vs. LSU.",
+    "content": [
+      "From Sardis Lake&apos;s 13-mile Clear Creek Trail to the family-friendly Lamar Park walking loop, these Oxford hikes are perfect before Ole Miss vs. LSU.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/ole-miss-rebels-helmet-college-football-playoff.jpg?ve=1&tl=1",
+    "imageCaption": "Best hikes in and around Oxford to get you ready for Ole Mis... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T19:55:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e891338792",
+    "slug": "starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
+    "guid": "https://www.foxnews.com/politics/starbucks-agrees-dei-overhaul-after-blockbuster-florida-legal-showdown",
+    "title": "Starbucks agrees to DEI overhaul after blockbuster Florida legal showdown",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Starbucks settlement requires four years of annual compliance certifications and applies to all company operations, not just Florida stores.",
+    "content": [
+      "The Starbucks settlement requires four years of annual compliance certifications and applies to all company operations, not just Florida stores.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/uthmeier-sues-starbucks.jpg?ve=1&tl=1",
+    "imageCaption": "Starbucks agrees to DEI overhaul after blockbuster Florida l... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T20:03:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-57f975032b",
+    "slug": "charlies-angels-actress-claims-costar-invited-her-to-threesome-a-contraband-bra-for-love-n",
+    "guid": "https://www.foxnews.com/outkick-culture/charlies-angels-actress-claims-costar-invited-threesome-contraband-bra-love-no-harm-no-foul",
+    "title": "'Charlie's Angels' actress claims costar invited her to threesome, a contraband bra for love & no harm no foul",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jaclyn Smith claims Tanya Roberts invited her to join a threesome during a flight to Hawaii, revealing an intimate “Charlie’s Angels set secret.",
+    "content": [
+      "Jaclyn Smith claims Tanya Roberts invited her to join a threesome during a flight to Hawaii, revealing an intimate “Charlie’s Angels set secret.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/charlies-angels-season-five-1980.jpg?ve=1&tl=1",
+    "imageCaption": "'Charlie's Angels' actress claims costar invited her to thre... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T20:05:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d06c8c3ef3",
+    "slug": "mackenzie-phillips-makes-new-claims-about-fathers-alleged-abuse",
+    "guid": "https://www.foxnews.com/entertainment/mackenzie-phillips-makes-new-claims-father-alleged-abuse",
+    "title": "Mackenzie Phillips makes new claims about father's alleged abuse",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Mackenzie Phillips revealed a letter from a family friend corroborated her abuse claims against father John Phillips on Valerie Bertinelli&apos;s podcast.",
+    "content": [
+      "Mackenzie Phillips revealed a letter from a family friend corroborated her abuse claims against father John Phillips on Valerie Bertinelli&apos;s podcast.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/john-mackenzie-phillips-fair-oaks-hospital.jpg?ve=1&tl=1",
+    "imageCaption": "Mackenzie Phillips makes new claims about father's alleged a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T20:07:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1880bc12d0",
+    "slug": "lane-kiffins-return-to-ole-miss-comes-with-betrayal-lawsuits-and-memories-of-him-trying-to",
+    "guid": "https://www.foxnews.com/outkick-sports/lane-kiffin-return-ole-miss-betrayal-lawsuits-memories-trying-burn-down",
+    "title": "Lane Kiffin’s return to Ole Miss comes with betrayal, lawsuits and memories of him trying to burn it all down",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trinidad Chambliss stayed at Ole Miss despite Lane Kiffin&apos;s alleged efforts to lure him to LSU, and now the Rebels are ready to wreck his return.",
+    "content": [
+      "Trinidad Chambliss stayed at Ole Miss despite Lane Kiffin&apos;s alleged efforts to lure him to LSU, and now the Rebels are ready to wreck his return.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lane-kiffin-speech-lsu-featured.jpg?ve=1&tl=1",
+    "imageCaption": "Lane Kiffin’s return to Ole Miss comes with betrayal, lawsui... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T20:10:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4222c5d5ff",
+    "slug": "texas-air-national-guard-pilot-ejects-safely-before-f-16-crash-in-michigan",
+    "guid": "https://www.foxnews.com/us/texas-air-national-guard-pilot-ejects-safely-before-f-16-crash-michigan",
+    "title": "Texas Air National Guard pilot ejects safely before F-16 crash in Michigan",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Texas Air National Guard pilot ejected from an F-16 near Traverse City during a training mission, and video shows black smoke rising from the crash site.",
+    "content": [
+      "A Texas Air National Guard pilot ejected from an F-16 near Traverse City during a training mission, and video shows black smoke rising from the crash site.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/f-16-jet-02.jpg?ve=1&tl=1",
+    "imageCaption": "Texas Air National Guard pilot ejects safely before F-16 cra... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T20:13:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0f589bee51",
+    "slug": "ed-sheeran-faces-growing-backlash-as-radio-station-bans-songs-protest-groups-respond-to-ma",
+    "guid": "https://www.foxnews.com/entertainment/ed-sheeran-faces-growing-backlash-radio-station-bans-songs-protest-groups-respond-macklemores-removal",
+    "title": "Ed Sheeran faces growing backlash as radio station bans songs, protest groups respond to Macklemore's removal",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Classic Hits Radio announced it will stop playing Ed Sheeran&apos;s music after backlash over Macklemore&apos;s removal from the Loop Tour over Gaza protests.",
+    "content": [
+      "Classic Hits Radio announced it will stop playing Ed Sheeran&apos;s music after backlash over Macklemore&apos;s removal from the Loop Tour over Gaza protests.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ed-sheeran-on-stage.jpg?ve=1&tl=1",
+    "imageCaption": "Ed Sheeran faces growing backlash as radio station bans song... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T20:20:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-786b5cfce5",
+    "slug": "amid-calls-for-urgent-ai-action-from-congress-house-heads-home-to-campaign",
+    "guid": "108363889",
+    "title": "Amid calls for urgent AI action from Congress, House heads home to campaign",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+    "content": [
+      "The urgency with which Anthropic, OpenAI and xAI have sought to be regulated has not translated into action on Capitol Hill.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Amid calls for urgent AI action from Congress, House heads h... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T17:42:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d75ac9cb17",
+    "slug": "securitize-jumps-after-regulators-greenlight-some-tokenized-us-stock-trading",
+    "guid": "108364535",
+    "title": "Securitize jumps after regulators greenlight some tokenized U.S. stock trading",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
+    "content": [
+      "Securitize surged Thursday after federal regulators greenlit the issuing of tokenized stocks on some trading platforms in the U.S.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Securitize jumps after regulators greenlight some tokenized ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T17:59:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2f3f1d6e6d",
+    "slug": "jensen-huang-says-nvidia-will-sell-twice-as-many-chips-next-year",
+    "guid": "108364460",
+    "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
+    "content": [
+      "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jensen Huang says Nvidia will sell twice as many chips next ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T18:23:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6687f916ef",
+    "slug": "lawmakers-must-keep-their-options-open-on-social-security-reform-former-treasury-secretary",
+    "guid": "108364577",
+    "title": "Lawmakers must 'keep their options open' on Social Security reform, former Treasury Secretary Jack Lew says",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The next U.S. president and candidates for Senate this November will be tasked with addressing Social Security's funding shortfall.",
+    "content": [
+      "The next U.S. president and candidates for Senate this November will be tasked with addressing Social Security's funding shortfall.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Lawmakers must 'keep their options open' on Social Security ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T19:57:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-015e70ffef",
+    "slug": "as-republicans-tout-trumps-big-beautiful-bill-heres-who-the-tax-breaks-benefited-most",
+    "guid": "108363836",
+    "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "As the midterm elections approach, Republicans are touting President Donald Trump's \"big beautiful bill\" to voters. Here's who benefited from the tax cuts.",
+    "content": [
+      "As the midterm elections approach, Republicans are touting President Donald Trump's \"big beautiful bill\" to voters. Here's who benefited from the tax cuts.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "As Republicans tout Trump's 'big beautiful bill,' here's who... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-17T20:08:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-523ce8aea0",
     "slug": "jim-cramer-on-tesla-tsla-my-only-solution-to-it-is-that-spacex-has-to-buy-it",
     "guid": "jim-cramer-tesla-tsla-only-164733818.html",
