@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-17T23:02:25.556945+00:00",
+  "last_updated": "2026-09-17T23:23:08.408301+00:00",
   "posted_count": 66,
   "articles": {
-    "scraped-c947a426e8": {
-      "title": "Texas GOP candidate stands by xenophobic comments following backlash",
-      "slug": "texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
-      "url": "https://ushotnews.online/article/texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
-      "article_url": "https://ushotnews.online/article/texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105618205471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105618205471257",
-      "fb_comment_id": "122105618205471257_28095937360088407",
-      "posted_at": "2026-09-14T23:04:30.492226+00:00"
-    },
-    "texas-gop-candidate-stands-by-xenophobic-comments-following-backlash": {
-      "title": "Texas GOP candidate stands by xenophobic comments following backlash",
-      "slug": "texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
-      "url": "https://ushotnews.online/article/texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
-      "article_url": "https://ushotnews.online/article/texas-gop-candidate-stands-by-xenophobic-comments-following-backlash",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105618205471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105618205471257",
-      "fb_comment_id": "122105618205471257_28095937360088407",
-      "posted_at": "2026-09-14T23:04:30.492226+00:00"
-    },
     "scraped-872d48acfa": {
       "title": "Supreme Court rejects Trump bid to revive strict mail-ballot rules before midterms",
       "slug": "supreme-court-rejects-trump-bid-to-revive-strict-mail-ballot-rules-before-midterms",
@@ -727,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108781663471257",
       "fb_comment_id": "122108781663471257_1806499924127734",
       "posted_at": "2026-09-17T23:02:25.556880+00:00"
+    },
+    "scraped-ef0a402051": {
+      "title": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
+      "slug": "the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
+      "url": "https://ushotnews.online/article/the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
+      "article_url": "https://ushotnews.online/article/the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108797107471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108797107471257",
+      "fb_comment_id": "122108797107471257_1082546200847758",
+      "posted_at": "2026-09-17T23:23:08.408239+00:00"
+    },
+    "the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi": {
+      "title": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
+      "slug": "the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
+      "url": "https://ushotnews.online/article/the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
+      "article_url": "https://ushotnews.online/article/the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108797107471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108797107471257",
+      "fb_comment_id": "122108797107471257_1082546200847758",
+      "posted_at": "2026-09-17T23:23:08.408239+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-17T23:02:16.175063+00:00"
+  "last_cleaned_at": "2026-09-17T23:22:58.068867+00:00"
 }
