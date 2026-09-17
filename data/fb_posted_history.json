@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T11:34:25.480698+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-09-17T12:42:52.920698+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-b5186f5c9b": {
       "title": "Denny Hamlin says forward-facing sonar in professional bass fishing has gone 'a little overboard'",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108120511471257",
       "fb_comment_id": "122108120511471257_4798258110393857",
       "posted_at": "2026-09-17T11:34:25.480627+00:00"
+    },
+    "scraped-37f6a8638a": {
+      "title": "Trump’s Surgeon General Pick Loves These 3 Tobacco Stocks",
+      "slug": "trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
+      "url": "https://ushotnews.online/article/trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
+      "article_url": "https://ushotnews.online/article/trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108183595471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108183595471257",
+      "fb_comment_id": "122108183595471257_2261266011327964",
+      "posted_at": "2026-09-17T12:42:52.920635+00:00"
+    },
+    "trumps-surgeon-general-pick-loves-these-3-tobacco-stocks": {
+      "title": "Trump’s Surgeon General Pick Loves These 3 Tobacco Stocks",
+      "slug": "trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
+      "url": "https://ushotnews.online/article/trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
+      "article_url": "https://ushotnews.online/article/trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108183595471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108183595471257",
+      "fb_comment_id": "122108183595471257_2261266011327964",
+      "posted_at": "2026-09-17T12:42:52.920635+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-17T11:34:14.433680+00:00"
+  "last_cleaned_at": "2026-09-17T12:42:39.473999+00:00"
 }
