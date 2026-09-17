@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T20:11:55.156143+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-09-17T20:31:21.637185+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-193ea7a9eb": {
       "title": "Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108662245471257",
       "fb_comment_id": "122108662245471257_1384572233287687",
       "posted_at": "2026-09-17T20:11:55.156071+00:00"
+    },
+    "scraped-1b26874fd9": {
+      "title": "Greetings from Beijing, where baozi are worth the wait in line",
+      "slug": "greetings-from-beijing-where-baozi-are-worth-the-wait-in-line",
+      "url": "https://ushotnews.online/article/greetings-from-beijing-where-baozi-are-worth-the-wait-in-line",
+      "article_url": "https://ushotnews.online/article/greetings-from-beijing-where-baozi-are-worth-the-wait-in-line",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108677923471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108677923471257",
+      "fb_comment_id": "122108677923471257_2244416979670016",
+      "posted_at": "2026-09-17T20:31:21.637110+00:00"
+    },
+    "greetings-from-beijing-where-baozi-are-worth-the-wait-in-line": {
+      "title": "Greetings from Beijing, where baozi are worth the wait in line",
+      "slug": "greetings-from-beijing-where-baozi-are-worth-the-wait-in-line",
+      "url": "https://ushotnews.online/article/greetings-from-beijing-where-baozi-are-worth-the-wait-in-line",
+      "article_url": "https://ushotnews.online/article/greetings-from-beijing-where-baozi-are-worth-the-wait-in-line",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108677923471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108677923471257",
+      "fb_comment_id": "122108677923471257_2244416979670016",
+      "posted_at": "2026-09-17T20:31:21.637110+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-17T20:11:39.673299+00:00"
+  "last_cleaned_at": "2026-09-17T20:31:11.694196+00:00"
 }
