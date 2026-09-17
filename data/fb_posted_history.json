@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-17T06:01:29.888195+00:00",
+  "last_updated": "2026-09-17T07:12:54.826679+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-2a2ad5a026": {
-      "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
-      "slug": "amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
-      "url": "https://ushotnews.online/article/amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
-      "article_url": "https://ushotnews.online/article/amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122104899981471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104899981471257",
-      "fb_comment_id": "122104899981471257_2113997652535062",
-      "posted_at": "2026-09-14T06:45:31.178787+00:00"
-    },
-    "amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway": {
-      "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
-      "slug": "amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
-      "url": "https://ushotnews.online/article/amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
-      "article_url": "https://ushotnews.online/article/amazon-suspends-use-of-21-air-cargo-carrier-whose-plane-careened-off-miami-runway",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122104899981471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122104899981471257",
-      "fb_comment_id": "122104899981471257_2113997652535062",
-      "posted_at": "2026-09-14T06:45:31.178787+00:00"
-    },
     "scraped-8b2cdd9d3b": {
       "title": "Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move",
       "slug": "cadbury-cut-two-months-off-its-supply-chain-lead-time-for-a-key-chocolate-bar-ingredient-i",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107885689471257",
       "fb_comment_id": "122107885689471257_969149428778301",
       "posted_at": "2026-09-17T06:01:29.888130+00:00"
+    },
+    "scraped-d1f7c3fc50": {
+      "title": "Brown & Brown Stock: Is BRO Underperforming the Financial Sector?",
+      "slug": "brown-brown-stock-is-bro-underperforming-the-financial-sector",
+      "url": "https://ushotnews.online/article/brown-brown-stock-is-bro-underperforming-the-financial-sector",
+      "article_url": "https://ushotnews.online/article/brown-brown-stock-is-bro-underperforming-the-financial-sector",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107932807471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107932807471257",
+      "fb_comment_id": "122107932807471257_972655775848376",
+      "posted_at": "2026-09-17T07:12:54.826622+00:00"
+    },
+    "brown-brown-stock-is-bro-underperforming-the-financial-sector": {
+      "title": "Brown & Brown Stock: Is BRO Underperforming the Financial Sector?",
+      "slug": "brown-brown-stock-is-bro-underperforming-the-financial-sector",
+      "url": "https://ushotnews.online/article/brown-brown-stock-is-bro-underperforming-the-financial-sector",
+      "article_url": "https://ushotnews.online/article/brown-brown-stock-is-bro-underperforming-the-financial-sector",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122107932807471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107932807471257",
+      "fb_comment_id": "122107932807471257_972655775848376",
+      "posted_at": "2026-09-17T07:12:54.826622+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-17T06:01:17.516799+00:00"
+  "last_cleaned_at": "2026-09-17T07:12:41.411124+00:00"
 }
