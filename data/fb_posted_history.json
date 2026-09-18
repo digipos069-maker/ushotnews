@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-17T23:23:08.408301+00:00",
+  "last_updated": "2026-09-18T01:23:22.278931+00:00",
   "posted_count": 66,
   "articles": {
-    "scraped-872d48acfa": {
-      "title": "Supreme Court rejects Trump bid to revive strict mail-ballot rules before midterms",
-      "slug": "supreme-court-rejects-trump-bid-to-revive-strict-mail-ballot-rules-before-midterms",
-      "url": "https://ushotnews.online/article/supreme-court-rejects-trump-bid-to-revive-strict-mail-ballot-rules-before-midterms",
-      "article_url": "https://ushotnews.online/article/supreme-court-rejects-trump-bid-to-revive-strict-mail-ballot-rules-before-midterms",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105697429471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105697429471257",
-      "fb_comment_id": "122105697429471257_1354382983121455",
-      "posted_at": "2026-09-15T01:11:18.993768+00:00"
-    },
-    "supreme-court-rejects-trump-bid-to-revive-strict-mail-ballot-rules-before-midterms": {
-      "title": "Supreme Court rejects Trump bid to revive strict mail-ballot rules before midterms",
-      "slug": "supreme-court-rejects-trump-bid-to-revive-strict-mail-ballot-rules-before-midterms",
-      "url": "https://ushotnews.online/article/supreme-court-rejects-trump-bid-to-revive-strict-mail-ballot-rules-before-midterms",
-      "article_url": "https://ushotnews.online/article/supreme-court-rejects-trump-bid-to-revive-strict-mail-ballot-rules-before-midterms",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105697429471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105697429471257",
-      "fb_comment_id": "122105697429471257_1354382983121455",
-      "posted_at": "2026-09-15T01:11:18.993768+00:00"
-    },
     "scraped-19d4c89ea3": {
       "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
       "slug": "clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
@@ -727,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108797107471257",
       "fb_comment_id": "122108797107471257_1082546200847758",
       "posted_at": "2026-09-17T23:23:08.408239+00:00"
+    },
+    "scraped-d770830bd1": {
+      "title": "Is Broadridge Financial Stock Underperforming the S&P 500?",
+      "slug": "is-broadridge-financial-stock-underperforming-the-sp-500",
+      "url": "https://ushotnews.online/article/is-broadridge-financial-stock-underperforming-the-sp-500",
+      "article_url": "https://ushotnews.online/article/is-broadridge-financial-stock-underperforming-the-sp-500",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108884047471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108884047471257",
+      "fb_comment_id": "122108884047471257_4487236488207576",
+      "posted_at": "2026-09-18T01:23:22.278870+00:00"
+    },
+    "is-broadridge-financial-stock-underperforming-the-sp-500": {
+      "title": "Is Broadridge Financial Stock Underperforming the S&P 500?",
+      "slug": "is-broadridge-financial-stock-underperforming-the-sp-500",
+      "url": "https://ushotnews.online/article/is-broadridge-financial-stock-underperforming-the-sp-500",
+      "article_url": "https://ushotnews.online/article/is-broadridge-financial-stock-underperforming-the-sp-500",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108884047471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108884047471257",
+      "fb_comment_id": "122108884047471257_4487236488207576",
+      "posted_at": "2026-09-18T01:23:22.278870+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-17T23:22:58.068867+00:00"
+  "last_cleaned_at": "2026-09-18T01:23:11.887177+00:00"
 }
