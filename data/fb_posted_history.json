@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T18:54:07.002103+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-18T19:31:42.961052+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-3b76d52826": {
       "title": "One of the best 3D printers for beginners is almost $100 off",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109868473471257",
       "fb_comment_id": "122109868473471257_1053816127461610",
       "posted_at": "2026-09-18T18:54:07.002045+00:00"
+    },
+    "scraped-ffe59ebbc6": {
+      "title": "How CodePink co-founder Medea Benjamin's family foundation became a major funder of left-wing activist groups",
+      "slug": "how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
+      "url": "https://ushotnews.online/article/how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
+      "article_url": "https://ushotnews.online/article/how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109904131471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109904131471257",
+      "fb_comment_id": "122109904131471257_2566802453732516",
+      "posted_at": "2026-09-18T19:31:42.960980+00:00"
+    },
+    "how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi": {
+      "title": "How CodePink co-founder Medea Benjamin's family foundation became a major funder of left-wing activist groups",
+      "slug": "how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
+      "url": "https://ushotnews.online/article/how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
+      "article_url": "https://ushotnews.online/article/how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109904131471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109904131471257",
+      "fb_comment_id": "122109904131471257_2566802453732516",
+      "posted_at": "2026-09-18T19:31:42.960980+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T18:53:56.433084+00:00"
+  "last_cleaned_at": "2026-09-18T19:31:19.096970+00:00"
 }
