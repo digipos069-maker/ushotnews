@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-18T21:50:14.127076+00:00",
+  "last_updated": "2026-09-18T23:30:02.522410+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-7b155a056c": {
-      "title": "CL Stock Alert: Colgate-Palmolive Reportedly Considers $1 Billion Brand Sale",
-      "slug": "cl-stock-alert-colgate-palmolive-reportedly-considers-1-billion-brand-sale",
-      "url": "https://ushotnews.online/article/cl-stock-alert-colgate-palmolive-reportedly-considers-1-billion-brand-sale",
-      "article_url": "https://ushotnews.online/article/cl-stock-alert-colgate-palmolive-reportedly-considers-1-billion-brand-sale",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106593919471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106593919471257",
-      "fb_comment_id": "122106593919471257_1695601498194010",
-      "posted_at": "2026-09-15T23:03:49.361520+00:00"
-    },
-    "cl-stock-alert-colgate-palmolive-reportedly-considers-1-billion-brand-sale": {
-      "title": "CL Stock Alert: Colgate-Palmolive Reportedly Considers $1 Billion Brand Sale",
-      "slug": "cl-stock-alert-colgate-palmolive-reportedly-considers-1-billion-brand-sale",
-      "url": "https://ushotnews.online/article/cl-stock-alert-colgate-palmolive-reportedly-considers-1-billion-brand-sale",
-      "article_url": "https://ushotnews.online/article/cl-stock-alert-colgate-palmolive-reportedly-considers-1-billion-brand-sale",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106593919471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106593919471257",
-      "fb_comment_id": "122106593919471257_1695601498194010",
-      "posted_at": "2026-09-15T23:03:49.361520+00:00"
-    },
     "scraped-0fff9e0ce9": {
       "title": "Senate moves to rein in college sports 'Wild West' with sweeping new rules for players, schools",
       "slug": "senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110028727471257",
       "fb_comment_id": "122110028727471257_1812792296565963",
       "posted_at": "2026-09-18T21:50:14.127010+00:00"
+    },
+    "scraped-5e89f4735d": {
+      "title": "Let’s beat California on AI, key Democrat says",
+      "slug": "lets-beat-california-on-ai-key-democrat-says",
+      "url": "https://ushotnews.online/article/lets-beat-california-on-ai-key-democrat-says",
+      "article_url": "https://ushotnews.online/article/lets-beat-california-on-ai-key-democrat-says",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110104285471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110104285471257",
+      "fb_comment_id": "122110104285471257_1129341386188278",
+      "posted_at": "2026-09-18T23:30:02.522333+00:00"
+    },
+    "lets-beat-california-on-ai-key-democrat-says": {
+      "title": "Let’s beat California on AI, key Democrat says",
+      "slug": "lets-beat-california-on-ai-key-democrat-says",
+      "url": "https://ushotnews.online/article/lets-beat-california-on-ai-key-democrat-says",
+      "article_url": "https://ushotnews.online/article/lets-beat-california-on-ai-key-democrat-says",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110104285471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110104285471257",
+      "fb_comment_id": "122110104285471257_1129341386188278",
+      "posted_at": "2026-09-18T23:30:02.522333+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T21:50:04.327966+00:00"
+  "last_cleaned_at": "2026-09-18T23:29:52.667703+00:00"
 }
