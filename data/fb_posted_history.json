@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-18T01:25:35.181917+00:00",
+  "last_updated": "2026-09-18T06:20:38.998683+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-19d4c89ea3": {
-      "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
-      "slug": "clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
-      "url": "https://ushotnews.online/article/clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
-      "article_url": "https://ushotnews.online/article/clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105713221471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105713221471257",
-      "fb_comment_id": "122105713221471257_1807031530442206",
-      "posted_at": "2026-09-15T01:50:42.648885+00:00"
-    },
-    "clear-channel-outdoor-cco-grows-fastest-right-before-going-private": {
-      "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
-      "slug": "clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
-      "url": "https://ushotnews.online/article/clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
-      "article_url": "https://ushotnews.online/article/clear-channel-outdoor-cco-grows-fastest-right-before-going-private",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105713221471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105713221471257",
-      "fb_comment_id": "122105713221471257_1807031530442206",
-      "posted_at": "2026-09-15T01:50:42.648885+00:00"
-    },
     "scraped-51e47259cd": {
       "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
       "slug": "10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-expectations-rise",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108885193471257",
       "fb_comment_id": "122108885193471257_2067692107213198",
       "posted_at": "2026-09-18T01:25:35.181852+00:00"
+    },
+    "scraped-88c8930285": {
+      "title": "Aptiv (APTV) Turns Chip Partnerships Into A Physical AI Bet",
+      "slug": "aptiv-aptv-turns-chip-partnerships-into-a-physical-ai-bet",
+      "url": "https://ushotnews.online/article/aptiv-aptv-turns-chip-partnerships-into-a-physical-ai-bet",
+      "article_url": "https://ushotnews.online/article/aptiv-aptv-turns-chip-partnerships-into-a-physical-ai-bet",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109128757471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109128757471257",
+      "fb_comment_id": "122109128757471257_2281399609351319",
+      "posted_at": "2026-09-18T06:20:38.998612+00:00"
+    },
+    "aptiv-aptv-turns-chip-partnerships-into-a-physical-ai-bet": {
+      "title": "Aptiv (APTV) Turns Chip Partnerships Into A Physical AI Bet",
+      "slug": "aptiv-aptv-turns-chip-partnerships-into-a-physical-ai-bet",
+      "url": "https://ushotnews.online/article/aptiv-aptv-turns-chip-partnerships-into-a-physical-ai-bet",
+      "article_url": "https://ushotnews.online/article/aptiv-aptv-turns-chip-partnerships-into-a-physical-ai-bet",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109128757471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109128757471257",
+      "fb_comment_id": "122109128757471257_2281399609351319",
+      "posted_at": "2026-09-18T06:20:38.998612+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T01:25:21.521012+00:00"
+  "last_cleaned_at": "2026-09-18T06:20:28.197553+00:00"
 }
