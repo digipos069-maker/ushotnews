@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-18T11:37:58.248193+00:00",
+  "last_updated": "2026-09-18T12:11:36.113204+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-8bc0df6cd1": {
-      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
-      "slug": "scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
-      "url": "https://ushotnews.online/article/scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
-      "article_url": "https://ushotnews.online/article/scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106136965471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106136965471257",
-      "fb_comment_id": "122106136965471257_1646939063496644",
-      "posted_at": "2026-09-15T12:00:46.586487+00:00"
-    },
-    "scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis": {
-      "title": "SCOTUS rejects Trump's mail voting limits. And, the Kennedy Center financial crisis",
-      "slug": "scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
-      "url": "https://ushotnews.online/article/scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
-      "article_url": "https://ushotnews.online/article/scotus-rejects-trumps-mail-voting-limits-and-the-kennedy-center-financial-crisis",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106136965471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106136965471257",
-      "fb_comment_id": "122106136965471257_1646939063496644",
-      "posted_at": "2026-09-15T12:00:46.586487+00:00"
-    },
     "scraped-acf637c229": {
       "title": "Prince Harry's first birthday back in Britain unlikely to bring reconciliation with the royal family: experts",
       "slug": "prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109481851471257",
       "fb_comment_id": "122109481851471257_1083176670970478",
       "posted_at": "2026-09-18T11:37:58.248132+00:00"
+    },
+    "scraped-27f82f6cc1": {
+      "title": "XOM Keeps Climbing. Should You Climb On?",
+      "slug": "xom-keeps-climbing-should-you-climb-on",
+      "url": "https://ushotnews.online/article/xom-keeps-climbing-should-you-climb-on",
+      "article_url": "https://ushotnews.online/article/xom-keeps-climbing-should-you-climb-on",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109512793471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109512793471257",
+      "fb_comment_id": "122109512793471257_1557144705693518",
+      "posted_at": "2026-09-18T12:11:36.113136+00:00"
+    },
+    "xom-keeps-climbing-should-you-climb-on": {
+      "title": "XOM Keeps Climbing. Should You Climb On?",
+      "slug": "xom-keeps-climbing-should-you-climb-on",
+      "url": "https://ushotnews.online/article/xom-keeps-climbing-should-you-climb-on",
+      "article_url": "https://ushotnews.online/article/xom-keeps-climbing-should-you-climb-on",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109512793471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109512793471257",
+      "fb_comment_id": "122109512793471257_1557144705693518",
+      "posted_at": "2026-09-18T12:11:36.113136+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T11:37:46.398971+00:00"
+  "last_cleaned_at": "2026-09-18T12:11:23.644397+00:00"
 }
