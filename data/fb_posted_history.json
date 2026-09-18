@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T21:26:52.082738+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-18T21:50:14.127076+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-7b155a056c": {
       "title": "CL Stock Alert: Colgate-Palmolive Reportedly Considers $1 Billion Brand Sale",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110005123471257",
       "fb_comment_id": "122110005123471257_2353695175435174",
       "posted_at": "2026-09-18T21:26:52.082652+00:00"
+    },
+    "scraped-adb5f61caa": {
+      "title": "Ball Corporation Stock: Is BALL Outperforming the Consumer Discretionary Sector?",
+      "slug": "ball-corporation-stock-is-ball-outperforming-the-consumer-discretionary-sector",
+      "url": "https://ushotnews.online/article/ball-corporation-stock-is-ball-outperforming-the-consumer-discretionary-sector",
+      "article_url": "https://ushotnews.online/article/ball-corporation-stock-is-ball-outperforming-the-consumer-discretionary-sector",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110028727471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110028727471257",
+      "fb_comment_id": "122110028727471257_1812792296565963",
+      "posted_at": "2026-09-18T21:50:14.127010+00:00"
+    },
+    "ball-corporation-stock-is-ball-outperforming-the-consumer-discretionary-sector": {
+      "title": "Ball Corporation Stock: Is BALL Outperforming the Consumer Discretionary Sector?",
+      "slug": "ball-corporation-stock-is-ball-outperforming-the-consumer-discretionary-sector",
+      "url": "https://ushotnews.online/article/ball-corporation-stock-is-ball-outperforming-the-consumer-discretionary-sector",
+      "article_url": "https://ushotnews.online/article/ball-corporation-stock-is-ball-outperforming-the-consumer-discretionary-sector",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110028727471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110028727471257",
+      "fb_comment_id": "122110028727471257_1812792296565963",
+      "posted_at": "2026-09-18T21:50:14.127010+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T21:26:40.845512+00:00"
+  "last_cleaned_at": "2026-09-18T21:50:04.327966+00:00"
 }
