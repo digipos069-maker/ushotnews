@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-18T06:20:38.998683+00:00",
+  "last_updated": "2026-09-18T06:33:12.018083+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-51e47259cd": {
-      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-      "slug": "10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-expectations-rise",
-      "url": "https://ushotnews.online/article/10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-expectations-rise",
-      "article_url": "https://ushotnews.online/article/10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-expectations-rise",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105872743471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105872743471257",
-      "fb_comment_id": "122105872743471257_2225036948423261",
-      "posted_at": "2026-09-15T06:27:47.276978+00:00"
-    },
-    "10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-expectations-rise": {
-      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
-      "slug": "10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-expectations-rise",
-      "url": "https://ushotnews.online/article/10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-expectations-rise",
-      "article_url": "https://ushotnews.online/article/10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-expectations-rise",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122105872743471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122105872743471257",
-      "fb_comment_id": "122105872743471257_2225036948423261",
-      "posted_at": "2026-09-15T06:27:47.276978+00:00"
-    },
     "scraped-d929865269": {
       "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing",
       "slug": "chinas-august-retail-sales-miss-forecast-while-investment-slump-deepens-piling-pressure-on",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109128757471257",
       "fb_comment_id": "122109128757471257_2281399609351319",
       "posted_at": "2026-09-18T06:20:38.998612+00:00"
+    },
+    "scraped-1eae76efe0": {
+      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
+      "slug": "federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-hap",
+      "url": "https://ushotnews.online/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-hap",
+      "article_url": "https://ushotnews.online/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-hap",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109136227471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109136227471257",
+      "fb_comment_id": "122109136227471257_1065610599512455",
+      "posted_at": "2026-09-18T06:33:12.018019+00:00"
+    },
+    "federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-hap": {
+      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens",
+      "slug": "federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-hap",
+      "url": "https://ushotnews.online/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-hap",
+      "article_url": "https://ushotnews.online/article/federal-reserve-interest-rate-hikes-usually-pound-stocks-but-then-something-surprising-hap",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109136227471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109136227471257",
+      "fb_comment_id": "122109136227471257_1065610599512455",
+      "posted_at": "2026-09-18T06:33:12.018019+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T06:20:28.197553+00:00"
+  "last_cleaned_at": "2026-09-18T06:32:58.741730+00:00"
 }
