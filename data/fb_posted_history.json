@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T01:23:22.278931+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-09-18T01:25:35.181917+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-19d4c89ea3": {
       "title": "Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private",
@@ -727,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108884047471257",
       "fb_comment_id": "122108884047471257_4487236488207576",
       "posted_at": "2026-09-18T01:23:22.278870+00:00"
+    },
+    "scraped-206749397d": {
+      "title": "Michael Dell Just Made a $7.7 Billion Bet on This Insurance Stock",
+      "slug": "michael-dell-just-made-a-77-billion-bet-on-this-insurance-stock",
+      "url": "https://ushotnews.online/article/michael-dell-just-made-a-77-billion-bet-on-this-insurance-stock",
+      "article_url": "https://ushotnews.online/article/michael-dell-just-made-a-77-billion-bet-on-this-insurance-stock",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108885193471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108885193471257",
+      "fb_comment_id": "122108885193471257_2067692107213198",
+      "posted_at": "2026-09-18T01:25:35.181852+00:00"
+    },
+    "michael-dell-just-made-a-77-billion-bet-on-this-insurance-stock": {
+      "title": "Michael Dell Just Made a $7.7 Billion Bet on This Insurance Stock",
+      "slug": "michael-dell-just-made-a-77-billion-bet-on-this-insurance-stock",
+      "url": "https://ushotnews.online/article/michael-dell-just-made-a-77-billion-bet-on-this-insurance-stock",
+      "article_url": "https://ushotnews.online/article/michael-dell-just-made-a-77-billion-bet-on-this-insurance-stock",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122108885193471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108885193471257",
+      "fb_comment_id": "122108885193471257_2067692107213198",
+      "posted_at": "2026-09-18T01:25:35.181852+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T01:23:11.887177+00:00"
+  "last_cleaned_at": "2026-09-18T01:25:21.521012+00:00"
 }
