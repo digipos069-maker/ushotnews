@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-18T12:11:36.113204+00:00",
+  "last_updated": "2026-09-18T15:54:43.365574+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-acf637c229": {
-      "title": "Prince Harry's first birthday back in Britain unlikely to bring reconciliation with the royal family: experts",
-      "slug": "prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
-      "url": "https://ushotnews.online/article/prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
-      "article_url": "https://ushotnews.online/article/prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106203877471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106203877471257",
-      "fb_comment_id": "122106203877471257_1764876161418938",
-      "posted_at": "2026-09-15T13:26:46.582270+00:00"
-    },
-    "prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy": {
-      "title": "Prince Harry's first birthday back in Britain unlikely to bring reconciliation with the royal family: experts",
-      "slug": "prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
-      "url": "https://ushotnews.online/article/prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
-      "article_url": "https://ushotnews.online/article/prince-harrys-first-birthday-back-in-britain-unlikely-to-bring-reconciliation-with-the-roy",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106203877471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106203877471257",
-      "fb_comment_id": "122106203877471257_1764876161418938",
-      "posted_at": "2026-09-15T13:26:46.582270+00:00"
-    },
     "scraped-5f4d159242": {
       "title": "Joe Manchin calls on Trump to freeze AI IPOs, claims president has 'power to save humanity'",
       "slug": "joe-manchin-calls-on-trump-to-freeze-ai-ipos-claims-president-has-power-to-save-humanity",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109512793471257",
       "fb_comment_id": "122109512793471257_1557144705693518",
       "posted_at": "2026-09-18T12:11:36.113136+00:00"
+    },
+    "scraped-b22e5d80c6": {
+      "title": "Judge Judy warns of 'danger' if prosecutors don't retry Lindsay Clancy after murder trial ends in mistrial",
+      "slug": "judge-judy-warns-of-danger-if-prosecutors-dont-retry-lindsay-clancy-after-murder-trial-end",
+      "url": "https://ushotnews.online/article/judge-judy-warns-of-danger-if-prosecutors-dont-retry-lindsay-clancy-after-murder-trial-end",
+      "article_url": "https://ushotnews.online/article/judge-judy-warns-of-danger-if-prosecutors-dont-retry-lindsay-clancy-after-murder-trial-end",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109701157471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109701157471257",
+      "fb_comment_id": "122109701157471257_860679210372863",
+      "posted_at": "2026-09-18T15:54:43.365512+00:00"
+    },
+    "judge-judy-warns-of-danger-if-prosecutors-dont-retry-lindsay-clancy-after-murder-trial-end": {
+      "title": "Judge Judy warns of 'danger' if prosecutors don't retry Lindsay Clancy after murder trial ends in mistrial",
+      "slug": "judge-judy-warns-of-danger-if-prosecutors-dont-retry-lindsay-clancy-after-murder-trial-end",
+      "url": "https://ushotnews.online/article/judge-judy-warns-of-danger-if-prosecutors-dont-retry-lindsay-clancy-after-murder-trial-end",
+      "article_url": "https://ushotnews.online/article/judge-judy-warns-of-danger-if-prosecutors-dont-retry-lindsay-clancy-after-murder-trial-end",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109701157471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109701157471257",
+      "fb_comment_id": "122109701157471257_860679210372863",
+      "posted_at": "2026-09-18T15:54:43.365512+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T12:11:23.644397+00:00"
+  "last_cleaned_at": "2026-09-18T15:54:29.173898+00:00"
 }
