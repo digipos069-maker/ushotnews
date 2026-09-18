@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T15:54:43.365574+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-18T16:41:09.260650+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-5f4d159242": {
       "title": "Joe Manchin calls on Trump to freeze AI IPOs, claims president has 'power to save humanity'",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109701157471257",
       "fb_comment_id": "122109701157471257_860679210372863",
       "posted_at": "2026-09-18T15:54:43.365512+00:00"
+    },
+    "scraped-61922b022a": {
+      "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
+      "slug": "brendan-carrs-fcc-is-more-worried-about-who-the-view-interviews-than-foreign-governments-o",
+      "url": "https://ushotnews.online/article/brendan-carrs-fcc-is-more-worried-about-who-the-view-interviews-than-foreign-governments-o",
+      "article_url": "https://ushotnews.online/article/brendan-carrs-fcc-is-more-worried-about-who-the-view-interviews-than-foreign-governments-o",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109746511471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109746511471257",
+      "fb_comment_id": "122109746511471257_943625771671944",
+      "posted_at": "2026-09-18T16:41:09.260583+00:00"
+    },
+    "brendan-carrs-fcc-is-more-worried-about-who-the-view-interviews-than-foreign-governments-o": {
+      "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
+      "slug": "brendan-carrs-fcc-is-more-worried-about-who-the-view-interviews-than-foreign-governments-o",
+      "url": "https://ushotnews.online/article/brendan-carrs-fcc-is-more-worried-about-who-the-view-interviews-than-foreign-governments-o",
+      "article_url": "https://ushotnews.online/article/brendan-carrs-fcc-is-more-worried-about-who-the-view-interviews-than-foreign-governments-o",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122109746511471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109746511471257",
+      "fb_comment_id": "122109746511471257_943625771671944",
+      "posted_at": "2026-09-18T16:41:09.260583+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T15:54:29.173898+00:00"
+  "last_cleaned_at": "2026-09-18T16:40:55.069283+00:00"
 }
