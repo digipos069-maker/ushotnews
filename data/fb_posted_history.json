@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-19T09:24:36.631774+00:00",
+  "last_updated": "2026-09-19T11:48:05.162057+00:00",
   "posted_count": 72,
   "articles": {
-    "scraped-91881d79ae": {
-      "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
-      "slug": "judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
-      "url": "https://ushotnews.online/article/judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
-      "article_url": "https://ushotnews.online/article/judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107004937471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107004937471257",
-      "fb_comment_id": "122107004937471257_964847656637859",
-      "posted_at": "2026-09-16T09:50:55.049167+00:00"
-    },
-    "judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official": {
-      "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
-      "slug": "judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
-      "url": "https://ushotnews.online/article/judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
-      "article_url": "https://ushotnews.online/article/judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107004937471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107004937471257",
-      "fb_comment_id": "122107004937471257_964847656637859",
-      "posted_at": "2026-09-16T09:50:55.049167+00:00"
-    },
     "scraped-30ba40c6d2": {
       "title": "Senators question Trump's picks for top health positions, including surgeon general",
       "slug": "senators-question-trumps-picks-for-top-health-positions-including-surgeon-general",
@@ -793,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110596663471257",
       "fb_comment_id": "122110596663471257_4533719910282592",
       "posted_at": "2026-09-19T09:24:36.631723+00:00"
+    },
+    "scraped-15b2b979c6": {
+      "title": "Novo Nordisk (NVO) Pulls the Plug on Two More Heart Drug Trials",
+      "slug": "novo-nordisk-nvo-pulls-the-plug-on-two-more-heart-drug-trials",
+      "url": "https://ushotnews.online/article/novo-nordisk-nvo-pulls-the-plug-on-two-more-heart-drug-trials",
+      "article_url": "https://ushotnews.online/article/novo-nordisk-nvo-pulls-the-plug-on-two-more-heart-drug-trials",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110737609471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110737609471257",
+      "fb_comment_id": "122110737609471257_2050194239004886",
+      "posted_at": "2026-09-19T11:48:05.161995+00:00"
+    },
+    "novo-nordisk-nvo-pulls-the-plug-on-two-more-heart-drug-trials": {
+      "title": "Novo Nordisk (NVO) Pulls the Plug on Two More Heart Drug Trials",
+      "slug": "novo-nordisk-nvo-pulls-the-plug-on-two-more-heart-drug-trials",
+      "url": "https://ushotnews.online/article/novo-nordisk-nvo-pulls-the-plug-on-two-more-heart-drug-trials",
+      "article_url": "https://ushotnews.online/article/novo-nordisk-nvo-pulls-the-plug-on-two-more-heart-drug-trials",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110737609471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110737609471257",
+      "fb_comment_id": "122110737609471257_2050194239004886",
+      "posted_at": "2026-09-19T11:48:05.161995+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T09:24:19.533415+00:00"
+  "last_cleaned_at": "2026-09-19T11:47:53.235674+00:00"
 }
