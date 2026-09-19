@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-19T13:21:16.428853+00:00",
+  "last_updated": "2026-09-19T15:25:55.242503+00:00",
   "posted_count": 72,
   "articles": {
-    "scraped-f2a7f3b536": {
-      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-      "slug": "eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
-      "url": "https://ushotnews.online/article/eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
-      "article_url": "https://ushotnews.online/article/eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107254495471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107254495471257",
-      "fb_comment_id": "122107254495471257_1456001936370998",
-      "posted_at": "2026-09-16T14:49:40.455228+00:00"
-    },
-    "eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member": {
-      "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
-      "slug": "eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
-      "url": "https://ushotnews.online/article/eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
-      "article_url": "https://ushotnews.online/article/eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107254495471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107254495471257",
-      "fb_comment_id": "122107254495471257_1456001936370998",
-      "posted_at": "2026-09-16T14:49:40.455228+00:00"
-    },
     "scraped-e7470c0a00": {
       "title": "Oregon settles with Christian mother denied foster care adoption over gender identity beliefs",
       "slug": "oregon-settles-with-christian-mother-denied-foster-care-adoption-over-gender-identity-beli",
@@ -793,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110830255471257",
       "fb_comment_id": "122110830255471257_1621606539366098",
       "posted_at": "2026-09-19T13:21:16.428785+00:00"
+    },
+    "scraped-83cd29d6b5": {
+      "title": "Goldman’s Snider Says Fears of US Earnings Bubble Are Misplaced",
+      "slug": "goldmans-snider-says-fears-of-us-earnings-bubble-are-misplaced",
+      "url": "https://ushotnews.online/article/goldmans-snider-says-fears-of-us-earnings-bubble-are-misplaced",
+      "article_url": "https://ushotnews.online/article/goldmans-snider-says-fears-of-us-earnings-bubble-are-misplaced",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110889271471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110889271471257",
+      "fb_comment_id": "122110889271471257_1649262760210151",
+      "posted_at": "2026-09-19T15:25:55.242435+00:00"
+    },
+    "goldmans-snider-says-fears-of-us-earnings-bubble-are-misplaced": {
+      "title": "Goldman’s Snider Says Fears of US Earnings Bubble Are Misplaced",
+      "slug": "goldmans-snider-says-fears-of-us-earnings-bubble-are-misplaced",
+      "url": "https://ushotnews.online/article/goldmans-snider-says-fears-of-us-earnings-bubble-are-misplaced",
+      "article_url": "https://ushotnews.online/article/goldmans-snider-says-fears-of-us-earnings-bubble-are-misplaced",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110889271471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110889271471257",
+      "fb_comment_id": "122110889271471257_1649262760210151",
+      "posted_at": "2026-09-19T15:25:55.242435+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T13:21:00.702296+00:00"
+  "last_cleaned_at": "2026-09-19T15:25:43.626923+00:00"
 }
