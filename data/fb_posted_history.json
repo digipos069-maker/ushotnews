@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T20:55:06.630812+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-09-19T21:42:00.398795+00:00",
+  "posted_count": 80,
   "articles": {
     "scraped-cbe190f01e": {
       "title": "Terrell Owens compares Jerry Jones to Donald Trump, says Cowboys owner shows signs of 'narcissism'",
@@ -859,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111062665471257",
       "fb_comment_id": "122111062665471257_1650203266697091",
       "posted_at": "2026-09-19T20:55:06.630752+00:00"
+    },
+    "scraped-bbd9e7e8ab": {
+      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+      "slug": "micron-mu-unveils-breakthrough-memory-product-it-says-much-about-the-memory-market",
+      "url": "https://ushotnews.online/article/micron-mu-unveils-breakthrough-memory-product-it-says-much-about-the-memory-market",
+      "article_url": "https://ushotnews.online/article/micron-mu-unveils-breakthrough-memory-product-it-says-much-about-the-memory-market",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111083617471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111083617471257",
+      "fb_comment_id": "122111083617471257_925027776921334",
+      "posted_at": "2026-09-19T21:42:00.398733+00:00"
+    },
+    "micron-mu-unveils-breakthrough-memory-product-it-says-much-about-the-memory-market": {
+      "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
+      "slug": "micron-mu-unveils-breakthrough-memory-product-it-says-much-about-the-memory-market",
+      "url": "https://ushotnews.online/article/micron-mu-unveils-breakthrough-memory-product-it-says-much-about-the-memory-market",
+      "article_url": "https://ushotnews.online/article/micron-mu-unveils-breakthrough-memory-product-it-says-much-about-the-memory-market",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111083617471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111083617471257",
+      "fb_comment_id": "122111083617471257_925027776921334",
+      "posted_at": "2026-09-19T21:42:00.398733+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T20:54:53.206999+00:00"
+  "last_cleaned_at": "2026-09-19T21:41:45.721038+00:00"
 }
