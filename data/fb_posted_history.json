@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T04:58:02.079187+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-19T06:31:11.760066+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-f3d71b79e7": {
       "title": "Sophie Cunningham says she's talked with NBA Commissioner Adam Silver amid search for WNBA's next commissioner",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110352493471257",
       "fb_comment_id": "122110352493471257_3269041856817634",
       "posted_at": "2026-09-19T04:58:02.079110+00:00"
+    },
+    "scraped-68ba34c2f4": {
+      "title": "Hiker, 61, battles agonizing injury on grueling climb, resets dislocated shoulder himself",
+      "slug": "hiker-61-battles-agonizing-injury-on-grueling-climb-resets-dislocated-shoulder-himself",
+      "url": "https://ushotnews.online/article/hiker-61-battles-agonizing-injury-on-grueling-climb-resets-dislocated-shoulder-himself",
+      "article_url": "https://ushotnews.online/article/hiker-61-battles-agonizing-injury-on-grueling-climb-resets-dislocated-shoulder-himself",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110436373471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110436373471257",
+      "fb_comment_id": "122110436373471257_1110112651549071",
+      "posted_at": "2026-09-19T06:31:11.759997+00:00"
+    },
+    "hiker-61-battles-agonizing-injury-on-grueling-climb-resets-dislocated-shoulder-himself": {
+      "title": "Hiker, 61, battles agonizing injury on grueling climb, resets dislocated shoulder himself",
+      "slug": "hiker-61-battles-agonizing-injury-on-grueling-climb-resets-dislocated-shoulder-himself",
+      "url": "https://ushotnews.online/article/hiker-61-battles-agonizing-injury-on-grueling-climb-resets-dislocated-shoulder-himself",
+      "article_url": "https://ushotnews.online/article/hiker-61-battles-agonizing-injury-on-grueling-climb-resets-dislocated-shoulder-himself",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110436373471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110436373471257",
+      "fb_comment_id": "122110436373471257_1110112651549071",
+      "posted_at": "2026-09-19T06:31:11.759997+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T04:57:47.043221+00:00"
+  "last_cleaned_at": "2026-09-19T06:31:02.160460+00:00"
 }
