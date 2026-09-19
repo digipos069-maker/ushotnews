@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-18T23:30:02.522410+00:00",
+  "last_updated": "2026-09-19T00:11:01.641824+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-0fff9e0ce9": {
-      "title": "Senate moves to rein in college sports 'Wild West' with sweeping new rules for players, schools",
-      "slug": "senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
-      "url": "https://ushotnews.online/article/senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
-      "article_url": "https://ushotnews.online/article/senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106612495471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106612495471257",
-      "fb_comment_id": "122106612495471257_3227775770756162",
-      "posted_at": "2026-09-15T23:39:02.919227+00:00"
-    },
-    "senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo": {
-      "title": "Senate moves to rein in college sports 'Wild West' with sweeping new rules for players, schools",
-      "slug": "senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
-      "url": "https://ushotnews.online/article/senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
-      "article_url": "https://ushotnews.online/article/senate-moves-to-rein-in-college-sports-wild-west-with-sweeping-new-rules-for-players-schoo",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106612495471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106612495471257",
-      "fb_comment_id": "122106612495471257_3227775770756162",
-      "posted_at": "2026-09-15T23:39:02.919227+00:00"
-    },
     "scraped-0a2dd13a0b": {
       "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
       "slug": "boj-expected-to-hike-rates-by-25-basis-points-to-fresh-three-decade-high-cnbc-survey",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110104285471257",
       "fb_comment_id": "122110104285471257_1129341386188278",
       "posted_at": "2026-09-18T23:30:02.522333+00:00"
+    },
+    "scraped-59ac989b25": {
+      "title": "World Bank Grows Footprint With More Private Capital",
+      "slug": "world-bank-grows-footprint-with-more-private-capital",
+      "url": "https://ushotnews.online/article/world-bank-grows-footprint-with-more-private-capital",
+      "article_url": "https://ushotnews.online/article/world-bank-grows-footprint-with-more-private-capital",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110132311471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110132311471257",
+      "fb_comment_id": "122110132311471257_1626957565765098",
+      "posted_at": "2026-09-19T00:11:01.641748+00:00"
+    },
+    "world-bank-grows-footprint-with-more-private-capital": {
+      "title": "World Bank Grows Footprint With More Private Capital",
+      "slug": "world-bank-grows-footprint-with-more-private-capital",
+      "url": "https://ushotnews.online/article/world-bank-grows-footprint-with-more-private-capital",
+      "article_url": "https://ushotnews.online/article/world-bank-grows-footprint-with-more-private-capital",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110132311471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110132311471257",
+      "fb_comment_id": "122110132311471257_1626957565765098",
+      "posted_at": "2026-09-19T00:11:01.641748+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-18T23:29:52.667703+00:00"
+  "last_cleaned_at": "2026-09-19T00:10:50.887393+00:00"
 }
