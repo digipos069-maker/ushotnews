@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-19T21:42:00.398795+00:00",
+  "last_updated": "2026-09-19T22:41:41.820442+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-cbe190f01e": {
-      "title": "Terrell Owens compares Jerry Jones to Donald Trump, says Cowboys owner shows signs of 'narcissism'",
-      "slug": "terrell-owens-compares-jerry-jones-to-donald-trump-says-cowboys-owner-shows-signs-of-narci",
-      "url": "https://ushotnews.online/article/terrell-owens-compares-jerry-jones-to-donald-trump-says-cowboys-owner-shows-signs-of-narci",
-      "article_url": "https://ushotnews.online/article/terrell-owens-compares-jerry-jones-to-donald-trump-says-cowboys-owner-shows-signs-of-narci",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107593717471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107593717471257",
-      "fb_comment_id": "122107593717471257_1654657179602514",
-      "posted_at": "2026-09-16T22:03:52.514865+00:00"
-    },
-    "terrell-owens-compares-jerry-jones-to-donald-trump-says-cowboys-owner-shows-signs-of-narci": {
-      "title": "Terrell Owens compares Jerry Jones to Donald Trump, says Cowboys owner shows signs of 'narcissism'",
-      "slug": "terrell-owens-compares-jerry-jones-to-donald-trump-says-cowboys-owner-shows-signs-of-narci",
-      "url": "https://ushotnews.online/article/terrell-owens-compares-jerry-jones-to-donald-trump-says-cowboys-owner-shows-signs-of-narci",
-      "article_url": "https://ushotnews.online/article/terrell-owens-compares-jerry-jones-to-donald-trump-says-cowboys-owner-shows-signs-of-narci",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107593717471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107593717471257",
-      "fb_comment_id": "122107593717471257_1654657179602514",
-      "posted_at": "2026-09-16T22:03:52.514865+00:00"
-    },
     "scraped-0fbd18ddcf": {
       "title": "Matt Fitzpatrick shares why he feels uncomfortable about traveling to Middle East for DP World Tour finale",
       "slug": "matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111083617471257",
       "fb_comment_id": "122111083617471257_925027776921334",
       "posted_at": "2026-09-19T21:42:00.398733+00:00"
+    },
+    "scraped-e8c335ee7a": {
+      "title": "Sharon Stone claims ex-husband signed her up for brain surgery without her consent after stroke",
+      "slug": "sharon-stone-claims-ex-husband-signed-her-up-for-brain-surgery-without-her-consent-after-s",
+      "url": "https://ushotnews.online/article/sharon-stone-claims-ex-husband-signed-her-up-for-brain-surgery-without-her-consent-after-s",
+      "article_url": "https://ushotnews.online/article/sharon-stone-claims-ex-husband-signed-her-up-for-brain-surgery-without-her-consent-after-s",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111109567471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111109567471257",
+      "fb_comment_id": "122111109567471257_4367696076827179",
+      "posted_at": "2026-09-19T22:41:41.820385+00:00"
+    },
+    "sharon-stone-claims-ex-husband-signed-her-up-for-brain-surgery-without-her-consent-after-s": {
+      "title": "Sharon Stone claims ex-husband signed her up for brain surgery without her consent after stroke",
+      "slug": "sharon-stone-claims-ex-husband-signed-her-up-for-brain-surgery-without-her-consent-after-s",
+      "url": "https://ushotnews.online/article/sharon-stone-claims-ex-husband-signed-her-up-for-brain-surgery-without-her-consent-after-s",
+      "article_url": "https://ushotnews.online/article/sharon-stone-claims-ex-husband-signed-her-up-for-brain-surgery-without-her-consent-after-s",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111109567471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111109567471257",
+      "fb_comment_id": "122111109567471257_4367696076827179",
+      "posted_at": "2026-09-19T22:41:41.820385+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T21:41:45.721038+00:00"
+  "last_cleaned_at": "2026-09-19T22:41:31.804405+00:00"
 }
