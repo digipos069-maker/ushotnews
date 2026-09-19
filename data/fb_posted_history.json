@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-19T11:48:05.162057+00:00",
+  "last_updated": "2026-09-19T13:21:16.428853+00:00",
   "posted_count": 72,
   "articles": {
-    "scraped-30ba40c6d2": {
-      "title": "Senators question Trump's picks for top health positions, including surgeon general",
-      "slug": "senators-question-trumps-picks-for-top-health-positions-including-surgeon-general",
-      "url": "https://ushotnews.online/article/senators-question-trumps-picks-for-top-health-positions-including-surgeon-general",
-      "article_url": "https://ushotnews.online/article/senators-question-trumps-picks-for-top-health-positions-including-surgeon-general",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107135635471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107135635471257",
-      "fb_comment_id": "122107135635471257_1443987797635196",
-      "posted_at": "2026-09-16T12:44:20.906473+00:00"
-    },
-    "senators-question-trumps-picks-for-top-health-positions-including-surgeon-general": {
-      "title": "Senators question Trump's picks for top health positions, including surgeon general",
-      "slug": "senators-question-trumps-picks-for-top-health-positions-including-surgeon-general",
-      "url": "https://ushotnews.online/article/senators-question-trumps-picks-for-top-health-positions-including-surgeon-general",
-      "article_url": "https://ushotnews.online/article/senators-question-trumps-picks-for-top-health-positions-including-surgeon-general",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107135635471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107135635471257",
-      "fb_comment_id": "122107135635471257_1443987797635196",
-      "posted_at": "2026-09-16T12:44:20.906473+00:00"
-    },
     "scraped-f2a7f3b536": {
       "title": "EU's Ursula von der Leyen says she wants Canada to become an associate member",
       "slug": "eus-ursula-von-der-leyen-says-she-wants-canada-to-become-an-associate-member",
@@ -793,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110737609471257",
       "fb_comment_id": "122110737609471257_2050194239004886",
       "posted_at": "2026-09-19T11:48:05.161995+00:00"
+    },
+    "scraped-070621d88d": {
+      "title": "Bilfinger CEO on Trimmed Outlook, Job Cuts",
+      "slug": "bilfinger-ceo-on-trimmed-outlook-job-cuts",
+      "url": "https://ushotnews.online/article/bilfinger-ceo-on-trimmed-outlook-job-cuts",
+      "article_url": "https://ushotnews.online/article/bilfinger-ceo-on-trimmed-outlook-job-cuts",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110830255471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110830255471257",
+      "fb_comment_id": "122110830255471257_1621606539366098",
+      "posted_at": "2026-09-19T13:21:16.428785+00:00"
+    },
+    "bilfinger-ceo-on-trimmed-outlook-job-cuts": {
+      "title": "Bilfinger CEO on Trimmed Outlook, Job Cuts",
+      "slug": "bilfinger-ceo-on-trimmed-outlook-job-cuts",
+      "url": "https://ushotnews.online/article/bilfinger-ceo-on-trimmed-outlook-job-cuts",
+      "article_url": "https://ushotnews.online/article/bilfinger-ceo-on-trimmed-outlook-job-cuts",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110830255471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110830255471257",
+      "fb_comment_id": "122110830255471257_1621606539366098",
+      "posted_at": "2026-09-19T13:21:16.428785+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T11:47:53.235674+00:00"
+  "last_cleaned_at": "2026-09-19T13:21:00.702296+00:00"
 }
