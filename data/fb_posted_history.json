@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T15:25:55.242503+00:00",
-  "posted_count": 72,
+  "last_updated": "2026-09-19T16:45:22.273643+00:00",
+  "posted_count": 74,
   "articles": {
     "scraped-e7470c0a00": {
       "title": "Oregon settles with Christian mother denied foster care adoption over gender identity beliefs",
@@ -793,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110889271471257",
       "fb_comment_id": "122110889271471257_1649262760210151",
       "posted_at": "2026-09-19T15:25:55.242435+00:00"
+    },
+    "scraped-ee55c4a7fa": {
+      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+      "slug": "anamanaguchi-has-too-goddamn-many-browser-tabs-open-right-now",
+      "url": "https://ushotnews.online/article/anamanaguchi-has-too-goddamn-many-browser-tabs-open-right-now",
+      "article_url": "https://ushotnews.online/article/anamanaguchi-has-too-goddamn-many-browser-tabs-open-right-now",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110930407471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110930407471257",
+      "fb_comment_id": "122110930407471257_1868290687667652",
+      "posted_at": "2026-09-19T16:45:22.273580+00:00"
+    },
+    "anamanaguchi-has-too-goddamn-many-browser-tabs-open-right-now": {
+      "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+      "slug": "anamanaguchi-has-too-goddamn-many-browser-tabs-open-right-now",
+      "url": "https://ushotnews.online/article/anamanaguchi-has-too-goddamn-many-browser-tabs-open-right-now",
+      "article_url": "https://ushotnews.online/article/anamanaguchi-has-too-goddamn-many-browser-tabs-open-right-now",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110930407471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110930407471257",
+      "fb_comment_id": "122110930407471257_1868290687667652",
+      "posted_at": "2026-09-19T16:45:22.273580+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T15:25:43.626923+00:00"
+  "last_cleaned_at": "2026-09-19T16:45:07.138933+00:00"
 }
