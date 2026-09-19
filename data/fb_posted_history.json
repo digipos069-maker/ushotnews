@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T00:11:01.641824+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-19T01:30:24.918480+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-0a2dd13a0b": {
       "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110132311471257",
       "fb_comment_id": "122110132311471257_1626957565765098",
       "posted_at": "2026-09-19T00:11:01.641748+00:00"
+    },
+    "scraped-40ff498a3c": {
+      "title": "Illegal immigrant rideshare driver charged with rape in Maryland had prior NYC sex abuse arrest",
+      "slug": "illegal-immigrant-rideshare-driver-charged-with-rape-in-maryland-had-prior-nyc-sex-abuse-a",
+      "url": "https://ushotnews.online/article/illegal-immigrant-rideshare-driver-charged-with-rape-in-maryland-had-prior-nyc-sex-abuse-a",
+      "article_url": "https://ushotnews.online/article/illegal-immigrant-rideshare-driver-charged-with-rape-in-maryland-had-prior-nyc-sex-abuse-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110189407471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110189407471257",
+      "fb_comment_id": "122110189407471257_1024249657307897",
+      "posted_at": "2026-09-19T01:30:24.918423+00:00"
+    },
+    "illegal-immigrant-rideshare-driver-charged-with-rape-in-maryland-had-prior-nyc-sex-abuse-a": {
+      "title": "Illegal immigrant rideshare driver charged with rape in Maryland had prior NYC sex abuse arrest",
+      "slug": "illegal-immigrant-rideshare-driver-charged-with-rape-in-maryland-had-prior-nyc-sex-abuse-a",
+      "url": "https://ushotnews.online/article/illegal-immigrant-rideshare-driver-charged-with-rape-in-maryland-had-prior-nyc-sex-abuse-a",
+      "article_url": "https://ushotnews.online/article/illegal-immigrant-rideshare-driver-charged-with-rape-in-maryland-had-prior-nyc-sex-abuse-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110189407471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110189407471257",
+      "fb_comment_id": "122110189407471257_1024249657307897",
+      "posted_at": "2026-09-19T01:30:24.918423+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T00:10:50.887393+00:00"
+  "last_cleaned_at": "2026-09-19T01:30:06.811194+00:00"
 }
