@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-19T18:10:10.353823+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-09-19T19:17:11.958198+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-e7470c0a00": {
       "title": "Oregon settles with Christian mother denied foster care adoption over gender identity beliefs",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110967931471257",
       "fb_comment_id": "122110967931471257_1469121918622298",
       "posted_at": "2026-09-19T18:10:10.353760+00:00"
+    },
+    "scraped-24de42ce14": {
+      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "slug": "higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week",
+      "url": "https://ushotnews.online/article/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week",
+      "article_url": "https://ushotnews.online/article/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111012961471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111012961471257",
+      "fb_comment_id": "122111012961471257_1385392830241872",
+      "posted_at": "2026-09-19T19:17:11.958116+00:00"
+    },
+    "higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week": {
+      "title": "Higher interest rates and AI safety fears put the stock market to the test last week",
+      "slug": "higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week",
+      "url": "https://ushotnews.online/article/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week",
+      "article_url": "https://ushotnews.online/article/higher-interest-rates-and-ai-safety-fears-put-the-stock-market-to-the-test-last-week",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111012961471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111012961471257",
+      "fb_comment_id": "122111012961471257_1385392830241872",
+      "posted_at": "2026-09-19T19:17:11.958116+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T18:09:56.620372+00:00"
+  "last_cleaned_at": "2026-09-19T19:17:01.430318+00:00"
 }
