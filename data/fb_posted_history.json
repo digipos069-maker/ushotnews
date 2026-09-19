@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-19T06:31:11.760066+00:00",
+  "last_updated": "2026-09-19T09:24:36.631774+00:00",
   "posted_count": 72,
   "articles": {
-    "scraped-f3d71b79e7": {
-      "title": "Sophie Cunningham says she's talked with NBA Commissioner Adam Silver amid search for WNBA's next commissioner",
-      "slug": "sophie-cunningham-says-shes-talked-with-nba-commissioner-adam-silver-amid-search-for-wnbas",
-      "url": "https://ushotnews.online/article/sophie-cunningham-says-shes-talked-with-nba-commissioner-adam-silver-amid-search-for-wnbas",
-      "article_url": "https://ushotnews.online/article/sophie-cunningham-says-shes-talked-with-nba-commissioner-adam-silver-amid-search-for-wnbas",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106892383471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106892383471257",
-      "fb_comment_id": "122106892383471257_1683431759810248",
-      "posted_at": "2026-09-16T07:17:21.212595+00:00"
-    },
-    "sophie-cunningham-says-shes-talked-with-nba-commissioner-adam-silver-amid-search-for-wnbas": {
-      "title": "Sophie Cunningham says she's talked with NBA Commissioner Adam Silver amid search for WNBA's next commissioner",
-      "slug": "sophie-cunningham-says-shes-talked-with-nba-commissioner-adam-silver-amid-search-for-wnbas",
-      "url": "https://ushotnews.online/article/sophie-cunningham-says-shes-talked-with-nba-commissioner-adam-silver-amid-search-for-wnbas",
-      "article_url": "https://ushotnews.online/article/sophie-cunningham-says-shes-talked-with-nba-commissioner-adam-silver-amid-search-for-wnbas",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122106892383471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122106892383471257",
-      "fb_comment_id": "122106892383471257_1683431759810248",
-      "posted_at": "2026-09-16T07:17:21.212595+00:00"
-    },
     "scraped-91881d79ae": {
       "title": "Judge blocks DHS from acting against a man over a harsh email to an ICE official",
       "slug": "judge-blocks-dhs-from-acting-against-a-man-over-a-harsh-email-to-an-ice-official",
@@ -793,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110436373471257",
       "fb_comment_id": "122110436373471257_1110112651549071",
       "posted_at": "2026-09-19T06:31:11.759997+00:00"
+    },
+    "scraped-6163c99bae": {
+      "title": "Ford Hasn’t Raised Its Dividend in Years. Don’t Count on a Hike in 2026.",
+      "slug": "ford-hasnt-raised-its-dividend-in-years-dont-count-on-a-hike-in-2026",
+      "url": "https://ushotnews.online/article/ford-hasnt-raised-its-dividend-in-years-dont-count-on-a-hike-in-2026",
+      "article_url": "https://ushotnews.online/article/ford-hasnt-raised-its-dividend-in-years-dont-count-on-a-hike-in-2026",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110596663471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110596663471257",
+      "fb_comment_id": "122110596663471257_4533719910282592",
+      "posted_at": "2026-09-19T09:24:36.631723+00:00"
+    },
+    "ford-hasnt-raised-its-dividend-in-years-dont-count-on-a-hike-in-2026": {
+      "title": "Ford Hasn’t Raised Its Dividend in Years. Don’t Count on a Hike in 2026.",
+      "slug": "ford-hasnt-raised-its-dividend-in-years-dont-count-on-a-hike-in-2026",
+      "url": "https://ushotnews.online/article/ford-hasnt-raised-its-dividend-in-years-dont-count-on-a-hike-in-2026",
+      "article_url": "https://ushotnews.online/article/ford-hasnt-raised-its-dividend-in-years-dont-count-on-a-hike-in-2026",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122110596663471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110596663471257",
+      "fb_comment_id": "122110596663471257_4533719910282592",
+      "posted_at": "2026-09-19T09:24:36.631723+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T06:31:02.160460+00:00"
+  "last_cleaned_at": "2026-09-19T09:24:19.533415+00:00"
 }
