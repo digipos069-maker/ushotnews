@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T20:42:18.369127+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-20T20:43:27.548019+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-e891338792": {
       "title": "Starbucks agrees to DEI overhaul after blockbuster Florida legal showdown",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111800941471257",
       "fb_comment_id": "122111800941471257_1083795187591000",
       "posted_at": "2026-09-20T20:42:18.369061+00:00"
+    },
+    "scraped-2aa5d1055a": {
+      "title": "Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich",
+      "slug": "mitt-romney-warned-a-billionaire-tax-triggers-demand-for-2-assets-now-california-decides-g",
+      "url": "https://ushotnews.online/article/mitt-romney-warned-a-billionaire-tax-triggers-demand-for-2-assets-now-california-decides-g",
+      "article_url": "https://ushotnews.online/article/mitt-romney-warned-a-billionaire-tax-triggers-demand-for-2-assets-now-california-decides-g",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111801793471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111801793471257",
+      "fb_comment_id": "122111801793471257_1589196046280830",
+      "posted_at": "2026-09-20T20:43:27.547954+00:00"
+    },
+    "mitt-romney-warned-a-billionaire-tax-triggers-demand-for-2-assets-now-california-decides-g": {
+      "title": "Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich",
+      "slug": "mitt-romney-warned-a-billionaire-tax-triggers-demand-for-2-assets-now-california-decides-g",
+      "url": "https://ushotnews.online/article/mitt-romney-warned-a-billionaire-tax-triggers-demand-for-2-assets-now-california-decides-g",
+      "article_url": "https://ushotnews.online/article/mitt-romney-warned-a-billionaire-tax-triggers-demand-for-2-assets-now-california-decides-g",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111801793471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111801793471257",
+      "fb_comment_id": "122111801793471257_1589196046280830",
+      "posted_at": "2026-09-20T20:43:27.547954+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-20T20:42:05.549597+00:00"
+  "last_cleaned_at": "2026-09-20T20:43:16.006812+00:00"
 }
