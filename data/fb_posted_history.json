@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-19T22:41:41.820442+00:00",
+  "last_updated": "2026-09-20T00:04:23.658604+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-0fbd18ddcf": {
-      "title": "Matt Fitzpatrick shares why he feels uncomfortable about traveling to Middle East for DP World Tour finale",
-      "slug": "matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
-      "url": "https://ushotnews.online/article/matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
-      "article_url": "https://ushotnews.online/article/matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107629087471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107629087471257",
-      "fb_comment_id": "122107629087471257_2026912721346251",
-      "posted_at": "2026-09-16T23:10:07.426930+00:00"
-    },
-    "matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w": {
-      "title": "Matt Fitzpatrick shares why he feels uncomfortable about traveling to Middle East for DP World Tour finale",
-      "slug": "matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
-      "url": "https://ushotnews.online/article/matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
-      "article_url": "https://ushotnews.online/article/matt-fitzpatrick-shares-why-he-feels-uncomfortable-about-traveling-to-middle-east-for-dp-w",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122107629087471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122107629087471257",
-      "fb_comment_id": "122107629087471257_2026912721346251",
-      "posted_at": "2026-09-16T23:10:07.426930+00:00"
-    },
     "scraped-bf7cb86a0f": {
       "title": "Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq",
       "slug": "better-pricing-for-ride-hailing-worldwide-indrive-ceo-founder-arsen-tomsky-live-at-nasdaq",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111109567471257",
       "fb_comment_id": "122111109567471257_4367696076827179",
       "posted_at": "2026-09-19T22:41:41.820385+00:00"
+    },
+    "scraped-c7ba22ab6a": {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "slug": "metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
+      "url": "https://ushotnews.online/article/metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
+      "article_url": "https://ushotnews.online/article/metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111142711471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111142711471257",
+      "fb_comment_id": "122111142711471257_1126210733208600",
+      "posted_at": "2026-09-20T00:04:23.658546+00:00"
+    },
+    "metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think": {
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "slug": "metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
+      "url": "https://ushotnews.online/article/metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
+      "article_url": "https://ushotnews.online/article/metas-muse-is-creepy-but-maybe-not-for-the-reasons-you-think",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111142711471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111142711471257",
+      "fb_comment_id": "122111142711471257_1126210733208600",
+      "posted_at": "2026-09-20T00:04:23.658546+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-19T22:41:31.804405+00:00"
+  "last_cleaned_at": "2026-09-20T00:04:12.369919+00:00"
 }
