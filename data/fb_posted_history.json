@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-20T23:00:20.960390+00:00",
+  "last_updated": "2026-09-20T23:10:05.151700+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-e891338792": {
-      "title": "Starbucks agrees to DEI overhaul after blockbuster Florida legal showdown",
-      "slug": "starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
-      "url": "https://ushotnews.online/article/starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
-      "article_url": "https://ushotnews.online/article/starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122108781663471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108781663471257",
-      "fb_comment_id": "122108781663471257_1806499924127734",
-      "posted_at": "2026-09-17T23:02:25.556880+00:00"
-    },
-    "starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown": {
-      "title": "Starbucks agrees to DEI overhaul after blockbuster Florida legal showdown",
-      "slug": "starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
-      "url": "https://ushotnews.online/article/starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
-      "article_url": "https://ushotnews.online/article/starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122108781663471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108781663471257",
-      "fb_comment_id": "122108781663471257_1806499924127734",
-      "posted_at": "2026-09-17T23:02:25.556880+00:00"
-    },
     "scraped-ef0a402051": {
       "title": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
       "slug": "the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111890317471257",
       "fb_comment_id": "122111890317471257_1545548720662552",
       "posted_at": "2026-09-20T23:00:20.960327+00:00"
+    },
+    "scraped-93b8607ab3": {
+      "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
+      "slug": "bmo-sees-phillips-66-psx-breaking-into-new-highs",
+      "url": "https://ushotnews.online/article/bmo-sees-phillips-66-psx-breaking-into-new-highs",
+      "article_url": "https://ushotnews.online/article/bmo-sees-phillips-66-psx-breaking-into-new-highs",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111896677471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111896677471257",
+      "fb_comment_id": "122111896677471257_1404336258498491",
+      "posted_at": "2026-09-20T23:10:05.151639+00:00"
+    },
+    "bmo-sees-phillips-66-psx-breaking-into-new-highs": {
+      "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
+      "slug": "bmo-sees-phillips-66-psx-breaking-into-new-highs",
+      "url": "https://ushotnews.online/article/bmo-sees-phillips-66-psx-breaking-into-new-highs",
+      "article_url": "https://ushotnews.online/article/bmo-sees-phillips-66-psx-breaking-into-new-highs",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111896677471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111896677471257",
+      "fb_comment_id": "122111896677471257_1404336258498491",
+      "posted_at": "2026-09-20T23:10:05.151639+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-20T23:00:11.540448+00:00"
+  "last_cleaned_at": "2026-09-20T23:09:52.281427+00:00"
 }
