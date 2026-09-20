@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T14:20:26.927011+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-20T14:31:11.421908+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-204c46b7c5": {
       "title": "Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111569215471257",
       "fb_comment_id": "122111569215471257_1102106865573226",
       "posted_at": "2026-09-20T14:20:26.926956+00:00"
+    },
+    "scraped-aa1c2e6339": {
+      "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+      "slug": "judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case",
+      "url": "https://ushotnews.online/article/judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case",
+      "article_url": "https://ushotnews.online/article/judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111574651471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111574651471257",
+      "fb_comment_id": "122111574651471257_1070658715812874",
+      "posted_at": "2026-09-20T14:31:11.421841+00:00"
+    },
+    "judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case": {
+      "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+      "slug": "judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case",
+      "url": "https://ushotnews.online/article/judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case",
+      "article_url": "https://ushotnews.online/article/judge-orders-fox-to-hand-over-hundreds-of-documents-in-shareholders-case",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111574651471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111574651471257",
+      "fb_comment_id": "122111574651471257_1070658715812874",
+      "posted_at": "2026-09-20T14:31:11.421841+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-20T14:20:13.725283+00:00"
+  "last_cleaned_at": "2026-09-20T14:30:59.517183+00:00"
 }
