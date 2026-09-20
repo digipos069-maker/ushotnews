@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T20:43:27.548019+00:00",
-  "posted_count": 82,
+  "last_updated": "2026-09-20T23:00:20.960390+00:00",
+  "posted_count": 84,
   "articles": {
     "scraped-e891338792": {
       "title": "Starbucks agrees to DEI overhaul after blockbuster Florida legal showdown",
@@ -903,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111801793471257",
       "fb_comment_id": "122111801793471257_1589196046280830",
       "posted_at": "2026-09-20T20:43:27.547954+00:00"
+    },
+    "scraped-d7de3513fa": {
+      "title": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
+      "slug": "orion-energy-oesx-raises-guidance-how-firm-is-the-retailer-opportunity",
+      "url": "https://ushotnews.online/article/orion-energy-oesx-raises-guidance-how-firm-is-the-retailer-opportunity",
+      "article_url": "https://ushotnews.online/article/orion-energy-oesx-raises-guidance-how-firm-is-the-retailer-opportunity",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111890317471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111890317471257",
+      "fb_comment_id": "122111890317471257_1545548720662552",
+      "posted_at": "2026-09-20T23:00:20.960327+00:00"
+    },
+    "orion-energy-oesx-raises-guidance-how-firm-is-the-retailer-opportunity": {
+      "title": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
+      "slug": "orion-energy-oesx-raises-guidance-how-firm-is-the-retailer-opportunity",
+      "url": "https://ushotnews.online/article/orion-energy-oesx-raises-guidance-how-firm-is-the-retailer-opportunity",
+      "article_url": "https://ushotnews.online/article/orion-energy-oesx-raises-guidance-how-firm-is-the-retailer-opportunity",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111890317471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111890317471257",
+      "fb_comment_id": "122111890317471257_1545548720662552",
+      "posted_at": "2026-09-20T23:00:20.960327+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-20T20:43:16.006812+00:00"
+  "last_cleaned_at": "2026-09-20T23:00:11.540448+00:00"
 }
