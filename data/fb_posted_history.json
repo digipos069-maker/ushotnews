@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T10:03:17.965904+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-20T10:42:21.160968+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-47d9d20031": {
       "title": "Swarmer Targets $200M in Pro Forma Revenue Next Year – Report",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111402667471257",
       "fb_comment_id": "122111402667471257_1488519733086521",
       "posted_at": "2026-09-20T10:03:17.965831+00:00"
+    },
+    "scraped-b0cd2e8335": {
+      "title": "Social Security at 62 vs. 65: What Is the Break Even Point?",
+      "slug": "social-security-at-62-vs-65-what-is-the-break-even-point",
+      "url": "https://ushotnews.online/article/social-security-at-62-vs-65-what-is-the-break-even-point",
+      "article_url": "https://ushotnews.online/article/social-security-at-62-vs-65-what-is-the-break-even-point",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111421477471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111421477471257",
+      "fb_comment_id": "122111421477471257_1379312731058862",
+      "posted_at": "2026-09-20T10:42:21.160898+00:00"
+    },
+    "social-security-at-62-vs-65-what-is-the-break-even-point": {
+      "title": "Social Security at 62 vs. 65: What Is the Break Even Point?",
+      "slug": "social-security-at-62-vs-65-what-is-the-break-even-point",
+      "url": "https://ushotnews.online/article/social-security-at-62-vs-65-what-is-the-break-even-point",
+      "article_url": "https://ushotnews.online/article/social-security-at-62-vs-65-what-is-the-break-even-point",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111421477471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111421477471257",
+      "fb_comment_id": "122111421477471257_1379312731058862",
+      "posted_at": "2026-09-20T10:42:21.160898+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-20T10:02:59.183945+00:00"
+  "last_cleaned_at": "2026-09-20T10:42:06.704591+00:00"
 }
