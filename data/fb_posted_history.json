@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-20T10:42:21.160968+00:00",
-  "posted_count": 82,
+  "last_updated": "2026-09-20T14:20:26.927011+00:00",
+  "posted_count": 80,
   "articles": {
-    "scraped-47d9d20031": {
-      "title": "Swarmer Targets $200M in Pro Forma Revenue Next Year – Report",
-      "slug": "swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
-      "url": "https://ushotnews.online/article/swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
-      "article_url": "https://ushotnews.online/article/swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122108120511471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108120511471257",
-      "fb_comment_id": "122108120511471257_4798258110393857",
-      "posted_at": "2026-09-17T11:34:25.480627+00:00"
-    },
-    "swarmer-targets-200m-in-pro-forma-revenue-next-year-report": {
-      "title": "Swarmer Targets $200M in Pro Forma Revenue Next Year – Report",
-      "slug": "swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
-      "url": "https://ushotnews.online/article/swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
-      "article_url": "https://ushotnews.online/article/swarmer-targets-200m-in-pro-forma-revenue-next-year-report",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122108120511471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108120511471257",
-      "fb_comment_id": "122108120511471257_4798258110393857",
-      "posted_at": "2026-09-17T11:34:25.480627+00:00"
-    },
-    "scraped-37f6a8638a": {
-      "title": "Trump’s Surgeon General Pick Loves These 3 Tobacco Stocks",
-      "slug": "trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
-      "url": "https://ushotnews.online/article/trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
-      "article_url": "https://ushotnews.online/article/trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122108183595471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108183595471257",
-      "fb_comment_id": "122108183595471257_2261266011327964",
-      "posted_at": "2026-09-17T12:42:52.920635+00:00"
-    },
-    "trumps-surgeon-general-pick-loves-these-3-tobacco-stocks": {
-      "title": "Trump’s Surgeon General Pick Loves These 3 Tobacco Stocks",
-      "slug": "trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
-      "url": "https://ushotnews.online/article/trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
-      "article_url": "https://ushotnews.online/article/trumps-surgeon-general-pick-loves-these-3-tobacco-stocks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122108183595471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108183595471257",
-      "fb_comment_id": "122108183595471257_2261266011327964",
-      "posted_at": "2026-09-17T12:42:52.920635+00:00"
-    },
     "scraped-204c46b7c5": {
       "title": "Fund Capitalizes on Axon Enterprise (AXON) in AI-Related Selloff",
       "slug": "fund-capitalizes-on-axon-enterprise-axon-in-ai-related-selloff",
@@ -903,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111421477471257",
       "fb_comment_id": "122111421477471257_1379312731058862",
       "posted_at": "2026-09-20T10:42:21.160898+00:00"
+    },
+    "scraped-4ba44e92b6": {
+      "title": "EXCLUSIVE: Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation",
+      "slug": "exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-and-aviatio",
+      "url": "https://ushotnews.online/article/exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-and-aviatio",
+      "article_url": "https://ushotnews.online/article/exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-and-aviatio",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111569215471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111569215471257",
+      "fb_comment_id": "122111569215471257_1102106865573226",
+      "posted_at": "2026-09-20T14:20:26.926956+00:00"
+    },
+    "exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-and-aviatio": {
+      "title": "EXCLUSIVE: Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation",
+      "slug": "exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-and-aviatio",
+      "url": "https://ushotnews.online/article/exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-and-aviatio",
+      "article_url": "https://ushotnews.online/article/exclusive-russian-document-reveals-sweeping-iran-plan-spanning-nuclear-finance-and-aviatio",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111569215471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111569215471257",
+      "fb_comment_id": "122111569215471257_1102106865573226",
+      "posted_at": "2026-09-20T14:20:26.926956+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-20T10:42:06.704591+00:00"
+  "last_cleaned_at": "2026-09-20T14:20:13.725283+00:00"
 }
