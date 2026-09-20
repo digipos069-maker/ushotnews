@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-20T00:04:23.658604+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-20T00:41:10.736017+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-bf7cb86a0f": {
       "title": "Better Pricing for Ride-Hailing Worldwide: inDrive CEO & Founder Arsen Tomsky, Live at Nasdaq",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111142711471257",
       "fb_comment_id": "122111142711471257_1126210733208600",
       "posted_at": "2026-09-20T00:04:23.658546+00:00"
+    },
+    "scraped-bf33c04517": {
+      "title": "Bloom Energy Is Riding the Data Center Boom to a $25 Billion Backlog. Plug Power Is Passing on It. Here's Why.",
+      "slug": "bloom-energy-is-riding-the-data-center-boom-to-a-25-billion-backlog-plug-power-is-passing-",
+      "url": "https://ushotnews.online/article/bloom-energy-is-riding-the-data-center-boom-to-a-25-billion-backlog-plug-power-is-passing-",
+      "article_url": "https://ushotnews.online/article/bloom-energy-is-riding-the-data-center-boom-to-a-25-billion-backlog-plug-power-is-passing-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111156259471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111156259471257",
+      "fb_comment_id": "122111156259471257_1238878691753931",
+      "posted_at": "2026-09-20T00:41:10.735953+00:00"
+    },
+    "bloom-energy-is-riding-the-data-center-boom-to-a-25-billion-backlog-plug-power-is-passing-": {
+      "title": "Bloom Energy Is Riding the Data Center Boom to a $25 Billion Backlog. Plug Power Is Passing on It. Here's Why.",
+      "slug": "bloom-energy-is-riding-the-data-center-boom-to-a-25-billion-backlog-plug-power-is-passing-",
+      "url": "https://ushotnews.online/article/bloom-energy-is-riding-the-data-center-boom-to-a-25-billion-backlog-plug-power-is-passing-",
+      "article_url": "https://ushotnews.online/article/bloom-energy-is-riding-the-data-center-boom-to-a-25-billion-backlog-plug-power-is-passing-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111156259471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111156259471257",
+      "fb_comment_id": "122111156259471257_1238878691753931",
+      "posted_at": "2026-09-20T00:41:10.735953+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-20T00:04:12.369919+00:00"
+  "last_cleaned_at": "2026-09-20T00:40:58.043874+00:00"
 }
