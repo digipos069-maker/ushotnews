@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T06:47:53.998059+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-21T07:54:28.260390+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-5e441dc6bf": {
       "title": "Waymo says Singapore will be its next international robotaxi city",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112083871471257",
       "fb_comment_id": "122112083871471257_1780842866563993",
       "posted_at": "2026-09-21T06:47:53.997985+00:00"
+    },
+    "scraped-305ca044f2": {
+      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
+      "slug": "fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
+      "url": "https://ushotnews.online/article/fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
+      "article_url": "https://ushotnews.online/article/fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112113085471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112113085471257",
+      "fb_comment_id": "122112113085471257_1061317553362969",
+      "posted_at": "2026-09-21T07:54:28.260320+00:00"
+    },
+    "fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff": {
+      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
+      "slug": "fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
+      "url": "https://ushotnews.online/article/fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
+      "article_url": "https://ushotnews.online/article/fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112113085471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112113085471257",
+      "fb_comment_id": "122112113085471257_1061317553362969",
+      "posted_at": "2026-09-21T07:54:28.260320+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-21T06:47:44.757693+00:00"
+  "last_cleaned_at": "2026-09-21T07:54:12.540877+00:00"
 }
