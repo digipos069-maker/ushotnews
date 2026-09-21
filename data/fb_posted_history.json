@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-21T22:43:57.440710+00:00",
+  "last_updated": "2026-09-21T23:32:10.939391+00:00",
   "posted_count": 76,
   "articles": {
-    "scraped-5e89f4735d": {
-      "title": "Let’s beat California on AI, key Democrat says",
-      "slug": "lets-beat-california-on-ai-key-democrat-says",
-      "url": "https://ushotnews.online/article/lets-beat-california-on-ai-key-democrat-says",
-      "article_url": "https://ushotnews.online/article/lets-beat-california-on-ai-key-democrat-says",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122110104285471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110104285471257",
-      "fb_comment_id": "122110104285471257_1129341386188278",
-      "posted_at": "2026-09-18T23:30:02.522333+00:00"
-    },
-    "lets-beat-california-on-ai-key-democrat-says": {
-      "title": "Let’s beat California on AI, key Democrat says",
-      "slug": "lets-beat-california-on-ai-key-democrat-says",
-      "url": "https://ushotnews.online/article/lets-beat-california-on-ai-key-democrat-says",
-      "article_url": "https://ushotnews.online/article/lets-beat-california-on-ai-key-democrat-says",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122110104285471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122110104285471257",
-      "fb_comment_id": "122110104285471257_1129341386188278",
-      "posted_at": "2026-09-18T23:30:02.522333+00:00"
-    },
     "scraped-59ac989b25": {
       "title": "World Bank Grows Footprint With More Private Capital",
       "slug": "world-bank-grows-footprint-with-more-private-capital",
@@ -837,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112528669471257",
       "fb_comment_id": "122112528669471257_2054827275154984",
       "posted_at": "2026-09-21T22:43:57.440650+00:00"
+    },
+    "scraped-26d4c88d93": {
+      "title": "California tightens rules on AI data center energy and water use",
+      "slug": "california-tightens-rules-on-ai-data-center-energy-and-water-use",
+      "url": "https://ushotnews.online/article/california-tightens-rules-on-ai-data-center-energy-and-water-use",
+      "article_url": "https://ushotnews.online/article/california-tightens-rules-on-ai-data-center-energy-and-water-use",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112557091471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112557091471257",
+      "fb_comment_id": "122112557091471257_1125988263119593",
+      "posted_at": "2026-09-21T23:32:10.939322+00:00"
+    },
+    "california-tightens-rules-on-ai-data-center-energy-and-water-use": {
+      "title": "California tightens rules on AI data center energy and water use",
+      "slug": "california-tightens-rules-on-ai-data-center-energy-and-water-use",
+      "url": "https://ushotnews.online/article/california-tightens-rules-on-ai-data-center-energy-and-water-use",
+      "article_url": "https://ushotnews.online/article/california-tightens-rules-on-ai-data-center-energy-and-water-use",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112557091471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112557091471257",
+      "fb_comment_id": "122112557091471257_1125988263119593",
+      "posted_at": "2026-09-21T23:32:10.939322+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-21T22:43:46.406593+00:00"
+  "last_cleaned_at": "2026-09-21T23:31:56.712212+00:00"
 }
