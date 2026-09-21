@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-21T19:05:13.972834+00:00",
+  "last_updated": "2026-09-21T20:06:26.499743+00:00",
   "posted_count": 78,
   "articles": {
-    "scraped-ffe59ebbc6": {
-      "title": "How CodePink co-founder Medea Benjamin's family foundation became a major funder of left-wing activist groups",
-      "slug": "how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
-      "url": "https://ushotnews.online/article/how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
-      "article_url": "https://ushotnews.online/article/how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122109904131471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109904131471257",
-      "fb_comment_id": "122109904131471257_2566802453732516",
-      "posted_at": "2026-09-18T19:31:42.960980+00:00"
-    },
-    "how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi": {
-      "title": "How CodePink co-founder Medea Benjamin's family foundation became a major funder of left-wing activist groups",
-      "slug": "how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
-      "url": "https://ushotnews.online/article/how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
-      "article_url": "https://ushotnews.online/article/how-codepink-co-founder-medea-benjamins-family-foundation-became-a-major-funder-of-left-wi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122109904131471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109904131471257",
-      "fb_comment_id": "122109904131471257_2566802453732516",
-      "posted_at": "2026-09-18T19:31:42.960980+00:00"
-    },
     "scraped-1311418ac3": {
       "title": "How Is Live Nation Entertainment’s Stock Performance Compared to Other Entertainment Stocks",
       "slug": "how-is-live-nation-entertainments-stock-performance-compared-to-other-entertainment-stocks",
@@ -859,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112410631471257",
       "fb_comment_id": "122112410631471257_1104237092045029",
       "posted_at": "2026-09-21T19:05:13.972761+00:00"
+    },
+    "scraped-80d488089b": {
+      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+      "slug": "bungie-says-its-not-done-with-destiny-and-will-bring-back-vaulted-content",
+      "url": "https://ushotnews.online/article/bungie-says-its-not-done-with-destiny-and-will-bring-back-vaulted-content",
+      "article_url": "https://ushotnews.online/article/bungie-says-its-not-done-with-destiny-and-will-bring-back-vaulted-content",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112449763471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112449763471257",
+      "fb_comment_id": "122112449763471257_1101811779203004",
+      "posted_at": "2026-09-21T20:06:26.499686+00:00"
+    },
+    "bungie-says-its-not-done-with-destiny-and-will-bring-back-vaulted-content": {
+      "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
+      "slug": "bungie-says-its-not-done-with-destiny-and-will-bring-back-vaulted-content",
+      "url": "https://ushotnews.online/article/bungie-says-its-not-done-with-destiny-and-will-bring-back-vaulted-content",
+      "article_url": "https://ushotnews.online/article/bungie-says-its-not-done-with-destiny-and-will-bring-back-vaulted-content",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112449763471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112449763471257",
+      "fb_comment_id": "122112449763471257_1101811779203004",
+      "posted_at": "2026-09-21T20:06:26.499686+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-21T19:05:03.404131+00:00"
+  "last_cleaned_at": "2026-09-21T20:06:16.016729+00:00"
 }
