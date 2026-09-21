@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-21T07:54:28.260390+00:00",
-  "posted_count": 82,
+  "last_updated": "2026-09-21T13:39:49.010061+00:00",
+  "posted_count": 80,
   "articles": {
-    "scraped-5e441dc6bf": {
-      "title": "Waymo says Singapore will be its next international robotaxi city",
-      "slug": "waymo-says-singapore-will-be-its-next-international-robotaxi-city",
-      "url": "https://ushotnews.online/article/waymo-says-singapore-will-be-its-next-international-robotaxi-city",
-      "article_url": "https://ushotnews.online/article/waymo-says-singapore-will-be-its-next-international-robotaxi-city",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122109481851471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109481851471257",
-      "fb_comment_id": "122109481851471257_1083176670970478",
-      "posted_at": "2026-09-18T11:37:58.248132+00:00"
-    },
-    "waymo-says-singapore-will-be-its-next-international-robotaxi-city": {
-      "title": "Waymo says Singapore will be its next international robotaxi city",
-      "slug": "waymo-says-singapore-will-be-its-next-international-robotaxi-city",
-      "url": "https://ushotnews.online/article/waymo-says-singapore-will-be-its-next-international-robotaxi-city",
-      "article_url": "https://ushotnews.online/article/waymo-says-singapore-will-be-its-next-international-robotaxi-city",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122109481851471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109481851471257",
-      "fb_comment_id": "122109481851471257_1083176670970478",
-      "posted_at": "2026-09-18T11:37:58.248132+00:00"
-    },
-    "scraped-27f82f6cc1": {
-      "title": "XOM Keeps Climbing. Should You Climb On?",
-      "slug": "xom-keeps-climbing-should-you-climb-on",
-      "url": "https://ushotnews.online/article/xom-keeps-climbing-should-you-climb-on",
-      "article_url": "https://ushotnews.online/article/xom-keeps-climbing-should-you-climb-on",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122109512793471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109512793471257",
-      "fb_comment_id": "122109512793471257_1557144705693518",
-      "posted_at": "2026-09-18T12:11:36.113136+00:00"
-    },
-    "xom-keeps-climbing-should-you-climb-on": {
-      "title": "XOM Keeps Climbing. Should You Climb On?",
-      "slug": "xom-keeps-climbing-should-you-climb-on",
-      "url": "https://ushotnews.online/article/xom-keeps-climbing-should-you-climb-on",
-      "article_url": "https://ushotnews.online/article/xom-keeps-climbing-should-you-climb-on",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122109512793471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122109512793471257",
-      "fb_comment_id": "122109512793471257_1557144705693518",
-      "posted_at": "2026-09-18T12:11:36.113136+00:00"
-    },
     "scraped-b22e5d80c6": {
       "title": "Judge Judy warns of 'danger' if prosecutors don't retry Lindsay Clancy after murder trial ends in mistrial",
       "slug": "judge-judy-warns-of-danger-if-prosecutors-dont-retry-lindsay-clancy-after-murder-trial-end",
@@ -903,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112113085471257",
       "fb_comment_id": "122112113085471257_1061317553362969",
       "posted_at": "2026-09-21T07:54:28.260320+00:00"
+    },
+    "scraped-5a0d25b920": {
+      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
+      "slug": "stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
+      "url": "https://ushotnews.online/article/stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
+      "article_url": "https://ushotnews.online/article/stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112271563471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112271563471257",
+      "fb_comment_id": "122112271563471257_1155113613856087",
+      "posted_at": "2026-09-21T13:39:49.010003+00:00"
+    },
+    "stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply": {
+      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
+      "slug": "stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
+      "url": "https://ushotnews.online/article/stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
+      "article_url": "https://ushotnews.online/article/stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112271563471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112271563471257",
+      "fb_comment_id": "122112271563471257_1155113613856087",
+      "posted_at": "2026-09-21T13:39:49.010003+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-21T07:54:12.540877+00:00"
+  "last_cleaned_at": "2026-09-21T13:39:35.930068+00:00"
 }
