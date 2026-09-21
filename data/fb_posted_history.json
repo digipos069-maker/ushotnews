@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-21T13:39:49.010061+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-09-21T15:03:33.842554+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-b22e5d80c6": {
       "title": "Judge Judy warns of 'danger' if prosecutors don't retry Lindsay Clancy after murder trial ends in mistrial",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112271563471257",
       "fb_comment_id": "122112271563471257_1155113613856087",
       "posted_at": "2026-09-21T13:39:49.010003+00:00"
+    },
+    "scraped-31daa095d4": {
+      "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
+      "slug": "tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
+      "url": "https://ushotnews.online/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
+      "article_url": "https://ushotnews.online/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112304761471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112304761471257",
+      "fb_comment_id": "122112304761471257_2169642617310594",
+      "posted_at": "2026-09-21T15:03:33.842495+00:00"
+    },
+    "tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt": {
+      "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
+      "slug": "tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
+      "url": "https://ushotnews.online/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
+      "article_url": "https://ushotnews.online/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112304761471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112304761471257",
+      "fb_comment_id": "122112304761471257_2169642617310594",
+      "posted_at": "2026-09-21T15:03:33.842495+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-21T13:39:35.930068+00:00"
+  "last_cleaned_at": "2026-09-21T15:03:16.063843+00:00"
 }
