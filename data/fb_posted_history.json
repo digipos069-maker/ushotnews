@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-20T23:10:05.151700+00:00",
+  "last_updated": "2026-09-21T01:00:58.457338+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-ef0a402051": {
-      "title": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
-      "slug": "the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
-      "url": "https://ushotnews.online/article/the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
-      "article_url": "https://ushotnews.online/article/the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122108797107471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108797107471257",
-      "fb_comment_id": "122108797107471257_1082546200847758",
-      "posted_at": "2026-09-17T23:23:08.408239+00:00"
-    },
-    "the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi": {
-      "title": "'The finance bros are gonna hate me for this': Tori Dunlap says ‘boring strategy’ made her a millionaire by 27",
-      "slug": "the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
-      "url": "https://ushotnews.online/article/the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
-      "article_url": "https://ushotnews.online/article/the-finance-bros-are-gonna-hate-me-for-this-tori-dunlap-says-boring-strategy-made-her-a-mi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122108797107471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122108797107471257",
-      "fb_comment_id": "122108797107471257_1082546200847758",
-      "posted_at": "2026-09-17T23:23:08.408239+00:00"
-    },
     "scraped-d770830bd1": {
       "title": "Is Broadridge Financial Stock Underperforming the S&P 500?",
       "slug": "is-broadridge-financial-stock-underperforming-the-sp-500",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111896677471257",
       "fb_comment_id": "122111896677471257_1404336258498491",
       "posted_at": "2026-09-20T23:10:05.151639+00:00"
+    },
+    "scraped-778daf9ce8": {
+      "title": "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
+      "slug": "axon-enterprise-axon-prices-1b-of-zero-coupon-notes-what-is-the-real-cost",
+      "url": "https://ushotnews.online/article/axon-enterprise-axon-prices-1b-of-zero-coupon-notes-what-is-the-real-cost",
+      "article_url": "https://ushotnews.online/article/axon-enterprise-axon-prices-1b-of-zero-coupon-notes-what-is-the-real-cost",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111938653471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111938653471257",
+      "fb_comment_id": "122111938653471257_2479109652620082",
+      "posted_at": "2026-09-21T01:00:58.457275+00:00"
+    },
+    "axon-enterprise-axon-prices-1b-of-zero-coupon-notes-what-is-the-real-cost": {
+      "title": "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
+      "slug": "axon-enterprise-axon-prices-1b-of-zero-coupon-notes-what-is-the-real-cost",
+      "url": "https://ushotnews.online/article/axon-enterprise-axon-prices-1b-of-zero-coupon-notes-what-is-the-real-cost",
+      "article_url": "https://ushotnews.online/article/axon-enterprise-axon-prices-1b-of-zero-coupon-notes-what-is-the-real-cost",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122111938653471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111938653471257",
+      "fb_comment_id": "122111938653471257_2479109652620082",
+      "posted_at": "2026-09-21T01:00:58.457275+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-20T23:09:52.281427+00:00"
+  "last_cleaned_at": "2026-09-21T01:00:47.534544+00:00"
 }
