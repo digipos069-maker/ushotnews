@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T23:09:38.418103+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-22T23:46:18.427517+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-c7ba22ab6a": {
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113193085471257",
       "fb_comment_id": "122113193085471257_1471613491460031",
       "posted_at": "2026-09-22T23:09:38.418042+00:00"
+    },
+    "scraped-7a868f378e": {
+      "title": "Here’s What Pressured Vail Resorts (MTN) in Q2",
+      "slug": "heres-what-pressured-vail-resorts-mtn-in-q2",
+      "url": "https://ushotnews.online/article/heres-what-pressured-vail-resorts-mtn-in-q2",
+      "article_url": "https://ushotnews.online/article/heres-what-pressured-vail-resorts-mtn-in-q2",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113207737471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113207737471257",
+      "fb_comment_id": "122113207737471257_1608650850624594",
+      "posted_at": "2026-09-22T23:46:18.427440+00:00"
+    },
+    "heres-what-pressured-vail-resorts-mtn-in-q2": {
+      "title": "Here’s What Pressured Vail Resorts (MTN) in Q2",
+      "slug": "heres-what-pressured-vail-resorts-mtn-in-q2",
+      "url": "https://ushotnews.online/article/heres-what-pressured-vail-resorts-mtn-in-q2",
+      "article_url": "https://ushotnews.online/article/heres-what-pressured-vail-resorts-mtn-in-q2",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113207737471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113207737471257",
+      "fb_comment_id": "122113207737471257_1608650850624594",
+      "posted_at": "2026-09-22T23:46:18.427440+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-22T23:09:26.860115+00:00"
+  "last_cleaned_at": "2026-09-22T23:46:07.327798+00:00"
 }
