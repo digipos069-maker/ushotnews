@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T06:39:05.354305+00:00",
-  "posted_count": 74,
+  "last_updated": "2026-09-22T07:38:50.104889+00:00",
+  "posted_count": 76,
   "articles": {
     "scraped-6163c99bae": {
       "title": "Ford Hasn’t Raised Its Dividend in Years. Don’t Count on a Hike in 2026.",
@@ -815,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112738417471257",
       "fb_comment_id": "122112738417471257_1562488258530548",
       "posted_at": "2026-09-22T06:39:05.354247+00:00"
+    },
+    "scraped-67e255e5a6": {
+      "title": "Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns?",
+      "slug": "lindblad-expeditions-lind-buys-white-desert-control-can-antarctic-land-travel-lift-returns",
+      "url": "https://ushotnews.online/article/lindblad-expeditions-lind-buys-white-desert-control-can-antarctic-land-travel-lift-returns",
+      "article_url": "https://ushotnews.online/article/lindblad-expeditions-lind-buys-white-desert-control-can-antarctic-land-travel-lift-returns",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112764871471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112764871471257",
+      "fb_comment_id": "122112764871471257_1743502406882786",
+      "posted_at": "2026-09-22T07:38:50.104802+00:00"
+    },
+    "lindblad-expeditions-lind-buys-white-desert-control-can-antarctic-land-travel-lift-returns": {
+      "title": "Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns?",
+      "slug": "lindblad-expeditions-lind-buys-white-desert-control-can-antarctic-land-travel-lift-returns",
+      "url": "https://ushotnews.online/article/lindblad-expeditions-lind-buys-white-desert-control-can-antarctic-land-travel-lift-returns",
+      "article_url": "https://ushotnews.online/article/lindblad-expeditions-lind-buys-white-desert-control-can-antarctic-land-travel-lift-returns",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112764871471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112764871471257",
+      "fb_comment_id": "122112764871471257_1743502406882786",
+      "posted_at": "2026-09-22T07:38:50.104802+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-22T06:38:51.161117+00:00"
+  "last_cleaned_at": "2026-09-22T07:38:34.312675+00:00"
 }
