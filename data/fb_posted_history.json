@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-22T20:22:39.813878+00:00",
+  "last_updated": "2026-09-22T21:12:51.194103+00:00",
   "posted_count": 72,
   "articles": {
-    "scraped-f465308ce9": {
-      "title": "Whiskey brand tied to Jack Daniel's faces a second Chapter 7",
-      "slug": "whiskey-brand-tied-to-jack-daniels-faces-a-second-chapter-7",
-      "url": "https://ushotnews.online/article/whiskey-brand-tied-to-jack-daniels-faces-a-second-chapter-7",
-      "article_url": "https://ushotnews.online/article/whiskey-brand-tied-to-jack-daniels-faces-a-second-chapter-7",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122111062665471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111062665471257",
-      "fb_comment_id": "122111062665471257_1650203266697091",
-      "posted_at": "2026-09-19T20:55:06.630752+00:00"
-    },
-    "whiskey-brand-tied-to-jack-daniels-faces-a-second-chapter-7": {
-      "title": "Whiskey brand tied to Jack Daniel's faces a second Chapter 7",
-      "slug": "whiskey-brand-tied-to-jack-daniels-faces-a-second-chapter-7",
-      "url": "https://ushotnews.online/article/whiskey-brand-tied-to-jack-daniels-faces-a-second-chapter-7",
-      "article_url": "https://ushotnews.online/article/whiskey-brand-tied-to-jack-daniels-faces-a-second-chapter-7",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122111062665471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111062665471257",
-      "fb_comment_id": "122111062665471257_1650203266697091",
-      "posted_at": "2026-09-19T20:55:06.630752+00:00"
-    },
     "scraped-bbd9e7e8ab": {
       "title": "Micron (MU) Unveils Breakthrough Memory Product. It Says Much About the Memory Market",
       "slug": "micron-mu-unveils-breakthrough-memory-product-it-says-much-about-the-memory-market",
@@ -793,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113126929471257",
       "fb_comment_id": "122113126929471257_1727821821780337",
       "posted_at": "2026-09-22T20:22:39.813805+00:00"
+    },
+    "scraped-e31b13a2d4": {
+      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+      "slug": "motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
+      "url": "https://ushotnews.online/article/motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
+      "article_url": "https://ushotnews.online/article/motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113149495471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113149495471257",
+      "fb_comment_id": "122113149495471257_2068968470391798",
+      "posted_at": "2026-09-22T21:12:51.194033+00:00"
+    },
+    "motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset": {
+      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+      "slug": "motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
+      "url": "https://ushotnews.online/article/motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
+      "article_url": "https://ushotnews.online/article/motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113149495471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113149495471257",
+      "fb_comment_id": "122113149495471257_2068968470391798",
+      "posted_at": "2026-09-22T21:12:51.194033+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-22T20:22:28.621136+00:00"
+  "last_cleaned_at": "2026-09-22T21:12:35.825564+00:00"
 }
