@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T12:23:18.185943+00:00",
-  "posted_count": 74,
+  "last_updated": "2026-09-22T13:21:28.912516+00:00",
+  "posted_count": 76,
   "articles": {
     "scraped-070621d88d": {
       "title": "Bilfinger CEO on Trimmed Outlook, Job Cuts",
@@ -815,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112904653471257",
       "fb_comment_id": "122112904653471257_998597886583159",
       "posted_at": "2026-09-22T12:23:18.185853+00:00"
+    },
+    "scraped-19b2aff7a1": {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "slug": "meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
+      "url": "https://ushotnews.online/article/meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
+      "article_url": "https://ushotnews.online/article/meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112935583471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112935583471257",
+      "fb_comment_id": "122112935583471257_1627920769047923",
+      "posted_at": "2026-09-22T13:21:28.912450+00:00"
+    },
+    "meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent": {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "slug": "meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
+      "url": "https://ushotnews.online/article/meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
+      "article_url": "https://ushotnews.online/article/meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122112935583471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112935583471257",
+      "fb_comment_id": "122112935583471257_1627920769047923",
+      "posted_at": "2026-09-22T13:21:28.912450+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-22T12:23:02.225315+00:00"
+  "last_cleaned_at": "2026-09-22T13:21:13.313956+00:00"
 }
