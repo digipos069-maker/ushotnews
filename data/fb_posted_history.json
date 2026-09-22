@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-22T17:09:26.064542+00:00",
-  "posted_count": 72,
+  "last_updated": "2026-09-22T17:44:22.411917+00:00",
+  "posted_count": 74,
   "articles": {
     "scraped-a63df61247": {
       "title": "Cencora (COR) Raised Guidance and Bought Back $1B. What’s the Catch?",
@@ -793,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113033923471257",
       "fb_comment_id": "122113033923471257_1623715729309179",
       "posted_at": "2026-09-22T17:09:26.064482+00:00"
+    },
+    "scraped-9d31d7bd47": {
+      "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
+      "slug": "this-fire-amoeba-pushes-the-limit-of-whats-possible-for-complex-life",
+      "url": "https://ushotnews.online/article/this-fire-amoeba-pushes-the-limit-of-whats-possible-for-complex-life",
+      "article_url": "https://ushotnews.online/article/this-fire-amoeba-pushes-the-limit-of-whats-possible-for-complex-life",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113048629471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113048629471257",
+      "fb_comment_id": "122113048629471257_1406774040815989",
+      "posted_at": "2026-09-22T17:44:22.411846+00:00"
+    },
+    "this-fire-amoeba-pushes-the-limit-of-whats-possible-for-complex-life": {
+      "title": "This 'fire amoeba' pushes the limit of what's possible for complex life",
+      "slug": "this-fire-amoeba-pushes-the-limit-of-whats-possible-for-complex-life",
+      "url": "https://ushotnews.online/article/this-fire-amoeba-pushes-the-limit-of-whats-possible-for-complex-life",
+      "article_url": "https://ushotnews.online/article/this-fire-amoeba-pushes-the-limit-of-whats-possible-for-complex-life",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113048629471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113048629471257",
+      "fb_comment_id": "122113048629471257_1406774040815989",
+      "posted_at": "2026-09-22T17:44:22.411846+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-22T17:09:13.597935+00:00"
+  "last_cleaned_at": "2026-09-22T17:44:06.848213+00:00"
 }
