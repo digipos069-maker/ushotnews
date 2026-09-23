@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T21:08:26.908963+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-09-23T22:13:36.599228+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-d7de3513fa": {
       "title": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
@@ -727,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113836369471257",
       "fb_comment_id": "122113836369471257_1789240892090842",
       "posted_at": "2026-09-23T21:08:26.908843+00:00"
+    },
+    "scraped-457efbb193": {
+      "title": "Data centers are black boxes, but California wants to change that",
+      "slug": "data-centers-are-black-boxes-but-california-wants-to-change-that",
+      "url": "https://ushotnews.online/article/data-centers-are-black-boxes-but-california-wants-to-change-that",
+      "article_url": "https://ushotnews.online/article/data-centers-are-black-boxes-but-california-wants-to-change-that",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113859793471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113859793471257",
+      "fb_comment_id": "122113859793471257_1645866917162975",
+      "posted_at": "2026-09-23T22:13:36.599175+00:00"
+    },
+    "data-centers-are-black-boxes-but-california-wants-to-change-that": {
+      "title": "Data centers are black boxes, but California wants to change that",
+      "slug": "data-centers-are-black-boxes-but-california-wants-to-change-that",
+      "url": "https://ushotnews.online/article/data-centers-are-black-boxes-but-california-wants-to-change-that",
+      "article_url": "https://ushotnews.online/article/data-centers-are-black-boxes-but-california-wants-to-change-that",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113859793471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113859793471257",
+      "fb_comment_id": "122113859793471257_1645866917162975",
+      "posted_at": "2026-09-23T22:13:36.599175+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-23T21:08:11.471406+00:00"
+  "last_cleaned_at": "2026-09-23T22:13:23.883313+00:00"
 }
