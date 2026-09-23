@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-23T17:44:16.059232+00:00",
+  "last_updated": "2026-09-23T18:58:47.673196+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-0a1a08f32c": {
-      "title": "Beloved Mexican food disappearing from restaurant menus across America",
-      "slug": "beloved-mexican-food-disappearing-from-restaurant-menus-across-america",
-      "url": "https://ushotnews.online/article/beloved-mexican-food-disappearing-from-restaurant-menus-across-america",
-      "article_url": "https://ushotnews.online/article/beloved-mexican-food-disappearing-from-restaurant-menus-across-america",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122111680719471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111680719471257",
-      "fb_comment_id": "122111680719471257_1423088199744935",
-      "posted_at": "2026-09-20T17:59:26.245605+00:00"
-    },
-    "beloved-mexican-food-disappearing-from-restaurant-menus-across-america": {
-      "title": "Beloved Mexican food disappearing from restaurant menus across America",
-      "slug": "beloved-mexican-food-disappearing-from-restaurant-menus-across-america",
-      "url": "https://ushotnews.online/article/beloved-mexican-food-disappearing-from-restaurant-menus-across-america",
-      "article_url": "https://ushotnews.online/article/beloved-mexican-food-disappearing-from-restaurant-menus-across-america",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122111680719471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111680719471257",
-      "fb_comment_id": "122111680719471257_1423088199744935",
-      "posted_at": "2026-09-20T17:59:26.245605+00:00"
-    },
     "scraped-4bc401d8ee": {
       "title": "Ernie Accorsi, legendary Giants general manager who made the shrewd move to get Eli Manning, dead at 84",
       "slug": "ernie-accorsi-legendary-giants-general-manager-who-made-the-shrewd-move-to-get-eli-manning",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113730991471257",
       "fb_comment_id": "122113730991471257_1070706692525049",
       "posted_at": "2026-09-23T17:44:16.059170+00:00"
+    },
+    "scraped-2194f2740f": {
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "slug": "bernie-sanders-proposes-banning-superintelligence-and-putting-violators-in-prison",
+      "url": "https://ushotnews.online/article/bernie-sanders-proposes-banning-superintelligence-and-putting-violators-in-prison",
+      "article_url": "https://ushotnews.online/article/bernie-sanders-proposes-banning-superintelligence-and-putting-violators-in-prison",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113774983471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113774983471257",
+      "fb_comment_id": "122113774983471257_1068398152771998",
+      "posted_at": "2026-09-23T18:58:47.673128+00:00"
+    },
+    "bernie-sanders-proposes-banning-superintelligence-and-putting-violators-in-prison": {
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "slug": "bernie-sanders-proposes-banning-superintelligence-and-putting-violators-in-prison",
+      "url": "https://ushotnews.online/article/bernie-sanders-proposes-banning-superintelligence-and-putting-violators-in-prison",
+      "article_url": "https://ushotnews.online/article/bernie-sanders-proposes-banning-superintelligence-and-putting-violators-in-prison",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113774983471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113774983471257",
+      "fb_comment_id": "122113774983471257_1068398152771998",
+      "posted_at": "2026-09-23T18:58:47.673128+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-23T17:44:02.272682+00:00"
+  "last_cleaned_at": "2026-09-23T18:58:33.650471+00:00"
 }
