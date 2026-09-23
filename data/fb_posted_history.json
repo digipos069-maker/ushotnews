@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T07:24:03.265961+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-23T09:52:44.768555+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-567def9650": {
       "title": "Federal funds rate: What it is and how it affects you",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113404135471257",
       "fb_comment_id": "122113404135471257_2994116144302205",
       "posted_at": "2026-09-23T07:24:03.265900+00:00"
+    },
+    "scraped-eaf69c9e9e": {
+      "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
+      "slug": "ai-is-killing-the-grunt-work-forcing-companies-to-rethink-entry-level-hiring",
+      "url": "https://ushotnews.online/article/ai-is-killing-the-grunt-work-forcing-companies-to-rethink-entry-level-hiring",
+      "article_url": "https://ushotnews.online/article/ai-is-killing-the-grunt-work-forcing-companies-to-rethink-entry-level-hiring",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113486377471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113486377471257",
+      "fb_comment_id": "122113486377471257_3424946821002436",
+      "posted_at": "2026-09-23T09:52:44.768490+00:00"
+    },
+    "ai-is-killing-the-grunt-work-forcing-companies-to-rethink-entry-level-hiring": {
+      "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring",
+      "slug": "ai-is-killing-the-grunt-work-forcing-companies-to-rethink-entry-level-hiring",
+      "url": "https://ushotnews.online/article/ai-is-killing-the-grunt-work-forcing-companies-to-rethink-entry-level-hiring",
+      "article_url": "https://ushotnews.online/article/ai-is-killing-the-grunt-work-forcing-companies-to-rethink-entry-level-hiring",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113486377471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113486377471257",
+      "fb_comment_id": "122113486377471257_3424946821002436",
+      "posted_at": "2026-09-23T09:52:44.768490+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-23T07:23:49.852114+00:00"
+  "last_cleaned_at": "2026-09-23T09:52:32.152078+00:00"
 }
