@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-23T14:54:13.836754+00:00",
+  "last_updated": "2026-09-23T17:44:16.059232+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-9783473013": {
-      "title": "A24’s reputation is on the line with the SCP Foundation movie",
-      "slug": "a24s-reputation-is-on-the-line-with-the-scp-foundation-movie",
-      "url": "https://ushotnews.online/article/a24s-reputation-is-on-the-line-with-the-scp-foundation-movie",
-      "article_url": "https://ushotnews.online/article/a24s-reputation-is-on-the-line-with-the-scp-foundation-movie",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122111666481471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111666481471257",
-      "fb_comment_id": "122111666481471257_3523261577850128",
-      "posted_at": "2026-09-20T17:38:04.881934+00:00"
-    },
-    "a24s-reputation-is-on-the-line-with-the-scp-foundation-movie": {
-      "title": "A24’s reputation is on the line with the SCP Foundation movie",
-      "slug": "a24s-reputation-is-on-the-line-with-the-scp-foundation-movie",
-      "url": "https://ushotnews.online/article/a24s-reputation-is-on-the-line-with-the-scp-foundation-movie",
-      "article_url": "https://ushotnews.online/article/a24s-reputation-is-on-the-line-with-the-scp-foundation-movie",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122111666481471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122111666481471257",
-      "fb_comment_id": "122111666481471257_3523261577850128",
-      "posted_at": "2026-09-20T17:38:04.881934+00:00"
-    },
     "scraped-0a1a08f32c": {
       "title": "Beloved Mexican food disappearing from restaurant menus across America",
       "slug": "beloved-mexican-food-disappearing-from-restaurant-menus-across-america",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113653165471257",
       "fb_comment_id": "122113653165471257_1766126077998439",
       "posted_at": "2026-09-23T14:54:13.836679+00:00"
+    },
+    "scraped-d760ceaffc": {
+      "title": "Major news outlets banned by Trump will have their day in court",
+      "slug": "major-news-outlets-banned-by-trump-will-have-their-day-in-court",
+      "url": "https://ushotnews.online/article/major-news-outlets-banned-by-trump-will-have-their-day-in-court",
+      "article_url": "https://ushotnews.online/article/major-news-outlets-banned-by-trump-will-have-their-day-in-court",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113730991471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113730991471257",
+      "fb_comment_id": "122113730991471257_1070706692525049",
+      "posted_at": "2026-09-23T17:44:16.059170+00:00"
+    },
+    "major-news-outlets-banned-by-trump-will-have-their-day-in-court": {
+      "title": "Major news outlets banned by Trump will have their day in court",
+      "slug": "major-news-outlets-banned-by-trump-will-have-their-day-in-court",
+      "url": "https://ushotnews.online/article/major-news-outlets-banned-by-trump-will-have-their-day-in-court",
+      "article_url": "https://ushotnews.online/article/major-news-outlets-banned-by-trump-will-have-their-day-in-court",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113730991471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113730991471257",
+      "fb_comment_id": "122113730991471257_1070706692525049",
+      "posted_at": "2026-09-23T17:44:16.059170+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-23T14:53:58.940585+00:00"
+  "last_cleaned_at": "2026-09-23T17:44:02.272682+00:00"
 }
