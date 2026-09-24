@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T03:20:10.892234+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-09-24T06:04:06.866758+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-b960356ccf": {
       "title": "Here are the 3 big things we're watching in the stock market this week",
@@ -727,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113982439471257",
       "fb_comment_id": "122113982439471257_1384532687175084",
       "posted_at": "2026-09-24T03:20:10.892173+00:00"
+    },
+    "scraped-1fd24c4877": {
+      "title": "English soccer star Harry Kane wants to play in the MLS and kick in the NFL at the same time",
+      "slug": "english-soccer-star-harry-kane-wants-to-play-in-the-mls-and-kick-in-the-nfl-at-the-same-ti",
+      "url": "https://ushotnews.online/article/english-soccer-star-harry-kane-wants-to-play-in-the-mls-and-kick-in-the-nfl-at-the-same-ti",
+      "article_url": "https://ushotnews.online/article/english-soccer-star-harry-kane-wants-to-play-in-the-mls-and-kick-in-the-nfl-at-the-same-ti",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114047953471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114047953471257",
+      "fb_comment_id": "122114047953471257_973930265724641",
+      "posted_at": "2026-09-24T06:04:06.866695+00:00"
+    },
+    "english-soccer-star-harry-kane-wants-to-play-in-the-mls-and-kick-in-the-nfl-at-the-same-ti": {
+      "title": "English soccer star Harry Kane wants to play in the MLS and kick in the NFL at the same time",
+      "slug": "english-soccer-star-harry-kane-wants-to-play-in-the-mls-and-kick-in-the-nfl-at-the-same-ti",
+      "url": "https://ushotnews.online/article/english-soccer-star-harry-kane-wants-to-play-in-the-mls-and-kick-in-the-nfl-at-the-same-ti",
+      "article_url": "https://ushotnews.online/article/english-soccer-star-harry-kane-wants-to-play-in-the-mls-and-kick-in-the-nfl-at-the-same-ti",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114047953471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114047953471257",
+      "fb_comment_id": "122114047953471257_973930265724641",
+      "posted_at": "2026-09-24T06:04:06.866695+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-24T03:19:58.510081+00:00"
+  "last_cleaned_at": "2026-09-24T06:03:53.942845+00:00"
 }
