@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-24T12:08:36.706336+00:00",
+  "last_updated": "2026-09-24T14:03:13.422230+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-5a0d25b920": {
-      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
-      "slug": "stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
-      "url": "https://ushotnews.online/article/stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
-      "article_url": "https://ushotnews.online/article/stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112271563471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112271563471257",
-      "fb_comment_id": "122112271563471257_1155113613856087",
-      "posted_at": "2026-09-21T13:39:49.010003+00:00"
-    },
-    "stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply": {
-      "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
-      "slug": "stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
-      "url": "https://ushotnews.online/article/stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
-      "article_url": "https://ushotnews.online/article/stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112271563471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112271563471257",
-      "fb_comment_id": "122112271563471257_1155113613856087",
-      "posted_at": "2026-09-21T13:39:49.010003+00:00"
-    },
     "scraped-31daa095d4": {
       "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
       "slug": "tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114228895471257",
       "fb_comment_id": "122114228895471257_2893898307639712",
       "posted_at": "2026-09-24T12:08:36.706263+00:00"
+    },
+    "scraped-3535830430": {
+      "title": "Tennessee cops raided man's home after he criticized officer for speeding: lawsuit",
+      "slug": "tennessee-cops-raided-mans-home-after-he-criticized-officer-for-speeding-lawsuit",
+      "url": "https://ushotnews.online/article/tennessee-cops-raided-mans-home-after-he-criticized-officer-for-speeding-lawsuit",
+      "article_url": "https://ushotnews.online/article/tennessee-cops-raided-mans-home-after-he-criticized-officer-for-speeding-lawsuit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114285877471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114285877471257",
+      "fb_comment_id": "122114285877471257_1541636630980414",
+      "posted_at": "2026-09-24T14:03:13.422149+00:00"
+    },
+    "tennessee-cops-raided-mans-home-after-he-criticized-officer-for-speeding-lawsuit": {
+      "title": "Tennessee cops raided man's home after he criticized officer for speeding: lawsuit",
+      "slug": "tennessee-cops-raided-mans-home-after-he-criticized-officer-for-speeding-lawsuit",
+      "url": "https://ushotnews.online/article/tennessee-cops-raided-mans-home-after-he-criticized-officer-for-speeding-lawsuit",
+      "article_url": "https://ushotnews.online/article/tennessee-cops-raided-mans-home-after-he-criticized-officer-for-speeding-lawsuit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114285877471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114285877471257",
+      "fb_comment_id": "122114285877471257_1541636630980414",
+      "posted_at": "2026-09-24T14:03:13.422149+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-24T12:08:22.471642+00:00"
+  "last_cleaned_at": "2026-09-24T14:02:55.578729+00:00"
 }
