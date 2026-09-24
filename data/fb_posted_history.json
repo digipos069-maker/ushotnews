@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T08:40:41.190147+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-09-24T12:08:36.706336+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-5a0d25b920": {
       "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
@@ -727,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114115243471257",
       "fb_comment_id": "122114115243471257_1630437455280272",
       "posted_at": "2026-09-24T08:40:41.190070+00:00"
+    },
+    "scraped-ff5a3d527d": {
+      "title": "Judge orders Trump administration to restore journalists' access to White House",
+      "slug": "judge-orders-trump-administration-to-restore-journalists-access-to-white-house",
+      "url": "https://ushotnews.online/article/judge-orders-trump-administration-to-restore-journalists-access-to-white-house",
+      "article_url": "https://ushotnews.online/article/judge-orders-trump-administration-to-restore-journalists-access-to-white-house",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114228895471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114228895471257",
+      "fb_comment_id": "122114228895471257_2893898307639712",
+      "posted_at": "2026-09-24T12:08:36.706263+00:00"
+    },
+    "judge-orders-trump-administration-to-restore-journalists-access-to-white-house": {
+      "title": "Judge orders Trump administration to restore journalists' access to White House",
+      "slug": "judge-orders-trump-administration-to-restore-journalists-access-to-white-house",
+      "url": "https://ushotnews.online/article/judge-orders-trump-administration-to-restore-journalists-access-to-white-house",
+      "article_url": "https://ushotnews.online/article/judge-orders-trump-administration-to-restore-journalists-access-to-white-house",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114228895471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114228895471257",
+      "fb_comment_id": "122114228895471257_2893898307639712",
+      "posted_at": "2026-09-24T12:08:36.706263+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-24T08:40:27.713703+00:00"
+  "last_cleaned_at": "2026-09-24T12:08:22.471642+00:00"
 }
