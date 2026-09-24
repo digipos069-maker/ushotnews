@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-24T14:03:13.422230+00:00",
+  "last_updated": "2026-09-24T17:30:29.864424+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-31daa095d4": {
-      "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
-      "slug": "tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
-      "url": "https://ushotnews.online/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
-      "article_url": "https://ushotnews.online/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112304761471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112304761471257",
-      "fb_comment_id": "122112304761471257_2169642617310594",
-      "posted_at": "2026-09-21T15:03:33.842495+00:00"
-    },
-    "tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt": {
-      "title": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
-      "slug": "tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
-      "url": "https://ushotnews.online/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
-      "article_url": "https://ushotnews.online/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112304761471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112304761471257",
-      "fb_comment_id": "122112304761471257_2169642617310594",
-      "posted_at": "2026-09-21T15:03:33.842495+00:00"
-    },
     "scraped-c6dbdf7315": {
       "title": "Googlebooks feel like the first laptops built for Android owners",
       "slug": "googlebooks-feel-like-the-first-laptops-built-for-android-owners",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114285877471257",
       "fb_comment_id": "122114285877471257_1541636630980414",
       "posted_at": "2026-09-24T14:03:13.422149+00:00"
+    },
+    "scraped-9ae1d17143": {
+      "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
+      "slug": "titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
+      "url": "https://ushotnews.online/article/titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
+      "article_url": "https://ushotnews.online/article/titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114376369471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114376369471257",
+      "fb_comment_id": "122114376369471257_2373145460158620",
+      "posted_at": "2026-09-24T17:30:29.864369+00:00"
+    },
+    "titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash": {
+      "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
+      "slug": "titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
+      "url": "https://ushotnews.online/article/titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
+      "article_url": "https://ushotnews.online/article/titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114376369471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114376369471257",
+      "fb_comment_id": "122114376369471257_2373145460158620",
+      "posted_at": "2026-09-24T17:30:29.864369+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-24T14:02:55.578729+00:00"
+  "last_cleaned_at": "2026-09-24T17:30:17.314107+00:00"
 }
