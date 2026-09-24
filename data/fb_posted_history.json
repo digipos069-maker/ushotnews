@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T17:30:29.864424+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-24T18:33:56.818890+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-c6dbdf7315": {
       "title": "Googlebooks feel like the first laptops built for Android owners",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114376369471257",
       "fb_comment_id": "122114376369471257_2373145460158620",
       "posted_at": "2026-09-24T17:30:29.864369+00:00"
+    },
+    "scraped-d30db87602": {
+      "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+      "slug": "these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
+      "url": "https://ushotnews.online/article/these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
+      "article_url": "https://ushotnews.online/article/these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114413551471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114413551471257",
+      "fb_comment_id": "122114413551471257_1731769401244884",
+      "posted_at": "2026-09-24T18:33:56.818801+00:00"
+    },
+    "these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump": {
+      "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
+      "slug": "these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
+      "url": "https://ushotnews.online/article/these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
+      "article_url": "https://ushotnews.online/article/these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114413551471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114413551471257",
+      "fb_comment_id": "122114413551471257_1731769401244884",
+      "posted_at": "2026-09-24T18:33:56.818801+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-24T17:30:17.314107+00:00"
+  "last_cleaned_at": "2026-09-24T18:33:39.912806+00:00"
 }
