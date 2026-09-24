@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T20:45:05.724266+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-24T21:59:43.949385+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-eb03e2f424": {
       "title": "Ray Dalio was fired from Wall Street before he built one of the world's largest hedge funds out of his apartment",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114468787471257",
       "fb_comment_id": "122114468787471257_1797051168085668",
       "posted_at": "2026-09-24T20:45:05.724189+00:00"
+    },
+    "scraped-d0126dfbfd": {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "slug": "muse-sure-looks-a-lot-like-openclaw",
+      "url": "https://ushotnews.online/article/muse-sure-looks-a-lot-like-openclaw",
+      "article_url": "https://ushotnews.online/article/muse-sure-looks-a-lot-like-openclaw",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114493405471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114493405471257",
+      "fb_comment_id": "122114493405471257_1096393676659843",
+      "posted_at": "2026-09-24T21:59:43.949321+00:00"
+    },
+    "muse-sure-looks-a-lot-like-openclaw": {
+      "title": "Muse sure looks a lot like OpenClaw",
+      "slug": "muse-sure-looks-a-lot-like-openclaw",
+      "url": "https://ushotnews.online/article/muse-sure-looks-a-lot-like-openclaw",
+      "article_url": "https://ushotnews.online/article/muse-sure-looks-a-lot-like-openclaw",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114493405471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114493405471257",
+      "fb_comment_id": "122114493405471257_1096393676659843",
+      "posted_at": "2026-09-24T21:59:43.949321+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-24T20:44:54.656935+00:00"
+  "last_cleaned_at": "2026-09-24T21:59:30.171966+00:00"
 }
