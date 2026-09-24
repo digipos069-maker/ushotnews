@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-23T23:52:44.842598+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-09-24T00:50:08.440280+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-778daf9ce8": {
       "title": "Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?",
@@ -727,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113897455471257",
       "fb_comment_id": "122113897455471257_1108317108284174",
       "posted_at": "2026-09-23T23:52:44.842535+00:00"
+    },
+    "scraped-e9e3574357": {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "slug": "meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
+      "url": "https://ushotnews.online/article/meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
+      "article_url": "https://ushotnews.online/article/meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113926717471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113926717471257",
+      "fb_comment_id": "122113926717471257_1441325841241076",
+      "posted_at": "2026-09-24T00:50:08.440219+00:00"
+    },
+    "meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too": {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "slug": "meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
+      "url": "https://ushotnews.online/article/meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
+      "article_url": "https://ushotnews.online/article/meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122113926717471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113926717471257",
+      "fb_comment_id": "122113926717471257_1441325841241076",
+      "posted_at": "2026-09-24T00:50:08.440219+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-23T23:52:30.922472+00:00"
+  "last_cleaned_at": "2026-09-24T00:49:55.647560+00:00"
 }
