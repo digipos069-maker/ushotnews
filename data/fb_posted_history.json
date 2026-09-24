@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-24T06:04:06.866758+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-24T08:40:41.190147+00:00",
+  "posted_count": 66,
   "articles": {
-    "scraped-b960356ccf": {
-      "title": "Here are the 3 big things we're watching in the stock market this week",
-      "slug": "here-are-the-3-big-things-were-watching-in-the-stock-market-this-week",
-      "url": "https://ushotnews.online/article/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week",
-      "article_url": "https://ushotnews.online/article/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112083871471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112083871471257",
-      "fb_comment_id": "122112083871471257_1780842866563993",
-      "posted_at": "2026-09-21T06:47:53.997985+00:00"
-    },
-    "here-are-the-3-big-things-were-watching-in-the-stock-market-this-week": {
-      "title": "Here are the 3 big things we're watching in the stock market this week",
-      "slug": "here-are-the-3-big-things-were-watching-in-the-stock-market-this-week",
-      "url": "https://ushotnews.online/article/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week",
-      "article_url": "https://ushotnews.online/article/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112083871471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112083871471257",
-      "fb_comment_id": "122112083871471257_1780842866563993",
-      "posted_at": "2026-09-21T06:47:53.997985+00:00"
-    },
-    "scraped-305ca044f2": {
-      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
-      "slug": "fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
-      "url": "https://ushotnews.online/article/fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
-      "article_url": "https://ushotnews.online/article/fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112113085471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112113085471257",
-      "fb_comment_id": "122112113085471257_1061317553362969",
-      "posted_at": "2026-09-21T07:54:28.260320+00:00"
-    },
-    "fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff": {
-      "title": "Fifth Third’s (FITB) Comerica Merger Is Done, Now Comes The Payoff",
-      "slug": "fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
-      "url": "https://ushotnews.online/article/fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
-      "article_url": "https://ushotnews.online/article/fifth-thirds-fitb-comerica-merger-is-done-now-comes-the-payoff",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112113085471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112113085471257",
-      "fb_comment_id": "122112113085471257_1061317553362969",
-      "posted_at": "2026-09-21T07:54:28.260320+00:00"
-    },
     "scraped-5a0d25b920": {
       "title": "STMicroelectronics (STM) Wants Every Car Watching Its Driver, and Cheaply",
       "slug": "stmicroelectronics-stm-wants-every-car-watching-its-driver-and-cheaply",
@@ -749,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114047953471257",
       "fb_comment_id": "122114047953471257_973930265724641",
       "posted_at": "2026-09-24T06:04:06.866695+00:00"
+    },
+    "scraped-97e36a39e4": {
+      "title": "Tylenol murders mystery deepens after sheriff’s office solves decades-old ‘Unknown Wanderer’ cold case",
+      "slug": "tylenol-murders-mystery-deepens-after-sheriffs-office-solves-decades-old-unknown-wanderer-",
+      "url": "https://ushotnews.online/article/tylenol-murders-mystery-deepens-after-sheriffs-office-solves-decades-old-unknown-wanderer-",
+      "article_url": "https://ushotnews.online/article/tylenol-murders-mystery-deepens-after-sheriffs-office-solves-decades-old-unknown-wanderer-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114115243471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114115243471257",
+      "fb_comment_id": "122114115243471257_1630437455280272",
+      "posted_at": "2026-09-24T08:40:41.190070+00:00"
+    },
+    "tylenol-murders-mystery-deepens-after-sheriffs-office-solves-decades-old-unknown-wanderer-": {
+      "title": "Tylenol murders mystery deepens after sheriff’s office solves decades-old ‘Unknown Wanderer’ cold case",
+      "slug": "tylenol-murders-mystery-deepens-after-sheriffs-office-solves-decades-old-unknown-wanderer-",
+      "url": "https://ushotnews.online/article/tylenol-murders-mystery-deepens-after-sheriffs-office-solves-decades-old-unknown-wanderer-",
+      "article_url": "https://ushotnews.online/article/tylenol-murders-mystery-deepens-after-sheriffs-office-solves-decades-old-unknown-wanderer-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114115243471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114115243471257",
+      "fb_comment_id": "122114115243471257_1630437455280272",
+      "posted_at": "2026-09-24T08:40:41.190070+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-24T06:03:53.942845+00:00"
+  "last_cleaned_at": "2026-09-24T08:40:27.713703+00:00"
 }
