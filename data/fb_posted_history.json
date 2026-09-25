@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-25T10:25:38.481693+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-25T15:26:30.617091+00:00",
+  "posted_count": 68,
   "articles": {
-    "scraped-07e3751663": {
-      "title": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
-      "slug": "alibaba-shares-jump-as-new-ai-chip-data-center-buildout-plans-unveiled",
-      "url": "https://ushotnews.online/article/alibaba-shares-jump-as-new-ai-chip-data-center-buildout-plans-unveiled",
-      "article_url": "https://ushotnews.online/article/alibaba-shares-jump-as-new-ai-chip-data-center-buildout-plans-unveiled",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112904653471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112904653471257",
-      "fb_comment_id": "122112904653471257_998597886583159",
-      "posted_at": "2026-09-22T12:23:18.185853+00:00"
-    },
-    "alibaba-shares-jump-as-new-ai-chip-data-center-buildout-plans-unveiled": {
-      "title": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
-      "slug": "alibaba-shares-jump-as-new-ai-chip-data-center-buildout-plans-unveiled",
-      "url": "https://ushotnews.online/article/alibaba-shares-jump-as-new-ai-chip-data-center-buildout-plans-unveiled",
-      "article_url": "https://ushotnews.online/article/alibaba-shares-jump-as-new-ai-chip-data-center-buildout-plans-unveiled",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112904653471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112904653471257",
-      "fb_comment_id": "122112904653471257_998597886583159",
-      "posted_at": "2026-09-22T12:23:18.185853+00:00"
-    },
-    "scraped-19b2aff7a1": {
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "slug": "meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
-      "url": "https://ushotnews.online/article/meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
-      "article_url": "https://ushotnews.online/article/meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112935583471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112935583471257",
-      "fb_comment_id": "122112935583471257_1627920769047923",
-      "posted_at": "2026-09-22T13:21:28.912450+00:00"
-    },
-    "meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent": {
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "slug": "meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
-      "url": "https://ushotnews.online/article/meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
-      "article_url": "https://ushotnews.online/article/meta-patches-muse-exploit-that-let-attackers-control-the-ai-agent",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122112935583471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122112935583471257",
-      "fb_comment_id": "122112935583471257_1627920769047923",
-      "posted_at": "2026-09-22T13:21:28.912450+00:00"
-    },
     "scraped-859a1e4d38": {
       "title": "Trump heads to U.N. looking for wins after a rough week",
       "slug": "trump-heads-to-un-looking-for-wins-after-a-rough-week",
@@ -771,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114788611471257",
       "fb_comment_id": "122114788611471257_1019831184412747",
       "posted_at": "2026-09-25T10:25:38.481625+00:00"
+    },
+    "scraped-5c149c95d8": {
+      "title": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
+      "slug": "the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
+      "url": "https://ushotnews.online/article/the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
+      "article_url": "https://ushotnews.online/article/the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114936487471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114936487471257",
+      "fb_comment_id": "122114936487471257_2248244939435020",
+      "posted_at": "2026-09-25T15:26:30.617027+00:00"
+    },
+    "the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care": {
+      "title": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
+      "slug": "the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
+      "url": "https://ushotnews.online/article/the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
+      "article_url": "https://ushotnews.online/article/the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114936487471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114936487471257",
+      "fb_comment_id": "122114936487471257_2248244939435020",
+      "posted_at": "2026-09-25T15:26:30.617027+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-25T10:25:23.649583+00:00"
+  "last_cleaned_at": "2026-09-25T15:26:16.018947+00:00"
 }
