@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T19:27:09.922441+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-25T19:31:05.371899+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-19dc2f532f": {
       "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115041769471257",
       "fb_comment_id": "122115041769471257_2014120219291770",
       "posted_at": "2026-09-25T19:27:09.922363+00:00"
+    },
+    "scraped-2b54149bd8": {
+      "title": "Ex-Dem insider blows lid off fundraising 'gimmicks' during 2024 election: 'Pyramid scheme'",
+      "slug": "ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme",
+      "url": "https://ushotnews.online/article/ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme",
+      "article_url": "https://ushotnews.online/article/ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115043779471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115043779471257",
+      "fb_comment_id": "122115043779471257_2296399967827187",
+      "posted_at": "2026-09-25T19:31:05.371832+00:00"
+    },
+    "ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme": {
+      "title": "Ex-Dem insider blows lid off fundraising 'gimmicks' during 2024 election: 'Pyramid scheme'",
+      "slug": "ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme",
+      "url": "https://ushotnews.online/article/ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme",
+      "article_url": "https://ushotnews.online/article/ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115043779471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115043779471257",
+      "fb_comment_id": "122115043779471257_2296399967827187",
+      "posted_at": "2026-09-25T19:31:05.371832+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-25T19:26:55.090363+00:00"
+  "last_cleaned_at": "2026-09-25T19:30:48.688729+00:00"
 }
