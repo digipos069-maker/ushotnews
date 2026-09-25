@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T15:26:30.617091+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-25T15:30:10.963478+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-859a1e4d38": {
       "title": "Trump heads to U.N. looking for wins after a rough week",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114936487471257",
       "fb_comment_id": "122114936487471257_2248244939435020",
       "posted_at": "2026-09-25T15:26:30.617027+00:00"
+    },
+    "scraped-7bfd458bf4": {
+      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+      "slug": "russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
+      "url": "https://ushotnews.online/article/russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
+      "article_url": "https://ushotnews.online/article/russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114937891471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114937891471257",
+      "fb_comment_id": "122114937891471257_1743168846933133",
+      "posted_at": "2026-09-25T15:30:10.963414+00:00"
+    },
+    "russia-could-attack-a-nato-country-within-months-danish-intelligence-warns": {
+      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+      "slug": "russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
+      "url": "https://ushotnews.online/article/russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
+      "article_url": "https://ushotnews.online/article/russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114937891471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114937891471257",
+      "fb_comment_id": "122114937891471257_1743168846933133",
+      "posted_at": "2026-09-25T15:30:10.963414+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-25T15:26:16.018947+00:00"
+  "last_cleaned_at": "2026-09-25T15:29:56.660331+00:00"
 }
