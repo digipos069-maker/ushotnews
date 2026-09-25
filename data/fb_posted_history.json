@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T04:45:10.704458+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-25T05:14:58.703026+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-d159b43abf": {
       "title": "Eagles fan-favorite Zach Ertz returns to Philly amid injury concerns on offense",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114628681471257",
       "fb_comment_id": "122114628681471257_1536678881562321",
       "posted_at": "2026-09-25T04:45:10.704399+00:00"
+    },
+    "scraped-29515d8b40": {
+      "title": "Angel mom says blue state DAs are putting illegal immigrant criminals before public safety",
+      "slug": "angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
+      "url": "https://ushotnews.online/article/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
+      "article_url": "https://ushotnews.online/article/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114640321471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114640321471257",
+      "fb_comment_id": "122114640321471257_1487912916454814",
+      "posted_at": "2026-09-25T05:14:58.702946+00:00"
+    },
+    "angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety": {
+      "title": "Angel mom says blue state DAs are putting illegal immigrant criminals before public safety",
+      "slug": "angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
+      "url": "https://ushotnews.online/article/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
+      "article_url": "https://ushotnews.online/article/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114640321471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114640321471257",
+      "fb_comment_id": "122114640321471257_1487912916454814",
+      "posted_at": "2026-09-25T05:14:58.702946+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-25T04:44:58.605000+00:00"
+  "last_cleaned_at": "2026-09-25T05:14:46.245543+00:00"
 }
