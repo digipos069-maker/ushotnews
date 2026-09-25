@@ -1,5 +1,967 @@
 [
   {
+    "id": "scraped-b1e328490e",
+    "slug": "poll-a-crack-is-emerging-in-trumps-coalition-over-deportations",
+    "guid": "000001a0-d440-d462-adb2-f4fb158d0000",
+    "title": "Poll: A crack is emerging in Trump’s coalition over deportations",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The president’s most loyal supporters are more inclined than other Trump voters to support a tough immigration posture — but new POLITICO Poll results show there are limits.",
+    "content": [
+      "The president’s most loyal supporters are more inclined than other Trump voters to support a tough immigration posture — but new POLITICO Poll results show there are limits.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/21/c2/b5e4c3ba4fa29aa5b35c53f3a849/immigation-maga-split.png",
+    "imageCaption": "Poll: A crack is emerging in Trump’s coalition over deportat... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f457f64e2d",
+    "slug": "microsoft-thinks-its-new-copilot-super-app-will-be-as-influential-as-office",
+    "guid": "https://www.theverge.com/?p=1000532",
+    "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
+    "content": [
+      "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft thinks its new Copilot ‘super app’ will be as infl... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T12:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4e8836fb14",
+    "slug": "insta360-conquered-360-cameras-now-its-eyeing-glasses",
+    "guid": "https://www.theverge.com/?p=999489",
+    "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "It's right there in the name: \"Insta360\" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has become so synonymous with 360 cameras that it dominates the category with 73 percent of worldwide marketshare. It's preparing to ship so many [&#8230;]",
+    "content": [
+      "It's right there in the name: \"Insta360\" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has become so synonymous with 360 cameras that it dominates the category with 73 percent of worldwide marketshare. It's preparing to ship so many [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Insta360 conquered 360 cameras — now it’s eyeing glasses... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T12:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f98c4a056e",
+    "slug": "can-apple-homes-ai-camera-features-outsmart-amazons-and-googles-i-put-them-to-the-test",
+    "guid": "https://www.theverge.com/?p=1000321",
+    "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
+    "content": [
+      "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again. I pulled it out, glanced down, and saw a \"motion detected\" notification from my security camera. \"Just [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Can Apple Home’s AI camera features outsmart Amazon’s and Go... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T13:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fcef30218b",
+    "slug": "gamings-biggest-horror-series-are-more-vital-than-ever",
+    "guid": "https://www.theverge.com/?p=1000595",
+    "title": "Gaming’s biggest horror series are more vital than ever",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best [&#8230;]",
+    "content": [
+      "For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2, then the Japan-set spinoff Silent Hill F. Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall, trying my best [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Gaming’s biggest horror series are more vital than ever... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:10:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-414e1a7403",
+    "slug": "cricut8217s-new-compact-crafter-prints-cuts-and-laminates-stickers",
+    "guid": "https://www.theverge.com/?p=1000655",
+    "title": "Cricut&#8217;s new compact crafter prints, cuts, and laminates stickers",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and seem ideal for those whose crafting aspirations [&#8230;]",
+    "content": [
+      "Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and seem ideal for those whose crafting aspirations [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cricut&#8217;s new compact crafter prints, cuts, and laminat... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:21:25+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c8de9c7094",
+    "slug": "netanyahu-rages-against-critics-including-mamdani-at-the-un-general-assembly",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly",
+    "title": "Netanyahu rages against critics, including Mamdani, at the U.N. General Assembly",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
+    "content": [
+      "Middle East crises draw major focus as the U.N. General Assembly hears from Israel, the Palestinian Authority and Yemen.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Netanyahu rages against critics, including Mamdani, at the U... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:25:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-110457a559",
+    "slug": "why-this-pokémon-set-is-dropping-in-value",
+    "guid": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
+    "title": "Why this Pokémon set is dropping in value",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
+    "content": [
+      "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why this Pokémon set is dropping in value... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T11:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1178e32ce2",
+    "slug": "trump-and-xi-strike-cordial-tone-at-summit-and-netanyahu-gives-defiant-unga-speech",
+    "guid": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
+    "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
+    "content": [
+      "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump and Xi strike cordial tone at summit. And, Netanyahu g... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T11:18:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9f9aa8194c",
+    "slug": "hurricane-nolo-a-zig-zagging-storm-threatens-hawaii-with-flooding-rain",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
+    "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rain",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer.",
+    "content": [
+      "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with f... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:46:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-77198615db",
+    "slug": "pope-leo-warns-a-paradise-of-machines-could-undermine-humanity-on-his-france-visit",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+    "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+    "content": [
+      "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Pope Leo warns a 'paradise of machines' could undermine huma... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:55:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2b54149bd8",
+    "slug": "ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme",
+    "guid": "https://www.foxnews.com/politics/ex-dem-insider-blows-lid-off-fundraising-gimmicks-during-2024-election-pyramid-scheme",
+    "title": "Ex-Dem insider blows lid off fundraising 'gimmicks' during 2024 election: 'Pyramid scheme'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Lindy Li reveals how Kamala Harris&apos;s billion-dollar war chest was funneled to media consultants, alleging fundraising gimmicks and lavish spending.",
+    "content": [
+      "Lindy Li reveals how Kamala Harris&apos;s billion-dollar war chest was funneled to media consultants, alleging fundraising gimmicks and lavish spending.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kamala-harris-austrian-world-summit.jpg?ve=1&tl=1",
+    "imageCaption": "Ex-Dem insider blows lid off fundraising 'gimmicks' during 2... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:00:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c25cc2b56c",
+    "slug": "sunny-hostins-holdout-juror-claim-complicated-by-conflicting-reports-from-infamous-1991-mu",
+    "guid": "https://www.foxnews.com/media/sunny-hostins-holdout-juror-claim-complicated-conflicting-reports-from-infamous-1991-murder-trial",
+    "title": "Sunny Hostin's holdout juror claim complicated by conflicting reports from infamous 1991 murder trial",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sunny Hostin claimed she was the holdout juror in the NYC cannibal killer trial, but co-jurors told multiple outlets the holdout was an unemployed man.",
+    "content": [
+      "Sunny Hostin claimed she was the holdout juror in the NYC cannibal killer trial, but co-jurors told multiple outlets the holdout was an unemployed man.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/sunny-hostin-at-event.png?ve=1&tl=1",
+    "imageCaption": "Sunny Hostin's holdout juror claim complicated by conflictin... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:22:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8d41a17df6",
+    "slug": "red-carpet-for-a-despot-trumps-lavish-xi-welcome-collides-with-gop-anti-communism-message",
+    "guid": "https://www.foxnews.com/politics/red-carpet-despot-trumps-lavish-xi-welcome-collides-gop-anti-communism-message",
+    "title": "'Red carpet for a despot': Trump's lavish Xi welcome collides with GOP anti-communism message",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Republican senators criticized President Donald Trump&apos;s lavish Washington summit with Xi Jinping, warning against red carpet treatment for China&apos;s leader.",
+    "content": [
+      "Republican senators criticized President Donald Trump&apos;s lavish Washington summit with Xi Jinping, warning against red carpet treatment for China&apos;s leader.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-xi-jinping-red-carpet-andrews.jpg?ve=1&tl=1",
+    "imageCaption": "'Red carpet for a despot': Trump's lavish Xi welcome collide... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:25:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5b26290c4c",
+    "slug": "meghan-markles-outing-with-ellen-degeneres-exposes-irony-in-royals-quiet-country-life-expe",
+    "guid": "https://www.foxnews.com/entertainment/meghan-markle-outing-ellen-degeneres-exposes-irony-royal-quiet-country-life-expert",
+    "title": "Meghan Markle’s outing with Ellen DeGeneres exposes 'irony' in royal’s ‘quiet country life’: expert",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Meghan Markle&apos;s first photographed outing in the Cotswolds with Ellen DeGeneres and Portia de Rossi raises questions about her quiet life claims.",
+    "content": [
+      "Meghan Markle&apos;s first photographed outing in the Cotswolds with Ellen DeGeneres and Portia de Rossi raises questions about her quiet life claims.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/meghan-markle-black-blazer.jpg?ve=1&tl=1",
+    "imageCaption": "Meghan Markle’s outing with Ellen DeGeneres exposes 'irony' ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:30:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-73b445e000",
+    "slug": "suspect-in-pittsburgh-doctors-murder-had-been-released-without-bail-on-prior-burglary-char",
+    "guid": "https://www.foxnews.com/us/suspect-pittsburgh-doctors-murder-released-without-bail-prior-burglary-charge-court-docs",
+    "title": "Suspect in Pittsburgh doctor's murder had been released without bail on prior burglary charge: court docs",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Dr. Idris Evans was allegedly stabbed to death in his Edgewood, Pennsylvania, home by an intruder his wife says wore only underwear and ranted about God.",
+    "content": [
+      "Dr. Idris Evans was allegedly stabbed to death in his Edgewood, Pennsylvania, home by an intruder his wife says wore only underwear and ranted about God.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/idris-evans-and-upmc.jpg?ve=1&tl=1",
+    "imageCaption": "Suspect in Pittsburgh doctor's murder had been released with... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:30:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e030975c85",
+    "slug": "social-worker-sues-after-she-says-she-refused-to-conceal-students-gender-transitions-from-",
+    "guid": "https://www.foxnews.com/media/social-worker-sues-after-she-says-she-refused-conceal-students-gender-transitions-from-parents",
+    "title": "Social worker sues after she says she refused to conceal students’ gender transitions from parents",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jeanette Martinez claims Albuquerque Public Schools forces staff to hide students&apos; gender transitions from parents, violating her First Amendment rights.",
+    "content": [
+      "Jeanette Martinez claims Albuquerque Public Schools forces staff to hide students&apos; gender transitions from parents, violating her First Amendment rights.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/schools-spy-on-kids-photo-2.jpg?ve=1&tl=1",
+    "imageCaption": "Social worker sues after she says she refused to conceal stu... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:38:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-61b8675f62",
+    "slug": "80s-star-tiffany-steps-into-dream-role-after-leaving-hollywood-behind",
+    "guid": "https://www.foxnews.com/entertainment/80s-star-tiffany-steps-dream-role-leaving-hollywood-behind",
+    "title": "'80s star Tiffany steps into dream role after leaving Hollywood behind",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tiffany reveals her Off-Broadway role in Spandex the Musical fulfills a lifelong dream she put on hold when I Think We&apos;re Alone Now took off.",
+    "content": [
+      "Tiffany reveals her Off-Broadway role in Spandex the Musical fulfills a lifelong dream she put on hold when I Think We&apos;re Alone Now took off.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tiffany-now-then.jpg?ve=1&tl=1",
+    "imageCaption": "'80s star Tiffany steps into dream role after leaving Hollyw... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T15:00:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bb14c41aaf",
+    "slug": "fighter-jet-pilots-eject-moments-before-fiery-crash-in-wales",
+    "guid": "https://www.foxnews.com/world/fighter-jet-pilots-eject-moments-before-fiery-crash-wales",
+    "title": "Fighter jet pilots eject moments before fiery crash in Wales",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Video captures two Royal Air Force pilots ejecting from a Hawk T2 training jet moments before a fiery crash near Anglesey in Wales on Wednesday.",
+    "content": [
+      "Video captures two Royal Air Force pilots ejecting from a Hawk T2 training jet moments before a fiery crash near Anglesey in Wales on Wednesday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/RAF-crash-1.jpg?ve=1&tl=1",
+    "imageCaption": "Fighter jet pilots eject moments before fiery crash in Wales... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T15:03:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-628cdc06d0",
+    "slug": "trump-and-xi-dined-with-ais-biggest-names-heres-what-we-know-about-tech-talks-so-far",
+    "guid": "108367951",
+    "title": "Trump and Xi dined with AI's biggest names. Here's what we know about tech talks so far",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks.",
+    "content": [
+      "AI was a key topic during Trump-Xi talks on Thursday, after safety concerns shot to the top of the global geopolitical agenda in recent weeks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump and Xi dined with AI's biggest names. Here's what we k... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:43:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4984ec542e",
+    "slug": "yields-keep-rising-novos-tough-week-why-cat-product-sales-are-surging-and-more-in-morning-",
+    "guid": "108367744",
+    "title": "Yields keep rising, Novo's tough week, why cat product sales are surging and more in Morning Squawk",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "content": [
+      "Here are five key things investors need to know to start the trading day.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Yields keep rising, Novo's tough week, why cat product sales... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T12:39:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4a0b52fda3",
+    "slug": "new-study-reveals-the-estate-planning-choices-that-are-likely-to-pit-heirs-against-each-ot",
+    "guid": "108366856",
+    "title": "New study reveals the estate-planning choices that are likely to pit heirs against each other",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The study identified contested trust disputes by examining thousands of civil filings that were scheduled to come before San Francisco Superior Court.",
+    "content": [
+      "The study identified contested trust disputes by examining thousands of civil filings that were scheduled to come before San Francisco Superior Court.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "New study reveals the estate-planning choices that are likel... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T15:01:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-883b96c47d",
+    "slug": "warshs-regime-change-at-the-fed-pushes-ahead-and-meets-resistance",
+    "guid": "108366952",
+    "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.",
+    "content": [
+      "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Warsh's regime change at the Fed pushes ahead – and meets re... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:30:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-35f246b127",
+    "slug": "microsoft-packages-business-ai-in-single-app-as-it-tries-to-compete-with-anthropic",
+    "guid": "108367275",
+    "title": "Microsoft packages business AI in single app as it tries to compete with Anthropic",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "With Microsoft still searching for a winning AI strategy, the company its updating its Copilot app to combine more capabilities.",
+    "content": [
+      "With Microsoft still searching for a winning AI strategy, the company its updating its Copilot app to combine more capabilities.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft packages business AI in single app as it tries to ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T12:00:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-637815224f",
+    "slug": "airlines-waive-flight-change-fees-ahead-of-noreaster",
+    "guid": "108368010",
+    "title": "Airlines waive flight-change fees ahead of nor'easter",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Flight disruptions were minimal for Saturday as of Friday morning.",
+    "content": [
+      "Flight disruptions were minimal for Saturday as of Friday morning.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Airlines waive flight-change fees ahead of nor'easter... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:10:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5753568b0d",
+    "slug": "details-on-us-china-trade-negotiations-coming-monday-ustr-greer-says",
+    "guid": "108368035",
+    "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
+    "content": [
+      "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Details on U.S.-China trade negotiations coming Monday, USTR... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T14:35:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-54b242e607",
     "slug": "american-farmers-are-hurting-and-worried-about-their-futures",
     "guid": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
