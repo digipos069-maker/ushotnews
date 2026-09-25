@@ -1,5 +1,782 @@
 [
   {
+    "id": "scraped-54b242e607",
+    "slug": "american-farmers-are-hurting-and-worried-about-their-futures",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5979886/farmers-crops-economy-diesel-fertilizer",
+    "title": "American farmers are hurting -- and worried about their futures",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
+    "content": [
+      "Farmers who grow soybeans, corn, cotton and other crops are facing another year of losses as soaring fuel and fertilizer costs offset higher revenues.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "American farmers are hurting -- and worried about their futu... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5c149c95d8",
+    "slug": "the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5965797/strategic-petroleum-reserve-low-level-venezuela",
+    "title": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The U.S. has tapped into its strategic oil reserve to help drive down rising gasoline prices in the wake of the war with Iran. Can oil from Venezuela help fill it back up?",
+    "content": [
+      "The U.S. has tapped into its strategic oil reserve to help drive down rising gasoline prices in the wake of the war with Iran. Can oil from Venezuela help fill it back up?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The U.S. Strategic Petroleum Reserve is low. Here's why you ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-da79a3e529",
+    "slug": "years-after-storms-clean-up-crews-meticulously-separate-the-sentimental-from-the-wreckage",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5844641/hurricane-debris-north-carolina-texas-flood",
+    "title": "Years after storms, clean-up crews meticulously separate the sentimental from the wreckage",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Across the country, lost-and-found networks seek to reunite objects with disaster survivors. The work can take years. In some cases, it's impossible to pick up all the pieces.",
+    "content": [
+      "Across the country, lost-and-found networks seek to reunite objects with disaster survivors. The work can take years. In some cases, it's impossible to pick up all the pieces.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Years after storms, clean-up crews meticulously separate the... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-34fa966fbc",
+    "slug": "is-switzerlands-neutrality-at-a-crossroads",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5978905/swiss-referendum-neutrality-russia",
+    "title": "Is Switzerland's neutrality at a crossroads?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Switzerland is voting on whether to tighten its famous neutrality — a move that could reshape its response to Russia and future conflicts.",
+    "content": [
+      "Switzerland is voting on whether to tighten its famous neutrality — a move that could reshape its response to Russia and future conflicts.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Is Switzerland's neutrality at a crossroads?... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-da1d6fc3bc",
+    "slug": "as-election-enters-its-final-stretch-some-republicans-are-distancing-from-trump",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5978096/republicans-trump-midterm-elections",
+    "title": "As election enters its final stretch, some Republicans are distancing from Trump",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "With less than six weeks until Election Day, a growing number of Republicans are breaking from Trump on key issues. It comes as the party is scrambling to hold onto a slim majority in Congress.",
+    "content": [
+      "With less than six weeks until Election Day, a growing number of Republicans are breaking from Trump on key issues. It comes as the party is scrambling to hold onto a slim majority in Congress.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "As election enters its final stretch, some Republicans are d... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-022d228da1",
+    "slug": "americans-are-confused-and-worried-about-elections-will-that-impact-turnout",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout",
+    "title": "Americans are confused and worried about elections. Will that impact turnout?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "New polling shows many voters are concerned about the midterms. But prior elections show no clear link between voter concerns and fewer voters actually casting ballots.",
+    "content": [
+      "New polling shows many voters are concerned about the midterms. But prior elections show no clear link between voter concerns and fewer voters actually casting ballots.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Americans are confused and worried about elections. Will tha... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7c7b579e4c",
+    "slug": "fill-in-the-blank-in-the-quiz-trumps-says-his-triumphal-arch-will-include-_____",
+    "guid": "https://www.npr.org/2026/09/25/g-s1-144665/trump-arch-fat-bear-media-ai-news-quiz",
+    "title": "Fill in the blank in the quiz: Trump's says his triumphal arch will include _____",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Plus: It's a very special week! But which one?",
+    "content": [
+      "Plus: It's a very special week! But which one?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fill in the blank in the quiz: Trump's says his triumphal ar... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:01:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cd93908401",
+    "slug": "mom-mom-mom-3-ways-to-stay-calm-in-stressful-parenting-moments",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5978936/how-to-manage-mom-rage",
+    "title": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting moments",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Parenthood can be overwhelming. A therapist and mom of three shares techniques to help calibrate your emotions — so you can show up better for yourself and your family.",
+    "content": [
+      "Parenthood can be overwhelming. A therapist and mom of three shares techniques to help calibrate your emotions — so you can show up better for yourself and your family.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Mom! Mom! MOM! 3 ways to stay calm in stressful parenting mo... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:01:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0e9e6231ea",
+    "slug": "cut-the-bull-the-real-reason-beef-costs-so-much-and-what-trump-is-trying-to-do",
+    "guid": "https://www.foxnews.com/opinion/cut-bull-real-reason-beef-costs-much-what-trump-trying-do",
+    "title": "Cut the bull: The real reason beef costs so much — and what Trump is trying to do",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ground beef hit a record $6.92 per pound as the U.S. cattle herd falls to a 75-year low, and Trump signed executive orders targeting beef industry reform.",
+    "content": [
+      "Ground beef hit a record $6.92 per pound as the U.S. cattle herd falls to a 75-year low, and Trump signed executive orders targeting beef industry reform.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/1200/675/cattle-lined-up-farm.jpg?ve=1&tl=1",
+    "imageCaption": "Cut the bull: The real reason beef costs so much — and what ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:00:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7d9183e1d4",
+    "slug": "the-worst-bet-in-america-isnt-kalshi-or-polymarket-its-hiding-in-plain-sight",
+    "guid": "https://www.foxnews.com/opinion/worst-bet-america-isnt-kalshi-polymarket-hiding-plain-sight",
+    "title": "The worst bet in America isn't Kalshi or Polymarket. It's hiding in plain sight",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Americans spent over $113 billion on lottery tickets in 2024, yet Powerball and Mega Millions offer some of the worst odds in all of gambling.",
+    "content": [
+      "Americans spent over $113 billion on lottery tickets in 2024, yet Powerball and Mega Millions offer some of the worst odds in all of gambling.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/polymarket-7.jpg?ve=1&tl=1",
+    "imageCaption": "The worst bet in America isn't Kalshi or Polymarket. It's hi... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:00:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-de3a829e43",
+    "slug": "jonathan-flora-the-wnba-has-a-courage-problem-and-its-not-sophie-cunningham",
+    "guid": "https://www.foxnews.com/outkick-sports/wnba-courage-problem-not-sophie-cunningham",
+    "title": "Jonathan Flora: The WNBA has a courage problem and it’s not Sophie Cunningham",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "WNBA Commissioner Cathy Engelbert is now discussing transgender-player eligibility, but the league still won&apos;t define who qualifies as a woman.",
+    "content": [
+      "WNBA Commissioner Cathy Engelbert is now discussing transgender-player eligibility, but the league still won&apos;t define who qualifies as a woman.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sophie-cunningham-indiana-fever-three-pointer.jpg?ve=1&tl=1",
+    "imageCaption": "Jonathan Flora: The WNBA has a courage problem and it’s not ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:00:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2fc61d961c",
+    "slug": "fox-news-digitals-news-quiz-september-25-2026",
+    "guid": "https://www.foxnews.com/lifestyle/fox-news-digital-news-quiz-september-25-2026",
+    "title": "Fox News Digital's News Quiz: September 25, 2026",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Test your knowledge of this week’s headlines, including an attorney controversy and a pocketknife discovered by TSA officers in Dallas.",
+    "content": [
+      "Test your knowledge of this week’s headlines, including an attorney controversy and a pocketknife discovered by TSA officers in Dallas.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/1200/675/news-quiz-split-photo-2.jpg?ve=1&tl=1",
+    "imageCaption": "Fox News Digital's News Quiz: September 25, 2026... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:00:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0a85c3edaa",
+    "slug": "mistress-told-american-idol-contestant-she-wanted-to-kill-wife-but-testified-divorce-not-m",
+    "guid": "https://www.foxnews.com/us/mistress-told-american-idol-contestant-she-wanted-kill-wife-testified-divorce-not-murder-was-plan",
+    "title": "Mistress told ‘American Idol’ contestant she wanted ‘to kill’ wife but testified divorce, not murder, was plan",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Alleigha Botner testified about Caleb Flynn&apos;s eerie remark after Ashley Flynn&apos;s death and the final messages exchanged before the shooting.",
+    "content": [
+      "Alleigha Botner testified about Caleb Flynn&apos;s eerie remark after Ashley Flynn&apos;s death and the final messages exchanged before the shooting.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Flynns-Botner-Split_001.jpg?ve=1&tl=1",
+    "imageCaption": "Mistress told ‘American Idol’ contestant she wanted ‘to kill... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:00:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-517720fcc8",
+    "slug": "fast-food-drive-thrus-took-over-american-mornings-for-these-key-reasons",
+    "guid": "https://www.foxnews.com/lifestyle/fast-food-drive-thrus-took-over-american-mornings-key-reasons",
+    "title": "Fast-food drive-thrus took over American mornings for these key reasons",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Fast-food breakfast and the drive-thru have become daily rituals for millions of Americans. A food historian reveals how this once-novel concept became an everyday staple.",
+    "content": [
+      "Fast-food breakfast and the drive-thru have become daily rituals for millions of Americans. A food historian reveals how this once-novel concept became an everyday staple.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jack-in-the-box-customer-at-drive-thru.jpg?ve=1&tl=1",
+    "imageCaption": "Fast-food drive-thrus took over American mornings for these ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:00:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e043f8d4c9",
+    "slug": "gop-handed-new-lifeline-on-biggest-pocketbook-fight-of-midterms",
+    "guid": "https://www.foxnews.com/politics/gop-handed-new-lifeline-biggest-pocketbook-fight-midterms",
+    "title": "GOP handed new lifeline on biggest pocketbook fight of midterms",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Club for Growth&apos;s memo urges Republicans to blame federal expansion for high cost of living and resist subsidies ahead of the November midterms.",
+    "content": [
+      "Club for Growth&apos;s memo urges Republicans to blame federal expansion for high cost of living and resist subsidies ahead of the November midterms.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/johnson-jeffries-2026.jpg?ve=1&tl=1",
+    "imageCaption": "GOP handed new lifeline on biggest pocketbook fight of midte... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:00:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9af6b25d26",
+    "slug": "frontline-nato-ally-shares-shocking-take-on-russian-invasion-threat",
+    "guid": "https://www.foxnews.com/politics/frontline-nato-ally-shares-shocking-take-russian-invasion-threat",
+    "title": "Frontline NATO ally shares shocking take on Russian invasion threat",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Estonia&apos;s foreign minister tells Fox News Digital that intelligence sees no Russian buildup for a NATO invasion despite rising hybrid attack fears.",
+    "content": [
+      "Estonia&apos;s foreign minister tells Fox News Digital that intelligence sees no Russian buildup for a NATO invasion despite rising hybrid attack fears.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/russian-troops.jpg?ve=1&tl=1",
+    "imageCaption": "Frontline NATO ally shares shocking take on Russian invasion... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:00:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-88c9cf67bb",
+    "slug": "us-treasury-yields-tick-higher-as-global-bond-rout-slows",
+    "guid": "108367922",
+    "title": "U.S. Treasury yields tick higher as global bond rout slows",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "U.S. Treasury yields continued to climb higher to end the week following a global bond selloff and stronger-than-expected U.S. economic data.",
+    "content": [
+      "U.S. Treasury yields continued to climb higher to end the week following a global bond selloff and stronger-than-expected U.S. economic data.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. Treasury yields tick higher as global bond rout slows... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T08:08:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7bfd458bf4",
+    "slug": "russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
+    "guid": "108367908",
+    "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The new threat assessment joins a growing chorus of Russia warnings from top European security officials and lawmakers in recent days.",
+    "content": [
+      "The new threat assessment joins a growing chorus of Russia warnings from top European security officials and lawmakers in recent days.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Russia could attack a NATO country within months, Danish int... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T08:26:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d0519bbae4",
+    "slug": "china-saw-surprise-jump-in-us-orders-ahead-of-trump-xi-summit-private-survey-shows",
+    "guid": "108367927",
+    "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+    "content": [
+      "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi s... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a8d8a0750f",
+    "slug": "see-which-incumbents-have-the-biggest-cash-advantage-in-the-tightest-us-house-races",
+    "guid": "108365117",
+    "title": "See which incumbents have the biggest cash advantage in the tightest U.S. House races",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Incumbents hold commanding cash advantages in many of the U.S. House 2026 midterm election races expected to help decide control of Congress.",
+    "content": [
+      "Incumbents hold commanding cash advantages in many of the U.S. House 2026 midterm election races expected to help decide control of Congress.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "See which incumbents have the biggest cash advantage in the ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T10:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fcb085eae5",
+    "slug": "iran-offers-to-reopen-strait-of-hormuz-within-7-days-and-restart-nuclear-talks",
+    "guid": "108367880",
+    "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+    "content": [
+      "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Iran offers to reopen Strait of Hormuz within 7 days and res... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T09:03:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-94ab0af0e4",
     "slug": "gina-hinojosa-wants-to-make-texas-a-test-case-for-democrats-future",
     "guid": "000001a0-d42b-d462-adb2-f4bb27340000",
