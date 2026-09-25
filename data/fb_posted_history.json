@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-24T23:50:49.035663+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-25T00:27:13.664886+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-eef017cbfa": {
       "title": "Fury erupts over Mamdani parade invite as old Columbus insult resurfaces: ‘Are you kidding me?’",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114534421471257",
       "fb_comment_id": "122114534421471257_2480474332436035",
       "posted_at": "2026-09-24T23:50:49.035604+00:00"
+    },
+    "scraped-7ba6df97f3": {
+      "title": "Senate narrowly votes down resolution calling for end to Iran war",
+      "slug": "senate-narrowly-votes-down-resolution-calling-for-end-to-iran-war",
+      "url": "https://ushotnews.online/article/senate-narrowly-votes-down-resolution-calling-for-end-to-iran-war",
+      "article_url": "https://ushotnews.online/article/senate-narrowly-votes-down-resolution-calling-for-end-to-iran-war",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114546703471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114546703471257",
+      "fb_comment_id": "122114546703471257_4654939614783256",
+      "posted_at": "2026-09-25T00:27:13.664825+00:00"
+    },
+    "senate-narrowly-votes-down-resolution-calling-for-end-to-iran-war": {
+      "title": "Senate narrowly votes down resolution calling for end to Iran war",
+      "slug": "senate-narrowly-votes-down-resolution-calling-for-end-to-iran-war",
+      "url": "https://ushotnews.online/article/senate-narrowly-votes-down-resolution-calling-for-end-to-iran-war",
+      "article_url": "https://ushotnews.online/article/senate-narrowly-votes-down-resolution-calling-for-end-to-iran-war",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114546703471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114546703471257",
+      "fb_comment_id": "122114546703471257_4654939614783256",
+      "posted_at": "2026-09-25T00:27:13.664825+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-24T23:50:37.395600+00:00"
+  "last_cleaned_at": "2026-09-25T00:27:00.575263+00:00"
 }
