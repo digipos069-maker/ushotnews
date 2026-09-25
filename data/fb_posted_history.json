@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-25T19:31:05.371899+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-09-25T22:41:31.560033+00:00",
+  "posted_count": 68,
   "articles": {
-    "scraped-19dc2f532f": {
-      "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
-      "slug": "inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
-      "url": "https://ushotnews.online/article/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
-      "article_url": "https://ushotnews.online/article/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113126929471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113126929471257",
-      "fb_comment_id": "122113126929471257_1727821821780337",
-      "posted_at": "2026-09-22T20:22:39.813805+00:00"
-    },
-    "inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves": {
-      "title": "Inside a 'modern slavery situation' where cyber scammers are victims themselves",
-      "slug": "inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
-      "url": "https://ushotnews.online/article/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
-      "article_url": "https://ushotnews.online/article/inside-a-modern-slavery-situation-where-cyber-scammers-are-victims-themselves",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113126929471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113126929471257",
-      "fb_comment_id": "122113126929471257_1727821821780337",
-      "posted_at": "2026-09-22T20:22:39.813805+00:00"
-    },
-    "scraped-e31b13a2d4": {
-      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "slug": "motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
-      "url": "https://ushotnews.online/article/motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
-      "article_url": "https://ushotnews.online/article/motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113149495471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113149495471257",
-      "fb_comment_id": "122113149495471257_2068968470391798",
-      "posted_at": "2026-09-22T21:12:51.194033+00:00"
-    },
-    "motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset": {
-      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "slug": "motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
-      "url": "https://ushotnews.online/article/motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
-      "article_url": "https://ushotnews.online/article/motorolas-wild-looking-signature-27-runs-qualcomms-new-extreme-chipset",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113149495471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113149495471257",
-      "fb_comment_id": "122113149495471257_2068968470391798",
-      "posted_at": "2026-09-22T21:12:51.194033+00:00"
-    },
     "scraped-e41323d86e": {
       "title": "Man scales locked gate in chilling video after allegedly chasing college student home, then walks free: police",
       "slug": "man-scales-locked-gate-in-chilling-video-after-allegedly-chasing-college-student-home-then",
@@ -771,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115043779471257",
       "fb_comment_id": "122115043779471257_2296399967827187",
       "posted_at": "2026-09-25T19:31:05.371832+00:00"
+    },
+    "scraped-671d203205": {
+      "title": "Wendi McLendon-Covey fires back after Jeff Garlin blames bipolar disorder for 'The Goldbergs' exit",
+      "slug": "wendi-mclendon-covey-fires-back-after-jeff-garlin-blames-bipolar-disorder-for-the-goldberg",
+      "url": "https://ushotnews.online/article/wendi-mclendon-covey-fires-back-after-jeff-garlin-blames-bipolar-disorder-for-the-goldberg",
+      "article_url": "https://ushotnews.online/article/wendi-mclendon-covey-fires-back-after-jeff-garlin-blames-bipolar-disorder-for-the-goldberg",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115114465471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115114465471257",
+      "fb_comment_id": "122115114465471257_2707776952971197",
+      "posted_at": "2026-09-25T22:41:31.559957+00:00"
+    },
+    "wendi-mclendon-covey-fires-back-after-jeff-garlin-blames-bipolar-disorder-for-the-goldberg": {
+      "title": "Wendi McLendon-Covey fires back after Jeff Garlin blames bipolar disorder for 'The Goldbergs' exit",
+      "slug": "wendi-mclendon-covey-fires-back-after-jeff-garlin-blames-bipolar-disorder-for-the-goldberg",
+      "url": "https://ushotnews.online/article/wendi-mclendon-covey-fires-back-after-jeff-garlin-blames-bipolar-disorder-for-the-goldberg",
+      "article_url": "https://ushotnews.online/article/wendi-mclendon-covey-fires-back-after-jeff-garlin-blames-bipolar-disorder-for-the-goldberg",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115114465471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115114465471257",
+      "fb_comment_id": "122115114465471257_2707776952971197",
+      "posted_at": "2026-09-25T22:41:31.559957+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-25T19:30:48.688729+00:00"
+  "last_cleaned_at": "2026-09-25T22:41:16.165517+00:00"
 }
