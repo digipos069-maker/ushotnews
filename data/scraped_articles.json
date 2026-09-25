@@ -1,5 +1,486 @@
 [
   {
+    "id": "scraped-21a1afcd24",
+    "slug": "trump-will-hit-several-deep-red-states-in-october-campaign-blitz",
+    "guid": "000001a0-da48-d2df-a1f4-ffcf28de0001",
+    "title": "Trump will hit several deep-red states in October campaign blitz",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "His visits come as the GOP rushes to shore up their own territory amid sky-high costs, an unpopular Iran war and some backlash to mass deportations.",
+    "content": [
+      "His visits come as the GOP rushes to shore up their own territory amid sky-high costs, an unpopular Iran war and some backlash to mass deportations.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/2b/5b/f7b6fd914071bd705d4609e9d2bf/https-delivery-gettyimages.com/downloads/2296204681",
+    "imageCaption": "Trump will hit several deep-red states in October campaign b... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T20:48:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dd96e69649",
+    "slug": "the-pacific-is-churning-with-hurricanes-the-atlantic-is-quiet-blame-el-niño",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
+    "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño.",
+    "content": [
+      "The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Pacific is churning with hurricanes. The Atlantic is qui... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T20:08:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9cfb069e69",
+    "slug": "supreme-court-blocks-trump-backed-missouri-congressional-map",
+    "guid": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
+    "title": "Supreme Court blocks Trump-backed Missouri congressional map",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections.",
+    "content": [
+      "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Supreme Court blocks Trump-backed Missouri congressional map... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T22:06:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8e39ac8584",
+    "slug": "indiana-attorney-general-sues-high-school-sports-association-over-race-based-board-quota",
+    "guid": "https://www.foxnews.com/outkick-sports/indiana-attorney-general-sues-high-school-sports-association-race-based-board-quota",
+    "title": "Indiana attorney general sues high school sports association over race-based board quota",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Indiana Attorney General Todd Rokita sued the IHSAA over bylaws reserving two board seats for racial minorities, calling it an illegal racial quota.",
+    "content": [
+      "Indiana Attorney General Todd Rokita sued the IHSAA over bylaws reserving two board seats for racial minorities, calling it an illegal racial quota.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/gettyimages-466594224-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "Indiana attorney general sues high school sports association... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T20:55:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8e271ce787",
+    "slug": "carville-says-the-gop-is-better-than-democrats-at-one-key-skill-the-2028-dem-nominee-will-",
+    "guid": "https://www.foxnews.com/media/carville-gop-better-democrats-key-skill-2028-dem-nominee-need",
+    "title": "Carville says the GOP is better than Democrats at one key skill the 2028 Dem nominee will need",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "James Carville says Democrats lack a consistent negative and positive narrative, warning the party&apos;s 2028 nominee must master political messaging to win.",
+    "content": [
+      "James Carville says Democrats lack a consistent negative and positive narrative, warning the party&apos;s 2028 nominee must master political messaging to win.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/carville-savannah-film-festival-fox-news-001.jpeg?ve=1&tl=1",
+    "imageCaption": "Carville says the GOP is better than Democrats at one key sk... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T21:02:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-642d57ba22",
+    "slug": "florida-gop-nominee-blasts-20-year-dem-incumbent-as-a-socialist-rubber-stamp-with-precious",
+    "guid": "https://www.foxnews.com/politics/florida-gop-nominee-blasts-20-year-dem-incumbent-socialist-rubber-stamp-precious-little-show",
+    "title": "Florida GOP nominee blasts 20-year Dem incumbent as a 'socialist' rubber-stamp with 'precious little to show'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Former Florida legislator Mike Beltran seeks to oust 10-term incumbent Kathy Castor in 14th district, arguing she has been ineffective and out of touch with constituents.",
+    "content": [
+      "Former Florida legislator Mike Beltran seeks to oust 10-term incumbent Kathy Castor in 14th district, arguing she has been ineffective and out of touch with constituents.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/beltran-kathy.png?ve=1&tl=1",
+    "imageCaption": "Florida GOP nominee blasts 20-year Dem incumbent as a 'socia... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T21:26:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1b052b8310",
+    "slug": "uk-prime-minister-says-football-fans-singled-out-by-alcohol-ban-not-imposed-on-rugby-match",
+    "guid": "https://www.foxnews.com/outkick-sports/uk-prime-minister-says-football-fans-singled-out-alcohol-ban-not-imposed-rugby-matches",
+    "title": "UK Prime Minister says football fans 'singled out' by alcohol ban not imposed on rugby matches",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Andy Burnham called the alcohol ban at men&apos;s football stadiums discrimination, suggesting a trial could be explored for fans in the stands.",
+    "content": [
+      "Andy Burnham called the alcohol ban at men&apos;s football stadiums discrimination, suggesting a trial could be explored for fans in the stands.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Andy-Burnham-speaks.jpg?ve=1&tl=1",
+    "imageCaption": "UK Prime Minister says football fans 'singled out' by alcoho... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T21:30:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-630357db2d",
+    "slug": "brandi-glanville-emptied-her-401k-after-spending-hundreds-of-thousands-on-medical-bills",
+    "guid": "https://www.foxnews.com/entertainment/brandi-glanville-emptied-401k-after-spending-hundreds-thousands-medical-bills",
+    "title": "Brandi Glanville emptied her 401(k) after spending ‘hundreds of thousands’ on medical bills",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Brandi Glanville suffered a concussion, perforated eardrum and cracked rib on Special Forces after a helicopter water jump went terribly wrong.",
+    "content": [
+      "Brandi Glanville suffered a concussion, perforated eardrum and cracked rib on Special Forces after a helicopter water jump went terribly wrong.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/brandi-glanville-special-forces.jpg?ve=1&tl=1",
+    "imageCaption": "Brandi Glanville emptied her 401(k) after spending ‘hundreds... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T22:03:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-eba7b89973",
+    "slug": "ted-nugent-proves-he-still-lives-up-to-motor-city-madman-moniker-as-he-poses-with-massive-",
+    "guid": "https://www.foxnews.com/outkick-sports/ted-nugent-proves-still-lives-motor-city-madman-moniker-poses-massive-buck",
+    "title": "Ted Nugent proves he still lives up to Motor City Madman moniker as he poses with massive buck",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ted Nugent&apos;s massive buck photo stunned social media fans, but his choice of camouflage Crocs with no socks stole the show this hunting season.",
+    "content": [
+      "Ted Nugent&apos;s massive buck photo stunned social media fans, but his choice of camouflage Crocs with no socks stole the show this hunting season.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ted-nugent-concert-cedar-park-texas.jpg?ve=1&tl=1",
+    "imageCaption": "Ted Nugent proves he still lives up to Motor City Madman mon... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T22:10:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-90d4bc5296",
+    "slug": "supreme-court-blocks-missouri-from-using-new-congressional-map-in-2026-election",
+    "guid": "https://www.foxnews.com/politics/supreme-court-blocks-missouri-from-using-new-congressional-map-2026-election",
+    "title": "Supreme Court blocks Missouri from using new congressional map in 2026 election",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Supreme Court ordered Missouri Friday to use its 2022 congressional map for the 2026 election, blocking use of the state&apos;s newer 2025 map.",
+    "content": [
+      "The Supreme Court ordered Missouri Friday to use its 2022 congressional map for the 2026 election, blocking use of the state&apos;s newer 2025 map.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/missouri-redistricting-protest-fox-news-001.jpg?ve=1&tl=1",
+    "imageCaption": "Supreme Court blocks Missouri from using new congressional m... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T22:27:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-81859e58ee",
+    "slug": "olympic-champion-nancy-hogshead-honored-for-advocacy-as-she-pushes-wnba-on-female-eligibil",
+    "guid": "https://www.foxnews.com/outkick-sports/olympic-champion-nancy-hogshead-honored-advocacy-pushes-wnba-female-eligibility-rules",
+    "title": "Olympic champion Nancy Hogshead honored for advocacy as she pushes WNBA on female eligibility rules",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Nancy Hogshead wore an XX-XY Athletics shirt to the ceremony as 520 Olympians and Paralympians back her petition for female-only WNBA eligibility.",
+    "content": [
+      "Nancy Hogshead wore an XX-XY Athletics shirt to the ceremony as 520 Olympians and Paralympians back her petition for female-only WNBA eligibility.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/nancy-hogshead.jpg?ve=1&tl=1",
+    "imageCaption": "Olympic champion Nancy Hogshead honored for advocacy as she ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T22:30:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5ff2d5196d",
+    "slug": "coca-cola-hires-rob-gehring-from-monster-energy-to-run-its-north-american-operations",
+    "guid": "108368346",
+    "title": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
+    "content": [
+      "Coca-Cola is trying to maintain growth as consumers face higher gas and grocery prices.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Coca-Cola hires Rob Gehring from Monster Energy to run its N... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T21:02:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c4b4a23b75",
+    "slug": "appeals-court-rules-that-states-can-regulate-kalshis-sports-prediction-markets-dealing-ano",
+    "guid": "108368344",
+    "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
+    "content": [
+      "The decision is the second in less than a month by an appeals court that states have a role in regulating sports-related event contracts.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Appeals court rules that states can regulate Kalshi’s sports... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-25T21:41:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-a6a0a468b8",
     "slug": "one-company-is-at-the-center-of-a-wave-of-rogue-ai-attacks",
     "guid": "https://www.theverge.com/?p=1000644",
