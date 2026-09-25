@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-25T10:08:01.334630+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-25T10:25:38.481693+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-07e3751663": {
       "title": "Alibaba shares jump as new AI chip, data center buildout plans unveiled",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114781813471257",
       "fb_comment_id": "122114781813471257_1352755986933514",
       "posted_at": "2026-09-25T10:08:01.334526+00:00"
+    },
+    "scraped-7ec7565f00": {
+      "title": "New Jersey Gov Mikie Sherrill calls on lieutenant governor to resign after sexual harassment investigation",
+      "slug": "new-jersey-gov-mikie-sherrill-calls-on-lieutenant-governor-to-resign-after-sexual-harassme",
+      "url": "https://ushotnews.online/article/new-jersey-gov-mikie-sherrill-calls-on-lieutenant-governor-to-resign-after-sexual-harassme",
+      "article_url": "https://ushotnews.online/article/new-jersey-gov-mikie-sherrill-calls-on-lieutenant-governor-to-resign-after-sexual-harassme",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114788611471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114788611471257",
+      "fb_comment_id": "122114788611471257_1019831184412747",
+      "posted_at": "2026-09-25T10:25:38.481625+00:00"
+    },
+    "new-jersey-gov-mikie-sherrill-calls-on-lieutenant-governor-to-resign-after-sexual-harassme": {
+      "title": "New Jersey Gov Mikie Sherrill calls on lieutenant governor to resign after sexual harassment investigation",
+      "slug": "new-jersey-gov-mikie-sherrill-calls-on-lieutenant-governor-to-resign-after-sexual-harassme",
+      "url": "https://ushotnews.online/article/new-jersey-gov-mikie-sherrill-calls-on-lieutenant-governor-to-resign-after-sexual-harassme",
+      "article_url": "https://ushotnews.online/article/new-jersey-gov-mikie-sherrill-calls-on-lieutenant-governor-to-resign-after-sexual-harassme",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122114788611471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114788611471257",
+      "fb_comment_id": "122114788611471257_1019831184412747",
+      "posted_at": "2026-09-25T10:25:38.481625+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-25T10:07:49.004935+00:00"
+  "last_cleaned_at": "2026-09-25T10:25:23.649583+00:00"
 }
