@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T11:41:54.797464+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-26T12:11:13.751735+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-cd7cdac4e5": {
       "title": "College basketball TV analyst and former Duke assistant Chris Spatola, Coach K's son-in-law, dies at 47",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115401001471257",
       "fb_comment_id": "122115401001471257_1741480546955157",
       "posted_at": "2026-09-26T11:41:54.797404+00:00"
+    },
+    "scraped-5b70af83f3": {
+      "title": "Legendary agent Leigh Steinberg explains why fans should not be concerned about this 0-2 team",
+      "slug": "legendary-agent-leigh-steinberg-explains-why-fans-should-not-be-concerned-about-this-0-2-t",
+      "url": "https://ushotnews.online/article/legendary-agent-leigh-steinberg-explains-why-fans-should-not-be-concerned-about-this-0-2-t",
+      "article_url": "https://ushotnews.online/article/legendary-agent-leigh-steinberg-explains-why-fans-should-not-be-concerned-about-this-0-2-t",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115418467471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115418467471257",
+      "fb_comment_id": "122115418467471257_1395948072622012",
+      "posted_at": "2026-09-26T12:11:13.751664+00:00"
+    },
+    "legendary-agent-leigh-steinberg-explains-why-fans-should-not-be-concerned-about-this-0-2-t": {
+      "title": "Legendary agent Leigh Steinberg explains why fans should not be concerned about this 0-2 team",
+      "slug": "legendary-agent-leigh-steinberg-explains-why-fans-should-not-be-concerned-about-this-0-2-t",
+      "url": "https://ushotnews.online/article/legendary-agent-leigh-steinberg-explains-why-fans-should-not-be-concerned-about-this-0-2-t",
+      "article_url": "https://ushotnews.online/article/legendary-agent-leigh-steinberg-explains-why-fans-should-not-be-concerned-about-this-0-2-t",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115418467471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115418467471257",
+      "fb_comment_id": "122115418467471257_1395948072622012",
+      "posted_at": "2026-09-26T12:11:13.751664+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-26T11:41:43.144844+00:00"
+  "last_cleaned_at": "2026-09-26T12:10:53.507913+00:00"
 }
