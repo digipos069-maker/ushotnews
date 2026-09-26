@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T06:26:30.198470+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-26T06:34:55.599511+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-bea4a82219": {
       "title": "Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115269679471257",
       "fb_comment_id": "122115269679471257_1685462622545385",
       "posted_at": "2026-09-26T06:26:30.198390+00:00"
+    },
+    "scraped-af8e51fd52": {
+      "title": "Fox News Entertainment newsletter: William won't repeat Charles’ jealousy; Harry's push sparks ‘contradiction’",
+      "slug": "fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
+      "url": "https://ushotnews.online/article/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
+      "article_url": "https://ushotnews.online/article/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115271767471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115271767471257",
+      "fb_comment_id": "122115271767471257_1072278525570535",
+      "posted_at": "2026-09-26T06:34:55.599449+00:00"
+    },
+    "fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-": {
+      "title": "Fox News Entertainment newsletter: William won't repeat Charles’ jealousy; Harry's push sparks ‘contradiction’",
+      "slug": "fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
+      "url": "https://ushotnews.online/article/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
+      "article_url": "https://ushotnews.online/article/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115271767471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115271767471257",
+      "fb_comment_id": "122115271767471257_1072278525570535",
+      "posted_at": "2026-09-26T06:34:55.599449+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-26T06:26:16.956727+00:00"
+  "last_cleaned_at": "2026-09-26T06:34:45.391622+00:00"
 }
