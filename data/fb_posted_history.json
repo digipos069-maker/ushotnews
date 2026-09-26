@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-26T19:42:45.622594+00:00",
+  "last_updated": "2026-09-26T22:05:27.523654+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-2b7ac14604": {
-      "title": "This $199 GPS sports watch is repairable, modular, and open-source",
-      "slug": "this-199-gps-sports-watch-is-repairable-modular-and-open-source",
-      "url": "https://ushotnews.online/article/this-199-gps-sports-watch-is-repairable-modular-and-open-source",
-      "article_url": "https://ushotnews.online/article/this-199-gps-sports-watch-is-repairable-modular-and-open-source",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113836369471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113836369471257",
-      "fb_comment_id": "122113836369471257_1789240892090842",
-      "posted_at": "2026-09-23T21:08:26.908843+00:00"
-    },
-    "this-199-gps-sports-watch-is-repairable-modular-and-open-source": {
-      "title": "This $199 GPS sports watch is repairable, modular, and open-source",
-      "slug": "this-199-gps-sports-watch-is-repairable-modular-and-open-source",
-      "url": "https://ushotnews.online/article/this-199-gps-sports-watch-is-repairable-modular-and-open-source",
-      "article_url": "https://ushotnews.online/article/this-199-gps-sports-watch-is-repairable-modular-and-open-source",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113836369471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113836369471257",
-      "fb_comment_id": "122113836369471257_1789240892090842",
-      "posted_at": "2026-09-23T21:08:26.908843+00:00"
-    },
     "scraped-457efbb193": {
       "title": "Data centers are black boxes, but California wants to change that",
       "slug": "data-centers-are-black-boxes-but-california-wants-to-change-that",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115606567471257",
       "fb_comment_id": "122115606567471257_1570710940983998",
       "posted_at": "2026-09-26T19:42:45.622533+00:00"
+    },
+    "scraped-9e6b39c934": {
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "slug": "openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
+      "url": "https://ushotnews.online/article/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
+      "article_url": "https://ushotnews.online/article/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115652665471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115652665471257",
+      "fb_comment_id": "122115652665471257_954450563891239",
+      "posted_at": "2026-09-26T22:05:27.523592+00:00"
+    },
+    "openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure": {
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "slug": "openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
+      "url": "https://ushotnews.online/article/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
+      "article_url": "https://ushotnews.online/article/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115652665471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115652665471257",
+      "fb_comment_id": "122115652665471257_954450563891239",
+      "posted_at": "2026-09-26T22:05:27.523592+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-26T19:42:27.005439+00:00"
+  "last_cleaned_at": "2026-09-26T22:05:13.480714+00:00"
 }
