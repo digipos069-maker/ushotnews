@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-dde708834c",
+    "slug": "decap-is-the-man-behind-the-drums-behind-your-favorite-song",
+    "guid": "https://www.theverge.com/?p=1000994",
+    "title": "Decap is the man behind the drums behind your favorite song",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig G&#246;ransson's score [&#8230;]",
+    "content": [
+      "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig G&#246;ransson's score [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Decap is the man behind the drums behind your favorite song... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T19:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b24f8a5cc7",
+    "slug": "apple-hit-with-57-billion-in-damages-over-haptic-patents",
+    "guid": "https://www.theverge.com/?p=1001118",
+    "title": "Apple hit with $5.7 billion in damages over haptic patents",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a [&#8230;]",
+    "content": [
+      "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple hit with $5.7 billion in damages over haptic patents... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T21:30:01+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1e10032a04",
+    "slug": "trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
+    "guid": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+    "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+    "content": [
+      "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acc... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T20:08:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-91c3af5bdb",
+    "slug": "trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+    "guid": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+    "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
+    "content": [
+      "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump gave Xi Jinping a warm welcome. What did the talks acc... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T21:13:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2b10d89f44",
+    "slug": "ohio-states-jeremiah-smith-is-now-the-heisman-favorite-following-historic-performance",
+    "guid": "https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-heisman-favorite-historic-performance",
+    "title": "Ohio State's Jeremiah Smith is now the Heisman favorite following historic performance",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jeremiah Smith tied Ohio State&apos;s single-game touchdown record with 4 TDs and 217 receiving yards against the Fighting Illini in a dominant win.",
+    "content": [
+      "Jeremiah Smith tied Ohio State&apos;s single-game touchdown record with 4 TDs and 217 receiving yards against the Fighting Illini in a dominant win.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jeremiah-smith-touchdown-ohio-state-illinois-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "Ohio State's Jeremiah Smith is now the Heisman favorite foll... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T19:59:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a81e8066b4",
+    "slug": "maher-blasts-intolerant-left-after-massachusetts-lesbian-bar-faces-fury-for-tweaking-covid",
+    "guid": "https://www.foxnews.com/media/maher-blasts-tolerant-left-after-massachusetts-lesbian-bar-faces-fury-tweaking-covid-era-mask-policy",
+    "title": "Maher blasts ‘intolerant left’ after Massachusetts lesbian bar faces fury for tweaking COVID-era mask policy",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Comedian Bill Maher highlighted the struggling Last Ditch Bar, where lifting a COVID-era mask mandate one night a week sparked firebomb threats.",
+    "content": [
+      "Comedian Bill Maher highlighted the struggling Last Ditch Bar, where lifting a COVID-era mask mandate one night a week sparked firebomb threats.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/bill-maher-march-27-real-time.jpg?ve=1&tl=1",
+    "imageCaption": "Maher blasts ‘intolerant left’ after Massachusetts lesbian b... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T20:32:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d0a6be3695",
+    "slug": "shaun-cassidy-says-teen-idol-fame-trapped-him-before-he-made-drastic-career-move-at-21",
+    "guid": "https://www.foxnews.com/entertainment/shaun-cassidy-teen-idol-fame-trapped-him-drastic-career-move-21",
+    "title": "Shaun Cassidy says teen idol fame trapped him before he made drastic career move at 21",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Shaun Cassidy quit touring after his Astrodome show at 21, saying celebrity left him feeling like a prisoner and comparing it to Elvis&apos; isolation.",
+    "content": [
+      "Shaun Cassidy quit touring after his Astrodome show at 21, saying celebrity left him feeling like a prisoner and comparing it to Elvis&apos; isolation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/shaun-cassidy-then-now.jpg?ve=1&tl=1",
+    "imageCaption": "Shaun Cassidy says teen idol fame trapped him before he made... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T20:42:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2fd55a8d9c",
+    "slug": "tigers-legend-justin-verlander-leaves-mound-in-tears-after-daughter-surprises-him-during-f",
+    "guid": "https://www.foxnews.com/outkick-sports/tigers-legend-justin-verlander-leaves-mound-tears-daughter-surprises-final-career-start",
+    "title": "Tigers legend Justin Verlander leaves mound in tears after daughter surprises him during final career start",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A.J. Hinch sent Genevieve Verlander sprinting to the mound to pull her dad from his final career start, sparking an emotional scene at Comerica Park.",
+    "content": [
+      "A.J. Hinch sent Genevieve Verlander sprinting to the mound to pull her dad from his final career start, sparking an emotional scene at Comerica Park.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/genevieve-verlander-justin-verlander-hug.jpg?ve=1&tl=1",
+    "imageCaption": "Tigers legend Justin Verlander leaves mound in tears after d... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T20:46:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bef3b8de96",
+    "slug": "maren-morris-flaunts-bikini-body-in-photodump-from-her-girls-trip-to-bali",
+    "guid": "https://www.foxnews.com/entertainment/maren-morris-flaunts-bikini-body-photodump-wellness-trip-bali",
+    "title": "Maren Morris flaunts bikini body in photodump from her girls trip to Bali",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Maren Morris shared stunning bikini photos and group meditation snaps from her Bali healing retreat, telling fans she&apos;s not healed but healing.",
+    "content": [
+      "Maren Morris shared stunning bikini photos and group meditation snaps from her Bali healing retreat, telling fans she&apos;s not healed but healing.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/maren-morris-white-dress.jpg?ve=1&tl=1",
+    "imageCaption": "Maren Morris flaunts bikini body in photodump from her girls... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T20:48:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-39d7430094",
+    "slug": "arch-manning-revels-in-cigar-smoke-texas-leaves-neyland-with-winand-a-warning-for-college-",
+    "guid": "https://www.foxnews.com/outkick-sports/arch-manning-revels-cigar-smoke-texas-leaves-neyland-win-warning-college-football",
+    "title": "Arch Manning revels in cigar smoke: Texas leaves Neyland with win—and a warning for college football",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Steve Sarkisian refused to apologize for how the Texas Longhorns won at Tennessee, noting they still have seven ranked opponents left to play.",
+    "content": [
+      "Steve Sarkisian refused to apologize for how the Texas Longhorns won at Tennessee, noting they still have seven ranked opponents left to play.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/arch-manning-texas-longhorns-neyland-stadium_001.jpg?ve=1&tl=1",
+    "imageCaption": "Arch Manning revels in cigar smoke: Texas leaves Neyland wit... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T21:15:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-660f79fb8f",
+    "slug": "arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme",
+    "guid": "https://www.foxnews.com/outkick-sports/arch-manning-interview-holly-rowe-controversy-ai-slapping-video-comment",
+    "title": "Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Arch Manning and Holly Rowe shared a cordial postgame interview after Texas&apos; 20-17 win over Tennessee, weeks after the AI video controversy.",
+    "content": [
+      "Arch Manning and Holly Rowe shared a cordial postgame interview after Texas&apos; 20-17 win over Tennessee, weeks after the AI video controversy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/arch-manning-texas-longhorns-warmups.jpg?ve=1&tl=1",
+    "imageCaption": "Arch Manning does interview with Holly Rowe after controvers... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T21:37:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9c738e78a6",
+    "slug": "costco-membership-offers-hidden-savings-beyond-groceries-5-perks-to-know",
+    "guid": "https://www.foxnews.com/food-drink/costco-membership-offers-hidden-savings-beyond-groceries-5-perks-know",
+    "title": "Costco membership offers hidden savings beyond groceries: 5 perks to know",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Costco executive membership perks extend far beyond bulk groceries, with hidden savings on gas, travel packages, gift cards and tire maintenance.",
+    "content": [
+      "Costco executive membership perks extend far beyond bulk groceries, with hidden savings on gas, travel packages, gift cards and tire maintenance.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/costco-checkout.jpg?ve=1&tl=1",
+    "imageCaption": "Costco membership offers hidden savings beyond groceries: 5 ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T21:45:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-97b9cb6a56",
+    "slug": "trump-says-he-approved-new-fuel-economy-standards-rolling-back-biden-era-rules",
+    "guid": "108368466",
+    "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
+    "content": [
+      "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says he approved new fuel economy standards, rolling b... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T21:21:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b81683da09",
+    "slug": "boeing-flags-737-max-software-glitch-affecting-some-automated-approach-functions",
+    "guid": "108368461",
+    "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
+    "content": [
+      "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Boeing flags 737 Max software glitch affecting some automate... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T21:55:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-7312aba784",
     "slug": "poll-trumps-maga-loyalists-dont-think-he-has-an-affordability-problem",
     "guid": "000001a0-c50a-d462-adb2-e5bb637f0000",
