@@ -1,5 +1,597 @@
 [
   {
+    "id": "scraped-7312aba784",
+    "slug": "poll-trumps-maga-loyalists-dont-think-he-has-an-affordability-problem",
+    "guid": "000001a0-c50a-d462-adb2-e5bb637f0000",
+    "title": "Poll: Trump’s MAGA loyalists don’t think he has an affordability problem",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "A recent POLITICO Poll found that cost of living concerns are reinforcing partisanship divides — and driving a wedge among Republicans.",
+    "content": [
+      "A recent POLITICO Poll found that cost of living concerns are reinforcing partisanship divides — and driving a wedge among Republicans.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/46/c3/5cc650fe4e2db88188866090c816/affordability-divides.png",
+    "imageCaption": "Poll: Trump’s MAGA loyalists don’t think he has an affordabi... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T18:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3cef38d390",
+    "slug": "openai-pauses-training-of-its-most-capable-models",
+    "guid": "https://www.theverge.com/?p=1001049",
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+    "content": [
+      "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI pauses training of its ‘most capable models’... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T16:34:59+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5dd0ecf3a4",
+    "slug": "kids-turned-the-comment-section-of-an-npr-podcast-into-a-group-chat",
+    "guid": "https://www.theverge.com/?p=1001056",
+    "title": "Kids turned the comment section of an NPR podcast into a group chat",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids [&#8230;]",
+    "content": [
+      "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Kids turned the comment section of an NPR podcast into a gro... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T17:32:35+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-848f2135e5",
+    "slug": "powerful-noreaster-brings-winds-floods-to-east-coast",
+    "guid": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-pounds-mid-atlantic-new-england-coastlines-hurricane-nolo-targets-hawaii",
+    "title": "Powerful nor'easter brings winds, floods to East Coast",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Thousands of people are without power across the East Coast as a nor'easter rips through the area. Forecasters expect significant winds and rain throughout the weekend.",
+    "content": [
+      "Thousands of people are without power across the East Coast as a nor'easter rips through the area. Forecasters expect significant winds and rain throughout the weekend.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Powerful nor'easter brings winds, floods to East Coast... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T11:38:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9e6b39c934",
+    "slug": "openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
+    "guid": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+    "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+    "content": [
+      "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI says its models engaged with US government websites i... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T17:10:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f83faf1fd7",
+    "slug": "texas-steve-sarkisans-first-interview-with-holly-rowe-goes-off-without-a-hitch-after-viral",
+    "guid": "https://www.foxnews.com/outkick-sports/texas-steve-sarkisian-first-interview-holly-rowe-goes-off-without-hitch-after-viral-postgame-incident",
+    "title": "Texas' Steve Sarkisan's first interview with Holly Rowe goes off without a hitch after viral postgame incident",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Steve Sarkisian and Holly Rowe shared a smooth pregame interview at Neyland Stadium before No. 1 Texas faced No. 14 Tennessee on Saturday afternoon.",
+    "content": [
+      "Steve Sarkisian and Holly Rowe shared a smooth pregame interview at Neyland Stadium before No. 1 Texas faced No. 14 Tennessee on Saturday afternoon.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/steve-sarkisian-texas-longhorns-utsa-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Texas' Steve Sarkisan's first interview with Holly Rowe goes... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T17:08:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c7d355c612",
+    "slug": "cruz-says-winning-ai-race-against-china-is-single-most-important-economic-question-for-ame",
+    "guid": "https://www.foxnews.com/politics/cruz-winning-ai-race-against-china-single-most-important-economic-question-america",
+    "title": "Cruz says winning AI race against China is 'single most important economic question' for America",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ted Cruz claims China and effective altruism backers are waging a deliberate influence campaign to shape AI policy and data center debates.",
+    "content": [
+      "Ted Cruz claims China and effective altruism backers are waging a deliberate influence campaign to shape AI policy and data center debates.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/gettyimages-2219834677-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "Cruz says winning AI race against China is 'single most impo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T17:14:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1e5a8262c5",
+    "slug": "your-favorite-grocery-and-snack-items-may-have-disappeared-from-store-shelves-in-2026",
+    "guid": "https://www.foxnews.com/food-drink/favorite-grocery-snack-items-may-have-disappeared-store-shelves-2026",
+    "title": "Your favorite grocery and snack items may have disappeared from store shelves in 2026",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Minute Maid frozen juice, Blue Bell Butter Crunch and Cheetos Pizza Puffs are among beloved grocery products reportedly vanishing from shelves in 2026.",
+    "content": [
+      "Minute Maid frozen juice, Blue Bell Butter Crunch and Cheetos Pizza Puffs are among beloved grocery products reportedly vanishing from shelves in 2026.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nostalgic-snacks-fans-demand-back-chips.jpg?ve=1&tl=1",
+    "imageCaption": "Your favorite grocery and snack items may have disappeared f... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T17:43:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f3537ebf7e",
+    "slug": "trumps-home-county-hits-pause-on-data-centers-over-environment-and-electric-bill-concerns",
+    "guid": "https://www.foxnews.com/politics/trumps-home-county-hits-pause-data-centers-environment-electric-bill-concerns",
+    "title": "Trump's home county hits pause on data centers over environment and electric bill concerns",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Palm Beach County passed a one-year moratorium on data centers amid concerns over environmental impact, noise pollution, and rising electric bills.",
+    "content": [
+      "Palm Beach County passed a one-year moratorium on data centers amid concerns over environmental impact, noise pollution, and rising electric bills.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/931/523/Mar-a-Lago-Getty.jpg?ve=1&tl=1",
+    "imageCaption": "Trump's home county hits pause on data centers over environm... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T17:58:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ee1fb58048",
+    "slug": "the-wildest-things-celebrity-guest-picker-johnny-knoxville-said-on-college-gameday",
+    "guid": "https://www.foxnews.com/outkick-sports/wildest-things-celebrity-guest-picker-johnny-knoxville-said-college-gameday",
+    "title": "The wildest things celebrity guest picker Johnny Knoxville said on College Gameday",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Johnny Knoxville compared Lane Kiffin to toe fungus and called Texas the real UTI during a College Gameday guest spot in Knoxville, Tennessee Saturday.",
+    "content": [
+      "Johnny Knoxville compared Lane Kiffin to toe fungus and called Texas the real UTI during a College Gameday guest spot in Knoxville, Tennessee Saturday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/johnny-knoxville-college-gameday-neyland-stadium-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "The wildest things celebrity guest picker Johnny Knoxville s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T18:28:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2dd633516c",
+    "slug": "someone-could-have-opened-an-account-in-your-name-check-now",
+    "guid": "https://www.foxnews.com/tech/someone-could-opened-account-your-name-check-now",
+    "title": "Someone could have opened an account in your name. Check now",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "New account fraud victims jumped 31% in 2025, reaching 5.4 million. Criminals open accounts you may never see on your regular bank statements.",
+    "content": [
+      "New account fraud victims jumped 31% in 2025, reaching 5.4 million. Criminals open accounts you may never see on your regular bank statements.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/woman-talks-on-phone-at-table.jpeg?ve=1&tl=1",
+    "imageCaption": "Someone could have opened an account in your name. Check now... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T18:30:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-921437e052",
+    "slug": "former-uk-prime-minister-tony-blair-warns-europe-we-dont-win-in-war-without-us-support",
+    "guid": "https://www.foxnews.com/media/former-uk-prime-minister-tony-blair-warns-europe-dont-win-war-without-us-support",
+    "title": "Former UK Prime Minister Tony Blair warns Europe ‘we don’t win’ in war without US support",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Former U.K. Prime Minister Tony Blair insisted British leaders should preserve their alliance with Trump, calling the U.S. indispensable to security.",
+    "content": [
+      "Former U.K. Prime Minister Tony Blair insisted British leaders should preserve their alliance with Trump, calling the U.S. indispensable to security.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/former-uk-pm-tony-blair-on-stage.jpg?ve=1&tl=1",
+    "imageCaption": "Former UK Prime Minister Tony Blair warns Europe ‘we don’t w... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T18:39:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0e8f23b0ef",
+    "slug": "trump-claims-stunning-casualty-numbers-in-russia-ukraine-war",
+    "guid": "https://www.foxnews.com/politics/trump-reveals-stunning-casualty-numbers-russia-ukraine-war",
+    "title": "Trump claims stunning casualty numbers in Russia-Ukraine war",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trump claims 25,000 people died last month in the Ukraine-Russia war and reveals he pushed Volodomyr Zelenskyy to settle with Vladimir Putin.",
+    "content": [
+      "Trump claims 25,000 people died last month in the Ukraine-Russia war and reveals he pushed Volodomyr Zelenskyy to settle with Vladimir Putin.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Trump_White_House.jpg?ve=1&tl=1",
+    "imageCaption": "Trump claims stunning casualty numbers in Russia-Ukraine war... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T18:43:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-356d613fdc",
+    "slug": "meta-and-microsoft-led-tech-stocks-higher-last-week-despite-soaring-bond-yields",
+    "guid": "108368114",
+    "title": "Meta and Microsoft led tech stocks higher last week despite soaring bond yields",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Here's a look at the three developments that drove the action in our portfolio last week.",
+    "content": [
+      "Here's a look at the three developments that drove the action in our portfolio last week.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta and Microsoft led tech stocks higher last week despite ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T16:21:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3800f676e8",
+    "slug": "white-house-moves-to-block-810-million-in-funding-through-pocket-rescission",
+    "guid": "108368444",
+    "title": "White House moves to block $810 million in funding through pocket rescission",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The White House is moving to block $810 million in appropriated funds days before the fiscal year ends, drawing objections over the maneuver.",
+    "content": [
+      "The White House is moving to block $810 million in appropriated funds days before the fiscal year ends, drawing objections over the maneuver.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "White House moves to block $810 million in funding through p... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T18:46:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cbe120e518",
+    "slug": "openai-expands-review-of-model-behavior-after-more-rogue-agent-incidents-emerge",
+    "guid": "108368447",
+    "title": "OpenAI expands review of model behavior after more rogue agent incidents emerge",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+    "content": [
+      "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI expands review of model behavior after more rogue age... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-26T17:10:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-789c9d7640",
     "slug": "pokémon-card-resellers-have-turned-collecting-into-an-online-blood-sport",
     "guid": "https://www.theverge.com/?p=1001002",
