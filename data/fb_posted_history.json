@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T12:18:50.054625+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-27T13:15:37.361480+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-3535830430": {
       "title": "Tennessee cops raided man's home after he criticized officer for speeding: lawsuit",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116006065471257",
       "fb_comment_id": "122116006065471257_2515110668987597",
       "posted_at": "2026-09-27T12:18:50.054544+00:00"
+    },
+    "scraped-649d8e89ca": {
+      "title": "Knicks star Jalen Brunson shows some solid comedy chops in as 'SNL' season opening host",
+      "slug": "knicks-star-jalen-brunson-shows-some-solid-comedy-chops-in-as-snl-season-opening-host",
+      "url": "https://ushotnews.online/article/knicks-star-jalen-brunson-shows-some-solid-comedy-chops-in-as-snl-season-opening-host",
+      "article_url": "https://ushotnews.online/article/knicks-star-jalen-brunson-shows-some-solid-comedy-chops-in-as-snl-season-opening-host",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116030995471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116030995471257",
+      "fb_comment_id": "122116030995471257_1563089448413822",
+      "posted_at": "2026-09-27T13:15:37.361418+00:00"
+    },
+    "knicks-star-jalen-brunson-shows-some-solid-comedy-chops-in-as-snl-season-opening-host": {
+      "title": "Knicks star Jalen Brunson shows some solid comedy chops in as 'SNL' season opening host",
+      "slug": "knicks-star-jalen-brunson-shows-some-solid-comedy-chops-in-as-snl-season-opening-host",
+      "url": "https://ushotnews.online/article/knicks-star-jalen-brunson-shows-some-solid-comedy-chops-in-as-snl-season-opening-host",
+      "article_url": "https://ushotnews.online/article/knicks-star-jalen-brunson-shows-some-solid-comedy-chops-in-as-snl-season-opening-host",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116030995471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116030995471257",
+      "fb_comment_id": "122116030995471257_1563089448413822",
+      "posted_at": "2026-09-27T13:15:37.361418+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-27T12:18:33.906916+00:00"
+  "last_cleaned_at": "2026-09-27T13:15:22.942450+00:00"
 }
