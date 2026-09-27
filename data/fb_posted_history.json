@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-27T23:16:03.296027+00:00",
+  "last_updated": "2026-09-27T23:55:13.728786+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-098558d9be": {
-      "title": "Dak Prescott's ex stiff arms pregnancy rumors by accusing him of cheating & announcing she's 'just very thick'",
-      "slug": "dak-prescotts-ex-stiff-arms-pregnancy-rumors-by-accusing-him-of-cheating-announcing-shes-j",
-      "url": "https://ushotnews.online/article/dak-prescotts-ex-stiff-arms-pregnancy-rumors-by-accusing-him-of-cheating-announcing-shes-j",
-      "article_url": "https://ushotnews.online/article/dak-prescotts-ex-stiff-arms-pregnancy-rumors-by-accusing-him-of-cheating-announcing-shes-j",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114534421471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114534421471257",
-      "fb_comment_id": "122114534421471257_2480474332436035",
-      "posted_at": "2026-09-24T23:50:49.035604+00:00"
-    },
-    "dak-prescotts-ex-stiff-arms-pregnancy-rumors-by-accusing-him-of-cheating-announcing-shes-j": {
-      "title": "Dak Prescott's ex stiff arms pregnancy rumors by accusing him of cheating & announcing she's 'just very thick'",
-      "slug": "dak-prescotts-ex-stiff-arms-pregnancy-rumors-by-accusing-him-of-cheating-announcing-shes-j",
-      "url": "https://ushotnews.online/article/dak-prescotts-ex-stiff-arms-pregnancy-rumors-by-accusing-him-of-cheating-announcing-shes-j",
-      "article_url": "https://ushotnews.online/article/dak-prescotts-ex-stiff-arms-pregnancy-rumors-by-accusing-him-of-cheating-announcing-shes-j",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114534421471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114534421471257",
-      "fb_comment_id": "122114534421471257_2480474332436035",
-      "posted_at": "2026-09-24T23:50:49.035604+00:00"
-    },
     "scraped-7ba6df97f3": {
       "title": "Senate narrowly votes down resolution calling for end to Iran war",
       "slug": "senate-narrowly-votes-down-resolution-calling-for-end-to-iran-war",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116268241471257",
       "fb_comment_id": "122116268241471257_2314381482735782",
       "posted_at": "2026-09-27T23:16:03.295969+00:00"
+    },
+    "scraped-5ef5608044": {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "slug": "engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+      "url": "https://ushotnews.online/article/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+      "article_url": "https://ushotnews.online/article/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116303719471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116303719471257",
+      "fb_comment_id": "122116303719471257_1087193283668840",
+      "posted_at": "2026-09-27T23:55:13.728730+00:00"
+    },
+    "engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music": {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "slug": "engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+      "url": "https://ushotnews.online/article/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+      "article_url": "https://ushotnews.online/article/engram-is-a-sampler-that-turns-broken-ai-hallucinations-into-music",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116303719471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116303719471257",
+      "fb_comment_id": "122116303719471257_1087193283668840",
+      "posted_at": "2026-09-27T23:55:13.728730+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-27T23:15:52.253084+00:00"
+  "last_cleaned_at": "2026-09-27T23:55:00.885873+00:00"
 }
