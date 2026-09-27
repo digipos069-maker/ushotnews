@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-27T21:16:21.816615+00:00",
+  "last_updated": "2026-09-27T23:16:03.296027+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-d0126dfbfd": {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "slug": "muse-sure-looks-a-lot-like-openclaw",
-      "url": "https://ushotnews.online/article/muse-sure-looks-a-lot-like-openclaw",
-      "article_url": "https://ushotnews.online/article/muse-sure-looks-a-lot-like-openclaw",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114493405471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114493405471257",
-      "fb_comment_id": "122114493405471257_1096393676659843",
-      "posted_at": "2026-09-24T21:59:43.949321+00:00"
-    },
-    "muse-sure-looks-a-lot-like-openclaw": {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "slug": "muse-sure-looks-a-lot-like-openclaw",
-      "url": "https://ushotnews.online/article/muse-sure-looks-a-lot-like-openclaw",
-      "article_url": "https://ushotnews.online/article/muse-sure-looks-a-lot-like-openclaw",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114493405471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114493405471257",
-      "fb_comment_id": "122114493405471257_1096393676659843",
-      "posted_at": "2026-09-24T21:59:43.949321+00:00"
-    },
     "scraped-098558d9be": {
       "title": "Dak Prescott's ex stiff arms pregnancy rumors by accusing him of cheating & announcing she's 'just very thick'",
       "slug": "dak-prescotts-ex-stiff-arms-pregnancy-rumors-by-accusing-him-of-cheating-announcing-shes-j",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116227315471257",
       "fb_comment_id": "122116227315471257_2659051691183196",
       "posted_at": "2026-09-27T21:16:21.816558+00:00"
+    },
+    "scraped-f110bd1af8": {
+      "title": "Probe underway as 7 flight attendants sickened by baffling odor on major airline",
+      "slug": "probe-underway-as-7-flight-attendants-sickened-by-baffling-odor-on-major-airline",
+      "url": "https://ushotnews.online/article/probe-underway-as-7-flight-attendants-sickened-by-baffling-odor-on-major-airline",
+      "article_url": "https://ushotnews.online/article/probe-underway-as-7-flight-attendants-sickened-by-baffling-odor-on-major-airline",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116268241471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116268241471257",
+      "fb_comment_id": "122116268241471257_2314381482735782",
+      "posted_at": "2026-09-27T23:16:03.295969+00:00"
+    },
+    "probe-underway-as-7-flight-attendants-sickened-by-baffling-odor-on-major-airline": {
+      "title": "Probe underway as 7 flight attendants sickened by baffling odor on major airline",
+      "slug": "probe-underway-as-7-flight-attendants-sickened-by-baffling-odor-on-major-airline",
+      "url": "https://ushotnews.online/article/probe-underway-as-7-flight-attendants-sickened-by-baffling-odor-on-major-airline",
+      "article_url": "https://ushotnews.online/article/probe-underway-as-7-flight-attendants-sickened-by-baffling-odor-on-major-airline",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116268241471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116268241471257",
+      "fb_comment_id": "122116268241471257_2314381482735782",
+      "posted_at": "2026-09-27T23:16:03.295969+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-27T21:16:08.725063+00:00"
+  "last_cleaned_at": "2026-09-27T23:15:52.253084+00:00"
 }
