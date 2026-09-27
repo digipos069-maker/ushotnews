@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-26T22:40:16.483409+00:00",
+  "last_updated": "2026-09-27T00:46:37.776683+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-60c2027b30": {
-      "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
-      "slug": "grant-cardone-offers-10-bitcoin-bounty-on-finding-a-buyer-for-his-private-jet",
-      "url": "https://ushotnews.online/article/grant-cardone-offers-10-bitcoin-bounty-on-finding-a-buyer-for-his-private-jet",
-      "article_url": "https://ushotnews.online/article/grant-cardone-offers-10-bitcoin-bounty-on-finding-a-buyer-for-his-private-jet",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113897455471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113897455471257",
-      "fb_comment_id": "122113897455471257_1108317108284174",
-      "posted_at": "2026-09-23T23:52:44.842535+00:00"
-    },
-    "grant-cardone-offers-10-bitcoin-bounty-on-finding-a-buyer-for-his-private-jet": {
-      "title": "Grant Cardone offers 10 Bitcoin bounty on finding a buyer for his private jet",
-      "slug": "grant-cardone-offers-10-bitcoin-bounty-on-finding-a-buyer-for-his-private-jet",
-      "url": "https://ushotnews.online/article/grant-cardone-offers-10-bitcoin-bounty-on-finding-a-buyer-for-his-private-jet",
-      "article_url": "https://ushotnews.online/article/grant-cardone-offers-10-bitcoin-bounty-on-finding-a-buyer-for-his-private-jet",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113897455471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113897455471257",
-      "fb_comment_id": "122113897455471257_1108317108284174",
-      "posted_at": "2026-09-23T23:52:44.842535+00:00"
-    },
     "scraped-e9e3574357": {
       "title": "Meta is making Muse more powerful and will let you video chat with it, too",
       "slug": "meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115665511471257",
       "fb_comment_id": "122115665511471257_1845783693097960",
       "posted_at": "2026-09-26T22:40:16.483337+00:00"
+    },
+    "scraped-660f79fb8f": {
+      "title": "Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment",
+      "slug": "arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme",
+      "url": "https://ushotnews.online/article/arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme",
+      "article_url": "https://ushotnews.online/article/arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115704103471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115704103471257",
+      "fb_comment_id": "122115704103471257_1653071376190489",
+      "posted_at": "2026-09-27T00:46:37.776610+00:00"
+    },
+    "arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme": {
+      "title": "Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment",
+      "slug": "arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme",
+      "url": "https://ushotnews.online/article/arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme",
+      "article_url": "https://ushotnews.online/article/arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115704103471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115704103471257",
+      "fb_comment_id": "122115704103471257_1653071376190489",
+      "posted_at": "2026-09-27T00:46:37.776610+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-26T22:40:04.140004+00:00"
+  "last_cleaned_at": "2026-09-27T00:46:24.005587+00:00"
 }
