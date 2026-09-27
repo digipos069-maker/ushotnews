@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-27T17:55:33.287952+00:00",
+  "last_updated": "2026-09-27T20:18:06.903439+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-d30db87602": {
-      "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
-      "slug": "these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
-      "url": "https://ushotnews.online/article/these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
-      "article_url": "https://ushotnews.online/article/these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114413551471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114413551471257",
-      "fb_comment_id": "122114413551471257_1731769401244884",
-      "posted_at": "2026-09-24T18:33:56.818801+00:00"
-    },
-    "these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump": {
-      "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
-      "slug": "these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
-      "url": "https://ushotnews.online/article/these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
-      "article_url": "https://ushotnews.online/article/these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114413551471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114413551471257",
-      "fb_comment_id": "122114413551471257_1731769401244884",
-      "posted_at": "2026-09-24T18:33:56.818801+00:00"
-    },
     "scraped-337a6eeb68": {
       "title": "RFK Jr.'s ethics filing reveals book deals worth millions of dollars",
       "slug": "rfk-jrs-ethics-filing-reveals-book-deals-worth-millions-of-dollars",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116145391471257",
       "fb_comment_id": "122116145391471257_991644080612880",
       "posted_at": "2026-09-27T17:55:33.287884+00:00"
+    },
+    "scraped-25b0fec57f": {
+      "title": "Why OLPC’s $100 laptop never stood a chance",
+      "slug": "why-olpcs-100-laptop-never-stood-a-chance",
+      "url": "https://ushotnews.online/article/why-olpcs-100-laptop-never-stood-a-chance",
+      "article_url": "https://ushotnews.online/article/why-olpcs-100-laptop-never-stood-a-chance",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116209327471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116209327471257",
+      "fb_comment_id": "122116209327471257_1767250531186637",
+      "posted_at": "2026-09-27T20:18:06.903383+00:00"
+    },
+    "why-olpcs-100-laptop-never-stood-a-chance": {
+      "title": "Why OLPC’s $100 laptop never stood a chance",
+      "slug": "why-olpcs-100-laptop-never-stood-a-chance",
+      "url": "https://ushotnews.online/article/why-olpcs-100-laptop-never-stood-a-chance",
+      "article_url": "https://ushotnews.online/article/why-olpcs-100-laptop-never-stood-a-chance",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116209327471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116209327471257",
+      "fb_comment_id": "122116209327471257_1767250531186637",
+      "posted_at": "2026-09-27T20:18:06.903383+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-27T17:55:17.985315+00:00"
+  "last_cleaned_at": "2026-09-27T20:17:55.627869+00:00"
 }
