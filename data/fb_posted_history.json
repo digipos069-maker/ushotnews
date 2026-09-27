@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-27T17:09:23.482492+00:00",
+  "last_updated": "2026-09-27T17:55:33.287952+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-9ae1d17143": {
-      "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
-      "slug": "titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
-      "url": "https://ushotnews.online/article/titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
-      "article_url": "https://ushotnews.online/article/titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114376369471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114376369471257",
-      "fb_comment_id": "122114376369471257_2373145460158620",
-      "posted_at": "2026-09-24T17:30:29.864369+00:00"
-    },
-    "titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash": {
-      "title": "Titan International (TWI) Signs ITM Sale. How Much of the $285 Million is New Cash?",
-      "slug": "titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
-      "url": "https://ushotnews.online/article/titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
-      "article_url": "https://ushotnews.online/article/titan-international-twi-signs-itm-sale-how-much-of-the-285-million-is-new-cash",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114376369471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114376369471257",
-      "fb_comment_id": "122114376369471257_2373145460158620",
-      "posted_at": "2026-09-24T17:30:29.864369+00:00"
-    },
     "scraped-d30db87602": {
       "title": "These 6 charts show how NIH research funding has been reshaped under Trump",
       "slug": "these-6-charts-show-how-nih-research-funding-has-been-reshaped-under-trump",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116123833471257",
       "fb_comment_id": "122116123833471257_1646142973731238",
       "posted_at": "2026-09-27T17:09:23.482432+00:00"
+    },
+    "scraped-081a4daa91": {
+      "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+      "slug": "ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "url": "https://ushotnews.online/article/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "article_url": "https://ushotnews.online/article/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116145391471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116145391471257",
+      "fb_comment_id": "122116145391471257_991644080612880",
+      "posted_at": "2026-09-27T17:55:33.287884+00:00"
+    },
+    "ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity": {
+      "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+      "slug": "ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "url": "https://ushotnews.online/article/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "article_url": "https://ushotnews.online/article/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116145391471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116145391471257",
+      "fb_comment_id": "122116145391471257_991644080612880",
+      "posted_at": "2026-09-27T17:55:33.287884+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-27T17:09:11.417653+00:00"
+  "last_cleaned_at": "2026-09-27T17:55:17.985315+00:00"
 }
