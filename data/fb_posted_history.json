@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T06:16:31.645305+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-27T07:02:29.975544+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-97e36a39e4": {
       "title": "Tylenol murders mystery deepens after sheriff’s office solves decades-old ‘Unknown Wanderer’ cold case",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115843837471257",
       "fb_comment_id": "122115843837471257_1460435376272278",
       "posted_at": "2026-09-27T06:16:31.645248+00:00"
+    },
+    "scraped-1e10032a04": {
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "slug": "trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
+      "url": "https://ushotnews.online/article/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
+      "article_url": "https://ushotnews.online/article/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115860235471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115860235471257",
+      "fb_comment_id": "122115860235471257_1406810344759988",
+      "posted_at": "2026-09-27T07:02:29.975481+00:00"
+    },
+    "trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable": {
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "slug": "trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
+      "url": "https://ushotnews.online/article/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
+      "article_url": "https://ushotnews.online/article/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115860235471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115860235471257",
+      "fb_comment_id": "122115860235471257_1406810344759988",
+      "posted_at": "2026-09-27T07:02:29.975481+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-27T06:16:23.044693+00:00"
+  "last_cleaned_at": "2026-09-27T07:02:15.501604+00:00"
 }
