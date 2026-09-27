@@ -1,5 +1,412 @@
 [
   {
+    "id": "scraped-e3504d4618",
+    "slug": "openai-agents-tried-to-bruteforce-a-un-website",
+    "guid": "https://www.theverge.com/?p=1001178",
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI [&#8230;]",
+    "content": [
+      "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI agents tried to ‘bruteforce’ a UN website... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T17:21:07+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ebe2d29e8e",
+    "slug": "john-fetterman-accidentally-calls-himself-a-lifelong-republican-at-texas-tribune-festival",
+    "guid": "https://www.foxnews.com/politics/john-fetterman-accidentally-calls-himself-lifelong-republican-texas-tribune-festival",
+    "title": "John Fetterman accidentally calls himself a 'lifelong Republican' at Texas Tribune Festival",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "John Fetterman accidentally called himself a lifelong Republican at the Texas Tribune Festival, sparking laughs before clarifying his Democratic ties.",
+    "content": [
+      "John Fetterman accidentally called himself a lifelong Republican at the Texas Tribune Festival, sparking laughs before clarifying his Democratic ties.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/fetterman.jpg?ve=1&tl=1",
+    "imageCaption": "John Fetterman accidentally calls himself a 'lifelong Republ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:11:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a24a830d45",
+    "slug": "bessent-says-iran-will-have-nothing-left-to-trade-within-two-weeks-as-oil-lifeline-dries-u",
+    "guid": "https://www.foxnews.com/media/bessent-says-iran-nothing-left-trade-two-weeks-oil-lifeline-dries-up",
+    "title": "Bessent says Iran will have 'nothing left to trade' within two weeks as oil lifeline dries up",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Treasury Secretary Scott Bessent says Iran will complete its final oil shipments to China within two weeks, leaving Tehran with nothing left to trade.",
+    "content": [
+      "Treasury Secretary Scott Bessent says Iran will complete its final oil shipments to China within two weeks, leaving Tehran with nothing left to trade.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/scott-bessent-shield-americas-unga.jpg?ve=1&tl=1",
+    "imageCaption": "Bessent says Iran will have 'nothing left to trade' within t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:12:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f110bd1af8",
+    "slug": "probe-underway-as-7-flight-attendants-sickened-by-baffling-odor-on-major-airline",
+    "guid": "https://www.foxnews.com/travel/probe-underway-7-flight-attendants-sickened-baffling-odor-major-airline",
+    "title": "Probe underway as 7 flight attendants sickened by baffling odor on major airline",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Seven Hawaiian Airlines flight attendants reported nausea and headaches after a mysterious cabin odor on an Airbus A330 flight from LA to Honolulu.",
+    "content": [
+      "Seven Hawaiian Airlines flight attendants reported nausea and headaches after a mysterious cabin odor on an Airbus A330 flight from LA to Honolulu.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/hawaiian-airlines-baggage-unload-kauai.jpg?ve=1&tl=1",
+    "imageCaption": "Probe underway as 7 flight attendants sickened by baffling o... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:19:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-80b45eeb0d",
+    "slug": "raiders-aidan-oconnell-announces-death-of-his-father-leaning-on-faith-in-time-of-sorrow",
+    "guid": "https://www.foxnews.com/outkick-sports/raiders-aidan-oconnell-announces-death-father-leaning-faith-time-sorrow",
+    "title": "Raiders' Aidan O'Connell announces death of his father, leaning on faith in time of sorrow",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Raiders quarterback shared an emotional Instagram tribute to his father, Jim, before being listed inactive for Sunday&apos;s New Orleans Saints game.",
+    "content": [
+      "The Raiders quarterback shared an emotional Instagram tribute to his father, Jim, before being listed inactive for Sunday&apos;s New Orleans Saints game.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/aidan-oconnell-raiders-texans-sideline.jpg?ve=1&tl=1",
+    "imageCaption": "Raiders' Aidan O'Connell announces death of his father, lean... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:33:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5dacb27cf6",
+    "slug": "dan-lanning-blasts-usc-after-oregons-win-as-lincoln-riley-officially-enters-hot-seat-in-la",
+    "guid": "https://www.foxnews.com/outkick-sports/dan-lanning-blasts-usc-oregon-win-lincoln-riley-enters-hot-seat-la",
+    "title": "Dan Lanning blasts USC after Oregon's win, as Lincoln Riley officially enters hot seat in LA",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Oregon&apos;s Big Ten road win over USC featured Dan Lanning&apos;s savage recruiting jab, telling LA players to pick the Ducks if they want to win games.",
+    "content": [
+      "Oregon&apos;s Big Ten road win over USC featured Dan Lanning&apos;s savage recruiting jab, telling LA players to pick the Ducks if they want to win games.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/dan-lanning-oregon-southern-california-football.jpg?ve=1&tl=1",
+    "imageCaption": "Dan Lanning blasts USC after Oregon's win, as Lincoln Riley ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:36:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-92b312cca1",
+    "slug": "awful-scene-as-leo-chanel-suffers-neck-injury-marking-second-straight-week-washington-comm",
+    "guid": "https://www.foxnews.com/outkick-sports/awful-scene-leo-chanel-suffers-neck-injury-marking-second-straight-week-washington-commanders-suffer-scare",
+    "title": "Awful scene as Leo Chanel suffers neck injury, marking second straight week Washington Commanders suffer scare",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Leo Chenal was placed on a spine board and carted off after a neck injury tackling a Seahawks player, but gave a reassuring fist pump as he left.",
+    "content": [
+      "Leo Chenal was placed on a spine board and carted off after a neck injury tackling a Seahawks player, but gave a reassuring fist pump as he left.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/leo-chenal-injury-landover-md.jpg?ve=1&tl=1",
+    "imageCaption": "Awful scene as Leo Chanel suffers neck injury, marking secon... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:56:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f91f49ea55",
+    "slug": "fevers-sophie-cunningham-wears-sensational-cheetah-print-outfit-ahead-of-playoff-game-vs-a",
+    "guid": "https://www.foxnews.com/outkick-sports/fevers-sophie-cunningham-wears-sensational-cheetah-print-outfit-ahead-playoff-game-vs-aces",
+    "title": "Fever's Sophie Cunningham wears sensational cheetah-print outfit ahead of playoff game vs Aces",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sophie Cunningham rocked a bold cheetah-print coat and shorts before the Indiana Fever&apos;s WNBA playoff Game 1 matchup against the Las Vegas Aces.",
+    "content": [
+      "Sophie Cunningham rocked a bold cheetah-print coat and shorts before the Indiana Fever&apos;s WNBA playoff Game 1 matchup against the Las Vegas Aces.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sophie-cunningham-indiana-fever-wnba-playoffs.jpg?ve=1&tl=1",
+    "imageCaption": "Fever's Sophie Cunningham wears sensational cheetah-print ou... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:57:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1807f2b00b",
+    "slug": "woman-found-dead-with-unexplained-trauma-in-central-park-as-nypd-searches-for-answers",
+    "guid": "https://www.foxnews.com/us/woman-found-dead-unexplained-trauma-central-park-nypd-searches-answers",
+    "title": "Woman found dead with unexplained trauma in Central Park as NYPD searches for answers",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "NYPD is investigating after first responders found an unidentified woman dead with body trauma in New York City&apos;s Central Park on Sunday morning.",
+    "content": [
+      "NYPD is investigating after first responders found an unidentified woman dead with body trauma in New York City&apos;s Central Park on Sunday morning.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/nypd-police-tape-central-park-path-woman-found-dead.png?ve=1&tl=1",
+    "imageCaption": "Woman found dead with unexplained trauma in Central Park as ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:58:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9565a32f17",
+    "slug": "trump-to-have-dinner-with-anthropic-ceo-amodei-at-the-white-house",
+    "guid": "108368498",
+    "title": "Trump to have dinner with Anthropic CEO Amodei at the White House",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Athropic CEO Dario Amodei is set to have dinner with President Donald Trump at the White House on Sunday.",
+    "content": [
+      "Athropic CEO Dario Amodei is set to have dinner with President Donald Trump at the White House on Sunday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump to have dinner with Anthropic CEO Amodei at the White ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:23:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-31d484aed6",
+    "slug": "anthropic-ceo-amodei-set-to-meet-with-trump-after-missing-state-dinner",
+    "guid": "108368085",
+    "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
+    "content": [
+      "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic CEO Amodei set to meet with Trump after missing st... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T19:13:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-c6dc696ce8",
     "slug": "ice-operations-are-making-it-hard-for-vulnerable-republicans-fighting-for-their-political-",
     "guid": "000001a0-da71-d975-a9a5-da7728b00001",
