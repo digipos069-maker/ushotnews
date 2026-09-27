@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-27T00:46:37.776683+00:00",
+  "last_updated": "2026-09-27T01:19:13.083593+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-e9e3574357": {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "slug": "meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
-      "url": "https://ushotnews.online/article/meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
-      "article_url": "https://ushotnews.online/article/meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113926717471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113926717471257",
-      "fb_comment_id": "122113926717471257_1441325841241076",
-      "posted_at": "2026-09-24T00:50:08.440219+00:00"
-    },
-    "meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too": {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "slug": "meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
-      "url": "https://ushotnews.online/article/meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
-      "article_url": "https://ushotnews.online/article/meta-is-making-muse-more-powerful-and-will-let-you-video-chat-with-it-too",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122113926717471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122113926717471257",
-      "fb_comment_id": "122113926717471257_1441325841241076",
-      "posted_at": "2026-09-24T00:50:08.440219+00:00"
-    },
     "scraped-8e17cdbd5d": {
       "title": "NRSC Chair Tim Scott leaves Georgia, North Carolina off his list of top Senate targets",
       "slug": "nrsc-chair-tim-scott-leaves-georgia-north-carolina-off-his-list-of-top-senate-targets",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115704103471257",
       "fb_comment_id": "122115704103471257_1653071376190489",
       "posted_at": "2026-09-27T00:46:37.776610+00:00"
+    },
+    "scraped-f4bee7592b": {
+      "title": "Texas dropped some celebrations against Tennessee that were about as unhinged as they come",
+      "slug": "texas-dropped-some-celebrations-against-tennessee-that-were-about-as-unhinged-as-they-come",
+      "url": "https://ushotnews.online/article/texas-dropped-some-celebrations-against-tennessee-that-were-about-as-unhinged-as-they-come",
+      "article_url": "https://ushotnews.online/article/texas-dropped-some-celebrations-against-tennessee-that-were-about-as-unhinged-as-they-come",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115715305471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115715305471257",
+      "fb_comment_id": "122115715305471257_3335141743353694",
+      "posted_at": "2026-09-27T01:19:13.083533+00:00"
+    },
+    "texas-dropped-some-celebrations-against-tennessee-that-were-about-as-unhinged-as-they-come": {
+      "title": "Texas dropped some celebrations against Tennessee that were about as unhinged as they come",
+      "slug": "texas-dropped-some-celebrations-against-tennessee-that-were-about-as-unhinged-as-they-come",
+      "url": "https://ushotnews.online/article/texas-dropped-some-celebrations-against-tennessee-that-were-about-as-unhinged-as-they-come",
+      "article_url": "https://ushotnews.online/article/texas-dropped-some-celebrations-against-tennessee-that-were-about-as-unhinged-as-they-come",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122115715305471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115715305471257",
+      "fb_comment_id": "122115715305471257_3335141743353694",
+      "posted_at": "2026-09-27T01:19:13.083533+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-27T00:46:24.005587+00:00"
+  "last_cleaned_at": "2026-09-27T01:18:58.952149+00:00"
 }
