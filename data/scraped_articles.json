@@ -1,5 +1,597 @@
 [
   {
+    "id": "scraped-c6dc696ce8",
+    "slug": "ice-operations-are-making-it-hard-for-vulnerable-republicans-fighting-for-their-political-",
+    "guid": "000001a0-da71-d975-a9a5-da7728b00001",
+    "title": "ICE operations are making it hard for vulnerable Republicans fighting for their political survival",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Immigration enforcement in Kansas, Texas, Florida and beyond is forcing battleground Republicans to answer for the fallout.",
+    "content": [
+      "Immigration enforcement in Kansas, Texas, Florida and beyond is forcing battleground Republicans to answer for the fallout.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/94/0f/2c214f23485092a12186e9ac580c/ice-shooting-austin-41754.jpg",
+    "imageCaption": "ICE operations are making it hard for vulnerable Republicans... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T14:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-25b0fec57f",
+    "slug": "why-olpcs-100-laptop-never-stood-a-chance",
+    "guid": "https://www.theverge.com/?p=1000517",
+    "title": "Why OLPC’s $100 laptop never stood a chance",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, [&#8230;]",
+    "content": [
+      "The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why OLPC’s $100 laptop never stood a chance... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T12:25:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-081a4daa91",
+    "slug": "ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+    "guid": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+    "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Ohio governor's race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican.",
+    "content": [
+      "The Ohio governor's race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Ohio governor's race: Ramaswamy and Acton clash in rare Demo... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T12:06:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2b3ef96a59",
+    "slug": "as-congress-debates-college-sports-athletes-turned-senators-have-a-seat-at-the-table",
+    "guid": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
+    "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Protect College Sports Act is on the brink of passing in the Senate, where a handful of former college athletes who are now senators on both sides of the aisle have an extra say in the debate.",
+    "content": [
+      "The Protect College Sports Act is on the brink of passing in the Senate, where a handful of former college athletes who are now senators on both sides of the aisle have an extra say in the debate.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "As Congress debates college sports, athletes-turned-senators... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T12:06:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-756c3693b4",
+    "slug": "trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
+    "guid": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
+    "title": "Trump wants to remove a question about race in the census. We look back at the history",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
+    "content": [
+      "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump wants to remove a question about race in the census. W... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T12:17:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ea557180df",
+    "slug": "south-africa-reels-from-spate-of-mass-shootings-that-killed-38-people-in-a-week",
+    "guid": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+    "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+    "content": [
+      "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "South Africa reels from spate of mass shootings that killed ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T13:01:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f4f436f833",
+    "slug": "child-actor-recalls-receiving-disturbing-prison-mail-from-fans-during-peak-of-90s-fame",
+    "guid": "https://www.foxnews.com/entertainment/child-actor-recalls-receiving-disturbing-prison-mail-from-fans-during-peak-90s-fame",
+    "title": "Child actor recalls receiving disturbing prison mail from fans during peak of '90s fame",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Justin Cooper reveals his mother shielded him from disturbing prison mail he received as a child star of the 1997 hit comedy Liar Liar.",
+    "content": [
+      "Justin Cooper reveals his mother shielded him from disturbing prison mail he received as a child star of the 1997 hit comedy Liar Liar.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/liar-liar-movie.jpg?ve=1&tl=1",
+    "imageCaption": "Child actor recalls receiving disturbing prison mail from fa... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T14:55:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2068ff7f60",
+    "slug": "hugh-hefners-most-sexy-playboy-model-reveals-how-anna-nicole-smith-changed-her-life",
+    "guid": "https://www.foxnews.com/entertainment/hugh-hefners-sexy-playboy-model-reveals-anna-nicole-smith-changed-life",
+    "title": "Hugh Hefner's 'most sexy' Playboy model reveals how Anna Nicole Smith changed her life",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sandra Taylor shares stories of dating Fabio, shooting romance novel covers and Dan Aykroyd buying her SAG card after her Playboy career launched.",
+    "content": [
+      "Sandra Taylor shares stories of dating Fabio, shooting romance novel covers and Dan Aykroyd buying her SAG card after her Playboy career launched.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Anna-Nicole-Smith-Sandra-Taylor-Split-Models.jpg?ve=1&tl=1",
+    "imageCaption": "Hugh Hefner's 'most sexy' Playboy model reveals how Anna Nic... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T15:00:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-64a676f70f",
+    "slug": "irish-pm-rejects-antisemitism-concerns-in-ireland-amid-dramatic-vote-over-boycotting-israe",
+    "guid": "https://www.foxnews.com/politics/irish-pm-rejects-antisemitism-concerns-ireland-amid-dramatic-vote-boycotting-israel-game",
+    "title": "Irish PM rejects antisemitism concerns in Ireland amid dramatic vote over boycotting Israel game",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Irish Prime Minister Micheál Martin rejected antisemitism claims as Ireland&apos;s soccer players held a dramatic last-minute vote on playing against Israel.",
+    "content": [
+      "Irish Prime Minister Micheál Martin rejected antisemitism claims as Ireland&apos;s soccer players held a dramatic last-minute vote on playing against Israel.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/micheal-martin-stop-the-game.jpg?ve=1&tl=1",
+    "imageCaption": "Irish PM rejects antisemitism concerns in Ireland amid drama... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T15:43:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9c02ac3639",
+    "slug": "bruce-campbell-says-hollywood-studios-left-very-sour-taste-after-he-was-kicked-out-of-lead",
+    "guid": "https://www.foxnews.com/entertainment/bruce-campbell-hollywood-studios-left-very-sour-taste-kicked-out-lead-role",
+    "title": "Bruce Campbell says Hollywood studios left ‘very sour’ taste after he was 'kicked out' of lead role",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "After a cancer diagnosis and decades in Hollywood, Bruce Campbell and wife Ida Gearon filmed Ernie Emma entirely in their home state of Oregon.",
+    "content": [
+      "After a cancer diagnosis and decades in Hollywood, Bruce Campbell and wife Ida Gearon filmed Ernie Emma entirely in their home state of Oregon.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bruce-campbell-ernieandemma-copy.jpg?ve=1&tl=1",
+    "imageCaption": "Bruce Campbell says Hollywood studios left ‘very sour’ taste... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T16:00:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b4694f180b",
+    "slug": "jaxson-darts-girlfriend-isnt-letting-the-giants-quarterbacks-season-ending-injury-slow-her",
+    "guid": "https://www.foxnews.com/outkick-sports/jaxson-darts-girlfriend-isnt-letting-giants-quarterbacks-season-ending-injury-slow-her-down",
+    "title": "Jaxson Dart's girlfriend isn't letting the Giants quarterback's season-ending injury slow her down",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Marissa Ayers shared an emotional TikTok video after Jaxson Dart&apos;s season-ending knee injury, vowing to stand by him through his road to recovery.",
+    "content": [
+      "Marissa Ayers shared an emotional TikTok video after Jaxson Dart&apos;s season-ending knee injury, vowing to stand by him through his road to recovery.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/jaxson-dart-swimsuit-model-girlfriend-marissa-ayers-f307e4.jpg?ve=1&tl=1",
+    "imageCaption": "Jaxson Dart's girlfriend isn't letting the Giants quarterbac... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T16:12:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4e653d1444",
+    "slug": "panthers-favored-at-25-over-browns-as-bryce-youngs-offense-faces-clevelands-home-opener",
+    "guid": "https://www.foxnews.com/outkick-sports/panthers-favored-2-5-browns-bryce-young-offense-faces-cleveland-home-opener",
+    "title": "Panthers favored at -2.5 over Browns as Bryce Young's offense faces Cleveland's home opener",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bryce Young has thrown six touchdown passes through two weeks, and now the Panthers face a Cleveland Browns team coming off a lightning-aided upset.",
+    "content": [
+      "Bryce Young has thrown six touchdown passes through two weeks, and now the Panthers face a Cleveland Browns team coming off a lightning-aided upset.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/bryce-young-looks-on-panthers-rams.jpg?ve=1&tl=1",
+    "imageCaption": "Panthers favored at -2.5 over Browns as Bryce Young's offens... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T16:28:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-67c4a1d250",
+    "slug": "why-the-new-orleans-saints-can-cover-the-spread-against-the-las-vegas-raiders-in-nfl-week-",
+    "guid": "https://www.foxnews.com/outkick-sports/why-new-orleans-saints-cover-spread-against-las-vegas-raiders-nfl-week-3",
+    "title": "Why the New Orleans Saints can cover the spread against the Las Vegas Raiders in NFL Week 3",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Las Vegas Raiders face the New Orleans Saints in Week 3 as both teams look to prove their early-season success wasn&apos;t a fluke against each other.",
+    "content": [
+      "The Las Vegas Raiders face the New Orleans Saints in Week 3 as both teams look to prove their early-season success wasn&apos;t a fluke against each other.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tyler-shough-winning-touchdown-saints-ravens.jpg?ve=1&tl=1",
+    "imageCaption": "Why the New Orleans Saints can cover the spread against the ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T16:31:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-25acba9422",
+    "slug": "bass-angler-couldnt-use-livescope-so-he-followed-whitetail-deer-to-find-the-fish-instead",
+    "guid": "https://www.foxnews.com/outkick-sports/bass-angler-couldnt-use-livescope-followed-whitetail-deer-find-fish-instead",
+    "title": "Bass angler couldn't use LiveScope, so he followed whitetail deer to find the fish instead",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kaden Buchmann used deer sightings to gauge fishing pressure at Norfork Lake, going wire-to-wire without forward-facing sonar to win $71,317.",
+    "content": [
+      "Kaden Buchmann used deer sightings to gauge fishing pressure at Norfork Lake, going wire-to-wire without forward-facing sonar to win $71,317.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/whitetail-deer-buck-velvet-antlers-canada.jpg?ve=1&tl=1",
+    "imageCaption": "Bass angler couldn't use LiveScope, so he followed whitetail... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T16:35:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8d789d6ddc",
+    "slug": "irans-foreign-minister-says-tehran-ready-for-doomsday-war-with-us-but-leaves-diplomacy-on-",
+    "guid": "108368484",
+    "title": "Iran's foreign minister says Tehran ready for 'doomsday' war with U.S., but leaves diplomacy on the table",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. underwater drone.",
+    "content": [
+      "Iran's foreign minister says talks are the only way to break the deadlock, while its navy says it's analyzing data from a captured U.S. underwater drone.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Iran's foreign minister says Tehran ready for 'doomsday' war... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T16:15:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f2d673912f",
+    "slug": "metas-muse-agent-is-attacking-one-of-the-economys-most-profitable-weak-spots",
+    "guid": "108368485",
+    "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
+    "content": [
+      "Meta's Muse AI personal agent will work over your credit card spending if you don't mind the invasion. How big a threat is it to the subscription economy?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta's Muse agent is attacking one of the economy's most pro... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-27T14:33:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-6e8cd22ae7",
     "slug": "the-smart-home-graveyard-is-getting-crowded",
     "guid": "https://www.theverge.com/?p=1000778",
