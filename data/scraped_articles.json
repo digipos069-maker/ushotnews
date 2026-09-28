@@ -1,5 +1,1041 @@
 [
   {
+    "id": "scraped-4521dec150",
+    "slug": "menins-ai-moment",
+    "guid": "000001a0-e9a7-d2df-a1f4-ffef7bc00000",
+    "title": "Menin’s AI moment",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Menin’s AI moment",
+    "content": [
+      "WASHINGTON — In a developing report from the Technology desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Menin’s AI moment... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T20:50:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b69fd46022",
+    "slug": "openai-keeps-bulldozing-mathematicians",
+    "guid": "https://www.theverge.com/?p=1001477",
+    "title": "OpenAI keeps bulldozing mathematicians",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+    "content": [
+      "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest attempt to repair fractured relations with a mathematical community it has repeatedly alienated [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI keeps bulldozing mathematicians... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T17:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cb6aeb7fe4",
+    "slug": "florida-seeks-a-ban-on-chatgpt-acting-like-a-person",
+    "guid": "https://www.theverge.com/?p=1001527",
+    "title": "Florida seeks a ban on ChatGPT acting like a person",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+    "content": [
+      "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sense of security by the AI bot, as \"ChatGPT's use of language, including first-person pronouns [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Florida seeks a ban on ChatGPT acting like a person... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T17:00:23+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b568ca0918",
+    "slug": "ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+    "guid": "https://www.theverge.com/?p=1001427",
+    "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers [&#8230;]",
+    "content": [
+      "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned businesses. The work sometimes put it in close contact with these companies' financial data, which was stored on its systems. But suddenly, concerned callers [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AI is supercharging hacking, and your local hospitals and ba... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T18:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-06a2e4c81b",
+    "slug": "trump-finalizes-rule-to-make-cars-less-fuel-efficient",
+    "guid": "https://www.theverge.com/?p=1001610",
+    "title": "Trump finalizes rule to make cars less fuel efficient",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for Biden-era standards that would have required fleet average fuel economy to reach 50.4 miles per gallon by model year 2031. President Donald [&#8230;]",
+    "content": [
+      "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for Biden-era standards that would have required fleet average fuel economy to reach 50.4 miles per gallon by model year 2031. President Donald [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump finalizes rule to make cars less fuel efficient... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T18:39:50+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-81bda7254c",
+    "slug": "openais-ai-agents-need-to-catch-up",
+    "guid": "https://www.theverge.com/?p=1001590",
+    "title": "OpenAI’s AI agents need to catch up",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+    "content": [
+      "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race. Rumors abound that OpenAI will release its own AI agent, dubbed Aeon - [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI’s AI agents need to catch up... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T18:45:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9ba7a5c8ba",
+    "slug": "bose-starts-adding-auracast-to-its-headphones",
+    "guid": "https://www.theverge.com/?p=1001522",
+    "title": "Bose starts adding Auracast to its headphones",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the company plans to bring to more devices soon. Only a few major manufacturers include [&#8230;]",
+    "content": [
+      "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the company plans to bring to more devices soon. Only a few major manufacturers include [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bose starts adding Auracast to its headphones... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T19:31:24+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0d07e519a3",
+    "slug": "amd-is-acquiring-ai-company-world-labs-in-a-deal-worth-more-than-8-billion",
+    "guid": "https://www.theverge.com/?p=1001749",
+    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
+    "content": [
+      "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AMD is acquiring AI company World Labs in a deal worth more ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:31:35+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b3851ce843",
+    "slug": "prosecutors-are-reexamining-a-cornell-fraternity-rape-case-heres-what-we-know",
+    "guid": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
+    "title": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "New York prosecutors are reopening an investigation into an alleged rape case at Cornell University in 2024. The alleged victim recently filed a lawsuit against seven members of Chi Phi fraternity.",
+    "content": [
+      "New York prosecutors are reopening an investigation into an alleged rape case at Cornell University in 2024. The alleged victim recently filed a lawsuit against seven members of Chi Phi fraternity.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Prosecutors are reexamining a Cornell fraternity rape case. ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T17:14:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-96d2584d0f",
+    "slug": "dr-marc-siegel-what-18-years-at-fox-taught-me-about-courage-and-faith",
+    "guid": "https://www.foxnews.com/opinion/dr-marc-siegel-18-years-fox-taught-courage-faith",
+    "title": "DR. MARC SIEGEL: What 18 years at Fox taught me about courage and faith",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Benjamin Hall recalls the Ukraine war attack that killed his crew and the miraculous Ukrainian special forces rescue that he believes was a sign from God.",
+    "content": [
+      "Benjamin Hall recalls the Ukraine war attack that killed his crew and the miraculous Ukrainian special forces rescue that he believes was a sign from God.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/marc-siegel-headshot-miracles.jpg?ve=1&tl=1",
+    "imageCaption": "DR. MARC SIEGEL: What 18 years at Fox taught me about courag... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:31:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-36dcee84a3",
+    "slug": "lane-kiffin-is-already-somehow-blaming-the-secs-new-conference-schedule-for-lsus-injuries",
+    "guid": "https://www.foxnews.com/outkick-sports/lane-kiffin-blaming-sec-conference-schedule-lsu-injuries",
+    "title": "Lane Kiffin is already somehow blaming the SEC's new conference schedule for LSU's injuries",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Lane Kiffin is already blaming LSU&apos;s injuries on the SEC&apos;s new nine-game conference schedule, despite the Tigers having played just two league games.",
+    "content": [
+      "Lane Kiffin is already blaming LSU&apos;s injuries on the SEC&apos;s new nine-game conference schedule, despite the Tigers having played just two league games.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lane-kiffin-lsu-mississippi-football.jpg?ve=1&tl=1",
+    "imageCaption": "Lane Kiffin is already somehow blaming the SEC's new confere... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:33:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f7c41edf7a",
+    "slug": "comedian-matt-rife-says-he-ditched-hollywoods-old-playbook-for-success-after-hitting-rock-",
+    "guid": "https://www.foxnews.com/media/comedian-matt-rife-ditched-hollywoods-playbook-success-hitting-rock-bottom",
+    "title": "Comedian Matt Rife says he ditched Hollywood's old playbook for success after hitting 'rock bottom'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Matt Rife reveals he hated TikTok but the platform&apos;s viral reach gave him what years of chasing Hollywood&apos;s traditional comedy pipeline never could.",
+    "content": [
+      "Matt Rife reveals he hated TikTok but the platform&apos;s viral reach gave him what years of chasing Hollywood&apos;s traditional comedy pipeline never could.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/matt-rife-us-open-tennis-blue-carpet.jpg?ve=1&tl=1",
+    "imageCaption": "Comedian Matt Rife says he ditched Hollywood's old playbook ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:45:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd1f942cc4",
+    "slug": "insulting-ex-trump-officials-dishonest-campaign-ad-triggers-conservative-revolt",
+    "guid": "https://www.foxnews.com/politics/insulting-ex-trump-officials-dishonest-campaign-ad-triggers-conservative-revolt",
+    "title": "'Insulting': Ex-Trump official's 'dishonest' campaign ad triggers conservative revolt",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "GOP Arkansas Gov. Sarah Huckabee Sanders&apos; reelection ad depicting a white-male welfare recipient named Brad drew conservative backlash online.",
+    "content": [
+      "GOP Arkansas Gov. Sarah Huckabee Sanders&apos; reelection ad depicting a white-male welfare recipient named Brad drew conservative backlash online.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/sarah-huckabee-sanders-trump.png?ve=1&tl=1",
+    "imageCaption": "'Insulting': Ex-Trump official's 'dishonest' campaign ad tri... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:46:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-80dd2bec99",
+    "slug": "dhs-send-ominous-warning-as-migrant-caravan-heads-toward-us-mexico-border-from-honduras",
+    "guid": "https://www.foxnews.com/us/dhs-send-ominous-warning-migrant-caravan-heads-toward-us-mexico-border-from-honduras",
+    "title": "DHS send ominous warning as migrant caravan heads toward US-Mexico border from Honduras",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Honduran migrant caravan numbered in the hundreds has crossed into Mexico and is moving north as DHS warns the days of catch and release are over.",
+    "content": [
+      "A Honduran migrant caravan numbered in the hundreds has crossed into Mexico and is moving north as DHS warns the days of catch and release are over.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/migrants-travel-in-caravan.jpg?ve=1&tl=1",
+    "imageCaption": "DHS send ominous warning as migrant caravan heads toward US-... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:53:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c734ffb7c3",
+    "slug": "phillies-manager-don-mattingly-delivers-expletive-laden-speech-as-team-makes-playoffs-afte",
+    "guid": "https://www.foxnews.com/outkick-sports/phillies-manager-don-mattingly-delivers-expletive-laden-speech-team-makes-playoffs-game-162-win",
+    "title": "Phillies manager Don Mattingly delivers expletive-laden speech as team makes playoffs after Game 162 win",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Don Mattingly&apos;s expletive-filled locker room speech fired up the Philadelphia Phillies after clinching the final NL Wild Card spot in Game 162.",
+    "content": [
+      "Don Mattingly&apos;s expletive-filled locker room speech fired up the Philadelphia Phillies after clinching the final NL Wild Card spot in Game 162.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Don-Mattingly-Phillies.jpg?ve=1&tl=1",
+    "imageCaption": "Phillies manager Don Mattingly delivers expletive-laden spee... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:55:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d1550b0734",
+    "slug": "once-again-no-one-knows-when-josh-simmons-will-return-perhaps-including-the-chiefs",
+    "guid": "https://www.foxnews.com/outkick-sports/josh-simmons-return-timeline-unclear-chiefs",
+    "title": "Once again, no one knows when Josh Simmons will return — perhaps including the Chiefs",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Josh Simmons has played just eight of 20 games since being drafted, and Andy Reid&apos;s vague updates on the Chiefs left tackle only deepen the mystery.",
+    "content": [
+      "Josh Simmons has played just eight of 20 games since being drafted, and Andy Reid&apos;s vague updates on the Chiefs left tackle only deepen the mystery.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/nfl-chiefs-josh-simmons-102225-2.jpg?ve=1&tl=1",
+    "imageCaption": "Once again, no one knows when Josh Simmons will return — per... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T22:04:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-35c613a65f",
+    "slug": "us-visa-clash-exposes-sudans-forgotten-war-as-foreign-powers-compete-for-strategic-foothol",
+    "guid": "https://www.foxnews.com/world/us-visa-clash-exposes-sudans-forgotten-war-foreign-powers-compete-strategic-foothold",
+    "title": "US visa clash exposes Sudan’s forgotten war as foreign powers compete for strategic foothold",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Abdel Fattah al-Burhan struck a defiant tone after Washington withheld his visa amid a dispute over a proposed 90-day humanitarian truce in Sudan.",
+    "content": [
+      "Abdel Fattah al-Burhan struck a defiant tone after Washington withheld his visa amid a dispute over a proposed 90-day humanitarian truce in Sudan.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Sudan-soldiers.jpg?ve=1&tl=1",
+    "imageCaption": "US visa clash exposes Sudan’s forgotten war as foreign power... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T22:15:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3a8d431b3f",
+    "slug": "anthropic-launches-cheaper-ai-model-its-second-release-since-ceos-call-for-a-slowdown",
+    "guid": "108368921",
+    "title": "Anthropic launches cheaper AI model, its second release since CEO's call for a slowdown",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The company said Sonnet 5.5 doesn't advance the frontier, but that it is better at coding and knowledge work tasks than its predecessor.",
+    "content": [
+      "The company said Sonnet 5.5 doesn't advance the frontier, but that it is better at coding and knowledge work tasks than its predecessor.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic launches cheaper AI model, its second release sinc... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T18:00:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-90d33469eb",
+    "slug": "elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation",
+    "guid": "108368945",
+    "title": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investigation",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The New York City Council issued a subpoena to Musk, requiring that he or another representative of SpaceXAI testify in an investigation concerning AI safety.",
+    "content": [
+      "The New York City Council issued a subpoena to Musk, requiring that he or another representative of SpaceXAI testify in an investigation concerning AI safety.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Elon Musk, SpaceXAI subpoenaed by NYC in AI safety investiga... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:08:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-47024afcee",
+    "slug": "zuckerberg-amodei-among-tech-executives-set-to-meet-trump-tuesday",
+    "guid": "108368912",
+    "title": "Zuckerberg, Amodei among tech executives set to meet Trump Tuesday",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models.",
+    "content": [
+      "The AI safety debate has raged in recent weeks, with Amodei, Musk and OpenAI CEO Sam Altman calling to pace the development of frontier models.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Zuckerberg, Amodei among tech executives set to meet Trump T... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T20:00:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9fda955883",
+    "slug": "khanna-to-introduce-ai-safety-bill-with-ban-on-recursive-technology-until-safeguards-exist",
+    "guid": "108368812",
+    "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The proposal joins a chorus of other measures being put forward in Congress as the body mulls how to regulate AI.",
+    "content": [
+      "The proposal joins a chorus of other measures being put forward in Congress as the body mulls how to regulate AI.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Khanna to introduce AI safety bill with ban on 'recursive' t... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T21:43:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a9fc3de42a",
+    "slug": "jim-cramer-says-these-stocks-can-win-even-as-oil-and-bond-yields-squeeze-the-market",
+    "guid": "108368924",
+    "title": "Jim Cramer says these stocks can win even as oil and bond yields squeeze the market",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Here's the stocks Jim Cramer said will be less impacted by interest rates and the Iran war.",
+    "content": [
+      "Here's the stocks Jim Cramer said will be less impacted by interest rates and the Iran war.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer says these stocks can win even as oil and bond yi... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T22:15:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d83d14f144",
+    "slug": "openai-sparked-hugging-face-bids-with-early-investment-offer-ahead-of-nvidias-13-billion-d",
+    "guid": "108368848",
+    "title": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
+    "content": [
+      "Hugging Face saw a flurry of deal interest before Nvidia agreed to buy the open-source platform for roughly $13 billion, CNBC has learned.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI sparked Hugging Face bids with early investment offer... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T20:36:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-48a11f56d7",
+    "slug": "michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed",
+    "guid": "108369016",
+    "title": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The famed short seller is switching to puts with expiries in June for his major tech short bets.",
+    "content": [
+      "The famed short seller is switching to puts with expiries in June for his major tech short bets.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Michael Burry believes the AI bubble 'may burst' sooner than... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T20:43:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3607ea3b3b",
+    "slug": "lebron-james-is-already-boosting-ticket-and-merchandise-demand-for-philadelphia-76ers",
+    "guid": "108367563",
+    "title": "LeBron James is already boosting ticket and merchandise demand for Philadelphia 76ers",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales, and economic activity",
+    "content": [
+      "NBA star LeBron James is having a major financial impact on the Philadelphia 76ers and Philadelphia, boosting sponsorships, ticket sales, and economic activity",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "LeBron James is already boosting ticket and merchandise dema... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T20:12:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-593665b6f5",
+    "slug": "boeing-737-max-10-certification-delayed-by-software-issue-faa-says",
+    "guid": "108368974",
+    "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
+    "content": [
+      "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Boeing 737 Max 10 certification delayed by software issue, F... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T20:16:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a2af0f77a1",
+    "slug": "supreme-court-justice-alito-will-not-participate-in-big-climate-change-case-next-week",
+    "guid": "108368951",
+    "title": "Supreme Court Justice Alito will not participate in big climate change case next week",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
+    "content": [
+      "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Supreme Court Justice Alito will not participate in big clim... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T20:13:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1c5b835947",
+    "slug": "amd-acquiring-fei-fei-lis-world-labs-ai-firm-in-deal-worth-82-billion",
+    "guid": "108369010",
+    "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "AMD previously invested in World Labs before the acquisition, which is the chipmaker's second biggest on record.",
+    "content": [
+      "AMD previously invested in World Labs before the acquisition, which is the chipmaker's second biggest on record.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-28T22:21:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-f98b196de5",
     "slug": "spacex-preps-next-gen-starlink-as-amazons-competitor-stalls",
     "guid": "https://www.theverge.com/?p=1001259",
