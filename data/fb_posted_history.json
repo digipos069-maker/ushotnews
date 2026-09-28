@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-28T11:57:00.169896+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-09-28T16:54:23.317882+00:00",
+  "posted_count": 66,
   "articles": {
-    "scraped-5c149c95d8": {
-      "title": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
-      "slug": "the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
-      "url": "https://ushotnews.online/article/the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
-      "article_url": "https://ushotnews.online/article/the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114936487471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114936487471257",
-      "fb_comment_id": "122114936487471257_2248244939435020",
-      "posted_at": "2026-09-25T15:26:30.617027+00:00"
-    },
-    "the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care": {
-      "title": "The U.S. Strategic Petroleum Reserve is low. Here's why you should care",
-      "slug": "the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
-      "url": "https://ushotnews.online/article/the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
-      "article_url": "https://ushotnews.online/article/the-us-strategic-petroleum-reserve-is-low-heres-why-you-should-care",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114936487471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114936487471257",
-      "fb_comment_id": "122114936487471257_2248244939435020",
-      "posted_at": "2026-09-25T15:26:30.617027+00:00"
-    },
-    "scraped-7bfd458bf4": {
-      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
-      "slug": "russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
-      "url": "https://ushotnews.online/article/russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
-      "article_url": "https://ushotnews.online/article/russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114937891471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114937891471257",
-      "fb_comment_id": "122114937891471257_1743168846933133",
-      "posted_at": "2026-09-25T15:30:10.963414+00:00"
-    },
-    "russia-could-attack-a-nato-country-within-months-danish-intelligence-warns": {
-      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
-      "slug": "russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
-      "url": "https://ushotnews.online/article/russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
-      "article_url": "https://ushotnews.online/article/russia-could-attack-a-nato-country-within-months-danish-intelligence-warns",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114937891471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114937891471257",
-      "fb_comment_id": "122114937891471257_1743168846933133",
-      "posted_at": "2026-09-25T15:30:10.963414+00:00"
-    },
     "scraped-77198615db": {
       "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
       "slug": "pope-leo-warns-a-paradise-of-machines-could-undermine-humanity-on-his-france-visit",
@@ -749,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116569195471257",
       "fb_comment_id": "122116569195471257_1120790643809510",
       "posted_at": "2026-09-28T11:57:00.169825+00:00"
+    },
+    "scraped-ca528e7ff5": {
+      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
+      "slug": "eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
+      "url": "https://ushotnews.online/article/eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
+      "article_url": "https://ushotnews.online/article/eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116689513471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116689513471257",
+      "fb_comment_id": "122116689513471257_1571295868343825",
+      "posted_at": "2026-09-28T16:54:23.317805+00:00"
+    },
+    "eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis": {
+      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
+      "slug": "eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
+      "url": "https://ushotnews.online/article/eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
+      "article_url": "https://ushotnews.online/article/eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116689513471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116689513471257",
+      "fb_comment_id": "122116689513471257_1571295868343825",
+      "posted_at": "2026-09-28T16:54:23.317805+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-28T11:56:46.610609+00:00"
+  "last_cleaned_at": "2026-09-28T16:54:12.602782+00:00"
 }
