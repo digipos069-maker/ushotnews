@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-28T05:12:09.182859+00:00",
+  "last_updated": "2026-09-28T08:16:01.265954+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-29515d8b40": {
-      "title": "Angel mom says blue state DAs are putting illegal immigrant criminals before public safety",
-      "slug": "angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
-      "url": "https://ushotnews.online/article/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
-      "article_url": "https://ushotnews.online/article/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114640321471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114640321471257",
-      "fb_comment_id": "122114640321471257_1487912916454814",
-      "posted_at": "2026-09-25T05:14:58.702946+00:00"
-    },
-    "angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety": {
-      "title": "Angel mom says blue state DAs are putting illegal immigrant criminals before public safety",
-      "slug": "angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
-      "url": "https://ushotnews.online/article/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
-      "article_url": "https://ushotnews.online/article/angel-mom-says-blue-state-das-are-putting-illegal-immigrant-criminals-before-public-safety",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122114640321471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122114640321471257",
-      "fb_comment_id": "122114640321471257_1487912916454814",
-      "posted_at": "2026-09-25T05:14:58.702946+00:00"
-    },
     "scraped-3d1577e7f0": {
       "title": "Indiana Fever routed by Lynx in regular season finale as Caitlin Clark posts career-worst performance",
       "slug": "indiana-fever-routed-by-lynx-in-regular-season-finale-as-caitlin-clark-posts-career-worst-",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116409229471257",
       "fb_comment_id": "122116409229471257_1586212722397120",
       "posted_at": "2026-09-28T05:12:09.182796+00:00"
+    },
+    "scraped-57885b1023": {
+      "title": "Scientists discover two new species of sea spiders along Canadian coastline",
+      "slug": "scientists-discover-two-new-species-of-sea-spiders-along-canadian-coastline",
+      "url": "https://ushotnews.online/article/scientists-discover-two-new-species-of-sea-spiders-along-canadian-coastline",
+      "article_url": "https://ushotnews.online/article/scientists-discover-two-new-species-of-sea-spiders-along-canadian-coastline",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116473423471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116473423471257",
+      "fb_comment_id": "122116473423471257_1553149660161319",
+      "posted_at": "2026-09-28T08:16:01.265892+00:00"
+    },
+    "scientists-discover-two-new-species-of-sea-spiders-along-canadian-coastline": {
+      "title": "Scientists discover two new species of sea spiders along Canadian coastline",
+      "slug": "scientists-discover-two-new-species-of-sea-spiders-along-canadian-coastline",
+      "url": "https://ushotnews.online/article/scientists-discover-two-new-species-of-sea-spiders-along-canadian-coastline",
+      "article_url": "https://ushotnews.online/article/scientists-discover-two-new-species-of-sea-spiders-along-canadian-coastline",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116473423471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116473423471257",
+      "fb_comment_id": "122116473423471257_1553149660161319",
+      "posted_at": "2026-09-28T08:16:01.265892+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-28T05:11:56.342653+00:00"
+  "last_cleaned_at": "2026-09-28T08:15:47.153889+00:00"
 }
