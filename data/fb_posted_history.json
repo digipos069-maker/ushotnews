@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T19:36:13.242098+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-09-28T22:25:32.596898+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-671d203205": {
       "title": "Wendi McLendon-Covey fires back after Jeff Garlin blames bipolar disorder for 'The Goldbergs' exit",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116751127471257",
       "fb_comment_id": "122116751127471257_1075046392071057",
       "posted_at": "2026-09-28T19:36:13.242035+00:00"
+    },
+    "scraped-73d7f0849c": {
+      "title": "Americans win Presidents Cup on depth, Scheffler's complicated Sunday, and an overwhelming sense of false hope",
+      "slug": "americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
+      "url": "https://ushotnews.online/article/americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
+      "article_url": "https://ushotnews.online/article/americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116809465471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116809465471257",
+      "fb_comment_id": "122116809465471257_1045246235003309",
+      "posted_at": "2026-09-28T22:25:32.596828+00:00"
+    },
+    "americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se": {
+      "title": "Americans win Presidents Cup on depth, Scheffler's complicated Sunday, and an overwhelming sense of false hope",
+      "slug": "americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
+      "url": "https://ushotnews.online/article/americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
+      "article_url": "https://ushotnews.online/article/americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116809465471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116809465471257",
+      "fb_comment_id": "122116809465471257_1045246235003309",
+      "posted_at": "2026-09-28T22:25:32.596828+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-28T19:35:58.563117+00:00"
+  "last_cleaned_at": "2026-09-28T22:25:16.637812+00:00"
 }
