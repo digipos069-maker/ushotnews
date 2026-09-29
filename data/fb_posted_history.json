@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-29T06:06:10.840422+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-09-29T08:52:38.076748+00:00",
+  "posted_count": 62,
   "articles": {
-    "scraped-cc81b291d6": {
-      "title": "St Paul police chief sues mayor, alleging she called herself a 'MILF,' sexually harassed him and retaliated",
-      "slug": "st-paul-police-chief-sues-mayor-alleging-she-called-herself-a-milf-sexually-harassed-him-a",
-      "url": "https://ushotnews.online/article/st-paul-police-chief-sues-mayor-alleging-she-called-herself-a-milf-sexually-harassed-him-a",
-      "article_url": "https://ushotnews.online/article/st-paul-police-chief-sues-mayor-alleging-she-called-herself-a-milf-sexually-harassed-him-a",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115269679471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115269679471257",
-      "fb_comment_id": "122115269679471257_1685462622545385",
-      "posted_at": "2026-09-26T06:26:30.198390+00:00"
-    },
-    "st-paul-police-chief-sues-mayor-alleging-she-called-herself-a-milf-sexually-harassed-him-a": {
-      "title": "St Paul police chief sues mayor, alleging she called herself a 'MILF,' sexually harassed him and retaliated",
-      "slug": "st-paul-police-chief-sues-mayor-alleging-she-called-herself-a-milf-sexually-harassed-him-a",
-      "url": "https://ushotnews.online/article/st-paul-police-chief-sues-mayor-alleging-she-called-herself-a-milf-sexually-harassed-him-a",
-      "article_url": "https://ushotnews.online/article/st-paul-police-chief-sues-mayor-alleging-she-called-herself-a-milf-sexually-harassed-him-a",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115269679471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115269679471257",
-      "fb_comment_id": "122115269679471257_1685462622545385",
-      "posted_at": "2026-09-26T06:26:30.198390+00:00"
-    },
-    "scraped-af8e51fd52": {
-      "title": "Fox News Entertainment newsletter: William won't repeat Charles’ jealousy; Harry's push sparks ‘contradiction’",
-      "slug": "fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
-      "url": "https://ushotnews.online/article/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
-      "article_url": "https://ushotnews.online/article/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115271767471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115271767471257",
-      "fb_comment_id": "122115271767471257_1072278525570535",
-      "posted_at": "2026-09-26T06:34:55.599449+00:00"
-    },
-    "fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-": {
-      "title": "Fox News Entertainment newsletter: William won't repeat Charles’ jealousy; Harry's push sparks ‘contradiction’",
-      "slug": "fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
-      "url": "https://ushotnews.online/article/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
-      "article_url": "https://ushotnews.online/article/fox-news-entertainment-newsletter-william-wont-repeat-charles-jealousy-harrys-push-sparks-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115271767471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115271767471257",
-      "fb_comment_id": "122115271767471257_1072278525570535",
-      "posted_at": "2026-09-26T06:34:55.599449+00:00"
-    },
     "scraped-cec14204c6": {
       "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
       "slug": "roads-flood-in-new-jersey-inundate-some-homes-as-first-major-signs-of-noreaster-take-shape",
@@ -705,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116966281471257",
       "fb_comment_id": "122116966281471257_1157824190248379",
       "posted_at": "2026-09-29T06:06:10.840360+00:00"
+    },
+    "scraped-06a2e4c81b": {
+      "title": "Trump finalizes rule to make cars less fuel efficient",
+      "slug": "trump-finalizes-rule-to-make-cars-less-fuel-efficient",
+      "url": "https://ushotnews.online/article/trump-finalizes-rule-to-make-cars-less-fuel-efficient",
+      "article_url": "https://ushotnews.online/article/trump-finalizes-rule-to-make-cars-less-fuel-efficient",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117030463471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117030463471257",
+      "fb_comment_id": "122117030463471257_2122415588484283",
+      "posted_at": "2026-09-29T08:52:38.076664+00:00"
+    },
+    "trump-finalizes-rule-to-make-cars-less-fuel-efficient": {
+      "title": "Trump finalizes rule to make cars less fuel efficient",
+      "slug": "trump-finalizes-rule-to-make-cars-less-fuel-efficient",
+      "url": "https://ushotnews.online/article/trump-finalizes-rule-to-make-cars-less-fuel-efficient",
+      "article_url": "https://ushotnews.online/article/trump-finalizes-rule-to-make-cars-less-fuel-efficient",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117030463471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117030463471257",
+      "fb_comment_id": "122117030463471257_2122415588484283",
+      "posted_at": "2026-09-29T08:52:38.076664+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-29T06:05:54.512559+00:00"
+  "last_cleaned_at": "2026-09-29T08:52:26.709677+00:00"
 }
