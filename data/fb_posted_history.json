@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T02:10:58.065231+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-09-29T06:06:10.840422+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-cc81b291d6": {
       "title": "St Paul police chief sues mayor, alleging she called herself a 'MILF,' sexually harassed him and retaliated",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116888443471257",
       "fb_comment_id": "122116888443471257_2909113089445662",
       "posted_at": "2026-09-29T02:10:58.065171+00:00"
+    },
+    "scraped-e533805573": {
+      "title": "ABC's 'The View' co-host Ana Navarro urges viewers to vote for Dem in key Florida congressional race",
+      "slug": "abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
+      "url": "https://ushotnews.online/article/abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
+      "article_url": "https://ushotnews.online/article/abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116966281471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116966281471257",
+      "fb_comment_id": "122116966281471257_1157824190248379",
+      "posted_at": "2026-09-29T06:06:10.840360+00:00"
+    },
+    "abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression": {
+      "title": "ABC's 'The View' co-host Ana Navarro urges viewers to vote for Dem in key Florida congressional race",
+      "slug": "abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
+      "url": "https://ushotnews.online/article/abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
+      "article_url": "https://ushotnews.online/article/abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122116966281471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116966281471257",
+      "fb_comment_id": "122116966281471257_1157824190248379",
+      "posted_at": "2026-09-29T06:06:10.840360+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-29T02:10:42.710276+00:00"
+  "last_cleaned_at": "2026-09-29T06:05:54.512559+00:00"
 }
