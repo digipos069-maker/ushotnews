@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-29T20:08:22.636446+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-09-29T22:56:00.785909+00:00",
+  "posted_count": 56,
   "articles": {
-    "scraped-9e6b39c934": {
-      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-      "slug": "openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
-      "url": "https://ushotnews.online/article/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
-      "article_url": "https://ushotnews.online/article/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115652665471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115652665471257",
-      "fb_comment_id": "122115652665471257_954450563891239",
-      "posted_at": "2026-09-26T22:05:27.523592+00:00"
-    },
-    "openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure": {
-      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-      "slug": "openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
-      "url": "https://ushotnews.online/article/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
-      "article_url": "https://ushotnews.online/article/openai-says-its-models-engaged-with-us-government-websites-in-misbehavior-disclosure",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115652665471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115652665471257",
-      "fb_comment_id": "122115652665471257_954450563891239",
-      "posted_at": "2026-09-26T22:05:27.523592+00:00"
-    },
-    "scraped-5dd0ecf3a4": {
-      "title": "Kids turned the comment section of an NPR podcast into a group chat",
-      "slug": "kids-turned-the-comment-section-of-an-npr-podcast-into-a-group-chat",
-      "url": "https://ushotnews.online/article/kids-turned-the-comment-section-of-an-npr-podcast-into-a-group-chat",
-      "article_url": "https://ushotnews.online/article/kids-turned-the-comment-section-of-an-npr-podcast-into-a-group-chat",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115665511471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115665511471257",
-      "fb_comment_id": "122115665511471257_1845783693097960",
-      "posted_at": "2026-09-26T22:40:16.483337+00:00"
-    },
-    "kids-turned-the-comment-section-of-an-npr-podcast-into-a-group-chat": {
-      "title": "Kids turned the comment section of an NPR podcast into a group chat",
-      "slug": "kids-turned-the-comment-section-of-an-npr-podcast-into-a-group-chat",
-      "url": "https://ushotnews.online/article/kids-turned-the-comment-section-of-an-npr-podcast-into-a-group-chat",
-      "article_url": "https://ushotnews.online/article/kids-turned-the-comment-section-of-an-npr-podcast-into-a-group-chat",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115665511471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115665511471257",
-      "fb_comment_id": "122115665511471257_1845783693097960",
-      "posted_at": "2026-09-26T22:40:16.483337+00:00"
-    },
     "scraped-660f79fb8f": {
       "title": "Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment",
       "slug": "arch-manning-does-interview-with-holly-rowe-after-controversy-over-ai-slapping-video-comme",
@@ -639,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117321109471257",
       "fb_comment_id": "122117321109471257_969431542156008",
       "posted_at": "2026-09-29T20:08:22.636385+00:00"
+    },
+    "scraped-cb734fbf5f": {
+      "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
+      "slug": "us-supreme-court-sides-with-trump-administration-in-third-country-deportations",
+      "url": "https://ushotnews.online/article/us-supreme-court-sides-with-trump-administration-in-third-country-deportations",
+      "article_url": "https://ushotnews.online/article/us-supreme-court-sides-with-trump-administration-in-third-country-deportations",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117366895471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117366895471257",
+      "fb_comment_id": "122117366895471257_1740730680553343",
+      "posted_at": "2026-09-29T22:56:00.785848+00:00"
+    },
+    "us-supreme-court-sides-with-trump-administration-in-third-country-deportations": {
+      "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
+      "slug": "us-supreme-court-sides-with-trump-administration-in-third-country-deportations",
+      "url": "https://ushotnews.online/article/us-supreme-court-sides-with-trump-administration-in-third-country-deportations",
+      "article_url": "https://ushotnews.online/article/us-supreme-court-sides-with-trump-administration-in-third-country-deportations",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117366895471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117366895471257",
+      "fb_comment_id": "122117366895471257_1740730680553343",
+      "posted_at": "2026-09-29T22:56:00.785848+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-29T20:08:05.935626+00:00"
+  "last_cleaned_at": "2026-09-29T22:55:43.632018+00:00"
 }
