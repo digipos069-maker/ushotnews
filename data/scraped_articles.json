@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-cf79288e6f",
+    "slug": "the-senate-passes-the-protect-college-sports-act-but-the-bills-future-is-unclear",
+    "guid": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
+    "title": "The Senate passes the Protect College Sports Act, but the bill's future is unclear",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The bill's supporters, which include the NCAA, say it will tame what they call a \"Wild West\" era of college sports as litigation chips away at long-held rules around eligibility, transfers and pay.",
+    "content": [
+      "The bill's supporters, which include the NCAA, say it will tame what they call a \"Wild West\" era of college sports as litigation chips away at long-held rules around eligibility, transfers and pay.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Senate passes the Protect College Sports Act, but the bi... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T02:16:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-57d8d943a6",
+    "slug": "tennessee-is-set-to-execute-a-woman-for-the-first-time-in-200-years",
+    "guid": "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution",
+    "title": "Tennessee is set to execute a woman for the first time in 200 years",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "One of the youngest women sent to death row is set to be executed in Tennessee. If carried out as scheduled Wednesday, it would be Tennessee's first execution of a woman in 200 years.",
+    "content": [
+      "One of the youngest women sent to death row is set to be executed in Tennessee. If carried out as scheduled Wednesday, it would be Tennessee's first execution of a woman in 200 years.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tennessee is set to execute a woman for the first time in 20... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T05:59:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f12323abff",
+    "slug": "openai-delays-latest-model-over-security-concerns-as-industry-faces-pressure",
+    "guid": "https://www.npr.org/2026/09/29/nx-s1-5984342/openai-delays-latest-model",
+    "title": "OpenAI delays latest model over security concerns, as industry faces pressure",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "OpenAI's decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures catch up.",
+    "content": [
+      "OpenAI's decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures catch up.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI delays latest model over security concerns, as indust... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T06:34:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9af795a960",
+    "slug": "news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban",
+    "guid": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
+    "title": "News organizations ask court to bar White House enforcement of access ban",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Three news outlets that President Trump banished from White House grounds asked a federal court to block the ban until the case is resolved.",
+    "content": [
+      "Three news outlets that President Trump banished from White House grounds asked a federal court to block the ban until the case is resolved.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "News organizations ask court to bar White House enforcement ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T08:13:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8cc38a8f1b",
+    "slug": "will-the-college-football-playoff-selection-committees-new-rules-make-their-rankings-bette",
+    "guid": "https://www.foxnews.com/outkick-sports/college-football-playoff-selection-committee-new-rules-make-rankings-better",
+    "title": "Will the College Football Playoff selection committee's new rules make their rankings better?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The College Football Playoff committee is adding strength of conference as a new metric, but questions about transparency and bias remain unanswered.",
+    "content": [
+      "The College Football Playoff committee is adding strength of conference as a new metric, but questions about transparency and bias remain unanswered.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/curt-cignetti-indiana-hoosiers.jpg?ve=1&tl=1",
+    "imageCaption": "Will the College Football Playoff selection committee's new ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T02:17:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-86afd0f108",
+    "slug": "kentucky-trooper-father-of-3-gunned-down-during-traffic-stop-as-suspect-captured-after-man",
+    "guid": "https://www.foxnews.com/us/kentucky-trooper-father-3-gunned-down-traffic-stop-suspect-captured-manhunt",
+    "title": "Kentucky trooper, father of 3, gunned down during traffic stop as suspect captured after manhunt",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Hayden Phillips, a 30-year-old Kentucky state trooper, leaves behind a wife and three sons after being killed during a routine stop on Interstate 65.",
+    "content": [
+      "Hayden Phillips, a 30-year-old Kentucky state trooper, leaves behind a wife and three sons after being killed during a routine stop on Interstate 65.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/kentucky-trooper-hayden-phillips-state-police-cruiser.png?ve=1&tl=1",
+    "imageCaption": "Kentucky trooper, father of 3, gunned down during traffic st... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T02:23:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2a371e7cc7",
+    "slug": "senate-passes-protect-college-sports-act-with-decisive-vote",
+    "guid": "https://www.foxnews.com/outkick-sports/senate-passes-protect-college-sports-act-decisive-vote",
+    "title": "Senate passes Protect College Sports Act with decisive vote",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Protect College Sports Act, which would set national rules for NIL deals, the transfer portal and more, was passed by the Senate on Monday night.",
+    "content": [
+      "The Protect College Sports Act, which would set national rules for NIL deals, the transfer portal and more, was passed by the Senate on Monday night.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Congress-College-Sports-Photo-1.jpeg?ve=1&tl=1",
+    "imageCaption": "Senate passes Protect College Sports Act with decisive vote... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T02:51:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3c2ef25400",
+    "slug": "lebron-james-admits-he-nearly-joined-the-knicks-before-jalen-brunson-won-the-nba-title-wit",
+    "guid": "https://www.foxnews.com/outkick-sports/lebron-james-admits-nearly-joined-knicks-before-jalen-brunson-won-nba-title-without-him",
+    "title": "LeBron James admits he nearly joined the Knicks before Jalen Brunson won the NBA title without him",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "LeBron James revealed he nearly signed with the New York Knicks but backed off after Jalen Brunson led them to a title without him in free agency.",
+    "content": [
+      "LeBron James revealed he nearly signed with the New York Knicks but backed off after Jalen Brunson led them to a title without him in free agency.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/lebron-james-mic.jpg?ve=1&tl=1",
+    "imageCaption": "LeBron James admits he nearly joined the Knicks before Jalen... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T03:20:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-07be116916",
+    "slug": "case-keenums-performance-in-win-over-eagles-should-tell-bears-this-dont-rush-back-caleb-wi",
+    "guid": "https://www.foxnews.com/outkick-sports/case-keenum-performance-win-eagles-should-tell-bears-dont-rush-back-caleb-williams",
+    "title": "Case Keenum's performance in win over Eagles should tell Bears this: Don't rush back Caleb Williams",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Case Keenum finished 24-of-34 with two passing touchdowns and a rushing score, raising a key question about Caleb Williams&apos; return timeline.",
+    "content": [
+      "Case Keenum finished 24-of-34 with two passing touchdowns and a rushing score, raising a key question about Caleb Williams&apos; return timeline.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Case-Keenum-Bears.jpg?ve=1&tl=1",
+    "imageCaption": "Case Keenum's performance in win over Eagles should tell Bea... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T03:32:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8293f61d51",
+    "slug": "lindsay-clancys-push-to-probe-holdout-juror-hits-snag-before-pivotal-retrial-hearing",
+    "guid": "https://www.foxnews.com/us/lindsay-clancy-push-probe-holdout-juror-hits-snag-pivotal-retrial-hearing",
+    "title": "Lindsay Clancy's push to probe holdout juror hits snag before pivotal retrial hearing",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Lindsay Clancy returns to court in person as her defense pushes a double jeopardy motion and seeks to investigate holdout juror Michael Desronvil.",
+    "content": [
+      "Lindsay Clancy returns to court in person as her defense pushes a double jeopardy motion and seeks to investigate holdout juror Michael Desronvil.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lindsay-clancy-trial-plymouth_001.jpg?ve=1&tl=1",
+    "imageCaption": "Lindsay Clancy's push to probe holdout juror hits snag befor... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T04:00:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ecea6e8e7d",
+    "slug": "state-department-considers-sharing-passport-records-for-voter-citizenship-checks",
+    "guid": "https://www.foxnews.com/politics/state-department-considers-sharing-passport-records-voter-citizenship-checks",
+    "title": "State Department considers sharing passport records for voter citizenship checks",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The State Department is assessing how to share passport records with state and local officials to verify citizenship on voter registration rolls.",
+    "content": [
+      "The State Department is assessing how to share passport records with state and local officials to verify citizenship on voter registration rolls.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/rubio-trump-state-department.png?ve=1&tl=1",
+    "imageCaption": "State Department considers sharing passport records for vote... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T04:26:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d6fae01203",
+    "slug": "at-least-40-rescued-2-dead-as-boat-capsizes-after-machete-fight-near-puerto-rico",
+    "guid": "https://www.foxnews.com/world/least-40-rescued-2-dead-boat-capsizes-machete-fight-near-puerto-rico",
+    "title": "At least 40 rescued, 2 dead as boat capsizes after machete fight near Puerto Rico",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A machete fight aboard a makeshift migrant boat near Mona Island caused it to capsize, leaving survivors stranded in open waters for over 12 hours.",
+    "content": [
+      "A machete fight aboard a makeshift migrant boat near Mona Island caused it to capsize, leaving survivors stranded in open waters for over 12 hours.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Puerto-Rico-boat-capsized-people-rescued.png?ve=1&tl=1",
+    "imageCaption": "At least 40 rescued, 2 dead as boat capsizes after machete f... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T06:53:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d12bf9fe49",
+    "slug": "india-readies-25-billion-for-deep-tech-investment-as-us-and-china-race-ahead",
+    "guid": "108369160",
+    "title": "India readies $25 billion for Deep Tech investment as U.S. and China race ahead",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups.",
+    "content": [
+      "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "India readies $25 billion for Deep Tech investment as U.S. a... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T05:12:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-970d0d1f54",
+    "slug": "cnbc-daily-open-ais-creators-sound-the-alarm-while-others-keep-building-the-infrastructure",
+    "guid": "108369168",
+    "title": "CNBC Daily Open: AI’s creators sound the alarm — while others keep building the infrastructure",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "When the AI boom first took off, companies were competing to see what their AI models can do. Now, they reassure investors of what their models CAN'T do.",
+    "content": [
+      "When the AI boom first took off, companies were competing to see what their AI models can do. Now, they reassure investors of what their models CAN'T do.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "CNBC Daily Open: AI’s creators sound the alarm — while other... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T07:27:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ffd16de54f",
+    "slug": "australia-says-more-hikes-not-off-the-table-after-raising-rates-to-15-year-high",
+    "guid": "108369126",
+    "title": "Australia says more hikes not off the table after raising rates to 15-year high",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The hike of 25 basis points was in line with expectations by economists polled by Reuters.",
+    "content": [
+      "The hike of 25 basis points was in line with expectations by economists polled by Reuters.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Australia says more hikes not off the table after raising ra... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T05:00:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-924170284c",
+    "slug": "putin-orders-army-expansion-as-zelenskyy-warns-russia-preparing-to-deploy-10000-north-kore",
+    "guid": "108369186",
+    "title": "Putin orders army expansion as Zelenskyy warns Russia preparing to deploy 10,000 North Korean troops",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The decree marks the fourth increase in Russia’s military staffing levels this year as the war in Ukraine continues into a fifth winter.",
+    "content": [
+      "The decree marks the fourth increase in Russia’s military staffing levels this year as the war in Ukraine continues into a fifth winter.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Putin orders army expansion as Zelenskyy warns Russia prepar... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T08:44:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-698ad94a41",
+    "slug": "us-iran-hold-separate-mediator-talks-as-mideast-oil-exports-hit-war-time-high",
+    "guid": "108369156",
+    "title": "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Iranian and U.S. officials reportedly met separately with mediators Monday to push for a ceasefire, as Middle Eastern crude exports rebounded to war-time high.",
+    "content": [
+      "Iranian and U.S. officials reportedly met separately with mediators Monday to push for a ceasefire, as Middle Eastern crude exports rebounded to war-time high.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S., Iran hold separate mediator talks as Mideast oil expor... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T04:02:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e4eccfafbd",
+    "slug": "treasury-yields-ease-as-inflation-concerns-persist",
+    "guid": "108369183",
+    "title": "Treasury yields ease as inflation concerns persist",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Treasury yields eased early Tuesday amid persistent concerns over inflationary pressures.",
+    "content": [
+      "Treasury yields eased early Tuesday amid persistent concerns over inflationary pressures.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Treasury yields ease as inflation concerns persist... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T08:17:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-45be917ee1",
+    "slug": "anthropic-warns-investors-of-ais-existential-risk-to-humanity-in-ipo-prospectus-reports-sa",
+    "guid": "108369133",
+    "title": "Anthropic warns investors of AI’s 'existential risk to humanity' in IPO prospectus, reports say",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Anthropic's IPO filing dedicates 80 pages to the risks of AI, nearly double the 48 pages it spends discussing its business plans, according to Reuters.",
+    "content": [
+      "Anthropic's IPO filing dedicates 80 pages to the risks of AI, nearly double the 48 pages it spends discussing its business plans, according to Reuters.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic warns investors of AI’s 'existential risk to human... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T08:43:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a57d2a9715",
+    "slug": "mistral-ceo-says-us-ai-safety-debate-masks-competitors-negligence",
+    "guid": "108369159",
+    "title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Mistral CEO Arthur Mensch criticized rivals’ AI safety arguments as the industry faces scrutiny after several AI agents took unauthorized actions.",
+    "content": [
+      "Mistral CEO Arthur Mensch criticized rivals’ AI safety arguments as the industry faces scrutiny after several AI agents took unauthorized actions.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Mistral CEO says U.S. AI safety debate masks competitors’ 'n... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-29T08:20:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-0d12bb8049",
     "slug": "nothings-new-flagship-headphone-1-pro-put-you-in-the-studio",
     "guid": "https://www.theverge.com/?p=1001797",
