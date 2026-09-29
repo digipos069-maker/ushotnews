@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T13:16:24.772645+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-09-29T15:23:39.326084+00:00",
+  "posted_count": 62,
   "articles": {
     "scraped-e9314c931c": {
       "title": "Doctor reveals '10-year rule' for evaluating brain fog and dementia symptoms",
@@ -661,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117145927471257",
       "fb_comment_id": "122117145927471257_1879495809704967",
       "posted_at": "2026-09-29T13:16:24.772590+00:00"
+    },
+    "scraped-9af795a960": {
+      "title": "News organizations ask court to bar White House enforcement of access ban",
+      "slug": "news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban",
+      "url": "https://ushotnews.online/article/news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban",
+      "article_url": "https://ushotnews.online/article/news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117204823471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117204823471257",
+      "fb_comment_id": "122117204823471257_925459646970820",
+      "posted_at": "2026-09-29T15:23:39.326016+00:00"
+    },
+    "news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban": {
+      "title": "News organizations ask court to bar White House enforcement of access ban",
+      "slug": "news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban",
+      "url": "https://ushotnews.online/article/news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban",
+      "article_url": "https://ushotnews.online/article/news-organizations-ask-court-to-bar-white-house-enforcement-of-access-ban",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117204823471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117204823471257",
+      "fb_comment_id": "122117204823471257_925459646970820",
+      "posted_at": "2026-09-29T15:23:39.326016+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-29T13:16:08.931799+00:00"
+  "last_cleaned_at": "2026-09-29T15:23:22.721982+00:00"
 }
