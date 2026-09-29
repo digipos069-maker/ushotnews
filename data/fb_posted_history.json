@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T22:56:00.785909+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-09-29T23:53:14.599776+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-660f79fb8f": {
       "title": "Arch Manning does interview with Holly Rowe after controversy over AI slapping video comment",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117366895471257",
       "fb_comment_id": "122117366895471257_1740730680553343",
       "posted_at": "2026-09-29T22:56:00.785848+00:00"
+    },
+    "scraped-49bab40c01": {
+      "title": "Meet the 20 scholars and artists who've just won MacArthur Fellowships",
+      "slug": "meet-the-20-scholars-and-artists-whove-just-won-macarthur-fellowships",
+      "url": "https://ushotnews.online/article/meet-the-20-scholars-and-artists-whove-just-won-macarthur-fellowships",
+      "article_url": "https://ushotnews.online/article/meet-the-20-scholars-and-artists-whove-just-won-macarthur-fellowships",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117383629471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117383629471257",
+      "fb_comment_id": "122117383629471257_1560028355444034",
+      "posted_at": "2026-09-29T23:53:14.599709+00:00"
+    },
+    "meet-the-20-scholars-and-artists-whove-just-won-macarthur-fellowships": {
+      "title": "Meet the 20 scholars and artists who've just won MacArthur Fellowships",
+      "slug": "meet-the-20-scholars-and-artists-whove-just-won-macarthur-fellowships",
+      "url": "https://ushotnews.online/article/meet-the-20-scholars-and-artists-whove-just-won-macarthur-fellowships",
+      "article_url": "https://ushotnews.online/article/meet-the-20-scholars-and-artists-whove-just-won-macarthur-fellowships",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117383629471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117383629471257",
+      "fb_comment_id": "122117383629471257_1560028355444034",
+      "posted_at": "2026-09-29T23:53:14.599709+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-29T22:55:43.632018+00:00"
+  "last_cleaned_at": "2026-09-29T23:53:00.529161+00:00"
 }
