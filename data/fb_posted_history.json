@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-30T16:40:50.045688+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-09-30T20:16:29.257774+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-6e8cd22ae7": {
-      "title": "The smart home graveyard is getting crowded",
-      "slug": "the-smart-home-graveyard-is-getting-crowded",
-      "url": "https://ushotnews.online/article/the-smart-home-graveyard-is-getting-crowded",
-      "article_url": "https://ushotnews.online/article/the-smart-home-graveyard-is-getting-crowded",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116123833471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116123833471257",
-      "fb_comment_id": "122116123833471257_1646142973731238",
-      "posted_at": "2026-09-27T17:09:23.482432+00:00"
-    },
-    "the-smart-home-graveyard-is-getting-crowded": {
-      "title": "The smart home graveyard is getting crowded",
-      "slug": "the-smart-home-graveyard-is-getting-crowded",
-      "url": "https://ushotnews.online/article/the-smart-home-graveyard-is-getting-crowded",
-      "article_url": "https://ushotnews.online/article/the-smart-home-graveyard-is-getting-crowded",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116123833471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116123833471257",
-      "fb_comment_id": "122116123833471257_1646142973731238",
-      "posted_at": "2026-09-27T17:09:23.482432+00:00"
-    },
-    "scraped-081a4daa91": {
-      "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-      "slug": "ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-      "url": "https://ushotnews.online/article/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-      "article_url": "https://ushotnews.online/article/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116145391471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116145391471257",
-      "fb_comment_id": "122116145391471257_991644080612880",
-      "posted_at": "2026-09-27T17:55:33.287884+00:00"
-    },
-    "ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity": {
-      "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
-      "slug": "ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-      "url": "https://ushotnews.online/article/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-      "article_url": "https://ushotnews.online/article/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116145391471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116145391471257",
-      "fb_comment_id": "122116145391471257_991644080612880",
-      "posted_at": "2026-09-27T17:55:33.287884+00:00"
-    },
     "scraped-25b0fec57f": {
       "title": "Why OLPC’s $100 laptop never stood a chance",
       "slug": "why-olpcs-100-laptop-never-stood-a-chance",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117793297471257",
       "fb_comment_id": "122117793297471257_2632607650542865",
       "posted_at": "2026-09-30T16:40:50.045627+00:00"
+    },
+    "scraped-6526aff8cd": {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "slug": "google-reportedly-tests-paying-publishers-for-ai-search-results",
+      "url": "https://ushotnews.online/article/google-reportedly-tests-paying-publishers-for-ai-search-results",
+      "article_url": "https://ushotnews.online/article/google-reportedly-tests-paying-publishers-for-ai-search-results",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117875611471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117875611471257",
+      "fb_comment_id": "122117875611471257_38485853304392022",
+      "posted_at": "2026-09-30T20:16:29.257704+00:00"
+    },
+    "google-reportedly-tests-paying-publishers-for-ai-search-results": {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "slug": "google-reportedly-tests-paying-publishers-for-ai-search-results",
+      "url": "https://ushotnews.online/article/google-reportedly-tests-paying-publishers-for-ai-search-results",
+      "article_url": "https://ushotnews.online/article/google-reportedly-tests-paying-publishers-for-ai-search-results",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117875611471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117875611471257",
+      "fb_comment_id": "122117875611471257_38485853304392022",
+      "posted_at": "2026-09-30T20:16:29.257704+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-30T16:40:33.907821+00:00"
+  "last_cleaned_at": "2026-09-30T20:16:17.716478+00:00"
 }
