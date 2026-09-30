@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-09-30T02:00:44.405544+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-09-30T08:25:07.144947+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-1e9bb6bbfc": {
-      "title": "Civilian detained after 'violently engaging' security personnel at Florida Air Force base: report",
-      "slug": "civilian-detained-after-violently-engaging-security-personnel-at-florida-air-force-base-re",
-      "url": "https://ushotnews.online/article/civilian-detained-after-violently-engaging-security-personnel-at-florida-air-force-base-re",
-      "article_url": "https://ushotnews.online/article/civilian-detained-after-violently-engaging-security-personnel-at-florida-air-force-base-re",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115843837471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115843837471257",
-      "fb_comment_id": "122115843837471257_1460435376272278",
-      "posted_at": "2026-09-27T06:16:31.645248+00:00"
-    },
-    "civilian-detained-after-violently-engaging-security-personnel-at-florida-air-force-base-re": {
-      "title": "Civilian detained after 'violently engaging' security personnel at Florida Air Force base: report",
-      "slug": "civilian-detained-after-violently-engaging-security-personnel-at-florida-air-force-base-re",
-      "url": "https://ushotnews.online/article/civilian-detained-after-violently-engaging-security-personnel-at-florida-air-force-base-re",
-      "article_url": "https://ushotnews.online/article/civilian-detained-after-violently-engaging-security-personnel-at-florida-air-force-base-re",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115843837471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115843837471257",
-      "fb_comment_id": "122115843837471257_1460435376272278",
-      "posted_at": "2026-09-27T06:16:31.645248+00:00"
-    },
-    "scraped-1e10032a04": {
-      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-      "slug": "trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
-      "url": "https://ushotnews.online/article/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
-      "article_url": "https://ushotnews.online/article/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115860235471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115860235471257",
-      "fb_comment_id": "122115860235471257_1406810344759988",
-      "posted_at": "2026-09-27T07:02:29.975481+00:00"
-    },
-    "trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable": {
-      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-      "slug": "trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
-      "url": "https://ushotnews.online/article/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
-      "article_url": "https://ushotnews.online/article/trump-calls-iranian-plan-to-reopen-strait-of-hormuz-not-acceptable",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122115860235471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122115860235471257",
-      "fb_comment_id": "122115860235471257_1406810344759988",
-      "posted_at": "2026-09-27T07:02:29.975481+00:00"
-    },
     "scraped-0da8bffd5a": {
       "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
       "slug": "funflation-is-on-the-rise-as-hobbies-get-pricier-but-consumers-keep-spending-anyway",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117417709471257",
       "fb_comment_id": "122117417709471257_2683103898811197",
       "posted_at": "2026-09-30T02:00:44.405482+00:00"
+    },
+    "scraped-1bec2f6543": {
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
+      "slug": "goldman-sachs-ceo-succession-planning-faces-one-big-problem",
+      "url": "https://ushotnews.online/article/goldman-sachs-ceo-succession-planning-faces-one-big-problem",
+      "article_url": "https://ushotnews.online/article/goldman-sachs-ceo-succession-planning-faces-one-big-problem",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117546439471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117546439471257",
+      "fb_comment_id": "122117546439471257_925818753727687",
+      "posted_at": "2026-09-30T08:25:07.144892+00:00"
+    },
+    "goldman-sachs-ceo-succession-planning-faces-one-big-problem": {
+      "title": "Goldman Sachs CEO succession planning faces one big problem",
+      "slug": "goldman-sachs-ceo-succession-planning-faces-one-big-problem",
+      "url": "https://ushotnews.online/article/goldman-sachs-ceo-succession-planning-faces-one-big-problem",
+      "article_url": "https://ushotnews.online/article/goldman-sachs-ceo-succession-planning-faces-one-big-problem",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117546439471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117546439471257",
+      "fb_comment_id": "122117546439471257_925818753727687",
+      "posted_at": "2026-09-30T08:25:07.144892+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-30T02:00:29.453331+00:00"
+  "last_cleaned_at": "2026-09-30T08:24:40.444710+00:00"
 }
