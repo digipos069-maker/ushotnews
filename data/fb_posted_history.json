@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-09-30T20:16:29.257774+00:00",
+  "last_updated": "2026-09-30T21:13:45.062546+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-25b0fec57f": {
-      "title": "Why OLPC’s $100 laptop never stood a chance",
-      "slug": "why-olpcs-100-laptop-never-stood-a-chance",
-      "url": "https://ushotnews.online/article/why-olpcs-100-laptop-never-stood-a-chance",
-      "article_url": "https://ushotnews.online/article/why-olpcs-100-laptop-never-stood-a-chance",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116209327471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116209327471257",
-      "fb_comment_id": "122116209327471257_1767250531186637",
-      "posted_at": "2026-09-27T20:18:06.903383+00:00"
-    },
-    "why-olpcs-100-laptop-never-stood-a-chance": {
-      "title": "Why OLPC’s $100 laptop never stood a chance",
-      "slug": "why-olpcs-100-laptop-never-stood-a-chance",
-      "url": "https://ushotnews.online/article/why-olpcs-100-laptop-never-stood-a-chance",
-      "article_url": "https://ushotnews.online/article/why-olpcs-100-laptop-never-stood-a-chance",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116209327471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116209327471257",
-      "fb_comment_id": "122116209327471257_1767250531186637",
-      "posted_at": "2026-09-27T20:18:06.903383+00:00"
-    },
     "scraped-92b312cca1": {
       "title": "Awful scene as Leo Chanel suffers neck injury, marking second straight week Washington Commanders suffer scare",
       "slug": "awful-scene-as-leo-chanel-suffers-neck-injury-marking-second-straight-week-washington-comm",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117875611471257",
       "fb_comment_id": "122117875611471257_38485853304392022",
       "posted_at": "2026-09-30T20:16:29.257704+00:00"
+    },
+    "scraped-06f471590d": {
+      "title": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
+      "slug": "8216xbox-is-not-for-sale8217-says-microsoft8217s-gaming-chief",
+      "url": "https://ushotnews.online/article/8216xbox-is-not-for-sale8217-says-microsoft8217s-gaming-chief",
+      "article_url": "https://ushotnews.online/article/8216xbox-is-not-for-sale8217-says-microsoft8217s-gaming-chief",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117901759471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117901759471257",
+      "fb_comment_id": "122117901759471257_1111511034790063",
+      "posted_at": "2026-09-30T21:13:45.062483+00:00"
+    },
+    "8216xbox-is-not-for-sale8217-says-microsoft8217s-gaming-chief": {
+      "title": "&#8216;Xbox is not for sale&#8217; says Microsoft&#8217;s gaming chief",
+      "slug": "8216xbox-is-not-for-sale8217-says-microsoft8217s-gaming-chief",
+      "url": "https://ushotnews.online/article/8216xbox-is-not-for-sale8217-says-microsoft8217s-gaming-chief",
+      "article_url": "https://ushotnews.online/article/8216xbox-is-not-for-sale8217-says-microsoft8217s-gaming-chief",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117901759471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117901759471257",
+      "fb_comment_id": "122117901759471257_1111511034790063",
+      "posted_at": "2026-09-30T21:13:45.062483+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-30T20:16:17.716478+00:00"
+  "last_cleaned_at": "2026-09-30T21:13:33.091973+00:00"
 }
