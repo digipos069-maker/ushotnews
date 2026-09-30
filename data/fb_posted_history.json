@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T15:13:32.153307+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-09-30T16:40:50.045688+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-6e8cd22ae7": {
       "title": "The smart home graveyard is getting crowded",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117744367471257",
       "fb_comment_id": "122117744367471257_1406112098311599",
       "posted_at": "2026-09-30T15:13:32.153243+00:00"
+    },
+    "scraped-e0ef04a026": {
+      "title": "One year after the end of the EV tax credit, is the future still electric?",
+      "slug": "one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
+      "url": "https://ushotnews.online/article/one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
+      "article_url": "https://ushotnews.online/article/one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117793297471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117793297471257",
+      "fb_comment_id": "122117793297471257_2632607650542865",
+      "posted_at": "2026-09-30T16:40:50.045627+00:00"
+    },
+    "one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric": {
+      "title": "One year after the end of the EV tax credit, is the future still electric?",
+      "slug": "one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
+      "url": "https://ushotnews.online/article/one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
+      "article_url": "https://ushotnews.online/article/one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117793297471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117793297471257",
+      "fb_comment_id": "122117793297471257_2632607650542865",
+      "posted_at": "2026-09-30T16:40:50.045627+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-30T15:13:16.602810+00:00"
+  "last_cleaned_at": "2026-09-30T16:40:33.907821+00:00"
 }
