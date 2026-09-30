@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T08:25:07.144947+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-09-30T10:39:26.144652+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-0da8bffd5a": {
       "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117546439471257",
       "fb_comment_id": "122117546439471257_925818753727687",
       "posted_at": "2026-09-30T08:25:07.144892+00:00"
+    },
+    "scraped-68cf2bc9b0": {
+      "title": "UCF Knights salute Mercury, Gemini, and Apollo programs with slick new Space U uniforms",
+      "slug": "ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
+      "url": "https://ushotnews.online/article/ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
+      "article_url": "https://ushotnews.online/article/ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117606991471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117606991471257",
+      "fb_comment_id": "122117606991471257_2565635093948835",
+      "posted_at": "2026-09-30T10:39:26.144579+00:00"
+    },
+    "ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms": {
+      "title": "UCF Knights salute Mercury, Gemini, and Apollo programs with slick new Space U uniforms",
+      "slug": "ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
+      "url": "https://ushotnews.online/article/ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
+      "article_url": "https://ushotnews.online/article/ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117606991471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117606991471257",
+      "fb_comment_id": "122117606991471257_2565635093948835",
+      "posted_at": "2026-09-30T10:39:26.144579+00:00"
     }
   },
-  "last_cleaned_at": "2026-09-30T08:24:40.444710+00:00"
+  "last_cleaned_at": "2026-09-30T10:39:12.349528+00:00"
 }
