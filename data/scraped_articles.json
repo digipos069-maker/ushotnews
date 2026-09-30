@@ -1,5 +1,1041 @@
 [
   {
+    "id": "scraped-f6601e02cc",
+    "slug": "brian-fitzpatricks-campaign-ads-feature-damning-news-headlines-theyre-not-from-an-unbiased",
+    "guid": "000001a0-ef68-d600-a9bf-ff6fa6f40000",
+    "title": "Brian Fitzpatrick’s campaign ads feature damning news headlines. They're not from an unbiased source.",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Self-published articles from a longtime ally are showing up in the vulnerable Pennsylvania Republican’s attack ads.",
+    "content": [
+      "Self-published articles from a longtime ally are showing up in the vulnerable Pennsylvania Republican’s attack ads.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/39/b5/6eb4227c4e1b99dbf13b00c8512c/u-s-congress-46437.jpg",
+    "imageCaption": "Brian Fitzpatrick’s campaign ads feature damning news headli... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T08:45:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d53eaf71fb",
+    "slug": "jon-ossoffs-hosting-fundraisers-and-theyre-not-all-for-his-reelection-campaign",
+    "guid": "000001a0-ef94-d09b-afae-ffb6654d0000",
+    "title": "Jon Ossoff’s hosting fundraisers — and they’re not all for his reelection campaign",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The Democratic senator is spending significant attention on boosting the Georgia Democratic Party and its coordinated campaign in the final stretch of the midterms.",
+    "content": [
+      "The Democratic senator is spending significant attention on boosting the Georgia Democratic Party and its coordinated campaign in the final stretch of the midterms.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/1e/be/fbe0ee914e45a6de19dbb8935eb9/election-2-26-georgia-13752.jpg",
+    "imageCaption": "Jon Ossoff’s hosting fundraisers — and they’re not all for h... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c285e880a3",
+    "slug": "sam-altman-says-openai-wont-go-public-until-its-models-are-safe",
+    "guid": "https://www.theverge.com/?p=1002505",
+    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
+    "content": [
+      "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sam Altman says OpenAI won’t go public until its models are ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T00:19:13+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e0ef04a026",
+    "slug": "one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
+    "guid": "https://www.npr.org/2026/09/30/nx-s1-5979915/ev-hybrid-sales-2026-federal-tax-credit",
+    "title": "One year after the end of the EV tax credit, is the future still electric?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Congress got rid of a $7,500 federal tax credit for new electric vehicle buyers. One year later, are people still buying EVs?",
+    "content": [
+      "Congress got rid of a $7,500 federal tax credit for new electric vehicle buyers. One year later, are people still buying EVs?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "One year after the end of the EV tax credit, is the future s... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cb26be97e3",
+    "slug": "montana-starts-enforcing-medicaid-work-requirements-on-oct-1-patients-are-confused",
+    "guid": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
+    "title": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing confusion and anxiety.",
+    "content": [
+      "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing confusion and anxiety.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Montana starts enforcing Medicaid work requirements on Oct 1... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dc4ff920cb",
+    "slug": "foster-care-often-fails-kids-with-disabilities-consider-these-cases",
+    "guid": "https://www.npr.org/2026/09/30/nx-s1-5534203/foster-care-disabilities-children-bad-outcomes",
+    "title": "Foster care often fails kids with disabilities. Consider these cases",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Disabled kids make up the largest group in foster care. They have the worst outcomes. They stay in foster care longest. They're the most likely to die.",
+    "content": [
+      "Disabled kids make up the largest group in foster care. They have the worst outcomes. They stay in foster care longest. They're the most likely to die.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Foster care often fails kids with disabilities. Consider the... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-57d902c799",
+    "slug": "the-2026-student-podcast-challenge-honorable-mentions",
+    "guid": "https://www.npr.org/2026/09/30/nx-s1-5984991/student-podcast-challenge-2026-honorable-mentions",
+    "title": "The 2026 Student Podcast Challenge Honorable Mentions",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Here are the honorable mentions from this year's Student Podcast Challenge, chosen from nearly 1,500 entries.",
+    "content": [
+      "Here are the honorable mentions from this year's Student Podcast Challenge, chosen from nearly 1,500 entries.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The 2026 Student Podcast Challenge Honorable Mentions... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c5c0d0f3b1",
+    "slug": "drugs-are-widely-used-to-sedate-dementia-patients-her-sons-wanted-to-keep-her-off-them",
+    "guid": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+    "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a Michigan woman illuminates the wrenching decisions families and guardians face.",
+    "content": [
+      "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a Michigan woman illuminates the wrenching decisions families and guardians face.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Drugs are widely used to sedate dementia patients. Her sons ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1a157efbfd",
+    "slug": "whats-behind-hhs-claims-that-gender-affirming-care-may-radicalize",
+    "guid": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+    "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
+    "content": [
+      "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What's behind HHS claims that gender-affirming care 'may' ra... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d78c01da90",
+    "slug": "the-moment-youve-been-waiting-for-americas-best-student-podcasts",
+    "guid": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists",
+    "title": "The moment you've been waiting for: America's best student podcasts",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "We've listened to nearly 1,500 podcasts from all around the U.S. and narrowed them down to 10 middle school and 10 high school finalists.",
+    "content": [
+      "We've listened to nearly 1,500 podcasts from all around the U.S. and narrowed them down to 10 middle school and 10 high school finalists.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The moment you've been waiting for: America's best student p... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-31de2b97d4",
+    "slug": "a-startup-wants-to-build-a-massive-nuclear-powered-data-center-on-public-land-in-utah",
+    "guid": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+    "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
+    "content": [
+      "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A startup wants to build a massive nuclear-powered data cent... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:01:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c467a7a028",
+    "slug": "lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills",
+    "guid": "https://www.foxnews.com/opinion/lee-carter-trump-get-attention-distract-voters-bills",
+    "title": "LEE CARTER: Trump can still get attention, can he distract voters from their bills?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trump&apos;s approval on inflation sits at just 24% as polls show 62% of voters call grocery prices a major problem ahead of the 2026 midterm elections.",
+    "content": [
+      "Trump&apos;s approval on inflation sits at just 24% as polls show 62% of voters call grocery prices a major problem ahead of the 2026 midterm elections.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/trump-no-tax-on-tips-fox-news.jpeg?ve=1&tl=1",
+    "imageCaption": "LEE CARTER: Trump can still get attention, can he distract v... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-96c0c021df",
+    "slug": "flydubai-pilots-reportedly-fight-in-cockpit-triggering-hijacking-fears-and-israeli-fighter",
+    "guid": "https://www.foxnews.com/world/flydubai-pilots-reportedly-fight-cockpit-triggering-hijacking-fears-israeli-fighter-jet-response",
+    "title": "Flydubai pilots reportedly fight in cockpit, triggering hijacking fears and Israeli fighter jet response",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Flydubai flight to Tel Aviv diverted to Tabuk, Saudi Arabia Wednesday after a reported cockpit fight between pilots triggered hijacking fears in Israel.",
+    "content": [
+      "A Flydubai flight to Tel Aviv diverted to Tabuk, Saudi Arabia Wednesday after a reported cockpit fight between pilots triggered hijacking fears in Israel.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/israeli-tourists-flydubai.jpg?ve=1&tl=1",
+    "imageCaption": "Flydubai pilots reportedly fight in cockpit, triggering hija... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:03:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4186591923",
+    "slug": "lost-medieval-castle-found-hiding-in-plain-sight-after-professor-spots-telltale-clues",
+    "guid": "https://www.foxnews.com/travel/lost-medieval-castle-found-hiding-plain-sight-professor-spots-telltale-clues",
+    "title": "'Lost' medieval castle found hiding in plain sight after professor spots telltale clues",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A University College Dublin professor found that up to 80% of the medieval Roebuck Castle is still intact beneath Victorian plaster on the modern campus.",
+    "content": [
+      "A University College Dublin professor found that up to 80% of the medieval Roebuck Castle is still intact beneath Victorian plaster on the modern campus.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/IRELAND-ANCIENT-LOST-CASTLE-FOUND-DUBLIN-ARCHAEOLOGY-ANCIENT-HISTORY-DISCOVERY-3.jpg?ve=1&tl=1",
+    "imageCaption": "'Lost' medieval castle found hiding in plain sight after pro... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:00:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-faa5faccf3",
+    "slug": "us-faces-another-major-middle-east-troop-withdrawal-but-threat-remains",
+    "guid": "https://www.foxnews.com/politics/us-faces-major-middle-east-troop-withdrawal-threat-remains",
+    "title": "US faces another major Middle East troop withdrawal, but threat remains",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "About 2,500 U.S. troops had remained in Iraq as part of Operation Inherent Resolve, but Baghdad&apos;s effort to disarm Iran-backed militias remains unfinished.",
+    "content": [
+      "About 2,500 U.S. troops had remained in Iraq as part of Operation Inherent Resolve, but Baghdad&apos;s effort to disarm Iran-backed militias remains unfinished.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/US-Forces-Leave-Iraq.jpg?ve=1&tl=1",
+    "imageCaption": "US faces another major Middle East troop withdrawal, but thr... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:00:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-af12505674",
+    "slug": "liberal-stronghold-set-to-adopt-eye-popping-minimum-wage-amid-business-exodus",
+    "guid": "https://www.foxnews.com/politics/liberal-stronghold-adopt-eye-popping-minimum-wage-amid-business-exodus",
+    "title": "Liberal stronghold set to adopt eye-popping minimum wage amid business exodus",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Seattle&apos;s minimum wage is set to hit $22.14 in 2027 as 450 restaurants closed in early 2025 and job postings dropped 35% since February 2020.",
+    "content": [
+      "Seattle&apos;s minimum wage is set to hit $22.14 in 2027 as 450 restaurants closed in early 2025 and job postings dropped 35% since February 2020.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/starbucks-protesters-in-seattle.jpg?ve=1&tl=1",
+    "imageCaption": "Liberal stronghold set to adopt eye-popping minimum wage ami... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:00:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b233dc6f25",
+    "slug": "inside-the-neighborhood-living-on-the-edge-of-americas-tech-frontier",
+    "guid": "https://www.foxnews.com/politics/inside-neighborhood-living-edge-americas-tech-frontier",
+    "title": "Inside the neighborhood living on the edge of America’s tech frontier",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Loudoun County homeowners on Statesboro Place describe constant noise from Amazon Web Services and Microsoft data centers just 150 feet from backyards.",
+    "content": [
+      "Loudoun County homeowners on Statesboro Place describe constant noise from Amazon Web Services and Microsoft data centers just 150 feet from backyards.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/data-center-va.png?ve=1&tl=1",
+    "imageCaption": "Inside the neighborhood living on the edge of America’s tech... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:00:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c6e6915a8",
+    "slug": "lindsay-clancy-lawyer-raises-explosive-doubt-over-who-killed-her-children",
+    "guid": "https://www.foxnews.com/us/lindsay-clancy-lawyer-raises-explosive-doubt-who-killed-her-children",
+    "title": "Lindsay Clancy lawyer raises explosive doubt over who killed her children",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Lindsay Clancy&apos;s defense attorney Kevin Reddington argued for the first time that prosecutors failed to prove she killed her three children.",
+    "content": [
+      "Lindsay Clancy&apos;s defense attorney Kevin Reddington argued for the first time that prosecutors failed to prove she killed her three children.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lindsay-clancy-9-3-26.jpg?ve=1&tl=1",
+    "imageCaption": "Lindsay Clancy lawyer raises explosive doubt over who killed... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:00:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8c4da88d99",
+    "slug": "us-military-completes-withdrawal-of-troops-from-iraq-after-12-year-mission",
+    "guid": "https://www.foxnews.com/world/us-ends-operation-inherent-resolve-mission-iraq-final-forces-leave-erbil",
+    "title": "US military completes withdrawal of troops from Iraq after 12-year mission",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The U.S. military completed its withdrawal from Erbil Air Base, ending Operation Inherent Resolve in Iraq while relocating its headquarters to Jordan.",
+    "content": [
+      "The U.S. military completed its withdrawal from Erbil Air Base, ending Operation Inherent Resolve in Iraq while relocating its headquarters to Jordan.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/us-troops-iraq-kirkuk.jpg?ve=1&tl=1",
+    "imageCaption": "US military completes withdrawal of troops from Iraq after 1... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:16:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-84e2ca7418",
+    "slug": "ai-broke-the-job-application-what-replaces-it",
+    "guid": "108369419",
+    "title": "AI broke the job application. What replaces it?",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Candidates can use AI to create endless resumes and cover letters. It's forcing businesses to rethink how they hire.",
+    "content": [
+      "Candidates can use AI to create endless resumes and cover letters. It's forcing businesses to rethink how they hire.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AI broke the job application. What replaces it?... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T05:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5fb8a44660",
+    "slug": "openai-is-sued-over-rogue-ai-hugging-face-cyberattack",
+    "guid": "108370049",
+    "title": "OpenAI is sued over rogue AI Hugging Face cyberattack",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The lawsuit appears to be the first publicly reported case seeking to hold an AI developer liable for an incident caused by rogue systems.",
+    "content": [
+      "The lawsuit appears to be the first publicly reported case seeking to hold an AI developer liable for an incident caused by rogue systems.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI is sued over rogue AI Hugging Face cyberattack... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:16:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e835ad11bd",
+    "slug": "dan-ives-prepares-to-debut-fund-offering-access-to-private-companies-fueling-ai-boom",
+    "guid": "108369538",
+    "title": "Dan Ives prepares to debut fund offering access to private companies fueling AI boom",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Yorkville Ives priced a fund aiming to give investors access to the private companies helping develop artificial intelligence.",
+    "content": [
+      "Yorkville Ives priced a fund aiming to give investors access to the private companies helping develop artificial intelligence.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Dan Ives prepares to debut fund offering access to private c... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:21:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-862c62759f",
+    "slug": "russia-targets-data-centers-in-kyiv-as-nato-condemns-moscows-irresponsible-nuclear-rhetori",
+    "guid": "108370028",
+    "title": "Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Russia intensifies attacks on Ukraine’s data centers and communications infrastructure, targeting facilities in Kyiv.",
+    "content": [
+      "Russia intensifies attacks on Ukraine’s data centers and communications infrastructure, targeting facilities in Kyiv.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Russia targets data centers in Kyiv as NATO condemns Moscow’... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T08:33:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-243ff2c2a5",
+    "slug": "boeing-rises-3-after-securing-us-navy-deal-to-develop-next-generation-fighter-jet",
+    "guid": "108369913",
+    "title": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
+    "content": [
+      "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Boeing rises 3% after securing U.S. navy deal to develop nex... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T08:51:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8ee2f7f8b0",
+    "slug": "trump-denies-offering-iran-sanctions-relief-tehran-receives-us-proposal-following-qatar-ta",
+    "guid": "108370034",
+    "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
+    "content": [
+      "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump denies offering Iran sanctions relief; Tehran receives... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:45:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-797aa1bc02",
+    "slug": "ken-griffin-pledges-3-billion-to-carnegie-mellon-university-in-historic-gift",
+    "guid": "108369734",
+    "title": "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
+    "content": [
+      "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Ken Griffin pledges $3 billion to Carnegie Mellon University... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ca660a9387",
+    "slug": "people-switching-to-novos-wegovy-pill-from-obesity-injections-kept-losing-weight-in-real-w",
+    "guid": "108369703",
+    "title": "People switching to Novo's Wegovy pill from obesity injections kept losing weight in real-world study",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
+    "content": [
+      "The data on Novo's Wegovy pill suggests that patients may not need to take weekly injections forever, but can instead opt for more convenient treatments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "People switching to Novo's Wegovy pill from obesity injectio... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T09:45:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-30a9f3ad9a",
+    "slug": "inside-man-how-chinese-spies-used-lies-love-and-betrayal-to-target-the-federal-reserve",
+    "guid": "108365669",
+    "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
+    "content": [
+      "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Inside Man: How Chinese spies used lies, love and betrayal t... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-09-30T10:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-ce98042f59",
     "slug": "inside-mamdanis-fraught-effort-to-rein-in-the-nypd-unit-he-pledged-to-end",
     "guid": "000001a0-ee88-d424-abed-ef88dda20000",
