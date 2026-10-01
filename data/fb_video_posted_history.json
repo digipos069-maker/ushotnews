@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T16:58:55.528901+00:00",
-  "posted_count": 2,
+  "last_updated": "2026-10-01T22:33:35.533502+00:00",
+  "posted_count": 3,
   "articles": {
     "dvids-video:1025076": {
       "title": "2d Cavalry Regiment conducts a Purpose-Built Attritable System (PBAS) live-strike B-roll",
@@ -23,7 +23,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2019593375355809",
       "fb_comment_id": "2019593375355809_1069353632471908",
       "posted_at": "2026-10-01T16:58:55.528826+00:00"
+    },
+    "dvids-video:1025151": {
+      "title": "Design Your Dream Retirement",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112023702/DOD_112023702.mp4",
+      "attached_website_url": "https://ushotnews.online/article/nyc-is-now-the-first-city-in-america-that-bans-sketchy-subscriptions",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2351226602374305",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2351226602374305",
+      "fb_comment_id": "2351226602374305_2538818983268500",
+      "posted_at": "2026-10-01T22:33:35.533446+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-01T16:57:28.485710+00:00"
+  "last_cleaned_at": "2026-10-01T22:32:21.380462+00:00"
 }
