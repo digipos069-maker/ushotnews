@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-01T14:13:22.096270+00:00",
+  "last_updated": "2026-10-01T19:26:48.179645+00:00",
   "posted_count": 52,
   "articles": {
-    "scraped-ca528e7ff5": {
-      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
-      "slug": "eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
-      "url": "https://ushotnews.online/article/eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
-      "article_url": "https://ushotnews.online/article/eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116689513471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116689513471257",
-      "fb_comment_id": "122116689513471257_1571295868343825",
-      "posted_at": "2026-09-28T16:54:23.317805+00:00"
-    },
-    "eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis": {
-      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
-      "slug": "eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
-      "url": "https://ushotnews.online/article/eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
-      "article_url": "https://ushotnews.online/article/eviction-of-87-year-old-sparks-protests-in-madrid-over-housing-crisis",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116689513471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116689513471257",
-      "fb_comment_id": "122116689513471257_1571295868343825",
-      "posted_at": "2026-09-28T16:54:23.317805+00:00"
-    },
     "scraped-d84e165ace": {
       "title": "The Trump administration weakens fuel efficiency standards for new cars",
       "slug": "the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars",
@@ -573,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118260715471257",
       "fb_comment_id": "122118260715471257_1881157022868015",
       "posted_at": "2026-10-01T14:13:22.096202+00:00"
+    },
+    "scraped-3a8231c01e": {
+      "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
+      "slug": "en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
+      "url": "https://ushotnews.online/article/en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
+      "article_url": "https://ushotnews.online/article/en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118374691471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118374691471257",
+      "fb_comment_id": "122118374691471257_1568710877875388",
+      "posted_at": "2026-10-01T19:26:48.179570+00:00"
+    },
+    "en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino": {
+      "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
+      "slug": "en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
+      "url": "https://ushotnews.online/article/en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
+      "article_url": "https://ushotnews.online/article/en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118374691471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118374691471257",
+      "fb_comment_id": "122118374691471257_1568710877875388",
+      "posted_at": "2026-10-01T19:26:48.179570+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-01T14:13:10.729220+00:00"
+  "last_cleaned_at": "2026-10-01T19:26:34.848816+00:00"
 }
