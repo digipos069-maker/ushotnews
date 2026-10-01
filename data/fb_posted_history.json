@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-01T19:42:02.337386+00:00",
+  "last_updated": "2026-10-01T23:23:32.886810+00:00",
   "posted_count": 52,
   "articles": {
-    "scraped-73d7f0849c": {
-      "title": "Americans win Presidents Cup on depth, Scheffler's complicated Sunday, and an overwhelming sense of false hope",
-      "slug": "americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
-      "url": "https://ushotnews.online/article/americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
-      "article_url": "https://ushotnews.online/article/americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116809465471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116809465471257",
-      "fb_comment_id": "122116809465471257_1045246235003309",
-      "posted_at": "2026-09-28T22:25:32.596828+00:00"
-    },
-    "americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se": {
-      "title": "Americans win Presidents Cup on depth, Scheffler's complicated Sunday, and an overwhelming sense of false hope",
-      "slug": "americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
-      "url": "https://ushotnews.online/article/americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
-      "article_url": "https://ushotnews.online/article/americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116809465471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116809465471257",
-      "fb_comment_id": "122116809465471257_1045246235003309",
-      "posted_at": "2026-09-28T22:25:32.596828+00:00"
-    },
     "scraped-81bda7254c": {
       "title": "OpenAI’s AI agents need to catch up",
       "slug": "openais-ai-agents-need-to-catch-up",
@@ -573,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118377133471257",
       "fb_comment_id": "122118377133471257_1612976853744983",
       "posted_at": "2026-10-01T19:42:02.337317+00:00"
+    },
+    "scraped-d5400f18f4": {
+      "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
+      "slug": "a-judge-permanently-dismisses-former-olympians-reflecting-pool-charges",
+      "url": "https://ushotnews.online/article/a-judge-permanently-dismisses-former-olympians-reflecting-pool-charges",
+      "article_url": "https://ushotnews.online/article/a-judge-permanently-dismisses-former-olympians-reflecting-pool-charges",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118441855471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118441855471257",
+      "fb_comment_id": "122118441855471257_1603100768265685",
+      "posted_at": "2026-10-01T23:23:32.886736+00:00"
+    },
+    "a-judge-permanently-dismisses-former-olympians-reflecting-pool-charges": {
+      "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
+      "slug": "a-judge-permanently-dismisses-former-olympians-reflecting-pool-charges",
+      "url": "https://ushotnews.online/article/a-judge-permanently-dismisses-former-olympians-reflecting-pool-charges",
+      "article_url": "https://ushotnews.online/article/a-judge-permanently-dismisses-former-olympians-reflecting-pool-charges",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118441855471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118441855471257",
+      "fb_comment_id": "122118441855471257_1603100768265685",
+      "posted_at": "2026-10-01T23:23:32.886736+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-01T19:41:51.595155+00:00"
+  "last_cleaned_at": "2026-10-01T23:23:24.171448+00:00"
 }
