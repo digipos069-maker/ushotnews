@@ -457,7 +457,7 @@ def fetch_dvids_us_news_videos(max_age_hours: int = 48) -> List[Dict[str, Any]]:
         if resp.status_code == 200:
             root = ET.fromstring(resp.content)
             items = root.findall(".//item")
-            for it in items[:15]:
+            for it in items[:25]:
                 title = it.findtext("title", "").strip()
                 link = it.findtext("link", "").strip()
                 desc = it.findtext("description", "").strip()
@@ -1361,9 +1361,9 @@ def run_video_publisher(
     video_candidates = fetch_trending_videos_from_web(trending_signals=trending_signals)
     logger.info(f"Discovered {len(video_candidates)} candidate trending news videos.")
 
-    # Filter unposted videos
+    # Filter unposted videos across ALL discovered candidates
     unposted = []
-    for v in video_candidates[:pool_size]:
+    for v in video_candidates:
         v_id = str(v.get("guid") or v.get("video_url") or v.get("title"))
         if v_id not in posted_map and v.get("video_url") not in posted_map:
             v["_trending_score"] = calculate_trending_score(v, trending_signals)
@@ -1377,6 +1377,14 @@ def run_video_publisher(
     # Sort by trending score
     unposted.sort(key=lambda x: x.get("_trending_score", 0), reverse=True)
 
+    # Ensure candidate pool preserves direct MP4 sources without premature truncation
+    if pool_size and len(unposted) > pool_size:
+        direct_items = [x for x in unposted if x.get("is_direct_mp4")]
+        other_items = [x for x in unposted if not x.get("is_direct_mp4")]
+        direct_kept = direct_items[:min(len(direct_items), max(20, pool_size // 2))]
+        other_kept = other_items[:max(0, pool_size - len(direct_kept))]
+        unposted = sorted(direct_kept + other_kept, key=lambda x: x.get("_trending_score", 0), reverse=True)
+
     # Step 3: Pick up the latest published news story URL from the website for First Comment
     latest_site_article = get_latest_website_article(api_url, site_url)
     first_comment_text = format_first_comment_with_website_link(latest_site_article)
@@ -1387,11 +1395,10 @@ def run_video_publisher(
     youtube_failures = 0
     max_consecutive_yt_failures = 2
 
-    for item in unposted:
-        if successful_posts >= max_posts_per_run:
-            break
-        if attempt_idx >= max_candidate_attempts:
-            break
+    candidate_queue = list(unposted)
+
+    while candidate_queue and successful_posts < max_posts_per_run and attempt_idx < max_candidate_attempts:
+        item = candidate_queue.pop(0)
 
         video_url = item["video_url"]
         is_youtube = any(yt_host in video_url.lower() for yt_host in ["youtube.com", "youtu.be"])
@@ -1447,6 +1454,11 @@ def run_video_publisher(
                 youtube_failures += 1
                 if youtube_failures >= max_consecutive_yt_failures:
                     logger.warning("⚠️ YouTube bot challenge active on this runner. Circuit breaker activated: immediately prioritizing direct MP4 US news sources (DVIDS, etc.) for remaining candidates.")
+                    # Immediately reorder candidate queue: direct MP4s first, remove failing YouTube candidates
+                    direct_mp4s = [c for c in candidate_queue if c.get("is_direct_mp4")]
+                    other_non_yt = [c for c in candidate_queue if not c.get("is_direct_mp4") and not any(h in c.get("video_url", "").lower() for h in ["youtube.com", "youtu.be"])]
+                    candidate_queue = direct_mp4s + other_non_yt
+                    logger.info(f"🔄 Candidate queue reordered: {len(direct_mp4s)} direct MP4 candidates moved to front of queue.")
 
         upload_path = temp_video_path if downloaded else None
 

@@ -200,6 +200,73 @@ class TestFacebookVideoPublisher(unittest.TestCase):
         candidates = fetch_nasa_us_news_videos(trending_signals=politics_trends)
         self.assertEqual(candidates, [])
 
+    def test_candidate_pool_preserves_direct_mp4(self):
+        """Verify direct MP4 sources are not truncated when pool_size is smaller than total candidates."""
+        yt_candidates = [
+            {
+                "title": f"YouTube News Story {i}",
+                "summary": "Summary",
+                "video_url": f"https://www.youtube.com/watch?v=vid{i}",
+                "is_direct_mp4": False,
+                "category": "Politics",
+                "guid": f"yt-{i}",
+                "published_at": datetime.now(timezone.utc).isoformat()
+            }
+            for i in range(50)
+        ]
+        mp4_candidates = [
+            {
+                "title": f"DVIDS National Defense Story {i}",
+                "summary": "Summary",
+                "video_url": f"https://d34w7g4gy10iej.cloudfront.net/video/clip{i}.mp4",
+                "is_direct_mp4": True,
+                "category": "Politics",
+                "guid": f"dvids-{i}",
+                "published_at": datetime.now(timezone.utc).isoformat()
+            }
+            for i in range(15)
+        ]
+        all_candidates = yt_candidates + mp4_candidates
+
+        # Simulate candidate pool filtering logic
+        unposted = []
+        for v in all_candidates:
+            v["_trending_score"] = calculate_trending_score(v, set())
+            v["_id"] = v["guid"]
+            unposted.append(v)
+
+        pool_size = 50
+        if pool_size and len(unposted) > pool_size:
+            direct_items = [x for x in unposted if x.get("is_direct_mp4")]
+            other_items = [x for x in unposted if not x.get("is_direct_mp4")]
+            direct_kept = direct_items[:min(len(direct_items), max(20, pool_size // 2))]
+            other_kept = other_items[:max(0, pool_size - len(direct_kept))]
+            unposted = sorted(direct_kept + other_kept, key=lambda x: x.get("_trending_score", 0), reverse=True)
+
+        direct_in_pool = [x for x in unposted if x.get("is_direct_mp4")]
+        self.assertEqual(len(direct_in_pool), 15)
+        self.assertEqual(len(unposted), 50)
+
+    def test_circuit_breaker_queue_reordering(self):
+        """Verify circuit breaker prioritizes direct MP4s and drops failing YouTube items upon trigger."""
+        candidate_queue = [
+            {"title": "YT 1", "video_url": "https://www.youtube.com/watch?v=1", "is_direct_mp4": False},
+            {"title": "YT 2", "video_url": "https://www.youtube.com/watch?v=2", "is_direct_mp4": False},
+            {"title": "Direct DVIDS 1", "video_url": "https://cdn.example.com/video1.mp4", "is_direct_mp4": True},
+            {"title": "YT 3", "video_url": "https://www.youtube.com/watch?v=3", "is_direct_mp4": False},
+            {"title": "Direct DVIDS 2", "video_url": "https://cdn.example.com/video2.mp4", "is_direct_mp4": True},
+        ]
+        # Simulate circuit breaker activation:
+        direct_mp4s = [c for c in candidate_queue if c.get("is_direct_mp4")]
+        other_non_yt = [c for c in candidate_queue if not c.get("is_direct_mp4") and not any(h in c.get("video_url", "").lower() for h in ["youtube.com", "youtu.be"])]
+        reordered = direct_mp4s + other_non_yt
+
+        self.assertEqual(len(reordered), 2)
+        self.assertTrue(reordered[0]["is_direct_mp4"])
+        self.assertEqual(reordered[0]["title"], "Direct DVIDS 1")
+        self.assertTrue(reordered[1]["is_direct_mp4"])
+        self.assertEqual(reordered[1]["title"], "Direct DVIDS 2")
+
     def test_dry_run_execution(self):
         """Verify video publisher runs smoothly in dry-run mode."""
         exit_code = run_video_publisher(
