@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T00:09:12.410391+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-01T00:41:53.589337+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-4d7fa6bd8c": {
       "title": "Dabble Promo Code FOXNEWS: Play $5, Get $50 on Rams vs Broncos",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117953977471257",
       "fb_comment_id": "122117953977471257_1819327565872270",
       "posted_at": "2026-10-01T00:09:12.410331+00:00"
+    },
+    "scraped-3bdff5888e": {
+      "title": "Ana Montana, girlfriend to NBA star LaMelo Ball, arrested on felony drug charges in North Carolina",
+      "slug": "ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
+      "url": "https://ushotnews.online/article/ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
+      "article_url": "https://ushotnews.online/article/ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117965659471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117965659471257",
+      "fb_comment_id": "122117965659471257_2524904074642507",
+      "posted_at": "2026-10-01T00:41:53.589270+00:00"
+    },
+    "ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca": {
+      "title": "Ana Montana, girlfriend to NBA star LaMelo Ball, arrested on felony drug charges in North Carolina",
+      "slug": "ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
+      "url": "https://ushotnews.online/article/ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
+      "article_url": "https://ushotnews.online/article/ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122117965659471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117965659471257",
+      "fb_comment_id": "122117965659471257_2524904074642507",
+      "posted_at": "2026-10-01T00:41:53.589270+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-01T00:08:54.873638+00:00"
+  "last_cleaned_at": "2026-10-01T00:41:42.898762+00:00"
 }
