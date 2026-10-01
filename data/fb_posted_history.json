@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T13:49:44.509016+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-01T14:13:22.096270+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-ca528e7ff5": {
       "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118250383471257",
       "fb_comment_id": "122118250383471257_1117665851185981",
       "posted_at": "2026-10-01T13:49:44.508952+00:00"
+    },
+    "scraped-b17b5d8359": {
+      "title": "Samsung raised prices on the Galaxy S26 by $100",
+      "slug": "samsung-raised-prices-on-the-galaxy-s26-by-100",
+      "url": "https://ushotnews.online/article/samsung-raised-prices-on-the-galaxy-s26-by-100",
+      "article_url": "https://ushotnews.online/article/samsung-raised-prices-on-the-galaxy-s26-by-100",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118260715471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118260715471257",
+      "fb_comment_id": "122118260715471257_1881157022868015",
+      "posted_at": "2026-10-01T14:13:22.096202+00:00"
+    },
+    "samsung-raised-prices-on-the-galaxy-s26-by-100": {
+      "title": "Samsung raised prices on the Galaxy S26 by $100",
+      "slug": "samsung-raised-prices-on-the-galaxy-s26-by-100",
+      "url": "https://ushotnews.online/article/samsung-raised-prices-on-the-galaxy-s26-by-100",
+      "article_url": "https://ushotnews.online/article/samsung-raised-prices-on-the-galaxy-s26-by-100",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118260715471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118260715471257",
+      "fb_comment_id": "122118260715471257_1881157022868015",
+      "posted_at": "2026-10-01T14:13:22.096202+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-01T13:49:31.899307+00:00"
+  "last_cleaned_at": "2026-10-01T14:13:10.729220+00:00"
 }
