@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-01T19:26:48.179645+00:00",
+  "last_updated": "2026-10-01T19:42:02.337386+00:00",
   "posted_count": 52,
   "articles": {
-    "scraped-d84e165ace": {
-      "title": "The Trump administration weakens fuel efficiency standards for new cars",
-      "slug": "the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars",
-      "url": "https://ushotnews.online/article/the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars",
-      "article_url": "https://ushotnews.online/article/the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116751127471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116751127471257",
-      "fb_comment_id": "122116751127471257_1075046392071057",
-      "posted_at": "2026-09-28T19:36:13.242035+00:00"
-    },
-    "the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars": {
-      "title": "The Trump administration weakens fuel efficiency standards for new cars",
-      "slug": "the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars",
-      "url": "https://ushotnews.online/article/the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars",
-      "article_url": "https://ushotnews.online/article/the-trump-administration-weakens-fuel-efficiency-standards-for-new-cars",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116751127471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116751127471257",
-      "fb_comment_id": "122116751127471257_1075046392071057",
-      "posted_at": "2026-09-28T19:36:13.242035+00:00"
-    },
     "scraped-73d7f0849c": {
       "title": "Americans win Presidents Cup on depth, Scheffler's complicated Sunday, and an overwhelming sense of false hope",
       "slug": "americans-win-presidents-cup-on-depth-schefflers-complicated-sunday-and-an-overwhelming-se",
@@ -573,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118374691471257",
       "fb_comment_id": "122118374691471257_1568710877875388",
       "posted_at": "2026-10-01T19:26:48.179570+00:00"
+    },
+    "scraped-f1b2cbf4f2": {
+      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+      "slug": "steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "url": "https://ushotnews.online/article/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "article_url": "https://ushotnews.online/article/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118377133471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118377133471257",
+      "fb_comment_id": "122118377133471257_1612976853744983",
+      "posted_at": "2026-10-01T19:42:02.337317+00:00"
+    },
+    "steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for": {
+      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+      "slug": "steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "url": "https://ushotnews.online/article/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "article_url": "https://ushotnews.online/article/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118377133471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118377133471257",
+      "fb_comment_id": "122118377133471257_1612976853744983",
+      "posted_at": "2026-10-01T19:42:02.337317+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-01T19:26:34.848816+00:00"
+  "last_cleaned_at": "2026-10-01T19:41:51.595155+00:00"
 }
