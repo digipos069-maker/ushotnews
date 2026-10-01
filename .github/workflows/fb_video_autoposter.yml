@@ -2,8 +2,8 @@ name: Facebook Page Video Auto-Publisher (Trending US Real News Video)
 
 on:
   schedule:
-    # Runs every 2 hours at minute 0
-    - cron: '0 */2 * * *'
+    # Runs every 7 hours at minute 0
+    - cron: '0 */7 * * *'
   workflow_dispatch: # Allows manual "Run workflow" trigger in GitHub Actions
 
 permissions:
