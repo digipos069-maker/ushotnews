@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T06:27:35.617862+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-01T06:52:26.204391+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-57885b1023": {
       "title": "Scientists discover two new species of sea spiders along Canadian coastline",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122118081465471257",
       "fb_comment_id": "122118081465471257_28424029077280397",
       "posted_at": "2026-10-01T06:27:35.617801+00:00"
+    },
+    "scraped-6930ab6e34": {
+      "title": "The new and huger Paramount has a new co-CEO",
+      "slug": "the-new-and-huger-paramount-has-a-new-co-ceo",
+      "url": "https://ushotnews.online/article/the-new-and-huger-paramount-has-a-new-co-ceo",
+      "article_url": "https://ushotnews.online/article/the-new-and-huger-paramount-has-a-new-co-ceo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118088287471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122118088287471257",
+      "fb_comment_id": "122118088287471257_1773228147157086",
+      "posted_at": "2026-10-01T06:52:26.204287+00:00"
+    },
+    "the-new-and-huger-paramount-has-a-new-co-ceo": {
+      "title": "The new and huger Paramount has a new co-CEO",
+      "slug": "the-new-and-huger-paramount-has-a-new-co-ceo",
+      "url": "https://ushotnews.online/article/the-new-and-huger-paramount-has-a-new-co-ceo",
+      "article_url": "https://ushotnews.online/article/the-new-and-huger-paramount-has-a-new-co-ceo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118088287471257",
+      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122118088287471257",
+      "fb_comment_id": "122118088287471257_1773228147157086",
+      "posted_at": "2026-10-01T06:52:26.204287+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-01T06:27:24.526720+00:00"
+  "last_cleaned_at": "2026-10-01T06:52:15.718118+00:00"
 }
