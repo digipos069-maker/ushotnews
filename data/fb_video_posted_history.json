@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T04:30:59.167257+00:00",
-  "posted_count": 4,
+  "last_updated": "2026-10-02T05:06:05.081998+00:00",
+  "posted_count": 5,
   "articles": {
     "dvids-video:1025076": {
       "title": "2d Cavalry Regiment conducts a Purpose-Built Attritable System (PBAS) live-strike B-roll",
@@ -45,7 +45,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1770021780918312",
       "fb_comment_id": "1770021780918312_1402993372047318",
       "posted_at": "2026-10-02T04:30:59.167182+00:00"
+    },
+    "dvids-video:1025198": {
+      "title": "Ruff Trails: Military Working Dogs in the Jungle (CLEAN)",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112024593/DOD_112024593.mp4",
+      "attached_website_url": "https://ushotnews.online/article/adam-hamilton-on-faith-trump-and-the-fight-for-kansas",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1119550307696224",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1119550307696224",
+      "fb_comment_id": "1119550307696224_2173987786799696",
+      "posted_at": "2026-10-02T05:06:05.081936+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-02T04:29:51.651677+00:00"
+  "last_cleaned_at": "2026-10-02T05:05:03.653807+00:00"
 }
