@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T12:16:46.303539+00:00",
-  "posted_count": 7,
+  "last_updated": "2026-10-02T19:06:59.035866+00:00",
+  "posted_count": 8,
   "articles": {
     "dvids-video:1025076": {
       "title": "2d Cavalry Regiment conducts a Purpose-Built Attritable System (PBAS) live-strike B-roll",
@@ -78,7 +78,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1118217507332408",
       "fb_comment_id": "1118217507332408_2104813810397498",
       "posted_at": "2026-10-02T12:16:46.303476+00:00"
+    },
+    "dvids-video:1025263": {
+      "title": "Bahrain Tour Conversion & PCS Orders",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112025744/DOD_112025744.mp4",
+      "attached_website_url": "https://ushotnews.online/article/star-wars-galactic-racer-is-my-childhood-podracing-dream-come-true",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1827123475152624",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1827123475152624",
+      "fb_comment_id": "1827123475152624_1106081268481820",
+      "posted_at": "2026-10-02T19:06:59.035802+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-02T12:15:04.835260+00:00"
+  "last_cleaned_at": "2026-10-02T19:05:41.765548+00:00"
 }
