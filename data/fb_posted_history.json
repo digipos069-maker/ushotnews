@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T15:43:40.919407+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-10-02T16:31:14.233323+00:00",
+  "posted_count": 54,
   "articles": {
     "scraped-02cf8ef49a": {
       "title": "Democrat Pete Buttigieg criticizes Trump's rollback of fuel-economy standards",
@@ -573,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118817335471257",
       "fb_comment_id": "122118817335471257_1655401502774935",
       "posted_at": "2026-10-02T15:43:40.919360+00:00"
+    },
+    "scraped-dd2205701e": {
+      "title": "Why is diesel more expensive than regular gas?",
+      "slug": "why-is-diesel-more-expensive-than-regular-gas",
+      "url": "https://ushotnews.online/article/why-is-diesel-more-expensive-than-regular-gas",
+      "article_url": "https://ushotnews.online/article/why-is-diesel-more-expensive-than-regular-gas",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118839019471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118839019471257",
+      "fb_comment_id": "122118839019471257_4453654114781117",
+      "posted_at": "2026-10-02T16:31:14.233266+00:00"
+    },
+    "why-is-diesel-more-expensive-than-regular-gas": {
+      "title": "Why is diesel more expensive than regular gas?",
+      "slug": "why-is-diesel-more-expensive-than-regular-gas",
+      "url": "https://ushotnews.online/article/why-is-diesel-more-expensive-than-regular-gas",
+      "article_url": "https://ushotnews.online/article/why-is-diesel-more-expensive-than-regular-gas",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118839019471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118839019471257",
+      "fb_comment_id": "122118839019471257_4453654114781117",
+      "posted_at": "2026-10-02T16:31:14.233266+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-02T15:43:28.616177+00:00"
+  "last_cleaned_at": "2026-10-02T16:31:01.780637+00:00"
 }
