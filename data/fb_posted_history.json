@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T20:38:41.593892+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-10-02T20:55:48.312267+00:00",
+  "posted_count": 54,
   "articles": {
     "scraped-cb734fbf5f": {
       "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
@@ -573,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118950925471257",
       "fb_comment_id": "122118950925471257_1601227524457667",
       "posted_at": "2026-10-02T20:38:41.593830+00:00"
+    },
+    "scraped-dbd0d0f358": {
+      "title": "Germany's political center fights for relevance after far-right and far-left gains",
+      "slug": "germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
+      "url": "https://ushotnews.online/article/germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
+      "article_url": "https://ushotnews.online/article/germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118954339471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118954339471257",
+      "fb_comment_id": "122118954339471257_2342282549885001",
+      "posted_at": "2026-10-02T20:55:48.312193+00:00"
+    },
+    "germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains": {
+      "title": "Germany's political center fights for relevance after far-right and far-left gains",
+      "slug": "germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
+      "url": "https://ushotnews.online/article/germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
+      "article_url": "https://ushotnews.online/article/germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118954339471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118954339471257",
+      "fb_comment_id": "122118954339471257_2342282549885001",
+      "posted_at": "2026-10-02T20:55:48.312193+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-02T20:38:31.000521+00:00"
+  "last_cleaned_at": "2026-10-02T20:55:38.296230+00:00"
 }
