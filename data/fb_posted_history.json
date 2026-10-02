@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-02T04:14:39.415261+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-02T08:58:50.625550+00:00",
+  "posted_count": 52,
   "articles": {
-    "scraped-e533805573": {
-      "title": "ABC's 'The View' co-host Ana Navarro urges viewers to vote for Dem in key Florida congressional race",
-      "slug": "abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
-      "url": "https://ushotnews.online/article/abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
-      "article_url": "https://ushotnews.online/article/abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116966281471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116966281471257",
-      "fb_comment_id": "122116966281471257_1157824190248379",
-      "posted_at": "2026-09-29T06:06:10.840360+00:00"
-    },
-    "abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression": {
-      "title": "ABC's 'The View' co-host Ana Navarro urges viewers to vote for Dem in key Florida congressional race",
-      "slug": "abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
-      "url": "https://ushotnews.online/article/abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
-      "article_url": "https://ushotnews.online/article/abcs-the-view-co-host-ana-navarro-urges-viewers-to-vote-for-dem-in-key-florida-congression",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122116966281471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122116966281471257",
-      "fb_comment_id": "122116966281471257_1157824190248379",
-      "posted_at": "2026-09-29T06:06:10.840360+00:00"
-    },
-    "scraped-06a2e4c81b": {
-      "title": "Trump finalizes rule to make cars less fuel efficient",
-      "slug": "trump-finalizes-rule-to-make-cars-less-fuel-efficient",
-      "url": "https://ushotnews.online/article/trump-finalizes-rule-to-make-cars-less-fuel-efficient",
-      "article_url": "https://ushotnews.online/article/trump-finalizes-rule-to-make-cars-less-fuel-efficient",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117030463471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117030463471257",
-      "fb_comment_id": "122117030463471257_2122415588484283",
-      "posted_at": "2026-09-29T08:52:38.076664+00:00"
-    },
-    "trump-finalizes-rule-to-make-cars-less-fuel-efficient": {
-      "title": "Trump finalizes rule to make cars less fuel efficient",
-      "slug": "trump-finalizes-rule-to-make-cars-less-fuel-efficient",
-      "url": "https://ushotnews.online/article/trump-finalizes-rule-to-make-cars-less-fuel-efficient",
-      "article_url": "https://ushotnews.online/article/trump-finalizes-rule-to-make-cars-less-fuel-efficient",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117030463471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117030463471257",
-      "fb_comment_id": "122117030463471257_2122415588484283",
-      "posted_at": "2026-09-29T08:52:38.076664+00:00"
-    },
     "scraped-d12bf9fe49": {
       "title": "India readies $25 billion for Deep Tech investment as U.S. and China race ahead",
       "slug": "india-readies-25-billion-for-deep-tech-investment-as-us-and-china-race-ahead",
@@ -595,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118545097471257",
       "fb_comment_id": "122118545097471257_1109645031574930",
       "posted_at": "2026-10-02T04:14:39.415093+00:00"
+    },
+    "scraped-ad81b4325d": {
+      "title": "AOC's dramatic retelling of Cornell rape allegations collides with complaint details",
+      "slug": "aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
+      "url": "https://ushotnews.online/article/aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
+      "article_url": "https://ushotnews.online/article/aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118645849471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118645849471257",
+      "fb_comment_id": "122118645849471257_4377770555886875",
+      "posted_at": "2026-10-02T08:58:50.625496+00:00"
+    },
+    "aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details": {
+      "title": "AOC's dramatic retelling of Cornell rape allegations collides with complaint details",
+      "slug": "aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
+      "url": "https://ushotnews.online/article/aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
+      "article_url": "https://ushotnews.online/article/aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118645849471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118645849471257",
+      "fb_comment_id": "122118645849471257_4377770555886875",
+      "posted_at": "2026-10-02T08:58:50.625496+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-02T04:14:30.092402+00:00"
+  "last_cleaned_at": "2026-10-02T08:58:40.772114+00:00"
 }
