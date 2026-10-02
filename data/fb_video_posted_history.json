@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T09:36:19.144948+00:00",
-  "posted_count": 6,
+  "last_updated": "2026-10-02T12:16:46.303539+00:00",
+  "posted_count": 7,
   "articles": {
     "dvids-video:1025076": {
       "title": "2d Cavalry Regiment conducts a Purpose-Built Attritable System (PBAS) live-strike B-roll",
@@ -67,7 +67,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1103570338892128",
       "fb_comment_id": "1103570338892128_1118534607326497",
       "posted_at": "2026-10-02T09:36:19.144848+00:00"
+    },
+    "dvids-video:1025228": {
+      "title": "AFN Naples GoPro B-Roll Package - Step Forward For Prevention",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112025019/DOD_112025019.mp4",
+      "attached_website_url": "https://ushotnews.online/article/ai-music-maker-suno-now-generates-spoken-words",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1118217507332408",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1118217507332408",
+      "fb_comment_id": "1118217507332408_2104813810397498",
+      "posted_at": "2026-10-02T12:16:46.303476+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-02T09:35:01.986814+00:00"
+  "last_cleaned_at": "2026-10-02T12:15:04.835260+00:00"
 }
