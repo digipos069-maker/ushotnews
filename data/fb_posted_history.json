@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T02:32:01.280865+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-10-02T04:14:39.415261+00:00",
+  "posted_count": 54,
   "articles": {
     "scraped-e533805573": {
       "title": "ABC's 'The View' co-host Ana Navarro urges viewers to vote for Dem in key Florida congressional race",
@@ -573,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118519525471257",
       "fb_comment_id": "122118519525471257_2624471634673875",
       "posted_at": "2026-10-02T02:32:01.280783+00:00"
+    },
+    "scraped-f67b3a2bd5": {
+      "title": "Norwegian soccer star files lawsuit against airline that photoshopped his hair onto an airplane",
+      "slug": "norwegian-soccer-star-files-lawsuit-against-airline-that-photoshopped-his-hair-onto-an-air",
+      "url": "https://ushotnews.online/article/norwegian-soccer-star-files-lawsuit-against-airline-that-photoshopped-his-hair-onto-an-air",
+      "article_url": "https://ushotnews.online/article/norwegian-soccer-star-files-lawsuit-against-airline-that-photoshopped-his-hair-onto-an-air",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118545097471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118545097471257",
+      "fb_comment_id": "122118545097471257_1109645031574930",
+      "posted_at": "2026-10-02T04:14:39.415093+00:00"
+    },
+    "norwegian-soccer-star-files-lawsuit-against-airline-that-photoshopped-his-hair-onto-an-air": {
+      "title": "Norwegian soccer star files lawsuit against airline that photoshopped his hair onto an airplane",
+      "slug": "norwegian-soccer-star-files-lawsuit-against-airline-that-photoshopped-his-hair-onto-an-air",
+      "url": "https://ushotnews.online/article/norwegian-soccer-star-files-lawsuit-against-airline-that-photoshopped-his-hair-onto-an-air",
+      "article_url": "https://ushotnews.online/article/norwegian-soccer-star-files-lawsuit-against-airline-that-photoshopped-his-hair-onto-an-air",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118545097471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118545097471257",
+      "fb_comment_id": "122118545097471257_1109645031574930",
+      "posted_at": "2026-10-02T04:14:39.415093+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-02T02:31:49.692751+00:00"
+  "last_cleaned_at": "2026-10-02T04:14:30.092402+00:00"
 }
