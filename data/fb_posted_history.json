@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-02T16:31:14.233323+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-02T20:38:41.593892+00:00",
+  "posted_count": 52,
   "articles": {
-    "scraped-02cf8ef49a": {
-      "title": "Democrat Pete Buttigieg criticizes Trump's rollback of fuel-economy standards",
-      "slug": "democrat-pete-buttigieg-criticizes-trumps-rollback-of-fuel-economy-standards",
-      "url": "https://ushotnews.online/article/democrat-pete-buttigieg-criticizes-trumps-rollback-of-fuel-economy-standards",
-      "article_url": "https://ushotnews.online/article/democrat-pete-buttigieg-criticizes-trumps-rollback-of-fuel-economy-standards",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117286417471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117286417471257",
-      "fb_comment_id": "122117286417471257_1125914993430404",
-      "posted_at": "2026-09-29T18:50:25.988920+00:00"
-    },
-    "democrat-pete-buttigieg-criticizes-trumps-rollback-of-fuel-economy-standards": {
-      "title": "Democrat Pete Buttigieg criticizes Trump's rollback of fuel-economy standards",
-      "slug": "democrat-pete-buttigieg-criticizes-trumps-rollback-of-fuel-economy-standards",
-      "url": "https://ushotnews.online/article/democrat-pete-buttigieg-criticizes-trumps-rollback-of-fuel-economy-standards",
-      "article_url": "https://ushotnews.online/article/democrat-pete-buttigieg-criticizes-trumps-rollback-of-fuel-economy-standards",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117286417471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117286417471257",
-      "fb_comment_id": "122117286417471257_1125914993430404",
-      "posted_at": "2026-09-29T18:50:25.988920+00:00"
-    },
-    "scraped-a099018163": {
-      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-      "slug": "meta8217s-muse-ai-sent-a-youtubers-address-to-a-stranger",
-      "url": "https://ushotnews.online/article/meta8217s-muse-ai-sent-a-youtubers-address-to-a-stranger",
-      "article_url": "https://ushotnews.online/article/meta8217s-muse-ai-sent-a-youtubers-address-to-a-stranger",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117321109471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117321109471257",
-      "fb_comment_id": "122117321109471257_969431542156008",
-      "posted_at": "2026-09-29T20:08:22.636385+00:00"
-    },
-    "meta8217s-muse-ai-sent-a-youtubers-address-to-a-stranger": {
-      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-      "slug": "meta8217s-muse-ai-sent-a-youtubers-address-to-a-stranger",
-      "url": "https://ushotnews.online/article/meta8217s-muse-ai-sent-a-youtubers-address-to-a-stranger",
-      "article_url": "https://ushotnews.online/article/meta8217s-muse-ai-sent-a-youtubers-address-to-a-stranger",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117321109471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117321109471257",
-      "fb_comment_id": "122117321109471257_969431542156008",
-      "posted_at": "2026-09-29T20:08:22.636385+00:00"
-    },
     "scraped-cb734fbf5f": {
       "title": "U.S. Supreme Court sides with Trump administration in third-country deportations",
       "slug": "us-supreme-court-sides-with-trump-administration-in-third-country-deportations",
@@ -595,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118839019471257",
       "fb_comment_id": "122118839019471257_4453654114781117",
       "posted_at": "2026-10-02T16:31:14.233266+00:00"
+    },
+    "scraped-06bf941d83": {
+      "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
+      "slug": "keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
+      "url": "https://ushotnews.online/article/keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
+      "article_url": "https://ushotnews.online/article/keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118950925471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118950925471257",
+      "fb_comment_id": "122118950925471257_1601227524457667",
+      "posted_at": "2026-10-02T20:38:41.593830+00:00"
+    },
+    "keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks": {
+      "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
+      "slug": "keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
+      "url": "https://ushotnews.online/article/keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
+      "article_url": "https://ushotnews.online/article/keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122118950925471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118950925471257",
+      "fb_comment_id": "122118950925471257_1601227524457667",
+      "posted_at": "2026-10-02T20:38:41.593830+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-02T16:31:01.780637+00:00"
+  "last_cleaned_at": "2026-10-02T20:38:31.000521+00:00"
 }
