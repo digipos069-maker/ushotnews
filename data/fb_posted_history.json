@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T00:11:01.181359+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-10-03T00:23:52.104692+00:00",
+  "posted_count": 54,
   "articles": {
     "scraped-e7f6e15c33": {
       "title": "Muse is crushing these consumer stocks. Cramer says some may be worth a look",
@@ -573,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119010661471257",
       "fb_comment_id": "122119010661471257_1068122546067333",
       "posted_at": "2026-10-03T00:11:01.181298+00:00"
+    },
+    "scraped-3f0a5b0b50": {
+      "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
+      "slug": "as-trumps-proposed-arch-looms-over-dc-protesters-pin-their-hopes-on-the-midterms",
+      "url": "https://ushotnews.online/article/as-trumps-proposed-arch-looms-over-dc-protesters-pin-their-hopes-on-the-midterms",
+      "article_url": "https://ushotnews.online/article/as-trumps-proposed-arch-looms-over-dc-protesters-pin-their-hopes-on-the-midterms",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119014489471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119014489471257",
+      "fb_comment_id": "122119014489471257_1687108066193427",
+      "posted_at": "2026-10-03T00:23:52.104604+00:00"
+    },
+    "as-trumps-proposed-arch-looms-over-dc-protesters-pin-their-hopes-on-the-midterms": {
+      "title": "As Trump's proposed arch looms over D.C., protesters pin their hopes on the midterms",
+      "slug": "as-trumps-proposed-arch-looms-over-dc-protesters-pin-their-hopes-on-the-midterms",
+      "url": "https://ushotnews.online/article/as-trumps-proposed-arch-looms-over-dc-protesters-pin-their-hopes-on-the-midterms",
+      "article_url": "https://ushotnews.online/article/as-trumps-proposed-arch-looms-over-dc-protesters-pin-their-hopes-on-the-midterms",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119014489471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119014489471257",
+      "fb_comment_id": "122119014489471257_1687108066193427",
+      "posted_at": "2026-10-03T00:23:52.104604+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T00:10:51.050797+00:00"
+  "last_cleaned_at": "2026-10-03T00:23:42.203151+00:00"
 }
