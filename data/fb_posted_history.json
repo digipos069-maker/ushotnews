@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-03T05:40:09.337480+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-03T11:10:22.701897+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-1bec2f6543": {
-      "title": "Goldman Sachs CEO succession planning faces one big problem",
-      "slug": "goldman-sachs-ceo-succession-planning-faces-one-big-problem",
-      "url": "https://ushotnews.online/article/goldman-sachs-ceo-succession-planning-faces-one-big-problem",
-      "article_url": "https://ushotnews.online/article/goldman-sachs-ceo-succession-planning-faces-one-big-problem",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117546439471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117546439471257",
-      "fb_comment_id": "122117546439471257_925818753727687",
-      "posted_at": "2026-09-30T08:25:07.144892+00:00"
-    },
-    "goldman-sachs-ceo-succession-planning-faces-one-big-problem": {
-      "title": "Goldman Sachs CEO succession planning faces one big problem",
-      "slug": "goldman-sachs-ceo-succession-planning-faces-one-big-problem",
-      "url": "https://ushotnews.online/article/goldman-sachs-ceo-succession-planning-faces-one-big-problem",
-      "article_url": "https://ushotnews.online/article/goldman-sachs-ceo-succession-planning-faces-one-big-problem",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117546439471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117546439471257",
-      "fb_comment_id": "122117546439471257_925818753727687",
-      "posted_at": "2026-09-30T08:25:07.144892+00:00"
-    },
-    "scraped-68cf2bc9b0": {
-      "title": "UCF Knights salute Mercury, Gemini, and Apollo programs with slick new Space U uniforms",
-      "slug": "ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
-      "url": "https://ushotnews.online/article/ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
-      "article_url": "https://ushotnews.online/article/ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117606991471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117606991471257",
-      "fb_comment_id": "122117606991471257_2565635093948835",
-      "posted_at": "2026-09-30T10:39:26.144579+00:00"
-    },
-    "ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms": {
-      "title": "UCF Knights salute Mercury, Gemini, and Apollo programs with slick new Space U uniforms",
-      "slug": "ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
-      "url": "https://ushotnews.online/article/ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
-      "article_url": "https://ushotnews.online/article/ucf-knights-salute-mercury-gemini-and-apollo-programs-with-slick-new-space-u-uniforms",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117606991471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117606991471257",
-      "fb_comment_id": "122117606991471257_2565635093948835",
-      "posted_at": "2026-09-30T10:39:26.144579+00:00"
-    },
     "scraped-c467a7a028": {
       "title": "LEE CARTER: Trump can still get attention, can he distract voters from their bills?",
       "slug": "lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119113321471257",
       "fb_comment_id": "122119113321471257_1804503840570745",
       "posted_at": "2026-10-03T05:40:09.337421+00:00"
+    },
+    "scraped-684de2c907": {
+      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+      "slug": "how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
+      "url": "https://ushotnews.online/article/how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
+      "article_url": "https://ushotnews.online/article/how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119227309471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119227309471257",
+      "fb_comment_id": "122119227309471257_2370072923801866",
+      "posted_at": "2026-10-03T11:10:22.701827+00:00"
+    },
+    "how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility": {
+      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
+      "slug": "how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
+      "url": "https://ushotnews.online/article/how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
+      "article_url": "https://ushotnews.online/article/how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119227309471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119227309471257",
+      "fb_comment_id": "122119227309471257_2370072923801866",
+      "posted_at": "2026-10-03T11:10:22.701827+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T05:39:55.647210+00:00"
+  "last_cleaned_at": "2026-10-03T11:10:12.830527+00:00"
 }
