@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T05:35:40.905533+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-03T05:40:09.337480+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-1bec2f6543": {
       "title": "Goldman Sachs CEO succession planning faces one big problem",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119111731471257",
       "fb_comment_id": "122119111731471257_1407325298239091",
       "posted_at": "2026-10-03T05:35:40.905462+00:00"
+    },
+    "scraped-0168de22a8": {
+      "title": "Jared Kushner scolds CNN over 'deeply misleading’ report, says key info buried behind paywall",
+      "slug": "jared-kushner-scolds-cnn-over-deeply-misleading-report-says-key-info-buried-behind-paywall",
+      "url": "https://ushotnews.online/article/jared-kushner-scolds-cnn-over-deeply-misleading-report-says-key-info-buried-behind-paywall",
+      "article_url": "https://ushotnews.online/article/jared-kushner-scolds-cnn-over-deeply-misleading-report-says-key-info-buried-behind-paywall",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119113321471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119113321471257",
+      "fb_comment_id": "122119113321471257_1804503840570745",
+      "posted_at": "2026-10-03T05:40:09.337421+00:00"
+    },
+    "jared-kushner-scolds-cnn-over-deeply-misleading-report-says-key-info-buried-behind-paywall": {
+      "title": "Jared Kushner scolds CNN over 'deeply misleading’ report, says key info buried behind paywall",
+      "slug": "jared-kushner-scolds-cnn-over-deeply-misleading-report-says-key-info-buried-behind-paywall",
+      "url": "https://ushotnews.online/article/jared-kushner-scolds-cnn-over-deeply-misleading-report-says-key-info-buried-behind-paywall",
+      "article_url": "https://ushotnews.online/article/jared-kushner-scolds-cnn-over-deeply-misleading-report-says-key-info-buried-behind-paywall",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119113321471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119113321471257",
+      "fb_comment_id": "122119113321471257_1804503840570745",
+      "posted_at": "2026-10-03T05:40:09.337421+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T05:35:33.149269+00:00"
+  "last_cleaned_at": "2026-10-03T05:39:55.647210+00:00"
 }
