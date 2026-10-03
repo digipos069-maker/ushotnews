@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T11:10:22.701897+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-03T11:33:13.212763+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-c467a7a028": {
       "title": "LEE CARTER: Trump can still get attention, can he distract voters from their bills?",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119227309471257",
       "fb_comment_id": "122119227309471257_2370072923801866",
       "posted_at": "2026-10-03T11:10:22.701827+00:00"
+    },
+    "scraped-e1b1113741": {
+      "title": "FlyDubai co-pilot accused of stabbing captain identified as 29-year-old Omani national",
+      "slug": "flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
+      "url": "https://ushotnews.online/article/flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
+      "article_url": "https://ushotnews.online/article/flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119233849471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119233849471257",
+      "fb_comment_id": "122119233849471257_1646054750235770",
+      "posted_at": "2026-10-03T11:33:13.212710+00:00"
+    },
+    "flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national": {
+      "title": "FlyDubai co-pilot accused of stabbing captain identified as 29-year-old Omani national",
+      "slug": "flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
+      "url": "https://ushotnews.online/article/flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
+      "article_url": "https://ushotnews.online/article/flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119233849471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119233849471257",
+      "fb_comment_id": "122119233849471257_1646054750235770",
+      "posted_at": "2026-10-03T11:33:13.212710+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T11:10:12.830527+00:00"
+  "last_cleaned_at": "2026-10-03T11:32:59.375432+00:00"
 }
