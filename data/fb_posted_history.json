@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T11:33:13.212763+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-03T15:12:08.490250+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-c467a7a028": {
       "title": "LEE CARTER: Trump can still get attention, can he distract voters from their bills?",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119233849471257",
       "fb_comment_id": "122119233849471257_1646054750235770",
       "posted_at": "2026-10-03T11:33:13.212710+00:00"
+    },
+    "scraped-a0b845af9f": {
+      "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+      "slug": "berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows",
+      "url": "https://ushotnews.online/article/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows",
+      "article_url": "https://ushotnews.online/article/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119315233471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119315233471257",
+      "fb_comment_id": "122119315233471257_1136939865499142",
+      "posted_at": "2026-10-03T15:12:08.490191+00:00"
+    },
+    "berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows": {
+      "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+      "slug": "berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows",
+      "url": "https://ushotnews.online/article/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows",
+      "article_url": "https://ushotnews.online/article/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119315233471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119315233471257",
+      "fb_comment_id": "122119315233471257_1136939865499142",
+      "posted_at": "2026-10-03T15:12:08.490191+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T11:32:59.375432+00:00"
+  "last_cleaned_at": "2026-10-03T15:11:56.258543+00:00"
 }
