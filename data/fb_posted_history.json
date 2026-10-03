@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-03T00:23:52.104692+00:00",
+  "last_updated": "2026-10-03T05:35:40.905533+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-e7f6e15c33": {
-      "title": "Muse is crushing these consumer stocks. Cramer says some may be worth a look",
-      "slug": "muse-is-crushing-these-consumer-stocks-cramer-says-some-may-be-worth-a-look",
-      "url": "https://ushotnews.online/article/muse-is-crushing-these-consumer-stocks-cramer-says-some-may-be-worth-a-look",
-      "article_url": "https://ushotnews.online/article/muse-is-crushing-these-consumer-stocks-cramer-says-some-may-be-worth-a-look",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117417709471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117417709471257",
-      "fb_comment_id": "122117417709471257_2683103898811197",
-      "posted_at": "2026-09-30T02:00:44.405482+00:00"
-    },
-    "muse-is-crushing-these-consumer-stocks-cramer-says-some-may-be-worth-a-look": {
-      "title": "Muse is crushing these consumer stocks. Cramer says some may be worth a look",
-      "slug": "muse-is-crushing-these-consumer-stocks-cramer-says-some-may-be-worth-a-look",
-      "url": "https://ushotnews.online/article/muse-is-crushing-these-consumer-stocks-cramer-says-some-may-be-worth-a-look",
-      "article_url": "https://ushotnews.online/article/muse-is-crushing-these-consumer-stocks-cramer-says-some-may-be-worth-a-look",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117417709471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117417709471257",
-      "fb_comment_id": "122117417709471257_2683103898811197",
-      "posted_at": "2026-09-30T02:00:44.405482+00:00"
-    },
     "scraped-1bec2f6543": {
       "title": "Goldman Sachs CEO succession planning faces one big problem",
       "slug": "goldman-sachs-ceo-succession-planning-faces-one-big-problem",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119014489471257",
       "fb_comment_id": "122119014489471257_1687108066193427",
       "posted_at": "2026-10-03T00:23:52.104604+00:00"
+    },
+    "scraped-adecfc8510": {
+      "title": "Northwestern Wildcats christen new Ryan Field with impressive win over Penn State Nittany Lions",
+      "slug": "northwestern-wildcats-christen-new-ryan-field-with-impressive-win-over-penn-state-nittany-",
+      "url": "https://ushotnews.online/article/northwestern-wildcats-christen-new-ryan-field-with-impressive-win-over-penn-state-nittany-",
+      "article_url": "https://ushotnews.online/article/northwestern-wildcats-christen-new-ryan-field-with-impressive-win-over-penn-state-nittany-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119111731471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119111731471257",
+      "fb_comment_id": "122119111731471257_1407325298239091",
+      "posted_at": "2026-10-03T05:35:40.905462+00:00"
+    },
+    "northwestern-wildcats-christen-new-ryan-field-with-impressive-win-over-penn-state-nittany-": {
+      "title": "Northwestern Wildcats christen new Ryan Field with impressive win over Penn State Nittany Lions",
+      "slug": "northwestern-wildcats-christen-new-ryan-field-with-impressive-win-over-penn-state-nittany-",
+      "url": "https://ushotnews.online/article/northwestern-wildcats-christen-new-ryan-field-with-impressive-win-over-penn-state-nittany-",
+      "article_url": "https://ushotnews.online/article/northwestern-wildcats-christen-new-ryan-field-with-impressive-win-over-penn-state-nittany-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119111731471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119111731471257",
+      "fb_comment_id": "122119111731471257_1407325298239091",
+      "posted_at": "2026-10-03T05:35:40.905462+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T00:23:42.203151+00:00"
+  "last_cleaned_at": "2026-10-03T05:35:33.149269+00:00"
 }
