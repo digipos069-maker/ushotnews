@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T04:49:15.181627+00:00",
-  "posted_count": 10,
+  "last_updated": "2026-10-03T11:27:59.544270+00:00",
+  "posted_count": 11,
   "articles": {
     "dvids-video:1025076": {
       "title": "2d Cavalry Regiment conducts a Purpose-Built Attritable System (PBAS) live-strike B-roll",
@@ -111,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2093516911536515",
       "fb_comment_id": "2093516911536515_1828755614922277",
       "posted_at": "2026-10-03T04:49:15.181565+00:00"
+    },
+    "dvids-video:1025290": {
+      "title": "Station 11 Simulated Event",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112026246/DOD_112026246.mp4",
+      "attached_website_url": "https://ushotnews.online/article/no-one-expected-an-american-pope-heres-the-inside-story-of-how-bob-became-pope-leo",
+      "trending_score": 75.0,
+      "format": "video",
+      "fb_video_id": "1854048152437424",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1854048152437424",
+      "fb_comment_id": "1854048152437424_1392286179687741",
+      "posted_at": "2026-10-03T11:27:59.544205+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T04:48:21.786165+00:00"
+  "last_cleaned_at": "2026-10-03T11:25:53.713519+00:00"
 }
