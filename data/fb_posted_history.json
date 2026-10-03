@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-03T15:12:08.490250+00:00",
+  "last_updated": "2026-10-03T16:08:59.994035+00:00",
   "posted_count": 58,
   "articles": {
-    "scraped-c467a7a028": {
-      "title": "LEE CARTER: Trump can still get attention, can he distract voters from their bills?",
-      "slug": "lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills",
-      "url": "https://ushotnews.online/article/lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills",
-      "article_url": "https://ushotnews.online/article/lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117744367471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117744367471257",
-      "fb_comment_id": "122117744367471257_1406112098311599",
-      "posted_at": "2026-09-30T15:13:32.153243+00:00"
-    },
-    "lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills": {
-      "title": "LEE CARTER: Trump can still get attention, can he distract voters from their bills?",
-      "slug": "lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills",
-      "url": "https://ushotnews.online/article/lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills",
-      "article_url": "https://ushotnews.online/article/lee-carter-trump-can-still-get-attention-can-he-distract-voters-from-their-bills",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117744367471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117744367471257",
-      "fb_comment_id": "122117744367471257_1406112098311599",
-      "posted_at": "2026-09-30T15:13:32.153243+00:00"
-    },
     "scraped-e0ef04a026": {
       "title": "One year after the end of the EV tax credit, is the future still electric?",
       "slug": "one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
@@ -639,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119315233471257",
       "fb_comment_id": "122119315233471257_1136939865499142",
       "posted_at": "2026-10-03T15:12:08.490191+00:00"
+    },
+    "scraped-5b9138fbd4": {
+      "title": "Opinion: A Hawk is not the same as a Hawkeye",
+      "slug": "opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+      "url": "https://ushotnews.online/article/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+      "article_url": "https://ushotnews.online/article/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119333413471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119333413471257",
+      "fb_comment_id": "122119333413471257_1475263821111693",
+      "posted_at": "2026-10-03T16:08:59.993967+00:00"
+    },
+    "opinion-a-hawk-is-not-the-same-as-a-hawkeye": {
+      "title": "Opinion: A Hawk is not the same as a Hawkeye",
+      "slug": "opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+      "url": "https://ushotnews.online/article/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+      "article_url": "https://ushotnews.online/article/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119333413471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119333413471257",
+      "fb_comment_id": "122119333413471257_1475263821111693",
+      "posted_at": "2026-10-03T16:08:59.993967+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T15:11:56.258543+00:00"
+  "last_cleaned_at": "2026-10-03T16:08:49.261794+00:00"
 }
