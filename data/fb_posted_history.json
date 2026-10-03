@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-03T16:08:59.994035+00:00",
+  "last_updated": "2026-10-03T18:47:08.192000+00:00",
   "posted_count": 58,
   "articles": {
-    "scraped-e0ef04a026": {
-      "title": "One year after the end of the EV tax credit, is the future still electric?",
-      "slug": "one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
-      "url": "https://ushotnews.online/article/one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
-      "article_url": "https://ushotnews.online/article/one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117793297471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117793297471257",
-      "fb_comment_id": "122117793297471257_2632607650542865",
-      "posted_at": "2026-09-30T16:40:50.045627+00:00"
-    },
-    "one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric": {
-      "title": "One year after the end of the EV tax credit, is the future still electric?",
-      "slug": "one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
-      "url": "https://ushotnews.online/article/one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
-      "article_url": "https://ushotnews.online/article/one-year-after-the-end-of-the-ev-tax-credit-is-the-future-still-electric",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117793297471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117793297471257",
-      "fb_comment_id": "122117793297471257_2632607650542865",
-      "posted_at": "2026-09-30T16:40:50.045627+00:00"
-    },
     "scraped-6526aff8cd": {
       "title": "Google reportedly tests paying publishers for AI search results",
       "slug": "google-reportedly-tests-paying-publishers-for-ai-search-results",
@@ -639,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119333413471257",
       "fb_comment_id": "122119333413471257_1475263821111693",
       "posted_at": "2026-10-03T16:08:59.993967+00:00"
+    },
+    "scraped-2abbee318a": {
+      "title": "Hall of Famer praises Dan Lanning's 'perfect' response after Dante Moore was carted off following vicious hit",
+      "slug": "hall-of-famer-praises-dan-lannings-perfect-response-after-dante-moore-was-carted-off-follo",
+      "url": "https://ushotnews.online/article/hall-of-famer-praises-dan-lannings-perfect-response-after-dante-moore-was-carted-off-follo",
+      "article_url": "https://ushotnews.online/article/hall-of-famer-praises-dan-lannings-perfect-response-after-dante-moore-was-carted-off-follo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119405677471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119405677471257",
+      "fb_comment_id": "122119405677471257_1817928145907790",
+      "posted_at": "2026-10-03T18:47:08.191925+00:00"
+    },
+    "hall-of-famer-praises-dan-lannings-perfect-response-after-dante-moore-was-carted-off-follo": {
+      "title": "Hall of Famer praises Dan Lanning's 'perfect' response after Dante Moore was carted off following vicious hit",
+      "slug": "hall-of-famer-praises-dan-lannings-perfect-response-after-dante-moore-was-carted-off-follo",
+      "url": "https://ushotnews.online/article/hall-of-famer-praises-dan-lannings-perfect-response-after-dante-moore-was-carted-off-follo",
+      "article_url": "https://ushotnews.online/article/hall-of-famer-praises-dan-lannings-perfect-response-after-dante-moore-was-carted-off-follo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119405677471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119405677471257",
+      "fb_comment_id": "122119405677471257_1817928145907790",
+      "posted_at": "2026-10-03T18:47:08.191925+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T16:08:49.261794+00:00"
+  "last_cleaned_at": "2026-10-03T18:46:58.010053+00:00"
 }
