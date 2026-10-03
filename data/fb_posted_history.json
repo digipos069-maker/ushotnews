@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T21:59:46.004644+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-03T22:23:24.475720+00:00",
+  "posted_count": 60,
   "articles": {
     "scraped-7c1a402482": {
       "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
@@ -639,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119467513471257",
       "fb_comment_id": "122119467513471257_2170862234307307",
       "posted_at": "2026-10-03T21:59:46.004554+00:00"
+    },
+    "scraped-d45652106d": {
+      "title": "Tennessee's state corrections chief resigns following failed execution of Christa Pike",
+      "slug": "tennessees-state-corrections-chief-resigns-following-failed-execution-of-christa-pike",
+      "url": "https://ushotnews.online/article/tennessees-state-corrections-chief-resigns-following-failed-execution-of-christa-pike",
+      "article_url": "https://ushotnews.online/article/tennessees-state-corrections-chief-resigns-following-failed-execution-of-christa-pike",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119474947471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119474947471257",
+      "fb_comment_id": "122119474947471257_3002403453430727",
+      "posted_at": "2026-10-03T22:23:24.475657+00:00"
+    },
+    "tennessees-state-corrections-chief-resigns-following-failed-execution-of-christa-pike": {
+      "title": "Tennessee's state corrections chief resigns following failed execution of Christa Pike",
+      "slug": "tennessees-state-corrections-chief-resigns-following-failed-execution-of-christa-pike",
+      "url": "https://ushotnews.online/article/tennessees-state-corrections-chief-resigns-following-failed-execution-of-christa-pike",
+      "article_url": "https://ushotnews.online/article/tennessees-state-corrections-chief-resigns-following-failed-execution-of-christa-pike",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119474947471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119474947471257",
+      "fb_comment_id": "122119474947471257_3002403453430727",
+      "posted_at": "2026-10-03T22:23:24.475657+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T21:59:36.310362+00:00"
+  "last_cleaned_at": "2026-10-03T22:23:11.019693+00:00"
 }
