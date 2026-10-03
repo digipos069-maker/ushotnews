@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T18:47:08.192000+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-03T19:22:20.945789+00:00",
+  "posted_count": 60,
   "articles": {
     "scraped-6526aff8cd": {
       "title": "Google reportedly tests paying publishers for AI search results",
@@ -639,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119405677471257",
       "fb_comment_id": "122119405677471257_1817928145907790",
       "posted_at": "2026-10-03T18:47:08.191925+00:00"
+    },
+    "scraped-20a5445048": {
+      "title": "Trump education official says school choice program will put pressure on Dem-led states",
+      "slug": "trump-education-official-says-school-choice-program-will-put-pressure-on-dem-led-states",
+      "url": "https://ushotnews.online/article/trump-education-official-says-school-choice-program-will-put-pressure-on-dem-led-states",
+      "article_url": "https://ushotnews.online/article/trump-education-official-says-school-choice-program-will-put-pressure-on-dem-led-states",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119418613471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119418613471257",
+      "fb_comment_id": "122119418613471257_1409148213994150",
+      "posted_at": "2026-10-03T19:22:20.945735+00:00"
+    },
+    "trump-education-official-says-school-choice-program-will-put-pressure-on-dem-led-states": {
+      "title": "Trump education official says school choice program will put pressure on Dem-led states",
+      "slug": "trump-education-official-says-school-choice-program-will-put-pressure-on-dem-led-states",
+      "url": "https://ushotnews.online/article/trump-education-official-says-school-choice-program-will-put-pressure-on-dem-led-states",
+      "article_url": "https://ushotnews.online/article/trump-education-official-says-school-choice-program-will-put-pressure-on-dem-led-states",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119418613471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119418613471257",
+      "fb_comment_id": "122119418613471257_1409148213994150",
+      "posted_at": "2026-10-03T19:22:20.945735+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T18:46:58.010053+00:00"
+  "last_cleaned_at": "2026-10-03T19:22:09.780054+00:00"
 }
