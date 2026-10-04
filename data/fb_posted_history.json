@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-03T22:23:24.475720+00:00",
+  "last_updated": "2026-10-04T00:29:16.613055+00:00",
   "posted_count": 60,
   "articles": {
-    "scraped-7c1a402482": {
-      "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
-      "slug": "10-year-treasury-yield-climbs-back-to-5-after-fed-hikes-rates-warsh-highlights-inflation-r",
-      "url": "https://ushotnews.online/article/10-year-treasury-yield-climbs-back-to-5-after-fed-hikes-rates-warsh-highlights-inflation-r",
-      "article_url": "https://ushotnews.online/article/10-year-treasury-yield-climbs-back-to-5-after-fed-hikes-rates-warsh-highlights-inflation-r",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117953977471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117953977471257",
-      "fb_comment_id": "122117953977471257_1819327565872270",
-      "posted_at": "2026-10-01T00:09:12.410331+00:00"
-    },
-    "10-year-treasury-yield-climbs-back-to-5-after-fed-hikes-rates-warsh-highlights-inflation-r": {
-      "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
-      "slug": "10-year-treasury-yield-climbs-back-to-5-after-fed-hikes-rates-warsh-highlights-inflation-r",
-      "url": "https://ushotnews.online/article/10-year-treasury-yield-climbs-back-to-5-after-fed-hikes-rates-warsh-highlights-inflation-r",
-      "article_url": "https://ushotnews.online/article/10-year-treasury-yield-climbs-back-to-5-after-fed-hikes-rates-warsh-highlights-inflation-r",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117953977471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117953977471257",
-      "fb_comment_id": "122117953977471257_1819327565872270",
-      "posted_at": "2026-10-01T00:09:12.410331+00:00"
-    },
     "scraped-3bdff5888e": {
       "title": "Ana Montana, girlfriend to NBA star LaMelo Ball, arrested on felony drug charges in North Carolina",
       "slug": "ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
@@ -661,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119474947471257",
       "fb_comment_id": "122119474947471257_3002403453430727",
       "posted_at": "2026-10-03T22:23:24.475657+00:00"
+    },
+    "scraped-77ba806453": {
+      "title": "Chris Rock shreds 'woke 1.0' era, compares modern outrage to Salem witch hunts",
+      "slug": "chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
+      "url": "https://ushotnews.online/article/chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
+      "article_url": "https://ushotnews.online/article/chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119531155471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119531155471257",
+      "fb_comment_id": "122119531155471257_1114863324274895",
+      "posted_at": "2026-10-04T00:29:16.612977+00:00"
+    },
+    "chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts": {
+      "title": "Chris Rock shreds 'woke 1.0' era, compares modern outrage to Salem witch hunts",
+      "slug": "chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
+      "url": "https://ushotnews.online/article/chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
+      "article_url": "https://ushotnews.online/article/chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119531155471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119531155471257",
+      "fb_comment_id": "122119531155471257_1114863324274895",
+      "posted_at": "2026-10-04T00:29:16.612977+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T22:23:11.019693+00:00"
+  "last_cleaned_at": "2026-10-04T00:29:05.063075+00:00"
 }
