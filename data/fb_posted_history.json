@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T01:57:14.981635+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-10-04T06:14:50.898013+00:00",
+  "posted_count": 62,
   "articles": {
     "scraped-be3b78f70f": {
       "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
@@ -661,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119563801471257",
       "fb_comment_id": "122119563801471257_1074807765179500",
       "posted_at": "2026-10-04T01:57:14.981575+00:00"
+    },
+    "scraped-801bd72e08": {
+      "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
+      "slug": "brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
+      "url": "https://ushotnews.online/article/brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
+      "article_url": "https://ushotnews.online/article/brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119633737471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119633737471257",
+      "fb_comment_id": "122119633737471257_1054455047419070",
+      "posted_at": "2026-10-04T06:14:50.897941+00:00"
+    },
+    "brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit": {
+      "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
+      "slug": "brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
+      "url": "https://ushotnews.online/article/brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
+      "article_url": "https://ushotnews.online/article/brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119633737471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119633737471257",
+      "fb_comment_id": "122119633737471257_1054455047419070",
+      "posted_at": "2026-10-04T06:14:50.897941+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T01:57:03.139788+00:00"
+  "last_cleaned_at": "2026-10-04T06:14:41.460197+00:00"
 }
