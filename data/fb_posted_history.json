@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-04T18:19:57.758204+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-04T20:21:15.908234+00:00",
+  "posted_count": 62,
   "articles": {
-    "scraped-3a8231c01e": {
-      "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
-      "slug": "en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
-      "url": "https://ushotnews.online/article/en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
-      "article_url": "https://ushotnews.online/article/en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118374691471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118374691471257",
-      "fb_comment_id": "122118374691471257_1568710877875388",
-      "posted_at": "2026-10-01T19:26:48.179570+00:00"
-    },
-    "en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino": {
-      "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
-      "slug": "en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
-      "url": "https://ushotnews.online/article/en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
-      "article_url": "https://ushotnews.online/article/en-esta-ciudad-de-pensilvania-los-dos-partidos-políticos-buscan-el-voto-latino",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118374691471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118374691471257",
-      "fb_comment_id": "122118374691471257_1568710877875388",
-      "posted_at": "2026-10-01T19:26:48.179570+00:00"
-    },
-    "scraped-f1b2cbf4f2": {
-      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-      "slug": "steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-      "url": "https://ushotnews.online/article/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-      "article_url": "https://ushotnews.online/article/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118377133471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118377133471257",
-      "fb_comment_id": "122118377133471257_1612976853744983",
-      "posted_at": "2026-10-01T19:42:02.337317+00:00"
-    },
-    "steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for": {
-      "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-      "slug": "steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-      "url": "https://ushotnews.online/article/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-      "article_url": "https://ushotnews.online/article/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118377133471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118377133471257",
-      "fb_comment_id": "122118377133471257_1612976853744983",
-      "posted_at": "2026-10-01T19:42:02.337317+00:00"
-    },
     "scraped-d5400f18f4": {
       "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
       "slug": "a-judge-permanently-dismisses-former-olympians-reflecting-pool-charges",
@@ -705,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119884273471257",
       "fb_comment_id": "122119884273471257_1658697612631280",
       "posted_at": "2026-10-04T18:19:57.758116+00:00"
+    },
+    "scraped-7ea651db15": {
+      "title": "Trump’s gains among Latino voters slip ahead of midterms",
+      "slug": "trumps-gains-among-latino-voters-slip-ahead-of-midterms",
+      "url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
+      "article_url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119929999471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119929999471257",
+      "fb_comment_id": "122119929999471257_28156312050718263",
+      "posted_at": "2026-10-04T20:21:15.908173+00:00"
+    },
+    "trumps-gains-among-latino-voters-slip-ahead-of-midterms": {
+      "title": "Trump’s gains among Latino voters slip ahead of midterms",
+      "slug": "trumps-gains-among-latino-voters-slip-ahead-of-midterms",
+      "url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
+      "article_url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119929999471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119929999471257",
+      "fb_comment_id": "122119929999471257_28156312050718263",
+      "posted_at": "2026-10-04T20:21:15.908173+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T18:19:45.184840+00:00"
+  "last_cleaned_at": "2026-10-04T20:20:59.961700+00:00"
 }
