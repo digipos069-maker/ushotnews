@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-04T00:29:16.613055+00:00",
+  "last_updated": "2026-10-04T01:57:14.981635+00:00",
   "posted_count": 60,
   "articles": {
-    "scraped-3bdff5888e": {
-      "title": "Ana Montana, girlfriend to NBA star LaMelo Ball, arrested on felony drug charges in North Carolina",
-      "slug": "ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
-      "url": "https://ushotnews.online/article/ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
-      "article_url": "https://ushotnews.online/article/ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117965659471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117965659471257",
-      "fb_comment_id": "122117965659471257_2524904074642507",
-      "posted_at": "2026-10-01T00:41:53.589270+00:00"
-    },
-    "ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca": {
-      "title": "Ana Montana, girlfriend to NBA star LaMelo Ball, arrested on felony drug charges in North Carolina",
-      "slug": "ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
-      "url": "https://ushotnews.online/article/ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
-      "article_url": "https://ushotnews.online/article/ana-montana-girlfriend-to-nba-star-lamelo-ball-arrested-on-felony-drug-charges-in-north-ca",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122117965659471257",
-      "fb_post_url": "https://www.facebook.com/1325939953941168/posts/122117965659471257",
-      "fb_comment_id": "122117965659471257_2524904074642507",
-      "posted_at": "2026-10-01T00:41:53.589270+00:00"
-    },
     "scraped-be3b78f70f": {
       "title": "Trump 'thinking about' diesel export ban, but says it could have 'negative impact' on gasoline",
       "slug": "trump-thinking-about-diesel-export-ban-but-says-it-could-have-negative-impact-on-gasoline",
@@ -661,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119531155471257",
       "fb_comment_id": "122119531155471257_1114863324274895",
       "posted_at": "2026-10-04T00:29:16.612977+00:00"
+    },
+    "scraped-0e7a019810": {
+      "title": "Pete Hegseth handles Air Force-Navy coin toss after showing off basketball skills at Academy",
+      "slug": "pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
+      "url": "https://ushotnews.online/article/pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
+      "article_url": "https://ushotnews.online/article/pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119563801471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119563801471257",
+      "fb_comment_id": "122119563801471257_1074807765179500",
+      "posted_at": "2026-10-04T01:57:14.981575+00:00"
+    },
+    "pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade": {
+      "title": "Pete Hegseth handles Air Force-Navy coin toss after showing off basketball skills at Academy",
+      "slug": "pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
+      "url": "https://ushotnews.online/article/pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
+      "article_url": "https://ushotnews.online/article/pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119563801471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119563801471257",
+      "fb_comment_id": "122119563801471257_1074807765179500",
+      "posted_at": "2026-10-04T01:57:14.981575+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T00:29:05.063075+00:00"
+  "last_cleaned_at": "2026-10-04T01:57:03.139788+00:00"
 }
