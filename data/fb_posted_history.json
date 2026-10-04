@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T17:19:02.423133+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-04T18:19:57.758204+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-3a8231c01e": {
       "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119861065471257",
       "fb_comment_id": "122119861065471257_1603636944656043",
       "posted_at": "2026-10-04T17:19:02.423069+00:00"
+    },
+    "scraped-fa26140fae": {
+      "title": "Adam Copeland conquers Steve Maclin in highly anticipated match during Maple Leaf Pro's Northern Rising",
+      "slug": "adam-copeland-conquers-steve-maclin-in-highly-anticipated-match-during-maple-leaf-pros-nor",
+      "url": "https://ushotnews.online/article/adam-copeland-conquers-steve-maclin-in-highly-anticipated-match-during-maple-leaf-pros-nor",
+      "article_url": "https://ushotnews.online/article/adam-copeland-conquers-steve-maclin-in-highly-anticipated-match-during-maple-leaf-pros-nor",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119884273471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119884273471257",
+      "fb_comment_id": "122119884273471257_1658697612631280",
+      "posted_at": "2026-10-04T18:19:57.758116+00:00"
+    },
+    "adam-copeland-conquers-steve-maclin-in-highly-anticipated-match-during-maple-leaf-pros-nor": {
+      "title": "Adam Copeland conquers Steve Maclin in highly anticipated match during Maple Leaf Pro's Northern Rising",
+      "slug": "adam-copeland-conquers-steve-maclin-in-highly-anticipated-match-during-maple-leaf-pros-nor",
+      "url": "https://ushotnews.online/article/adam-copeland-conquers-steve-maclin-in-highly-anticipated-match-during-maple-leaf-pros-nor",
+      "article_url": "https://ushotnews.online/article/adam-copeland-conquers-steve-maclin-in-highly-anticipated-match-during-maple-leaf-pros-nor",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119884273471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119884273471257",
+      "fb_comment_id": "122119884273471257_1658697612631280",
+      "posted_at": "2026-10-04T18:19:57.758116+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T17:18:49.847803+00:00"
+  "last_cleaned_at": "2026-10-04T18:19:45.184840+00:00"
 }
