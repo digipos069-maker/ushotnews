@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-04T08:16:20.115073+00:00",
+  "last_updated": "2026-10-04T15:14:11.682233+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1025076": {
-      "title": "2d Cavalry Regiment conducts a Purpose-Built Attritable System (PBAS) live-strike B-roll",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112021866/DOD_112021866.mp4",
-      "attached_website_url": "https://ushotnews.online/article/vivos-x-fold-6-accidentally-feels-like-a-throwback",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1903934483907977",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1903934483907977",
-      "fb_comment_id": "1903934483907977_2584263248701264",
-      "posted_at": "2026-10-01T09:58:22.669474+00:00"
-    },
     "dvids-video:1025107": {
       "title": "Yuma Proving Ground returns to Exploration Station event",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112022237/DOD_112022237.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1389874229969725",
       "fb_comment_id": "1389874229969725_1125862896530665",
       "posted_at": "2026-10-04T08:16:20.115011+00:00"
+    },
+    "dvids-video:1025336": {
+      "title": "Spc. Drake Caldwell | Army Best Squad Competition",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112027930/DOD_112027930.mp4",
+      "attached_website_url": "https://ushotnews.online/article/amazons-colorful-and-sturdy-new-kindles",
+      "trending_score": 75.0,
+      "format": "video",
+      "fb_video_id": "1621614189637229",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1621614189637229",
+      "fb_comment_id": "1621614189637229_1550468273499276",
+      "posted_at": "2026-10-04T15:14:11.682173+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T08:14:50.932702+00:00"
+  "last_cleaned_at": "2026-10-04T15:12:37.837094+00:00"
 }
