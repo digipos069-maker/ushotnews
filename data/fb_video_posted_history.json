@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T20:53:49.155399+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-10-04T00:27:15.840015+00:00",
+  "posted_count": 13,
   "articles": {
     "dvids-video:1025076": {
       "title": "2d Cavalry Regiment conducts a Purpose-Built Attritable System (PBAS) live-strike B-roll",
@@ -133,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1722167662210725",
       "fb_comment_id": "1722167662210725_3515006285348459",
       "posted_at": "2026-10-03T20:53:49.155336+00:00"
+    },
+    "dvids-video:1025337": {
+      "title": "Army Best Squad Combat Field Test",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112027931/DOD_112027931.mp4",
+      "attached_website_url": "https://ushotnews.online/article/republicans-dont-have-a-clear-boogeyman-for-this-years-midterms",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2112619262684839",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2112619262684839",
+      "fb_comment_id": "2112619262684839_1391206559386478",
+      "posted_at": "2026-10-04T00:27:15.839949+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-03T20:52:17.662271+00:00"
+  "last_cleaned_at": "2026-10-04T00:25:38.999205+00:00"
 }
