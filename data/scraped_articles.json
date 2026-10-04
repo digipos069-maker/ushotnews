@@ -1,5 +1,375 @@
 [
   {
+    "id": "scraped-17de4fcb54",
+    "slug": "the-new-fitbit-edge-leaks",
+    "guid": "https://www.theverge.com/?p=1004616",
+    "title": "The new Fitbit Edge leaks",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [&#8230;]",
+    "content": [
+      "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker sort of splits the difference between the Pixel Watch and [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The new Fitbit Edge leaks... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T21:02:09+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ab582f0caa",
+    "slug": "brazil-votes-with-lula-facing-bolsonaros-son",
+    "guid": "https://www.npr.org/2026/10/04/nx-s1-5981107/brazil-votes-with-lula-facing-bolsonaros-son",
+    "title": "Brazil votes, with Lula facing Bolsonaro's son",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+    "content": [
+      "In Brazil, President Lula da Silva faces Flávio Bolsonaro, son of the jailed former president, in a tight race. If neither wins more than half the votes they'll face each other again on Oct. 25.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Brazil votes, with Lula facing Bolsonaro's son... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T21:52:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-82de587922",
+    "slug": "florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post",
+    "guid": "https://www.foxnews.com/us/florida-tiktok-creator-lands-jail-allegedly-turning-womens-private-data-posts",
+    "title": "Florida TikTok creator lands in jail after allegedly turning women’s private data into posts",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Florida TikTok creator Mark Stephen Asea allegedly exposed women&apos;s private data in over 100 videos after gaining unauthorized access to their devices.",
+    "content": [
+      "Florida TikTok creator Mark Stephen Asea allegedly exposed women&apos;s private data in over 100 videos after gaining unauthorized access to their devices.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/florida-tiktok-mark-asea-mugshot-computer-access.png?ve=1&tl=1",
+    "imageCaption": "Florida TikTok creator lands in jail after allegedly turning... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T20:19:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e41330a0dd",
+    "slug": "ivanka-trump-reflects-on-incredibly-special-family-milestone-spanning-4-generations",
+    "guid": "https://www.foxnews.com/lifestyle/ivanka-trump-reflects-incredibly-special-family-milestone-spanning-4-generations",
+    "title": "Ivanka Trump reflects on 'incredibly special' family milestone spanning 4 generations",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ivanka Trump shared details and sentiments from her grandmother Marie Zelníčková&apos;s 100th birthday celebration as four generations gathered at her Miami home.",
+    "content": [
+      "Ivanka Trump shared details and sentiments from her grandmother Marie Zelníčková&apos;s 100th birthday celebration as four generations gathered at her Miami home.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/eric-ivanka-trump-grandmother.jpg?ve=1&tl=1",
+    "imageCaption": "Ivanka Trump reflects on 'incredibly special' family milesto... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T20:33:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7c6e0035c5",
+    "slug": "singles-are-ditching-dinner-and-drinks-for-breakfast-dates-as-dating-habits-shift-survey-s",
+    "guid": "https://www.foxnews.com/food-drink/singles-ditching-dinner-drinks-breakfast-dates-dating-habits-shift-survey",
+    "title": "Singles are ditching dinner and drinks for breakfast dates as dating habits shift, survey says",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Kellogg&apos;s survey found 64% of Australian singles are open to breakfast first dates as dating apps lower authenticity and costs keep rising.",
+    "content": [
+      "A Kellogg&apos;s survey found 64% of Australian singles are open to breakfast first dates as dating apps lower authenticity and costs keep rising.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/931/523/iStock-1453840694.jpg?ve=1&tl=1",
+    "imageCaption": "Singles are ditching dinner and drinks for breakfast dates a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T20:50:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b763695d85",
+    "slug": "north-korea-missile-could-put-guam-in-range-as-kim-rebuffs-trump-outreach-expert",
+    "guid": "https://www.foxnews.com/world/north-korea-missile-could-put-guam-range-kim-rebuffs-trump-outreach-expert",
+    "title": "North Korea missile could put Guam in range as Kim rebuffs Trump outreach: expert",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "North Korea&apos;s intermediate-range missile test puts Guam and parts of Alaska within range, an expert says, as President Trump touts his relationship with Kim Jong Un.",
+    "content": [
+      "North Korea&apos;s intermediate-range missile test puts Guam and parts of Alaska within range, an expert says, as President Trump touts his relationship with Kim Jong Un.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/missile-launch-korea-north.jpg?ve=1&tl=1",
+    "imageCaption": "North Korea missile could put Guam in range as Kim rebuffs T... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T21:08:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-964187dcd4",
+    "slug": "lamar-jackson-leaves-game-with-injured-ankle-and-what-happened-next-shows-no-one-fears-the",
+    "guid": "https://www.foxnews.com/outkick-sports/lamar-jackson-leaves-game-injured-ankle-what-happened-next-shows-no-one-fears-tennessee-titans",
+    "title": "Lamar Jackson leaves game with injured ankle and what happened next shows no one fears the Tennessee Titans",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Lamar Jackson&apos;s ankle injury kept him sidelined in the second half, but his sideline smile and the Ravens&apos; 17-point lead told the full story.",
+    "content": [
+      "Lamar Jackson&apos;s ankle injury kept him sidelined in the second half, but his sideline smile and the Ravens&apos; 17-point lead told the full story.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/lamar-jackson-injured-bench-baltimore-ravens.jpg?ve=1&tl=1",
+    "imageCaption": "Lamar Jackson leaves game with injured ankle and what happen... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T21:42:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2206beb420",
+    "slug": "portland-teen-faces-terrorism-attempted-murder-charges-after-school-cafeteria-chemical-sca",
+    "guid": "https://www.foxnews.com/us/portland-teen-faces-terrorism-attempted-murder-charges-after-school-cafeteria-chemical-scare",
+    "title": "Portland teen faces terrorism, attempted murder charges after school cafeteria chemical scare",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A 15-year-old Benson Polytechnic High School student faces 19 counts including domestic terrorism after allegedly mixing toxic chemicals in the cafeteria.",
+    "content": [
+      "A 15-year-old Benson Polytechnic High School student faces 19 counts including domestic terrorism after allegedly mixing toxic chemicals in the cafeteria.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/cafeteria-food-service-workers.png?ve=1&tl=1",
+    "imageCaption": "Portland teen faces terrorism, attempted murder charges afte... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T22:37:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-77204ee21b",
+    "slug": "deonte-banks-game-sealing-pick-six-propels-giants-into-place-they-havent-been-since-2015",
+    "guid": "https://www.foxnews.com/outkick-sports/deonte-banks-game-sealing-pick-six-propels-giants-place-havent-been-since-2015",
+    "title": "Deonte Banks' game-sealing pick-six propels Giants into place they haven't been since 2015",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Deonte Banks&apos; 98-yard pick-six on the final play sealed a 36-24 New York Giants victory, vaulting them to first place in the NFC East at 3-1.",
+    "content": [
+      "Deonte Banks&apos; 98-yard pick-six on the final play sealed a 36-24 New York Giants victory, vaulting them to first place in the NFC East at 3-1.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Deonte-Banks-Giants.jpg?ve=1&tl=1",
+    "imageCaption": "Deonte Banks' game-sealing pick-six propels Giants into plac... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T22:39:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e769b8a832",
+    "slug": "gypsy-rose-blanchard-launches-anti-bullying-campaign-after-sudden-death-of-partner",
+    "guid": "https://www.foxnews.com/entertainment/gypsy-rose-blanchard-launches-anti-bullying-campaign-after-sudden-death-partner",
+    "title": "Gypsy Rose Blanchard launches anti-bullying campaign after sudden death of partner",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Gypsy Rose Blanchard says Ken Urker faced targeted cyberbullying before his death and is now pushing Kenan&apos;s Law to reform social media platforms.",
+    "content": [
+      "Gypsy Rose Blanchard says Ken Urker faced targeted cyberbullying before his death and is now pushing Kenan&apos;s Law to reform social media platforms.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/gypsy.jpg?ve=1&tl=1",
+    "imageCaption": "Gypsy Rose Blanchard launches anti-bullying campaign after s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T22:46:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-7ea651db15",
     "slug": "trumps-gains-among-latino-voters-slip-ahead-of-midterms",
     "guid": "000001a1-0836-d787-a9a1-b8f795310000",
