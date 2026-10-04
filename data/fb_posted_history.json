@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T20:21:15.908234+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-04T21:52:07.659767+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-d5400f18f4": {
       "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119929999471257",
       "fb_comment_id": "122119929999471257_28156312050718263",
       "posted_at": "2026-10-04T20:21:15.908173+00:00"
+    },
+    "scraped-372a72ecf2": {
+      "title": "Buttigieg goes big to help 2026 Dems",
+      "slug": "buttigieg-goes-big-to-help-2026-dems",
+      "url": "https://ushotnews.online/article/buttigieg-goes-big-to-help-2026-dems",
+      "article_url": "https://ushotnews.online/article/buttigieg-goes-big-to-help-2026-dems",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119966497471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119966497471257",
+      "fb_comment_id": "122119966497471257_1008650448957781",
+      "posted_at": "2026-10-04T21:52:07.659687+00:00"
+    },
+    "buttigieg-goes-big-to-help-2026-dems": {
+      "title": "Buttigieg goes big to help 2026 Dems",
+      "slug": "buttigieg-goes-big-to-help-2026-dems",
+      "url": "https://ushotnews.online/article/buttigieg-goes-big-to-help-2026-dems",
+      "article_url": "https://ushotnews.online/article/buttigieg-goes-big-to-help-2026-dems",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119966497471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119966497471257",
+      "fb_comment_id": "122119966497471257_1008650448957781",
+      "posted_at": "2026-10-04T21:52:07.659687+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T20:20:59.961700+00:00"
+  "last_cleaned_at": "2026-10-04T21:51:57.555515+00:00"
 }
