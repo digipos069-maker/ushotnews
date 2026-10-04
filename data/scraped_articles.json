@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-372a72ecf2",
+    "slug": "buttigieg-goes-big-to-help-2026-dems",
+    "guid": "000001a1-076a-d00c-a1f7-ef7bd14d0000",
+    "title": "Buttigieg goes big to help 2026 Dems",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "He is set to campaign in at least six states in the final stretch. As he does, he’s refining his message and thinking about what comes next.",
+    "content": [
+      "He is set to campaign in at least six states in the final stretch. As he does, he’s refining his message and thinking about what comes next.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/c1/4a/e3d786384af3a4e40f4476c76e94/https-delivery-gettyimages.com/downloads/2297904314",
+    "imageCaption": "Buttigieg goes big to help 2026 Dems... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T15:25:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-44684a80e2",
+    "slug": "the-ipad-mini-is-slightly-cheaper-again-during-prime-day",
+    "guid": "https://www.theverge.com/?p=1000323",
+    "title": "The iPad Mini is slightly cheaper again during Prime Day",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model [&#8230;]",
+    "content": [
+      "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi version with 128GB of storage is currently $499, the 256GB model [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The iPad Mini is slightly cheaper again during Prime Day... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T12:31:50+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f2cb5d6521",
+    "slug": "the-macbook-air-m5-is-200-off-for-the-first-time-in-months",
+    "guid": "https://www.theverge.com/?p=1000832",
+    "title": "The MacBook Air M5 is $200 off for the first time in months",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512GB [&#8230;]",
+    "content": [
+      "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s significantly faster than Apple’s $699 MacBook Neo. The 15-inch version, also with 512GB [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The MacBook Air M5 is $200 off for the first time in months... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T12:34:01+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ab477425cb",
+    "slug": "the-airpods-pro-3-are-a-fantastic-deal-at-179",
+    "guid": "https://www.theverge.com/?p=1004242",
+    "title": "The AirPods Pro 3 are a fantastic deal at $179",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and [&#8230;]",
+    "content": [
+      "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include five ear tip sizes, live translation, and [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The AirPods Pro 3 are a fantastic deal at $179... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T13:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1e04e5a97c",
+    "slug": "this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
+    "guid": "https://www.theverge.com/?p=1004360",
+    "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wallet I've ever stuck [&#8230;]",
+    "content": [
+      "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet that can stack with that stand. It's the coolest wallet I've ever stuck [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "This toolless modular lever-action wallet is the coolest I’v... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T15:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-902874156c",
+    "slug": "an-ai-couldnt-beat-humans-at-starcraft-so-it-decided-to-cheat",
+    "guid": "https://www.theverge.com/?p=1004543",
+    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, [&#8230;]",
+    "content": [
+      "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday, GPT was facing off against Claude and the human-created bot Pluto, but according to Kotaku, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "An AI couldn’t beat humans at StarCraft, so it decided to ch... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T15:21:59+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f57c4b3946",
+    "slug": "njs-lieutenant-governor-told-pbs-ai-says-he-didnt-commit-sexual-harassment",
+    "guid": "https://www.theverge.com/?p=1004549",
+    "title": "NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ [&#8230;]",
+    "content": [
+      "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But he took a particularly odd tactic during an interview on NJ [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "NJ’s lieutenant governor told PBS, AI says he didn’t commit ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T16:16:04+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cc36ea7aa7",
+    "slug": "how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+    "guid": "https://www.npr.org/2026/10/04/nx-s1-5990232/how-the-cornell-case-is-affecting-women-who-have-experienced-sexual-assault",
+    "title": "How the Cornell case is affecting women who have experienced sexual assault",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence.",
+    "content": [
+      "The rape allegations that have emerged from a Cornell University frat house are leading many women to remember their own experiences — and call for a wider reckoning over sexual violence.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How the Cornell case is affecting women who have experienced... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T14:51:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-093990d7a3",
+    "slug": "us-marine-arrested-for-alleged-murder-of-a-woman-in-okinawa-japan",
+    "guid": "https://www.npr.org/2026/10/04/nx-s1-5990790/us-marine-arrested-for-alleged-murder-woman-on-okinawa",
+    "title": "U.S. Marine arrested for alleged murder of a woman in Okinawa, Japan",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.",
+    "content": [
+      "Japanese police arrested a U.S. Marine in the alleged robbery and murder of a woman on Okinawa, officials said Sunday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. Marine arrested for alleged murder of a woman in Okinaw... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T15:15:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8bbededc44",
+    "slug": "cornell-president-calls-gang-rape-allegations-deeply-disturbing",
+    "guid": "https://www.npr.org/2026/10/04/nx-s1-5990789/cornell-president-calls-gang-rape-allegations-deeply-disturbing",
+    "title": "Cornell president calls gang rape allegations 'deeply disturbing'",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell's history,\" he added.",
+    "content": [
+      "Cornell president Michael I. Kotlikoff said his university \"must do better\" in a video statement. \"This is a defining moment in Cornell's history,\" he added.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cornell president calls gang rape allegations 'deeply distur... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T15:41:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fa26140fae",
+    "slug": "adam-copeland-conquers-steve-maclin-in-highly-anticipated-match-during-maple-leaf-pros-nor",
+    "guid": "https://www.foxnews.com/outkick-sports/adam-copeland-conquers-steve-maclin-highly-anticipated-match-maple-leaf-pros-northern-rising",
+    "title": "Adam Copeland conquers Steve Maclin in highly anticipated match during Maple Leaf Pro's Northern Rising",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Adam Copeland speared Steve Maclin through the ropes in a brutal street fight main event at Maple Leaf Gardens during Northern Rising night.",
+    "content": [
+      "Adam Copeland speared Steve Maclin through the ropes in a brutal street fight main event at Maple Leaf Gardens during Northern Rising night.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/MLP-Adam-Copeland-100426-3.jpg?ve=1&tl=1",
+    "imageCaption": "Adam Copeland conquers Steve Maclin in highly anticipated ma... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T16:09:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-75a7478c56",
+    "slug": "enormous-moose-gets-slammed-to-the-pavement-in-viral-video-of-a-street-brawl-in-colorado",
+    "guid": "https://www.foxnews.com/outkick-sports/enormous-moose-slammed-pavement-viral-video-street-brawl-colorado",
+    "title": "Enormous moose gets slammed to the pavement in viral video of a street brawl in Colorado",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A viral video from Steamboat Springs captures two bull moose locking antlers in the street during rutting season, ending with a dramatic slam.",
+    "content": [
+      "A viral video from Steamboat Springs captures two bull moose locking antlers in the street during rutting season, ending with a dramatic slam.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/moose-crossing-highway-southeast-alaska.jpg?ve=1&tl=1",
+    "imageCaption": "Enormous moose gets slammed to the pavement in viral video o... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T16:21:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a661fbb389",
+    "slug": "latino-voters-swing-back-to-democrats-ahead-of-midterm-elections-poll",
+    "guid": "https://www.foxnews.com/politics/latino-voters-swing-back-democrats-ahead-midterm-elections-poll",
+    "title": "Latino voters swing back to Democrats ahead of midterm elections: poll",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "NBC News polling shows 69% of Latino voters disapprove of Trump as Democrats hold a 24-point edge ahead of the 2026 midterm elections races.",
+    "content": [
+      "NBC News polling shows 69% of Latino voters disapprove of Trump as Democrats hold a 24-point edge ahead of the 2026 midterm elections races.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/donald-trump-vandalia-ohio-rally.jpg?ve=1&tl=1",
+    "imageCaption": "Latino voters swing back to Democrats ahead of midterm elect... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T16:32:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a2e53b492b",
+    "slug": "subtle-change-in-how-you-speak-could-be-early-sign-of-dementia-risk-new-research-suggests",
+    "guid": "https://www.foxnews.com/health/subtle-change-how-you-speak-early-sign-dementia-risk-new-research-suggests",
+    "title": "Subtle change in how you speak could be early sign of dementia risk, new research suggests",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Drexel University study of 833,417 participants links voice disorders to a 58% higher likelihood of developing dementia or cognitive impairment.",
+    "content": [
+      "A Drexel University study of 833,417 participants links voice disorders to a 58% higher likelihood of developing dementia or cognitive impairment.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Subtle change in how you speak could be early sign of dement... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T16:39:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-78f17d2f40",
+    "slug": "one-southern-states-rise-is-making-it-americas-new-economic-center-of-gravity",
+    "guid": "https://www.foxnews.com/politics/southern-state-rise-making-america-new-economic-center-gravity",
+    "title": "One southern state's rise is making it America's new 'economic center of gravity'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jeb Hensarling says the Texas Stock Exchange is the final piece making Texas the best place to list, incorporate and headquarter a business.",
+    "content": [
+      "Jeb Hensarling says the Texas Stock Exchange is the final piece making Texas the best place to list, incorporate and headquarter a business.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/dallas-skyline-texas.png?ve=1&tl=1",
+    "imageCaption": "One southern state's rise is making it America's new 'econom... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T16:47:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c4d57ce736",
+    "slug": "texas-tech-fan-claims-to-find-part-of-colorados-playbook-at-hotel-bar-shows-plays-that-mat",
+    "guid": "https://www.foxnews.com/outkick-sports/texas-tech-fan-claims-find-part-colorado-playbook-hotel-bar-shows-plays-match-opening-drive",
+    "title": "Texas Tech fan claims to find part of Colorado's playbook at hotel bar, shows plays that match opening drive",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Texas Tech fan claims to have found Colorado&apos;s playbook at a hotel bar before the Buffaloes&apos; 29-7 loss, and video appears to match CU&apos;s plays.",
+    "content": [
+      "A Texas Tech fan claims to have found Colorado&apos;s playbook at a hotel bar before the Buffaloes&apos; 29-7 loss, and video appears to match CU&apos;s plays.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/deion-featured-ttu.jpg?ve=1&tl=1",
+    "imageCaption": "Texas Tech fan claims to find part of Colorado's playbook at... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T16:48:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4cec3fdc92",
+    "slug": "harvard-football-outsmarts-colgate-on-hail-mary-attempt-to-win-game-in-final-seconds",
+    "guid": "https://www.foxnews.com/outkick-sports/harvard-football-outsmarts-colgate-hail-mary-attempt-win-game-final-seconds",
+    "title": "Harvard football outsmarts Colgate on Hail Mary attempt to win game in final seconds",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A viral clip shows Harvard&apos;s Ivy League college football comeback as Nate Bailey scored on a last-second lateral after a brutal false start penalty.",
+    "content": [
+      "A viral clip shows Harvard&apos;s Ivy League college football comeback as Nate Bailey scored on a last-second lateral after a brutal false start penalty.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ryan-tattersall-harvard-yale-touchdown.jpg?ve=1&tl=1",
+    "imageCaption": "Harvard football outsmarts Colgate on Hail Mary attempt to w... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T16:52:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3b1ba3a3ae",
+    "slug": "neighborhood-backlash-collides-with-americas-tech-arms-race-but-is-this-the-plan-to-fix-it",
+    "guid": "https://www.foxnews.com/politics/neighborhood-backlash-collides-americas-tech-arms-race-plan-fix-it",
+    "title": "Neighborhood backlash collides with America's tech arms race — but is this the plan to fix it?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Rep. Suhas Subramanyam&apos;s four-part federal plan targets data center siting, energy costs and water use as Virginia communities push back against expansion.",
+    "content": [
+      "Rep. Suhas Subramanyam&apos;s four-part federal plan targets data center siting, energy costs and water use as Virginia communities push back against expansion.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/anti-ai-protest.jpg?ve=1&tl=1",
+    "imageCaption": "Neighborhood backlash collides with America's tech arms race... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T17:00:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e3aec22ca7",
+    "slug": "top-wall-street-analysts-are-upbeat-about-the-prospects-for-these-3-stocks",
+    "guid": "108371024",
+    "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Investors with a long-term horizon can track ratings from top Wall Street analysts to find stocks with solid growth prospects.",
+    "content": [
+      "Investors with a long-term horizon can track ratings from top Wall Street analysts to find stocks with solid growth prospects.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Top Wall Street analysts are upbeat about the prospects for ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T13:24:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ec21972b9c",
+    "slug": "sports-betting-is-increasingly-the-norm-for-gen-z-heres-why-some-financial-and-mental-heal",
+    "guid": "108372001",
+    "title": "Sports betting is increasingly the norm for Gen Z. Here’s why some financial and mental health experts are worried",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
+    "content": [
+      "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sports betting is increasingly the norm for Gen Z. Here’s wh... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T12:57:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-7ab76c81e9",
     "slug": "amazons-colorful-and-sturdy-new-kindles",
     "guid": "https://www.theverge.com/?p=1004199",
