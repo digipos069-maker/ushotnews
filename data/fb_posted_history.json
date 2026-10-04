@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T14:20:05.925449+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-10-04T17:19:02.423133+00:00",
+  "posted_count": 62,
   "articles": {
     "scraped-3a8231c01e": {
       "title": "En esta ciudad de Pensilvania, los dos partidos políticos buscan el voto latino",
@@ -661,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119799403471257",
       "fb_comment_id": "122119799403471257_1602646001338618",
       "posted_at": "2026-10-04T14:20:05.925375+00:00"
+    },
+    "scraped-e3aec22ca7": {
+      "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+      "slug": "top-wall-street-analysts-are-upbeat-about-the-prospects-for-these-3-stocks",
+      "url": "https://ushotnews.online/article/top-wall-street-analysts-are-upbeat-about-the-prospects-for-these-3-stocks",
+      "article_url": "https://ushotnews.online/article/top-wall-street-analysts-are-upbeat-about-the-prospects-for-these-3-stocks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119861065471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119861065471257",
+      "fb_comment_id": "122119861065471257_1603636944656043",
+      "posted_at": "2026-10-04T17:19:02.423069+00:00"
+    },
+    "top-wall-street-analysts-are-upbeat-about-the-prospects-for-these-3-stocks": {
+      "title": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+      "slug": "top-wall-street-analysts-are-upbeat-about-the-prospects-for-these-3-stocks",
+      "url": "https://ushotnews.online/article/top-wall-street-analysts-are-upbeat-about-the-prospects-for-these-3-stocks",
+      "article_url": "https://ushotnews.online/article/top-wall-street-analysts-are-upbeat-about-the-prospects-for-these-3-stocks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119861065471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119861065471257",
+      "fb_comment_id": "122119861065471257_1603636944656043",
+      "posted_at": "2026-10-04T17:19:02.423069+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T14:19:50.046589+00:00"
+  "last_cleaned_at": "2026-10-04T17:18:49.847803+00:00"
 }
