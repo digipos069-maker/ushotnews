@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T08:19:54.521908+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-10-04T12:44:48.167482+00:00",
+  "posted_count": 62,
   "articles": {
     "scraped-90019e5133": {
       "title": "Netanyahu praises heroic bystander in bloody cockpit attack for preventing ‘another 9/11’",
@@ -661,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119675233471257",
       "fb_comment_id": "122119675233471257_1086419797468242",
       "posted_at": "2026-10-04T08:19:54.521842+00:00"
+    },
+    "scraped-05dbf2d938": {
+      "title": "GOP Senate candidate's estranged wife confirms who she's voting for amid divorce proceedings",
+      "slug": "gop-senate-candidates-estranged-wife-confirms-who-shes-voting-for-amid-divorce-proceedings",
+      "url": "https://ushotnews.online/article/gop-senate-candidates-estranged-wife-confirms-who-shes-voting-for-amid-divorce-proceedings",
+      "article_url": "https://ushotnews.online/article/gop-senate-candidates-estranged-wife-confirms-who-shes-voting-for-amid-divorce-proceedings",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119765761471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119765761471257",
+      "fb_comment_id": "122119765761471257_29151781641114773",
+      "posted_at": "2026-10-04T12:44:48.167393+00:00"
+    },
+    "gop-senate-candidates-estranged-wife-confirms-who-shes-voting-for-amid-divorce-proceedings": {
+      "title": "GOP Senate candidate's estranged wife confirms who she's voting for amid divorce proceedings",
+      "slug": "gop-senate-candidates-estranged-wife-confirms-who-shes-voting-for-amid-divorce-proceedings",
+      "url": "https://ushotnews.online/article/gop-senate-candidates-estranged-wife-confirms-who-shes-voting-for-amid-divorce-proceedings",
+      "article_url": "https://ushotnews.online/article/gop-senate-candidates-estranged-wife-confirms-who-shes-voting-for-amid-divorce-proceedings",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122119765761471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119765761471257",
+      "fb_comment_id": "122119765761471257_29151781641114773",
+      "posted_at": "2026-10-04T12:44:48.167393+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T08:19:37.166643+00:00"
+  "last_cleaned_at": "2026-10-04T12:44:38.540704+00:00"
 }
