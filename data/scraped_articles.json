@@ -1,5 +1,412 @@
 [
   {
+    "id": "scraped-e61e2db683",
+    "slug": "can-the-cornell-lawsuit-force-changes-that-make-students-safer",
+    "guid": "https://www.npr.org/2026/10/03/nx-s1-5989313/can-the-cornell-lawsuit-force-changes-that-make-students-safer",
+    "title": "Can the Cornell lawsuit force changes that make students safer?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work.",
+    "content": [
+      "Universities have responsibilities when students report sexual assault, even if prosecutors don't bring charges. Attorney Baine Kerr explains how those protections work.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Can the Cornell lawsuit force changes that make students saf... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T21:57:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-eddc723a11",
+    "slug": "coast-guard-searching-for-missing-medical-plane-carrying-6-people",
+    "guid": "https://www.npr.org/2026/10/03/g-s1-146338/plane-missing-coast-guard-search-massachusetts",
+    "title": "Coast Guard searching for missing medical plane carrying 6 people",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing.",
+    "content": [
+      "Flight data shows the jet dropped at least 9,000 feet over two minutes, then leveled off for several more minutes, before disappearing.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Coast Guard searching for missing medical plane carrying 6 p... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T22:31:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0919ad93f2",
+    "slug": "cult-favorite-movies-iconic-route-66-cafe-faces-uncertain-future-as-highway-turns-100",
+    "guid": "https://www.foxnews.com/food-drink/cult-favorite-movie-iconic-route-66-cafe-faces-uncertain-future-highway-turns-100",
+    "title": "Cult-favorite movie's iconic Route 66 cafe faces uncertain future as highway turns 100",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Bagdad Cafe on historic Route 66 in California faces an uncertain future after its longtime owner&apos;s death as America&apos;s Mother Road turns 100.",
+    "content": [
+      "The Bagdad Cafe on historic Route 66 in California faces an uncertain future after its longtime owner&apos;s death as America&apos;s Mother Road turns 100.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bagdad-cafe-california-tourists.jpg?ve=1&tl=1",
+    "imageCaption": "Cult-favorite movie's iconic Route 66 cafe faces uncertain f... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T22:15:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4822095447",
+    "slug": "tsa-agents-are-losing-their-checkpoint-chairs-in-a-controversial-new-move",
+    "guid": "https://www.foxnews.com/travel/tsa-agents-losing-checkpoint-chairs-controversial-new-move",
+    "title": "TSA agents are losing their checkpoint chairs in a controversial new move",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The new TSA standing rule at airport security checkpoints applies only to ID-check officers as the union warns of foot and back health risks for workers.",
+    "content": [
+      "The new TSA standing rule at airport security checkpoints applies only to ID-check officers as the union warns of foot and back health risks for workers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/tsa-agents-scan-bags.jpg?ve=1&tl=1",
+    "imageCaption": "TSA agents are losing their checkpoint chairs in a controver... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T22:50:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-edcb9dfbec",
+    "slug": "human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions",
+    "guid": "https://www.foxnews.com/outkick-sports/human-nfl-analyst-extends-lead-over-gpt-9-6-record-week-4-predictions",
+    "title": "Human NFL analyst extends lead over GPT with 9-6 record heading into Week 4 predictions",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Human NFL analyst holds a 9-6 edge over GPT&apos;s 5-10 record heading into Week 4 NFL betting picks that include two direct head-to-head disagreements.",
+    "content": [
+      "Human NFL analyst holds a 9-6 edge over GPT&apos;s 5-10 record heading into Week 4 NFL betting picks that include two direct head-to-head disagreements.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/joe-burrow-tee-higgins-bengals-celebrate-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Human NFL analyst extends lead over GPT with 9-6 record head... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T22:58:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8841a46744",
+    "slug": "bear-attack-leaves-2-people-injured-outside-their-home-in-idaho-authorities-say",
+    "guid": "https://www.foxnews.com/lifestyle/bear-attack-leaves-2-people-injured-outside-home-idaho-authorities-say",
+    "title": "Bear attack leaves 2 people injured outside their home in Idaho, authorities say",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A young bear attacked two people on their porch near Salon, Idaho, airlifting one victim to the hospital before wildlife teams tracked three bears.",
+    "content": [
+      "A young bear attacked two people on their porch near Salon, Idaho, airlifting one victim to the hospital before wildlife teams tracked three bears.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/black-bear.jpg?ve=1&tl=1",
+    "imageCaption": "Bear attack leaves 2 people injured outside their home in Id... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T23:07:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-581247a980",
+    "slug": "dodgers-begin-quest-for-third-straight-world-series-title-by-holding-on-for-game-1-win-ove",
+    "guid": "https://www.foxnews.com/outkick-sports/dodgers-begin-quest-third-straight-world-series-title-holding-game-1-win-braves",
+    "title": "Dodgers begin quest for third straight World Series title by holding on for Game 1 win over Braves",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tarik Skubal dominated on the mound while Kyle Tucker and Teoscar Hernández launched massive home runs to power the Los Angeles Dodgers over the Atlanta Braves for the Game 1 win.",
+    "content": [
+      "Tarik Skubal dominated on the mound while Kyle Tucker and Teoscar Hernández launched massive home runs to power the Los Angeles Dodgers over the Atlanta Braves for the Game 1 win.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/teoscar-hernandez-two-run-home-run_002.jpg?ve=1&tl=1",
+    "imageCaption": "Dodgers begin quest for third straight World Series title by... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T23:23:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-474e6d0737",
+    "slug": "caddyshack-star-michael-okeefe-claims-cocaine-was-budgeted-on-set-admits-filming-scenes-hi",
+    "guid": "https://www.foxnews.com/entertainment/caddyshack-star-michael-okeefe-candid-cocaine-use-iconic-comedy-filming",
+    "title": "'Caddyshack' star Michael O'Keefe claims cocaine was budgeted on set, admits filming scenes high",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Michael O&apos;Keefe opens up about rampant cocaine use on the Caddyshack set, saying people treated the drug like it was toothpaste in the &apos;70s.",
+    "content": [
+      "Michael O&apos;Keefe opens up about rampant cocaine use on the Caddyshack set, saying people treated the drug like it was toothpaste in the &apos;70s.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/michael-okeefe-denim.jpg?ve=1&tl=1",
+    "imageCaption": "'Caddyshack' star Michael O'Keefe claims cocaine was budgete... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T23:41:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6e91380fa2",
+    "slug": "florida-gators-run-into-buzzsaw-in-missouri-tigers-shred-top-ten-team-for-rare-ranked-win-",
+    "guid": "https://www.foxnews.com/outkick-sports/florida-gators-run-buzzsaw-missouri-tigers-shred-top-ten-team-rare-ranked-win-home",
+    "title": "Florida Gators run into buzzsaw in Missouri, Tigers shred top-ten team for rare ranked win at home",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Austin Simmons threw for 340 yards and two scores as the Missouri Tigers demolished the No. 8 Florida Gators 45-17, holding Jadan Baugh to 13 yards.",
+    "content": [
+      "Austin Simmons threw for 340 yards and two scores as the Missouri Tigers demolished the No. 8 Florida Gators 45-17, holding Jadan Baugh to 13 yards.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chris-graves-jr-missouri-tigers-florida-gators.jpg?ve=1&tl=1",
+    "imageCaption": "Florida Gators run into buzzsaw in Missouri, Tigers shred to... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T23:52:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0e7a019810",
+    "slug": "pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
+    "guid": "https://www.foxnews.com/outkick-sports/pete-hegseth-handles-air-force-navy-coin-toss-showing-off-basketball-skills-academy",
+    "title": "Pete Hegseth handles Air Force-Navy coin toss after showing off basketball skills at Academy",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Pete Hegseth uncorked a Caitlin Clark-like series of three-pointers at the Air Force Academy in Colorado Springs before the football game kickoff.",
+    "content": [
+      "Pete Hegseth uncorked a Caitlin Clark-like series of three-pointers at the Air Force Academy in Colorado Springs before the football game kickoff.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/hegseth-air-force-academy.png?ve=1&tl=1",
+    "imageCaption": "Pete Hegseth handles Air Force-Navy coin toss after showing ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-04T00:15:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-48e4df0016",
+    "slug": "trump-taps-director-of-national-intelligence-jay-clayton-as-ai-czar-wsj-reports",
+    "guid": "108371867",
+    "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
+    "content": [
+      "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump taps Director of National Intelligence Jay Clayton as ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-03T23:37:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-2a366e1e03",
     "slug": "republicans-dont-have-a-clear-boogeyman-for-this-years-midterms",
     "guid": "000001a0-fee3-d00c-a1f7-fefb0bd20000",
