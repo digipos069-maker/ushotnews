@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-05T18:47:11.798897+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-05T22:32:21.873129+00:00",
+  "posted_count": 60,
   "articles": {
-    "scraped-06bf941d83": {
-      "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
-      "slug": "keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
-      "url": "https://ushotnews.online/article/keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
-      "article_url": "https://ushotnews.online/article/keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118950925471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118950925471257",
-      "fb_comment_id": "122118950925471257_1601227524457667",
-      "posted_at": "2026-10-02T20:38:41.593830+00:00"
-    },
-    "keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks": {
-      "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
-      "slug": "keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
-      "url": "https://ushotnews.online/article/keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
-      "article_url": "https://ushotnews.online/article/keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118950925471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118950925471257",
-      "fb_comment_id": "122118950925471257_1601227524457667",
-      "posted_at": "2026-10-02T20:38:41.593830+00:00"
-    },
-    "scraped-dbd0d0f358": {
-      "title": "Germany's political center fights for relevance after far-right and far-left gains",
-      "slug": "germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
-      "url": "https://ushotnews.online/article/germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
-      "article_url": "https://ushotnews.online/article/germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118954339471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118954339471257",
-      "fb_comment_id": "122118954339471257_2342282549885001",
-      "posted_at": "2026-10-02T20:55:48.312193+00:00"
-    },
-    "germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains": {
-      "title": "Germany's political center fights for relevance after far-right and far-left gains",
-      "slug": "germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
-      "url": "https://ushotnews.online/article/germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
-      "article_url": "https://ushotnews.online/article/germanys-political-center-fights-for-relevance-after-far-right-and-far-left-gains",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118954339471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118954339471257",
-      "fb_comment_id": "122118954339471257_2342282549885001",
-      "posted_at": "2026-10-02T20:55:48.312193+00:00"
-    },
     "scraped-1c9a25cda2": {
       "title": "WNBA playoffs preview: Golden State Valkyries look to close out Dallas Wings in Game 3",
       "slug": "wnba-playoffs-preview-golden-state-valkyries-look-to-close-out-dallas-wings-in-game-3",
@@ -683,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120384169471257",
       "fb_comment_id": "122120384169471257_1380070811003529",
       "posted_at": "2026-10-05T18:47:11.798843+00:00"
+    },
+    "scraped-1eda0cdf25": {
+      "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+      "slug": "scotus-hears-major-climate-change-case-and-brazils-presidential-race-goes-to-runoff",
+      "url": "https://ushotnews.online/article/scotus-hears-major-climate-change-case-and-brazils-presidential-race-goes-to-runoff",
+      "article_url": "https://ushotnews.online/article/scotus-hears-major-climate-change-case-and-brazils-presidential-race-goes-to-runoff",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120453313471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120453313471257",
+      "fb_comment_id": "122120453313471257_1417329413908033",
+      "posted_at": "2026-10-05T22:32:21.873058+00:00"
+    },
+    "scotus-hears-major-climate-change-case-and-brazils-presidential-race-goes-to-runoff": {
+      "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+      "slug": "scotus-hears-major-climate-change-case-and-brazils-presidential-race-goes-to-runoff",
+      "url": "https://ushotnews.online/article/scotus-hears-major-climate-change-case-and-brazils-presidential-race-goes-to-runoff",
+      "article_url": "https://ushotnews.online/article/scotus-hears-major-climate-change-case-and-brazils-presidential-race-goes-to-runoff",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120453313471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120453313471257",
+      "fb_comment_id": "122120453313471257_1417329413908033",
+      "posted_at": "2026-10-05T22:32:21.873058+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-05T18:47:01.555360+00:00"
+  "last_cleaned_at": "2026-10-05T22:32:12.407521+00:00"
 }
