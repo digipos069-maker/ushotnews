@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-05T06:52:35.408832+00:00",
+  "last_updated": "2026-10-05T09:28:46.965292+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-ad81b4325d": {
-      "title": "AOC's dramatic retelling of Cornell rape allegations collides with complaint details",
-      "slug": "aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
-      "url": "https://ushotnews.online/article/aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
-      "article_url": "https://ushotnews.online/article/aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118645849471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118645849471257",
-      "fb_comment_id": "122118645849471257_4377770555886875",
-      "posted_at": "2026-10-02T08:58:50.625496+00:00"
-    },
-    "aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details": {
-      "title": "AOC's dramatic retelling of Cornell rape allegations collides with complaint details",
-      "slug": "aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
-      "url": "https://ushotnews.online/article/aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
-      "article_url": "https://ushotnews.online/article/aocs-dramatic-retelling-of-cornell-rape-allegations-collides-with-complaint-details",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118645849471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118645849471257",
-      "fb_comment_id": "122118645849471257_4377770555886875",
-      "posted_at": "2026-10-02T08:58:50.625496+00:00"
-    },
     "scraped-24b8eec9e7": {
       "title": "U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes",
       "slug": "us-to-send-third-carrier-group-to-mideast-as-trump-warns-of-new-iran-strikes",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120114133471257",
       "fb_comment_id": "122120114133471257_1826253728562578",
       "posted_at": "2026-10-05T06:52:35.408746+00:00"
+    },
+    "scraped-7bd677c273": {
+      "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports",
+      "slug": "enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
+      "url": "https://ushotnews.online/article/enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
+      "article_url": "https://ushotnews.online/article/enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120172849471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120172849471257",
+      "fb_comment_id": "122120172849471257_1837144120789037",
+      "posted_at": "2026-10-05T09:28:46.965230+00:00"
+    },
+    "enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports": {
+      "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports",
+      "slug": "enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
+      "url": "https://ushotnews.online/article/enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
+      "article_url": "https://ushotnews.online/article/enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120172849471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120172849471257",
+      "fb_comment_id": "122120172849471257_1837144120789037",
+      "posted_at": "2026-10-05T09:28:46.965230+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-05T06:52:27.842438+00:00"
+  "last_cleaned_at": "2026-10-05T09:28:36.551906+00:00"
 }
