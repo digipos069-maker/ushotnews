@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-04T23:28:54.744723+00:00",
+  "last_updated": "2026-10-05T00:46:10.728118+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-ff1c960d08": {
-      "title": "Kratom industry warns synthetic opioids should not be called 'kratom'",
-      "slug": "kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom",
-      "url": "https://ushotnews.online/article/kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom",
-      "article_url": "https://ushotnews.online/article/kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118447891471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118447891471257",
-      "fb_comment_id": "122118447891471257_1669518764507923",
-      "posted_at": "2026-10-01T23:42:22.672961+00:00"
-    },
-    "kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom": {
-      "title": "Kratom industry warns synthetic opioids should not be called 'kratom'",
-      "slug": "kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom",
-      "url": "https://ushotnews.online/article/kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom",
-      "article_url": "https://ushotnews.online/article/kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118447891471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118447891471257",
-      "fb_comment_id": "122118447891471257_1669518764507923",
-      "posted_at": "2026-10-01T23:42:22.672961+00:00"
-    },
     "scraped-28b2a468c9": {
       "title": "AI is a boon for 3 internet traffic cop stocks. Cramer says only 1 is a buy right now",
       "slug": "ai-is-a-boon-for-3-internet-traffic-cop-stocks-cramer-says-only-1-is-a-buy-right-now",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119994547471257",
       "fb_comment_id": "122119994547471257_2353121528558706",
       "posted_at": "2026-10-04T23:28:54.744638+00:00"
+    },
+    "scraped-569e58fc70": {
+      "title": "Israeli soccer players wear armbands to remember terror attack victims as Irish opponents pull stunt again",
+      "slug": "israeli-soccer-players-wear-armbands-to-remember-terror-attack-victims-as-irish-opponents-",
+      "url": "https://ushotnews.online/article/israeli-soccer-players-wear-armbands-to-remember-terror-attack-victims-as-irish-opponents-",
+      "article_url": "https://ushotnews.online/article/israeli-soccer-players-wear-armbands-to-remember-terror-attack-victims-as-irish-opponents-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120014551471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120014551471257",
+      "fb_comment_id": "122120014551471257_1102445445827039",
+      "posted_at": "2026-10-05T00:46:10.728056+00:00"
+    },
+    "israeli-soccer-players-wear-armbands-to-remember-terror-attack-victims-as-irish-opponents-": {
+      "title": "Israeli soccer players wear armbands to remember terror attack victims as Irish opponents pull stunt again",
+      "slug": "israeli-soccer-players-wear-armbands-to-remember-terror-attack-victims-as-irish-opponents-",
+      "url": "https://ushotnews.online/article/israeli-soccer-players-wear-armbands-to-remember-terror-attack-victims-as-irish-opponents-",
+      "article_url": "https://ushotnews.online/article/israeli-soccer-players-wear-armbands-to-remember-terror-attack-victims-as-irish-opponents-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120014551471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120014551471257",
+      "fb_comment_id": "122120014551471257_1102445445827039",
+      "posted_at": "2026-10-05T00:46:10.728056+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T23:28:47.716246+00:00"
+  "last_cleaned_at": "2026-10-05T00:45:56.092462+00:00"
 }
