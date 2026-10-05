@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-651ceb1e9d",
+    "slug": "from-floating-saunas-to-clinical-trials-how-heat-might-help-mental-health",
+    "guid": "https://www.npr.org/2026/10/05/nx-s1-5979044/sauna-heat-therapy-mental-health-depression",
+    "title": "From floating saunas to clinical trials: How heat might help mental health",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "While scientists have a decent understanding of how sauna and other forms of heat exposure exercises our cardiovascular system, they know relatively little about its impact on mental health.",
+    "content": [
+      "While scientists have a decent understanding of how sauna and other forms of heat exposure exercises our cardiovascular system, they know relatively little about its impact on mental health.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "From floating saunas to clinical trials: How heat might help... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7510abd28d",
+    "slug": "supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case",
+    "guid": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+    "title": "Supreme Court's new term kicks off with blockbuster climate change case",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
+    "content": [
+      "The case centers on whether local governments can hold giant energy companies accountable for the local harms of climate change, but it has repercussions beyond climate.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Supreme Court's new term kicks off with blockbuster climate ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f259daf28a",
+    "slug": "voters-are-increasingly-using-ai-chatbots-to-fact-check-and-compare-candidates",
+    "guid": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+    "title": "Voters are increasingly using AI chatbots to fact-check and compare candidates",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.",
+    "content": [
+      "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Voters are increasingly using AI chatbots to fact-check and ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-34c3339a7d",
+    "slug": "republicans-and-democrats-find-a-unifying-target-pharmacy-benefit-managers",
+    "guid": "https://www.npr.org/2026/10/05/nx-s1-5943563/pharmacy-benefit-managers-pbms-tennessee-arkansas-regulation",
+    "title": "Republicans and Democrats find a unifying target: Pharmacy benefit managers",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating them now.",
+    "content": [
+      "Republicans and Democrats, both patients and politicians, seem united in their disdain for the healthcare companies known as pharmacy benefit managers. Tennessee and Arkansas are regulating them now.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Republicans and Democrats find a unifying target: Pharmacy b... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-89f3dcba7b",
+    "slug": "super-el-niño-is-here-whats-so-super-about-it",
+    "guid": "https://www.npr.org/2026/10/05/nx-s1-5981261/super-el-nino-floods-droughts",
+    "title": "Super El Niño is here. What's so super about it?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "This year, federal forecasters say the planet could see the strongest El Niño event on record. Here's what you need to know.",
+    "content": [
+      "This year, federal forecasters say the planet could see the strongest El Niño event on record. Here's what you need to know.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Super El Niño is here. What's so super about it?... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-34d714fe52",
+    "slug": "spains-prime-minister-calls-early-elections-as-pressure-mounts-over-housing-crisis",
+    "guid": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+    "title": "Spain's prime minister calls early elections as pressure mounts over housing crisis",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Spanish Prime Minister Pedro Sánchez announced early elections Monday after his government suffered a bruising legislative defeat last week on emergency measures related to the country's housing crisis.",
+    "content": [
+      "Spanish Prime Minister Pedro Sánchez announced early elections Monday after his government suffered a bruising legislative defeat last week on emergency measures related to the country's housing crisis.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Spain's prime minister calls early elections as pressure mou... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:15:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3d9517ad0c",
+    "slug": "dramatic-footage-shows-alleged-narco-boat-erupt-in-fireball-during-us-military-strike",
+    "guid": "https://www.foxnews.com/world/dramatic-footage-shows-alleged-narco-boat-erupt-fireball-during-us-military-strike",
+    "title": "Dramatic footage shows alleged narco boat erupt in fireball during US military strike",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The U.S. Southern Command conducted a strike on a suspected drug vessel in the Caribbean, killing four people alleged to be narco-traffickers.",
+    "content": [
+      "The U.S. Southern Command conducted a strike on a suspected drug vessel in the Caribbean, killing four people alleged to be narco-traffickers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/accused-drug-boat-lethal-strike.png?ve=1&tl=1",
+    "imageCaption": "Dramatic footage shows alleged narco boat erupt in fireball ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T05:22:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ac5aa8fbb4",
+    "slug": "coast-guard-personnel-exchange-gunfire-with-shooters-across-us-mexico-border",
+    "guid": "https://www.foxnews.com/world/coast-guard-personnel-exchange-gunfire-shooters-us-mexico-border",
+    "title": "Coast Guard personnel exchange gunfire with shooters across US-Mexico border",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Coast Guard personnel returned fire after shots came from the Mexican side of the southern border, prompting a massive troop deployment to the region.",
+    "content": [
+      "Coast Guard personnel returned fire after shots came from the Mexican side of the southern border, prompting a massive troop deployment to the region.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/coast-guard-mexico-shooting.png?ve=1&tl=1",
+    "imageCaption": "Coast Guard personnel exchange gunfire with shooters across ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T06:45:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7cc9e23e97",
+    "slug": "the-politics-of-hypocrisy-how-scandal-is-treated-with-selective-outrage",
+    "guid": "https://www.foxnews.com/opinion/politics-hypocrisy-how-scandal-treated-selective-outrage",
+    "title": "The politics of hypocrisy: How scandal is treated with selective outrage",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Controversial candidates are fueling midterm frustration, exposing both parties’ selective outrage as they defend flawed nominees and warn the other side is worse.",
+    "content": [
+      "Controversial candidates are fueling midterm frustration, exposing both parties’ selective outrage as they defend flawed nominees and warn the other side is worse.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/capitol-building-and-voters-midterm-election.jpg?ve=1&tl=1",
+    "imageCaption": "The politics of hypocrisy: How scandal is treated with selec... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T07:00:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2a3beb33ea",
+    "slug": "ai-is-supercharging-political-ad-wars-but-viral-doesnt-mean-victorious",
+    "guid": "https://www.foxnews.com/politics/ai-supercharging-political-ad-wars-viral-doesnt-mean-victorious",
+    "title": "AI is supercharging political ad wars. But viral doesn’t mean victorious",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "AI political ads are flooding campaigns with cheaper attack ads and deepfake content, but strategists question whether the tech wins elections.",
+    "content": [
+      "AI political ads are flooding campaigns with cheaper attack ads and deepfake content, but strategists question whether the tech wins elections.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/midterm-deepfakes-gif.gif",
+    "imageCaption": "AI is supercharging political ad wars. But viral doesn’t mea... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T08:00:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7bd677c273",
+    "slug": "enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
+    "guid": "https://www.foxnews.com/opinion/enes-kanter-freedom-price-silence-wont-stop-defending-womens-sports",
+    "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Enes Kanter Freedom explains how defying Turkey and China over human rights prepared him to speak out on fair competition in women&apos;s sports.",
+    "content": [
+      "Enes Kanter Freedom explains how defying Turkey and China over human rights prepared him to speak out on fair competition in women&apos;s sports.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/enes-kanter-freedom-wintrust-arena.jpg?ve=1&tl=1",
+    "imageCaption": "ENES KANTER FREEDOM: I know the price of silence and won't s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T08:55:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b3b6c4f22c",
+    "slug": "lee-carter-polls-say-democrats-could-swamp-republicans-as-a-pollster-i-have-a-question",
+    "guid": "https://www.foxnews.com/opinion/lee-carter-polls-say-democrats-could-swamp-republicans-pollster-question",
+    "title": "LEE CARTER: Polls say Democrats could swamp Republicans. As a pollster, I have a question",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Democrats lead polls and push affordability as their message, but the question is whether rejection of Trump alone is enough without a real cause.",
+    "content": [
+      "Democrats lead polls and push affordability as their message, but the question is whether rejection of Trump alone is enough without a real cause.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/trump-affordability-speech.png?ve=1&tl=1",
+    "imageCaption": "LEE CARTER: Polls say Democrats could swamp Republicans. As ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:00:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-879e04e15a",
+    "slug": "america-must-defend-our-digital-infrastructure-here-and-overseas-to-win-the-next-war",
+    "guid": "https://www.foxnews.com/opinion/america-defend-digital-infrastructure-win-next-war",
+    "title": "America must defend our digital infrastructure, here and overseas, to win the next war",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Iranian strikes damaged Amazon Web Services data centers in the UAE and Bahrain, exposing why digital infrastructure is now a national security priority.",
+    "content": [
+      "Iranian strikes damaged Amazon Web Services data centers in the UAE and Bahrain, exposing why digital infrastructure is now a national security priority.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/iran-strike-bahrain.jpeg?ve=1&tl=1",
+    "imageCaption": "America must defend our digital infrastructure, here and ove... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:00:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a0bf2d2469",
+    "slug": "wall-street-has-a-new-rival-and-its-deep-in-the-heart-of-this-southern-state",
+    "guid": "https://www.foxnews.com/politics/wall-street-new-rival-deep-heart-southern-state",
+    "title": "Wall Street has a new rival, and it's deep in the heart of this southern state",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Texas Stock Exchange wants to challenge Wall Street&apos;s dominance as former Rep. Jeb Hensarling says Texas is America&apos;s new economic center.",
+    "content": [
+      "The Texas Stock Exchange wants to challenge Wall Street&apos;s dominance as former Rep. Jeb Hensarling says Texas is America&apos;s new economic center.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/cowboy-hat-texas-concert.png?ve=1&tl=1",
+    "imageCaption": "Wall Street has a new rival, and it's deep in the heart of t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T09:00:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e186e92a5f",
+    "slug": "the-2029-tipping-point-western-populations-are-about-to-start-shrinking-piling-pressure-on",
+    "guid": "108371875",
+    "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
+    "content": [
+      "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The 2029 tipping point: Western populations are about to sta... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T05:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9bd09d0f9f",
+    "slug": "russia-ramps-up-attacks-on-kyiv-infrastructure-as-us-makes-fresh-push-for-peace-talks",
+    "guid": "108372349",
+    "title": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes fresh push for peace talks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Russia has pledged to intensify strikes on Kyiv and other Ukrainian cities after a drone attack damaged the capital’s key Northern Bridge over the weekend.",
+    "content": [
+      "Russia has pledged to intensify strikes on Kyiv and other Ukrainian cities after a drone attack damaged the capital’s key Northern Bridge over the weekend.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Russia ramps up attacks on Kyiv infrastructure as U.S. makes... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T08:12:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-db08e0b50b",
+    "slug": "euro-hits-17-month-low-as-political-uncertainty-in-spain-and-france-rattles-markets",
+    "guid": "108372344",
+    "title": "Euro hits 17-month low as political uncertainty in Spain and France rattles markets",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Political and fiscal concerns are mounting in two of the euro area's biggest economies.",
+    "content": [
+      "Political and fiscal concerns are mounting in two of the euro area's biggest economies.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Euro hits 17-month low as political uncertainty in Spain and... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T08:04:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2394fabad9",
+    "slug": "russia-hospitalizes-almost-200-people-after-researchers-death-from-plague-reports",
+    "guid": "108372330",
+    "title": "Russia hospitalizes almost 200 people after researcher's death from plague: Reports",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Nearly 200 people are under medical observation in Russia’s Irkutsk region over suspected exposure to plague, according to local media reports.",
+    "content": [
+      "Nearly 200 people are under medical observation in Russia’s Irkutsk region over suspected exposure to plague, according to local media reports.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Russia hospitalizes almost 200 people after researcher's dea... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T05:34:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2c11d2a150",
+    "slug": "spains-pm-sanchez-calls-snap-election-after-housing-crisis-protests",
+    "guid": "108372354",
+    "title": "Spain's PM Sanchez calls snap election after housing crisis protests",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Spain's PM Sanchez calls snap election after housing crisis protests",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Spain's PM Sanchez calls snap election after housing crisis ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T07:44:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-75bfd294fb",
+    "slug": "cut-spending-to-curb-runaway-borrowing-costs-goldmans-gutman-tells-governments",
+    "guid": "108372374",
+    "title": "Cut spending to curb runaway borrowing costs, Goldman's Gutman tells governments",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Goldman Sachs' Anthony Gutman said lower fiscal deficits are needed tackle surging bond yields.",
+    "content": [
+      "Goldman Sachs' Anthony Gutman said lower fiscal deficits are needed tackle surging bond yields.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cut spending to curb runaway borrowing costs, Goldman's Gutm... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T08:52:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-b7b395c845",
     "slug": "brazils-presidential-race-heads-to-lulabolsonaro-run-off-as-right-gains-ground",
     "guid": "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
