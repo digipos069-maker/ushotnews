@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-05T14:13:10.233011+00:00",
+  "last_updated": "2026-10-05T22:27:57.392855+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025263": {
-      "title": "Bahrain Tour Conversion & PCS Orders",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112025744/DOD_112025744.mp4",
-      "attached_website_url": "https://ushotnews.online/article/star-wars-galactic-racer-is-my-childhood-podracing-dream-come-true",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1827123475152624",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1827123475152624",
-      "fb_comment_id": "1827123475152624_1106081268481820",
-      "posted_at": "2026-10-02T19:06:59.035802+00:00"
-    },
     "dvids-video:1025305": {
       "title": "Honoring the Missing: Beale AFB Hosts 24-Hour POW/MIA Vigil Run",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112026601/DOD_112026601.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1480510827249284",
       "fb_comment_id": "1480510827249284_1937975613849504",
       "posted_at": "2026-10-05T14:13:10.232948+00:00"
+    },
+    "dvids-video:1025486": {
+      "title": "7th Infantry Division (Multi-Domain Command – Pacific) West Point Shout-Out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112033782/DOD_112033782.mp4",
+      "attached_website_url": "https://ushotnews.online/article/campaign-all-coming-from-dc-paxton-says",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1792697505328984",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1792697505328984",
+      "fb_comment_id": "1792697505328984_2219378831939167",
+      "posted_at": "2026-10-05T22:27:57.392799+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-05T14:12:19.423225+00:00"
+  "last_cleaned_at": "2026-10-05T22:26:45.345570+00:00"
 }
