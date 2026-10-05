@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-05T15:52:54.110745+00:00",
+  "last_updated": "2026-10-05T18:47:11.798897+00:00",
   "posted_count": 62,
   "articles": {
-    "scraped-dd2205701e": {
-      "title": "Why is diesel more expensive than regular gas?",
-      "slug": "why-is-diesel-more-expensive-than-regular-gas",
-      "url": "https://ushotnews.online/article/why-is-diesel-more-expensive-than-regular-gas",
-      "article_url": "https://ushotnews.online/article/why-is-diesel-more-expensive-than-regular-gas",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118839019471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118839019471257",
-      "fb_comment_id": "122118839019471257_4453654114781117",
-      "posted_at": "2026-10-02T16:31:14.233266+00:00"
-    },
-    "why-is-diesel-more-expensive-than-regular-gas": {
-      "title": "Why is diesel more expensive than regular gas?",
-      "slug": "why-is-diesel-more-expensive-than-regular-gas",
-      "url": "https://ushotnews.online/article/why-is-diesel-more-expensive-than-regular-gas",
-      "article_url": "https://ushotnews.online/article/why-is-diesel-more-expensive-than-regular-gas",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122118839019471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122118839019471257",
-      "fb_comment_id": "122118839019471257_4453654114781117",
-      "posted_at": "2026-10-02T16:31:14.233266+00:00"
-    },
     "scraped-06bf941d83": {
       "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
       "slug": "keurigs-new-machine-uses-plastic-free-compressed-coffee-pucks",
@@ -683,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120316243471257",
       "fb_comment_id": "122120316243471257_2190789835160816",
       "posted_at": "2026-10-05T15:52:54.110661+00:00"
+    },
+    "scraped-8f2b6311d5": {
+      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
+      "slug": "cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
+      "url": "https://ushotnews.online/article/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
+      "article_url": "https://ushotnews.online/article/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120384169471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120384169471257",
+      "fb_comment_id": "122120384169471257_1380070811003529",
+      "posted_at": "2026-10-05T18:47:11.798843+00:00"
+    },
+    "cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance": {
+      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
+      "slug": "cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
+      "url": "https://ushotnews.online/article/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
+      "article_url": "https://ushotnews.online/article/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120384169471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120384169471257",
+      "fb_comment_id": "122120384169471257_1380070811003529",
+      "posted_at": "2026-10-05T18:47:11.798843+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-05T15:52:44.681958+00:00"
+  "last_cleaned_at": "2026-10-05T18:47:01.555360+00:00"
 }
