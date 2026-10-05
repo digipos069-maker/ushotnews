@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-04T22:56:39.838193+00:00",
+  "last_updated": "2026-10-05T05:04:32.205343+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1025199": {
-      "title": "Kunsan AB Fire Prevention Week Promo",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112024599/DOD_112024599.mp4",
-      "attached_website_url": "https://ushotnews.online/article/adam-hamilton-on-faith-trump-and-the-fight-for-kansas",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1770021780918312",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1770021780918312",
-      "fb_comment_id": "1770021780918312_1402993372047318",
-      "posted_at": "2026-10-02T04:30:59.167182+00:00"
-    },
     "dvids-video:1025198": {
       "title": "Ruff Trails: Military Working Dogs in the Jungle (CLEAN)",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112024593/DOD_112024593.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1381769183935933",
       "fb_comment_id": "1381769183935933_2391675898030196",
       "posted_at": "2026-10-04T22:56:39.838116+00:00"
+    },
+    "dvids-video:1025377": {
+      "title": "Lethal Kinetic Strike, October 4, 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112029450/DOD_112029450.mp4",
+      "attached_website_url": "https://ushotnews.online/article/brazils-presidential-race-heads-to-lulabolsonaro-run-off-as-right-gains-ground",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1443777030993567",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1443777030993567",
+      "fb_comment_id": "1443777030993567_1475010581359653",
+      "posted_at": "2026-10-05T05:04:32.205284+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-04T22:55:54.545922+00:00"
+  "last_cleaned_at": "2026-10-05T05:03:49.078046+00:00"
 }
