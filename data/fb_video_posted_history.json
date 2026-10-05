@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-10-05T05:04:32.205343+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-10-05T14:13:10.233011+00:00",
+  "posted_count": 11,
   "articles": {
-    "dvids-video:1025198": {
-      "title": "Ruff Trails: Military Working Dogs in the Jungle (CLEAN)",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112024593/DOD_112024593.mp4",
-      "attached_website_url": "https://ushotnews.online/article/adam-hamilton-on-faith-trump-and-the-fight-for-kansas",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1119550307696224",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1119550307696224",
-      "fb_comment_id": "1119550307696224_2173987786799696",
-      "posted_at": "2026-10-02T05:06:05.081936+00:00"
-    },
-    "dvids-video:1025211": {
-      "title": "AFN Misawa - Radio Around the Region: Misawa Air Fest 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112024841/DOD_112024841.mp4",
-      "attached_website_url": "https://ushotnews.online/article/adam-hamilton-on-faith-trump-and-the-fight-for-kansas",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1103570338892128",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1103570338892128",
-      "fb_comment_id": "1103570338892128_1118534607326497",
-      "posted_at": "2026-10-02T09:36:19.144848+00:00"
-    },
-    "dvids-video:1025228": {
-      "title": "AFN Naples GoPro B-Roll Package - Step Forward For Prevention",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112025019/DOD_112025019.mp4",
-      "attached_website_url": "https://ushotnews.online/article/ai-music-maker-suno-now-generates-spoken-words",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1118217507332408",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1118217507332408",
-      "fb_comment_id": "1118217507332408_2104813810397498",
-      "posted_at": "2026-10-02T12:16:46.303476+00:00"
-    },
     "dvids-video:1025263": {
       "title": "Bahrain Tour Conversion & PCS Orders",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112025744/DOD_112025744.mp4",
@@ -144,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1443777030993567",
       "fb_comment_id": "1443777030993567_1475010581359653",
       "posted_at": "2026-10-05T05:04:32.205284+00:00"
+    },
+    "dvids-video:1025410": {
+      "title": "Chef Irvine Visit",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112030228/DOD_112030228.mp4",
+      "attached_website_url": "https://ushotnews.online/article/from-floating-saunas-to-clinical-trials-how-heat-might-help-mental-health",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1480510827249284",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1480510827249284",
+      "fb_comment_id": "1480510827249284_1937975613849504",
+      "posted_at": "2026-10-05T14:13:10.232948+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-05T05:03:49.078046+00:00"
+  "last_cleaned_at": "2026-10-05T14:12:19.423225+00:00"
 }
