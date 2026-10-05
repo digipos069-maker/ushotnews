@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T00:46:10.728118+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-05T02:19:41.738072+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-28b2a468c9": {
       "title": "AI is a boon for 3 internet traffic cop stocks. Cramer says only 1 is a buy right now",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120014551471257",
       "fb_comment_id": "122120014551471257_1102445445827039",
       "posted_at": "2026-10-05T00:46:10.728056+00:00"
+    },
+    "scraped-1d6cefbff0": {
+      "title": "Shark bites fisherman twice during kayaking encounter along California beach",
+      "slug": "shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
+      "url": "https://ushotnews.online/article/shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
+      "article_url": "https://ushotnews.online/article/shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120038125471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120038125471257",
+      "fb_comment_id": "122120038125471257_1786917659025783",
+      "posted_at": "2026-10-05T02:19:41.738026+00:00"
+    },
+    "shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach": {
+      "title": "Shark bites fisherman twice during kayaking encounter along California beach",
+      "slug": "shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
+      "url": "https://ushotnews.online/article/shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
+      "article_url": "https://ushotnews.online/article/shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120038125471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120038125471257",
+      "fb_comment_id": "122120038125471257_1786917659025783",
+      "posted_at": "2026-10-05T02:19:41.738026+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-05T00:45:56.092462+00:00"
+  "last_cleaned_at": "2026-10-05T02:19:31.593273+00:00"
 }
