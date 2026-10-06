@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T19:43:32.951585+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-06T21:11:07.206541+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-0d2875721a": {
       "title": "How to Bet on UFC 332 With Caesars, Bet365 and Fanatics",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120878317471257",
       "fb_comment_id": "122120878317471257_1862775368039354",
       "posted_at": "2026-10-06T19:43:32.951517+00:00"
+    },
+    "scraped-8f59d8c507": {
+      "title": "Trump, Waltz link France riots to mass immigration as thousands are arrested",
+      "slug": "trump-waltz-link-france-riots-to-mass-immigration-as-thousands-are-arrested",
+      "url": "https://ushotnews.online/article/trump-waltz-link-france-riots-to-mass-immigration-as-thousands-are-arrested",
+      "article_url": "https://ushotnews.online/article/trump-waltz-link-france-riots-to-mass-immigration-as-thousands-are-arrested",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120902347471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120902347471257",
+      "fb_comment_id": "122120902347471257_959241000011725",
+      "posted_at": "2026-10-06T21:11:07.206468+00:00"
+    },
+    "trump-waltz-link-france-riots-to-mass-immigration-as-thousands-are-arrested": {
+      "title": "Trump, Waltz link France riots to mass immigration as thousands are arrested",
+      "slug": "trump-waltz-link-france-riots-to-mass-immigration-as-thousands-are-arrested",
+      "url": "https://ushotnews.online/article/trump-waltz-link-france-riots-to-mass-immigration-as-thousands-are-arrested",
+      "article_url": "https://ushotnews.online/article/trump-waltz-link-france-riots-to-mass-immigration-as-thousands-are-arrested",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120902347471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120902347471257",
+      "fb_comment_id": "122120902347471257_959241000011725",
+      "posted_at": "2026-10-06T21:11:07.206468+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-06T19:43:22.201565+00:00"
+  "last_cleaned_at": "2026-10-06T21:10:55.164313+00:00"
 }
