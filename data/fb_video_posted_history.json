@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-05T22:27:57.392855+00:00",
-  "posted_count": 11,
+  "last_updated": "2026-10-06T05:52:06.052978+00:00",
+  "posted_count": 10,
   "articles": {
-    "dvids-video:1025305": {
-      "title": "Honoring the Missing: Beale AFB Hosts 24-Hour POW/MIA Vigil Run",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112026601/DOD_112026601.mp4",
-      "attached_website_url": "https://ushotnews.online/article/top-gop-groups-retreat-from-north-carolina-senate-race-as-hopes-fade",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2788029398234501",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2788029398234501",
-      "fb_comment_id": "2788029398234501_1826027398748825",
-      "posted_at": "2026-10-02T23:40:46.971306+00:00"
-    },
-    "dvids-video:1025301": {
-      "title": "Blackbeard Hypersonic Testing",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112026566/DOD_112026566.mp4",
-      "attached_website_url": "https://ushotnews.online/article/meta-open-sources-code-to-let-you-make-muse-ai-gadgets",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2093516911536515",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2093516911536515",
-      "fb_comment_id": "2093516911536515_1828755614922277",
-      "posted_at": "2026-10-03T04:49:15.181565+00:00"
-    },
     "dvids-video:1025290": {
       "title": "Station 11 Simulated Event",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112026246/DOD_112026246.mp4",
@@ -122,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1792697505328984",
       "fb_comment_id": "1792697505328984_2219378831939167",
       "posted_at": "2026-10-05T22:27:57.392799+00:00"
+    },
+    "dvids-video:1025524": {
+      "title": "Misawa Air Base, Chief Pinning Ceremony 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112038552/DOD_112038552.mp4",
+      "attached_website_url": "https://ushotnews.online/article/ai-safety-groups-arent-buying-openais-spending-retreat",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "28490083313995280",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/28490083313995280",
+      "fb_comment_id": "28490083313995280_2858236554576050",
+      "posted_at": "2026-10-06T05:52:06.052908+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-05T22:26:45.345570+00:00"
+  "last_cleaned_at": "2026-10-06T05:51:05.524102+00:00"
 }
