@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-06T19:24:27.040203+00:00",
+  "last_updated": "2026-10-06T23:43:25.133602+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025343": {
-      "title": "Sgt. 1st Class David Kratky | Army Best Squad",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112028091/DOD_112028091.mp4",
-      "attached_website_url": "https://ushotnews.online/article/capcom-is-preparing-for-a-future-where-we-create-games-together-with-ai",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1722167662210725",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1722167662210725",
-      "fb_comment_id": "1722167662210725_3515006285348459",
-      "posted_at": "2026-10-03T20:53:49.155336+00:00"
-    },
     "dvids-video:1025337": {
       "title": "Army Best Squad Combat Field Test",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112027931/DOD_112027931.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1454765619886305",
       "fb_comment_id": "1454765619886305_953237680682547",
       "posted_at": "2026-10-06T19:24:27.040140+00:00"
+    },
+    "dvids-video:1025647": {
+      "title": "Pacific in 60: October 6, 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112040857/DOD_112040857.mp4",
+      "attached_website_url": "https://ushotnews.online/article/save-on-macbooks-ipads-and-apple-watches-during-october-prime-day",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1630896335346941",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1630896335346941",
+      "fb_comment_id": "1630896335346941_1625114605664690",
+      "posted_at": "2026-10-06T23:43:25.133548+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-06T19:22:56.300070+00:00"
+  "last_cleaned_at": "2026-10-06T23:41:49.412155+00:00"
 }
