@@ -1,5 +1,819 @@
 [
   {
+    "id": "scraped-4b4b8abd92",
+    "slug": "ai-safety-groups-arent-buying-openais-spending-retreat",
+    "guid": "000001a1-0e95-d576-a1f9-eff51f800001",
+    "title": "AI safety groups aren’t buying OpenAI’s spending retreat",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "They want stronger commitments to reduce the money AI super PACs push into the midterms.",
+    "content": [
+      "They want stronger commitments to reduce the money AI super PACs push into the midterms.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://static.politico.com/bd/78/d4a15a1048749e9179592bff15d0/https-delivery-gettyimages.com/downloads/2295475093",
+    "imageCaption": "AI safety groups aren’t buying OpenAI’s spending retreat... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-06T00:30:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2990768ca8",
+    "slug": "wikipedia-operator-says-openai8217s-8216rogue8217-bots-may-be-linked-to-a-may-outage",
+    "guid": "https://www.theverge.com/?p=1004929",
+    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
+    "content": [
+      "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity includes edits to Wikimedia wikis, \"unsuccessful attempts\" to \"exploit\" the Etherpad note-taking tool that the Wikimedia Foundation [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; b... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T19:05:19+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fcdaf050fd",
+    "slug": "all-the-drama-around-ai8217s-takeover-of-mathematics",
+    "guid": "https://www.theverge.com/?post_type=vm_stream&p=1004933",
+    "title": "All the drama around AI&#8217;s takeover of mathematics",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+    "content": [
+      "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "All the drama around AI&#8217;s takeover of mathematics... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T19:28:59+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4fd59e3299",
+    "slug": "this-startup-is-issuing-ai-generated-acne-prescriptions",
+    "guid": "https://www.theverge.com/?p=1005075",
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching [&#8230;]",
+    "content": [
+      "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously write a prescription, as reported earlier by Bloomberg. The service is launching [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "This startup is issuing AI-generated acne prescriptions... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T20:14:57+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ef7938747c",
+    "slug": "the-matic-is-the-first-robovac-to-get-an-fcc-ban-waiver-not-that-it-needs-it",
+    "guid": "https://www.theverge.com/?p=1004926",
+    "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock model 4DK0008 to [&#8230;]",
+    "content": [
+      "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the original Matic, model 4MA0001, and its charging dock model 4DK0008 to [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Matic is the first robovac to get an FCC ban waiver, not... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T21:15:05+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6c21a52200",
+    "slug": "reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-port",
+    "guid": "https://www.theverge.com/?post_type=vm_stream&p=1004869",
+    "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "It&#8217;s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the original game. Ever imagined skateboarding in Call of Duty? Or playing the original Halo right [&#8230;]",
+    "content": [
+      "It&#8217;s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely change the original game. Ever imagined skateboarding in Call of Duty? Or playing the original Halo right [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Reverse-engineered games: All the news on video game decomps... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T21:17:45+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a2631c3c63",
+    "slug": "gemini-call-for-me-might-tell-your-mom-you8217re-running-late",
+    "guid": "https://www.theverge.com/?p=1005177",
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
+    "content": [
+      "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Gemini Call for Me might tell your mom you&#8217;re running ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T23:09:55+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9f660a4f77",
+    "slug": "debra-messing-ditches-democrat-for-trump-backed-republican-as-she-sounds-alarm-over-new-yo",
+    "guid": "https://www.foxnews.com/entertainment/debra-messing-ditches-democrat-trump-backed-republican-sounds-alarm-new-york",
+    "title": "Debra Messing ditches Democrat for Trump-backed Republican as she sounds alarm over New York",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Debra Messing endorsed Republican Bruce Blakeman for New York governor, citing affordability, congestion pricing and the city&apos;s economic decline.",
+    "content": [
+      "Debra Messing endorsed Republican Bruce Blakeman for New York governor, citing affordability, congestion pricing and the city&apos;s economic decline.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/debra-missing.png?ve=1&tl=1",
+    "imageCaption": "Debra Messing ditches Democrat for Trump-backed Republican a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T23:22:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5a3ca8e60c",
+    "slug": "border-czar-tom-homan-clashes-with-cbs-interviewer-over-migrant-deaths-asks-for-biden-era-",
+    "guid": "https://www.foxnews.com/media/border-czar-tom-homan-clashes-cbs-interviewer-over-migrant-deaths-asks-biden-era-data",
+    "title": "Border czar Tom Homan clashes with CBS interviewer over migrant deaths, asks for Biden-era data",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Border Czar Tom Homan challenged CBS over a loaded question about ICE detention deaths, arguing the agency has the highest standards in the industry.",
+    "content": [
+      "Border Czar Tom Homan challenged CBS over a loaded question about ICE detention deaths, arguing the agency has the highest standards in the industry.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/homan-reporters.jpg?ve=1&tl=1",
+    "imageCaption": "Border czar Tom Homan clashes with CBS interviewer over migr... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T23:31:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cd6a4973c2",
+    "slug": "luxury-fashion-designers-found-shot-dead-in-california-as-family-reportedly-reveals-troubl",
+    "guid": "https://www.foxnews.com/us/luxury-fashion-designers-found-shot-dead-california-family-reportedly-reveals-troubling-lead-up",
+    "title": "Luxury fashion designers found shot dead in California as family reportedly reveals troubling lead-up",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Fashion designers Bryan Walker and Michelle Min were found shot dead outside their California home as relatives reportedly revealed troubling details about the days before their deaths.",
+    "content": [
+      "Fashion designers Bryan Walker and Michelle Min were found shot dead outside their California home as relatives reportedly revealed troubling details about the days before their deaths.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bryn-walker-luxury-clothing-store-berkeley.png?ve=1&tl=1",
+    "imageCaption": "Luxury fashion designers found shot dead in California as fa... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T23:33:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6ceab529f1",
+    "slug": "jalen-hurts-curses-at-receiver-in-viral-hot-mic-moment-during-eagles-collapse-against-rams",
+    "guid": "https://www.foxnews.com/outkick-sports/jalen-hurts-curses-receiver-viral-hot-mic-moment-eagles-collapse-rams",
+    "title": "Jalen Hurts curses at receiver in viral hot-mic moment during Eagles' collapse against Rams",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A hot-mic clip caught Jalen Hurts cursing at a receiver before the Philadelphia Eagles&apos; stunning second-half collapse against the Los Angeles Rams.",
+    "content": [
+      "A hot-mic clip caught Jalen Hurts cursing at a receiver before the Philadelphia Eagles&apos; stunning second-half collapse against the Los Angeles Rams.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jalen-hurts-screams-philadelphia-eagles.jpg?ve=1&tl=1",
+    "imageCaption": "Jalen Hurts curses at receiver in viral hot-mic moment durin... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T23:43:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-78ad049b16",
+    "slug": "seattle-seahawks-throw-joe-mixon-another-chance-in-the-nfl-following-backfield-disaster",
+    "guid": "https://www.foxnews.com/outkick-sports/seattle-seahawks-throw-joe-mixon-another-chance-nfl-following-backfield-disaster",
+    "title": "Seattle Seahawks throw Joe Mixon another chance in the NFL following backfield disaster",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Joe Mixon agreed to terms with the Seattle Seahawks after months of retirement rumors, bringing a Pro Bowl resume and a complicated off-field history.",
+    "content": [
+      "Joe Mixon agreed to terms with the Seattle Seahawks after months of retirement rumors, bringing a Pro Bowl resume and a complicated off-field history.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/joe-mixon-rushing-touchdown-bengals-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Seattle Seahawks throw Joe Mixon another chance in the NFL f... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T23:57:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-93c334cd94",
+    "slug": "privacy-fears-push-vacation-spot-to-consider-ban-on-favorite-accessory-for-travelers",
+    "guid": "https://www.foxnews.com/travel/privacy-fears-push-vacation-spot-consider-ban-favorite-accessory-travelers",
+    "title": "Privacy fears push vacation spot to consider ban on favorite accessory for travelers",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "AI smart glasses at beaches, parks, museums and shopping centers could be banned in Norway over growing concerns about the hidden recording of citizens.",
+    "content": [
+      "AI smart glasses at beaches, parks, museums and shopping centers could be banned in Norway over growing concerns about the hidden recording of citizens.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/russian-buyer-ai-smart-glasses-yiwu.jpg?ve=1&tl=1",
+    "imageCaption": "Privacy fears push vacation spot to consider ban on favorite... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-06T00:08:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-28663e56bb",
+    "slug": "trump-clears-way-for-fort-hood-terrorist-to-face-army-firing-squad-nearly-17-years-after-m",
+    "guid": "https://www.foxnews.com/politics/trump-clears-way-fort-hood-terrorist-face-army-firing-squad-nearly-17-years-after-massacre",
+    "title": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "President Trump cleared the way for Nidal Malik Hasan to face an Army firing squad nearly 17 years after the Fort Hood massacre that killed 13 people.",
+    "content": [
+      "President Trump cleared the way for Nidal Malik Hasan to face an Army firing squad nearly 17 years after the Fort Hood massacre that killed 13 people.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/trump-nidal-malik-hasan.jpg?ve=1&tl=1",
+    "imageCaption": "Trump clears way for Fort Hood terrorist to face Army firing... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-06T00:14:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8b0bf0b6d2",
+    "slug": "russian-bio-leak-secrecy-follows-chernobyl-playbook-ex-cia-officer-warns",
+    "guid": "https://www.foxnews.com/world/russian-bio-leak-secrecy-follows-chernobyl-playbook-ex-cia-officer-warns",
+    "title": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA officer warns",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Vladimir Putin faces compounding crises as a Siberian plague researcher&apos;s death adds to the Ukraine war toll and Russia&apos;s faltering economy.",
+    "content": [
+      "Vladimir Putin faces compounding crises as a Siberian plague researcher&apos;s death adds to the Ukraine war toll and Russia&apos;s faltering economy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/vladimir-putin-kremlin-state-awards-ceremony.jpg?ve=1&tl=1",
+    "imageCaption": "Russian bio-leak secrecy follows Chernobyl playbook, ex-CIA ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-06T00:32:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-50508f5d75",
+    "slug": "stocks-are-hitting-records-despite-surging-yields-cramer-explains-why",
+    "guid": "108372795",
+    "title": "Stocks are hitting records despite surging yields. Cramer explains why",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "CNBC’s Jim Cramer said Nvidia, Microsoft and Meta are helping push stocks to records even as surging Treasury yields pressure much of the broader market.",
+    "content": [
+      "CNBC’s Jim Cramer said Nvidia, Microsoft and Meta are helping push stocks to records even as surging Treasury yields pressure much of the broader market.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Stocks are hitting records despite surging yields. Cramer ex... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T22:18:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b6a0c66c23",
+    "slug": "lucids-q3-deliveries-fall-67-as-ev-maker-cuts-production-to-align-with-demand",
+    "guid": "108372761",
+    "title": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Lucid delivered 3,806 EVs and produced 2,954 vehicles during the third quarter. That compared with 4,078 deliveries on production of 3,891 vehicles a year earlier.",
+    "content": [
+      "Lucid delivered 3,806 EVs and produced 2,954 vehicles during the third quarter. That compared with 4,078 deliveries on production of 3,891 vehicles a year earlier.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Lucid's Q3 deliveries fall 6.7% as EV maker cuts production ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T21:04:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0a6b7273a1",
+    "slug": "spacex-stock-climbs-to-highest-since-june-returning-musk-to-trillionaire-status",
+    "guid": "108372721",
+    "title": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.",
+    "content": [
+      "SpaceX shares have bounced almost 60% off their low in early August, boosted by the company's AI business and Starship progress.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX stock climbs to highest since June, returning Musk to... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T20:10:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a036def240",
+    "slug": "nokia-ceo-says-data-centers-would-be-built-2x-faster-without-supply-constraints",
+    "guid": "108367295",
+    "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Nokia CEO's comments underscores continued demand for AI even as top executives debate slowing down the pace of development.",
+    "content": [
+      "The Nokia CEO's comments underscores continued demand for AI even as top executives debate slowing down the pace of development.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nokia CEO says data centers would be built '2x faster' witho... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T22:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2a402c36da",
+    "slug": "house-democrat-targets-candidate-prediction-market-trades-after-opponents-kalshi-penalty",
+    "guid": "108372756",
+    "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
+    "content": [
+      "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "House Democrat targets candidate prediction market trades af... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T21:24:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-316cadec8f",
+    "slug": "we-had-a-threat-trump-explains-us-moving-long-range-bombers-from-uk",
+    "guid": "108372815",
+    "title": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The U.S. Air Force B-1 bombers removed from England have been used in strikes on Iran.",
+    "content": [
+      "The U.S. Air Force B-1 bombers removed from England have been used in strikes on Iran.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'We had a threat': Trump explains U.S. moving long-range bom... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T20:53:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1dc7e22e4e",
+    "slug": "trump-says-hell-pay-for-tv-ads-that-praised-him-and-which-government-funded",
+    "guid": "108372929",
+    "title": "Trump says he'll pay for TV ads that praised him and which government funded",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+    "content": [
+      "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says he'll pay for TV ads that praised him and which g... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-05T23:25:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-2a7ae8e2a0",
     "slug": "campaign-all-coming-from-dc-paxton-says",
     "guid": "000001a1-0b77-d787-a9a1-bbf736190000",
