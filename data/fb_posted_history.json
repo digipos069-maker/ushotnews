@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-06T09:22:34.220280+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-10-06T14:24:08.275955+00:00",
+  "posted_count": 58,
   "articles": {
-    "scraped-684de2c907": {
-      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
-      "slug": "how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
-      "url": "https://ushotnews.online/article/how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
-      "article_url": "https://ushotnews.online/article/how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119227309471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119227309471257",
-      "fb_comment_id": "122119227309471257_2370072923801866",
-      "posted_at": "2026-10-03T11:10:22.701827+00:00"
-    },
-    "how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility": {
-      "title": "How foreign hackers could 'crumble' America by targeting one essential utility",
-      "slug": "how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
-      "url": "https://ushotnews.online/article/how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
-      "article_url": "https://ushotnews.online/article/how-foreign-hackers-could-crumble-america-by-targeting-one-essential-utility",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119227309471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119227309471257",
-      "fb_comment_id": "122119227309471257_2370072923801866",
-      "posted_at": "2026-10-03T11:10:22.701827+00:00"
-    },
-    "scraped-e1b1113741": {
-      "title": "FlyDubai co-pilot accused of stabbing captain identified as 29-year-old Omani national",
-      "slug": "flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
-      "url": "https://ushotnews.online/article/flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
-      "article_url": "https://ushotnews.online/article/flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119233849471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119233849471257",
-      "fb_comment_id": "122119233849471257_1646054750235770",
-      "posted_at": "2026-10-03T11:33:13.212710+00:00"
-    },
-    "flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national": {
-      "title": "FlyDubai co-pilot accused of stabbing captain identified as 29-year-old Omani national",
-      "slug": "flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
-      "url": "https://ushotnews.online/article/flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
-      "article_url": "https://ushotnews.online/article/flydubai-co-pilot-accused-of-stabbing-captain-identified-as-29-year-old-omani-national",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119233849471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119233849471257",
-      "fb_comment_id": "122119233849471257_1646054750235770",
-      "posted_at": "2026-10-03T11:33:13.212710+00:00"
-    },
     "scraped-a0b845af9f": {
       "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
       "slug": "berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows",
@@ -661,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120638575471257",
       "fb_comment_id": "122120638575471257_28192224920473421",
       "posted_at": "2026-10-06T09:22:34.220214+00:00"
+    },
+    "scraped-9ff12b0fe0": {
+      "title": "Ken Paxton’s secret weapon: Ted Cruz",
+      "slug": "ken-paxtons-secret-weapon-ted-cruz",
+      "url": "https://ushotnews.online/article/ken-paxtons-secret-weapon-ted-cruz",
+      "article_url": "https://ushotnews.online/article/ken-paxtons-secret-weapon-ted-cruz",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120755035471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120755035471257",
+      "fb_comment_id": "122120755035471257_1766918407923944",
+      "posted_at": "2026-10-06T14:24:08.275866+00:00"
+    },
+    "ken-paxtons-secret-weapon-ted-cruz": {
+      "title": "Ken Paxton’s secret weapon: Ted Cruz",
+      "slug": "ken-paxtons-secret-weapon-ted-cruz",
+      "url": "https://ushotnews.online/article/ken-paxtons-secret-weapon-ted-cruz",
+      "article_url": "https://ushotnews.online/article/ken-paxtons-secret-weapon-ted-cruz",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120755035471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120755035471257",
+      "fb_comment_id": "122120755035471257_1766918407923944",
+      "posted_at": "2026-10-06T14:24:08.275866+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-06T09:22:20.909343+00:00"
+  "last_cleaned_at": "2026-10-06T14:23:58.327410+00:00"
 }
