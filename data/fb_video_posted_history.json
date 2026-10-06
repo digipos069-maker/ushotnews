@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-06T05:52:06.052978+00:00",
+  "last_updated": "2026-10-06T13:09:07.233771+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1025290": {
-      "title": "Station 11 Simulated Event",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112026246/DOD_112026246.mp4",
-      "attached_website_url": "https://ushotnews.online/article/no-one-expected-an-american-pope-heres-the-inside-story-of-how-bob-became-pope-leo",
-      "trending_score": 75.0,
-      "format": "video",
-      "fb_video_id": "1854048152437424",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1854048152437424",
-      "fb_comment_id": "1854048152437424_1392286179687741",
-      "posted_at": "2026-10-03T11:27:59.544205+00:00"
-    },
     "dvids-video:1025343": {
       "title": "Sgt. 1st Class David Kratky | Army Best Squad",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112028091/DOD_112028091.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/28490083313995280",
       "fb_comment_id": "28490083313995280_2858236554576050",
       "posted_at": "2026-10-06T05:52:06.052908+00:00"
+    },
+    "dvids-video:1025502": {
+      "title": "Surface Line Week 2026 Kicks Off",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112035710/DOD_112035710.mp4",
+      "attached_website_url": "https://ushotnews.online/article/jim-bakker-who-built-ptl-club-televangelism-empire-has-died-at-86",
+      "trending_score": 105.0,
+      "format": "video",
+      "fb_video_id": "2062219541068422",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2062219541068422",
+      "fb_comment_id": "2062219541068422_1093294013294051",
+      "posted_at": "2026-10-06T13:09:07.233707+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-06T05:51:05.524102+00:00"
+  "last_cleaned_at": "2026-10-06T13:08:09.460428+00:00"
 }
