@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T00:36:47.315376+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-06T02:29:43.382537+00:00",
+  "posted_count": 60,
   "articles": {
     "scraped-adecfc8510": {
       "title": "Northwestern Wildcats christen new Ryan Field with impressive win over Penn State Nittany Lions",
@@ -639,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120487795471257",
       "fb_comment_id": "122120487795471257_4459030441077540",
       "posted_at": "2026-10-06T00:36:47.315312+00:00"
+    },
+    "scraped-28663e56bb": {
+      "title": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
+      "slug": "trump-clears-way-for-fort-hood-terrorist-to-face-army-firing-squad-nearly-17-years-after-m",
+      "url": "https://ushotnews.online/article/trump-clears-way-for-fort-hood-terrorist-to-face-army-firing-squad-nearly-17-years-after-m",
+      "article_url": "https://ushotnews.online/article/trump-clears-way-for-fort-hood-terrorist-to-face-army-firing-squad-nearly-17-years-after-m",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120514561471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120514561471257",
+      "fb_comment_id": "122120514561471257_1617882279828178",
+      "posted_at": "2026-10-06T02:29:43.382469+00:00"
+    },
+    "trump-clears-way-for-fort-hood-terrorist-to-face-army-firing-squad-nearly-17-years-after-m": {
+      "title": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
+      "slug": "trump-clears-way-for-fort-hood-terrorist-to-face-army-firing-squad-nearly-17-years-after-m",
+      "url": "https://ushotnews.online/article/trump-clears-way-for-fort-hood-terrorist-to-face-army-firing-squad-nearly-17-years-after-m",
+      "article_url": "https://ushotnews.online/article/trump-clears-way-for-fort-hood-terrorist-to-face-army-firing-squad-nearly-17-years-after-m",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120514561471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120514561471257",
+      "fb_comment_id": "122120514561471257_1617882279828178",
+      "posted_at": "2026-10-06T02:29:43.382469+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-06T00:36:37.538383+00:00"
+  "last_cleaned_at": "2026-10-06T02:29:32.995422+00:00"
 }
