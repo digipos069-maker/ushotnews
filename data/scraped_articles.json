@@ -1,5 +1,486 @@
 [
   {
+    "id": "scraped-f17779650a",
+    "slug": "openai-drops-another-batch-of-mathematical-breakthroughs",
+    "guid": "https://www.theverge.com/?p=1005004",
+    "title": "OpenAI drops another batch of mathematical breakthroughs",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+    "content": [
+      "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI drops another batch of mathematical breakthroughs... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-06T23:26:38+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e07dc012e1",
+    "slug": "dodgers-hit-two-homers-off-chris-sale-to-steal-game-three-of-nlds-behind-yoshinobu-yamamot",
+    "guid": "https://www.foxnews.com/outkick-sports/dodgers-hit-two-homers-chris-sale-steal-game-three-nlds-yoshinobu-yamamoto",
+    "title": "Dodgers hit two homers off Chris Sale to steal game three of NLDS behind Yoshinobu Yamamoto",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Dave Roberts made a gutsy call turning to Edwin Diaz for the final three outs as the Los Angeles Dodgers clung to a Game 3 lead over Atlanta.",
+    "content": [
+      "Dave Roberts made a gutsy call turning to Edwin Diaz for the final three outs as the Los Angeles Dodgers clung to a Game 3 lead over Atlanta.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/freddie-freeman-home-run-dodgers-braves-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Dodgers hit two homers off Chris Sale to steal game three of... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T01:59:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f7ccd26a73",
+    "slug": "super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
+    "guid": "https://www.foxnews.com/outkick-sports/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-save-your-life",
+    "title": "Super Bowl-winning coach Bruce Arians partners urges prostate cancer screenings: 'It will save your life'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bruce Arians shared his prostate cancer survival story during the NFL&apos;s Crucial Catch week, urging men to get a simple PSA blood test every year.",
+    "content": [
+      "Bruce Arians shared his prostate cancer survival story during the NFL&apos;s Crucial Catch week, urging men to get a simple PSA blood test every year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bruce-arians-buccaneers-eagles-playoff-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Super Bowl-winning coach Bruce Arians partners urges prostat... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T02:09:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d8f0889724",
+    "slug": "debra-messing-says-cost-of-living-subway-violence-pushed-her-to-back-trump-endorsed-republ",
+    "guid": "https://www.foxnews.com/entertainment/debra-messing-cost-living-subway-violence-pushed-back-trump-endorsed-republican",
+    "title": "Debra Messing says cost of living, subway violence pushed her to back Trump-endorsed Republican",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Debra Messing explains why affordability, public safety, and congestion pricing concerns led her to back Republican Bruce Blakeman for governor.",
+    "content": [
+      "Debra Messing explains why affordability, public safety, and congestion pricing concerns led her to back Republican Bruce Blakeman for governor.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/debra-messing-smiling.jpg?ve=1&tl=1",
+    "imageCaption": "Debra Messing says cost of living, subway violence pushed he... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T02:09:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a4d7ec880c",
+    "slug": "alleged-killing-by-marine-prompts-us-military-to-restrict-off-base-liberty-in-okinawa",
+    "guid": "https://www.foxnews.com/world/alleged-killing-marine-prompts-us-military-restrict-off-base-liberty-okinawa",
+    "title": "Alleged killing by Marine prompts US military to restrict off-base liberty in Okinawa",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The U.S. military in Okinawa banned troops from leaving base after a Marine was arrested for allegedly killing a woman at a Naha hotel on Saturday.",
+    "content": [
+      "The U.S. military in Okinawa banned troops from leaving base after a Marine was arrested for allegedly killing a woman at a Naha hotel on Saturday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mv-22-osprey-marine-corps-futenma-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "Alleged killing by Marine prompts US military to restrict of... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T02:15:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd17cd0dd4",
+    "slug": "usmnt-adds-to-sports-wins-over-canada-this-year-with-international-friendly-victory-in-min",
+    "guid": "https://www.foxnews.com/outkick-sports/usmnt-adds-sports-wins-over-canada-year-international-friendly-victory-minnesota",
+    "title": "USMNT adds to sports wins over Canada this year with international friendly victory in Minnesota",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Justin Ellis scored the lone goal as the United States beat Canada 1-0, capping an undefeated friendly stretch under Mauricio Pochettino.",
+    "content": [
+      "Justin Ellis scored the lone goal as the United States beat Canada 1-0, capping an undefeated friendly stretch under Mauricio Pochettino.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/justin-ellis-usmnt-canada-goal.jpg?ve=1&tl=1",
+    "imageCaption": "USMNT adds to sports wins over Canada this year with interna... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T02:28:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-17b3a4c655",
+    "slug": "closer-mason-miller-hits-paternity-list-45-minutes-before-the-padres-season-is-on-the-line",
+    "guid": "https://www.foxnews.com/outkick-sports/closer-mason-miller-hits-paternity-list-45-minutes-padres-season-line",
+    "title": "Closer Mason Miller hits paternity list 45 minutes before the Padres' season is on the line",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Mason Miller lands on MLB&apos;s paternity list before a win-or-go-home Game 3, leaving the Padres without their top reliever in an elimination game.",
+    "content": [
+      "Mason Miller lands on MLB&apos;s paternity list before a win-or-go-home Game 3, leaving the Padres without their top reliever in an elimination game.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/san-diego-padres-mason-miller-2_001.jpg?ve=1&tl=1",
+    "imageCaption": "Closer Mason Miller hits paternity list 45 minutes before th... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T02:59:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b55f5393d5",
+    "slug": "man-pleads-guilty-to-2023-killing-of-lauren-heike-on-phoenix-hiking-trail",
+    "guid": "https://www.foxnews.com/us/man-pleads-guilty-2023-killing-lauren-heike-phoenix-hiking-trail",
+    "title": "Man pleads guilty to 2023 killing of Lauren Heike on Phoenix hiking trail",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Zion Teasley admitted to killing Lauren Heike, whose body was found with 15 stab wounds along a north Phoenix, Arizona, community trail in 2023.",
+    "content": [
+      "Zion Teasley admitted to killing Lauren Heike, whose body was found with 15 stab wounds along a north Phoenix, Arizona, community trail in 2023.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/05/931/523/Heike-2.jpg?ve=1&tl=1",
+    "imageCaption": "Man pleads guilty to 2023 killing of Lauren Heike on Phoenix... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T03:15:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-61ac424e4e",
+    "slug": "former-german-spy-chief-arrested-on-suspicion-of-espionage-attempted-treason",
+    "guid": "https://www.foxnews.com/world/former-german-spy-chief-arrested-suspicion-espionage-attempted-treason",
+    "title": "Former German spy chief arrested on suspicion of espionage, attempted treason",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "August Hanning, 80, who led Germany&apos;s BND from 1998 to 2005, faces espionage and attempted treason charges tied to roughly 2,000 classified documents.",
+    "content": [
+      "August Hanning, 80, who led Germany&apos;s BND from 1998 to 2005, faces espionage and attempted treason charges tied to roughly 2,000 classified documents.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/august-hanning-bnd-former-chief-arrested.jpg?ve=1&tl=1",
+    "imageCaption": "Former German spy chief arrested on suspicion of espionage, ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T03:50:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6aba1689d6",
+    "slug": "trump-set-to-talk-to-russias-putin-very-soon-about-plague-related-death-in-siberia",
+    "guid": "108373726",
+    "title": "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Trump says he will speak with Putin “very soon” over a plague incident in Russia as CDC monitor the situation.",
+    "content": [
+      "Trump says he will speak with Putin “very soon” over a plague incident in Russia as CDC monitor the situation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump set to talk to Russia's Putin 'very soon' about plague... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T04:12:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a487242403",
+    "slug": "trump-isnt-completely-wrong-hormuz-disruption-is-asias-problem-says-singapores-foreign-min",
+    "guid": "108373233",
+    "title": "Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s problem, says Singapore's foreign minister",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Trump has said that Asian economies, which are heavily reliant on energy shipped through Hormuz, should shoulder more of the burden of keeping the waterway open.",
+    "content": [
+      "Trump has said that Asian economies, which are heavily reliant on energy shipped through Hormuz, should shoulder more of the burden of keeping the waterway open.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump isn't ‘completely wrong’: Hormuz disruption is Asia’s ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T02:10:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-96acdc9bfa",
+    "slug": "trillions-are-being-wasted-on-the-ai-boom-arthur-hayes-says-hes-betting-on-what-comes-next",
+    "guid": "108373222",
+    "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.",
+    "content": [
+      "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes sa... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T00:49:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bf128f8a50",
+    "slug": "oil-rises-as-concerns-over-houthi-attacks-on-saudi-arabia-eclipse-supply-recovery",
+    "guid": "108373706",
+    "title": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Oil rose Wednesday, as concerns over attacks by Yemen's Iran-backed Houthis on Saudi Arabia outweigh a higher crude supply in Middle East.",
+    "content": [
+      "Oil rose Wednesday, as concerns over attacks by Yemen's Iran-backed Houthis on Saudi Arabia outweigh a higher crude supply in Middle East.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Oil rises as concerns over Houthi attacks on Saudi Arabia ec... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T04:24:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-19e9cd10c5",
     "slug": "save-on-macbooks-ipads-and-apple-watches-during-october-prime-day",
     "guid": "https://www.theverge.com/?p=1005662",
