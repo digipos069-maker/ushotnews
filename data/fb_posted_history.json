@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-07T07:09:40.800007+00:00",
+  "last_updated": "2026-10-07T11:32:36.163468+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-edcb9dfbec": {
-      "title": "Human NFL analyst extends lead over GPT with 9-6 record heading into Week 4 predictions",
-      "slug": "human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions",
-      "url": "https://ushotnews.online/article/human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions",
-      "article_url": "https://ushotnews.online/article/human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119675233471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119675233471257",
-      "fb_comment_id": "122119675233471257_1086419797468242",
-      "posted_at": "2026-10-04T08:19:54.521842+00:00"
-    },
-    "human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions": {
-      "title": "Human NFL analyst extends lead over GPT with 9-6 record heading into Week 4 predictions",
-      "slug": "human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions",
-      "url": "https://ushotnews.online/article/human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions",
-      "article_url": "https://ushotnews.online/article/human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119675233471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119675233471257",
-      "fb_comment_id": "122119675233471257_1086419797468242",
-      "posted_at": "2026-10-04T08:19:54.521842+00:00"
-    },
     "scraped-05dbf2d938": {
       "title": "GOP Senate candidate's estranged wife confirms who she's voting for amid divorce proceedings",
       "slug": "gop-senate-candidates-estranged-wife-confirms-who-shes-voting-for-amid-divorce-proceedings",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121081735471257",
       "fb_comment_id": "122121081735471257_1436742431886605",
       "posted_at": "2026-10-07T07:09:40.799942+00:00"
+    },
+    "scraped-bc19804c8e": {
+      "title": "Jaguar’s first EV looks just like its divisive concept car",
+      "slug": "jaguars-first-ev-looks-just-like-its-divisive-concept-car",
+      "url": "https://ushotnews.online/article/jaguars-first-ev-looks-just-like-its-divisive-concept-car",
+      "article_url": "https://ushotnews.online/article/jaguars-first-ev-looks-just-like-its-divisive-concept-car",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121189915471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121189915471257",
+      "fb_comment_id": "122121189915471257_1859660165455093",
+      "posted_at": "2026-10-07T11:32:36.163407+00:00"
+    },
+    "jaguars-first-ev-looks-just-like-its-divisive-concept-car": {
+      "title": "Jaguar’s first EV looks just like its divisive concept car",
+      "slug": "jaguars-first-ev-looks-just-like-its-divisive-concept-car",
+      "url": "https://ushotnews.online/article/jaguars-first-ev-looks-just-like-its-divisive-concept-car",
+      "article_url": "https://ushotnews.online/article/jaguars-first-ev-looks-just-like-its-divisive-concept-car",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121189915471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121189915471257",
+      "fb_comment_id": "122121189915471257_1859660165455093",
+      "posted_at": "2026-10-07T11:32:36.163407+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-07T07:09:31.405379+00:00"
+  "last_cleaned_at": "2026-10-07T11:32:23.917383+00:00"
 }
