@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-07T00:59:19.841417+00:00",
+  "last_updated": "2026-10-07T04:30:47.725116+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-0e7a019810": {
-      "title": "Pete Hegseth handles Air Force-Navy coin toss after showing off basketball skills at Academy",
-      "slug": "pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
-      "url": "https://ushotnews.online/article/pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
-      "article_url": "https://ushotnews.online/article/pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119563801471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119563801471257",
-      "fb_comment_id": "122119563801471257_1074807765179500",
-      "posted_at": "2026-10-04T01:57:14.981575+00:00"
-    },
-    "pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade": {
-      "title": "Pete Hegseth handles Air Force-Navy coin toss after showing off basketball skills at Academy",
-      "slug": "pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
-      "url": "https://ushotnews.online/article/pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
-      "article_url": "https://ushotnews.online/article/pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119563801471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119563801471257",
-      "fb_comment_id": "122119563801471257_1074807765179500",
-      "posted_at": "2026-10-04T01:57:14.981575+00:00"
-    },
     "scraped-801bd72e08": {
       "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
       "slug": "brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120980365471257",
       "fb_comment_id": "122120980365471257_2574276929708248",
       "posted_at": "2026-10-07T00:59:19.841350+00:00"
+    },
+    "scraped-f7ccd26a73": {
+      "title": "Super Bowl-winning coach Bruce Arians partners urges prostate cancer screenings: 'It will save your life'",
+      "slug": "super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
+      "url": "https://ushotnews.online/article/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
+      "article_url": "https://ushotnews.online/article/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121035757471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121035757471257",
+      "fb_comment_id": "122121035757471257_1741751450274018",
+      "posted_at": "2026-10-07T04:30:47.725047+00:00"
+    },
+    "super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa": {
+      "title": "Super Bowl-winning coach Bruce Arians partners urges prostate cancer screenings: 'It will save your life'",
+      "slug": "super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
+      "url": "https://ushotnews.online/article/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
+      "article_url": "https://ushotnews.online/article/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121035757471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121035757471257",
+      "fb_comment_id": "122121035757471257_1741751450274018",
+      "posted_at": "2026-10-07T04:30:47.725047+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-07T00:59:05.021642+00:00"
+  "last_cleaned_at": "2026-10-07T04:30:37.762416+00:00"
 }
