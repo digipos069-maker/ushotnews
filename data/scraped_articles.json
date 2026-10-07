@@ -1,5 +1,1226 @@
 [
   {
+    "id": "scraped-e535cdf00a",
+    "slug": "the-top-house-sleeper-races-to-watch-according-to-the-pros",
+    "guid": "000001a1-13ae-d576-a1f9-ffffbf950001",
+    "title": "The top House sleeper races to watch, according to the pros",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Top officials with the Democratic Congressional Campaign Committee and National Republican Congressional Committee dished on their four picks to watch to see if they're having a good election night.",
+    "content": [
+      "Top officials with the Democratic Congressional Campaign Committee and National Republican Congressional Committee dished on their four picks to watch to see if they're having a good election night.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/da/dd/3b2487754061aa04944196ca83fb/election-2024-trump-72389.jpg",
+    "imageCaption": "The top House sleeper races to watch, according to the pros... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T14:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d6e3b2deff",
+    "slug": "paxtons-latest-audio-leak-is-making-things-tough-for-national-republicans",
+    "guid": "000001a1-1692-d787-a9a1-bed79eea0001",
+    "title": "Paxton’s latest audio leak is making things tough for national Republicans",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Paxton’s closed-door comments — that D.C. Republicans are largely controlling his race — have irked several close to the Texas Senate rescue effort.",
+    "content": [
+      "Paxton’s closed-door comments — that D.C. Republicans are largely controlling his race — have irked several close to the Texas Senate rescue effort.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/2b/50/944470f940979c36e6d267e5d7b0/https-delivery-gettyimages.com/downloads/2295968676",
+    "imageCaption": "Paxton’s latest audio leak is making things tough for nation... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T14:37:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a4c356fe1a",
+    "slug": "michigans-mike-rogers-says-trade-war-with-canada-needs-to-end",
+    "guid": "000001a1-16d5-d365-a3e9-1eff75390000",
+    "title": "Michigan’s Mike Rogers says trade war with Canada needs to end",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Weeks after he called for an end to the war with Iran, the GOP Senate candidate is breaking with the Trump administration again.",
+    "content": [
+      "Weeks after he called for an end to the war with Iran, the GOP Senate candidate is breaking with the Trump administration again.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/31/7b/4eed8e4e4ead865d6eae5ef064a6/election-2-26-republicans-519.jpg",
+    "imageCaption": "Michigan’s Mike Rogers says trade war with Canada needs to e... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T15:18:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c5f252556",
+    "slug": "microsofts-surface-laptop-ultra-has-built-in-magnetic-usb-c-charging",
+    "guid": "https://www.theverge.com/?p=1006445",
+    "title": "Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C charging",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Microsoft has created a magnetic charging solution for its Surface Laptop Ultra that uses USB-C. After scrapping its proprietary Surface Connect magnetic charging on its smaller Surface devices last year, the Surface Laptop Ultra has a charging cable that attaches magnetically to the right-side USB-C port. During Microsoft's Windows event on Wednesday, Windows and Surface [&#8230;]",
+    "content": [
+      "Microsoft has created a magnetic charging solution for its Surface Laptop Ultra that uses USB-C. After scrapping its proprietary Surface Connect magnetic charging on its smaller Surface devices last year, the Surface Laptop Ultra has a charging cable that attaches magnetically to the right-side USB-C port. During Microsoft's Windows event on Wednesday, Windows and Surface [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft’s Surface Laptop Ultra has built-in magnetic USB-C... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:44:04+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-40b7af8f04",
+    "slug": "surface-rtx-spark-dev-box-is-available-for-preorder-for-5999",
+    "guid": "https://www.theverge.com/?p=1006915",
+    "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized [&#8230;]",
+    "content": [
+      "Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now directly, and slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC Nvidia launched last year, but PC prices have been climbing due to shortages of RAM and other components. The Dev Box's flat, 3D-printed anodized [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Surface RTX Spark Dev Box is available for preorder for $5,9... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:46:44+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f4490feee3",
+    "slug": "the-surface-laptop-ultra-finally-has-a-release-date-and-a-starting-price-of-2599",
+    "guid": "https://www.theverge.com/?p=1006378",
+    "title": "The Surface Laptop Ultra finally has a release date — and a starting price of $2,599",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Months after revealing its Surface Laptop Ultra, Microsoft has announced that the Nvidia RTX Spark-equipped device will launch on October 16th. Pricing starts at $2,599 for the base configuration, featuring an 18-core CPU, 24GB of RAM, and 512GB of storage. The Surface Laptop Ultra ships with a 15-inch HDR touchscreen display with up to 2,000 [&#8230;]",
+    "content": [
+      "Months after revealing its Surface Laptop Ultra, Microsoft has announced that the Nvidia RTX Spark-equipped device will launch on October 16th. Pricing starts at $2,599 for the base configuration, featuring an 18-core CPU, 24GB of RAM, and 512GB of storage. The Surface Laptop Ultra ships with a 15-inch HDR touchscreen display with up to 2,000 [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Surface Laptop Ultra finally has a release date — and a ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:48:45+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f2cbe4ef69",
+    "slug": "what-the-social-reckoning-gets-right-and-wrong",
+    "guid": "https://www.theverge.com/?p=1007069",
+    "title": "What The Social Reckoning gets right — and wrong",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Aaron Sorkin's The Social Reckoning has its fair share of cinematic flair, but many details in the story hew closely to real life. The movie tells the story of how Frances Haugen, a Facebook civic integrity product manager, came to leak a large trove of internal documents to Wall Street Journal investigative reporter Jeff Horwitz, [&#8230;]",
+    "content": [
+      "Aaron Sorkin's The Social Reckoning has its fair share of cinematic flair, but many details in the story hew closely to real life. The movie tells the story of how Frances Haugen, a Facebook civic integrity product manager, came to leak a large trove of internal documents to Wall Street Journal investigative reporter Jeff Horwitz, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What The Social Reckoning gets right — and wrong... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:53:48+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c2b2b988b",
+    "slug": "the-meta-quest-3s-gets-a-rare-discount-during-october-prime-day",
+    "guid": "https://www.theverge.com/?p=1006810",
+    "title": "The Meta Quest 3S gets a rare discount during October Prime Day",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Until the end of Amazon’s October sale later tonight, you can grab the 128GB Meta Quest 3S for just $297.49 (usually $349.99) at Amazon, Walmart, and Best Buy. While the lenses and displays aren’t quite as sharp as the Quest 3, the underlying chipset is the same, and this is a much more reasonable price [&#8230;]",
+    "content": [
+      "Until the end of Amazon’s October sale later tonight, you can grab the 128GB Meta Quest 3S for just $297.49 (usually $349.99) at Amazon, Walmart, and Best Buy. While the lenses and displays aren’t quite as sharp as the Quest 3, the underlying chipset is the same, and this is a much more reasonable price [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Meta Quest 3S gets a rare discount during October Prime ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8641513c2f",
+    "slug": "how-microsoft-built-its-macbook-pro-competitor",
+    "guid": "https://www.theverge.com/?p=1006356",
+    "title": "How Microsoft built its MacBook Pro competitor",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Before Microsoft releases a laptop to the public, it needs to put the device through its paces. That all happens inside a windowless, warehouse-like lab on the company's Redmond, Washington, campus, where the team developing Surface devices programs robots to press their buttons thousands of times, pelts devices with radio waves from giant antennas, and [&#8230;]",
+    "content": [
+      "Before Microsoft releases a laptop to the public, it needs to put the device through its paces. That all happens inside a windowless, warehouse-like lab on the company's Redmond, Washington, campus, where the team developing Surface devices programs robots to press their buttons thousands of times, pelts devices with radio waves from giant antennas, and [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How Microsoft built its MacBook Pro competitor... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7b9bf5f507",
+    "slug": "microsoft-is-giving-copilot-more-control-over-windows-and-your-files",
+    "guid": "https://www.theverge.com/?p=1007113",
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [&#8230;]",
+    "content": [
+      "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft is giving Copilot more control over Windows and yo... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:01:20+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0d9f68c840",
+    "slug": "diy-fertilizer-is-a-blessing-as-farmers-face-steep-prices-due-to-the-iran-war",
+    "guid": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
+    "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "It's hard enough being a small-scale farmer. Then the Iran war drove up fertilizer prices. So farmers are using a traditional Asian recipe to make their own. They call it a \"labor of love.\"",
+    "content": [
+      "It's hard enough being a small-scale farmer. Then the Iran war drove up fertilizer prices. So farmers are using a traditional Asian recipe to make their own. They call it a \"labor of love.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "DIY fertilizer is a blessing as farmers face steep prices du... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T13:32:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d3d73fd8ab",
+    "slug": "greetings-from-lahore-pakistan-whose-high-court-offers-an-oasis-for-chatter-and-chai",
+    "guid": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
+    "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees.",
+    "content": [
+      "The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Greetings from Lahore, Pakistan, whose high court offers an ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T13:53:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-73031ed28d",
+    "slug": "gut-microbes-followed-migrating-humans-across-continents-new-study-suggests",
+    "guid": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
+    "title": "Gut microbes followed migrating humans across continents, new study suggests",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?",
+    "content": [
+      "New research looks at the surprising similarities in the gut microbiomes of hunter-gathers in Tanzania and horticulturalists in Bolivia, and asks: What role do these bacteria play in human health?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Gut microbes followed migrating humans across continents, ne... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T15:00:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-949d241c95",
+    "slug": "she-got-trumps-500-check-for-health-insurance-to-her-its-a-political-stunt",
+    "guid": "https://www.npr.org/2026/10/07/nx-s1-5991687/trump-medicare-aca-payments-midterms",
+    "title": "She got Trump's $500 check for health insurance. To her, it's a 'political stunt'",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.",
+    "content": [
+      "As checks from President Trump for health costs hit millions of mailboxes, a poll shows Americans don't trust Republicans on healthcare. Experts doubt it will move the needle and say it is likely illegal.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "She got Trump's $500 check for health insurance. To her, it'... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T16:15:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-73d06f6629",
+    "slug": "how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
+    "guid": "https://www.npr.org/2026/10/07/nx-s1-5992775/how-defense-secretary-pete-hegseth-has-brought-the-culture-wars-to-the-military",
+    "title": "How Defense Secretary Pete Hegseth has brought the culture wars to the military",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The New York Times reporter Greg Jaffe says Hegseth has disproportionately blocked promotions of Black and women senior officers, and he's also been purging the military of transgender people.",
+    "content": [
+      "The New York Times reporter Greg Jaffe says Hegseth has disproportionately blocked promotions of Black and women senior officers, and he's also been purging the military of transgender people.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How Defense Secretary Pete Hegseth has brought the culture w... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T16:55:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9771dbf512",
+    "slug": "why-trump-just-loosened-the-rules-on-dyed-diesel-normally-a-farm-fuel",
+    "guid": "https://www.npr.org/2026/10/07/nx-s1-5992963/dyed-diesel-fuel-price-farmers-trucks",
+    "title": "Why Trump just loosened the rules on 'dyed diesel' — normally a farm fuel",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Trump is temporarily allowing this fuel to be used on highways, although it's typically just for off-road farm and construction vehicles. Could that lower the price of diesel?",
+    "content": [
+      "Trump is temporarily allowing this fuel to be used on highways, although it's typically just for off-road farm and construction vehicles. Could that lower the price of diesel?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why Trump just loosened the rules on 'dyed diesel' — normall... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:00:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2306fd8bc1",
+    "slug": "israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for",
+    "guid": "https://www.foxnews.com/politics/israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-day-mourning-al-qaeda",
+    "title": "Israel amb torches Mamdani Oct 7 post: 'Like turning September 11 into a day of mourning for al-Qaeda'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "New York City Mayor Zohran Mamdani&apos;s Oct. 7 anniversary post accused Israel of genocide, drawing a sharp rebuke from UN Ambassador Danny Danon.",
+    "content": [
+      "New York City Mayor Zohran Mamdani&apos;s Oct. 7 anniversary post accused Israel of genocide, drawing a sharp rebuke from UN Ambassador Danny Danon.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/danny-danon-zohran-mamdani-split.jpg?ve=1&tl=1",
+    "imageCaption": "Israel amb torches Mamdani Oct 7 post: 'Like turning Septemb... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:36:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-711b00c4ef",
+    "slug": "coco-gauff-eliminated-from-tournament-after-draining-racial-commentary-match-controversy",
+    "guid": "https://www.foxnews.com/outkick-sports/coco-gauff-eliminated-tournament-draining-racial-commentary-match-controversy",
+    "title": "Coco Gauff eliminated from tournament after 'draining' racial commentary, match controversy",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Coco Gauff told her camp she felt like she was going to pass out during her China Open loss to Elise Mertens after a draining week of racist abuse.",
+    "content": [
+      "Coco Gauff told her camp she felt like she was going to pass out during her China Open loss to Elise Mertens after a draining week of racist abuse.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/coco-gauff-loses-china-open-beijing.jpg?ve=1&tl=1",
+    "imageCaption": "Coco Gauff eliminated from tournament after 'draining' racia... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:40:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ab60bbaafa",
+    "slug": "former-cia-officer-warns-against-trusting-russias-account-of-mysterious-death-in-siberia",
+    "guid": "https://www.foxnews.com/world/former-cia-officer-warns-against-trusting-russia-account-mysterious-death-siberia",
+    "title": "Former CIA officer warns against trusting Russia's account of mysterious death in Siberia",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Glenn Corn, a former CIA officer, explains why Vladimir Putin&apos;s Kremlin cannot be trusted on the Russian researcher&apos;s death, citing past coverups.",
+    "content": [
+      "Glenn Corn, a former CIA officer, explains why Vladimir Putin&apos;s Kremlin cannot be trusted on the Russian researcher&apos;s death, citing past coverups.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/glenn-corn.jpg?ve=1&tl=1",
+    "imageCaption": "Former CIA officer warns against trusting Russia's account o... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:42:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c7e5673aab",
+    "slug": "riley-greens-acoustic-lookout-mountain-performance-goes-viral-on-youtube-from-new-album",
+    "guid": "https://www.foxnews.com/outkick-culture/riley-green-acoustic-lookout-mountain-performance-viral-youtube-new-album",
+    "title": "Riley Green's acoustic 'Lookout Mountain' performance goes viral on YouTube from new album",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Riley Green&apos;s acoustic performance of Lookout Mountain from his new album That&apos;s Just Me is racking up attention and fan praise online.",
+    "content": [
+      "Riley Green&apos;s acoustic performance of Lookout Mountain from his new album That&apos;s Just Me is racking up attention and fan praise online.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/riley-green-guitar.jpg?ve=1&tl=1",
+    "imageCaption": "Riley Green's acoustic 'Lookout Mountain' performance goes v... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:42:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7803d2ea54",
+    "slug": "dak-prescotts-ex-sarah-jane-ramos-blasts-craig-cartons-cheating-take-350-million-doesnt-gi",
+    "guid": "https://www.foxnews.com/outkick-sports/dak-prescott-ex-sarah-jane-ramos-blasts-craig-carton-cheating-take-350-million-doesnt-give-pass",
+    "title": "Dak Prescott's ex Sarah Jane Ramos blasts Craig Carton's cheating take: '$350 million doesn't give you a pass'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sarah Jane Ramos fired back at Craig Carton after he defended Dak Prescott on his show, calling the Cowboys QB&apos;s $350 million contract no pass.",
+    "content": [
+      "Sarah Jane Ramos fired back at Craig Carton after he defended Dak Prescott on his show, calling the Cowboys QB&apos;s $350 million contract no pass.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Sara-Jane-Ramos.jpg?ve=1&tl=1",
+    "imageCaption": "Dak Prescott's ex Sarah Jane Ramos blasts Craig Carton's che... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:44:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1b2287980a",
+    "slug": "cost-of-iran-war-explodes-as-toll-on-us-air-fleet-nearly-doubles",
+    "guid": "https://www.foxnews.com/politics/cost-iran-war-explodes-toll-us-air-fleet-nearly-doubles",
+    "title": "Cost of Iran war explodes as toll on US air fleet nearly doubles",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "At least 81 U.S. military aircraft have been lost or damaged in the Iran war, including F-15E Strike Eagles, an F-35A and dozens of MQ-9 Reapers.",
+    "content": [
+      "At least 81 U.S. military aircraft have been lost or damaged in the Iran war, including F-15E Strike Eagles, an F-35A and dozens of MQ-9 Reapers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/jets-reapers.jpg?ve=1&tl=1",
+    "imageCaption": "Cost of Iran war explodes as toll on US air fleet nearly dou... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T17:57:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-032dc8ad06",
+    "slug": "people-on-weight-loss-drugs-report-fingernails-falling-off-as-researchers-uncover-surprisi",
+    "guid": "https://www.foxnews.com/health/people-weight-loss-drugs-report-fingernails-falling-researchers-uncover-surprising-link",
+    "title": "People on weight-loss drugs report fingernails falling off as researchers uncover surprising link",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Nail discoloration was reported by 46% of GLP-1 users versus 17% of non-users, while scalp inflammation accompanied hair loss in most medication users studied.",
+    "content": [
+      "Nail discoloration was reported by 46% of GLP-1 users versus 17% of non-users, while scalp inflammation accompanied hair loss in most medication users studied.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nail-treatment.jpg?ve=1&tl=1",
+    "imageCaption": "People on weight-loss drugs report fingernails falling off a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:10:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b1fd660bd0",
+    "slug": "california-couple-charged-with-abusing-14-surrogate-born-children-inside-10m-los-angeles-m",
+    "guid": "https://www.foxnews.com/us/california-couple-charged-abusing-14-surrogate-born-children-10m-los-angeles-mansion",
+    "title": "California couple charged with abusing 14 surrogate-born children inside $10M Los Angeles mansion",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Security footage from the couple&apos;s $10 million Arcadia mansion allegedly revealed systematic beatings of 14 surrogate-born children by nannies and parents.",
+    "content": [
+      "Security footage from the couple&apos;s $10 million Arcadia mansion allegedly revealed systematic beatings of 14 surrogate-born children by nannies and parents.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/guojun-xuan-silvia-zhang-arraignment-pasadena.jpg?ve=1&tl=1",
+    "imageCaption": "California couple charged with abusing 14 surrogate-born chi... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:10:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-04b71a5103",
+    "slug": "sp-500-record-ices-economic-chill-webulls-china-ties-and-more-in-morning-squawk",
+    "guid": "108373636",
+    "title": "S&P 500 record, ICE's economic chill, Webull's China ties and more in Morning Squawk",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "content": [
+      "Here are five key things investors need to know to start the trading day.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "S&P 500 record, ICE's economic chill, Webull's China ties an... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T12:50:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-97a035658a",
+    "slug": "inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-level-since-may",
+    "guid": "108374048",
+    "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+    "content": [
+      "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Inflation fears on the rise as one-year outlook in Fed surve... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:22:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-15d4aa7584",
+    "slug": "disney-to-stream-upcoming-super-bowl",
+    "guid": "108374077",
+    "title": "Disney+ to stream upcoming Super Bowl",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Disney+ will also air two Monday Night Football games leading up to the championship game.",
+    "content": [
+      "Disney+ will also air two Monday Night Football games leading up to the championship game.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Disney+ to stream upcoming Super Bowl... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T16:36:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9c47ec721c",
+    "slug": "apollo-banks-in-talks-to-finance-spacexs-40-billion-nvidia-gpu-purchase",
+    "guid": "108374094",
+    "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+    "content": [
+      "Since SpaceX's record-breaking IPO in June, rates have sold off, and yields on its bonds have risen, along with other AI-related bonds.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidi... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T16:32:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6d8e981fa9",
+    "slug": "trumps-diesel-order-exposes-white-house-limits-to-counter-surging-fuel-prices",
+    "guid": "108373576",
+    "title": "Trump’s diesel order exposes White House limits to counter surging fuel prices",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Trump's order comes amid mounting political pressure to take action on surging diesel prices, with the midterm elections only a month away.",
+    "content": [
+      "President Trump's order comes amid mounting political pressure to take action on surging diesel prices, with the midterm elections only a month away.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump’s diesel order exposes White House limits to counter s... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:09:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5685131348",
+    "slug": "here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-he",
+    "guid": "108370260",
+    "title": "Here comes third-quarter earnings season. Booming profits could propel the S&P 500 to new heights",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Third-quarter earnings season kicks off this week and as results roll in they should reveal what the market is eagerly anticipating: blockbuster profits.",
+    "content": [
+      "Third-quarter earnings season kicks off this week and as results roll in they should reveal what the market is eagerly anticipating: blockbuster profits.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Here comes third-quarter earnings season. Booming profits co... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:19:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ce863dedd9",
+    "slug": "10-year-treasury-yield-ease-from-24-year-high-after-solid-bond-auction-eases-demand-fears",
+    "guid": "108373787",
+    "title": "10-year Treasury yield ease from 24-year high after solid bond auction eases demand fears",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
+    "content": [
+      "U.S. Treasury yields came off their highs after a solid sale of 10-year notes.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "10-year Treasury yield ease from 24-year high after solid bo... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:04:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1f04ed148e",
+    "slug": "ice-came-to-town-and-left-behind-weakened-economies",
+    "guid": "108370416",
+    "title": "ICE came to town and left behind weakened economies",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+    "content": [
+      "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "ICE came to town and left behind weakened economies... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T12:24:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5b20b17ea7",
+    "slug": "fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show",
+    "guid": "108374079",
+    "title": "Fed officials see another hike coming, but no sign as to when, minutes show",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+    "content": [
+      "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fed officials see another hike coming, but no sign as to whe... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-07T18:07:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-96d772f94c",
     "slug": "chatgpt-for-teens-is-an-unacceptable-risk-says-common-sense-media",
     "guid": "https://www.theverge.com/?p=1006355",
