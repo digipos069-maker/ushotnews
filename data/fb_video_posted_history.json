@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-07T05:24:31.298978+00:00",
+  "last_updated": "2026-10-07T13:04:36.579320+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025347": {
-      "title": "Coast Guard helicopter medevacs injured rafter from Rogue River",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112028728/DOD_112028728.mp4",
-      "attached_website_url": "https://ushotnews.online/article/phil-collins-gets-frank-on-marriage-failures-and-life-regrets-i-regret-my-marriages-fallin",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1389874229969725",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1389874229969725",
-      "fb_comment_id": "1389874229969725_1125862896530665",
-      "posted_at": "2026-10-04T08:16:20.115011+00:00"
-    },
     "dvids-video:1025336": {
       "title": "Spc. Drake Caldwell | Army Best Squad Competition",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112027930/DOD_112027930.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2690367674750393",
       "fb_comment_id": "2690367674750393_1135148439068218",
       "posted_at": "2026-10-07T05:24:31.298918+00:00"
+    },
+    "dvids-video:1025664": {
+      "title": "Camp Fuji Friendship Festival 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112041398/DOD_112041398.mp4",
+      "attached_website_url": "https://ushotnews.online/article/chatgpt-for-teens-is-an-unacceptable-risk-says-common-sense-media",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1076409478481969",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1076409478481969",
+      "fb_comment_id": "1076409478481969_1572817017379278",
+      "posted_at": "2026-10-07T13:04:36.579254+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-07T05:23:22.586921+00:00"
+  "last_cleaned_at": "2026-10-07T13:02:55.933855+00:00"
 }
