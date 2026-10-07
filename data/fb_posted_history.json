@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-07T18:29:14.321664+00:00",
+  "last_updated": "2026-10-07T20:33:20.971562+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-7ea651db15": {
-      "title": "Trump’s gains among Latino voters slip ahead of midterms",
-      "slug": "trumps-gains-among-latino-voters-slip-ahead-of-midterms",
-      "url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
-      "article_url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119929999471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119929999471257",
-      "fb_comment_id": "122119929999471257_28156312050718263",
-      "posted_at": "2026-10-04T20:21:15.908173+00:00"
-    },
-    "trumps-gains-among-latino-voters-slip-ahead-of-midterms": {
-      "title": "Trump’s gains among Latino voters slip ahead of midterms",
-      "slug": "trumps-gains-among-latino-voters-slip-ahead-of-midterms",
-      "url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
-      "article_url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119929999471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119929999471257",
-      "fb_comment_id": "122119929999471257_28156312050718263",
-      "posted_at": "2026-10-04T20:21:15.908173+00:00"
-    },
     "scraped-372a72ecf2": {
       "title": "Buttigieg goes big to help 2026 Dems",
       "slug": "buttigieg-goes-big-to-help-2026-dems",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121333021471257",
       "fb_comment_id": "122121333021471257_1412752127703506",
       "posted_at": "2026-10-07T18:29:14.321605+00:00"
+    },
+    "scraped-8641513c2f": {
+      "title": "How Microsoft built its MacBook Pro competitor",
+      "slug": "how-microsoft-built-its-macbook-pro-competitor",
+      "url": "https://ushotnews.online/article/how-microsoft-built-its-macbook-pro-competitor",
+      "article_url": "https://ushotnews.online/article/how-microsoft-built-its-macbook-pro-competitor",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121375765471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121375765471257",
+      "fb_comment_id": "122121375765471257_1418490110455813",
+      "posted_at": "2026-10-07T20:33:20.971495+00:00"
+    },
+    "how-microsoft-built-its-macbook-pro-competitor": {
+      "title": "How Microsoft built its MacBook Pro competitor",
+      "slug": "how-microsoft-built-its-macbook-pro-competitor",
+      "url": "https://ushotnews.online/article/how-microsoft-built-its-macbook-pro-competitor",
+      "article_url": "https://ushotnews.online/article/how-microsoft-built-its-macbook-pro-competitor",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121375765471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121375765471257",
+      "fb_comment_id": "122121375765471257_1418490110455813",
+      "posted_at": "2026-10-07T20:33:20.971495+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-07T18:29:03.866237+00:00"
+  "last_cleaned_at": "2026-10-07T20:33:06.641083+00:00"
 }
