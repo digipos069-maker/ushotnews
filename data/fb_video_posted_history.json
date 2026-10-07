@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-06T23:43:25.133602+00:00",
+  "last_updated": "2026-10-07T05:24:31.298978+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025337": {
-      "title": "Army Best Squad Combat Field Test",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112027931/DOD_112027931.mp4",
-      "attached_website_url": "https://ushotnews.online/article/republicans-dont-have-a-clear-boogeyman-for-this-years-midterms",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2112619262684839",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2112619262684839",
-      "fb_comment_id": "2112619262684839_1391206559386478",
-      "posted_at": "2026-10-04T00:27:15.839949+00:00"
-    },
     "dvids-video:1025347": {
       "title": "Coast Guard helicopter medevacs injured rafter from Rogue River",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112028728/DOD_112028728.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1630896335346941",
       "fb_comment_id": "1630896335346941_1625114605664690",
       "posted_at": "2026-10-06T23:43:25.133548+00:00"
+    },
+    "dvids-video:1025627": {
+      "title": "SMSgt Fountain — Green Bay Packers Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112040370/DOD_112040370.mp4",
+      "attached_website_url": "https://ushotnews.online/article/openai-drops-another-batch-of-mathematical-breakthroughs",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2690367674750393",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2690367674750393",
+      "fb_comment_id": "2690367674750393_1135148439068218",
+      "posted_at": "2026-10-07T05:24:31.298918+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-06T23:41:49.412155+00:00"
+  "last_cleaned_at": "2026-10-07T05:23:22.586921+00:00"
 }
