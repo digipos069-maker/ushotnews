@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-07T13:04:36.579320+00:00",
+  "last_updated": "2026-10-07T19:51:12.089046+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025336": {
-      "title": "Spc. Drake Caldwell | Army Best Squad Competition",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112027930/DOD_112027930.mp4",
-      "attached_website_url": "https://ushotnews.online/article/amazons-colorful-and-sturdy-new-kindles",
-      "trending_score": 75.0,
-      "format": "video",
-      "fb_video_id": "1621614189637229",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1621614189637229",
-      "fb_comment_id": "1621614189637229_1550468273499276",
-      "posted_at": "2026-10-04T15:14:11.682173+00:00"
-    },
     "dvids-video:1025360": {
       "title": "USS Cape St George Sails Through Golden Gate Bridge",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112029175/DOD_112029175.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1076409478481969",
       "fb_comment_id": "1076409478481969_1572817017379278",
       "posted_at": "2026-10-07T13:04:36.579254+00:00"
+    },
+    "dvids-video:1025707": {
+      "title": "Start Your Career in Child Care",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112042269/DOD_112042269.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1436646125324177",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1436646125324177",
+      "fb_comment_id": "1436646125324177_1791321942152301",
+      "posted_at": "2026-10-07T19:51:12.088990+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-07T13:02:55.933855+00:00"
+  "last_cleaned_at": "2026-10-07T19:50:02.558201+00:00"
 }
