@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-06T23:35:45.749791+00:00",
+  "last_updated": "2026-10-07T00:59:19.841417+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-77ba806453": {
-      "title": "Chris Rock shreds 'woke 1.0' era, compares modern outrage to Salem witch hunts",
-      "slug": "chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
-      "url": "https://ushotnews.online/article/chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
-      "article_url": "https://ushotnews.online/article/chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119531155471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119531155471257",
-      "fb_comment_id": "122119531155471257_1114863324274895",
-      "posted_at": "2026-10-04T00:29:16.612977+00:00"
-    },
-    "chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts": {
-      "title": "Chris Rock shreds 'woke 1.0' era, compares modern outrage to Salem witch hunts",
-      "slug": "chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
-      "url": "https://ushotnews.online/article/chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
-      "article_url": "https://ushotnews.online/article/chris-rock-shreds-woke-10-era-compares-modern-outrage-to-salem-witch-hunts",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119531155471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119531155471257",
-      "fb_comment_id": "122119531155471257_1114863324274895",
-      "posted_at": "2026-10-04T00:29:16.612977+00:00"
-    },
     "scraped-0e7a019810": {
       "title": "Pete Hegseth handles Air Force-Navy coin toss after showing off basketball skills at Academy",
       "slug": "pete-hegseth-handles-air-force-navy-coin-toss-after-showing-off-basketball-skills-at-acade",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120956989471257",
       "fb_comment_id": "122120956989471257_2057302568251754",
       "posted_at": "2026-10-06T23:35:45.749734+00:00"
+    },
+    "scraped-dd378b57a4": {
+      "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
+      "slug": "amazons-last-gen-kindle-paperwhite-is-30-percent-off",
+      "url": "https://ushotnews.online/article/amazons-last-gen-kindle-paperwhite-is-30-percent-off",
+      "article_url": "https://ushotnews.online/article/amazons-last-gen-kindle-paperwhite-is-30-percent-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120980365471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120980365471257",
+      "fb_comment_id": "122120980365471257_2574276929708248",
+      "posted_at": "2026-10-07T00:59:19.841350+00:00"
+    },
+    "amazons-last-gen-kindle-paperwhite-is-30-percent-off": {
+      "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
+      "slug": "amazons-last-gen-kindle-paperwhite-is-30-percent-off",
+      "url": "https://ushotnews.online/article/amazons-last-gen-kindle-paperwhite-is-30-percent-off",
+      "article_url": "https://ushotnews.online/article/amazons-last-gen-kindle-paperwhite-is-30-percent-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122120980365471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120980365471257",
+      "fb_comment_id": "122120980365471257_2574276929708248",
+      "posted_at": "2026-10-07T00:59:19.841350+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-06T23:35:33.058415+00:00"
+  "last_cleaned_at": "2026-10-07T00:59:05.021642+00:00"
 }
