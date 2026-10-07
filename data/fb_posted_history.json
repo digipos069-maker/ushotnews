@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-07T04:30:47.725116+00:00",
+  "last_updated": "2026-10-07T07:09:40.800007+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-801bd72e08": {
-      "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
-      "slug": "brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
-      "url": "https://ushotnews.online/article/brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
-      "article_url": "https://ushotnews.online/article/brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119633737471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119633737471257",
-      "fb_comment_id": "122119633737471257_1054455047419070",
-      "posted_at": "2026-10-04T06:14:50.897941+00:00"
-    },
-    "brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit": {
-      "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
-      "slug": "brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
-      "url": "https://ushotnews.online/article/brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
-      "article_url": "https://ushotnews.online/article/brewers-take-game-1-of-nlds-after-a-controversial-call-on-sure-fire-home-run-ball-that-hit",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119633737471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119633737471257",
-      "fb_comment_id": "122119633737471257_1054455047419070",
-      "posted_at": "2026-10-04T06:14:50.897941+00:00"
-    },
     "scraped-edcb9dfbec": {
       "title": "Human NFL analyst extends lead over GPT with 9-6 record heading into Week 4 predictions",
       "slug": "human-nfl-analyst-extends-lead-over-gpt-with-9-6-record-heading-into-week-4-predictions",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121035757471257",
       "fb_comment_id": "122121035757471257_1741751450274018",
       "posted_at": "2026-10-07T04:30:47.725047+00:00"
+    },
+    "scraped-bf3942bb96": {
+      "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
+      "slug": "tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
+      "url": "https://ushotnews.online/article/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
+      "article_url": "https://ushotnews.online/article/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121081735471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121081735471257",
+      "fb_comment_id": "122121081735471257_1436742431886605",
+      "posted_at": "2026-10-07T07:09:40.799942+00:00"
+    },
+    "tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house": {
+      "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
+      "slug": "tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
+      "url": "https://ushotnews.online/article/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
+      "article_url": "https://ushotnews.online/article/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121081735471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121081735471257",
+      "fb_comment_id": "122121081735471257_1436742431886605",
+      "posted_at": "2026-10-07T07:09:40.799942+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-07T04:30:37.762416+00:00"
+  "last_cleaned_at": "2026-10-07T07:09:31.405379+00:00"
 }
