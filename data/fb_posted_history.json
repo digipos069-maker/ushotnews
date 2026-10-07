@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-07T20:33:20.971562+00:00",
+  "last_updated": "2026-10-07T23:16:37.891636+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-372a72ecf2": {
-      "title": "Buttigieg goes big to help 2026 Dems",
-      "slug": "buttigieg-goes-big-to-help-2026-dems",
-      "url": "https://ushotnews.online/article/buttigieg-goes-big-to-help-2026-dems",
-      "article_url": "https://ushotnews.online/article/buttigieg-goes-big-to-help-2026-dems",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119966497471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119966497471257",
-      "fb_comment_id": "122119966497471257_1008650448957781",
-      "posted_at": "2026-10-04T21:52:07.659687+00:00"
-    },
-    "buttigieg-goes-big-to-help-2026-dems": {
-      "title": "Buttigieg goes big to help 2026 Dems",
-      "slug": "buttigieg-goes-big-to-help-2026-dems",
-      "url": "https://ushotnews.online/article/buttigieg-goes-big-to-help-2026-dems",
-      "article_url": "https://ushotnews.online/article/buttigieg-goes-big-to-help-2026-dems",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122119966497471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122119966497471257",
-      "fb_comment_id": "122119966497471257_1008650448957781",
-      "posted_at": "2026-10-04T21:52:07.659687+00:00"
-    },
     "scraped-ab582f0caa": {
       "title": "Brazil votes, with Lula facing Bolsonaro's son",
       "slug": "brazil-votes-with-lula-facing-bolsonaros-son",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121375765471257",
       "fb_comment_id": "122121375765471257_1418490110455813",
       "posted_at": "2026-10-07T20:33:20.971495+00:00"
+    },
+    "scraped-e535cdf00a": {
+      "title": "The top House sleeper races to watch, according to the pros",
+      "slug": "the-top-house-sleeper-races-to-watch-according-to-the-pros",
+      "url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
+      "article_url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121417093471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121417093471257",
+      "fb_comment_id": "122121417093471257_2280818519419125",
+      "posted_at": "2026-10-07T23:16:37.891566+00:00"
+    },
+    "the-top-house-sleeper-races-to-watch-according-to-the-pros": {
+      "title": "The top House sleeper races to watch, according to the pros",
+      "slug": "the-top-house-sleeper-races-to-watch-according-to-the-pros",
+      "url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
+      "article_url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121417093471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121417093471257",
+      "fb_comment_id": "122121417093471257_2280818519419125",
+      "posted_at": "2026-10-07T23:16:37.891566+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-07T20:33:06.641083+00:00"
+  "last_cleaned_at": "2026-10-07T23:16:26.876761+00:00"
 }
