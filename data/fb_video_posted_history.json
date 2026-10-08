@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-07T19:51:12.089046+00:00",
+  "last_updated": "2026-10-08T00:06:33.513305+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025360": {
-      "title": "USS Cape St George Sails Through Golden Gate Bridge",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112029175/DOD_112029175.mp4",
-      "attached_website_url": "https://ushotnews.online/article/trumps-gains-among-latino-voters-slip-ahead-of-midterms",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "1381769183935933",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1381769183935933",
-      "fb_comment_id": "1381769183935933_2391675898030196",
-      "posted_at": "2026-10-04T22:56:39.838116+00:00"
-    },
     "dvids-video:1025377": {
       "title": "Lethal Kinetic Strike, October 4, 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112029450/DOD_112029450.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1436646125324177",
       "fb_comment_id": "1436646125324177_1791321942152301",
       "posted_at": "2026-10-07T19:51:12.088990+00:00"
+    },
+    "dvids-video:1025730": {
+      "title": "45th Sustainment Brigade Patching Ceremony (LSV-3)",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112042886/DOD_112042886.mp4",
+      "attached_website_url": "https://ushotnews.online/article/blakemans-campaign-finance-mess",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1753470829276617",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1753470829276617",
+      "fb_comment_id": "1753470829276617_1625311995643806",
+      "posted_at": "2026-10-08T00:06:33.513195+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-07T19:50:02.558201+00:00"
+  "last_cleaned_at": "2026-10-08T00:05:50.561484+00:00"
 }
