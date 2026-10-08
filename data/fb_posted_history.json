@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-08T00:55:34.377884+00:00",
+  "last_updated": "2026-10-08T02:50:18.485747+00:00",
   "posted_count": 48,
   "articles": {
-    "scraped-1d6cefbff0": {
-      "title": "Shark bites fisherman twice during kayaking encounter along California beach",
-      "slug": "shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
-      "url": "https://ushotnews.online/article/shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
-      "article_url": "https://ushotnews.online/article/shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120038125471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120038125471257",
-      "fb_comment_id": "122120038125471257_1786917659025783",
-      "posted_at": "2026-10-05T02:19:41.738026+00:00"
-    },
-    "shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach": {
-      "title": "Shark bites fisherman twice during kayaking encounter along California beach",
-      "slug": "shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
-      "url": "https://ushotnews.online/article/shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
-      "article_url": "https://ushotnews.online/article/shark-bites-fisherman-twice-during-kayaking-encounter-along-california-beach",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120038125471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120038125471257",
-      "fb_comment_id": "122120038125471257_1786917659025783",
-      "posted_at": "2026-10-05T02:19:41.738026+00:00"
-    },
     "scraped-82de587922": {
       "title": "Florida TikTok creator lands in jail after allegedly turning women’s private data into posts",
       "slug": "florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post",
@@ -529,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121444261471257",
       "fb_comment_id": "122121444261471257_2372774136884130",
       "posted_at": "2026-10-08T00:55:34.377832+00:00"
+    },
+    "scraped-3585ca0c65": {
+      "title": "MIKE EMANUEL: I joined an unknown startup called Fox News; it gave me a front-row seat to history",
+      "slug": "mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
+      "url": "https://ushotnews.online/article/mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
+      "article_url": "https://ushotnews.online/article/mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121479859471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121479859471257",
+      "fb_comment_id": "122121479859471257_963835880111077",
+      "posted_at": "2026-10-08T02:50:18.485687+00:00"
+    },
+    "mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi": {
+      "title": "MIKE EMANUEL: I joined an unknown startup called Fox News; it gave me a front-row seat to history",
+      "slug": "mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
+      "url": "https://ushotnews.online/article/mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
+      "article_url": "https://ushotnews.online/article/mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121479859471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121479859471257",
+      "fb_comment_id": "122121479859471257_963835880111077",
+      "posted_at": "2026-10-08T02:50:18.485687+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T00:55:22.456139+00:00"
+  "last_cleaned_at": "2026-10-08T02:50:05.517343+00:00"
 }
