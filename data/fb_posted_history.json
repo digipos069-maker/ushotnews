@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T10:04:19.360167+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-10-08T14:52:03.906834+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-7510abd28d": {
       "title": "Supreme Court's new term kicks off with blockbuster climate change case",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121611787471257",
       "fb_comment_id": "122121611787471257_1434733635275585",
       "posted_at": "2026-10-08T10:04:19.360104+00:00"
+    },
+    "scraped-9238c371da": {
+      "title": "Former corrections officer accused of killing wife, forcing kids to help",
+      "slug": "former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
+      "url": "https://ushotnews.online/article/former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
+      "article_url": "https://ushotnews.online/article/former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121728061471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121728061471257",
+      "fb_comment_id": "122121728061471257_1715963486550840",
+      "posted_at": "2026-10-08T14:52:03.906769+00:00"
+    },
+    "former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help": {
+      "title": "Former corrections officer accused of killing wife, forcing kids to help",
+      "slug": "former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
+      "url": "https://ushotnews.online/article/former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
+      "article_url": "https://ushotnews.online/article/former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121728061471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121728061471257",
+      "fb_comment_id": "122121728061471257_1715963486550840",
+      "posted_at": "2026-10-08T14:52:03.906769+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T10:04:07.029906+00:00"
+  "last_cleaned_at": "2026-10-08T14:51:52.674349+00:00"
 }
