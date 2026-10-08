@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-08T00:06:33.513305+00:00",
+  "last_updated": "2026-10-08T08:43:14.559523+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025377": {
-      "title": "Lethal Kinetic Strike, October 4, 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112029450/DOD_112029450.mp4",
-      "attached_website_url": "https://ushotnews.online/article/brazils-presidential-race-heads-to-lulabolsonaro-run-off-as-right-gains-ground",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1443777030993567",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1443777030993567",
-      "fb_comment_id": "1443777030993567_1475010581359653",
-      "posted_at": "2026-10-05T05:04:32.205284+00:00"
-    },
     "dvids-video:1025410": {
       "title": "Chef Irvine Visit",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112030228/DOD_112030228.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1753470829276617",
       "fb_comment_id": "1753470829276617_1625311995643806",
       "posted_at": "2026-10-08T00:06:33.513195+00:00"
+    },
+    "dvids-video:1025821": {
+      "title": "U.S. Navy Region Singapore Holds Chief Pinning Ceremony, Sept. 16, 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112044175/DOD_112044175.mp4",
+      "attached_website_url": "https://ushotnews.online/article/iowas-ashley-hinson-slams-the-savings-habits-of-millennials",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1083472257825753",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1083472257825753",
+      "fb_comment_id": "1083472257825753_1153922443624178",
+      "posted_at": "2026-10-08T08:43:14.559466+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T00:05:50.561484+00:00"
+  "last_cleaned_at": "2026-10-08T08:41:37.882828+00:00"
 }
