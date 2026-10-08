@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-08T14:52:03.906834+00:00",
+  "last_updated": "2026-10-08T17:30:33.719585+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-7510abd28d": {
-      "title": "Supreme Court's new term kicks off with blockbuster climate change case",
-      "slug": "supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case",
-      "url": "https://ushotnews.online/article/supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case",
-      "article_url": "https://ushotnews.online/article/supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120316243471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120316243471257",
-      "fb_comment_id": "122120316243471257_2190789835160816",
-      "posted_at": "2026-10-05T15:52:54.110661+00:00"
-    },
-    "supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case": {
-      "title": "Supreme Court's new term kicks off with blockbuster climate change case",
-      "slug": "supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case",
-      "url": "https://ushotnews.online/article/supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case",
-      "article_url": "https://ushotnews.online/article/supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120316243471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120316243471257",
-      "fb_comment_id": "122120316243471257_2190789835160816",
-      "posted_at": "2026-10-05T15:52:54.110661+00:00"
-    },
     "scraped-8f2b6311d5": {
       "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
       "slug": "cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121728061471257",
       "fb_comment_id": "122121728061471257_1715963486550840",
       "posted_at": "2026-10-08T14:52:03.906769+00:00"
+    },
+    "scraped-3bfad9da61": {
+      "title": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
+      "slug": "flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
+      "url": "https://ushotnews.online/article/flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
+      "article_url": "https://ushotnews.online/article/flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121781107471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121781107471257",
+      "fb_comment_id": "122121781107471257_1791843178717899",
+      "posted_at": "2026-10-08T17:30:33.719522+00:00"
+    },
+    "flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome": {
+      "title": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
+      "slug": "flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
+      "url": "https://ushotnews.online/article/flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
+      "article_url": "https://ushotnews.online/article/flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121781107471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121781107471257",
+      "fb_comment_id": "122121781107471257_1791843178717899",
+      "posted_at": "2026-10-08T17:30:33.719522+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T14:51:52.674349+00:00"
+  "last_cleaned_at": "2026-10-08T17:30:20.384689+00:00"
 }
