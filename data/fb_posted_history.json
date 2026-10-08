@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T20:39:22.058268+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-08T22:23:11.480112+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-1eda0cdf25": {
       "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121839889471257",
       "fb_comment_id": "122121839889471257_1154306300870083",
       "posted_at": "2026-10-08T20:39:22.058195+00:00"
+    },
+    "scraped-5e71ce195a": {
+      "title": "Are you ready for everything to look like TikTok?",
+      "slug": "are-you-ready-for-everything-to-look-like-tiktok",
+      "url": "https://ushotnews.online/article/are-you-ready-for-everything-to-look-like-tiktok",
+      "article_url": "https://ushotnews.online/article/are-you-ready-for-everything-to-look-like-tiktok",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121869319471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121869319471257",
+      "fb_comment_id": "122121869319471257_1846587513362464",
+      "posted_at": "2026-10-08T22:23:11.480046+00:00"
+    },
+    "are-you-ready-for-everything-to-look-like-tiktok": {
+      "title": "Are you ready for everything to look like TikTok?",
+      "slug": "are-you-ready-for-everything-to-look-like-tiktok",
+      "url": "https://ushotnews.online/article/are-you-ready-for-everything-to-look-like-tiktok",
+      "article_url": "https://ushotnews.online/article/are-you-ready-for-everything-to-look-like-tiktok",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121869319471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121869319471257",
+      "fb_comment_id": "122121869319471257_1846587513362464",
+      "posted_at": "2026-10-08T22:23:11.480046+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T20:39:08.151292+00:00"
+  "last_cleaned_at": "2026-10-08T22:22:59.994858+00:00"
 }
