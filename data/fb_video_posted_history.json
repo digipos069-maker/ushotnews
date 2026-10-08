@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-08T08:43:14.559523+00:00",
+  "last_updated": "2026-10-08T17:20:06.753534+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025410": {
-      "title": "Chef Irvine Visit",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112030228/DOD_112030228.mp4",
-      "attached_website_url": "https://ushotnews.online/article/from-floating-saunas-to-clinical-trials-how-heat-might-help-mental-health",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1480510827249284",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1480510827249284",
-      "fb_comment_id": "1480510827249284_1937975613849504",
-      "posted_at": "2026-10-05T14:13:10.232948+00:00"
-    },
     "dvids-video:1025486": {
       "title": "7th Infantry Division (Multi-Domain Command – Pacific) West Point Shout-Out",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112033782/DOD_112033782.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1083472257825753",
       "fb_comment_id": "1083472257825753_1153922443624178",
       "posted_at": "2026-10-08T08:43:14.559466+00:00"
+    },
+    "dvids-video:1025911": {
+      "title": "Get hooked on fishing at Otter Creek",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112045336/DOD_112045336.mp4",
+      "attached_website_url": "https://ushotnews.online/article/justice-democrats-announce-new-executive-director",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2236401146905799",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2236401146905799",
+      "fb_comment_id": "2236401146905799_2368510160645642",
+      "posted_at": "2026-10-08T17:20:06.753472+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T08:41:37.882828+00:00"
+  "last_cleaned_at": "2026-10-08T17:18:30.045073+00:00"
 }
