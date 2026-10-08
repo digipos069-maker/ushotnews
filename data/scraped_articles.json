@@ -1,5 +1,930 @@
 [
   {
+    "id": "scraped-233abbc670",
+    "slug": "justice-democrats-announce-new-executive-director",
+    "guid": "000001a1-185c-d787-a9a1-b8ddf2a00000",
+    "title": "Justice Democrats announce new executive director",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Rev. Hodari Williams will succeed co-founder Alexandra Rojas in leading the progressive PAC.",
+    "content": [
+      "Rev. Hodari Williams will succeed co-founder Alexandra Rojas in leading the progressive PAC.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/0a/c1/adaeb8f5475e8a0504a006eef321/u-s-congress-2851.jpg",
+    "imageCaption": "Justice Democrats announce new executive director... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:50:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-271185391d",
+    "slug": "maricarmen-the-87-year-old-woman-whose-eviction-shook-spain-has-died",
+    "guid": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
+    "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized.",
+    "content": [
+      "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Maricarmen, the 87-year-old woman whose eviction shook Spain... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T05:56:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-20d414b45f",
+    "slug": "trump-proposes-camp-david-style-presidential-retreat-at-his-private-florida-golf-club",
+    "guid": "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club",
+    "title": "Trump proposes Camp David-style presidential retreat at his private Florida golf club",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump said he wants to develop one of his Florida golf courses into a presidential retreat where his successors can spend quiet weekends, describing it as \"sort of a Camp David.\"",
+    "content": [
+      "President Trump said he wants to develop one of his Florida golf courses into a presidential retreat where his successors can spend quiet weekends, describing it as \"sort of a Camp David.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump proposes Camp David-style presidential retreat at his ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T06:27:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4066d112d4",
+    "slug": "how-musk-director-alex-gibney-became-a-critic",
+    "guid": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
+    "title": "How 'Musk' director Alex Gibney became a critic",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men.",
+    "content": [
+      "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How 'Musk' director Alex Gibney became a critic... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T08:45:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3bfad9da61",
+    "slug": "flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
+    "guid": "https://www.npr.org/2026/10/08/nx-s1-5981343/beyond-flock-police-ai-surveillance-tools",
+    "title": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Real-time crime-center software is a sometimes overlooked but powerful tool allowing police to aggregate immense amounts of data, significantly expanding their surveillance reach.",
+    "content": [
+      "Real-time crime-center software is a sometimes overlooked but powerful tool allowing police to aggregate immense amounts of data, significantly expanding their surveillance reach.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Flock is catching flak. Experts say other police surveillanc... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b33c247ada",
+    "slug": "as-crypto-and-prediction-markets-expand-their-regulator-shrinks",
+    "guid": "https://www.npr.org/2026/10/08/nx-s1-5903204/crypto-prediction-markets-cftc-weakens",
+    "title": "As crypto and prediction markets expand, their regulator shrinks",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
+    "content": [
+      "Even as the agency is tasked with drawing up new rules for crypto and prediction markets, its staffing and enforcement actions have dropped precipitously during the second Trump administration.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "As crypto and prediction markets expand, their regulator shr... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b63a24fe11",
+    "slug": "syrian-general-accused-of-atrocities-is-protected-by-us-and-lebanon-npr-and-bbc-find",
+    "guid": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
+    "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
+    "content": [
+      "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Syrian general accused of atrocities is protected by U.S. an... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-064d0305ee",
+    "slug": "toss-ups-triage-and-targets-how-to-read-the-wide-open-2026-house-map",
+    "guid": "https://www.npr.org/2026/10/08/nx-s1-5993809/2026-house-map-democrats-flip-republicans-tossup-triage",
+    "title": "Toss-ups, triage and targets: How to read the wide-open 2026 House map",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Both parties are spending heavily in roughly 60 House districts — where Trump won by an average of nine points in 2024 — that could be key to deciding control of the chamber, an NPR analysis finds.",
+    "content": [
+      "Both parties are spending heavily in roughly 60 House districts — where Trump won by an average of nine points in 2024 — that could be key to deciding control of the chamber, an NPR analysis finds.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Toss-ups, triage and targets: How to read the wide-open 2026... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d65f419993",
+    "slug": "medical-debt-is-crushing-hospital-patients-in-la-health-officials-may-have-a-fix",
+    "guid": "https://www.npr.org/2026/10/08/nx-s1-5991633/hospital-california-healthcare-medical-debt",
+    "title": "Medical debt is crushing hospital patients in LA. Health officials may have a fix",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay.",
+    "content": [
+      "In Los Angeles County, the nation's most populous, a new system could screen hospital patients for financial aid, preventing hundreds of thousands from getting bills they can't pay.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Medical debt is crushing hospital patients in LA. Health off... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9238c371da",
+    "slug": "former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
+    "guid": "https://www.foxnews.com/us/former-corrections-officer-accused-killing-wife-forcing-kids-help",
+    "title": "Former corrections officer accused of killing wife, forcing kids to help",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A former corrections officer allegedly strangled his wife and forced some of his children to help during the attack, then hid her body in a dumpster.",
+    "content": [
+      "A former corrections officer allegedly strangled his wife and forced some of his children to help during the attack, then hid her body in a dumpster.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/missouri-man-killed-wife-kids-help.png?ve=1&tl=1",
+    "imageCaption": "Former corrections officer accused of killing wife, forcing ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T06:49:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-102388a75d",
+    "slug": "sec-marco-rubio-the-west-forgot-what-made-it-great-we-must-rediscover-our-roots-before-we-",
+    "guid": "https://www.foxnews.com/opinion/sec-marco-rubio-west-forgot-what-made-it-great-rediscover-roots-before-lose-them",
+    "title": "SEC MARCO RUBIO: The West forgot what made it great. We must rediscover our roots before we lose them",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Secretary of State Marco Rubio says that the West is at a crossroads. And the decisions we make in the next decade will define the next century.",
+    "content": [
+      "Secretary of State Marco Rubio says that the West is at a crossroads. And the decisions we make in the next decade will define the next century.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/rubio-greece.jpg?ve=1&tl=1",
+    "imageCaption": "SEC MARCO RUBIO: The West forgot what made it great. We must... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T08:55:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2a086c500b",
+    "slug": "americas-debt-crisis-threatens-our-childrens-future-we-the-people-need-to-fix-it",
+    "guid": "https://www.foxnews.com/opinion/americas-debt-crisis-threatens-our-childrens-future-we-people-need-fix-it",
+    "title": "America’s debt crisis threatens our children’s future. We the People need to fix it",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "America&apos;s national debt has surpassed $40 trillion, burdening every citizen with roughly $117,000 in debt as interest costs reach $1 trillion a year.",
+    "content": [
+      "America&apos;s national debt has surpassed $40 trillion, burdening every citizen with roughly $117,000 in debt as interest costs reach $1 trillion a year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/national-debt-ceiling.jpg?ve=1&tl=1",
+    "imageCaption": "America’s debt crisis threatens our children’s future. We th... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6694407524",
+    "slug": "hugh-hewitt-the-midterms-are-one-month-out-you-need-to-know-the-stakes",
+    "guid": "https://www.foxnews.com/opinion/hugh-hewitt-midterms-one-month-out-you-need-know-stakes",
+    "title": "HUGH HEWITT: The midterms are one month out — you need to know the stakes",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Chuck Schumer would block federal judges and Supreme Court nominees if Democrats win the Senate, using McConnell&apos;s own precedent against him.",
+    "content": [
+      "Chuck Schumer would block federal judges and Supreme Court nominees if Democrats win the Senate, using McConnell&apos;s own precedent against him.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/1200/675/senate-minority-leader-chuck-schumer-funding.jpg?ve=1&tl=1",
+    "imageCaption": "HUGH HEWITT: The midterms are one month out — you need to kn... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-999b07237a",
+    "slug": "global-south-wants-to-head-north-and-ceuta-invasion-was-just-the-latest-example",
+    "guid": "https://www.foxnews.com/opinion/global-south-wants-head-north-ceuta-invasion-latest-example",
+    "title": "Global South wants to head north and Ceuta invasion was just the latest example",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trump ended catch-and-release at the border, but Ceuta&apos;s mass migrant rush shows why demand-side migration pressures still threaten the U.S.",
+    "content": [
+      "Trump ended catch-and-release at the border, but Ceuta&apos;s mass migrant rush shows why demand-side migration pressures still threaten the U.S.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/migrants-ceuta-spain-morocco-return.jpg?ve=1&tl=1",
+    "imageCaption": "Global South wants to head north and Ceuta invasion was just... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dc20b675cc",
+    "slug": "americas-multi-billion-tech-boom-comes-into-focus-as-7-key-states-put-it-to-a-midterm-test",
+    "guid": "https://www.foxnews.com/politics/americas-multi-billion-tech-boom-comes-into-focus-7-key-states-put-midterm-test",
+    "title": "America’s multi-billion tech boom comes into focus as 7 key states put it to a midterm test",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Voters across eight states will decide 34 data center ballot measures this November as America&apos;s AI boom becomes a growing political flashpoint.",
+    "content": [
+      "Voters across eight states will decide 34 data center ballot measures this November as America&apos;s AI boom becomes a growing political flashpoint.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/data-center-security-gate-barrier.png?ve=1&tl=1",
+    "imageCaption": "America’s multi-billion tech boom comes into focus as 7 key ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f71cdeb433",
+    "slug": "top-conservative-group-unveils-full-court-press-in-key-battleground-state-to-expose-shocki",
+    "guid": "https://www.foxnews.com/politics/top-conservative-group-unveils-full-court-press-key-battleground-state-expose-shocking-dem-platform",
+    "title": "Top conservative group unveils full-court press in key battleground state to expose ‘shocking’ Dem platform",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Susan B. Anthony Pro-Life America has knocked on over 172,000 doors in Iowa, saying voters are shocked by the Democratic Party&apos;s abortion stance.",
+    "content": [
+      "Susan B. Anthony Pro-Life America has knocked on over 172,000 doors in Iowa, saying voters are shocked by the Democratic Party&apos;s abortion stance.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/amy-door-knocking-2.jpg?ve=1&tl=1",
+    "imageCaption": "Top conservative group unveils full-court press in key battl... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:00:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3405533971",
+    "slug": "jordan-emerges-as-potential-next-gop-leader-if-dems-seize-house",
+    "guid": "https://www.foxnews.com/politics/jordan-emerges-potential-next-gop-leader-dems-seize-house",
+    "title": "Jordan emerges as potential next GOP leader if Dems seize House",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "President Donald Trump&apos;s top ally Jim Jordan emerges as a contender for House minority leader as GOP lawmakers brace for a full leadership shakeup.",
+    "content": [
+      "President Donald Trump&apos;s top ally Jim Jordan emerges as a contender for House minority leader as GOP lawmakers brace for a full leadership shakeup.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jim-jordan-podium.jpg?ve=1&tl=1",
+    "imageCaption": "Jordan emerges as potential next GOP leader if Dems seize Ho... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:30:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4dfb09df12",
+    "slug": "ai-startup-manus-raises-500-million-in-first-funding-round-since-meta-breakup",
+    "guid": "108375191",
+    "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
+    "content": [
+      "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AI startup Manus raises $500 million in first funding round ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T06:59:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4b365b0b79",
+    "slug": "russias-internet-giant-yandex-halts-operations-at-major-data-center-after-drone-attack",
+    "guid": "108375277",
+    "title": "Russia's internet giant Yandex halts operations at major data center after drone attack",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Russian internet giant Yandex paused operations inside one of its data centers after a drone attack as Ukraine continues to hit the country's infrastructure.",
+    "content": [
+      "Russian internet giant Yandex paused operations inside one of its data centers after a drone attack as Ukraine continues to hit the country's infrastructure.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Russia's internet giant Yandex halts operations at major dat... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:40:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c932bac81b",
+    "slug": "huawei-doubles-down-on-smartphones-as-ev-sales-slow",
+    "guid": "108373717",
+    "title": "Huawei doubles down on smartphones as EV sales slow",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.",
+    "content": [
+      "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Huawei doubles down on smartphones as EV sales slow... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T08:04:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-353b41dcea",
+    "slug": "tsmcs-september-sales-surge-year-over-year-as-ai-drives-chip-demand",
+    "guid": "108373705",
+    "title": "TSMC’s September sales surge year-over-year as AI drives chip demand",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars",
+    "content": [
+      "TSMC's September net revenue came in at 511.86 billion New Taiwan dollars",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "TSMC’s September sales surge year-over-year as AI drives chi... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T06:50:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fe24abbda4",
+    "slug": "the-indian-billionaire-investing-in-trumps-refinery-project-is-also-buying-more-venezuelan",
+    "guid": "108375197",
+    "title": "The Indian billionaire investing in Trump's refinery project is also buying more Venezuelan crude",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Outside the U.S., India is the biggest destination for Venezuelan oil, with Reliance Industries purchasing the bulk of it.",
+    "content": [
+      "Outside the U.S., India is the biggest destination for Venezuelan oil, with Reliance Industries purchasing the bulk of it.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Indian billionaire investing in Trump's refinery project... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T07:41:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-68fc653a5a",
+    "slug": "elon-musk-blames-indian-oligarchs-for-stalling-starlink-launch",
+    "guid": "108374546",
+    "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
+    "content": [
+      "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Elon Musk blames Indian 'oligarchs' for stalling Starlink la... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T08:43:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d21babf9fe",
+    "slug": "america-shut-out-chinese-evs-britain-welcomed-them-and-now-faces-a-difficult-choice",
+    "guid": "108373883",
+    "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
+    "content": [
+      "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "America shut out Chinese EVs. Britain welcomed them — and no... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T05:30:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bfb1196db0",
+    "slug": "trump-says-he-doesnt-want-iran-deal-as-us-reportedly-prepares-for-massive-bombing",
+    "guid": "108374517",
+    "title": "Trump says he doesn't want Iran deal as U.S. reportedly prepares for 'massive bombing'",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
+    "content": [
+      "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says he doesn't want Iran deal as U.S. reportedly prep... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T09:45:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-7fcb2954b0",
     "slug": "iowas-ashley-hinson-slams-the-savings-habits-of-millennials",
     "guid": "000001a1-193a-d058-adf3-3b7a60a50000",
