@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-08T17:20:06.753534+00:00",
+  "last_updated": "2026-10-08T23:11:38.794464+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1025486": {
-      "title": "7th Infantry Division (Multi-Domain Command – Pacific) West Point Shout-Out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112033782/DOD_112033782.mp4",
-      "attached_website_url": "https://ushotnews.online/article/campaign-all-coming-from-dc-paxton-says",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1792697505328984",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1792697505328984",
-      "fb_comment_id": "1792697505328984_2219378831939167",
-      "posted_at": "2026-10-05T22:27:57.392799+00:00"
-    },
     "dvids-video:1025524": {
       "title": "Misawa Air Base, Chief Pinning Ceremony 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112038552/DOD_112038552.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2236401146905799",
       "fb_comment_id": "2236401146905799_2368510160645642",
       "posted_at": "2026-10-08T17:20:06.753472+00:00"
+    },
+    "dvids-video:1025945": {
+      "title": "U.S. Marines and sailors arrive in San Francisco for San Francisco Fleet Week 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112046078/DOD_112046078.mp4",
+      "attached_website_url": "https://ushotnews.online/article/paramount-is-making-a-cyberpunk-2077-film",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1104899885234756",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1104899885234756",
+      "fb_comment_id": "1104899885234756_1788816848788752",
+      "posted_at": "2026-10-08T23:11:38.794407+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T17:18:30.045073+00:00"
+  "last_cleaned_at": "2026-10-08T23:09:58.451936+00:00"
 }
