@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-08T07:15:26.946871+00:00",
+  "last_updated": "2026-10-08T10:04:19.360167+00:00",
   "posted_count": 48,
   "articles": {
-    "scraped-7bd677c273": {
-      "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports",
-      "slug": "enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
-      "url": "https://ushotnews.online/article/enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
-      "article_url": "https://ushotnews.online/article/enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120172849471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120172849471257",
-      "fb_comment_id": "122120172849471257_1837144120789037",
-      "posted_at": "2026-10-05T09:28:46.965230+00:00"
-    },
-    "enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports": {
-      "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports",
-      "slug": "enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
-      "url": "https://ushotnews.online/article/enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
-      "article_url": "https://ushotnews.online/article/enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120172849471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120172849471257",
-      "fb_comment_id": "122120172849471257_1837144120789037",
-      "posted_at": "2026-10-05T09:28:46.965230+00:00"
-    },
     "scraped-7510abd28d": {
       "title": "Supreme Court's new term kicks off with blockbuster climate change case",
       "slug": "supreme-courts-new-term-kicks-off-with-blockbuster-climate-change-case",
@@ -529,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121558879471257",
       "fb_comment_id": "122121558879471257_1730677671378879",
       "posted_at": "2026-10-08T07:15:26.946813+00:00"
+    },
+    "scraped-b83d4c838f": {
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "slug": "it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
+      "url": "https://ushotnews.online/article/it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
+      "article_url": "https://ushotnews.online/article/it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121611787471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121611787471257",
+      "fb_comment_id": "122121611787471257_1434733635275585",
+      "posted_at": "2026-10-08T10:04:19.360104+00:00"
+    },
+    "it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains": {
+      "title": "It appears .agent and .agi are about to be the hot new domains",
+      "slug": "it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
+      "url": "https://ushotnews.online/article/it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
+      "article_url": "https://ushotnews.online/article/it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121611787471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121611787471257",
+      "fb_comment_id": "122121611787471257_1434733635275585",
+      "posted_at": "2026-10-08T10:04:19.360104+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T07:15:19.437924+00:00"
+  "last_cleaned_at": "2026-10-08T10:04:07.029906+00:00"
 }
