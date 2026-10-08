@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-08T02:50:18.485747+00:00",
+  "last_updated": "2026-10-08T07:15:26.946871+00:00",
   "posted_count": 48,
   "articles": {
-    "scraped-82de587922": {
-      "title": "Florida TikTok creator lands in jail after allegedly turning women’s private data into posts",
-      "slug": "florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post",
-      "url": "https://ushotnews.online/article/florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post",
-      "article_url": "https://ushotnews.online/article/florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120114133471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120114133471257",
-      "fb_comment_id": "122120114133471257_1826253728562578",
-      "posted_at": "2026-10-05T06:52:35.408746+00:00"
-    },
-    "florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post": {
-      "title": "Florida TikTok creator lands in jail after allegedly turning women’s private data into posts",
-      "slug": "florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post",
-      "url": "https://ushotnews.online/article/florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post",
-      "article_url": "https://ushotnews.online/article/florida-tiktok-creator-lands-in-jail-after-allegedly-turning-womens-private-data-into-post",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120114133471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120114133471257",
-      "fb_comment_id": "122120114133471257_1826253728562578",
-      "posted_at": "2026-10-05T06:52:35.408746+00:00"
-    },
     "scraped-7bd677c273": {
       "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports",
       "slug": "enes-kanter-freedom-i-know-the-price-of-silence-and-wont-stop-defending-womens-sports",
@@ -529,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121479859471257",
       "fb_comment_id": "122121479859471257_963835880111077",
       "posted_at": "2026-10-08T02:50:18.485687+00:00"
+    },
+    "scraped-4f1c7e5872": {
+      "title": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
+      "slug": "ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
+      "url": "https://ushotnews.online/article/ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
+      "article_url": "https://ushotnews.online/article/ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121558879471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121558879471257",
+      "fb_comment_id": "122121558879471257_1730677671378879",
+      "posted_at": "2026-10-08T07:15:26.946813+00:00"
+    },
+    "ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from": {
+      "title": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
+      "slug": "ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
+      "url": "https://ushotnews.online/article/ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
+      "article_url": "https://ushotnews.online/article/ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121558879471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121558879471257",
+      "fb_comment_id": "122121558879471257_1730677671378879",
+      "posted_at": "2026-10-08T07:15:26.946813+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T02:50:05.517343+00:00"
+  "last_cleaned_at": "2026-10-08T07:15:19.437924+00:00"
 }
