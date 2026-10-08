@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-08T17:30:33.719585+00:00",
+  "last_updated": "2026-10-08T20:39:22.058268+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-8f2b6311d5": {
-      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
-      "slug": "cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
-      "url": "https://ushotnews.online/article/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
-      "article_url": "https://ushotnews.online/article/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120384169471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120384169471257",
-      "fb_comment_id": "122120384169471257_1380070811003529",
-      "posted_at": "2026-10-05T18:47:11.798843+00:00"
-    },
-    "cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance": {
-      "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
-      "slug": "cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
-      "url": "https://ushotnews.online/article/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
-      "article_url": "https://ushotnews.online/article/cnn8217s-boss-will-remain-as-paramount-and-wbd-merge-into-skydance",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120384169471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120384169471257",
-      "fb_comment_id": "122120384169471257_1380070811003529",
-      "posted_at": "2026-10-05T18:47:11.798843+00:00"
-    },
     "scraped-1eda0cdf25": {
       "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
       "slug": "scotus-hears-major-climate-change-case-and-brazils-presidential-race-goes-to-runoff",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121781107471257",
       "fb_comment_id": "122121781107471257_1791843178717899",
       "posted_at": "2026-10-08T17:30:33.719522+00:00"
+    },
+    "scraped-caa936e25a": {
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "slug": "googles-ai-note-taking-app-transcribes-your-meetings-completely-offline",
+      "url": "https://ushotnews.online/article/googles-ai-note-taking-app-transcribes-your-meetings-completely-offline",
+      "article_url": "https://ushotnews.online/article/googles-ai-note-taking-app-transcribes-your-meetings-completely-offline",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121839889471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121839889471257",
+      "fb_comment_id": "122121839889471257_1154306300870083",
+      "posted_at": "2026-10-08T20:39:22.058195+00:00"
+    },
+    "googles-ai-note-taking-app-transcribes-your-meetings-completely-offline": {
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "slug": "googles-ai-note-taking-app-transcribes-your-meetings-completely-offline",
+      "url": "https://ushotnews.online/article/googles-ai-note-taking-app-transcribes-your-meetings-completely-offline",
+      "article_url": "https://ushotnews.online/article/googles-ai-note-taking-app-transcribes-your-meetings-completely-offline",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121839889471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121839889471257",
+      "fb_comment_id": "122121839889471257_1154306300870083",
+      "posted_at": "2026-10-08T20:39:22.058195+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-08T17:30:20.384689+00:00"
+  "last_cleaned_at": "2026-10-08T20:39:08.151292+00:00"
 }
