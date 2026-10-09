@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-09T07:57:51.195191+00:00",
+  "last_updated": "2026-10-09T09:27:37.903622+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-fcdaf050fd": {
-      "title": "All the drama around AI&#8217;s takeover of mathematics",
-      "slug": "all-the-drama-around-ai8217s-takeover-of-mathematics",
-      "url": "https://ushotnews.online/article/all-the-drama-around-ai8217s-takeover-of-mathematics",
-      "article_url": "https://ushotnews.online/article/all-the-drama-around-ai8217s-takeover-of-mathematics",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120638575471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120638575471257",
-      "fb_comment_id": "122120638575471257_28192224920473421",
-      "posted_at": "2026-10-06T09:22:34.220214+00:00"
-    },
-    "all-the-drama-around-ai8217s-takeover-of-mathematics": {
-      "title": "All the drama around AI&#8217;s takeover of mathematics",
-      "slug": "all-the-drama-around-ai8217s-takeover-of-mathematics",
-      "url": "https://ushotnews.online/article/all-the-drama-around-ai8217s-takeover-of-mathematics",
-      "article_url": "https://ushotnews.online/article/all-the-drama-around-ai8217s-takeover-of-mathematics",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120638575471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120638575471257",
-      "fb_comment_id": "122120638575471257_28192224920473421",
-      "posted_at": "2026-10-06T09:22:34.220214+00:00"
-    },
     "scraped-9ff12b0fe0": {
       "title": "Ken Paxton’s secret weapon: Ted Cruz",
       "slug": "ken-paxtons-secret-weapon-ted-cruz",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122069059471257",
       "fb_comment_id": "122122069059471257_1715286617272166",
       "posted_at": "2026-10-09T07:57:51.195126+00:00"
+    },
+    "scraped-da57af45d3": {
+      "title": "Arizona man arrested after allegedly emailing White House bomb threat to Tucson news station",
+      "slug": "arizona-man-arrested-after-allegedly-emailing-white-house-bomb-threat-to-tucson-news-stati",
+      "url": "https://ushotnews.online/article/arizona-man-arrested-after-allegedly-emailing-white-house-bomb-threat-to-tucson-news-stati",
+      "article_url": "https://ushotnews.online/article/arizona-man-arrested-after-allegedly-emailing-white-house-bomb-threat-to-tucson-news-stati",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122097397471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122097397471257",
+      "fb_comment_id": "122122097397471257_3333527703500704",
+      "posted_at": "2026-10-09T09:27:37.903537+00:00"
+    },
+    "arizona-man-arrested-after-allegedly-emailing-white-house-bomb-threat-to-tucson-news-stati": {
+      "title": "Arizona man arrested after allegedly emailing White House bomb threat to Tucson news station",
+      "slug": "arizona-man-arrested-after-allegedly-emailing-white-house-bomb-threat-to-tucson-news-stati",
+      "url": "https://ushotnews.online/article/arizona-man-arrested-after-allegedly-emailing-white-house-bomb-threat-to-tucson-news-stati",
+      "article_url": "https://ushotnews.online/article/arizona-man-arrested-after-allegedly-emailing-white-house-bomb-threat-to-tucson-news-stati",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122097397471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122097397471257",
+      "fb_comment_id": "122122097397471257_3333527703500704",
+      "posted_at": "2026-10-09T09:27:37.903537+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-09T07:57:39.738438+00:00"
+  "last_cleaned_at": "2026-10-09T09:27:29.284066+00:00"
 }
