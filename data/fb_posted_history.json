@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T01:09:44.326575+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-09T02:25:12.707937+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-28663e56bb": {
       "title": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121919863471257",
       "fb_comment_id": "122121919863471257_1661519465598759",
       "posted_at": "2026-10-09T01:09:44.326524+00:00"
+    },
+    "scraped-697ca5f9ef": {
+      "title": "Actress Dakota Johnson was convinced no one could possibly have the name 'OG Anunoby'",
+      "slug": "actress-dakota-johnson-was-convinced-no-one-could-possibly-have-the-name-og-anunoby",
+      "url": "https://ushotnews.online/article/actress-dakota-johnson-was-convinced-no-one-could-possibly-have-the-name-og-anunoby",
+      "article_url": "https://ushotnews.online/article/actress-dakota-johnson-was-convinced-no-one-could-possibly-have-the-name-og-anunoby",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121946971471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121946971471257",
+      "fb_comment_id": "122121946971471257_2314164119338460",
+      "posted_at": "2026-10-09T02:25:12.707833+00:00"
+    },
+    "actress-dakota-johnson-was-convinced-no-one-could-possibly-have-the-name-og-anunoby": {
+      "title": "Actress Dakota Johnson was convinced no one could possibly have the name 'OG Anunoby'",
+      "slug": "actress-dakota-johnson-was-convinced-no-one-could-possibly-have-the-name-og-anunoby",
+      "url": "https://ushotnews.online/article/actress-dakota-johnson-was-convinced-no-one-could-possibly-have-the-name-og-anunoby",
+      "article_url": "https://ushotnews.online/article/actress-dakota-johnson-was-convinced-no-one-could-possibly-have-the-name-og-anunoby",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122121946971471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121946971471257",
+      "fb_comment_id": "122121946971471257_2314164119338460",
+      "posted_at": "2026-10-09T02:25:12.707833+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-09T01:09:33.400473+00:00"
+  "last_cleaned_at": "2026-10-09T02:24:58.241200+00:00"
 }
