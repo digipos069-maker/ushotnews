@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T20:18:17.069072+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-09T21:10:08.396602+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-8f59d8c507": {
       "title": "Trump, Waltz link France riots to mass immigration as thousands are arrested",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122305561471257",
       "fb_comment_id": "122122305561471257_1405135141790039",
       "posted_at": "2026-10-09T20:18:17.069012+00:00"
+    },
+    "scraped-1d45efa16e": {
+      "title": "Attorney for former Cornell fraternity member wants AG James off case over post supporting accuser",
+      "slug": "attorney-for-former-cornell-fraternity-member-wants-ag-james-off-case-over-post-supporting",
+      "url": "https://ushotnews.online/article/attorney-for-former-cornell-fraternity-member-wants-ag-james-off-case-over-post-supporting",
+      "article_url": "https://ushotnews.online/article/attorney-for-former-cornell-fraternity-member-wants-ag-james-off-case-over-post-supporting",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122320987471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122320987471257",
+      "fb_comment_id": "122122320987471257_1118959290678496",
+      "posted_at": "2026-10-09T21:10:08.396501+00:00"
+    },
+    "attorney-for-former-cornell-fraternity-member-wants-ag-james-off-case-over-post-supporting": {
+      "title": "Attorney for former Cornell fraternity member wants AG James off case over post supporting accuser",
+      "slug": "attorney-for-former-cornell-fraternity-member-wants-ag-james-off-case-over-post-supporting",
+      "url": "https://ushotnews.online/article/attorney-for-former-cornell-fraternity-member-wants-ag-james-off-case-over-post-supporting",
+      "article_url": "https://ushotnews.online/article/attorney-for-former-cornell-fraternity-member-wants-ag-james-off-case-over-post-supporting",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122320987471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122320987471257",
+      "fb_comment_id": "122122320987471257_1118959290678496",
+      "posted_at": "2026-10-09T21:10:08.396501+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-09T20:18:05.662368+00:00"
+  "last_cleaned_at": "2026-10-09T21:09:58.703984+00:00"
 }
