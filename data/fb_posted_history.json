@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-09T16:28:59.742927+00:00",
+  "last_updated": "2026-10-09T20:18:17.069072+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-a3118571ef": {
-      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
-      "slug": "frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country",
-      "url": "https://ushotnews.online/article/frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country",
-      "article_url": "https://ushotnews.online/article/frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120878317471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120878317471257",
-      "fb_comment_id": "122120878317471257_1862775368039354",
-      "posted_at": "2026-10-06T19:43:32.951517+00:00"
-    },
-    "frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country": {
-      "title": "France's police fire tear gas and water cannons as school protests sweep the country",
-      "slug": "frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country",
-      "url": "https://ushotnews.online/article/frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country",
-      "article_url": "https://ushotnews.online/article/frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120878317471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120878317471257",
-      "fb_comment_id": "122120878317471257_1862775368039354",
-      "posted_at": "2026-10-06T19:43:32.951517+00:00"
-    },
     "scraped-8f59d8c507": {
       "title": "Trump, Waltz link France riots to mass immigration as thousands are arrested",
       "slug": "trump-waltz-link-france-riots-to-mass-immigration-as-thousands-are-arrested",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122237119471257",
       "fb_comment_id": "122122237119471257_1468736525312217",
       "posted_at": "2026-10-09T16:28:59.742866+00:00"
+    },
+    "scraped-b06f1e8366": {
+      "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
+      "slug": "youtube-meta-and-twitch-won8217t-say-if-they8217ll-allow-the-us-government-to-livestream-a",
+      "url": "https://ushotnews.online/article/youtube-meta-and-twitch-won8217t-say-if-they8217ll-allow-the-us-government-to-livestream-a",
+      "article_url": "https://ushotnews.online/article/youtube-meta-and-twitch-won8217t-say-if-they8217ll-allow-the-us-government-to-livestream-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122305561471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122305561471257",
+      "fb_comment_id": "122122305561471257_1405135141790039",
+      "posted_at": "2026-10-09T20:18:17.069012+00:00"
+    },
+    "youtube-meta-and-twitch-won8217t-say-if-they8217ll-allow-the-us-government-to-livestream-a": {
+      "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
+      "slug": "youtube-meta-and-twitch-won8217t-say-if-they8217ll-allow-the-us-government-to-livestream-a",
+      "url": "https://ushotnews.online/article/youtube-meta-and-twitch-won8217t-say-if-they8217ll-allow-the-us-government-to-livestream-a",
+      "article_url": "https://ushotnews.online/article/youtube-meta-and-twitch-won8217t-say-if-they8217ll-allow-the-us-government-to-livestream-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122305561471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122305561471257",
+      "fb_comment_id": "122122305561471257_1405135141790039",
+      "posted_at": "2026-10-09T20:18:17.069012+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-09T16:28:44.943015+00:00"
+  "last_cleaned_at": "2026-10-09T20:18:05.662368+00:00"
 }
