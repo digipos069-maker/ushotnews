@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-09T05:37:39.125785+00:00",
+  "last_updated": "2026-10-09T12:57:39.075222+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1025524": {
-      "title": "Misawa Air Base, Chief Pinning Ceremony 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112038552/DOD_112038552.mp4",
-      "attached_website_url": "https://ushotnews.online/article/ai-safety-groups-arent-buying-openais-spending-retreat",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "28490083313995280",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/28490083313995280",
-      "fb_comment_id": "28490083313995280_2858236554576050",
-      "posted_at": "2026-10-06T05:52:06.052908+00:00"
-    },
     "dvids-video:1025502": {
       "title": "Surface Line Week 2026 Kicks Off",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112035710/DOD_112035710.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2137818830163415",
       "fb_comment_id": "2137818830163415_4382292648582003",
       "posted_at": "2026-10-09T05:37:39.125716+00:00"
+    },
+    "dvids-video:1025951": {
+      "title": "USS Abraham Lincoln Returns to San Diego",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112046290/DOD_112046290.mp4",
+      "attached_website_url": "https://ushotnews.online/article/byron-donalds-says-he-is-not-a-yes-man-to-trump",
+      "trending_score": 90.0,
+      "format": "video",
+      "fb_video_id": "1732755154692787",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1732755154692787",
+      "fb_comment_id": "1732755154692787_1124963863355639",
+      "posted_at": "2026-10-09T12:57:39.075170+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-09T05:36:25.096537+00:00"
+  "last_cleaned_at": "2026-10-09T12:56:46.841655+00:00"
 }
