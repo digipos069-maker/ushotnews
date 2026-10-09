@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-09T15:13:38.919946+00:00",
+  "last_updated": "2026-10-09T16:28:59.742927+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-3822cb1ac1": {
-      "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-      "slug": "a-history-of-presidents-naming-things-after-themselves-its-short-they-rarely-do",
-      "url": "https://ushotnews.online/article/a-history-of-presidents-naming-things-after-themselves-its-short-they-rarely-do",
-      "article_url": "https://ushotnews.online/article/a-history-of-presidents-naming-things-after-themselves-its-short-they-rarely-do",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120799723471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120799723471257",
-      "fb_comment_id": "122120799723471257_1087024597299672",
-      "posted_at": "2026-10-06T16:13:25.113384+00:00"
-    },
-    "a-history-of-presidents-naming-things-after-themselves-its-short-they-rarely-do": {
-      "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
-      "slug": "a-history-of-presidents-naming-things-after-themselves-its-short-they-rarely-do",
-      "url": "https://ushotnews.online/article/a-history-of-presidents-naming-things-after-themselves-its-short-they-rarely-do",
-      "article_url": "https://ushotnews.online/article/a-history-of-presidents-naming-things-after-themselves-its-short-they-rarely-do",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122120799723471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122120799723471257",
-      "fb_comment_id": "122120799723471257_1087024597299672",
-      "posted_at": "2026-10-06T16:13:25.113384+00:00"
-    },
     "scraped-a3118571ef": {
       "title": "France's police fire tear gas and water cannons as school protests sweep the country",
       "slug": "frances-police-fire-tear-gas-and-water-cannons-as-school-protests-sweep-the-country",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122213857471257",
       "fb_comment_id": "122122213857471257_1415615463369883",
       "posted_at": "2026-10-09T15:13:38.919867+00:00"
+    },
+    "scraped-5ec39449e9": {
+      "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+      "slug": "chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work",
+      "url": "https://ushotnews.online/article/chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work",
+      "article_url": "https://ushotnews.online/article/chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122237119471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122237119471257",
+      "fb_comment_id": "122122237119471257_1468736525312217",
+      "posted_at": "2026-10-09T16:28:59.742866+00:00"
+    },
+    "chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work": {
+      "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+      "slug": "chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work",
+      "url": "https://ushotnews.online/article/chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work",
+      "article_url": "https://ushotnews.online/article/chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122237119471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122237119471257",
+      "fb_comment_id": "122122237119471257_1468736525312217",
+      "posted_at": "2026-10-09T16:28:59.742866+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-09T15:13:23.131788+00:00"
+  "last_cleaned_at": "2026-10-09T16:28:44.943015+00:00"
 }
