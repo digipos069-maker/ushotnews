@@ -1,5 +1,856 @@
 [
   {
+    "id": "scraped-13aaa8a795",
+    "slug": "byron-donalds-says-he-is-not-a-yes-man-to-trump",
+    "guid": "000001a1-1d59-d365-a3e9-1f7f098b0000",
+    "title": "Byron Donalds says he is not a ‘yes man’ to Trump",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Byron Donalds says he is not a ‘yes man’ to Trump",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Byron Donalds says he is not a ‘yes man’ to Trump... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T03:59:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4ddd88f7f7",
+    "slug": "we-dont-know-where-the-bottom-is-republicans-fret-races-in-trump-country",
+    "guid": "000001a1-1da6-d787-a9a1-bde73c0d0001",
+    "title": "‘We don’t know where the bottom is:’ Republicans fret races in Trump country",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "GOP internal polling revealed key House seats that Trump won comfortably in 2024 are now competitive.",
+    "content": [
+      "GOP internal polling revealed key House seats that Trump won comfortably in 2024 are now competitive.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/45/60/77813db040b9b503fbdd3e3f4309/https-delivery-gettyimages.com/downloads/2290919513",
+    "imageCaption": "‘We don’t know where the bottom is:’ Republicans fret races ... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T08:45:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-be509a8053",
+    "slug": "poll-1-in-4-trump-voters-say-gop-candidates-should-break-from-the-president",
+    "guid": "000001a1-1d1b-d058-adf3-3f7b5f140000",
+    "title": "Poll: 1 in 4 Trump voters say GOP candidates should break from the president",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "It’s notable that so many who backed the president are ready for Republicans to take that leap, amid an unpopular war in Iran and high costs of living.",
+    "content": [
+      "It’s notable that so many who backed the president are ready for Republicans to take that leap, amid an unpopular war in Iran and high costs of living.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/e2/4d/73d3ff4246b398cafb7ef5bee880/trump-gop-breaks.png",
+    "imageCaption": "Poll: 1 in 4 Trump voters say GOP candidates should break fr... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-84728215b9",
+    "slug": "microsoft-365-family-subscribers-will-finally-be-able-to-share-ai-benefits",
+    "guid": "https://www.theverge.com/?p=1008581",
+    "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with [&#8230;]",
+    "content": [
+      "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft 365 Family subscribers will finally be able to sha... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T07:14:32+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ed06eea350",
+    "slug": "newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war",
+    "title": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Gulf Coast Preps for Isaias, Ukraine expects Russian winter offensive, and Trump's Iran War in focus as Midterms approach.",
+    "content": [
+      "Gulf Coast Preps for Isaias, Ukraine expects Russian winter offensive, and Trump's Iran War in focus as Midterms approach.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T08:28:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8b8de8df56",
+    "slug": "a-student-hated-reading-for-years-her-podcast-explores-finding-the-right-diagnosis",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5977043/dyslexia-teenager-diagnosis-reading",
+    "title": "A student hated reading for years. Her podcast explores finding the right diagnosis",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
+    "content": [
+      "Middle schooler Cora Walsh of Long Island, N.Y., has won the 2026 NPR Student Podcast Challenge with a story about her journey with dyslexia.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A student hated reading for years. Her podcast explores find... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5ec39449e9",
+    "slug": "chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5995514/chatgpt-openai-teens-mental-health",
+    "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
+    "content": [
+      "A study from Common Sense Media says most safeguards in ChatGPT for Teens failed. The chatbot talks to teens like a friend and doesn't alert parents when users talk about self-harm and suicide.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "ChatGPT for Teens has special safeguards. A watchdog group f... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fd63495e46",
+    "slug": "why-mailing-a-ballot-close-to-election-day-may-get-it-rejected-for-a-late-postmark",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5984981/mail-in-ballot-usps-postmark",
+    "title": "Why mailing a ballot close to Election Day may get it rejected for a late postmark",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
+    "content": [
+      "If you're using the U.S. Postal Service to return a ballot close to Election Day, officials recommend getting it postmarked at a post office to avoid getting caught up in mail processing changes.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why mailing a ballot close to Election Day may get it reject... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-764f44c00f",
+    "slug": "why-we-remember-one-students-journey-into-memory",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5986352/memory-family-burger-king-grandfather",
+    "title": "Why we remember: One student's journey into memory",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Why one teen can't let go of the time he ate fries with his great-grandpa.",
+    "content": [
+      "Why one teen can't let go of the time he ate fries with his great-grandpa.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why we remember: One student's journey into memory... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e047e00331",
+    "slug": "republican-congressman-tries-to-outrun-a-potential-blue-wave-in-new-york-toss-up-seat",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5986150/lawler-new-york-congress-trump",
+    "title": "Republican congressman tries to outrun a potential blue wave in New York toss-up seat",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
+    "content": [
+      "Rep. Mike Lawler, R-NY, is in a tight race for re-election in a toss-up district that could help determine control of Congress in November.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Republican congressman tries to outrun a potential blue wave... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7ef41e6bc4",
+    "slug": "in-central-african-republic-deported-immigrants-find-themselves-in-limbo",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5993805/third-country-deportations-cuba",
+    "title": "In Central African Republic, deported immigrants find themselves in limbo",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they've lost control over their own lives.",
+    "content": [
+      "The Trump administration says it has deported more than 25,000 people to countries to which they have no ties. NPR spoke to three men who say it feels like they've lost control over their own lives.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "In Central African Republic, deported immigrants find themse... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-de544bade6",
+    "slug": "fill-in-the-blank-in-the-quiz-a-plague-research-employee-in-russia-died-from-____",
+    "guid": "https://www.npr.org/2026/10/09/g-s1-147111/trump-bts-paramount-tv-el-nino-news-quiz",
+    "title": "Fill in the blank in the quiz: A plague research employee in Russia died from ____",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!",
+    "content": [
+      "Plus: Nobels! Protests! Ambiguous quotes! A mysterious death in Russia!",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fill in the blank in the quiz: A plague research employee in... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ec18b12850",
+    "slug": "tony-romo-got-disqualified-from-his-korn-ferry-qualifier-the-same-day-he-parted-ways-with-",
+    "guid": "https://www.foxnews.com/outkick-sports/tony-romo-disqualified-korn-ferry-qualifier-parted-ways-cbs-sports",
+    "title": "Tony Romo got disqualified from his Korn Ferry qualifier the same day he 'parted ways' with CBS Sports",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tony Romo was disqualified from a Korn Ferry Tour pre-qualifier for signing an incorrect scorecard on the same day he parted ways with CBS Sports.",
+    "content": [
+      "Tony Romo was disqualified from a Korn Ferry Tour pre-qualifier for signing an incorrect scorecard on the same day he parted ways with CBS Sports.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/tony-romo-american-century-championship.jpg?ve=1&tl=1",
+    "imageCaption": "Tony Romo got disqualified from his Korn Ferry qualifier the... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T02:15:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-10157029de",
+    "slug": "aja-wilson-wins-record-fifth-mvp-as-first-three-peat-in-wnba-history-strengthens-all-time-",
+    "guid": "https://www.foxnews.com/outkick-sports/aja-wilson-wins-record-fifth-wnba-mvp-first-three-peat-wnba-history-strengthens-all-time-greatness-case",
+    "title": "A'ja Wilson wins record fifth MVP as first three-peat in WNBA history strengthens all-time greatness case",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Las Vegas Aces star&apos;s fifth WNBA MVP puts her alongside Bill Russell, Kareem Abdul-Jabbar and Michael Jordan in rarefied historic air.",
+    "content": [
+      "The Las Vegas Aces star&apos;s fifth WNBA MVP puts her alongside Bill Russell, Kareem Abdul-Jabbar and Michael Jordan in rarefied historic air.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/A_ja-Wilson-MVP-throphy.jpg?ve=1&tl=1",
+    "imageCaption": "A'ja Wilson wins record fifth MVP as first three-peat in WNB... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T02:45:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c4fe1e69c1",
+    "slug": "brian-schottenheimer-now-sits-on-hottest-seat-in-nfl-after-cowboys-collapse-against-buccan",
+    "guid": "https://www.foxnews.com/outkick-sports/brian-schottenheimer-hottest-seat-nfl-cowboys-collapse-buccaneers",
+    "title": "Brian Schottenheimer now sits on hottest seat in NFL after Cowboys collapse against Buccaneers",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bucky Irving&apos;s 72-yard run sparked a Tampa Bay Buccaneers comeback as rookie Jalon Daniels led the charge to upset the Dallas Cowboys at home.",
+    "content": [
+      "Bucky Irving&apos;s 72-yard run sparked a Tampa Bay Buccaneers comeback as rookie Jalon Daniels led the charge to upset the Dallas Cowboys at home.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brian-schottenheimer-cowboys-buccaneers-sidelines.jpg?ve=1&tl=1",
+    "imageCaption": "Brian Schottenheimer now sits on hottest seat in NFL after C... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T03:55:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b179f1814d",
+    "slug": "guardians-force-decisive-alds-game-5-as-white-sox-miss-chance-to-reach-first-alcs-since-20",
+    "guid": "https://www.foxnews.com/outkick-sports/guardians-force-decisive-alds-game-5-white-sox-miss-chance-reach-first-alcs-since-2005",
+    "title": "Guardians force decisive ALDS Game 5 as White Sox miss chance to reach first ALCS since 2005",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "White Sox-Guardians ALDS Game 4 saw Cleveland erupt for two fifth-inning home runs to erase Chicago&apos;s lead and force a decisive Game 5 Saturday.",
+    "content": [
+      "White Sox-Guardians ALDS Game 4 saw Cleveland erupt for two fifth-inning home runs to erase Chicago&apos;s lead and force a decisive Game 5 Saturday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Cleveland-Guardians-Chicago-White-Sox.jpg?ve=1&tl=1",
+    "imageCaption": "Guardians force decisive ALDS Game 5 as White Sox miss chanc... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T04:22:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ac3bd7e25c",
+    "slug": "mamdani-demands-trump-release-illegal-immigrant-shot-by-ice-agent-as-protests-erupt-in-the",
+    "guid": "https://www.foxnews.com/us/mamdani-demands-trump-release-illegal-immigrant-shot-ice-agent-protests-erupt-bronx",
+    "title": "Mamdani demands Trump release illegal immigrant shot by ICE agent as protests erupt in the Bronx",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Mayor Zohran Mamdani demanded President Donald Trump release the man shot and injured by an ICE agent on Thursday in an incident that set off protests across New York City.",
+    "content": [
+      "Mayor Zohran Mamdani demanded President Donald Trump release the man shot and injured by an ICE agent on Thursday in an incident that set off protests across New York City.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mamdani-ice-presser-shooting-nyc.jpg?ve=1&tl=1",
+    "imageCaption": "Mamdani demands Trump release illegal immigrant shot by ICE ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T04:40:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9188f20085",
+    "slug": "creators-of-october-7-play-call-fire-alarm-disruption-at-northwestern-a-cowardly-attempt-a",
+    "guid": "https://www.foxnews.com/media/creators-october-7-play-call-fire-alarm-disruption-northwestern-cowardly-attempt-intimidation",
+    "title": "Creators of October 7 play call fire alarm disruption at Northwestern a 'cowardly' attempt at intimidation",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A fire alarm disrupted the play OCTOBER 7 at Northwestern University&apos;s Cahn Auditorium, but defiant audience members returned to give a standing ovation.",
+    "content": [
+      "A fire alarm disrupted the play OCTOBER 7 at Northwestern University&apos;s Cahn Auditorium, but defiant audience members returned to give a standing ovation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/NORTHWESTERN-UNIVERSITY-CAMPUS-1.jpg?ve=1&tl=1",
+    "imageCaption": "Creators of October 7 play call fire alarm disruption at Nor... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e60e65e396",
+    "slug": "democrats-say-theyll-make-life-affordable-your-wallet-may-disagree",
+    "guid": "https://www.foxnews.com/opinion/democrats-say-theyll-make-life-affordable-your-wallet-may-disagree",
+    "title": "Democrats say they'll make life affordable. Your wallet may disagree",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Democrats are pushing affordability as their 2026 message, but a financial advisor asks whether subsidies actually lower costs or just shift the bill.",
+    "content": [
+      "Democrats are pushing affordability as their 2026 message, but a financial advisor asks whether subsidies actually lower costs or just shift the bill.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/1200/675/f2f2f6aa-costco-checkout-registers.jpg?ve=1&tl=1",
+    "imageCaption": "Democrats say they'll make life affordable. Your wallet may ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:00:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4d426dc709",
+    "slug": "real-boss-of-india-elon-musk-takes-aim-at-indian-billionaire-ambani-as-starlink-launch-sta",
+    "guid": "108379396",
+    "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.",
+    "content": [
+      "Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'Real boss of India?': Elon Musk takes aim at Indian billion... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T04:11:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-216ff6c01e",
+    "slug": "treasury-yields-steady-as-trump-strikes-diplomatic-tone-on-iran-ahead-of-midterms",
+    "guid": "108380490",
+    "title": "Treasury yields steady as Trump strikes diplomatic tone on Iran ahead of midterms",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Yields were largely unchanged Friday as investors assessed President Trump's latest comments on Iran.",
+    "content": [
+      "Yields were largely unchanged Friday as investors assessed President Trump's latest comments on Iran.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Treasury yields steady as Trump strikes diplomatic tone on I... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T08:24:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f61735c0ee",
+    "slug": "openai-defends-decision-to-fire-researchers-these-decisions-were-not-about-raising-safety-",
+    "guid": "108380283",
+    "title": "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "OpenAI has defended its decision to fire three safety researchers for what the AI lab has described as a \"significant breach of trust\"",
+    "content": [
+      "OpenAI has defended its decision to fire three safety researchers for what the AI lab has described as a \"significant breach of trust\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI defends decision to fire researchers: 'These decision... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T08:33:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1bf96da954",
+    "slug": "nobel-peace-prize-awarded-to-former-international-criminal-court-judge-navanethem-pillay",
+    "guid": "108380821",
+    "title": "Nobel Peace Prize awarded to former International Criminal Court judge Navanethem Pillay",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Navanethem \"Navi\" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.",
+    "content": [
+      "Navanethem \"Navi\" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nobel Peace Prize awarded to former International Criminal C... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T09:21:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-5d5d44648a",
     "slug": "us-plans-livestream-of-execution-by-firing-squad",
     "guid": "https://www.theverge.com/?p=1008530",
