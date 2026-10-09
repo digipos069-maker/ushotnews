@@ -1,5 +1,486 @@
 [
   {
+    "id": "scraped-5d5d44648a",
+    "slug": "us-plans-livestream-of-execution-by-firing-squad",
+    "guid": "https://www.theverge.com/?p=1008530",
+    "title": "US plans livestream of execution by firing squad",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed [&#8230;]",
+    "content": [
+      "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week. He is scheduled to be executed [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "US plans livestream of execution by firing squad... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T22:32:04+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9f29997da8",
+    "slug": "openai-caught-russians-and-iranians-using-chatgpt-for-influence-campaigns",
+    "guid": "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+    "title": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
+    "content": [
+      "The company says Russian operatives used its AI chatbot to update their bosses, shedding light on influence campaigns previously not attributed to Russia.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI caught Russians and Iranians using ChatGPT for influe... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T00:25:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3089d6c27e",
+    "slug": "logan-federicos-dad-says-criminals-have-become-more-important-than-victims-pushes-repeat-o",
+    "guid": "https://www.foxnews.com/us/logan-federico-dad-says-criminals-more-important-victims-pushes-repeat-offender-registry",
+    "title": "Logan Federico’s dad says criminals have become 'more important' than victims, pushes repeat offender registry",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Stephen Federico urged federal lawmakers to pass Logan&apos;s Law, which would include a violent crime registry bill, at a South Carolina roundtable with AG Todd Blanche.",
+    "content": [
+      "Stephen Federico urged federal lawmakers to pass Logan&apos;s Law, which would include a violent crime registry bill, at a South Carolina roundtable with AG Todd Blanche.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/logan-federico-stephen-federico-congressional-hearing.jpg?ve=1&tl=1",
+    "imageCaption": "Logan Federico’s dad says criminals have become 'more import... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T23:55:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-da57af45d3",
+    "slug": "arizona-man-arrested-after-allegedly-emailing-white-house-bomb-threat-to-tucson-news-stati",
+    "guid": "https://www.foxnews.com/us/arizona-man-arrested-allegedly-emailing-white-house-bomb-threat-tucson-news-station",
+    "title": "Arizona man arrested after allegedly emailing White House bomb threat to Tucson news station",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jacob Aaron Hicks allegedly emailed a Tucson news station claiming an imminent bomb strike against the White House, prompting an FBI investigation.",
+    "content": [
+      "Jacob Aaron Hicks allegedly emailed a Tucson news station claiming an imminent bomb strike against the White House, prompting an FBI investigation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/white-house_001.jpg?ve=1&tl=1",
+    "imageCaption": "Arizona man arrested after allegedly emailing White House bo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T00:14:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4844e27331",
+    "slug": "missouri-footballs-johnnie-dj-jones-recovering-after-successful-heart-transplant-coach-say",
+    "guid": "https://www.foxnews.com/outkick-sports/missouri-football-johnnie-dj-jones-recovering-successful-heart-transplant-coach-says",
+    "title": "Missouri football's Johnnie 'DJ' Jones recovering after successful heart transplant, coach says",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Johnnie DJ Jones underwent heart transplant surgery Wednesday after Mayo Clinic doctors in Jacksonville detected a serious cardiac condition.",
+    "content": [
+      "Johnnie DJ Jones underwent heart transplant surgery Wednesday after Mayo Clinic doctors in Jacksonville detected a serious cardiac condition.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Coach-Eli-Drinkwitz.jpg?ve=1&tl=1",
+    "imageCaption": "Missouri football's Johnnie 'DJ' Jones recovering after succ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T01:02:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8f5e102dd2",
+    "slug": "michigan-senate-debate-erupts-into-personal-attacks-as-rogers-el-sayed-clash-over-israel-i",
+    "guid": "https://www.foxnews.com/politics/michigan-senate-debate-erupts-personal-attacks-rogers-el-sayed-clash-over-israel-iran-more",
+    "title": "Michigan Senate debate erupts into personal attacks as Rogers, El-Sayed clash over Israel, Iran and more",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Republican Mike Rogers and Democrat Abdul El-Sayed clashed in their first head-to-head public debate during a fiery showdown Thursday night filled with personal attacks and accusations.",
+    "content": [
+      "Republican Mike Rogers and Democrat Abdul El-Sayed clashed in their first head-to-head public debate during a fiery showdown Thursday night filled with personal attacks and accusations.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ABDUL-EL-SAYED-MIKE-ROGERS.jpg?ve=1&tl=1",
+    "imageCaption": "Michigan Senate debate erupts into personal attacks as Roger... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T01:27:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-83bf6c856e",
+    "slug": "luka-dončić-says-he-definitely-regrets-playing-through-hamstring-injury-that-ended-his-sea",
+    "guid": "https://www.foxnews.com/outkick-sports/luka-doncic-definitely-regrets-playing-through-hamstring-injury-ended-season",
+    "title": "Luka Dončić says he 'definitely' regrets playing through hamstring injury that ended his season",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Luka Dončić revealed he felt a hamstring tweak against the Oklahoma City Thunder but pushed through, a decision he says cost the Lakers a title.",
+    "content": [
+      "Luka Dončić revealed he felt a hamstring tweak against the Oklahoma City Thunder but pushed through, a decision he says cost the Lakers a title.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/lakers-luka-doncic-dribbles-the-ball.jpg?ve=1&tl=1",
+    "imageCaption": "Luka Dončić says he 'definitely' regrets playing through ham... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T01:30:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e2c8493947",
+    "slug": "federal-grand-jury-hears-evidence-in-probe-of-former-trump-aide-cassidy-hutchinsons-jan-6-",
+    "guid": "https://www.foxnews.com/politics/federal-grand-jury-hears-evidence-probe-former-trump-aide-cassidy-hutchinson-jan-6-testimony",
+    "title": "Federal grand jury hears evidence in probe of former Trump aide Cassidy Hutchinson's Jan 6 testimony: source",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A federal grand jury heard evidence about possible false statements Cassidy Hutchinson made to the Jan. 6 House select committee on the Capitol riot.",
+    "content": [
+      "A federal grand jury heard evidence about possible false statements Cassidy Hutchinson made to the Jan. 6 House select committee on the Capitol riot.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/cassidy-hutchinson-002.jpg?ve=1&tl=1",
+    "imageCaption": "Federal grand jury hears evidence in probe of former Trump a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T01:33:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-68b94f2a06",
+    "slug": "2-foreign-nationals-breach-uk-base-housing-key-us-nato-intel-hub-amid-556m-expansion",
+    "guid": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
+    "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation.",
+    "content": [
+      "The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/molesworth-us-air-force.jpg?ve=1&tl=1",
+    "imageCaption": "2 foreign nationals breach UK base housing key US, NATO inte... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T01:35:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0a3875bd4c",
+    "slug": "rumbling-volcano-forces-immediate-trail-closures-at-popular-vacation-hot-spot",
+    "guid": "https://www.foxnews.com/travel/rumbling-volcano-forces-immediate-trail-closures-popular-vacation-hot-spot",
+    "title": "Rumbling volcano forces immediate trail closures at popular vacation hot spot",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Kīlauea volcano shows renewed spattering at two vents as USGS scientists monitor for a possible 55th episode of lava fountains at the summit.",
+    "content": [
+      "The Kīlauea volcano shows renewed spattering at two vents as USGS scientists monitor for a possible 55th episode of lava fountains at the summit.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/HI-HAWAII-VOLCANOS-NATIONAL-PARK-WARNING-TRAVEL-4.jpg?ve=1&tl=1",
+    "imageCaption": "Rumbling volcano forces immediate trail closures at popular ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T02:02:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3154e1d06f",
+    "slug": "us-east-asian-envoy-says-investors-are-overpricing-taiwan-risk",
+    "guid": "108375786",
+    "title": "U.S. East Asian envoy says investors are overpricing Taiwan risk",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
+    "content": [
+      "Investors are overestimating the risk of conflict across the Taiwan Strait, a U.S. diplomat says, playing up deterrence to keep Beijing from taking the island.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. East Asian envoy says investors are overpricing Taiwan ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T01:37:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cbc7346e6f",
+    "slug": "tokenization-could-unleash-tens-of-billions-of-dollars-in-trapped-capital-nasdaq-ceo-says",
+    "guid": "108378617",
+    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+    "content": [
+      "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tokenization could unleash tens of billions of dollars in tr... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-08T23:57:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d311a4ddda",
+    "slug": "nvidia-backed-aussie-ai-firm-firmus-withdraws-historic-ipo-citing-market-volatility",
+    "guid": "108378988",
+    "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
+    "content": [
+      "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T01:02:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-4812048866",
     "slug": "paramount-is-making-a-cyberpunk-2077-film",
     "guid": "https://www.theverge.com/?p=1008327",
