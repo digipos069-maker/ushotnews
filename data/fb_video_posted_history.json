@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T23:56:56.991142+00:00",
-  "posted_count": 11,
+  "last_updated": "2026-10-10T05:22:48.956009+00:00",
+  "posted_count": 12,
   "articles": {
     "dvids-video:1025627": {
       "title": "SMSgt Fountain — Green Bay Packers Shout-out",
@@ -122,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1140104105031022",
       "fb_comment_id": "1140104105031022_2165652600827921",
       "posted_at": "2026-10-09T23:56:56.991065+00:00"
+    },
+    "dvids-video:1026058": {
+      "title": "The U.S. Army Parachute Team jumps into Louisville Cardinals home football game",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112048987/DOD_112048987.mp4",
+      "attached_website_url": "https://ushotnews.online/article/anthropics-ai-gave-philadelphia-police-a-fake-tip-about-an-unsolved-homicide",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1629281925368504",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1629281925368504",
+      "fb_comment_id": "1629281925368504_1298959072298603",
+      "posted_at": "2026-10-10T05:22:48.955945+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-09T23:55:17.033183+00:00"
+  "last_cleaned_at": "2026-10-10T05:21:50.258907+00:00"
 }
