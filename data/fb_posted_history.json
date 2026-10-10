@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T21:32:52.927186+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-10-10T22:14:30.957523+00:00",
+  "posted_count": 54,
   "articles": {
     "scraped-e535cdf00a": {
       "title": "The top House sleeper races to watch, according to the pros",
@@ -573,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122782963471257",
       "fb_comment_id": "122122782963471257_2157320281555880",
       "posted_at": "2026-10-10T21:32:52.927117+00:00"
+    },
+    "scraped-4b2a03465f": {
+      "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+      "slug": "stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market",
+      "url": "https://ushotnews.online/article/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market",
+      "article_url": "https://ushotnews.online/article/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122792581471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122792581471257",
+      "fb_comment_id": "122122792581471257_1095249100156769",
+      "posted_at": "2026-10-10T22:14:30.957455+00:00"
+    },
+    "stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market": {
+      "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+      "slug": "stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market",
+      "url": "https://ushotnews.online/article/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market",
+      "article_url": "https://ushotnews.online/article/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122792581471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122792581471257",
+      "fb_comment_id": "122122792581471257_1095249100156769",
+      "posted_at": "2026-10-10T22:14:30.957455+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T21:32:42.264853+00:00"
+  "last_cleaned_at": "2026-10-10T22:14:21.921141+00:00"
 }
