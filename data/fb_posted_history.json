@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-10T01:06:39.650102+00:00",
+  "last_updated": "2026-10-10T06:19:19.816812+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-f7ccd26a73": {
-      "title": "Super Bowl-winning coach Bruce Arians partners urges prostate cancer screenings: 'It will save your life'",
-      "slug": "super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
-      "url": "https://ushotnews.online/article/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
-      "article_url": "https://ushotnews.online/article/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121035757471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121035757471257",
-      "fb_comment_id": "122121035757471257_1741751450274018",
-      "posted_at": "2026-10-07T04:30:47.725047+00:00"
-    },
-    "super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa": {
-      "title": "Super Bowl-winning coach Bruce Arians partners urges prostate cancer screenings: 'It will save your life'",
-      "slug": "super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
-      "url": "https://ushotnews.online/article/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
-      "article_url": "https://ushotnews.online/article/super-bowl-winning-coach-bruce-arians-partners-urges-prostate-cancer-screenings-it-will-sa",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121035757471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121035757471257",
-      "fb_comment_id": "122121035757471257_1741751450274018",
-      "posted_at": "2026-10-07T04:30:47.725047+00:00"
-    },
     "scraped-bf3942bb96": {
       "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
       "slug": "tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122395849471257",
       "fb_comment_id": "122122395849471257_1081762857794995",
       "posted_at": "2026-10-10T01:06:39.650045+00:00"
+    },
+    "scraped-b8671040fd": {
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "slug": "trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
+      "url": "https://ushotnews.online/article/trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
+      "article_url": "https://ushotnews.online/article/trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122494897471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122494897471257",
+      "fb_comment_id": "122122494897471257_1587799733098965",
+      "posted_at": "2026-10-10T06:19:19.816753+00:00"
+    },
+    "trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law": {
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "slug": "trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
+      "url": "https://ushotnews.online/article/trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
+      "article_url": "https://ushotnews.online/article/trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122494897471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122494897471257",
+      "fb_comment_id": "122122494897471257_1587799733098965",
+      "posted_at": "2026-10-10T06:19:19.816753+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T01:06:27.973153+00:00"
+  "last_cleaned_at": "2026-10-10T06:19:05.076011+00:00"
 }
