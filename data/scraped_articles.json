@@ -1,5 +1,560 @@
 [
   {
+    "id": "scraped-e6eb84b7ba",
+    "slug": "anthropics-ai-gave-philadelphia-police-a-fake-tip-about-an-unsolved-homicide",
+    "guid": "https://www.theverge.com/?p=1009090",
+    "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+    "content": [
+      "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic’s AI gave Philadelphia police a fake tip about an ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T21:15:38+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b9e0c4e83f",
+    "slug": "decade-old-ram-is-making-a-comeback",
+    "guid": "https://www.theverge.com/?p=1009140",
+    "title": "Decade-old RAM is making a comeback",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of [&#8230;]",
+    "content": [
+      "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable type of memory. On Friday, Gigabyte announced that two of [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Decade-old RAM is making a comeback... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T21:50:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5981c32d72",
+    "slug": "trump-says-us-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+    "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+    "content": [
+      "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says U.S. to get diesel from Russia, relaxing pressure... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T21:24:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f6834e037b",
+    "slug": "fired-openai-employees-question-the-companys-commitment-to-safety",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+    "title": "Fired OpenAI employees question the company's commitment to safety",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
+    "content": [
+      "The three fired workers say OpenAI punished them for being outspoken about safety. The company disputes the claims and says they were fired over mishandling sensitive information.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fired OpenAI employees question the company's commitment to ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T21:28:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7a5835a06b",
+    "slug": "kalshi-taps-former-fbi-agent-to-fight-against-money-laundering",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+    "title": "Kalshi taps former FBI agent to fight against money laundering",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
+    "content": [
+      "The prediction market company says it wants to prevent its platform from being abused by criminals. The company is facing mounting pressure over market manipulation and insider trading on the site.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Kalshi taps former FBI agent to fight against money launderi... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T22:23:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3222a148f5",
+    "slug": "at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-",
+    "guid": "https://www.foxnews.com/outkick-sports/least-one-person-isnt-concerned-cam-skattebo-getting-injured-his-name-cam-skattebo",
+    "title": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "New York Giants running back Cam Skattebo was limited in practice with a shoulder injury but told coaches he&apos;s ready for the Washington Commanders.",
+    "content": [
+      "New York Giants running back Cam Skattebo was limited in practice with a shoulder injury but told coaches he&apos;s ready for the Washington Commanders.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/skattebo-injury.png?ve=1&tl=1",
+    "imageCaption": "At least one person isn't concerned about Cam Skattebo getti... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T22:51:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e5f7e0b15c",
+    "slug": "texas-legend-has-sky-high-hopes-for-longhorns-ahead-of-red-river-rivalry-game-vs-oklahoma",
+    "guid": "https://www.foxnews.com/outkick-sports/texas-legend-sky-high-hopes-longhorns-red-river-rivalry-game-oklahoma",
+    "title": "Texas legend has sky-high hopes for Longhorns ahead of Red River Rivalry game vs Oklahoma",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Colt McCoy calls the Texas Longhorns&apos; current roster arguably the most talented ever as they enter the Red River Rivalry ranked No. 1 at 4-0.",
+    "content": [
+      "Colt McCoy calls the Texas Longhorns&apos; current roster arguably the most talented ever as they enter the Red River Rivalry ranked No. 1 at 4-0.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/colt-mccoy-texas-longhorns-red-river-rivalry.jpg?ve=1&tl=1",
+    "imageCaption": "Texas legend has sky-high hopes for Longhorns ahead of Red R... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T23:05:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1c68ce7339",
+    "slug": "hollywood-feeling-more-hopeful-amid-a-push-for-film-tax-credits-and-paramount-staying-put-",
+    "guid": "https://www.foxnews.com/media/hollywood-feeling-more-hopeful-amid-push-film-tax-credits-paramount-staying-put-filmmaker-says",
+    "title": "Hollywood feeling more hopeful amid a push for film tax credits and Paramount staying put, filmmaker says",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "California expands its film and television tax credits and launches a post-production incentive as Hollywood fights to keep jobs in Los Angeles.",
+    "content": [
+      "California expands its film and television tax credits and launches a post-production incentive as Hollywood fights to keep jobs in Los Angeles.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Trump-Schiff-Hollywood-001.jpg?ve=1&tl=1",
+    "imageCaption": "Hollywood feeling more hopeful amid a push for film tax cred... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T23:26:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-771df87a2f",
+    "slug": "trump-gives-raw-reaction-after-finding-out-about-mike-ditkas-death-a-tough-cookie",
+    "guid": "https://www.foxnews.com/outkick-sports/trump-raw-reaction-mike-ditka-death-tough-cookie",
+    "title": "Trump gives raw reaction after finding out about Mike Ditka's death: 'A tough cookie'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trump called Mike Ditka a tough cookie and a winner after learning of the Hall of Fame Chicago Bears coach&apos;s death on the South Lawn Friday.",
+    "content": [
+      "Trump called Mike Ditka a tough cookie and a winner after learning of the Hall of Fame Chicago Bears coach&apos;s death on the South Lawn Friday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mike-ditka-dead.jpg?ve=1&tl=1",
+    "imageCaption": "Trump gives raw reaction after finding out about Mike Ditka'... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T00:13:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c42de5cd18",
+    "slug": "former-obama-advisor-tells-divided-maine-democrats-to-get-over-your-s-and-win-the-race",
+    "guid": "https://www.foxnews.com/media/former-obama-advisor-tells-divided-maine-democrats-get-over-your-s-win-race",
+    "title": "Former Obama advisor tells divided Maine Democrats to 'get over your s---' and win the race",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Former Obama strategists urge Maine Democrats to unite behind Troy Jackson, warning internal party feuds could cost them a critical Senate seat.",
+    "content": [
+      "Former Obama strategists urge Maine Democrats to unite behind Troy Jackson, warning internal party feuds could cost them a critical Senate seat.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/dan-pfeiffer.jpg?ve=1&tl=1",
+    "imageCaption": "Former Obama advisor tells divided Maine Democrats to 'get o... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T00:19:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e42d4cd172",
+    "slug": "super-bowl-lxi-gets-pat-mcafee-treatment-as-espn-adds-alternate-broadcast",
+    "guid": "https://www.foxnews.com/outkick-sports/super-bowl-lxi-gets-pat-mcafee-treatment-espn-adds-alternate-broadcast",
+    "title": "Super Bowl LXI gets Pat McAfee treatment as ESPN adds alternate broadcast",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Pat McAfee announced his own alternate Super Bowl LXI broadcast on ESPN, bringing his signature Field Pass style to the NFL&apos;s biggest stage.",
+    "content": [
+      "Pat McAfee announced his own alternate Super Bowl LXI broadcast on ESPN, bringing his signature Field Pass style to the NFL&apos;s biggest stage.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/pat-mcafee-college-gameday-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Super Bowl LXI gets Pat McAfee treatment as ESPN adds altern... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T00:25:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1e79bb438c",
+    "slug": "james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
+    "guid": "https://www.foxnews.com/politics/james-talarico-resurfaces-after-12-day-absence-sparked-campaign-trail-attacks",
+    "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "James Talarico resurfaces at Austin City Limits after a 12-day absence that drew sharp attacks from Trump and Ken Paxton on the campaign trail.",
+    "content": [
+      "James Talarico resurfaces at Austin City Limits after a 12-day absence that drew sharp attacks from Trump and Ken Paxton on the campaign trail.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/James-Talarico-Stage.png?ve=1&tl=1",
+    "imageCaption": "James Talarico resurfaces after extended absence as his camp... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T00:41:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a4d25bc9e1",
+    "slug": "lions-head-coach-pays-tribute-to-mike-ditka-after-learning-of-his-death-from-a-press-confe",
+    "guid": "https://www.foxnews.com/outkick-sports/lions-head-coach-pays-tribute-mike-ditka-after-learning-his-death-press-conference-question",
+    "title": "Lions head coach pays tribute to Mike Ditka after learning of his death from a press conference question",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Dan Campbell shared an unforgettable pre-draft story about sitting alone with Mike Ditka in a room full of cigar smoke ahead of the 1999 NFL Draft.",
+    "content": [
+      "Dan Campbell shared an unforgettable pre-draft story about sitting alone with Mike Ditka in a room full of cigar smoke ahead of the 1999 NFL Draft.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/campbell-ditka.png?ve=1&tl=1",
+    "imageCaption": "Lions head coach pays tribute to Mike Ditka after learning o... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T00:56:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-988388a8c7",
+    "slug": "cramers-week-ahead-earnings-kick-off-as-banks-and-chipmakers-face-big-tests",
+    "guid": "108382834",
+    "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "CNBC’s Jim Cramer said next week’s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
+    "content": [
+      "CNBC’s Jim Cramer said next week’s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cramer’s week ahead: Earnings kick off as banks and chipmake... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T22:22:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b8671040fd",
+    "slug": "trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
+    "guid": "108382933",
+    "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+    "content": [
+      "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump's diesel agreement with Putin accused of contradicting... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-09T23:16:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-cba049a951",
     "slug": "microsoft-tries-to-spark-new-life-into-windows",
     "guid": "https://www.theverge.com/?p=1008801",
