@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-10T07:32:58.304132+00:00",
+  "last_updated": "2026-10-10T12:59:08.651560+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-bc19804c8e": {
-      "title": "Jaguar’s first EV looks just like its divisive concept car",
-      "slug": "jaguars-first-ev-looks-just-like-its-divisive-concept-car",
-      "url": "https://ushotnews.online/article/jaguars-first-ev-looks-just-like-its-divisive-concept-car",
-      "article_url": "https://ushotnews.online/article/jaguars-first-ev-looks-just-like-its-divisive-concept-car",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121189915471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121189915471257",
-      "fb_comment_id": "122121189915471257_1859660165455093",
-      "posted_at": "2026-10-07T11:32:36.163407+00:00"
-    },
-    "jaguars-first-ev-looks-just-like-its-divisive-concept-car": {
-      "title": "Jaguar’s first EV looks just like its divisive concept car",
-      "slug": "jaguars-first-ev-looks-just-like-its-divisive-concept-car",
-      "url": "https://ushotnews.online/article/jaguars-first-ev-looks-just-like-its-divisive-concept-car",
-      "article_url": "https://ushotnews.online/article/jaguars-first-ev-looks-just-like-its-divisive-concept-car",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121189915471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121189915471257",
-      "fb_comment_id": "122121189915471257_1859660165455093",
-      "posted_at": "2026-10-07T11:32:36.163407+00:00"
-    },
     "scraped-5b1b3ebed2": {
       "title": "Who will win the 2026 Nobel Prize in economics?",
       "slug": "who-will-win-the-2026-nobel-prize-in-economics",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122512447471257",
       "fb_comment_id": "122122512447471257_1421925662602415",
       "posted_at": "2026-10-10T07:32:58.304079+00:00"
+    },
+    "scraped-3222a148f5": {
+      "title": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo",
+      "slug": "at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-",
+      "url": "https://ushotnews.online/article/at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-",
+      "article_url": "https://ushotnews.online/article/at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122621989471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122621989471257",
+      "fb_comment_id": "122122621989471257_2598136937293234",
+      "posted_at": "2026-10-10T12:59:08.651502+00:00"
+    },
+    "at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-": {
+      "title": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo",
+      "slug": "at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-",
+      "url": "https://ushotnews.online/article/at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-",
+      "article_url": "https://ushotnews.online/article/at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122621989471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122621989471257",
+      "fb_comment_id": "122122621989471257_2598136937293234",
+      "posted_at": "2026-10-10T12:59:08.651502+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T07:32:46.140083+00:00"
+  "last_cleaned_at": "2026-10-10T12:58:55.547530+00:00"
 }
