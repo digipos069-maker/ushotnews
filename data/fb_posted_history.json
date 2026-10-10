@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-10T17:47:40.990788+00:00",
+  "last_updated": "2026-10-10T18:46:56.055579+00:00",
   "posted_count": 52,
   "articles": {
-    "scraped-2306fd8bc1": {
-      "title": "Israel amb torches Mamdani Oct 7 post: 'Like turning September 11 into a day of mourning for al-Qaeda'",
-      "slug": "israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for",
-      "url": "https://ushotnews.online/article/israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for",
-      "article_url": "https://ushotnews.online/article/israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121333021471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121333021471257",
-      "fb_comment_id": "122121333021471257_1412752127703506",
-      "posted_at": "2026-10-07T18:29:14.321605+00:00"
-    },
-    "israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for": {
-      "title": "Israel amb torches Mamdani Oct 7 post: 'Like turning September 11 into a day of mourning for al-Qaeda'",
-      "slug": "israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for",
-      "url": "https://ushotnews.online/article/israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for",
-      "article_url": "https://ushotnews.online/article/israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121333021471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121333021471257",
-      "fb_comment_id": "122121333021471257_1412752127703506",
-      "posted_at": "2026-10-07T18:29:14.321605+00:00"
-    },
     "scraped-8641513c2f": {
       "title": "How Microsoft built its MacBook Pro competitor",
       "slug": "how-microsoft-built-its-macbook-pro-competitor",
@@ -573,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122711965471257",
       "fb_comment_id": "122122711965471257_2325203621356866",
       "posted_at": "2026-10-10T17:47:40.990709+00:00"
+    },
+    "scraped-2fa4018cfc": {
+      "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
+      "slug": "ongoing-lawsuits-allege-glp-1s-can-cause-serious-harm-but-we-dont-know-how-often",
+      "url": "https://ushotnews.online/article/ongoing-lawsuits-allege-glp-1s-can-cause-serious-harm-but-we-dont-know-how-often",
+      "article_url": "https://ushotnews.online/article/ongoing-lawsuits-allege-glp-1s-can-cause-serious-harm-but-we-dont-know-how-often",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122735749471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122735749471257",
+      "fb_comment_id": "122122735749471257_2578478379231803",
+      "posted_at": "2026-10-10T18:46:56.055520+00:00"
+    },
+    "ongoing-lawsuits-allege-glp-1s-can-cause-serious-harm-but-we-dont-know-how-often": {
+      "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
+      "slug": "ongoing-lawsuits-allege-glp-1s-can-cause-serious-harm-but-we-dont-know-how-often",
+      "url": "https://ushotnews.online/article/ongoing-lawsuits-allege-glp-1s-can-cause-serious-harm-but-we-dont-know-how-often",
+      "article_url": "https://ushotnews.online/article/ongoing-lawsuits-allege-glp-1s-can-cause-serious-harm-but-we-dont-know-how-often",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122735749471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122735749471257",
+      "fb_comment_id": "122122735749471257_2578478379231803",
+      "posted_at": "2026-10-10T18:46:56.055520+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T17:47:29.666389+00:00"
+  "last_cleaned_at": "2026-10-10T18:46:43.536858+00:00"
 }
