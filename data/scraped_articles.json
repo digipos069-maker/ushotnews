@@ -1,5 +1,597 @@
 [
   {
+    "id": "scraped-291712698f",
+    "slug": "anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "guid": "https://www.theverge.com/?p=1009286",
+    "title": "Anthropic is cutting off its internal evaluations from the internet",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+    "content": [
+      "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic is cutting off its internal evaluations from the i... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T14:41:16+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f19f979d84",
+    "slug": "k-pop-star-sunmi-loves-notion-and-ear-cleaning-videos",
+    "guid": "https://www.theverge.com/?p=1008654",
+    "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October [&#8230;]",
+    "content": [
+      "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hit the Billboard Hot 100 in October [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "K-pop star Sunmi loves Notion and ear cleaning videos... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T15:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-eca8ae42c8",
+    "slug": "ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+    "guid": "https://www.theverge.com/?p=1009294",
+    "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained [&#8230;]",
+    "content": [
+      "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that \"one of the impacted users' devices contained [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Ledger wallet tampering suspected after reports of crypto th... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T16:36:44+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0450da0f09",
+    "slug": "at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+    "guid": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+    "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. There are numerous reports of downed trees, with hundreds of thousands of people without power.",
+    "content": [
+      "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. There are numerous reports of downed trees, with hundreds of thousands of people without power.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "At least 2 deaths attributed to Isaias after hurricane bashe... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T17:14:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a7f1f1faa0",
+    "slug": "the-kennedy-center-names-new-artistic-director-amid-concerns",
+    "guid": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
+    "title": "The Kennedy Center names new artistic director, amid concerns",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
+    "content": [
+      "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Kennedy Center names new artistic director, amid concern... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T18:17:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-18e6d3590c",
+    "slug": "israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest",
+    "guid": "https://www.foxnews.com/world/israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest",
+    "title": "Israeli combat medicine slashes IDF deaths after Oct 7, draws US military interest",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "IDF battlefield medicine cut combat mortality rates from 15% to 7.1%, with advances in casualty evacuation and trauma care now benefiting the U.S. Army.",
+    "content": [
+      "IDF battlefield medicine cut combat mortality rates from 15% to 7.1%, with advances in casualty evacuation and trauma care now benefiting the U.S. Army.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/idf-battlefield-medicine-02.gif",
+    "imageCaption": "Israeli combat medicine slashes IDF deaths after Oct 7, draw... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T17:00:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-618ca4c1af",
+    "slug": "eagles-release-pro-bowl-quarterback-andy-dalton-after-just-one-disastrous-pass-in-loss",
+    "guid": "https://www.foxnews.com/outkick-sports/eagles-release-pro-bowl-quarterback-andy-dalton-one-disastrous-pass-loss",
+    "title": "Eagles release Pro Bowl quarterback Andy Dalton after just one disastrous pass in loss",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Andy Dalton threw just one pass for the Philadelphia Eagles before his release, with Tanner McKee now taking over as the backup quarterback.",
+    "content": [
+      "Andy Dalton threw just one pass for the Philadelphia Eagles before his release, with Tanner McKee now taking over as the backup quarterback.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/andy-dalton-philadelphia-eagles-quarterback_001.jpg?ve=1&tl=1",
+    "imageCaption": "Eagles release Pro Bowl quarterback Andy Dalton after just o... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T17:22:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c83aed7a47",
+    "slug": "angel-reeses-manifesting-one-year-ago-actually-worked-shes-heading-to-the-wnba-finals",
+    "guid": "https://www.foxnews.com/outkick-sports/angel-reese-manifesting-one-year-ago-worked-heading-wnba-finals",
+    "title": "Angel Reese's 'manifesting' one year ago actually worked – she's heading to the WNBA Finals",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Angel Reese tweeted her WNBA Finals manifestation exactly one year before the Atlanta Dream swept the New York Liberty to reach the championship.",
+    "content": [
+      "Angel Reese tweeted her WNBA Finals manifestation exactly one year before the Atlanta Dream swept the New York Liberty to reach the championship.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/angel-reese-atlanta-dream-celebrates.jpg?ve=1&tl=1",
+    "imageCaption": "Angel Reese's 'manifesting' one year ago actually worked – s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T17:33:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a8555ac80a",
+    "slug": "fans-rip-bengals-jordan-battle-for-giving-free-scouting-report-on-malik-willis-before-dolp",
+    "guid": "https://www.foxnews.com/outkick-sports/fans-rip-bengals-jordan-battle-giving-free-scouting-report-malik-willis-dolphins-matchup",
+    "title": "Fans rip Bengals' Jordan Battle for giving free scouting report on Malik Willis before Dolphins matchup",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Cincinnati Bengals star Jordan Battle revealed the exact tell he spotted in Malik Willis&apos; throwing motion, and the Miami Dolphins welcomed the free scouting report.",
+    "content": [
+      "Cincinnati Bengals star Jordan Battle revealed the exact tell he spotted in Malik Willis&apos; throwing motion, and the Miami Dolphins welcomed the free scouting report.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jordan-battle-cincinnati-bengals-pittsburgh.jpg?ve=1&tl=1",
+    "imageCaption": "Fans rip Bengals' Jordan Battle for giving free scouting rep... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T18:01:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a471c1f1d5",
+    "slug": "rangers-star-goalie-igor-shesterkin-out-for-the-season-after-scary-lower-body-injury-in-lo",
+    "guid": "https://www.foxnews.com/outkick-sports/rangers-star-goalie-igor-shesterkin-out-season-scary-lower-body-injury-loss-vs-capitals",
+    "title": "Rangers star goalie Igor Shesterkin out for the season after scary lower-body injury in loss vs Capitals",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Igor Shesterkin&apos;s skate jammed into the post during Friday&apos;s loss to the Washington Capitals, and video shows the gruesome moment that ended his season.",
+    "content": [
+      "Igor Shesterkin&apos;s skate jammed into the post during Friday&apos;s loss to the Washington Capitals, and video shows the gruesome moment that ended his season.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/igor-shesterkin-rangers-mammoth-madison-square-garden.jpg?ve=1&tl=1",
+    "imageCaption": "Rangers star goalie Igor Shesterkin out for the season after... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T18:24:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-abb64788a1",
+    "slug": "judicial-watchs-thomas-fitton-slams-fbis-drip-drip-release-for-75000-pages-of-trump-butler",
+    "guid": "https://www.foxnews.com/politics/judicial-watch-thomas-fitton-slams-fbi-drip-drip-release-75000-pages-trump-butler-shooting-files",
+    "title": "Judicial Watch's Thomas Fitton slams FBI's 'drip-drip' release for 75,000 pages of Trump-Butler shooting files",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Judicial Watch&apos;s Thomas Fitton says the FBI&apos;s 12-year timeline for releasing Thomas Matthew Crooks assassination attempt documents is unacceptable.",
+    "content": [
+      "Judicial Watch&apos;s Thomas Fitton says the FBI&apos;s 12-year timeline for releasing Thomas Matthew Crooks assassination attempt documents is unacceptable.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/trump-assassination-attempt-1.jpg?ve=1&tl=1",
+    "imageCaption": "Judicial Watch's Thomas Fitton slams FBI's 'drip-drip' relea... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T18:24:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-67920020dd",
+    "slug": "president-trump-blasts-nobel-peace-prize-snub-with-blistering-list-of-accomplishments-wow",
+    "guid": "https://www.foxnews.com/politics/president-trump-blasts-nobel-peace-prize-snub-blistering-list-accomplishments-wow",
+    "title": "President Trump blasts Nobel Peace Prize snub with blistering list of accomplishments: 'WOW!'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trump sounded off on Truth Social after the Norwegian Nobel Committee passed him over for the 2026 Nobel Peace Prize in favor of Navi Pillay.",
+    "content": [
+      "Trump sounded off on Truth Social after the Norwegian Nobel Committee passed him over for the 2026 Nobel Peace Prize in favor of Navi Pillay.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/donald-trump-3.jpg?ve=1&tl=1",
+    "imageCaption": "President Trump blasts Nobel Peace Prize snub with blisterin... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T18:28:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7c71d196d9",
+    "slug": "bill-maher-mocks-mamdani-for-pivoting-to-israel-criticism-in-oct-7-tribute-calls-it-tone-d",
+    "guid": "https://www.foxnews.com/media/bill-maher-mocks-mamdani-pivoting-israel-criticism-oct-7-tribute-calls-tone-deaf",
+    "title": "Bill Maher mocks Mamdani for pivoting to Israel criticism in Oct. 7 tribute, calls it 'tone deaf'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bill Maher blasted Zohran Mamdani&apos;s Oct. 7 anniversary statement on Real Time, mocking the New York City mayor&apos;s pivot to criticizing Israel.",
+    "content": [
+      "Bill Maher blasted Zohran Mamdani&apos;s Oct. 7 anniversary statement on Real Time, mocking the New York City mayor&apos;s pivot to criticizing Israel.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/bill-maher-vanity-fair-oscar-party.jpg?ve=1&tl=1",
+    "imageCaption": "Bill Maher mocks Mamdani for pivoting to Israel criticism in... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T18:33:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4b2a03465f",
+    "slug": "stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market",
+    "guid": "108381920",
+    "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Looking to balance out our AI exposure, we put more of our sizable cash pile to work.",
+    "content": [
+      "Looking to balance out our AI exposure, we put more of our sizable cash pile to work.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Stocks saw new highs and big declines: How the volatile AI t... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T15:30:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2149cd2278",
+    "slug": "jpmorgan-makes-bullish-call-in-fixed-income-space-suggests-its-a-once-in-a-generation-oppo",
+    "guid": "108382205",
+    "title": "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+    "content": [
+      "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "JPMorgan makes bullish call in fixed income space, suggests ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T15:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b3a9827dfa",
+    "slug": "vance-says-microsoft-replaced-laid-off-workers-with-foreign-hires-heres-what-the-visa-data",
+    "guid": "108383142",
+    "title": "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+    "content": [
+      "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Vance says Microsoft replaced laid-off workers with foreign ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T14:22:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-03f1ab07ee",
     "slug": "david-plouffe-warns-dems-dont-take-north-carolina-for-granted",
     "guid": "000001a1-231e-d787-a9a1-bbdf80800001",
