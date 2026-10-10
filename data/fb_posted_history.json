@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T12:59:08.651560+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-10T14:16:00.930842+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-5b1b3ebed2": {
       "title": "Who will win the 2026 Nobel Prize in economics?",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122621989471257",
       "fb_comment_id": "122122621989471257_2598136937293234",
       "posted_at": "2026-10-10T12:59:08.651502+00:00"
+    },
+    "scraped-26e89975db": {
+      "title": "My brief romance with an AI bird feeder",
+      "slug": "my-brief-romance-with-an-ai-bird-feeder",
+      "url": "https://ushotnews.online/article/my-brief-romance-with-an-ai-bird-feeder",
+      "article_url": "https://ushotnews.online/article/my-brief-romance-with-an-ai-bird-feeder",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122648449471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122648449471257",
+      "fb_comment_id": "122122648449471257_1453218893349139",
+      "posted_at": "2026-10-10T14:16:00.930772+00:00"
+    },
+    "my-brief-romance-with-an-ai-bird-feeder": {
+      "title": "My brief romance with an AI bird feeder",
+      "slug": "my-brief-romance-with-an-ai-bird-feeder",
+      "url": "https://ushotnews.online/article/my-brief-romance-with-an-ai-bird-feeder",
+      "article_url": "https://ushotnews.online/article/my-brief-romance-with-an-ai-bird-feeder",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122648449471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122648449471257",
+      "fb_comment_id": "122122648449471257_1453218893349139",
+      "posted_at": "2026-10-10T14:16:00.930772+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T12:58:55.547530+00:00"
+  "last_cleaned_at": "2026-10-10T14:15:46.853833+00:00"
 }
