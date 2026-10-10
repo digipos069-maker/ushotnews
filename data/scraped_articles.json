@@ -1,5 +1,486 @@
 [
   {
+    "id": "scraped-ece29a47cc",
+    "slug": "distrokid-has-been-quietly-taking-down-songs-in-response-to-umg-lawsuit",
+    "guid": "https://www.theverge.com/?p=1009309",
+    "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+    "content": [
+      "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "DistroKid has been quietly taking down songs in response to ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T18:52:07+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cd0010dc45",
+    "slug": "satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "guid": "https://www.theverge.com/?p=1009337",
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
+    "content": [
+      "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Satya Nadella says we should assume all AI models are ‘compr... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T22:10:17+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c14d5163de",
+    "slug": "trump-weighs-joining-the-fight-against-houthis-after-riyadh-airport-attack",
+    "guid": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+    "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+    "content": [
+      "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump weighs joining the fight against Houthis after Riyadh ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T21:32:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5bdf896537",
+    "slug": "bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-reenactment",
+    "guid": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+    "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
+    "content": [
+      "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T21:40:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fbeed67e31",
+    "slug": "indiana-survives-nebraska-in-comeback-win-extends-nations-longest-active-winning-streak",
+    "guid": "https://www.foxnews.com/outkick-sports/indiana-survives-nebraska-comeback-win-extends-nations-longest-active-winning-streak",
+    "title": "Indiana survives Nebraska in comeback win, extends nation's longest active winning streak",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Josh Hoover and Nick Marsh connected for two huge touchdowns as No. 7 Indiana rallied from an 11-point deficit to beat Nebraska at Memorial Stadium.",
+    "content": [
+      "Josh Hoover and Nick Marsh connected for two huge touchdowns as No. 7 Indiana rallied from an 11-point deficit to beat Nebraska at Memorial Stadium.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/josh-hoover-indiana-nebraska-football.jpg?ve=1&tl=1",
+    "imageCaption": "Indiana survives Nebraska in comeback win, extends nation's ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T20:07:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-232bb258d8",
+    "slug": "starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
+    "guid": "https://www.foxnews.com/food-drink/starbucks-hit-lawsuit-sugar-content-experts-reveal-chains-sugary-drinks",
+    "title": "Starbucks hit with lawsuit over sugar content as experts reveal chain's most sugary drinks",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A class-action lawsuit alleges Starbucks protein drinks labeled sugar-free contain between 13 and 21 grams of sugar per venti-sized serving.",
+    "content": [
+      "A class-action lawsuit alleges Starbucks protein drinks labeled sugar-free contain between 13 and 21 grams of sugar per venti-sized serving.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/rfk-sugary-cofffee-drinks-dunkin-starbucks-food-drink-4.jpg?ve=1&tl=1",
+    "imageCaption": "Starbucks hit with lawsuit over sugar content as experts rev... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T20:22:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-aac636164e",
+    "slug": "minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
+    "guid": "https://www.foxnews.com/outkick-sports/minnesota-vikings-bring-odell-beckham-jr-practice-squad-game-saints",
+    "title": "Minnesota Vikings bring Odell Beckham Jr. up from practice squad for game against Saints",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Odell Beckham Jr. gets elevated from the Minnesota Vikings practice squad with Justin Jefferson and Jordan Addison both listed as questionable.",
+    "content": [
+      "Odell Beckham Jr. gets elevated from the Minnesota Vikings practice squad with Justin Jefferson and Jordan Addison both listed as questionable.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/odell-beckham-elevated.png?ve=1&tl=1",
+    "imageCaption": "Minnesota Vikings bring Odell Beckham Jr. up from practice s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T20:26:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6b60f65db0",
+    "slug": "8-seriously-annoying-tasks-you-can-hand-off-to-an-ai-agent",
+    "guid": "https://www.foxnews.com/tech/8-annoying-tasks-hand-off-ai-agent",
+    "title": "8 seriously annoying tasks you can hand off to an AI agent",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "ChatGPT Work, Meta Muse and Gemini Spark can monitor flight prices, sort your email inbox and track important deadlines, but savvy users start small.",
+    "content": [
+      "ChatGPT Work, Meta Muse and Gemini Spark can monitor flight prices, sort your email inbox and track important deadlines, but savvy users start small.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/woman-using-smartphone-home.jpg?ve=1&tl=1",
+    "imageCaption": "8 seriously annoying tasks you can hand off to an AI agent... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T20:37:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1199298207",
+    "slug": "bill-belichick-earns-first-win-against-ranked-opponent-as-unc-upsets-no-25-pitt-on-road",
+    "guid": "https://www.foxnews.com/outkick/bill-belichick-earns-first-win-against-ranked-opponent-unc-upsets-no-25-pitt-road",
+    "title": "Bill Belichick earns first win against ranked opponent as UNC upsets No 25 Pitt on road",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bill Belichick&apos;s UNC squad rallied from a 10-0 deficit to earn the first ranked win of his career against No. 25 Pitt on Saturday afternoon.",
+    "content": [
+      "Bill Belichick&apos;s UNC squad rallied from a 10-0 deficit to earn the first ranked win of his career against No. 25 Pitt on Saturday afternoon.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bill-belichick-north-carolina-pittsburgh.jpg?ve=1&tl=1",
+    "imageCaption": "Bill Belichick earns first win against ranked opponent as UN... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T20:47:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-06c852cd33",
+    "slug": "veteran-walked-across-four-continents-and-just-swam-the-english-channel-to-return-home",
+    "guid": "https://www.foxnews.com/travel/veteran-walked-across-four-continents-swam-english-channel-return-home",
+    "title": "Veteran walked across four continents and just swam the English Channel to return home",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "British Army veteran Karl Bushby reached England after 28 years and 30,000 miles, but he still has 250 miles to walk to reunite with his mother in the port city of Hull.",
+    "content": [
+      "British Army veteran Karl Bushby reached England after 28 years and 30,000 miles, but he still has 250 miles to walk to reunite with his mother in the port city of Hull.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/karl-bushby-dover-england.jpg?ve=1&tl=1",
+    "imageCaption": "Veteran walked across four continents and just swam the Engl... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T21:32:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-207421ba1f",
+    "slug": "espn-college-gameday-no-religious-signs-rule-draws-backlash-during-alabama-vs-georgia-broa",
+    "guid": "https://www.foxnews.com/outkick-sports/espn-college-gameday-no-religious-signs-rule-draws-backlash-alabama-vs-georgia-broadcast",
+    "title": "ESPN College Gameday 'no religious signs' rule draws backlash during Alabama vs Georgia broadcast",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "ESPN&apos;s College Gameday banned religious signs inside The Pit at Alabama vs Georgia, sparking massive backlash from hundreds of thousands online.",
+    "content": [
+      "ESPN&apos;s College Gameday banned religious signs inside The Pit at Alabama vs Georgia, sparking massive backlash from hundreds of thousands online.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/fan-thumbs-down-college-gameday-penn-state.jpg?ve=1&tl=1",
+    "imageCaption": "ESPN College Gameday 'no religious signs' rule draws backlas... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T21:42:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fc0f3bf5ec",
+    "slug": "tulsas-david-wells-jr-tips-ball-to-himself-for-improbable-touchdown-in-wild-play-against-n",
+    "guid": "https://www.foxnews.com/outkick-sports/tulsas-david-wells-jr-tips-ball-himself-improbable-touchdown-wild-play-navy",
+    "title": "Tulsa's David Wells Jr. tips ball to himself for improbable touchdown in wild play against Navy",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tulsa&apos;s Oran Singleton Jr. escaped a tackle and heaved a prayer that led to one of the wildest college football touchdowns of the season against Navy.",
+    "content": [
+      "Tulsa&apos;s Oran Singleton Jr. escaped a tackle and heaved a prayer that led to one of the wildest college football touchdowns of the season against Navy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/david-wells-tulsa-navy-football.jpg?ve=1&tl=1",
+    "imageCaption": "Tulsa's David Wells Jr. tips ball to himself for improbable ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T21:48:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a7d9106b7f",
+    "slug": "microsofts-nadella-says-ai-needs-an-emergency-brake-that-humans-control",
+    "guid": "108391321",
+    "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+    "content": [
+      "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft's Nadella says AI needs an ‘emergency brake’ that ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-10T20:59:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-291712698f",
     "slug": "anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
     "guid": "https://www.theverge.com/?p=1009286",
