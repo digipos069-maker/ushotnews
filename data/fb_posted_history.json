@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-10T18:46:56.055579+00:00",
+  "last_updated": "2026-10-10T21:32:52.927186+00:00",
   "posted_count": 52,
   "articles": {
-    "scraped-8641513c2f": {
-      "title": "How Microsoft built its MacBook Pro competitor",
-      "slug": "how-microsoft-built-its-macbook-pro-competitor",
-      "url": "https://ushotnews.online/article/how-microsoft-built-its-macbook-pro-competitor",
-      "article_url": "https://ushotnews.online/article/how-microsoft-built-its-macbook-pro-competitor",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121375765471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121375765471257",
-      "fb_comment_id": "122121375765471257_1418490110455813",
-      "posted_at": "2026-10-07T20:33:20.971495+00:00"
-    },
-    "how-microsoft-built-its-macbook-pro-competitor": {
-      "title": "How Microsoft built its MacBook Pro competitor",
-      "slug": "how-microsoft-built-its-macbook-pro-competitor",
-      "url": "https://ushotnews.online/article/how-microsoft-built-its-macbook-pro-competitor",
-      "article_url": "https://ushotnews.online/article/how-microsoft-built-its-macbook-pro-competitor",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121375765471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121375765471257",
-      "fb_comment_id": "122121375765471257_1418490110455813",
-      "posted_at": "2026-10-07T20:33:20.971495+00:00"
-    },
     "scraped-e535cdf00a": {
       "title": "The top House sleeper races to watch, according to the pros",
       "slug": "the-top-house-sleeper-races-to-watch-according-to-the-pros",
@@ -573,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122735749471257",
       "fb_comment_id": "122122735749471257_2578478379231803",
       "posted_at": "2026-10-10T18:46:56.055520+00:00"
+    },
+    "scraped-03f1ab07ee": {
+      "title": "David Plouffe warns Dems: Don’t take North Carolina for granted",
+      "slug": "david-plouffe-warns-dems-dont-take-north-carolina-for-granted",
+      "url": "https://ushotnews.online/article/david-plouffe-warns-dems-dont-take-north-carolina-for-granted",
+      "article_url": "https://ushotnews.online/article/david-plouffe-warns-dems-dont-take-north-carolina-for-granted",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122782963471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122782963471257",
+      "fb_comment_id": "122122782963471257_2157320281555880",
+      "posted_at": "2026-10-10T21:32:52.927117+00:00"
+    },
+    "david-plouffe-warns-dems-dont-take-north-carolina-for-granted": {
+      "title": "David Plouffe warns Dems: Don’t take North Carolina for granted",
+      "slug": "david-plouffe-warns-dems-dont-take-north-carolina-for-granted",
+      "url": "https://ushotnews.online/article/david-plouffe-warns-dems-dont-take-north-carolina-for-granted",
+      "article_url": "https://ushotnews.online/article/david-plouffe-warns-dems-dont-take-north-carolina-for-granted",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122782963471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122782963471257",
+      "fb_comment_id": "122122782963471257_2157320281555880",
+      "posted_at": "2026-10-10T21:32:52.927117+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T18:46:43.536858+00:00"
+  "last_cleaned_at": "2026-10-10T21:32:42.264853+00:00"
 }
