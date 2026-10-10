@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-10T06:19:19.816812+00:00",
+  "last_updated": "2026-10-10T07:32:58.304132+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-bf3942bb96": {
-      "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
-      "slug": "tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
-      "url": "https://ushotnews.online/article/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
-      "article_url": "https://ushotnews.online/article/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121081735471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121081735471257",
-      "fb_comment_id": "122121081735471257_1436742431886605",
-      "posted_at": "2026-10-07T07:09:40.799942+00:00"
-    },
-    "tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house": {
-      "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
-      "slug": "tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
-      "url": "https://ushotnews.online/article/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
-      "article_url": "https://ushotnews.online/article/tesla8217s-model-3-and-model-y-can-be-a-backup-battery-for-your-house",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121081735471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121081735471257",
-      "fb_comment_id": "122121081735471257_1436742431886605",
-      "posted_at": "2026-10-07T07:09:40.799942+00:00"
-    },
     "scraped-bc19804c8e": {
       "title": "Jaguar’s first EV looks just like its divisive concept car",
       "slug": "jaguars-first-ev-looks-just-like-its-divisive-concept-car",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122494897471257",
       "fb_comment_id": "122122494897471257_1587799733098965",
       "posted_at": "2026-10-10T06:19:19.816753+00:00"
+    },
+    "scraped-1e79bb438c": {
+      "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
+      "slug": "james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
+      "url": "https://ushotnews.online/article/james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
+      "article_url": "https://ushotnews.online/article/james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122512447471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122512447471257",
+      "fb_comment_id": "122122512447471257_1421925662602415",
+      "posted_at": "2026-10-10T07:32:58.304079+00:00"
+    },
+    "james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back": {
+      "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
+      "slug": "james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
+      "url": "https://ushotnews.online/article/james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
+      "article_url": "https://ushotnews.online/article/james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122512447471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122512447471257",
+      "fb_comment_id": "122122512447471257_1421925662602415",
+      "posted_at": "2026-10-10T07:32:58.304079+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T06:19:05.076011+00:00"
+  "last_cleaned_at": "2026-10-10T07:32:46.140083+00:00"
 }
