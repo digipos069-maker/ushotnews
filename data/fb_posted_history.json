@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-10T14:16:00.930842+00:00",
+  "last_updated": "2026-10-10T17:47:40.990788+00:00",
   "posted_count": 52,
   "articles": {
-    "scraped-5b1b3ebed2": {
-      "title": "Who will win the 2026 Nobel Prize in economics?",
-      "slug": "who-will-win-the-2026-nobel-prize-in-economics",
-      "url": "https://ushotnews.online/article/who-will-win-the-2026-nobel-prize-in-economics",
-      "article_url": "https://ushotnews.online/article/who-will-win-the-2026-nobel-prize-in-economics",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121263607471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121263607471257",
-      "fb_comment_id": "122121263607471257_2676290216142185",
-      "posted_at": "2026-10-07T14:42:58.738398+00:00"
-    },
-    "who-will-win-the-2026-nobel-prize-in-economics": {
-      "title": "Who will win the 2026 Nobel Prize in economics?",
-      "slug": "who-will-win-the-2026-nobel-prize-in-economics",
-      "url": "https://ushotnews.online/article/who-will-win-the-2026-nobel-prize-in-economics",
-      "article_url": "https://ushotnews.online/article/who-will-win-the-2026-nobel-prize-in-economics",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121263607471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121263607471257",
-      "fb_comment_id": "122121263607471257_2676290216142185",
-      "posted_at": "2026-10-07T14:42:58.738398+00:00"
-    },
     "scraped-2306fd8bc1": {
       "title": "Israel amb torches Mamdani Oct 7 post: 'Like turning September 11 into a day of mourning for al-Qaeda'",
       "slug": "israel-amb-torches-mamdani-oct-7-post-like-turning-september-11-into-a-day-of-mourning-for",
@@ -573,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122648449471257",
       "fb_comment_id": "122122648449471257_1453218893349139",
       "posted_at": "2026-10-10T14:16:00.930772+00:00"
+    },
+    "scraped-d0484ac928": {
+      "title": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens",
+      "slug": "an-nyc-curse-rangers-top-goalie-dragged-off-ice-as-new-york-sports-nightmare-deepens",
+      "url": "https://ushotnews.online/article/an-nyc-curse-rangers-top-goalie-dragged-off-ice-as-new-york-sports-nightmare-deepens",
+      "article_url": "https://ushotnews.online/article/an-nyc-curse-rangers-top-goalie-dragged-off-ice-as-new-york-sports-nightmare-deepens",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122711965471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122711965471257",
+      "fb_comment_id": "122122711965471257_2325203621356866",
+      "posted_at": "2026-10-10T17:47:40.990709+00:00"
+    },
+    "an-nyc-curse-rangers-top-goalie-dragged-off-ice-as-new-york-sports-nightmare-deepens": {
+      "title": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens",
+      "slug": "an-nyc-curse-rangers-top-goalie-dragged-off-ice-as-new-york-sports-nightmare-deepens",
+      "url": "https://ushotnews.online/article/an-nyc-curse-rangers-top-goalie-dragged-off-ice-as-new-york-sports-nightmare-deepens",
+      "article_url": "https://ushotnews.online/article/an-nyc-curse-rangers-top-goalie-dragged-off-ice-as-new-york-sports-nightmare-deepens",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122711965471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122711965471257",
+      "fb_comment_id": "122122711965471257_2325203621356866",
+      "posted_at": "2026-10-10T17:47:40.990709+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T14:15:46.853833+00:00"
+  "last_cleaned_at": "2026-10-10T17:47:29.666389+00:00"
 }
