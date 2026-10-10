@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-10T05:22:48.956009+00:00",
+  "last_updated": "2026-10-10T12:15:28.349435+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1025627": {
-      "title": "SMSgt Fountain — Green Bay Packers Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112040370/DOD_112040370.mp4",
-      "attached_website_url": "https://ushotnews.online/article/openai-drops-another-batch-of-mathematical-breakthroughs",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2690367674750393",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2690367674750393",
-      "fb_comment_id": "2690367674750393_1135148439068218",
-      "posted_at": "2026-10-07T05:24:31.298918+00:00"
-    },
     "dvids-video:1025664": {
       "title": "Camp Fuji Friendship Festival 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112041398/DOD_112041398.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1629281925368504",
       "fb_comment_id": "1629281925368504_1298959072298603",
       "posted_at": "2026-10-10T05:22:48.955945+00:00"
+    },
+    "dvids-video:1026031": {
+      "title": "USNMRTC Guantanamo Bay Builds Lifesaving Readiness for Security Forces",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112048496/DOD_112048496.mp4",
+      "attached_website_url": "https://ushotnews.online/article/my-brief-romance-with-an-ai-bird-feeder",
+      "trending_score": 75.0,
+      "format": "video",
+      "fb_video_id": "1455217909808900",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1455217909808900",
+      "fb_comment_id": "1455217909808900_2525646817941576",
+      "posted_at": "2026-10-10T12:15:28.349361+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T05:21:50.258907+00:00"
+  "last_cleaned_at": "2026-10-10T12:14:26.899654+00:00"
 }
