@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-11T14:41:12.417892+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-11T18:47:24.329938+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-9238c371da": {
-      "title": "Former corrections officer accused of killing wife, forcing kids to help",
-      "slug": "former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
-      "url": "https://ushotnews.online/article/former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
-      "article_url": "https://ushotnews.online/article/former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121728061471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121728061471257",
-      "fb_comment_id": "122121728061471257_1715963486550840",
-      "posted_at": "2026-10-08T14:52:03.906769+00:00"
-    },
-    "former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help": {
-      "title": "Former corrections officer accused of killing wife, forcing kids to help",
-      "slug": "former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
-      "url": "https://ushotnews.online/article/former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
-      "article_url": "https://ushotnews.online/article/former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121728061471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121728061471257",
-      "fb_comment_id": "122121728061471257_1715963486550840",
-      "posted_at": "2026-10-08T14:52:03.906769+00:00"
-    },
-    "scraped-3bfad9da61": {
-      "title": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
-      "slug": "flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
-      "url": "https://ushotnews.online/article/flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
-      "article_url": "https://ushotnews.online/article/flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121781107471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121781107471257",
-      "fb_comment_id": "122121781107471257_1791843178717899",
-      "posted_at": "2026-10-08T17:30:33.719522+00:00"
-    },
-    "flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome": {
-      "title": "Flock is catching flak. Experts say other police surveillance tools are more worrisome",
-      "slug": "flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
-      "url": "https://ushotnews.online/article/flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
-      "article_url": "https://ushotnews.online/article/flock-is-catching-flak-experts-say-other-police-surveillance-tools-are-more-worrisome",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121781107471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121781107471257",
-      "fb_comment_id": "122121781107471257_1791843178717899",
-      "posted_at": "2026-10-08T17:30:33.719522+00:00"
-    },
     "scraped-caa936e25a": {
       "title": "Google’s AI note-taking app transcribes your meetings completely offline",
       "slug": "googles-ai-note-taking-app-transcribes-your-meetings-completely-offline",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123148021471257",
       "fb_comment_id": "122123148021471257_981140407619853",
       "posted_at": "2026-10-11T14:41:12.417828+00:00"
+    },
+    "scraped-3476d99f01": {
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "slug": "what-to-expect-from-apples-welcome-home-event",
+      "url": "https://ushotnews.online/article/what-to-expect-from-apples-welcome-home-event",
+      "article_url": "https://ushotnews.online/article/what-to-expect-from-apples-welcome-home-event",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123234247471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123234247471257",
+      "fb_comment_id": "122123234247471257_2356181598548535",
+      "posted_at": "2026-10-11T18:47:24.329873+00:00"
+    },
+    "what-to-expect-from-apples-welcome-home-event": {
+      "title": "What to expect from Apple’s ‘Welcome Home’ event",
+      "slug": "what-to-expect-from-apples-welcome-home-event",
+      "url": "https://ushotnews.online/article/what-to-expect-from-apples-welcome-home-event",
+      "article_url": "https://ushotnews.online/article/what-to-expect-from-apples-welcome-home-event",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123234247471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123234247471257",
+      "fb_comment_id": "122123234247471257_2356181598548535",
+      "posted_at": "2026-10-11T18:47:24.329873+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T14:41:00.738712+00:00"
+  "last_cleaned_at": "2026-10-11T18:47:11.781104+00:00"
 }
