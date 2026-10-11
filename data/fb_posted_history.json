@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-11T07:02:16.634650+00:00",
+  "last_updated": "2026-10-11T07:37:53.794459+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-4f1c7e5872": {
-      "title": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
-      "slug": "ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
-      "url": "https://ushotnews.online/article/ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
-      "article_url": "https://ushotnews.online/article/ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121558879471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121558879471257",
-      "fb_comment_id": "122121558879471257_1730677671378879",
-      "posted_at": "2026-10-08T07:15:26.946813+00:00"
-    },
-    "ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from": {
-      "title": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
-      "slug": "ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
-      "url": "https://ushotnews.online/article/ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
-      "article_url": "https://ushotnews.online/article/ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121558879471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121558879471257",
-      "fb_comment_id": "122121558879471257_1730677671378879",
-      "posted_at": "2026-10-08T07:15:26.946813+00:00"
-    },
     "scraped-b83d4c838f": {
       "title": "It appears .agent and .agi are about to be the hot new domains",
       "slug": "it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122968423471257",
       "fb_comment_id": "122122968423471257_4394777757502286",
       "posted_at": "2026-10-11T07:02:16.634566+00:00"
+    },
+    "scraped-232bb258d8": {
+      "title": "Starbucks hit with lawsuit over sugar content as experts reveal chain's most sugary drinks",
+      "slug": "starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
+      "url": "https://ushotnews.online/article/starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
+      "article_url": "https://ushotnews.online/article/starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122979175471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122979175471257",
+      "fb_comment_id": "122122979175471257_905224559194019",
+      "posted_at": "2026-10-11T07:37:53.794398+00:00"
+    },
+    "starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks": {
+      "title": "Starbucks hit with lawsuit over sugar content as experts reveal chain's most sugary drinks",
+      "slug": "starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
+      "url": "https://ushotnews.online/article/starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
+      "article_url": "https://ushotnews.online/article/starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122979175471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122979175471257",
+      "fb_comment_id": "122122979175471257_905224559194019",
+      "posted_at": "2026-10-11T07:37:53.794398+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T07:02:04.218548+00:00"
+  "last_cleaned_at": "2026-10-11T07:37:39.072094+00:00"
 }
