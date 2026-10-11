@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-11T18:45:18.440665+00:00",
+  "last_updated": "2026-10-11T23:33:52.889533+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1025945": {
-      "title": "U.S. Marines and sailors arrive in San Francisco for San Francisco Fleet Week 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112046078/DOD_112046078.mp4",
-      "attached_website_url": "https://ushotnews.online/article/paramount-is-making-a-cyberpunk-2077-film",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1104899885234756",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1104899885234756",
-      "fb_comment_id": "1104899885234756_1788816848788752",
-      "posted_at": "2026-10-08T23:11:38.794407+00:00"
-    },
     "dvids-video:1025971": {
       "title": "RAI Captain's call Cyber Awareness",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112046743/DOD_112046743.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2579495682566509",
       "fb_comment_id": "2579495682566509_1643181184180662",
       "posted_at": "2026-10-11T18:45:18.440608+00:00"
+    },
+    "dvids-video:1026114": {
+      "title": "U.S. Southern Command and Panamanian security institutions deliver earthquake relief supplies",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112051224/DOD_112051224.mp4",
+      "attached_website_url": "https://ushotnews.online/article/george-a-romeros-season-of-the-witch-is-a-slow-burn-feminist-occult-drama",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "4598752867067193",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4598752867067193",
+      "fb_comment_id": "4598752867067193_2237983687048626",
+      "posted_at": "2026-10-11T23:33:52.889469+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T18:43:54.209748+00:00"
+  "last_cleaned_at": "2026-10-11T23:32:30.560083+00:00"
 }
