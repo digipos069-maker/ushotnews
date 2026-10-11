@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-10T22:14:30.957523+00:00",
+  "last_updated": "2026-10-11T00:50:43.127644+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-e535cdf00a": {
-      "title": "The top House sleeper races to watch, according to the pros",
-      "slug": "the-top-house-sleeper-races-to-watch-according-to-the-pros",
-      "url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
-      "article_url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121417093471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121417093471257",
-      "fb_comment_id": "122121417093471257_2280818519419125",
-      "posted_at": "2026-10-07T23:16:37.891566+00:00"
-    },
-    "the-top-house-sleeper-races-to-watch-according-to-the-pros": {
-      "title": "The top House sleeper races to watch, according to the pros",
-      "slug": "the-top-house-sleeper-races-to-watch-according-to-the-pros",
-      "url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
-      "article_url": "https://ushotnews.online/article/the-top-house-sleeper-races-to-watch-according-to-the-pros",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121417093471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121417093471257",
-      "fb_comment_id": "122121417093471257_2280818519419125",
-      "posted_at": "2026-10-07T23:16:37.891566+00:00"
-    },
     "scraped-d9807732d4": {
       "title": "Dana Altman ends nearly four decade coaching career at Oregon: 'Stepping away is truly painful'",
       "slug": "dana-altman-ends-nearly-four-decade-coaching-career-at-oregon-stepping-away-is-truly-painf",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122792581471257",
       "fb_comment_id": "122122792581471257_1095249100156769",
       "posted_at": "2026-10-10T22:14:30.957455+00:00"
+    },
+    "scraped-0450da0f09": {
+      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+      "slug": "at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+      "url": "https://ushotnews.online/article/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+      "article_url": "https://ushotnews.online/article/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122845285471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122845285471257",
+      "fb_comment_id": "122122845285471257_1109797988411230",
+      "posted_at": "2026-10-11T00:50:43.127551+00:00"
+    },
+    "at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama": {
+      "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+      "slug": "at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+      "url": "https://ushotnews.online/article/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+      "article_url": "https://ushotnews.online/article/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122845285471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122845285471257",
+      "fb_comment_id": "122122845285471257_1109797988411230",
+      "posted_at": "2026-10-11T00:50:43.127551+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T22:14:21.921141+00:00"
+  "last_cleaned_at": "2026-10-11T00:50:29.250237+00:00"
 }
