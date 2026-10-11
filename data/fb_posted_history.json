@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-11T07:37:53.794459+00:00",
+  "last_updated": "2026-10-11T13:58:21.299301+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-b83d4c838f": {
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "slug": "it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
-      "url": "https://ushotnews.online/article/it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
-      "article_url": "https://ushotnews.online/article/it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121611787471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121611787471257",
-      "fb_comment_id": "122121611787471257_1434733635275585",
-      "posted_at": "2026-10-08T10:04:19.360104+00:00"
-    },
-    "it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains": {
-      "title": "It appears .agent and .agi are about to be the hot new domains",
-      "slug": "it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
-      "url": "https://ushotnews.online/article/it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
-      "article_url": "https://ushotnews.online/article/it-appears-agent-and-agi-are-about-to-be-the-hot-new-domains",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121611787471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121611787471257",
-      "fb_comment_id": "122121611787471257_1434733635275585",
-      "posted_at": "2026-10-08T10:04:19.360104+00:00"
-    },
     "scraped-9238c371da": {
       "title": "Former corrections officer accused of killing wife, forcing kids to help",
       "slug": "former-corrections-officer-accused-of-killing-wife-forcing-kids-to-help",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122979175471257",
       "fb_comment_id": "122122979175471257_905224559194019",
       "posted_at": "2026-10-11T07:37:53.794398+00:00"
+    },
+    "scraped-965d3b0e50": {
+      "title": "UCLA Bruins upset Oregon Ducks to stay unbeaten and change the Big Ten championship picture",
+      "slug": "ucla-bruins-upset-oregon-ducks-to-stay-unbeaten-and-change-the-big-ten-championship-pictur",
+      "url": "https://ushotnews.online/article/ucla-bruins-upset-oregon-ducks-to-stay-unbeaten-and-change-the-big-ten-championship-pictur",
+      "article_url": "https://ushotnews.online/article/ucla-bruins-upset-oregon-ducks-to-stay-unbeaten-and-change-the-big-ten-championship-pictur",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123131533471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123131533471257",
+      "fb_comment_id": "122123131533471257_1592865578482025",
+      "posted_at": "2026-10-11T13:58:21.299242+00:00"
+    },
+    "ucla-bruins-upset-oregon-ducks-to-stay-unbeaten-and-change-the-big-ten-championship-pictur": {
+      "title": "UCLA Bruins upset Oregon Ducks to stay unbeaten and change the Big Ten championship picture",
+      "slug": "ucla-bruins-upset-oregon-ducks-to-stay-unbeaten-and-change-the-big-ten-championship-pictur",
+      "url": "https://ushotnews.online/article/ucla-bruins-upset-oregon-ducks-to-stay-unbeaten-and-change-the-big-ten-championship-pictur",
+      "article_url": "https://ushotnews.online/article/ucla-bruins-upset-oregon-ducks-to-stay-unbeaten-and-change-the-big-ten-championship-pictur",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123131533471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123131533471257",
+      "fb_comment_id": "122123131533471257_1592865578482025",
+      "posted_at": "2026-10-11T13:58:21.299242+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T07:37:39.072094+00:00"
+  "last_cleaned_at": "2026-10-11T13:58:08.019175+00:00"
 }
