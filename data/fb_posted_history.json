@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T22:47:31.132679+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-11T23:04:04.115000+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-f2e6b85657": {
       "title": "Kenneth Walker III welcomes potential Tyreek Hill reunion with Chiefs: 'He's a baller'",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123305719471257",
       "fb_comment_id": "122123305719471257_1854046162421914",
       "posted_at": "2026-10-11T22:47:31.132609+00:00"
+    },
+    "scraped-d50d4dd64c": {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "slug": "learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "url": "https://ushotnews.online/article/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "article_url": "https://ushotnews.online/article/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123327733471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123327733471257",
+      "fb_comment_id": "122123327733471257_1813087133054119",
+      "posted_at": "2026-10-11T23:04:04.114882+00:00"
+    },
+    "learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating": {
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "slug": "learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "url": "https://ushotnews.online/article/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "article_url": "https://ushotnews.online/article/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123327733471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123327733471257",
+      "fb_comment_id": "122123327733471257_1813087133054119",
+      "posted_at": "2026-10-11T23:04:04.114882+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T22:47:14.434972+00:00"
+  "last_cleaned_at": "2026-10-11T23:03:51.107599+00:00"
 }
