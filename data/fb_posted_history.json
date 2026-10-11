@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-11T01:08:46.132511+00:00",
+  "last_updated": "2026-10-11T07:02:16.634650+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-3585ca0c65": {
-      "title": "MIKE EMANUEL: I joined an unknown startup called Fox News; it gave me a front-row seat to history",
-      "slug": "mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
-      "url": "https://ushotnews.online/article/mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
-      "article_url": "https://ushotnews.online/article/mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121479859471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121479859471257",
-      "fb_comment_id": "122121479859471257_963835880111077",
-      "posted_at": "2026-10-08T02:50:18.485687+00:00"
-    },
-    "mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi": {
-      "title": "MIKE EMANUEL: I joined an unknown startup called Fox News; it gave me a front-row seat to history",
-      "slug": "mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
-      "url": "https://ushotnews.online/article/mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
-      "article_url": "https://ushotnews.online/article/mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121479859471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121479859471257",
-      "fb_comment_id": "122121479859471257_963835880111077",
-      "posted_at": "2026-10-08T02:50:18.485687+00:00"
-    },
     "scraped-4f1c7e5872": {
       "title": "Ken Paxton calls out James Talarico's 11-day absence at Trump rally, prompting response from campaign",
       "slug": "ken-paxton-calls-out-james-talaricos-11-day-absence-at-trump-rally-prompting-response-from",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122850619471257",
       "fb_comment_id": "122122850619471257_1657889732402142",
       "posted_at": "2026-10-11T01:08:46.132446+00:00"
+    },
+    "scraped-4fbf52619e": {
+      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "slug": "attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "url": "https://ushotnews.online/article/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "article_url": "https://ushotnews.online/article/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122968423471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122968423471257",
+      "fb_comment_id": "122122968423471257_4394777757502286",
+      "posted_at": "2026-10-11T07:02:16.634566+00:00"
+    },
+    "attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say": {
+      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "slug": "attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "url": "https://ushotnews.online/article/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "article_url": "https://ushotnews.online/article/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122968423471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122968423471257",
+      "fb_comment_id": "122122968423471257_4394777757502286",
+      "posted_at": "2026-10-11T07:02:16.634566+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T01:08:30.767596+00:00"
+  "last_cleaned_at": "2026-10-11T07:02:04.218548+00:00"
 }
