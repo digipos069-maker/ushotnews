@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-11T12:30:50.969304+00:00",
+  "last_updated": "2026-10-11T18:45:18.440665+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1025911": {
-      "title": "Get hooked on fishing at Otter Creek",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112045336/DOD_112045336.mp4",
-      "attached_website_url": "https://ushotnews.online/article/justice-democrats-announce-new-executive-director",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2236401146905799",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2236401146905799",
-      "fb_comment_id": "2236401146905799_2368510160645642",
-      "posted_at": "2026-10-08T17:20:06.753472+00:00"
-    },
     "dvids-video:1025945": {
       "title": "U.S. Marines and sailors arrive in San Francisco for San Francisco Fleet Week 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112046078/DOD_112046078.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1871120343872158",
       "fb_comment_id": "1871120343872158_1612689086902837",
       "posted_at": "2026-10-11T12:30:50.969211+00:00"
+    },
+    "dvids-video:1026115": {
+      "title": "U.S. Southern Command and Panamanian security institutions deliver earthquake relief supplies",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112051234/DOD_112051234.mp4",
+      "attached_website_url": "https://ushotnews.online/article/learning-to-use-local-ai-is-exciting-overwhelming-and-frustrating",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2579495682566509",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2579495682566509",
+      "fb_comment_id": "2579495682566509_1643181184180662",
+      "posted_at": "2026-10-11T18:45:18.440608+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T12:29:20.179913+00:00"
+  "last_cleaned_at": "2026-10-11T18:43:54.209748+00:00"
 }
