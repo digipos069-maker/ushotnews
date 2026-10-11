@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-11T00:50:43.127644+00:00",
+  "last_updated": "2026-10-11T01:08:46.132511+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-d9807732d4": {
-      "title": "Dana Altman ends nearly four decade coaching career at Oregon: 'Stepping away is truly painful'",
-      "slug": "dana-altman-ends-nearly-four-decade-coaching-career-at-oregon-stepping-away-is-truly-painf",
-      "url": "https://ushotnews.online/article/dana-altman-ends-nearly-four-decade-coaching-career-at-oregon-stepping-away-is-truly-painf",
-      "article_url": "https://ushotnews.online/article/dana-altman-ends-nearly-four-decade-coaching-career-at-oregon-stepping-away-is-truly-painf",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121444261471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121444261471257",
-      "fb_comment_id": "122121444261471257_2372774136884130",
-      "posted_at": "2026-10-08T00:55:34.377832+00:00"
-    },
-    "dana-altman-ends-nearly-four-decade-coaching-career-at-oregon-stepping-away-is-truly-painf": {
-      "title": "Dana Altman ends nearly four decade coaching career at Oregon: 'Stepping away is truly painful'",
-      "slug": "dana-altman-ends-nearly-four-decade-coaching-career-at-oregon-stepping-away-is-truly-painf",
-      "url": "https://ushotnews.online/article/dana-altman-ends-nearly-four-decade-coaching-career-at-oregon-stepping-away-is-truly-painf",
-      "article_url": "https://ushotnews.online/article/dana-altman-ends-nearly-four-decade-coaching-career-at-oregon-stepping-away-is-truly-painf",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121444261471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121444261471257",
-      "fb_comment_id": "122121444261471257_2372774136884130",
-      "posted_at": "2026-10-08T00:55:34.377832+00:00"
-    },
     "scraped-3585ca0c65": {
       "title": "MIKE EMANUEL: I joined an unknown startup called Fox News; it gave me a front-row seat to history",
       "slug": "mike-emanuel-i-joined-an-unknown-startup-called-fox-news-it-gave-me-a-front-row-seat-to-hi",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122845285471257",
       "fb_comment_id": "122122845285471257_1109797988411230",
       "posted_at": "2026-10-11T00:50:43.127551+00:00"
+    },
+    "scraped-aac636164e": {
+      "title": "Minnesota Vikings bring Odell Beckham Jr. up from practice squad for game against Saints",
+      "slug": "minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
+      "url": "https://ushotnews.online/article/minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
+      "article_url": "https://ushotnews.online/article/minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122850619471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122850619471257",
+      "fb_comment_id": "122122850619471257_1657889732402142",
+      "posted_at": "2026-10-11T01:08:46.132446+00:00"
+    },
+    "minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints": {
+      "title": "Minnesota Vikings bring Odell Beckham Jr. up from practice squad for game against Saints",
+      "slug": "minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
+      "url": "https://ushotnews.online/article/minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
+      "article_url": "https://ushotnews.online/article/minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122122850619471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122850619471257",
+      "fb_comment_id": "122122850619471257_1657889732402142",
+      "posted_at": "2026-10-11T01:08:46.132446+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T00:50:29.250237+00:00"
+  "last_cleaned_at": "2026-10-11T01:08:30.767596+00:00"
 }
