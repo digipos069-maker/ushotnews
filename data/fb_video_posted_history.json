@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-10T23:24:08.519334+00:00",
+  "last_updated": "2026-10-11T05:12:51.039185+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1025730": {
-      "title": "45th Sustainment Brigade Patching Ceremony (LSV-3)",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112042886/DOD_112042886.mp4",
-      "attached_website_url": "https://ushotnews.online/article/blakemans-campaign-finance-mess",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1753470829276617",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1753470829276617",
-      "fb_comment_id": "1753470829276617_1625311995643806",
-      "posted_at": "2026-10-08T00:06:33.513195+00:00"
-    },
     "dvids-video:1025821": {
       "title": "U.S. Navy Region Singapore Holds Chief Pinning Ceremony, Sept. 16, 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112044175/DOD_112044175.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1849571182696820",
       "fb_comment_id": "1849571182696820_1791855615480699",
       "posted_at": "2026-10-10T23:24:08.519262+00:00"
+    },
+    "dvids-video:1026102": {
+      "title": "U.S. Army Staff Sgt. Austin Bright discusses the Panama earthquake relief efforts",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112050353/DOD_112050353.mp4",
+      "attached_website_url": "https://ushotnews.online/article/christa-pike-discharged-from-the-hospital-and-back-in-prison",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "3512495282246648",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3512495282246648",
+      "fb_comment_id": "3512495282246648_2335612023869224",
+      "posted_at": "2026-10-11T05:12:51.039121+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-10T23:22:42.121877+00:00"
+  "last_cleaned_at": "2026-10-11T05:11:45.408551+00:00"
 }
