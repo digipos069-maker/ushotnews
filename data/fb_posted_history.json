@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T18:47:24.329938+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-11T19:21:45.890609+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-caa936e25a": {
       "title": "Google’s AI note-taking app transcribes your meetings completely offline",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123234247471257",
       "fb_comment_id": "122123234247471257_2356181598548535",
       "posted_at": "2026-10-11T18:47:24.329873+00:00"
+    },
+    "scraped-c500cd574b": {
+      "title": "Torrie Wilson reminds everyone that she still has it, Sydney Sweeney's Halloween costume idea & Texas loses",
+      "slug": "torrie-wilson-reminds-everyone-that-she-still-has-it-sydney-sweeneys-halloween-costume-ide",
+      "url": "https://ushotnews.online/article/torrie-wilson-reminds-everyone-that-she-still-has-it-sydney-sweeneys-halloween-costume-ide",
+      "article_url": "https://ushotnews.online/article/torrie-wilson-reminds-everyone-that-she-still-has-it-sydney-sweeneys-halloween-costume-ide",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123248839471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123248839471257",
+      "fb_comment_id": "122123248839471257_1521649459998941",
+      "posted_at": "2026-10-11T19:21:45.890536+00:00"
+    },
+    "torrie-wilson-reminds-everyone-that-she-still-has-it-sydney-sweeneys-halloween-costume-ide": {
+      "title": "Torrie Wilson reminds everyone that she still has it, Sydney Sweeney's Halloween costume idea & Texas loses",
+      "slug": "torrie-wilson-reminds-everyone-that-she-still-has-it-sydney-sweeneys-halloween-costume-ide",
+      "url": "https://ushotnews.online/article/torrie-wilson-reminds-everyone-that-she-still-has-it-sydney-sweeneys-halloween-costume-ide",
+      "article_url": "https://ushotnews.online/article/torrie-wilson-reminds-everyone-that-she-still-has-it-sydney-sweeneys-halloween-costume-ide",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123248839471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123248839471257",
+      "fb_comment_id": "122123248839471257_1521649459998941",
+      "posted_at": "2026-10-11T19:21:45.890536+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T18:47:11.781104+00:00"
+  "last_cleaned_at": "2026-10-11T19:21:33.739262+00:00"
 }
