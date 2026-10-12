@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T09:41:02.424763+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-12T10:17:23.935621+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-ec18b12850": {
       "title": "Tony Romo got disqualified from his Korn Ferry qualifier the same day he 'parted ways' with CBS Sports",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123510823471257",
       "fb_comment_id": "122123510823471257_1826701415421176",
       "posted_at": "2026-10-12T09:41:02.424701+00:00"
+    },
+    "scraped-6752596508": {
+      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+      "slug": "judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
+      "url": "https://ushotnews.online/article/judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
+      "article_url": "https://ushotnews.online/article/judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123525445471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123525445471257",
+      "fb_comment_id": "122123525445471257_2024035618314011",
+      "posted_at": "2026-10-12T10:17:23.935548+00:00"
+    },
+    "judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads": {
+      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+      "slug": "judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
+      "url": "https://ushotnews.online/article/judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
+      "article_url": "https://ushotnews.online/article/judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123525445471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123525445471257",
+      "fb_comment_id": "122123525445471257_2024035618314011",
+      "posted_at": "2026-10-12T10:17:23.935548+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-12T09:40:50.943457+00:00"
+  "last_cleaned_at": "2026-10-12T10:17:12.575122+00:00"
 }
