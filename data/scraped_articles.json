@@ -1,5 +1,671 @@
 [
   {
+    "id": "scraped-97f72d71e1",
+    "slug": "trump-says-russia-and-ukraine-agree-to-an-energy-ceasefire",
+    "guid": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+    "title": "Trump says Russia and Ukraine agree to an 'energy ceasefire'",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
+    "content": [
+      "President Trump said Sunday that Russia and Ukraine had agreed to an \"energy ceasefire,\" but he offered no details on it and Kyiv reported attacks by Moscow on energy sites after his statement.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says Russia and Ukraine agree to an 'energy ceasefire'... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T06:41:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ae45a6ada4",
+    "slug": "last-nobel-prize-of-the-year-to-be-announced-for-economics",
+    "guid": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
+    "title": "Last Nobel prize of the year to be announced for economics",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Nobel Prize in Economics, the sixth and last of this year's awards, will be announced today in Sweden.",
+    "content": [
+      "The Nobel Prize in Economics, the sixth and last of this year's awards, will be announced today in Sweden.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Last Nobel prize of the year to be announced for economics... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T08:35:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9bc2a73e3c",
+    "slug": "heres-what-to-know-if-youre-unsure-about-your-measles-immunity-status",
+    "guid": "https://www.npr.org/2026/10/12/nx-s1-5991904/measles-vaccination-status-outbreak-extra-dose",
+    "title": "Here's what to know if you're unsure about your measles immunity status",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
+    "content": [
+      "Vaccination is the best way to protect yourself against measles. For most adults, one shot of the MMR is considered enough protection. But there are certain situations that call for a second dose.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Here's what to know if you're unsure about your measles immu... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-352e6fd31c",
+    "slug": "us-restrictions-on-chinese-drones-are-leaving-police-departments-in-the-lurch",
+    "guid": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
+    "title": "U.S. restrictions on Chinese drones are leaving police departments in the lurch",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely on those drones.",
+    "content": [
+      "The U.S. government is trying to end the dominance of high-quality, low-cost drones made in China. But more restrictions mean higher costs for cash-strapped police forces that rely on those drones.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. restrictions on Chinese drones are leaving police depar... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b1bbbfef95",
+    "slug": "the-blue-wave-looks-real-until-you-look-a-little-closer",
+    "guid": "https://www.foxnews.com/opinion/blue-wave-looks-real-until-you-look-little-closer",
+    "title": "The blue wave looks real until you look a little closer",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The 2026 midterm elections are heating up as Republicans and Democrats battle for control of Congress. From Texas and Maine to Michigan, key Senate races, shifting polls and campaign spending battles add to the uncertainty, while both parties look ahead to the 2028 presidential race.",
+    "content": [
+      "The 2026 midterm elections are heating up as Republicans and Democrats battle for control of Congress. From Texas and Maine to Michigan, key Senate races, shifting polls and campaign spending battles add to the uncertainty, while both parties look ahead to the 2028 presidential race.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Trump-san-antonio-texas-ken-paxton.jpg?ve=1&tl=1",
+    "imageCaption": "The blue wave looks real until you look a little closer... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T07:00:07+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3551e08123",
+    "slug": "everyone-is-watching-texas-and-michigan-as-a-pollster-i-know-where-the-real-story-is",
+    "guid": "https://www.foxnews.com/opinion/everyone-watching-texas-michigan-pollster-know-where-real-story",
+    "title": "Everyone is watching Texas and Michigan. As a pollster, I know where the real story is",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Iowa&apos;s razor-thin Senate race between Josh Turek and Ashley Hinson may reveal far more about the 2026 midterms than Texas or Michigan races.",
+    "content": [
+      "Iowa&apos;s razor-thin Senate race between Josh Turek and Ashley Hinson may reveal far more about the 2026 midterms than Texas or Michigan races.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ashley-hinson-2026.jpg?ve=1&tl=1",
+    "imageCaption": "Everyone is watching Texas and Michigan. As a pollster, I kn... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T09:00:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a8b9fa3a0e",
+    "slug": "buying-a-home-seems-impossible-heres-what-boomers-just-dont-understand",
+    "guid": "https://www.foxnews.com/opinion/buying-home-seems-impossible-heres-what-boomers-dont-understand",
+    "title": "Buying a home seems impossible. Here’s what Boomers just don’t understand",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A $429,100 median home price at 7.40% mortgage rates tells only part of the story when down payments now equal nearly a full year&apos;s household income.",
+    "content": [
+      "A $429,100 median home price at 7.40% mortgage rates tells only part of the story when down payments now equal nearly a full year&apos;s household income.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/new-home-buyers.jpg?ve=1&tl=1",
+    "imageCaption": "Buying a home seems impossible. Here’s what Boomers just don... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T09:00:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bb41826435",
+    "slug": "blue-state-governors-race-defies-expectations-as-republican-closes-in-power-rankings",
+    "guid": "https://www.foxnews.com/politics/blue-state-governors-race-defies-expectations-republican-closes-in-power-rankings",
+    "title": "Blue-state governor’s race defies expectations as Republican closes in: Power Rankings",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Christine Drazan aims to end Oregon&apos;s four-decade GOP losing streak in a tight rematch with Democratic Gov. Tina Kotek over local issues.",
+    "content": [
+      "Christine Drazan aims to end Oregon&apos;s four-decade GOP losing streak in a tight rematch with Democratic Gov. Tina Kotek over local issues.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Christine-Drazan.jpg?ve=1&tl=1",
+    "imageCaption": "Blue-state governor’s race defies expectations as Republican... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T09:00:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-66f4bee34e",
+    "slug": "ive-spent-25-years-at-historic-museums-smithsonian-should-tell-of-americas-greatness",
+    "guid": "https://www.foxnews.com/opinion/spent-25-years-historic-museums-smithsonian-should-tell-americas-greatness",
+    "title": "I’ve spent 25 years at historic museums. Smithsonian should tell of America’s greatness",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Smithsonian Institution faces a pivotal debate over how to balance America&apos;s achievements and shortcomings ahead of the 250th anniversary.",
+    "content": [
+      "The Smithsonian Institution faces a pivotal debate over how to balance America&apos;s achievements and shortcomings ahead of the 250th anniversary.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/smithsonian-castle-building-dc-trump.jpg?ve=1&tl=1",
+    "imageCaption": "I’ve spent 25 years at historic museums. Smithsonian should ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T09:00:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7fa8675d3f",
+    "slug": "americas-best-pizzerias-crowned-in-new-rankings-as-pizza-expert-gives-slice-of-skepticism",
+    "guid": "https://www.foxnews.com/food-drink/americas-best-pizzerias-crowned-new-rankings-pizza-expert-gives-slice-skepticism",
+    "title": "America's best pizzerias crowned in new rankings as pizza expert gives slice of skepticism",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A New York City pizzeria tops the 50 Top Pizza list for 2026, but a pizza expert and historian tells Fox News Digital that the organization leans toward certain styles.",
+    "content": [
+      "A New York City pizzeria tops the 50 Top Pizza list for 2026, but a pizza expert and historian tells Fox News Digital that the organization leans toward certain styles.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chef-garnishing-pizza-oven.png?ve=1&tl=1",
+    "imageCaption": "America's best pizzerias crowned in new rankings as pizza ex... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0bed7d1b6d",
+    "slug": "exclusive-inside-las-homeless-hellscape-unlikely-critics-blast-dems-as-gop-hopeful-tours-s",
+    "guid": "https://www.foxnews.com/politics/exclusive-inside-las-homeless-hellscape-unlikely-critics-blast-dems-gop-hopeful-tours-skid-row",
+    "title": "EXCLUSIVE: Inside LA's homeless hellscape — unlikely critics blast Dems as GOP hopeful tours Skid Row",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Steve Hilton walked through Skid Row&apos;s homeless encampments, accusing California&apos;s Democratic leaders of fueling the crisis with billions in spending.",
+    "content": [
+      "Steve Hilton walked through Skid Row&apos;s homeless encampments, accusing California&apos;s Democratic leaders of fueling the crisis with billions in spending.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/homeless-skid-row.gif",
+    "imageCaption": "EXCLUSIVE: Inside LA's homeless hellscape — unlikely critics... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T10:00:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-765e3d9dbd",
+    "slug": "secret-service-leadership-warn-of-massive-increase-in-threats-against-the-president",
+    "guid": "https://www.foxnews.com/media/secret-service-leadership-warn-massive-increase-threats-president",
+    "title": "Secret Service leadership warn of 'massive increase' in threats against the president",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Secret Service Director Sean Curran and Deputy Director Matt Quinn gave their first joint interview with 60 Minutes about the increased threats they face.",
+    "content": [
+      "Secret Service Director Sean Curran and Deputy Director Matt Quinn gave their first joint interview with 60 Minutes about the increased threats they face.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/secret-service-agent-and-trump.jpg?ve=1&tl=1",
+    "imageCaption": "Secret Service leadership warn of 'massive increase' in thre... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T10:06:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c40a456a39",
+    "slug": "tiktok-ceo-sees-major-scientific-breakthroughs-from-ai-within-three-years",
+    "guid": "108396483",
+    "title": "TikTok CEO sees major scientific breakthroughs from AI within three years",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
+    "content": [
+      "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "TikTok CEO sees major scientific breakthroughs from AI withi... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T04:24:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-817767b60c",
+    "slug": "world-bank-jobs-council-urges-crisis-era-employment-support-measures-as-imf-warns-of-ai-ts",
+    "guid": "108396813",
+    "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
+    "content": [
+      "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "World Bank jobs council urges 'crisis-era' employment suppor... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T08:58:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-32eae0f808",
+    "slug": "ai-fomo-driving-some-family-offices-into-tech-investments-survey-suggests",
+    "guid": "108373472",
+    "title": "AI FOMO driving some family offices into tech investments, survey suggests",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Investment firms of ultra-wealthy families aren't immune to FOMO.",
+    "content": [
+      "Investment firms of ultra-wealthy families aren't immune to FOMO.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AI FOMO driving some family offices into tech investments, s... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T10:03:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d111d49100",
+    "slug": "trump-turns-to-russian-diesel-ahead-of-midterms-but-analysts-see-little-price-relief",
+    "guid": "108397063",
+    "title": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Donald Trump's latest effort to ease a diesel supply crunch ahead of November's midterm elections is unlikely to make a dent on prices.",
+    "content": [
+      "President Donald Trump's latest effort to ease a diesel supply crunch ahead of November's midterm elections is unlikely to make a dent on prices.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump turns to Russian diesel ahead of midterms, but analyst... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T09:31:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b96562945c",
+    "slug": "intel-broadcom-ceos-warn-capital-crunch-could-become-ais-biggest-bottleneck",
+    "guid": "108397241",
+    "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The CEOs of Intel and Broadcom warned that access to capital could emerge as a major constraint on the artificial intelligence boom.",
+    "content": [
+      "The CEOs of Intel and Broadcom warned that access to capital could emerge as a major constraint on the artificial intelligence boom.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Intel, Broadcom CEOs warn capital crunch could become AI's b... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T08:27:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f70dc2bfc7",
+    "slug": "nobel-prize-in-economics-awarded-to-robert-e-hall-and-michael-woodford",
+    "guid": "108397525",
+    "title": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Nobel prize in economics awarded to Robert E. Hall and Michael Woodford",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nobel prize in economics awarded to Robert E. Hall and Micha... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T10:07:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-8503655ff1",
     "slug": "tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
     "guid": "https://www.npr.org/2026/10/11/nx-s1-5998124/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
