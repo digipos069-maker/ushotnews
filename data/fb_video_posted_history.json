@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-12T05:26:08.132127+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-10-12T15:02:26.720625+00:00",
+  "posted_count": 12,
   "articles": {
-    "dvids-video:1025971": {
-      "title": "RAI Captain's call Cyber Awareness",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112046743/DOD_112046743.mp4",
-      "attached_website_url": "https://ushotnews.online/article/us-plans-livestream-of-execution-by-firing-squad",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2137818830163415",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2137818830163415",
-      "fb_comment_id": "2137818830163415_4382292648582003",
-      "posted_at": "2026-10-09T05:37:39.125716+00:00"
-    },
-    "dvids-video:1025951": {
-      "title": "USS Abraham Lincoln Returns to San Diego",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112046290/DOD_112046290.mp4",
-      "attached_website_url": "https://ushotnews.online/article/byron-donalds-says-he-is-not-a-yes-man-to-trump",
-      "trending_score": 90.0,
-      "format": "video",
-      "fb_video_id": "1732755154692787",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1732755154692787",
-      "fb_comment_id": "1732755154692787_1124963863355639",
-      "posted_at": "2026-10-09T12:57:39.075170+00:00"
-    },
     "dvids-video:1026008": {
       "title": "ANC Expands Family Pass Holder Day",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112048049/DOD_112048049.mp4",
@@ -144,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1061405963611132",
       "fb_comment_id": "1061405963611132_958432800145399",
       "posted_at": "2026-10-12T05:26:08.132064+00:00"
+    },
+    "dvids-video:1026137": {
+      "title": "MD and VA 29th ID Annual Training Conduct EST & M4 Qualification",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112052461/DOD_112052461.mp4",
+      "attached_website_url": "https://ushotnews.online/article/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1166546429366591",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1166546429366591",
+      "fb_comment_id": "1166546429366591_1570911331014074",
+      "posted_at": "2026-10-12T15:02:26.720539+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-12T05:25:03.581181+00:00"
+  "last_cleaned_at": "2026-10-12T15:01:03.749821+00:00"
 }
