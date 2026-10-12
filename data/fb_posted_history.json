@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-11T23:04:04.115000+00:00",
+  "last_updated": "2026-10-12T02:16:29.024907+00:00",
   "posted_count": 56,
   "articles": {
-    "scraped-f2e6b85657": {
-      "title": "Kenneth Walker III welcomes potential Tyreek Hill reunion with Chiefs: 'He's a baller'",
-      "slug": "kenneth-walker-iii-welcomes-potential-tyreek-hill-reunion-with-chiefs-hes-a-baller",
-      "url": "https://ushotnews.online/article/kenneth-walker-iii-welcomes-potential-tyreek-hill-reunion-with-chiefs-hes-a-baller",
-      "article_url": "https://ushotnews.online/article/kenneth-walker-iii-welcomes-potential-tyreek-hill-reunion-with-chiefs-hes-a-baller",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121919863471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121919863471257",
-      "fb_comment_id": "122121919863471257_1661519465598759",
-      "posted_at": "2026-10-09T01:09:44.326524+00:00"
-    },
-    "kenneth-walker-iii-welcomes-potential-tyreek-hill-reunion-with-chiefs-hes-a-baller": {
-      "title": "Kenneth Walker III welcomes potential Tyreek Hill reunion with Chiefs: 'He's a baller'",
-      "slug": "kenneth-walker-iii-welcomes-potential-tyreek-hill-reunion-with-chiefs-hes-a-baller",
-      "url": "https://ushotnews.online/article/kenneth-walker-iii-welcomes-potential-tyreek-hill-reunion-with-chiefs-hes-a-baller",
-      "article_url": "https://ushotnews.online/article/kenneth-walker-iii-welcomes-potential-tyreek-hill-reunion-with-chiefs-hes-a-baller",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122121919863471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122121919863471257",
-      "fb_comment_id": "122121919863471257_1661519465598759",
-      "posted_at": "2026-10-09T01:09:44.326524+00:00"
-    },
     "scraped-697ca5f9ef": {
       "title": "Actress Dakota Johnson was convinced no one could possibly have the name 'OG Anunoby'",
       "slug": "actress-dakota-johnson-was-convinced-no-one-could-possibly-have-the-name-og-anunoby",
@@ -617,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123327733471257",
       "fb_comment_id": "122123327733471257_1813087133054119",
       "posted_at": "2026-10-11T23:04:04.114882+00:00"
+    },
+    "scraped-3351efb0f1": {
+      "title": "Kim Kardashian finally gives Martin Brundle a Formula 1 interview after snubbing him at the Monaco Grand Prix",
+      "slug": "kim-kardashian-finally-gives-martin-brundle-a-formula-1-interview-after-snubbing-him-at-th",
+      "url": "https://ushotnews.online/article/kim-kardashian-finally-gives-martin-brundle-a-formula-1-interview-after-snubbing-him-at-th",
+      "article_url": "https://ushotnews.online/article/kim-kardashian-finally-gives-martin-brundle-a-formula-1-interview-after-snubbing-him-at-th",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123373963471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123373963471257",
+      "fb_comment_id": "122123373963471257_1102574095692658",
+      "posted_at": "2026-10-12T02:16:29.024843+00:00"
+    },
+    "kim-kardashian-finally-gives-martin-brundle-a-formula-1-interview-after-snubbing-him-at-th": {
+      "title": "Kim Kardashian finally gives Martin Brundle a Formula 1 interview after snubbing him at the Monaco Grand Prix",
+      "slug": "kim-kardashian-finally-gives-martin-brundle-a-formula-1-interview-after-snubbing-him-at-th",
+      "url": "https://ushotnews.online/article/kim-kardashian-finally-gives-martin-brundle-a-formula-1-interview-after-snubbing-him-at-th",
+      "article_url": "https://ushotnews.online/article/kim-kardashian-finally-gives-martin-brundle-a-formula-1-interview-after-snubbing-him-at-th",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123373963471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123373963471257",
+      "fb_comment_id": "122123373963471257_1102574095692658",
+      "posted_at": "2026-10-12T02:16:29.024843+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-11T23:03:51.107599+00:00"
+  "last_cleaned_at": "2026-10-12T02:16:15.828671+00:00"
 }
