@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T19:45:49.921535+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-12T19:57:06.236754+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-b06f1e8366": {
       "title": "YouTube, Meta, and Twitch won&#8217;t say if they&#8217;ll allow the US government to livestream an execution",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123742873471257",
       "fb_comment_id": "122123742873471257_1356767719866957",
       "posted_at": "2026-10-12T19:45:49.921461+00:00"
+    },
+    "scraped-d111d49100": {
+      "title": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief",
+      "slug": "trump-turns-to-russian-diesel-ahead-of-midterms-but-analysts-see-little-price-relief",
+      "url": "https://ushotnews.online/article/trump-turns-to-russian-diesel-ahead-of-midterms-but-analysts-see-little-price-relief",
+      "article_url": "https://ushotnews.online/article/trump-turns-to-russian-diesel-ahead-of-midterms-but-analysts-see-little-price-relief",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123748561471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123748561471257",
+      "fb_comment_id": "122123748561471257_2674511486342463",
+      "posted_at": "2026-10-12T19:57:06.236700+00:00"
+    },
+    "trump-turns-to-russian-diesel-ahead-of-midterms-but-analysts-see-little-price-relief": {
+      "title": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief",
+      "slug": "trump-turns-to-russian-diesel-ahead-of-midterms-but-analysts-see-little-price-relief",
+      "url": "https://ushotnews.online/article/trump-turns-to-russian-diesel-ahead-of-midterms-but-analysts-see-little-price-relief",
+      "article_url": "https://ushotnews.online/article/trump-turns-to-russian-diesel-ahead-of-midterms-but-analysts-see-little-price-relief",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123748561471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123748561471257",
+      "fb_comment_id": "122123748561471257_2674511486342463",
+      "posted_at": "2026-10-12T19:57:06.236700+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-12T19:45:34.258573+00:00"
+  "last_cleaned_at": "2026-10-12T19:56:56.093077+00:00"
 }
