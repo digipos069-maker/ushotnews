@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T01:53:15.106581+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-13T01:58:17.646918+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-b8671040fd": {
       "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123894349471257",
       "fb_comment_id": "122123894349471257_29515853984683962",
       "posted_at": "2026-10-13T01:53:15.106522+00:00"
+    },
+    "scraped-fd4e41441f": {
+      "title": "Shark attack survivor says as he was trying to poke its eye, the shark winked at him, then bit his leg off",
+      "slug": "shark-attack-survivor-says-as-he-was-trying-to-poke-its-eye-the-shark-winked-at-him-then-b",
+      "url": "https://ushotnews.online/article/shark-attack-survivor-says-as-he-was-trying-to-poke-its-eye-the-shark-winked-at-him-then-b",
+      "article_url": "https://ushotnews.online/article/shark-attack-survivor-says-as-he-was-trying-to-poke-its-eye-the-shark-winked-at-him-then-b",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123899599471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123899599471257",
+      "fb_comment_id": "122123899599471257_1572123844219868",
+      "posted_at": "2026-10-13T01:58:17.646840+00:00"
+    },
+    "shark-attack-survivor-says-as-he-was-trying-to-poke-its-eye-the-shark-winked-at-him-then-b": {
+      "title": "Shark attack survivor says as he was trying to poke its eye, the shark winked at him, then bit his leg off",
+      "slug": "shark-attack-survivor-says-as-he-was-trying-to-poke-its-eye-the-shark-winked-at-him-then-b",
+      "url": "https://ushotnews.online/article/shark-attack-survivor-says-as-he-was-trying-to-poke-its-eye-the-shark-winked-at-him-then-b",
+      "article_url": "https://ushotnews.online/article/shark-attack-survivor-says-as-he-was-trying-to-poke-its-eye-the-shark-winked-at-him-then-b",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122123899599471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123899599471257",
+      "fb_comment_id": "122123899599471257_1572123844219868",
+      "posted_at": "2026-10-13T01:58:17.646840+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-13T01:53:02.800221+00:00"
+  "last_cleaned_at": "2026-10-13T01:58:00.779568+00:00"
 }
