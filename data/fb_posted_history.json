@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-13T01:58:17.646918+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-10-13T08:59:41.208801+00:00",
+  "posted_count": 50,
   "articles": {
-    "scraped-b8671040fd": {
-      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-      "slug": "trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
-      "url": "https://ushotnews.online/article/trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
-      "article_url": "https://ushotnews.online/article/trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122494897471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122494897471257",
-      "fb_comment_id": "122122494897471257_1587799733098965",
-      "posted_at": "2026-10-10T06:19:19.816753+00:00"
-    },
-    "trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law": {
-      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-      "slug": "trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
-      "url": "https://ushotnews.online/article/trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
-      "article_url": "https://ushotnews.online/article/trumps-diesel-agreement-with-putin-accused-of-contradicting-russia-sanctions-law",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122494897471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122494897471257",
-      "fb_comment_id": "122122494897471257_1587799733098965",
-      "posted_at": "2026-10-10T06:19:19.816753+00:00"
-    },
-    "scraped-1e79bb438c": {
-      "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
-      "slug": "james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
-      "url": "https://ushotnews.online/article/james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
-      "article_url": "https://ushotnews.online/article/james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122512447471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122512447471257",
-      "fb_comment_id": "122122512447471257_1421925662602415",
-      "posted_at": "2026-10-10T07:32:58.304079+00:00"
-    },
-    "james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back": {
-      "title": "James Talarico resurfaces after extended absence as his campaign pushes back",
-      "slug": "james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
-      "url": "https://ushotnews.online/article/james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
-      "article_url": "https://ushotnews.online/article/james-talarico-resurfaces-after-extended-absence-as-his-campaign-pushes-back",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122512447471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122512447471257",
-      "fb_comment_id": "122122512447471257_1421925662602415",
-      "posted_at": "2026-10-10T07:32:58.304079+00:00"
-    },
     "scraped-3222a148f5": {
       "title": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo",
       "slug": "at-least-one-person-isnt-concerned-about-cam-skattebo-getting-injured-and-his-name-is-cam-",
@@ -573,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123899599471257",
       "fb_comment_id": "122123899599471257_1572123844219868",
       "posted_at": "2026-10-13T01:58:17.646840+00:00"
+    },
+    "scraped-c308e1b53b": {
+      "title": "MAGA Inc. plots final midterm money moves",
+      "slug": "maga-inc-plots-final-midterm-money-moves",
+      "url": "https://ushotnews.online/article/maga-inc-plots-final-midterm-money-moves",
+      "article_url": "https://ushotnews.online/article/maga-inc-plots-final-midterm-money-moves",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124024321471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124024321471257",
+      "fb_comment_id": null,
+      "posted_at": "2026-10-13T08:59:41.208693+00:00"
+    },
+    "maga-inc-plots-final-midterm-money-moves": {
+      "title": "MAGA Inc. plots final midterm money moves",
+      "slug": "maga-inc-plots-final-midterm-money-moves",
+      "url": "https://ushotnews.online/article/maga-inc-plots-final-midterm-money-moves",
+      "article_url": "https://ushotnews.online/article/maga-inc-plots-final-midterm-money-moves",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124024321471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124024321471257",
+      "fb_comment_id": null,
+      "posted_at": "2026-10-13T08:59:41.208693+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-13T01:58:00.779568+00:00"
+  "last_cleaned_at": "2026-10-13T08:59:27.175033+00:00"
 }
