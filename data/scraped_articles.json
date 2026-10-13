@@ -1,5 +1,634 @@
 [
   {
+    "id": "scraped-6cf2a7c7e6",
+    "slug": "actor-selma-blair-removed-from-plane-by-police-after-altercation",
+    "guid": "https://www.npr.org/2026/10/12/nx-s1-5998945/actor-selma-blair-removed-from-plane-by-police-after-altercation",
+    "title": "Actor Selma Blair removed from plane by police after altercation",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Authorities say Blair was physically abusive and injured two flight attendants while traveling from Los Angeles to New York. A Blair representative said she had a medical emergency aboard the plane.",
+    "content": [
+      "Authorities say Blair was physically abusive and injured two flight attendants while traveling from Los Angeles to New York. A Blair representative said she had a medical emergency aboard the plane.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Actor Selma Blair removed from plane by police after alterca... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-12T20:18:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e0b9fdf6e6",
+    "slug": "dna-and-vehicle-tracking-help-french-investigators-recover-stolen-renoirs",
+    "guid": "https://www.npr.org/2026/10/13/g-s1-147818/france-stolen-renoirs-recovered",
+    "title": "DNA and vehicle-tracking help French investigators recover stolen Renoirs",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "DNA left on a protective painting cover helped investigators recover two stolen Renoirs and uncover what they suspected were preparations for another art heist, a French prosecutor said Monday.",
+    "content": [
+      "DNA left on a protective painting cover helped investigators recover two stolen Renoirs and uncover what they suspected were preparations for another art heist, a French prosecutor said Monday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "DNA and vehicle-tracking help French investigators recover s... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T05:42:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4d08428d61",
+    "slug": "bears-kicker-goes-viral-after-trying-to-trip-packers-receiver-who-decked-chicago-coach-on-",
+    "guid": "https://www.foxnews.com/outkick-sports/bears-kicker-goes-viral-trying-trip-packers-receiver-decked-chicago-coach-sideline",
+    "title": "Bears kicker goes viral after trying to trip Packers receiver who decked Chicago coach on sideline",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Matthew Golden crashed into a Bears coach on the NFC North sideline, and Cairo Santos&apos; attempted trip in response quickly went viral after the rout.",
+    "content": [
+      "Matthew Golden crashed into a Bears coach on the NFC North sideline, and Cairo Santos&apos; attempted trip in response quickly went viral after the rout.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Cairo-Santos-Bears.jpg?ve=1&tl=1",
+    "imageCaption": "Bears kicker goes viral after trying to trip Packers receive... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T02:18:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ffea11db08",
+    "slug": "man-admits-to-dismembering-ex-girlfriend-keeping-severed-head-in-suitcase-after-she-played",
+    "guid": "https://www.foxnews.com/us/man-admits-dismembering-ex-girlfriend-keeping-severed-head-suitcase-played-fool",
+    "title": "Man admits to dismembering ex-girlfriend, keeping severed head in suitcase after she played him 'like a fool'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A New York man pleaded guilty to second-degree murder after he admitted that he murdered and dismembered his ex-girlfriend and kept her severed head in a suitcase.",
+    "content": [
+      "A New York man pleaded guilty to second-degree murder after he admitted that he murdered and dismembered his ex-girlfriend and kept her severed head in a suitcase.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ny-man-killed-girlfiend-suitcase.png?ve=1&tl=1",
+    "imageCaption": "Man admits to dismembering ex-girlfriend, keeping severed he... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T02:30:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-01d16bcc3c",
+    "slug": "former-eagles-cb-asante-samuel-calls-out-coach-nick-sirianni-after-brutal-london-loss-you-",
+    "guid": "https://www.foxnews.com/outkick-sports/former-eagles-cb-asante-samuel-calls-out-coach-nick-sirianni-brutal-london-loss-you-lost-game",
+    "title": "Former Eagles CB Asante Samuel calls out coach Nick Sirianni after brutal London loss: 'You lost the game'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Asante Samuel ripped Nick Sirianni for skipping a squib kick that let the Jacksonville Jaguars set up a walk-off field goal to stun the Eagles.",
+    "content": [
+      "Asante Samuel ripped Nick Sirianni for skipping a squib kick that let the Jacksonville Jaguars set up a walk-off field goal to stun the Eagles.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/nick-sirianni-eagles-49ers-wild-card.jpg?ve=1&tl=1",
+    "imageCaption": "Former Eagles CB Asante Samuel calls out coach Nick Sirianni... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T02:35:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c0b7e0acf4",
+    "slug": "rays-bullpen-suffers-embarrassing-late-meltdown-as-cleveland-bullies-tampa-bay-in-game-1",
+    "guid": "https://www.foxnews.com/outkick-sports/rays-bullpen-suffers-embarrassing-late-meltdown-cleveland-bullies-tampa-bay-game-1",
+    "title": "Rays bullpen suffers embarrassing late meltdown as Cleveland bullies Tampa Bay in Game 1",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jose Ramirez&apos;s clutch ninth-inning single sparked a four-run Cleveland Guardians rally that broke open ALCS Game 1 against the Tampa Bay Rays.",
+    "content": [
+      "Jose Ramirez&apos;s clutch ninth-inning single sparked a four-run Cleveland Guardians rally that broke open ALCS Game 1 against the Tampa Bay Rays.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jose-ramirez-chase-delauter-guardians-alcs.jpg?ve=1&tl=1",
+    "imageCaption": "Rays bullpen suffers embarrassing late meltdown as Cleveland... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T03:40:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9e2a708a6b",
+    "slug": "bills-rams-delivered-every-ounce-of-super-bowl-lxi-preview-talk-as-overtime-thriller-deser",
+    "guid": "https://www.foxnews.com/outkick-sports/bills-rams-delivered-every-ounce-super-bowl-lxi-preview-talk-overtime-thriller-deserves-rematch",
+    "title": "Bills-Rams delivered every ounce of Super Bowl LXI preview talk as overtime thriller deserves a rematch",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Buffalo Bills outlasted the Los Angeles Rams, 37-34, in overtime after a blocked field goal and Tyler Bass&apos; clutch kick sealed the wild finish.",
+    "content": [
+      "The Buffalo Bills outlasted the Los Angeles Rams, 37-34, in overtime after a blocked field goal and Tyler Bass&apos; clutch kick sealed the wild finish.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/josh-allen-bills-rams-sofi-stadium.jpg?ve=1&tl=1",
+    "imageCaption": "Bills-Rams delivered every ounce of Super Bowl LXI preview t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T04:10:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a64a29193",
+    "slug": "protester-punched-in-face-by-trump-supporter-mocked-by-president-at-ohio-rally-gotta-go-on",
+    "guid": "https://www.foxnews.com/politics/protester-punched-face-trump-supporter-mocked-president-ohio-rally-gotta-go-diet",
+    "title": "Protester punched in face by Trump supporter, mocked by president at Ohio rally: 'Gotta go on a diet'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A supporter of President Donald Trump punched a heckler wearing a Release the Epstein Files shirt at the president&apos;s Youngstown, Ohio, rally.",
+    "content": [
+      "A supporter of President Donald Trump punched a heckler wearing a Release the Epstein Files shirt at the president&apos;s Youngstown, Ohio, rally.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-rally-protest-fight_001.png?ve=1&tl=1",
+    "imageCaption": "Protester punched in face by Trump supporter, mocked by pres... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T04:57:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ed88021abc",
+    "slug": "us-military-archbishop-urges-catholic-soldiers-to-refuse-involvement-in-army-firing-squad-",
+    "guid": "https://www.foxnews.com/us/us-military-archbishop-urges-catholic-soldiers-refuse-involvement-army-firing-squad-execution",
+    "title": "US military archbishop urges Catholic soldiers to refuse involvement in Army firing squad execution",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Archbishop Timothy Broglio urged Catholic soldiers to refuse firing squad duty in the planned execution of Nidal Hasan, calling the livestream barbaric.",
+    "content": [
+      "Archbishop Timothy Broglio urged Catholic soldiers to refuse firing squad duty in the planned execution of Nidal Hasan, calling the livestream barbaric.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Timothy-Broglio-Hasan-execution.png?ve=1&tl=1",
+    "imageCaption": "US military archbishop urges Catholic soldiers to refuse inv... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T06:55:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7d7194e2b9",
+    "slug": "cyberattack-hits-hundreds-of-french-supermarkets-heating-fridges-to-122f-and-sparking-fire",
+    "guid": "108401815",
+    "title": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires.",
+    "content": [
+      "Hackers targeted hundreds of French supermarkets in a large-scale cyberattack, causing refrigerators to overheat, spoiling food, and sparking fires.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cyberattack hits hundreds of French supermarkets, heating fr... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T08:28:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-338202f3a2",
+    "slug": "imf-sees-milder-global-slowdown-as-ai-boom-offsets-war-hit-warns-resilience-is-nearing-lim",
+    "guid": "108395688",
+    "title": "IMF sees milder global slowdown as AI boom offsets war hit — warns resilience is nearing limits",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
+    "content": [
+      "The IMF raised its 2026 global growth forecast to 3.1%, warning that resilience is tested by energy constraints and looming fiscal risks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "IMF sees milder global slowdown as AI boom offsets war hit —... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T04:10:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1d2cf93670",
+    "slug": "us-treasury-yields-fall-as-energy-prices-pull-back",
+    "guid": "108402167",
+    "title": "U.S. Treasury yields fall as energy prices pull back",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Bond yields fell on Tuesday as investors await more economic data releases this week.",
+    "content": [
+      "Bond yields fell on Tuesday as investors await more economic data releases this week.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. Treasury yields fall as energy prices pull back... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T08:31:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-564b554fef",
+    "slug": "oil-prices-fall-as-traders-assess-russian-diesel-supply-prospects-and-saudi-houthi-conflic",
+    "guid": "108401410",
+    "title": "Oil prices fall as traders assess Russian diesel supply prospects and Saudi-Houthi conflict",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
+    "content": [
+      "Oil prices fell as investors assess potential supply disruptions against prospects of more Russian diesel entering global markets.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Oil prices fall as traders assess Russian diesel supply pros... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T03:49:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8ea8a5034d",
+    "slug": "in-charts-how-one-of-the-worlds-biggest-economies-got-trapped-by-debt",
+    "guid": "108376575",
+    "title": "In charts: How one of the world's biggest economies got trapped by debt",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
+    "content": [
+      "France opens debate on its 2027 budget as high deficits, rising debt and student protests intensify pressure on lawmakers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "In charts: How one of the world's biggest economies got trap... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T08:45:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3f88aea53b",
+    "slug": "anthropic-warns-ai-models-could-soon-copy-themselves-across-home-devices",
+    "guid": "108401893",
+    "title": "Anthropic warns AI models could soon copy themselves across home devices",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Anthropic's latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+    "content": [
+      "Anthropic's latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic warns AI models could soon copy themselves across ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T08:27:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d55c2ca851",
+    "slug": "imf-warns-bond-yields-could-see-a-disorderly-spike-as-debt-inflation-risks-worsen",
+    "guid": "108400975",
+    "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+    "content": [
+      "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "IMF warns bond yields could see a 'disorderly' spike as debt... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T04:54:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e63055c9fe",
+    "slug": "micron-softbank-and-asml-slide-as-wall-street-chip-rout-spreads",
+    "guid": "108401099",
+    "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+    "content": [
+      "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Micron, SoftBank and ASML slide as Wall Street chip rout spr... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T08:56:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-e6054ce345",
     "slug": "the-social-reckoning-is-flopping-at-the-box-office",
     "guid": "https://www.theverge.com/?p=1009630",
