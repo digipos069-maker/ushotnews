@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T21:45:15.648552+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-10-13T21:56:50.155759+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-4b2a03465f": {
       "title": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124251889471257",
       "fb_comment_id": "122124251889471257_1819863215872344",
       "posted_at": "2026-10-13T21:45:15.648483+00:00"
+    },
+    "scraped-02a7c4a268": {
+      "title": "Google finally releases Gemini 4 Argon",
+      "slug": "google-finally-releases-gemini-4-argon",
+      "url": "https://ushotnews.online/article/google-finally-releases-gemini-4-argon",
+      "article_url": "https://ushotnews.online/article/google-finally-releases-gemini-4-argon",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124268425471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124268425471257",
+      "fb_comment_id": "122124268425471257_1634591718447003",
+      "posted_at": "2026-10-13T21:56:50.155690+00:00"
+    },
+    "google-finally-releases-gemini-4-argon": {
+      "title": "Google finally releases Gemini 4 Argon",
+      "slug": "google-finally-releases-gemini-4-argon",
+      "url": "https://ushotnews.online/article/google-finally-releases-gemini-4-argon",
+      "article_url": "https://ushotnews.online/article/google-finally-releases-gemini-4-argon",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124268425471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124268425471257",
+      "fb_comment_id": "122124268425471257_1634591718447003",
+      "posted_at": "2026-10-13T21:56:50.155690+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-13T21:45:02.948903+00:00"
+  "last_cleaned_at": "2026-10-13T21:56:35.498298+00:00"
 }
