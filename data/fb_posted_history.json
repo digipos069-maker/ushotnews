@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T16:53:38.373556+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-13T17:06:22.384855+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-d0484ac928": {
       "title": "An NYC Curse: Rangers top goalie dragged off ice as New York sports nightmare deepens",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124173343471257",
       "fb_comment_id": "122124173343471257_2144990776096992",
       "posted_at": "2026-10-13T16:53:38.373497+00:00"
+    },
+    "scraped-4d08428d61": {
+      "title": "Bears kicker goes viral after trying to trip Packers receiver who decked Chicago coach on sideline",
+      "slug": "bears-kicker-goes-viral-after-trying-to-trip-packers-receiver-who-decked-chicago-coach-on-",
+      "url": "https://ushotnews.online/article/bears-kicker-goes-viral-after-trying-to-trip-packers-receiver-who-decked-chicago-coach-on-",
+      "article_url": "https://ushotnews.online/article/bears-kicker-goes-viral-after-trying-to-trip-packers-receiver-who-decked-chicago-coach-on-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124176637471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124176637471257",
+      "fb_comment_id": "122124176637471257_1095303896434031",
+      "posted_at": "2026-10-13T17:06:22.384790+00:00"
+    },
+    "bears-kicker-goes-viral-after-trying-to-trip-packers-receiver-who-decked-chicago-coach-on-": {
+      "title": "Bears kicker goes viral after trying to trip Packers receiver who decked Chicago coach on sideline",
+      "slug": "bears-kicker-goes-viral-after-trying-to-trip-packers-receiver-who-decked-chicago-coach-on-",
+      "url": "https://ushotnews.online/article/bears-kicker-goes-viral-after-trying-to-trip-packers-receiver-who-decked-chicago-coach-on-",
+      "article_url": "https://ushotnews.online/article/bears-kicker-goes-viral-after-trying-to-trip-packers-receiver-who-decked-chicago-coach-on-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124176637471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124176637471257",
+      "fb_comment_id": "122124176637471257_1095303896434031",
+      "posted_at": "2026-10-13T17:06:22.384790+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-13T16:53:25.936587+00:00"
+  "last_cleaned_at": "2026-10-13T17:06:10.947251+00:00"
 }
