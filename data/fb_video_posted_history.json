@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-13T15:49:06.589787+00:00",
+  "last_updated": "2026-10-13T21:07:54.454021+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1026081": {
-      "title": "Abraham Lincoln Hosts Chief Pinning Ceremony",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112050031/DOD_112050031.mp4",
-      "attached_website_url": "https://ushotnews.online/article/david-plouffe-warns-dems-dont-take-north-carolina-for-granted",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2183222029285096",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2183222029285096",
-      "fb_comment_id": "2183222029285096_1833332464368870",
-      "posted_at": "2026-10-10T18:24:12.130201+00:00"
-    },
     "dvids-video:1026087": {
       "title": "Marines and Sailors Man the Rails for Parade of Ships (B-Roll)",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112050113/DOD_112050113.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1422276749275710",
       "fb_comment_id": "1422276749275710_1809113840373791",
       "posted_at": "2026-10-13T15:49:06.589725+00:00"
+    },
+    "dvids-video:1026266": {
+      "title": "Navy 251st Birthday Marked by NAVSUP WSS",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055114/DOD_112055114.mp4",
+      "attached_website_url": "https://ushotnews.online/article/apples-homepod-mini-2-is-available-to-preorder",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2122240591708145",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2122240591708145",
+      "fb_comment_id": "2122240591708145_1137073462419796",
+      "posted_at": "2026-10-13T21:07:54.453951+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-13T15:47:44.021956+00:00"
+  "last_cleaned_at": "2026-10-13T21:07:02.203519+00:00"
 }
