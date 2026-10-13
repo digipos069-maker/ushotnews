@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T08:59:41.208801+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-13T09:18:34.729870+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-3222a148f5": {
       "title": "At least one person isn't concerned about Cam Skattebo getting injured, and his name is Cam Skattebo",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124024321471257",
       "fb_comment_id": null,
       "posted_at": "2026-10-13T08:59:41.208693+00:00"
+    },
+    "scraped-4ea87a0547": {
+      "title": "Dodgers dynasty on the brink after the Milwaukee BABIP machine dials up another win for Brewers",
+      "slug": "dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
+      "url": "https://ushotnews.online/article/dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
+      "article_url": "https://ushotnews.online/article/dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124028899471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124028899471257",
+      "fb_comment_id": "122124028899471257_1445571751007278",
+      "posted_at": "2026-10-13T09:18:34.729806+00:00"
+    },
+    "dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br": {
+      "title": "Dodgers dynasty on the brink after the Milwaukee BABIP machine dials up another win for Brewers",
+      "slug": "dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
+      "url": "https://ushotnews.online/article/dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
+      "article_url": "https://ushotnews.online/article/dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124028899471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124028899471257",
+      "fb_comment_id": "122124028899471257_1445571751007278",
+      "posted_at": "2026-10-13T09:18:34.729806+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-13T08:59:27.175033+00:00"
+  "last_cleaned_at": "2026-10-13T09:18:23.489166+00:00"
 }
