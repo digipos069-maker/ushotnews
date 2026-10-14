@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-14T01:07:09.115945+00:00",
+  "last_updated": "2026-10-14T05:51:34.129821+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-aac636164e": {
-      "title": "Minnesota Vikings bring Odell Beckham Jr. up from practice squad for game against Saints",
-      "slug": "minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
-      "url": "https://ushotnews.online/article/minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
-      "article_url": "https://ushotnews.online/article/minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122850619471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122850619471257",
-      "fb_comment_id": "122122850619471257_1657889732402142",
-      "posted_at": "2026-10-11T01:08:46.132446+00:00"
-    },
-    "minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints": {
-      "title": "Minnesota Vikings bring Odell Beckham Jr. up from practice squad for game against Saints",
-      "slug": "minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
-      "url": "https://ushotnews.online/article/minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
-      "article_url": "https://ushotnews.online/article/minnesota-vikings-bring-odell-beckham-jr-up-from-practice-squad-for-game-against-saints",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122850619471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122850619471257",
-      "fb_comment_id": "122122850619471257_1657889732402142",
-      "posted_at": "2026-10-11T01:08:46.132446+00:00"
-    },
     "scraped-4fbf52619e": {
       "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
       "slug": "attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124316281471257",
       "fb_comment_id": "122124316281471257_929064740026427",
       "posted_at": "2026-10-14T01:07:09.115873+00:00"
+    },
+    "scraped-83bd5b4792": {
+      "title": "Man who lived as woman for eight years warns surprising teen sexuality data may not tell full story",
+      "slug": "man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
+      "url": "https://ushotnews.online/article/man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
+      "article_url": "https://ushotnews.online/article/man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124368667471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124368667471257",
+      "fb_comment_id": "122124368667471257_1102512759305199",
+      "posted_at": "2026-10-14T05:51:34.129746+00:00"
+    },
+    "man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f": {
+      "title": "Man who lived as woman for eight years warns surprising teen sexuality data may not tell full story",
+      "slug": "man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
+      "url": "https://ushotnews.online/article/man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
+      "article_url": "https://ushotnews.online/article/man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124368667471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124368667471257",
+      "fb_comment_id": "122124368667471257_1102512759305199",
+      "posted_at": "2026-10-14T05:51:34.129746+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-14T01:06:59.013872+00:00"
+  "last_cleaned_at": "2026-10-14T05:51:21.929063+00:00"
 }
