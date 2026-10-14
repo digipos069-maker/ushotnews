@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T15:55:17.617884+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-14T17:57:02.161305+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-3476d99f01": {
       "title": "What to expect from Apple’s ‘Welcome Home’ event",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124520341471257",
       "fb_comment_id": "122124520341471257_1630715238783767",
       "posted_at": "2026-10-14T15:55:17.617822+00:00"
+    },
+    "scraped-4bcc21c615": {
+      "title": "Abby Summers might be a Dallas Cowboys cheerleader, but her trip across the pond proves she's an Eagles fan",
+      "slug": "abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she",
+      "url": "https://ushotnews.online/article/abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she",
+      "article_url": "https://ushotnews.online/article/abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124544983471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124544983471257",
+      "fb_comment_id": "122124544983471257_2179953482599931",
+      "posted_at": "2026-10-14T17:57:02.161241+00:00"
+    },
+    "abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she": {
+      "title": "Abby Summers might be a Dallas Cowboys cheerleader, but her trip across the pond proves she's an Eagles fan",
+      "slug": "abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she",
+      "url": "https://ushotnews.online/article/abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she",
+      "article_url": "https://ushotnews.online/article/abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124544983471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124544983471257",
+      "fb_comment_id": "122124544983471257_2179953482599931",
+      "posted_at": "2026-10-14T17:57:02.161241+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-14T15:55:04.108009+00:00"
+  "last_cleaned_at": "2026-10-14T17:56:52.768768+00:00"
 }
