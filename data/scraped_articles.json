@@ -1,5 +1,560 @@
 [
   {
+    "id": "scraped-0a8bb41577",
+    "slug": "apples-homeview-ad-is-confusing-to-everyone-except-parents",
+    "guid": "https://www.theverge.com/?p=1010561",
+    "title": "Apple’s HomeView ad is confusing to everyone except parents",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those [&#8230;]",
+    "content": [
+      "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple’s HomeView ad is confusing to everyone except parents... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T22:10:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0003ee385d",
+    "slug": "pope-leo-has-lung-cancer-the-vatican-announces-after-surgery",
+    "guid": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
+    "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+    "content": [
+      "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Pope Leo has lung cancer, the Vatican announces after surger... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T22:29:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-487065eacd",
+    "slug": "rams-ol-alaric-jackson-expecting-two-game-suspension-after-punching-bills-defender-bradley",
+    "guid": "https://www.foxnews.com/outkick-sports/rams-ol-alaric-jackson-expecting-two-game-suspension-punching-bills-defender-bradley-chubb",
+    "title": "Rams OL Alaric Jackson expecting two-game suspension after punching Bills defender Bradley Chubb",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Footage shows Alaric Jackson throwing a bare-knuckle punch at Bradley Chubb after the Rams-Bills game, and a two-game NFL suspension is looming.",
+    "content": [
+      "Footage shows Alaric Jackson throwing a bare-knuckle punch at Bradley Chubb after the Rams-Bills game, and a two-game NFL suspension is looming.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/alaric-jackson-rams-broncos-warmup.jpg?ve=1&tl=1",
+    "imageCaption": "Rams OL Alaric Jackson expecting two-game suspension after p... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T23:21:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4bcc21c615",
+    "slug": "abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she",
+    "guid": "https://www.foxnews.com/outkick-sports/abby-summers-dallas-cowboys-cheerleader-trip-across-pond-proves-eagles-fan",
+    "title": "Abby Summers might be a Dallas Cowboys cheerleader, but her trip across the pond proves she's an Eagles fan",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Cooper DeJean and Abby Summers face their biggest relationship test yet when the Eagles host the Cowboys on Monday Night Football in Philadelphia.",
+    "content": [
+      "Cooper DeJean and Abby Summers face their biggest relationship test yet when the Eagles host the Cowboys on Monday Night Football in Philadelphia.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/cooper-dejean-kentucky-derby-fox-news-002.jpeg?ve=1&tl=1",
+    "imageCaption": "Abby Summers might be a Dallas Cowboys cheerleader, but her ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T23:23:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-86e3edd2ae",
+    "slug": "joe-manganiellos-secret-seven-year-health-battle-that-nearly-killed-him",
+    "guid": "https://www.foxnews.com/entertainment/joe-manganiellos-secret-seven-year-health-battle-nearly-killed-him",
+    "title": "Joe Manganiello's secret seven-year health battle that nearly killed him",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Joe Manganiello reveals Sofia Vergara made the life-saving call to remove his large intestine while he was unconscious during a secret health crisis.",
+    "content": [
+      "Joe Manganiello reveals Sofia Vergara made the life-saving call to remove his large intestine while he was unconscious during a secret health crisis.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/joe.jpg?ve=1&tl=1",
+    "imageCaption": "Joe Manganiello's secret seven-year health battle that nearl... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T23:45:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4aab73f752",
+    "slug": "former-chicago-police-detective-linked-by-dna-to-8-year-old-girls-cold-case-murder-police-",
+    "guid": "https://www.foxnews.com/us/former-chicago-police-detective-linked-dna-8-year-old-girl-cold-case-murder-police-say",
+    "title": "Former Chicago police detective linked by DNA to 8-year-old girl's cold-case murder, police say",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "DNA evidence and a fingerprint linked Thomas F. McInerney Jr., a former Chicago police detective, to the 1960 cold case murder of Gloria Kowalewicz.",
+    "content": [
+      "DNA evidence and a fingerprint linked Thomas F. McInerney Jr., a former Chicago police detective, to the 1960 cold case murder of Gloria Kowalewicz.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chicago-police-department-002.jpg?ve=1&tl=1",
+    "imageCaption": "Former Chicago police detective linked by DNA to 8-year-old ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T23:55:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-83bd5b4792",
+    "slug": "man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
+    "guid": "https://www.foxnews.com/media/man-lived-woman-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-full-story",
+    "title": "Man who lived as woman for eight years warns surprising teen sexuality data may not tell full story",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Walt Heyer says social media and peer pressure may explain why fewer teenagers now identify as gay or bisexual, casting doubt on CDC data trends.",
+    "content": [
+      "Walt Heyer says social media and peer pressure may explain why fewer teenagers now identify as gay or bisexual, casting doubt on CDC data trends.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/walt-heyer-laura.png?ve=1&tl=1",
+    "imageCaption": "Man who lived as woman for eight years warns surprising teen... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T00:01:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9b9b2bb44e",
+    "slug": "panic-in-dallas-cowboys-defense-holds-emergency-summit-as-season-spirals-after-bucs-loss",
+    "guid": "https://www.foxnews.com/outkick-sports/panic-dallas-cowboys-defense-holds-emergency-summit-season-spirals-bucs-loss",
+    "title": "Panic in Dallas: Cowboys defense holds emergency summit as season spirals after Bucs loss",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "DeMarvion Overshown reveals details of the Dallas Cowboys&apos; defensive players-only meeting after surrendering 241 rushing yards to Tampa Bay.",
+    "content": [
+      "DeMarvion Overshown reveals details of the Dallas Cowboys&apos; defensive players-only meeting after surrendering 241 rushing yards to Tampa Bay.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nfl-dallas-cowboys-tampa-bay-3.jpg?ve=1&tl=1",
+    "imageCaption": "Panic in Dallas: Cowboys defense holds emergency summit as s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T00:09:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e038a1f390",
+    "slug": "nba-announcer-mike-tirico-addresses-the-truth-behind-michael-jordans-limited-nbc-role",
+    "guid": "https://www.foxnews.com/outkick-sports/nba-announcer-mike-tirico-addresses-truth-behind-michael-jordans-limited-nbc-role",
+    "title": "NBA announcer Mike Tirico addresses the truth behind Michael Jordan's, limited NBC role",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Mike Tirico defends NBC Sports&apos; Michael Jordan interview, saying people are still talking about it a year later despite criticism of the segments.",
+    "content": [
+      "Mike Tirico defends NBC Sports&apos; Michael Jordan interview, saying people are still talking about it a year later despite criticism of the segments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Mike-Tirico-Falcons-Saints-NFL.jpg?ve=1&tl=1",
+    "imageCaption": "NBA announcer Mike Tirico addresses the truth behind Michael... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T00:29:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a8c2eadd9e",
+    "slug": "reparations-official-demands-compensation-beyond-a-single-check-as-advocates-makes-progres",
+    "guid": "https://www.foxnews.com/media/reparations-official-demands-compensation-beyond-single-check-advocates-make-progress-california",
+    "title": "Reparations official demands compensation beyond a 'single check' as advocates makes progress in California",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "California&apos;s Truth in Disclosure Act is now law, but reparations advocates say corporate transparency is just the beginning of a larger fight.",
+    "content": [
+      "California&apos;s Truth in Disclosure Act is now law, but reparations advocates say corporate transparency is just the beginning of a larger fight.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/california-lawmaker-bids-to-protect-reparations-payments-from-taxation.jpg?ve=1&tl=1",
+    "imageCaption": "Reparations official demands compensation beyond a 'single c... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T00:40:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-46c384e4c0",
+    "slug": "jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why",
+    "guid": "108404844",
+    "title": "Jim Cramer isn't giving up on semiconductor stocks despite the sell off. Here's why",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "CNBC’s Jim Cramer said investors shouldn't give up on semiconductor stocks despite the recent sell-off.",
+    "content": [
+      "CNBC’s Jim Cramer said investors shouldn't give up on semiconductor stocks despite the recent sell-off.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer isn't giving up on semiconductor stocks despite t... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T22:19:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a76c00e3d5",
+    "slug": "heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
+    "guid": "108404460",
+    "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "CNBC’s Jim Cramer said investors should hold off on buying newly public AI infrastructure company Accelevation Holdings.",
+    "content": [
+      "CNBC’s Jim Cramer said investors should hold off on buying newly public AI infrastructure company Accelevation Holdings.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Here's where Jim Cramer stands on this newly public AI infra... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T22:47:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-40d38e8356",
+    "slug": "goldman-says-investors-are-looking-for-profitable-chinese-business-growth-overseas",
+    "guid": "108401100",
+    "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+    "content": [
+      "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Goldman says investors are looking for 'profitable' Chinese ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T23:05:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9742a8df9e",
+    "slug": "singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates",
+    "guid": "108401324",
+    "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
+    "content": [
+      "The GDP print beat expectations of a 5% growth from economists polled by Reuters.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Singapore third-quarter GDP growth softens from four-year hi... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T00:28:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-56b168961d",
+    "slug": "anthropic-urges-court-in-washington-dc-to-rehear-appeal-of-pentagon-blacklisting",
+    "guid": "108405472",
+    "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
+    "content": [
+      "Anthropic is asking a federal court in Washington, D.C. to rehear its appeal in a case concerning the Pentagon's blacklisting of the company's AI models.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic urges court in Washington, D.C. to rehear appeal o... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-13T22:54:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-c139feaa34",
     "slug": "i-dont-miss-the-camera-on-the-ray-ban-meta-audio-glasses",
     "guid": "https://www.theverge.com/?p=1009128",
