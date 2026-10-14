@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-14T01:03:58.117283+00:00",
+  "last_updated": "2026-10-14T07:23:25.427493+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1026102": {
-      "title": "U.S. Army Staff Sgt. Austin Bright discusses the Panama earthquake relief efforts",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112050353/DOD_112050353.mp4",
-      "attached_website_url": "https://ushotnews.online/article/christa-pike-discharged-from-the-hospital-and-back-in-prison",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "3512495282246648",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3512495282246648",
-      "fb_comment_id": "3512495282246648_2335612023869224",
-      "posted_at": "2026-10-11T05:12:51.039121+00:00"
-    },
     "dvids-video:1026101": {
       "title": "U.S. Army Sgt. 1st Class Nelson Perez Galan Speaks on U.S. Southern Command and Panamanian security institutions delivering earthquake relief supplies",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112050352/DOD_112050352.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/3202820019918074",
       "fb_comment_id": "3202820019918074_1635042168294586",
       "posted_at": "2026-10-14T01:03:58.117211+00:00"
+    },
+    "dvids-video:1026270": {
+      "title": "Los Angeles County Fire Department Search and Rescue",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055179/DOD_112055179.mp4",
+      "attached_website_url": "https://ushotnews.online/article/apples-homeview-ad-is-confusing-to-everyone-except-parents",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "4028061400835782",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4028061400835782",
+      "fb_comment_id": "4028061400835782_4451272365112003",
+      "posted_at": "2026-10-14T07:23:25.427435+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-14T01:02:06.359123+00:00"
+  "last_cleaned_at": "2026-10-14T07:21:53.978320+00:00"
 }
