@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-14T07:23:25.427493+00:00",
+  "last_updated": "2026-10-14T13:32:48.932088+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1026101": {
-      "title": "U.S. Army Sgt. 1st Class Nelson Perez Galan Speaks on U.S. Southern Command and Panamanian security institutions delivering earthquake relief supplies",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112050352/DOD_112050352.mp4",
-      "attached_website_url": "https://ushotnews.online/article/4-heart-stopping-moments-from-womens-money-in-the-bank-ladder-match-as-tiffany-stratton-sn",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1871120343872158",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1871120343872158",
-      "fb_comment_id": "1871120343872158_1612689086902837",
-      "posted_at": "2026-10-11T12:30:50.969211+00:00"
-    },
     "dvids-video:1026115": {
       "title": "U.S. Southern Command and Panamanian security institutions deliver earthquake relief supplies",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112051234/DOD_112051234.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4028061400835782",
       "fb_comment_id": "4028061400835782_4451272365112003",
       "posted_at": "2026-10-14T07:23:25.427435+00:00"
+    },
+    "dvids-video:1026309": {
+      "title": "Coast Guard assists in release of Brown Booby",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112056473/DOD_112056473.mp4",
+      "attached_website_url": "https://ushotnews.online/article/apples-homeview-ad-is-confusing-to-everyone-except-parents",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1445692428619160",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1445692428619160",
+      "fb_comment_id": "1445692428619160_999083843210308",
+      "posted_at": "2026-10-14T13:32:48.932015+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-14T07:21:53.978320+00:00"
+  "last_cleaned_at": "2026-10-14T13:31:19.073740+00:00"
 }
