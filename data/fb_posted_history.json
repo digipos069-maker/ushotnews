@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-14T06:38:54.711516+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-10-14T11:16:49.718390+00:00",
+  "posted_count": 50,
   "articles": {
-    "scraped-4fbf52619e": {
-      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-      "slug": "attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "url": "https://ushotnews.online/article/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "article_url": "https://ushotnews.online/article/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122968423471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122968423471257",
-      "fb_comment_id": "122122968423471257_4394777757502286",
-      "posted_at": "2026-10-11T07:02:16.634566+00:00"
-    },
-    "attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say": {
-      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-      "slug": "attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "url": "https://ushotnews.online/article/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "article_url": "https://ushotnews.online/article/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122968423471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122968423471257",
-      "fb_comment_id": "122122968423471257_4394777757502286",
-      "posted_at": "2026-10-11T07:02:16.634566+00:00"
-    },
-    "scraped-232bb258d8": {
-      "title": "Starbucks hit with lawsuit over sugar content as experts reveal chain's most sugary drinks",
-      "slug": "starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
-      "url": "https://ushotnews.online/article/starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
-      "article_url": "https://ushotnews.online/article/starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122979175471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122979175471257",
-      "fb_comment_id": "122122979175471257_905224559194019",
-      "posted_at": "2026-10-11T07:37:53.794398+00:00"
-    },
-    "starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks": {
-      "title": "Starbucks hit with lawsuit over sugar content as experts reveal chain's most sugary drinks",
-      "slug": "starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
-      "url": "https://ushotnews.online/article/starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
-      "article_url": "https://ushotnews.online/article/starbucks-hit-with-lawsuit-over-sugar-content-as-experts-reveal-chains-most-sugary-drinks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122122979175471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122122979175471257",
-      "fb_comment_id": "122122979175471257_905224559194019",
-      "posted_at": "2026-10-11T07:37:53.794398+00:00"
-    },
     "scraped-965d3b0e50": {
       "title": "UCLA Bruins upset Oregon Ducks to stay unbeaten and change the Big Ten championship picture",
       "slug": "ucla-bruins-upset-oregon-ducks-to-stay-unbeaten-and-change-the-big-ten-championship-pictur",
@@ -573,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124377991471257",
       "fb_comment_id": "122124377991471257_2332722477495554",
       "posted_at": "2026-10-14T06:38:54.711452+00:00"
+    },
+    "scraped-a76c00e3d5": {
+      "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+      "slug": "heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
+      "url": "https://ushotnews.online/article/heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
+      "article_url": "https://ushotnews.online/article/heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124448869471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124448869471257",
+      "fb_comment_id": "122124448869471257_28622159440787465",
+      "posted_at": "2026-10-14T11:16:49.718334+00:00"
+    },
+    "heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock": {
+      "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
+      "slug": "heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
+      "url": "https://ushotnews.online/article/heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
+      "article_url": "https://ushotnews.online/article/heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124448869471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124448869471257",
+      "fb_comment_id": "122124448869471257_28622159440787465",
+      "posted_at": "2026-10-14T11:16:49.718334+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-14T06:38:41.067876+00:00"
+  "last_cleaned_at": "2026-10-14T11:16:39.572879+00:00"
 }
