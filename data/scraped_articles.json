@@ -1,5 +1,634 @@
 [
   {
+    "id": "scraped-001fb65330",
+    "slug": "sen-jon-ossoff-im-not-running-for-president",
+    "guid": "000001a1-37ec-d058-adf3-3fecc34e0000",
+    "title": "Sen. Jon Ossoff: ‘I’m not running for president’",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The Georgia senator committed to serving out a full six-year term should he win in November — his most forceful rejection of 2028 rumors yet.",
+    "content": [
+      "The Georgia senator committed to serving out a full six-year term should he win in November — his most forceful rejection of 2028 rumors yet.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/84/8d/6f35e9e94ef68e5042206a3c62d6/https-delivery-gettyimages.com/downloads/2299477387",
+    "imageCaption": "Sen. Jon Ossoff: ‘I’m not running for president’... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T01:12:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-230d040bea",
+    "slug": "florida-executes-inmate-who-killed-cellmate-because-he-wanted-death-penalty",
+    "guid": "https://www.foxnews.com/us/florida-executes-inmate-killed-cellmate-wanted-death-penalty",
+    "title": "Florida executes inmate who killed cellmate because he wanted death penalty",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Florida inmate who strangled his cellmate in the hopes of receiving the death penalty rather than spend his remaining years in prison was executed on Tuesday.",
+    "content": [
+      "A Florida inmate who strangled his cellmate in the hopes of receiving the death penalty rather than spend his remaining years in prison was executed on Tuesday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/florida-execution-death-penalty-ask.png?ve=1&tl=1",
+    "imageCaption": "Florida executes inmate who killed cellmate because he wante... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T01:48:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fb3ccc6d21",
+    "slug": "trump-energy-department-issues-emergency-order-to-prevent-blackouts-across-13-states-amid-",
+    "guid": "https://www.foxnews.com/us/trump-energy-department-issues-emergency-order-prevent-blackouts-13-states-unusual-october-heat",
+    "title": "Trump Energy Department issues emergency order to prevent blackouts across 13 states amid unusual October heat",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Department of Energy authorized PJM Interconnection to tap backup power as unseasonably warm October temperatures strain the grid across 13 states.",
+    "content": [
+      "The Department of Energy authorized PJM Interconnection to tap backup power as unseasonably warm October temperatures strain the grid across 13 states.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/2-wall-street-utility-takeovers-may-mean-higher-bills-ahead.jpg?ve=1&tl=1",
+    "imageCaption": "Trump Energy Department issues emergency order to prevent bl... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T01:49:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d30f61a484",
+    "slug": "trump-signs-pardons-for-alaska-diesel-mechanics-onstage-during-rally-touting-major-energy-",
+    "guid": "https://www.foxnews.com/politics/president-trump-signs-pardons-alaska-diesel-mechanics-onstage-rally-touting-major-energy-deals",
+    "title": "Trump signs pardons for Alaska diesel mechanics onstage during rally touting major energy deals",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "President Donald Trump signed clemency documents onstage in Alaska while also announcing that a major natural gas pipeline secured federal permits.",
+    "content": [
+      "President Donald Trump signed clemency documents onstage in Alaska while also announcing that a major natural gas pipeline secured federal permits.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-greets-supporters-wasilla-alaska.jpg?ve=1&tl=1",
+    "imageCaption": "Trump signs pardons for Alaska diesel mechanics onstage duri... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T02:13:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-10530653e2",
+    "slug": "saints-1-4-start-under-kellen-moore-prompts-warning-from-owner-gayle-benson-not-our-standa",
+    "guid": "https://www.foxnews.com/outkick-sports/saints-1-4-start-under-kellen-moore-prompts-warning-owner-gayle-benson-not-our-standard",
+    "title": "Saints’ 1-4 start under Kellen Moore prompts warning from owner Gayle Benson: ‘Not our standard’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Gayle Benson called out Kellen Moore and Mickey Loomis by name in a rare in-season rebuke of the New Orleans Saints&apos; disappointing 1-4 start.",
+    "content": [
+      "Gayle Benson called out Kellen Moore and Mickey Loomis by name in a rare in-season rebuke of the New Orleans Saints&apos; disappointing 1-4 start.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Gayle-Benson-at-Saints-game.jpg?ve=1&tl=1",
+    "imageCaption": "Saints’ 1-4 start under Kellen Moore prompts warning from ow... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T02:19:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-63dbebdf32",
+    "slug": "dave-roberts-keeps-shohei-ohtani-in-dodgers-nlcs-game-3-lineup-despite-postseason-struggle",
+    "guid": "https://www.foxnews.com/outkick-sports/dave-roberts-keeps-shohei-ohtani-dodgers-nlcs-game-3-lineup-despite-postseason-struggles",
+    "title": "Dave Roberts keeps Shohei Ohtani in Dodgers' NLCS Game 3 lineup despite postseason struggles",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Dave Roberts is keeping Shohei Ohtani in the Dodgers&apos; NLCS Game 3 lineup despite a .150 postseason average and zero extra-base hits against the Brewers.",
+    "content": [
+      "Dave Roberts is keeping Shohei Ohtani in the Dodgers&apos; NLCS Game 3 lineup despite a .150 postseason average and zero extra-base hits against the Brewers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/shohei-ohtani-playoffs.jpg?ve=1&tl=1",
+    "imageCaption": "Dave Roberts keeps Shohei Ohtani in Dodgers' NLCS Game 3 lin... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T02:32:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6c4f8dd641",
+    "slug": "nyc-mayor-zohran-mamdani-says-he-wont-fire-nypd-commissioner-jessica-tisch-despite-sociali",
+    "guid": "https://www.foxnews.com/politics/nyc-mayor-zohran-mamdani-wont-fire-nypd-commissioner-jessica-tisch-despite-socialist-pressure",
+    "title": "NYC Mayor Zohran Mamdani says he won't fire NYPD Commissioner Jessica Tisch despite socialist pressure",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Zohran Mamdani backed NYPD Commissioner Jessica Tisch despite Democratic Socialists of America demanding her removal over the Bronx ICE shooting.",
+    "content": [
+      "Zohran Mamdani backed NYPD Commissioner Jessica Tisch despite Democratic Socialists of America demanding her removal over the Bronx ICE shooting.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/mamdani-tisch-nypd-terror-attack-fox-news.jpg?ve=1&tl=1",
+    "imageCaption": "NYC Mayor Zohran Mamdani says he won't fire NYPD Commissione... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T02:34:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5607397d6f",
+    "slug": "tampa-bay-rays-win-game-two-over-guardians-thanks-to-terrible-error-from-josé-ramírez-even",
+    "guid": "https://www.foxnews.com/outkick-sports/tampa-bay-rays-win-game-two-guardians-terrible-error-jose-ramirez-alcs-1-1",
+    "title": "Tampa Bay Rays win game two over Guardians thanks to terrible error from José Ramírez, even ALCS at 1-1",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Freddy Peralta fired six shutout innings as the Tampa Bay Rays evened the American League Championship Series against the Cleveland Guardians.",
+    "content": [
+      "Freddy Peralta fired six shutout innings as the Tampa Bay Rays evened the American League Championship Series against the Cleveland Guardians.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/freddy-peralta-celebrates-last-out-alcs-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Tampa Bay Rays win game two over Guardians thanks to terribl... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T03:17:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d1389f9507",
+    "slug": "trump-administration-slashes-time-refugees-have-to-challenge-loss-of-legal-status",
+    "guid": "https://www.foxnews.com/politics/trump-administration-slashes-time-refugees-challenge-loss-legal-status",
+    "title": "Trump administration slashes time refugees have to challenge loss of legal status",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Department of Homeland Security reduced the number of days refugees have to challenge their legal status revocation from 30 days to just 10.",
+    "content": [
+      "The Department of Homeland Security reduced the number of days refugees have to challenge their legal status revocation from 30 days to just 10.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-and-mullin.jpg?ve=1&tl=1",
+    "imageCaption": "Trump administration slashes time refugees have to challenge... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T05:05:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8bc0fa51ea",
+    "slug": "crypto-bosses-ceos-and-f1-singapores-business-events-boom-gathers-pace",
+    "guid": "108403141",
+    "title": "Crypto bosses, CEOs and F1: Singapore's business events boom gathers pace",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Singapore's Formula 1 race week is a major business draw as a growing number of conferences coincide with the Grand Prix.",
+    "content": [
+      "Singapore's Formula 1 race week is a major business draw as a growing number of conferences coincide with the Grand Prix.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Crypto bosses, CEOs and F1: Singapore's business events boom... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T04:41:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5c86722045",
+    "slug": "south-korean-carmaker-hyundai-plans-strategic-investment-of-155-billion-in-india-by-2032",
+    "guid": "108406078",
+    "title": "South Korean carmaker Hyundai plans 'strategic' investment of $15.5 billion in India by 2032",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Korean car company Hyundai says India is a strategic core market",
+    "content": [
+      "Korean car company Hyundai says India is a strategic core market",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "South Korean carmaker Hyundai plans 'strategic' investment o... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T02:04:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b253d68e83",
+    "slug": "godzilla-el-niño-is-wreaking-havoc-with-philippine-central-banks-inflation-forecasts",
+    "guid": "108406564",
+    "title": "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
+    "content": [
+      "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'Godzilla El Niño' is wreaking havoc with Philippine central... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T04:24:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-96b6715dee",
+    "slug": "chinas-producer-prices-rise-at-fastest-pace-since-june-2022-beating-expectations",
+    "guid": "108400973",
+    "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+    "content": [
+      "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "China's producer prices rise at fastest pace since June 2022... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T03:14:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-54a61c74c7",
+    "slug": "taiwan-agrees-to-buy-30-of-gas-from-alaska-lng-project-trump-says",
+    "guid": "108406202",
+    "title": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+    "content": [
+      "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Taiwan agrees to buy 30% of gas from Alaska LNG project, Tru... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T02:09:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2b29814ec5",
+    "slug": "oil-rises-amid-growing-mideast-tensions-between-iran-backed-houthis-and-saudi-arabia",
+    "guid": "108405957",
+    "title": "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+    "content": [
+      "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Oil rises amid growing Mideast tensions between Iran-backed ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T04:07:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-74c5762da5",
+    "slug": "asml-says-its-getting-order-interest-through-2030-as-profit-smashes-expectations",
+    "guid": "108407086",
+    "title": "ASML says it's getting order interest through 2030 as profit smashes expectations",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.",
+    "content": [
+      "ASML said some customers are \"expressing an interest\" in placing orders with the company in 2029 and 2030, giving investors a view into longer-term demand.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "ASML says it's getting order interest through 2030 as profit... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T05:49:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8ee54750c7",
+    "slug": "judge-extends-block-on-trump-white-house-ban-of-ms-now-cnn-and-politico",
+    "guid": "108406691",
+    "title": "Judge extends block on Trump White House ban of MS NOW, CNN and Politico",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+    "content": [
+      "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Judge extends block on Trump White House ban of MS NOW, CNN ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-14T05:19:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-0a8bb41577",
     "slug": "apples-homeview-ad-is-confusing-to-everyone-except-parents",
     "guid": "https://www.theverge.com/?p=1010561",
