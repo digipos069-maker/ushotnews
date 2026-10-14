@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T00:54:02.018700+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-10-14T01:07:09.115945+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-aac636164e": {
       "title": "Minnesota Vikings bring Odell Beckham Jr. up from practice squad for game against Saints",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124313155471257",
       "fb_comment_id": "122124313155471257_4199875216970140",
       "posted_at": "2026-10-14T00:54:02.018624+00:00"
+    },
+    "scraped-17033409a8": {
+      "title": "What an economics Nobel Prize winner knows about pricing",
+      "slug": "what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "url": "https://ushotnews.online/article/what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "article_url": "https://ushotnews.online/article/what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124316281471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124316281471257",
+      "fb_comment_id": "122124316281471257_929064740026427",
+      "posted_at": "2026-10-14T01:07:09.115873+00:00"
+    },
+    "what-an-economics-nobel-prize-winner-knows-about-pricing": {
+      "title": "What an economics Nobel Prize winner knows about pricing",
+      "slug": "what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "url": "https://ushotnews.online/article/what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "article_url": "https://ushotnews.online/article/what-an-economics-nobel-prize-winner-knows-about-pricing",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124316281471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124316281471257",
+      "fb_comment_id": "122124316281471257_929064740026427",
+      "posted_at": "2026-10-14T01:07:09.115873+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-14T00:53:47.735134+00:00"
+  "last_cleaned_at": "2026-10-14T01:06:59.013872+00:00"
 }
