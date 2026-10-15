@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T12:36:59.433189+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-10-15T15:18:24.477976+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-b1bbbfef95": {
       "title": "The blue wave looks real until you look a little closer",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124875229471257",
       "fb_comment_id": "122124875229471257_1124557973598965",
       "posted_at": "2026-10-15T12:36:59.433127+00:00"
+    },
+    "scraped-db451d8c3b": {
+      "title": "Elizabeth Hurley sizzles in bathrobe as diamond ring sparks Billy Ray Cyrus romance speculation",
+      "slug": "elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
+      "url": "https://ushotnews.online/article/elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
+      "article_url": "https://ushotnews.online/article/elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124924183471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124924183471257",
+      "fb_comment_id": "122124924183471257_1041848948872783",
+      "posted_at": "2026-10-15T15:18:24.477894+00:00"
+    },
+    "elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul": {
+      "title": "Elizabeth Hurley sizzles in bathrobe as diamond ring sparks Billy Ray Cyrus romance speculation",
+      "slug": "elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
+      "url": "https://ushotnews.online/article/elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
+      "article_url": "https://ushotnews.online/article/elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124924183471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124924183471257",
+      "fb_comment_id": "122124924183471257_1041848948872783",
+      "posted_at": "2026-10-15T15:18:24.477894+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T12:36:49.184549+00:00"
+  "last_cleaned_at": "2026-10-15T15:18:12.705551+00:00"
 }
