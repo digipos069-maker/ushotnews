@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T17:37:54.992173+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-15T19:21:13.605216+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-b1bbbfef95": {
       "title": "The blue wave looks real until you look a little closer",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124979311471257",
       "fb_comment_id": "122124979311471257_4721576748130657",
       "posted_at": "2026-10-15T17:37:54.992097+00:00"
+    },
+    "scraped-c89fd55127": {
+      "title": "Trump announces Montana 'super range' at midterm rally for Pentagon to test advanced war technology",
+      "slug": "trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
+      "url": "https://ushotnews.online/article/trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
+      "article_url": "https://ushotnews.online/article/trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125002669471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125002669471257",
+      "fb_comment_id": "122125002669471257_3466026906890210",
+      "posted_at": "2026-10-15T19:21:13.605142+00:00"
+    },
+    "trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec": {
+      "title": "Trump announces Montana 'super range' at midterm rally for Pentagon to test advanced war technology",
+      "slug": "trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
+      "url": "https://ushotnews.online/article/trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
+      "article_url": "https://ushotnews.online/article/trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125002669471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125002669471257",
+      "fb_comment_id": "122125002669471257_3466026906890210",
+      "posted_at": "2026-10-15T19:21:13.605142+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T17:37:42.574871+00:00"
+  "last_cleaned_at": "2026-10-15T19:21:03.535281+00:00"
 }
