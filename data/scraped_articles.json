@@ -1,5 +1,1004 @@
 [
   {
+    "id": "scraped-44b1cfad46",
+    "slug": "microsofts-new-photos-app-combines-your-pc-onedrive-and-icloud-galleries",
+    "guid": "https://www.theverge.com/?p=1012003",
+    "title": "Microsoft’s new Photos app combines your PC, OneDrive, and iCloud galleries",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new combined gallery experience aims to make it easier to manage and view your photos without jumping between apps or devices, while also improving [&#8230;]",
+    "content": [
+      "Microsoft has redesigned its Photos app for Windows 11, overhauling the editor and image viewer, and combining photos and videos from your PC, OneDrive, and iCloud into a single space. The new combined gallery experience aims to make it easier to manage and view your photos without jumping between apps or devices, while also improving [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft’s new Photos app combines your PC, OneDrive, and i... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T14:53:38+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b912d073d0",
+    "slug": "shellys-new-presence-sensor-simultaneously-detects-up-to-10-people-without-a-camera",
+    "guid": "https://www.theverge.com/?p=1011967",
+    "title": "Shelly’s new presence sensor simultaneously detects up to 10 people without a camera",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave radar technology instead of a camera to detect the [&#8230;]",
+    "content": [
+      "Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave radar technology instead of a camera to detect the [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Shelly’s new presence sensor simultaneously detects up to 10... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T15:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6e87242405",
+    "slug": "nvidia-apple-google-microsoft-amazon-and-meta-gave-trump-a-combined-92-million-for-his-bal",
+    "guid": "https://www.theverge.com/?p=1012047",
+    "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contributed. [&#8230;]",
+    "content": [
+      "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contributed. [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trum... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T15:46:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-33c2562f61",
+    "slug": "the-best-reason-to-care-about-nvidias-rtx-spark-everything-will-run-on-arm",
+    "guid": "https://www.theverge.com/?p=1011705",
+    "title": "The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Fourteen years ago this month, Microsoft released an Nvidia-powered Windows PC that would become one of the greatest tech flops in modern history. The original Microsoft Surface, which ran a stripped-down version of Windows on an Nvidia Tegra chip, bombed so hard that Microsoft had to write off $900 million in inventory. The problem was [&#8230;]",
+    "content": [
+      "Fourteen years ago this month, Microsoft released an Nvidia-powered Windows PC that would become one of the greatest tech flops in modern history. The original Microsoft Surface, which ran a stripped-down version of Windows on an Nvidia Tegra chip, bombed so hard that Microsoft had to write off $900 million in inventory. The problem was [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The best reason to care about Nvidia’s RTX Spark: ‘everythin... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T16:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ba97308d2a",
+    "slug": "e-ink-upgraded-the-screen-found-in-most-color-e-readers",
+    "guid": "https://www.theverge.com/?p=1011384",
+    "title": "E Ink upgraded the screen found in most color e-readers",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "E Ink announced the next generation of its Kaleido color e-paper screen technology today, delivering several welcome improvements. The company's existing Kaleido 3 displays can be found in e-readers and tablets from companies like Kobo, PocketBook, and Boox, while Amazon's Kindle Colorsoft uses a customized version to improve performance. The new Kaleido 4 technology addresses [&#8230;]",
+    "content": [
+      "E Ink announced the next generation of its Kaleido color e-paper screen technology today, delivering several welcome improvements. The company's existing Kaleido 3 displays can be found in e-readers and tablets from companies like Kobo, PocketBook, and Boox, while Amazon's Kindle Colorsoft uses a customized version to improve performance. The new Kaleido 4 technology addresses [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "E Ink upgraded the screen found in most color e-readers... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T16:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-137220a2fb",
+    "slug": "friends-don8217t-let-friends-feed-their-data-to-ai-agents",
+    "guid": "https://www.theverge.com/?p=1011938",
+    "title": "Friends don&#8217;t let friends feed their data to AI agents",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
+    "content": [
+      "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Friends don&#8217;t let friends feed their data to AI agents... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T16:21:45+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ccedc61b6d",
+    "slug": "sonys-wh-1000xm6-headphones-are-130-off-today-only",
+    "guid": "https://www.theverge.com/?p=1012173",
+    "title": "Sony’s WH-1000XM6 headphones are $130 off today only",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "If you missed out on Prime Day’s headphones deals, you’re in luck. Sony’s latest flagship headphones are selling for even less than they did during Amazon’s big fall sale. As part of B&#38;H Photo&#8217;s Deals of the Day, you can currently pick up Sony&#8217;s WH-1000XM6 noise-canceling headphones in silver for just $328 at checkout ($130 [&#8230;]",
+    "content": [
+      "If you missed out on Prime Day’s headphones deals, you’re in luck. Sony’s latest flagship headphones are selling for even less than they did during Amazon’s big fall sale. As part of B&#38;H Photo&#8217;s Deals of the Day, you can currently pick up Sony&#8217;s WH-1000XM6 noise-canceling headphones in silver for just $328 at checkout ($130 [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sony’s WH-1000XM6 headphones are $130 off today only... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:10:58+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e00553b096",
+    "slug": "google-is-making-inline-links-more-prominent-in-ai-responses",
+    "guid": "https://www.theverge.com/?p=1012206",
+    "title": "Google is making inline links more prominent in AI responses",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns that the format reduces [&#8230;]",
+    "content": [
+      "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns that the format reduces [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Google is making inline links more prominent in AI responses... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:22:15+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-78c6e8613a",
+    "slug": "inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
+    "guid": "https://www.npr.org/2026/10/15/nx-s1-6002922/inside-the-race-between-elon-musk-and-jeff-bezos-for-control-of-outer-space",
+    "title": "Inside the race between Elon Musk and Jeff Bezos for control of outer space",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.",
+    "content": [
+      "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Inside the race between Elon Musk and Jeff Bezos for control... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T16:45:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-de78351538",
+    "slug": "nba-hall-of-famer-amare-stoudemire-is-now-a-police-officer-after-graduating-from-miami-aca",
+    "guid": "https://www.foxnews.com/outkick-sports/nba-hall-famer-amare-stoudemire-police-officer-graduating-miami-academy",
+    "title": "NBA Hall of Famer Amare Stoudemire is now a police officer after graduating from Miami academy",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Amare Stoudemire graduated from the Miami police academy after a Hall of Fame NBA career, fulfilling a childhood dream rooted in family tradition.",
+    "content": [
+      "Amare Stoudemire graduated from the Miami police academy after a Hall of Fame NBA career, fulfilling a childhood dream rooted in family tradition.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/amare-split-101516.jpg?ve=1&tl=1",
+    "imageCaption": "NBA Hall of Famer Amare Stoudemire is now a police officer a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:02:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a79bd17216",
+    "slug": "nfl-legend-emmitt-smith-defends-taylor-swift-as-her-presence-at-games-draws-ire-of-footbal",
+    "guid": "https://www.foxnews.com/outkick/nfl-legend-emmitt-smith-defends-taylor-swift-presence-games-draws-ire-football-fans",
+    "title": "NFL legend Emmitt Smith defends Taylor Swift as her presence at games draws ire of football fans",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Emmitt Smith said Taylor Swift isn&apos;t seeking camera attention at NFL games and defends her, saying she is just supporting her husband, Travis Kelce.",
+    "content": [
+      "Emmitt Smith said Taylor Swift isn&apos;t seeking camera attention at NFL games and defends her, saying she is just supporting her husband, Travis Kelce.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/travis-kelce-taylor-swift.jpg?ve=1&tl=1",
+    "imageCaption": "NFL legend Emmitt Smith defends Taylor Swift as her presence... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:07:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a03bfa0fc",
+    "slug": "fanatics-sportsbook-promo-code-foxnews350-unlocks-bet-20-get-350-for-game-4-of-dodgers-bre",
+    "guid": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-unlocks-bet-20-get-350-game-4-dodgers-brewers",
+    "title": "Fanatics Sportsbook Promo Code FOXNEWS350 Unlocks Bet $20, Get $350 for Game 4 of Dodgers-Brewers",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 on Dodgers-Brewers Game 4 and earn $350 in FanCash.",
+    "content": [
+      "Fanatics Sportsbook promo code FOXNEWS350 lets new users bet $20 on Dodgers-Brewers Game 4 and earn $350 in FanCash.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/los-angeles-dodgers-mlb-nlcs-oct-14-3.jpg?ve=1&tl=1",
+    "imageCaption": "Fanatics Sportsbook Promo Code FOXNEWS350 Unlocks Bet $20, G... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:08:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3b52825865",
+    "slug": "fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-on-broncos-seahawks-on-tnf",
+    "guid": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-broncos-seahawks-tnf",
+    "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Broncos-Seahawks on TNF",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bet $20 on Broncos-Seahawks Thursday Night Football with Fanatics Sportsbook promo code FOXNEWS350 and earn $350 in FanCash as a new user.",
+    "content": [
+      "Bet $20 on Broncos-Seahawks Thursday Night Football with Fanatics Sportsbook promo code FOXNEWS350 and earn $350 in FanCash as a new user.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/nfl-broncos-jaylen-waddle-091426-1.jpg?ve=1&tl=1",
+    "imageCaption": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:08:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a4cdb30ca5",
+    "slug": "betr-promo-code-foxnews-get-200-in-bonuses-and-four-sweat-free-picks-for-broncos-seahawks",
+    "guid": "https://www.foxnews.com/outkick-betting/betr-promo-code-foxnews-get-200-bonuses-four-sweat-free-picks-broncos-seahawks",
+    "title": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and Four Sweat-Free Picks for Broncos-Seahawks",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Use Betr promo code FOXNEWS for Broncos-Seahawks and get up to $200 in bonuses plus four sweat-free picks as a new user.",
+    "content": [
+      "Use Betr promo code FOXNEWS for Broncos-Seahawks and get up to $200 in bonuses plus four sweat-free picks as a new user.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/sam-darnold-week-1-1.jpg?ve=1&tl=1",
+    "imageCaption": "Betr Promo Code FOXNEWS: Get $200 in Bonuses and Four Sweat-... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:12:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e04e3fd1e0",
+    "slug": "troy-aikman-responds-to-report-of-tensions-in-the-booth-with-joe-buck-over-contract-situat",
+    "guid": "https://www.foxnews.com/outkick-sports/troy-aikman-responds-report-tensions-booth-joe-buck-contract-situation",
+    "title": "Troy Aikman responds to report of tensions in the booth with Joe Buck over contract situation",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Troy Aikman didn&apos;t deny tension with Monday Night Football partner Joe Buck this season, and left little room for possibility he sign new deal with ESPN.",
+    "content": [
+      "Troy Aikman didn&apos;t deny tension with Monday Night Football partner Joe Buck this season, and left little room for possibility he sign new deal with ESPN.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/joe-buck-troy-aikman-cowboys-buccaneers-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Troy Aikman responds to report of tensions in the booth with... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:14:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd2bf5c162",
+    "slug": "lsu-head-coach-lane-kiffin-is-making-the-same-mistake-his-predecessor-did-will-he-suffer-t",
+    "guid": "https://www.foxnews.com/outkick-sports/lsu-head-coach-lane-kiffin-making-same-mistake-predecessor-suffer-same-fate",
+    "title": "LSU head coach Lane Kiffin is making the same mistake his predecessor did, will he suffer the same fate?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Lane Kiffin&apos;s LSU is losing top Louisiana five-star recruits to Florida, Alabama, and even Nebraska, eerily mirroring the failures that sank Brian Kelly.",
+    "content": [
+      "Lane Kiffin&apos;s LSU is losing top Louisiana five-star recruits to Florida, Alabama, and even Nebraska, eerily mirroring the failures that sank Brian Kelly.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lane-kiffin-landry-kiffin-lsu-clemson.jpg?ve=1&tl=1",
+    "imageCaption": "LSU head coach Lane Kiffin is making the same mistake his pr... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:16:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7c9ac07a1b",
+    "slug": "weight-loss-drugs-may-fight-7-serious-health-problems-before-the-pounds-even-come-off",
+    "guid": "https://www.foxnews.com/health/weight-loss-drugs-fight-7-serious-health-problems-before-pounds-come-off",
+    "title": "Weight-loss drugs may fight 7 serious health problems before the pounds even come off",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "GLP-1 medications like semaglutide and tirzepatide are repairing joints, calming inflammation, and protecting vital organs before any weight loss occurs.",
+    "content": [
+      "GLP-1 medications like semaglutide and tirzepatide are repairing joints, calming inflammation, and protecting vital organs before any weight loss occurs.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/glp1-effects.jpg?ve=1&tl=1",
+    "imageCaption": "Weight-loss drugs may fight 7 serious health problems before... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:23:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-48b6560bb2",
+    "slug": "wall-streets-latest-ai-spook-netflix-layoffs-good-debt-and-more-in-morning-squawk",
+    "guid": "108410598",
+    "title": "Wall Street's latest AI spook, Netflix layoffs, 'good debt' and more in Morning Squawk",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "content": [
+      "Here are five key things investors need to know to start the trading day.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Wall Street's latest AI spook, Netflix layoffs, 'good debt' ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T12:32:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2fa3336d95",
+    "slug": "tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks",
+    "guid": "108409225",
+    "title": "Tale of two markets: Our 3 biggest winners and losers over the past five weeks",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "A divided market created big winners and losers. Here's how our stocks fared since the last Monthly Meeting.",
+    "content": [
+      "A divided market created big winners and losers. Here's how our stocks fared since the last Monthly Meeting.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tale of two markets: Our 3 biggest winners and losers over t... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T15:25:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-48821f86aa",
+    "slug": "aws-anthropic-race-to-deploy-army-of-specialized-engineers-key-to-proving-ai-spending-will",
+    "guid": "108403466",
+    "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "AWS, Anthropic, OpenAI and Google are racing to build forward deployed engineering teams as companies seek returns on their AI investments.",
+    "content": [
+      "AWS, Anthropic, OpenAI and Google are racing to build forward deployed engineering teams as companies seek returns on their AI investments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AWS, Anthropic race to deploy army of specialized engineers ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T14:10:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5f52340d31",
+    "slug": "us-treasury-dismisses-imf-debt-warning-and-messy-forecasting",
+    "guid": "108413623",
+    "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+    "content": [
+      "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. Treasury dismisses IMF debt warning and 'messy' forecas... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T13:42:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-33ac535914",
+    "slug": "economists-hot-ppi-shows-feds-work-is-not-done",
+    "guid": "108414488",
+    "title": "Economists: Hot PPI shows Fed's work is not done",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+    "content": [
+      "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Economists: Hot PPI shows Fed's work is not done... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T15:37:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4a8d8fef45",
+    "slug": "tsmc-chip-capacity-is-fierce-battleground-for-ai-customers-amid-record-quarter",
+    "guid": "108407336",
+    "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+    "content": [
+      "TSMC had a record quarter, but it can't make chips for everyone as Nvidia, Apple, Broadcom and AMD fight for capacity.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "TSMC chip capacity is ‘fierce’ battleground for AI customers... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T16:56:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b02d438a63",
+    "slug": "apple-and-meta-team-up-to-make-muse-ai-model-run-on-mac-computers",
+    "guid": "108409340",
+    "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
+    "content": [
+      "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple and Meta team up to make Muse AI model run on Mac comp... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:29:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dd1e3ad7a2",
+    "slug": "us-sues-california-in-fight-over-checking-citizenship-of-mail-voters",
+    "guid": "108415210",
+    "title": "U.S. sues California in fight over checking citizenship of mail voters",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress.",
+    "content": [
+      "The lawsuit by the Trump administration comes less than a month before the midterm election that will determine which party controls both chambers of Congress.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. sues California in fight over checking citizenship of m... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T17:23:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-16474f8e2f",
+    "slug": "coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt",
+    "guid": "108414423",
+    "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
+    "content": [
+      "Signs of distressed deepened in CoreWeave on Thursday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "CoreWeave credit default swaps hit distress levels as invest... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T16:52:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-796b263304",
+    "slug": "southwest-is-overhauling-its-frequent-flyer-program-heres-whats-changing",
+    "guid": "108408158",
+    "title": "Southwest is overhauling its frequent flyer program. Here's what's changing",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
+    "content": [
+      "Southwest Airlines is overhauling its loyalty program and replacing A-List and A-List Preferred with three new tiers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Southwest is overhauling its frequent flyer program. Here's ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-15T14:25:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-35c3b07a76",
     "slug": "big-walk-skipped-xbox-to-boycott-microsofts-involvement-with-israel",
     "guid": "https://www.theverge.com/?p=1011785",
