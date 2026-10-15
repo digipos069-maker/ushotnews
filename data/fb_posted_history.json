@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-15T07:00:29.616727+00:00",
+  "last_updated": "2026-10-15T10:15:23.739921+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-6a8c771e29": {
-      "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
-      "slug": "plenty-is-working-against-this-market-heres-why-im-staying-invested-anyway",
-      "url": "https://ushotnews.online/article/plenty-is-working-against-this-market-heres-why-im-staying-invested-anyway",
-      "article_url": "https://ushotnews.online/article/plenty-is-working-against-this-market-heres-why-im-staying-invested-anyway",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122123510823471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123510823471257",
-      "fb_comment_id": "122123510823471257_1826701415421176",
-      "posted_at": "2026-10-12T09:41:02.424701+00:00"
-    },
-    "plenty-is-working-against-this-market-heres-why-im-staying-invested-anyway": {
-      "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
-      "slug": "plenty-is-working-against-this-market-heres-why-im-staying-invested-anyway",
-      "url": "https://ushotnews.online/article/plenty-is-working-against-this-market-heres-why-im-staying-invested-anyway",
-      "article_url": "https://ushotnews.online/article/plenty-is-working-against-this-market-heres-why-im-staying-invested-anyway",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122123510823471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123510823471257",
-      "fb_comment_id": "122123510823471257_1826701415421176",
-      "posted_at": "2026-10-12T09:41:02.424701+00:00"
-    },
     "scraped-6752596508": {
       "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
       "slug": "judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124769323471257",
       "fb_comment_id": "122124769323471257_1421477612786898",
       "posted_at": "2026-10-15T07:00:29.616655+00:00"
+    },
+    "scraped-cd15fe7ae8": {
+      "title": "DOJ threatens emergency legal action against California over suspected noncitizen voters",
+      "slug": "doj-threatens-emergency-legal-action-against-california-over-suspected-noncitizen-voters",
+      "url": "https://ushotnews.online/article/doj-threatens-emergency-legal-action-against-california-over-suspected-noncitizen-voters",
+      "article_url": "https://ushotnews.online/article/doj-threatens-emergency-legal-action-against-california-over-suspected-noncitizen-voters",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124826803471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124826803471257",
+      "fb_comment_id": "122124826803471257_1391150326089133",
+      "posted_at": "2026-10-15T10:15:23.739846+00:00"
+    },
+    "doj-threatens-emergency-legal-action-against-california-over-suspected-noncitizen-voters": {
+      "title": "DOJ threatens emergency legal action against California over suspected noncitizen voters",
+      "slug": "doj-threatens-emergency-legal-action-against-california-over-suspected-noncitizen-voters",
+      "url": "https://ushotnews.online/article/doj-threatens-emergency-legal-action-against-california-over-suspected-noncitizen-voters",
+      "article_url": "https://ushotnews.online/article/doj-threatens-emergency-legal-action-against-california-over-suspected-noncitizen-voters",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124826803471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124826803471257",
+      "fb_comment_id": "122124826803471257_1391150326089133",
+      "posted_at": "2026-10-15T10:15:23.739846+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T07:00:20.674732+00:00"
+  "last_cleaned_at": "2026-10-15T10:15:13.945956+00:00"
 }
