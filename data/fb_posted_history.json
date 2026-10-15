@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T05:05:05.825138+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-10-15T07:00:29.616727+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-6a8c771e29": {
       "title": "Plenty is working against this market. Here's why I'm staying invested anyway",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124747537471257",
       "fb_comment_id": "122124747537471257_1370142501619538",
       "posted_at": "2026-10-15T05:05:05.825088+00:00"
+    },
+    "scraped-c3de729098": {
+      "title": "FBI arrest leads to maximum 90-year sentence for gymnastics coach who recorded minors at Mississippi gym",
+      "slug": "fbi-arrest-leads-to-maximum-90-year-sentence-for-gymnastics-coach-who-recorded-minors-at-m",
+      "url": "https://ushotnews.online/article/fbi-arrest-leads-to-maximum-90-year-sentence-for-gymnastics-coach-who-recorded-minors-at-m",
+      "article_url": "https://ushotnews.online/article/fbi-arrest-leads-to-maximum-90-year-sentence-for-gymnastics-coach-who-recorded-minors-at-m",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124769323471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124769323471257",
+      "fb_comment_id": "122124769323471257_1421477612786898",
+      "posted_at": "2026-10-15T07:00:29.616655+00:00"
+    },
+    "fbi-arrest-leads-to-maximum-90-year-sentence-for-gymnastics-coach-who-recorded-minors-at-m": {
+      "title": "FBI arrest leads to maximum 90-year sentence for gymnastics coach who recorded minors at Mississippi gym",
+      "slug": "fbi-arrest-leads-to-maximum-90-year-sentence-for-gymnastics-coach-who-recorded-minors-at-m",
+      "url": "https://ushotnews.online/article/fbi-arrest-leads-to-maximum-90-year-sentence-for-gymnastics-coach-who-recorded-minors-at-m",
+      "article_url": "https://ushotnews.online/article/fbi-arrest-leads-to-maximum-90-year-sentence-for-gymnastics-coach-who-recorded-minors-at-m",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124769323471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124769323471257",
+      "fb_comment_id": "122124769323471257_1421477612786898",
+      "posted_at": "2026-10-15T07:00:29.616655+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T05:04:53.402805+00:00"
+  "last_cleaned_at": "2026-10-15T07:00:20.674732+00:00"
 }
