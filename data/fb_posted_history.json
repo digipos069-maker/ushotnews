@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T00:26:28.070475+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-10-15T01:40:21.126504+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-3351efb0f1": {
       "title": "Kim Kardashian finally gives Martin Brundle a Formula 1 interview after snubbing him at the Monaco Grand Prix",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124685377471257",
       "fb_comment_id": "122124685377471257_1707893396979368",
       "posted_at": "2026-10-15T00:26:28.070412+00:00"
+    },
+    "scraped-589578e5c3": {
+      "title": "Tomi Lahren suggests Tony Romo to listen to the advice he gave her during 2016 Trevor Noah backlash",
+      "slug": "tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
+      "url": "https://ushotnews.online/article/tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
+      "article_url": "https://ushotnews.online/article/tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124696681471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124696681471257",
+      "fb_comment_id": "122124696681471257_911994955181722",
+      "posted_at": "2026-10-15T01:40:21.126444+00:00"
+    },
+    "tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah": {
+      "title": "Tomi Lahren suggests Tony Romo to listen to the advice he gave her during 2016 Trevor Noah backlash",
+      "slug": "tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
+      "url": "https://ushotnews.online/article/tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
+      "article_url": "https://ushotnews.online/article/tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124696681471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124696681471257",
+      "fb_comment_id": "122124696681471257_911994955181722",
+      "posted_at": "2026-10-15T01:40:21.126444+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T00:26:14.295149+00:00"
+  "last_cleaned_at": "2026-10-15T01:40:09.488411+00:00"
 }
