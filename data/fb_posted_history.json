@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T20:58:21.135053+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-15T22:38:54.004342+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-e9b623bf01": {
       "title": "Democrats are making corruption messaging a pocketbook issue",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125022463471257",
       "fb_comment_id": "122125022463471257_1664198805146743",
       "posted_at": "2026-10-15T20:58:21.134986+00:00"
+    },
+    "scraped-f89b31d7ad": {
+      "title": "Warriors rookie's reaction to learning he'd guard Lakers superstar Luka Dončić goes viral: 'What the f---?'",
+      "slug": "warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
+      "url": "https://ushotnews.online/article/warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
+      "article_url": "https://ushotnews.online/article/warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125043379471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125043379471257",
+      "fb_comment_id": "122125043379471257_2076752646347128",
+      "posted_at": "2026-10-15T22:38:54.004276+00:00"
+    },
+    "warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh": {
+      "title": "Warriors rookie's reaction to learning he'd guard Lakers superstar Luka Dončić goes viral: 'What the f---?'",
+      "slug": "warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
+      "url": "https://ushotnews.online/article/warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
+      "article_url": "https://ushotnews.online/article/warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125043379471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125043379471257",
+      "fb_comment_id": "122125043379471257_2076752646347128",
+      "posted_at": "2026-10-15T22:38:54.004276+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T20:58:13.622138+00:00"
+  "last_cleaned_at": "2026-10-15T22:38:40.213806+00:00"
 }
