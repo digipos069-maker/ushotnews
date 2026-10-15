@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-15T11:13:25.412221+00:00",
+  "last_updated": "2026-10-15T16:44:44.879558+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1026137": {
-      "title": "MD and VA 29th ID Annual Training Conduct EST & M4 Qualification",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112052461/DOD_112052461.mp4",
-      "attached_website_url": "https://ushotnews.online/article/tropical-storm-rachel-downgraded-as-high-winds-and-rain-turn-inward",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1166546429366591",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1166546429366591",
-      "fb_comment_id": "1166546429366591_1570911331014074",
-      "posted_at": "2026-10-12T15:02:26.720539+00:00"
-    },
     "dvids-video:1026176": {
       "title": "U.S. Southern Command and Panamanian emergency response personnel deliver earthquake relief supplies",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112052923/DOD_112052923.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1607312554181593",
       "fb_comment_id": "1607312554181593_2208723203406995",
       "posted_at": "2026-10-15T11:13:25.412159+00:00"
+    },
+    "dvids-video:1026448": {
+      "title": "BOP Tool Mobile App Demonstration",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112059008/DOD_112059008.mp4",
+      "attached_website_url": "https://ushotnews.online/article/trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "3932502473565910",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3932502473565910",
+      "fb_comment_id": "3932502473565910_2287112562054597",
+      "posted_at": "2026-10-15T16:44:44.879501+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T11:12:03.549334+00:00"
+  "last_cleaned_at": "2026-10-15T16:42:50.652099+00:00"
 }
