@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T22:38:54.004342+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-15T23:37:47.939627+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-e9b623bf01": {
       "title": "Democrats are making corruption messaging a pocketbook issue",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125043379471257",
       "fb_comment_id": "122125043379471257_2076752646347128",
       "posted_at": "2026-10-15T22:38:54.004276+00:00"
+    },
+    "scraped-813aa093cc": {
+      "title": "Washington state's high school sports league puts onus for trans athlete controversy on state laws",
+      "slug": "washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
+      "url": "https://ushotnews.online/article/washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
+      "article_url": "https://ushotnews.online/article/washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125059933471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125059933471257",
+      "fb_comment_id": "122125059933471257_1426503122146707",
+      "posted_at": "2026-10-15T23:37:47.939552+00:00"
+    },
+    "washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta": {
+      "title": "Washington state's high school sports league puts onus for trans athlete controversy on state laws",
+      "slug": "washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
+      "url": "https://ushotnews.online/article/washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
+      "article_url": "https://ushotnews.online/article/washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125059933471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125059933471257",
+      "fb_comment_id": "122125059933471257_1426503122146707",
+      "posted_at": "2026-10-15T23:37:47.939552+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T22:38:40.213806+00:00"
+  "last_cleaned_at": "2026-10-15T23:37:37.303831+00:00"
 }
