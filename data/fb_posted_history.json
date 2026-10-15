@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-15T10:15:23.739921+00:00",
+  "last_updated": "2026-10-15T12:36:59.433189+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-6752596508": {
-      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-      "slug": "judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
-      "url": "https://ushotnews.online/article/judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
-      "article_url": "https://ushotnews.online/article/judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122123525445471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123525445471257",
-      "fb_comment_id": "122123525445471257_2024035618314011",
-      "posted_at": "2026-10-12T10:17:23.935548+00:00"
-    },
-    "judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads": {
-      "title": "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-      "slug": "judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
-      "url": "https://ushotnews.online/article/judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
-      "article_url": "https://ushotnews.online/article/judge-orders-trump-administration-to-immediately-stop-taxpayer-funded-tv-ads",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122123525445471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122123525445471257",
-      "fb_comment_id": "122123525445471257_2024035618314011",
-      "posted_at": "2026-10-12T10:17:23.935548+00:00"
-    },
     "scraped-b1bbbfef95": {
       "title": "The blue wave looks real until you look a little closer",
       "slug": "the-blue-wave-looks-real-until-you-look-a-little-closer",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124826803471257",
       "fb_comment_id": "122124826803471257_1391150326089133",
       "posted_at": "2026-10-15T10:15:23.739846+00:00"
+    },
+    "scraped-c0bc0db9ef": {
+      "title": "Trump torches Democrats at Arizona rally, warns they will ‘destroy our country’ ahead of midterms",
+      "slug": "trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
+      "url": "https://ushotnews.online/article/trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
+      "article_url": "https://ushotnews.online/article/trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124875229471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124875229471257",
+      "fb_comment_id": "122124875229471257_1124557973598965",
+      "posted_at": "2026-10-15T12:36:59.433127+00:00"
+    },
+    "trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt": {
+      "title": "Trump torches Democrats at Arizona rally, warns they will ‘destroy our country’ ahead of midterms",
+      "slug": "trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
+      "url": "https://ushotnews.online/article/trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
+      "article_url": "https://ushotnews.online/article/trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122124875229471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124875229471257",
+      "fb_comment_id": "122124875229471257_1124557973598965",
+      "posted_at": "2026-10-15T12:36:59.433127+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T10:15:13.945956+00:00"
+  "last_cleaned_at": "2026-10-15T12:36:49.184549+00:00"
 }
