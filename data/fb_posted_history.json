@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T23:37:47.939627+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-16T01:11:22.501256+00:00",
+  "posted_count": 60,
   "articles": {
     "scraped-e9b623bf01": {
       "title": "Democrats are making corruption messaging a pocketbook issue",
@@ -639,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125059933471257",
       "fb_comment_id": "122125059933471257_1426503122146707",
       "posted_at": "2026-10-15T23:37:47.939552+00:00"
+    },
+    "scraped-72d66615ec": {
+      "title": "Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires",
+      "slug": "jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
+      "url": "https://ushotnews.online/article/jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
+      "article_url": "https://ushotnews.online/article/jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125087287471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125087287471257",
+      "fb_comment_id": "122125087287471257_1121546340774160",
+      "posted_at": "2026-10-16T01:11:22.501199+00:00"
+    },
+    "jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b": {
+      "title": "Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires",
+      "slug": "jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
+      "url": "https://ushotnews.online/article/jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
+      "article_url": "https://ushotnews.online/article/jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125087287471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125087287471257",
+      "fb_comment_id": "122125087287471257_1121546340774160",
+      "posted_at": "2026-10-16T01:11:22.501199+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T23:37:37.303831+00:00"
+  "last_cleaned_at": "2026-10-16T01:11:10.168326+00:00"
 }
