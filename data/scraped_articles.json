@@ -1,5 +1,930 @@
 [
   {
+    "id": "scraped-21db5f2680",
+    "slug": "haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+    "guid": "000001a1-4266-d058-adf3-6a6ef3490000",
+    "title": "Haley Stevens is everywhere — except on the trail for El-Sayed",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The former Senate candidate has endorsed her former primary foe — but not pushing hard for former backers to do the same",
+    "content": [
+      "The former Senate candidate has endorsed her former primary foe — but not pushing hard for former backers to do the same",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/71/78/4f600d094e84bf45de84f6457bea/08-04-2026-michigan-stevens-020.jpg",
+    "imageCaption": "Haley Stevens is everywhere — except on the trail for El-Say... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T09:55:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a078d5f5be",
+    "slug": "time-is-a-changin-say-goodbye-to-the-leap-second",
+    "guid": "https://www.theverge.com/?p=1012689",
+    "title": "Time is a-changin’: say goodbye to the leap second",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards mirror the Earth's real [&#8230;]",
+    "content": [
+      "An important change will soon be made to global timekeeping that aims to prevent potential infrastructure failures akin to the Y2K bug scare. On Thursday, the International Bureau of Weights and Measures (BIPM) voted to scrap the leap second, an ad hoc time adjustment that's occasionally added so tracked time standards mirror the Earth's real [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Time is a-changin’: say goodbye to the leap second... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T10:00:25+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ec73467c5e",
+    "slug": "surface-laptop-ultra-review-a-different-kind-of-macbook-pro",
+    "guid": "https://www.theverge.com/?p=1012628",
+    "title": "Surface Laptop Ultra review: a different kind of MacBook Pro",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "After setting up Microsoft's Surface Laptop Ultra, I spent five minutes just staring at it. I wasn't surprised by its MacBook Pro-like design or blown away by its bright display. I was trying to work out what I'd actually do with a $5,900 laptop. This isn't just any regular Windows laptop. Microsoft has teamed up [&#8230;]",
+    "content": [
+      "After setting up Microsoft's Surface Laptop Ultra, I spent five minutes just staring at it. I wasn't surprised by its MacBook Pro-like design or blown away by its bright display. I was trying to work out what I'd actually do with a $5,900 laptop. This isn't just any regular Windows laptop. Microsoft has teamed up [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Surface Laptop Ultra review: a different kind of MacBook Pro... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9801507dd3",
+    "slug": "the-iphone-duo-is-now-available-to-preorder-at-1999",
+    "guid": "https://www.theverge.com/?p=988582",
+    "title": "The iPhone Duo is now available to preorder at $1,999",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Few phones have been more anticipated than a foldable iPhone, but it's finally here. The iPhone Duo was unveiled during Apple's \"Surprise and shine\" event alongside the iPhone 18 Pro and the Apple Watch Series 12 and Ultra 4 models. Apple's first foldable has a 5.4-inch outer screen, and it unfolds to show off its [&#8230;]",
+    "content": [
+      "Few phones have been more anticipated than a foldable iPhone, but it's finally here. The iPhone Duo was unveiled during Apple's \"Surprise and shine\" event alongside the iPhone 18 Pro and the Apple Watch Series 12 and Ultra 4 models. Apple's first foldable has a 5.4-inch outer screen, and it unfolds to show off its [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The iPhone Duo is now available to preorder at $1,999... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cfe2908025",
+    "slug": "the-first-vibe-coded-gun-is-here",
+    "guid": "https://www.theverge.com/?p=1011950",
+    "title": "The first vibe-coded gun is here",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the first AI-made gun.\" It's called the WASP. I stood about 20 feet away as Wilson and his sidekick clamped the WASP to [&#8230;]",
+    "content": [
+      "Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the first AI-made gun.\" It's called the WASP. I stood about 20 feet away as Wilson and his sidekick clamped the WASP to [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The first vibe-coded gun is here... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a39fc93632",
+    "slug": "the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17",
+    "guid": "https://www.theverge.com/?p=1012789",
+    "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the Xperia 10 VI [&#8230;]",
+    "content": [
+      "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the Xperia 10 VI [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Sony Xperia 10 VI won’t be getting a promised update to ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:36:11+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-020d0dfac7",
+    "slug": "iphone-duo-orders-are-already-delayed-into-2027",
+    "guid": "https://www.theverge.com/?p=1012805",
+    "title": "iPhone Duo orders are already delayed into 2027",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on October 23rd, [&#8230;]",
+    "content": [
+      "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. The foldable is slated to launch in stores on October 23rd, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "iPhone Duo orders are already delayed into 2027... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T13:10:11+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f3e80adef4",
+    "slug": "do-americans-own-the-presidents-papers-appeals-court-to-weigh-in",
+    "guid": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
+    "title": "Do Americans own the president's papers? Appeals court to weigh in",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.",
+    "content": [
+      "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Do Americans own the president's papers? Appeals court to we... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-489eff9c89",
+    "slug": "how-much-money-has-musk-given-to-republican-groups-since-july-the-quiz-knows",
+    "guid": "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz",
+    "title": "How much money has Musk given to Republican groups since July? The quiz knows",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Plus, this week saw comings and goings at the White House, the revenge of a child (reality) star, and Elon Musk doing Elon Musk things.",
+    "content": [
+      "Plus, this week saw comings and goings at the White House, the revenge of a child (reality) star, and Elon Musk doing Elon Musk things.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How much money has Musk given to Republican groups since Jul... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a0d3c5d19c",
+    "slug": "remembering-oscar-winning-actor-eva-marie-saint",
+    "guid": "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint",
+    "title": "Remembering Oscar-winning actor Eva Marie Saint",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Saint, who died Oct. 6, studied at the Actors Studio and was best known for her roles in On the Waterfront and the Hitchcock film North by Northwest. Originally broadcast in 2000.",
+    "content": [
+      "Saint, who died Oct. 6, studied at the Actors Studio and was best known for her roles in On the Waterfront and the Hitchcock film North by Northwest. Originally broadcast in 2000.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Remembering Oscar-winning actor Eva Marie Saint... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-429ce46a06",
+    "slug": "everything-got-worse-gen-z-express-frustration-regret-after-trump-vote",
+    "guid": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
+    "title": "'Everything got worse': Gen Z express frustration, regret after Trump vote",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A focus group of eight Gen Z Trump voters reported feeling unhappy or disappointed with the state of politics, with some going as far as to say they regret supporting him in 2024.",
+    "content": [
+      "A focus group of eight Gen Z Trump voters reported feeling unhappy or disappointed with the state of politics, with some going as far as to say they regret supporting him in 2024.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'Everything got worse': Gen Z express frustration, regret af... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a40668dc2",
+    "slug": "what-this-bankruptcy-says-about-ai-startups",
+    "guid": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups",
+    "title": "What this bankruptcy says about AI startups",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Character.AI collected millions of users, making it a very appealing acquisition. Google took a unique route to \"acquiring\" it, hiring away its founders and licensing its technology. Now Character.AI is filing for bankruptcy. Here's what to know.",
+    "content": [
+      "Character.AI collected millions of users, making it a very appealing acquisition. Google took a unique route to \"acquiring\" it, hiring away its founders and licensing its technology. Now Character.AI is filing for bankruptcy. Here's what to know.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What this bankruptcy says about AI startups... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T11:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6d283e9f4f",
+    "slug": "teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
+    "guid": "https://www.npr.org/2026/10/16/g-s1-148373/up-first-newsletter-bend-oregon-school-shooting-california-doj-voters-presidential-papers",
+    "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters.",
+    "content": [
+      "A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Teen kills 4 at Oregon school. And, DOJ sues California over... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T11:03:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-79d2294693",
+    "slug": "sally-rooneys-books-will-no-longer-be-sold-in-uk-after-palestinian-action-support",
+    "guid": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
+    "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
+    "content": [
+      "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sally Rooney's books will no longer be sold in U.K. after Pa... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T11:30:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-16664c62b4",
+    "slug": "bystander-fatally-shoots-suspected-teen-gunman-in-deadly-elementary-school-shooting-and-mo",
+    "guid": "https://www.foxnews.com/us/bystander-fatally-shoots-suspected-teen-gunman-deadly-elementary-school-shooting-more-top-headlines",
+    "title": "Bystander fatally shoots suspected teen gunman in deadly elementary school shooting and more top headlines",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+    "content": [
+      "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/3-24.png?ve=1&tl=1",
+    "imageCaption": "Bystander fatally shoots suspected teen gunman in deadly ele... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T11:46:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7ff198de48",
+    "slug": "suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn",
+    "guid": "https://www.foxnews.com/us/suspected-florida-publix-slasher-walked-free-court-months-earlier-despite-victim-warnings",
+    "title": "Suspected Florida Publix slasher walked free from court months earlier despite victim warnings",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ramsey Thomas Lyons allegedly slashed a 70-year-old Publix shopper with a box cutter months after a mental health court ended his probation early.",
+    "content": [
+      "Ramsey Thomas Lyons allegedly slashed a 70-year-old Publix shopper with a box cutter months after a mental health court ended his probation early.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Florida-Publix-slashing-suspect.jpg?ve=1&tl=1",
+    "imageCaption": "Suspected Florida Publix slasher walked free from court mont... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:00:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-948377dc57",
+    "slug": "archaeologists-uncover-unexpected-twist-in-shipwreck-mystery-after-clues-dont-add-up",
+    "guid": "https://www.foxnews.com/travel/archaeologists-uncover-unexpected-twist-shipwreck-mystery-clues-dont-add-up",
+    "title": "Archaeologists uncover unexpected twist in shipwreck mystery after clues don't add up",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A recent nor&apos;easter exposed a historic shipwreck on Nantucket&apos;s shore, but archaeologists say the wreckage isn&apos;t the Warren Sawyer schooner as they originally thought.",
+    "content": [
+      "A recent nor&apos;easter exposed a historic shipwreck on Nantucket&apos;s shore, but archaeologists say the wreckage isn&apos;t the Warren Sawyer schooner as they originally thought.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/MA-NANTUCKET-WARREN-SAWYER-SHIP-MYSTERY-HISTORY-ARCHAEOLOGY-DISCOVERY-2.jpg?ve=1&tl=1",
+    "imageCaption": "Archaeologists uncover unexpected twist in shipwreck mystery... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:00:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d1979a92c6",
+    "slug": "trumps-capitol-hill-whisperer-reveals-secrets-to-presidents-dealmaking-as-he-heads-for-exi",
+    "guid": "https://www.foxnews.com/politics/trumps-capitol-hill-whisperer-reveals-secrets-presidents-deal-making-he-heads-exit",
+    "title": "Trump's Capitol Hill whisperer reveals secrets to president's dealmaking as he heads for exit",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "James Braid spoke with Fox News Digital about his work the last two years on his way out of the Trump administration.",
+    "content": [
+      "James Braid spoke with Fox News Digital about his work the last two years on his way out of the Trump administration.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/james-braid-at-white-house-3.jpg?ve=1&tl=1",
+    "imageCaption": "Trump's Capitol Hill whisperer reveals secrets to president'... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:02:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-efb67ba005",
+    "slug": "joe-manganiello-says-a-shaman-told-him-sofia-vergaras-ex-put-a-voodoo-curse-on-him",
+    "guid": "https://www.foxnews.com/entertainment/joe-manganiello-says-shaman-told-him-sofia-vergaras-ex-put-voodoo-curse-him",
+    "title": "Joe Manganiello says a shaman told him Sofia Vergara's ex 'put a voodoo curse' on him",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Joe Manganiello&apos;s memoir Bloodlines reveals a voodoo curse claim, a $200,000 surrogate attempt and Tom Cruise&apos;s alleged role in his career.",
+    "content": [
+      "Joe Manganiello&apos;s memoir Bloodlines reveals a voodoo curse claim, a $200,000 surrogate attempt and Tom Cruise&apos;s alleged role in his career.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/joe_001.jpg?ve=1&tl=1",
+    "imageCaption": "Joe Manganiello says a shaman told him Sofia Vergara's ex 'p... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T13:00:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7094be2d12",
+    "slug": "ryan-fitzpatrick-unloads-on-bo-nix-after-horrific-performance-in-one-of-the-most-brutal-ra",
+    "guid": "https://www.foxnews.com/outkick-sports/ryan-fitzpatrick-unloads-bo-nix-horrific-performance-brutal-rants-youll-hear",
+    "title": "Ryan Fitzpatrick unloads on Bo Nix after horrific performance in one of the most brutal rants you'll ever hear",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ryan Fitzpatrick says Bo Nix is not playing competitive football after the Denver Broncos&apos; overtime win, calling it disrespectful to the position.",
+    "content": [
+      "Ryan Fitzpatrick says Bo Nix is not playing competitive football after the Denver Broncos&apos; overtime win, calling it disrespectful to the position.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bo-nix-broncos-seahawks-overtime-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Ryan Fitzpatrick unloads on Bo Nix after horrific performanc... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T13:02:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b55e6ad9de",
+    "slug": "democrats-call-for-gun-control-after-oregon-school-shooter-reportedly-uses-shotgun-purchas",
+    "guid": "https://www.foxnews.com/politics/democrats-call-gun-control-oregon-school-shooter-shotgun-purchased-mother",
+    "title": "Democrats call for gun control after Oregon school shooter reportedly uses shotgun purchased by his mother",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A 16-year-old gunman broke into Silver Rail Elementary School in Bend, Oregon, killing three children and a teacher before an armed bystander intervened.",
+    "content": [
+      "A 16-year-old gunman broke into Silver Rail Elementary School in Bend, Oregon, killing three children and a teacher before an armed bystander intervened.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/oregon-dems-gun-control-split.jpg?ve=1&tl=1",
+    "imageCaption": "Democrats call for gun control after Oregon school shooter r... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T13:12:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3afb25a146",
+    "slug": "teslas-roadster-reveal-apple-and-meta-team-up-nikes-india-push-and-more-in-morning-squawk",
+    "guid": "108416018",
+    "title": "Tesla's Roadster reveal, Apple and Meta team up, Nike's India push and more in Morning Squawk",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Here are five key things investors need to know to start the trading day.",
+    "content": [
+      "Here are five key things investors need to know to start the trading day.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tesla's Roadster reveal, Apple and Meta team up, Nike's Indi... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:38:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-27a5def0ae",
+    "slug": "stock-fixing-scandal-could-see-turkish-companies-frozen-out-of-global-indexes",
+    "guid": "108419278",
+    "title": "Stock fixing scandal could see Turkish companies frozen out of global indexes",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Turkey's status as an emerging market is also at risk.",
+    "content": [
+      "Turkey's status as an emerging market is also at risk.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Stock fixing scandal could see Turkish companies frozen out ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:58:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8650cce2a4",
+    "slug": "europes-answer-to-spacex-pops-19-as-ukraines-starshield-limits-raise-concerns",
+    "guid": "108418812",
+    "title": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield limits raise concerns",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+    "content": [
+      "Eutelsat's shares soared this week and continued climbing on Friday as its competitor Starshield drew criticism over its limitations in Ukraine.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Europe's answer to SpaceX pops 19% as Ukraine's Starshield l... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T12:16:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-45da8bc460",
+    "slug": "norways-2-trillion-wealth-fund-was-frozen-out-of-major-defense-companies-that-may-be-about",
+    "guid": "108418811",
+    "title": "Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Existing ethical rules mean the fund is not permitted to invest in companies like Lockheed Martin and Boeing.",
+    "content": [
+      "Existing ethical rules mean the fund is not permitted to invest in companies like Lockheed Martin and Boeing.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Norway's $2 trillion wealth fund was frozen out of major def... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-16T10:56:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-a49a241d2e",
     "slug": "inside-the-democratic-socialists-plan-to-shake-up-congress",
     "guid": "000001a1-40f4-d787-a9a1-f8f5351b0000",
