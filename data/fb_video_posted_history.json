@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T17:56:13.954550+00:00",
-  "posted_count": 14,
+  "last_updated": "2026-10-16T20:49:47.535836+00:00",
+  "posted_count": 15,
   "articles": {
     "dvids-video:1026266": {
       "title": "Navy 251st Birthday Marked by NAVSUP WSS",
@@ -155,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2005803273463432",
       "fb_comment_id": "2005803273463432_1768992244932327",
       "posted_at": "2026-10-16T17:56:13.954499+00:00"
+    },
+    "dvids-video:1026616": {
+      "title": "SW Hosts UK Defence Minister",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112075151/DOD_112075151.mp4",
+      "attached_website_url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "3400803186789970",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3400803186789970",
+      "fb_comment_id": "3400803186789970_1357682152920904",
+      "posted_at": "2026-10-16T20:49:47.535770+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T17:55:06.789400+00:00"
+  "last_cleaned_at": "2026-10-16T20:48:17.575231+00:00"
 }
