@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-16T20:33:25.522763+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-10-16T22:45:33.339806+00:00",
+  "posted_count": 64,
   "articles": {
-    "scraped-a2e99da7f2": {
-      "title": "Transgender woman accused of killing man after separate feud over McDonald's bathroom use",
-      "slug": "transgender-woman-accused-of-killing-man-after-separate-feud-over-mcdonalds-bathroom-use",
-      "url": "https://ushotnews.online/article/transgender-woman-accused-of-killing-man-after-separate-feud-over-mcdonalds-bathroom-use",
-      "article_url": "https://ushotnews.online/article/transgender-woman-accused-of-killing-man-after-separate-feud-over-mcdonalds-bathroom-use",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124251889471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124251889471257",
-      "fb_comment_id": "122124251889471257_1819863215872344",
-      "posted_at": "2026-10-13T21:45:15.648483+00:00"
-    },
-    "transgender-woman-accused-of-killing-man-after-separate-feud-over-mcdonalds-bathroom-use": {
-      "title": "Transgender woman accused of killing man after separate feud over McDonald's bathroom use",
-      "slug": "transgender-woman-accused-of-killing-man-after-separate-feud-over-mcdonalds-bathroom-use",
-      "url": "https://ushotnews.online/article/transgender-woman-accused-of-killing-man-after-separate-feud-over-mcdonalds-bathroom-use",
-      "article_url": "https://ushotnews.online/article/transgender-woman-accused-of-killing-man-after-separate-feud-over-mcdonalds-bathroom-use",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124251889471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124251889471257",
-      "fb_comment_id": "122124251889471257_1819863215872344",
-      "posted_at": "2026-10-13T21:45:15.648483+00:00"
-    },
-    "scraped-02a7c4a268": {
-      "title": "Google finally releases Gemini 4 Argon",
-      "slug": "google-finally-releases-gemini-4-argon",
-      "url": "https://ushotnews.online/article/google-finally-releases-gemini-4-argon",
-      "article_url": "https://ushotnews.online/article/google-finally-releases-gemini-4-argon",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124268425471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124268425471257",
-      "fb_comment_id": "122124268425471257_1634591718447003",
-      "posted_at": "2026-10-13T21:56:50.155690+00:00"
-    },
-    "google-finally-releases-gemini-4-argon": {
-      "title": "Google finally releases Gemini 4 Argon",
-      "slug": "google-finally-releases-gemini-4-argon",
-      "url": "https://ushotnews.online/article/google-finally-releases-gemini-4-argon",
-      "article_url": "https://ushotnews.online/article/google-finally-releases-gemini-4-argon",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124268425471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124268425471257",
-      "fb_comment_id": "122124268425471257_1634591718447003",
-      "posted_at": "2026-10-13T21:56:50.155690+00:00"
-    },
     "scraped-9006aee00c": {
       "title": "Eric Church spills Eli Manning's embarrassing fishing secret while out on the water with Randy Moss",
       "slug": "eric-church-spills-eli-mannings-embarrassing-fishing-secret-while-out-on-the-water-with-ra",
@@ -727,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125351359471257",
       "fb_comment_id": "122125351359471257_1499725881962613",
       "posted_at": "2026-10-16T20:33:25.522693+00:00"
+    },
+    "scraped-7ff198de48": {
+      "title": "Suspected Florida Publix slasher walked free from court months earlier despite victim warnings",
+      "slug": "suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn",
+      "url": "https://ushotnews.online/article/suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn",
+      "article_url": "https://ushotnews.online/article/suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125378629471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125378629471257",
+      "fb_comment_id": "122125378629471257_1412654067723826",
+      "posted_at": "2026-10-16T22:45:33.339717+00:00"
+    },
+    "suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn": {
+      "title": "Suspected Florida Publix slasher walked free from court months earlier despite victim warnings",
+      "slug": "suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn",
+      "url": "https://ushotnews.online/article/suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn",
+      "article_url": "https://ushotnews.online/article/suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125378629471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125378629471257",
+      "fb_comment_id": "122125378629471257_1412654067723826",
+      "posted_at": "2026-10-16T22:45:33.339717+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T20:33:14.654776+00:00"
+  "last_cleaned_at": "2026-10-16T22:45:23.406324+00:00"
 }
