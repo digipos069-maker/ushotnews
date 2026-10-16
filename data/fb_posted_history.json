@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T03:18:30.901474+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-16T06:18:00.170392+00:00",
+  "posted_count": 60,
   "articles": {
     "scraped-c308e1b53b": {
       "title": "MAGA Inc. plots final midterm money moves",
@@ -639,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125106721471257",
       "fb_comment_id": "122125106721471257_1567932058441904",
       "posted_at": "2026-10-16T03:18:30.901426+00:00"
+    },
+    "scraped-798f7ca874": {
+      "title": "Experimental skin cream linked to 2-year drop in biological age in early study",
+      "slug": "experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
+      "url": "https://ushotnews.online/article/experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
+      "article_url": "https://ushotnews.online/article/experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125135893471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125135893471257",
+      "fb_comment_id": "122125135893471257_1650628806775751",
+      "posted_at": "2026-10-16T06:18:00.170295+00:00"
+    },
+    "experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study": {
+      "title": "Experimental skin cream linked to 2-year drop in biological age in early study",
+      "slug": "experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
+      "url": "https://ushotnews.online/article/experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
+      "article_url": "https://ushotnews.online/article/experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125135893471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125135893471257",
+      "fb_comment_id": "122125135893471257_1650628806775751",
+      "posted_at": "2026-10-16T06:18:00.170295+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T03:18:21.308305+00:00"
+  "last_cleaned_at": "2026-10-16T06:17:44.725978+00:00"
 }
