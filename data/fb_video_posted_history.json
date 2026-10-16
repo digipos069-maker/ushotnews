@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T21:11:40.770303+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-10-16T00:12:00.917373+00:00",
+  "posted_count": 13,
   "articles": {
     "dvids-video:1026176": {
       "title": "U.S. Southern Command and Panamanian emergency response personnel deliver earthquake relief supplies",
@@ -133,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4439172289683201",
       "fb_comment_id": "4439172289683201_1636519241154889",
       "posted_at": "2026-10-15T21:11:40.770224+00:00"
+    },
+    "dvids-video:1026534": {
+      "title": "17th FAB Conducts Unmanned Aerial Systems Training",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112066156/DOD_112066156.mp4",
+      "attached_website_url": "https://ushotnews.online/article/2-women-accuse-matt-gaetz-of-sex-trafficking-in-new-lawsuit",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1425570118957352",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1425570118957352",
+      "fb_comment_id": "1425570118957352_2176020166652173",
+      "posted_at": "2026-10-16T00:12:00.917309+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-15T21:11:05.865661+00:00"
+  "last_cleaned_at": "2026-10-16T00:10:48.142014+00:00"
 }
