@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T11:50:33.971705+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-10-16T13:26:20.522305+00:00",
+  "posted_count": 62,
   "articles": {
     "scraped-7d7194e2b9": {
       "title": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
@@ -661,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125210677471257",
       "fb_comment_id": "122125210677471257_1470775258233451",
       "posted_at": "2026-10-16T11:50:33.971644+00:00"
+    },
+    "scraped-87f5057073": {
+      "title": "Trans neo-Nazi accused of plotting Hindu temple massacre, will receive hormone treatment in jail: officials",
+      "slug": "trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
+      "url": "https://ushotnews.online/article/trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
+      "article_url": "https://ushotnews.online/article/trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125236333471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125236333471257",
+      "fb_comment_id": "122125236333471257_1419466032988772",
+      "posted_at": "2026-10-16T13:26:20.522230+00:00"
+    },
+    "trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in": {
+      "title": "Trans neo-Nazi accused of plotting Hindu temple massacre, will receive hormone treatment in jail: officials",
+      "slug": "trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
+      "url": "https://ushotnews.online/article/trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
+      "article_url": "https://ushotnews.online/article/trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125236333471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125236333471257",
+      "fb_comment_id": "122125236333471257_1419466032988772",
+      "posted_at": "2026-10-16T13:26:20.522230+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T11:50:17.458588+00:00"
+  "last_cleaned_at": "2026-10-16T13:26:09.751897+00:00"
 }
