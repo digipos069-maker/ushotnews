@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T06:57:06.429570+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-10-16T13:09:27.173967+00:00",
+  "posted_count": 14,
   "articles": {
     "dvids-video:1026231": {
       "title": "AUSA 2026 | LTG Harter",
@@ -144,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1113512664427409",
       "fb_comment_id": "1113512664427409_1467381248569600",
       "posted_at": "2026-10-16T06:57:06.429509+00:00"
+    },
+    "dvids-video:1026571": {
+      "title": "SOCEUR Interview - TSOLO",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112071191/DOD_112071191.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-tesla-roadster-flew-drove-upside-down-and-hit-60mph-in-under-a-second",
+      "trending_score": 100.0,
+      "format": "video",
+      "fb_video_id": "1129523759611000",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1129523759611000",
+      "fb_comment_id": "1129523759611000_1460289949293319",
+      "posted_at": "2026-10-16T13:09:27.173902+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T06:56:12.687834+00:00"
+  "last_cleaned_at": "2026-10-16T13:07:59.315649+00:00"
 }
