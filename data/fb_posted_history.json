@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T06:18:00.170392+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-10-16T08:25:22.529474+00:00",
+  "posted_count": 62,
   "articles": {
     "scraped-c308e1b53b": {
       "title": "MAGA Inc. plots final midterm money moves",
@@ -661,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125135893471257",
       "fb_comment_id": "122125135893471257_1650628806775751",
       "posted_at": "2026-10-16T06:18:00.170295+00:00"
+    },
+    "scraped-f5cd39f516": {
+      "title": "Steam can now show game achievements in separate ‘sets’",
+      "slug": "steam-can-now-show-game-achievements-in-separate-sets",
+      "url": "https://ushotnews.online/article/steam-can-now-show-game-achievements-in-separate-sets",
+      "article_url": "https://ushotnews.online/article/steam-can-now-show-game-achievements-in-separate-sets",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125158939471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125158939471257",
+      "fb_comment_id": "122125158939471257_2172004493350725",
+      "posted_at": "2026-10-16T08:25:22.529371+00:00"
+    },
+    "steam-can-now-show-game-achievements-in-separate-sets": {
+      "title": "Steam can now show game achievements in separate ‘sets’",
+      "slug": "steam-can-now-show-game-achievements-in-separate-sets",
+      "url": "https://ushotnews.online/article/steam-can-now-show-game-achievements-in-separate-sets",
+      "article_url": "https://ushotnews.online/article/steam-can-now-show-game-achievements-in-separate-sets",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125158939471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125158939471257",
+      "fb_comment_id": "122125158939471257_2172004493350725",
+      "posted_at": "2026-10-16T08:25:22.529371+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T06:17:44.725978+00:00"
+  "last_cleaned_at": "2026-10-16T08:25:09.649087+00:00"
 }
