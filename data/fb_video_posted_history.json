@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-16T13:09:27.173967+00:00",
+  "last_updated": "2026-10-16T17:56:13.954550+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1026231": {
-      "title": "AUSA 2026 | LTG Harter",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112054309/DOD_112054309.mp4",
-      "attached_website_url": "https://ushotnews.online/article/actor-selma-blair-removed-from-plane-by-police-after-altercation",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1422276749275710",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1422276749275710",
-      "fb_comment_id": "1422276749275710_1809113840373791",
-      "posted_at": "2026-10-13T15:49:06.589725+00:00"
-    },
     "dvids-video:1026266": {
       "title": "Navy 251st Birthday Marked by NAVSUP WSS",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055114/DOD_112055114.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1129523759611000",
       "fb_comment_id": "1129523759611000_1460289949293319",
       "posted_at": "2026-10-16T13:09:27.173902+00:00"
+    },
+    "dvids-video:1026624": {
+      "title": "Warrant Officer Frank Patterson - Minnesota Vikings Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112076486/DOD_112076486.mp4",
+      "attached_website_url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2005803273463432",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2005803273463432",
+      "fb_comment_id": "2005803273463432_1768992244932327",
+      "posted_at": "2026-10-16T17:56:13.954499+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T13:07:59.315649+00:00"
+  "last_cleaned_at": "2026-10-16T17:55:06.789400+00:00"
 }
