@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-16T08:25:22.529474+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-16T11:50:33.971705+00:00",
+  "posted_count": 60,
   "articles": {
-    "scraped-c308e1b53b": {
-      "title": "MAGA Inc. plots final midterm money moves",
-      "slug": "maga-inc-plots-final-midterm-money-moves",
-      "url": "https://ushotnews.online/article/maga-inc-plots-final-midterm-money-moves",
-      "article_url": "https://ushotnews.online/article/maga-inc-plots-final-midterm-money-moves",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124024321471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124024321471257",
-      "fb_comment_id": null,
-      "posted_at": "2026-10-13T08:59:41.208693+00:00"
-    },
-    "maga-inc-plots-final-midterm-money-moves": {
-      "title": "MAGA Inc. plots final midterm money moves",
-      "slug": "maga-inc-plots-final-midterm-money-moves",
-      "url": "https://ushotnews.online/article/maga-inc-plots-final-midterm-money-moves",
-      "article_url": "https://ushotnews.online/article/maga-inc-plots-final-midterm-money-moves",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124024321471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124024321471257",
-      "fb_comment_id": null,
-      "posted_at": "2026-10-13T08:59:41.208693+00:00"
-    },
-    "scraped-4ea87a0547": {
-      "title": "Dodgers dynasty on the brink after the Milwaukee BABIP machine dials up another win for Brewers",
-      "slug": "dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
-      "url": "https://ushotnews.online/article/dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
-      "article_url": "https://ushotnews.online/article/dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124028899471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124028899471257",
-      "fb_comment_id": "122124028899471257_1445571751007278",
-      "posted_at": "2026-10-13T09:18:34.729806+00:00"
-    },
-    "dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br": {
-      "title": "Dodgers dynasty on the brink after the Milwaukee BABIP machine dials up another win for Brewers",
-      "slug": "dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
-      "url": "https://ushotnews.online/article/dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
-      "article_url": "https://ushotnews.online/article/dodgers-dynasty-on-the-brink-after-the-milwaukee-babip-machine-dials-up-another-win-for-br",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124028899471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124028899471257",
-      "fb_comment_id": "122124028899471257_1445571751007278",
-      "posted_at": "2026-10-13T09:18:34.729806+00:00"
-    },
     "scraped-7d7194e2b9": {
       "title": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
       "slug": "cyberattack-hits-hundreds-of-french-supermarkets-heating-fridges-to-122f-and-sparking-fire",
@@ -683,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125158939471257",
       "fb_comment_id": "122125158939471257_2172004493350725",
       "posted_at": "2026-10-16T08:25:22.529371+00:00"
+    },
+    "scraped-12831dc60f": {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "slug": "trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
+      "url": "https://ushotnews.online/article/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
+      "article_url": "https://ushotnews.online/article/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125210677471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125210677471257",
+      "fb_comment_id": "122125210677471257_1470775258233451",
+      "posted_at": "2026-10-16T11:50:33.971644+00:00"
+    },
+    "trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work": {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "slug": "trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
+      "url": "https://ushotnews.online/article/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
+      "article_url": "https://ushotnews.online/article/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125210677471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125210677471257",
+      "fb_comment_id": "122125210677471257_1470775258233451",
+      "posted_at": "2026-10-16T11:50:33.971644+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T08:25:09.649087+00:00"
+  "last_cleaned_at": "2026-10-16T11:50:17.458588+00:00"
 }
