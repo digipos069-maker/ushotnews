@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T19:41:41.544829+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-16T20:33:25.522763+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-a2e99da7f2": {
       "title": "Transgender woman accused of killing man after separate feud over McDonald's bathroom use",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125341615471257",
       "fb_comment_id": "122125341615471257_1084202984604536",
       "posted_at": "2026-10-16T19:41:41.544765+00:00"
+    },
+    "scraped-6d283e9f4f": {
+      "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+      "slug": "teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
+      "url": "https://ushotnews.online/article/teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
+      "article_url": "https://ushotnews.online/article/teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125351359471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125351359471257",
+      "fb_comment_id": "122125351359471257_1499725881962613",
+      "posted_at": "2026-10-16T20:33:25.522693+00:00"
+    },
+    "teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens": {
+      "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
+      "slug": "teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
+      "url": "https://ushotnews.online/article/teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
+      "article_url": "https://ushotnews.online/article/teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125351359471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125351359471257",
+      "fb_comment_id": "122125351359471257_1499725881962613",
+      "posted_at": "2026-10-16T20:33:25.522693+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T19:41:27.590496+00:00"
+  "last_cleaned_at": "2026-10-16T20:33:14.654776+00:00"
 }
