@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T17:37:23.180278+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-16T19:41:41.544829+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-a2e99da7f2": {
       "title": "Transgender woman accused of killing man after separate feud over McDonald's bathroom use",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125309041471257",
       "fb_comment_id": "122125309041471257_2371035823707415",
       "posted_at": "2026-10-16T17:37:23.180213+00:00"
+    },
+    "scraped-cfe2908025": {
+      "title": "The first vibe-coded gun is here",
+      "slug": "the-first-vibe-coded-gun-is-here",
+      "url": "https://ushotnews.online/article/the-first-vibe-coded-gun-is-here",
+      "article_url": "https://ushotnews.online/article/the-first-vibe-coded-gun-is-here",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125341615471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125341615471257",
+      "fb_comment_id": "122125341615471257_1084202984604536",
+      "posted_at": "2026-10-16T19:41:41.544765+00:00"
+    },
+    "the-first-vibe-coded-gun-is-here": {
+      "title": "The first vibe-coded gun is here",
+      "slug": "the-first-vibe-coded-gun-is-here",
+      "url": "https://ushotnews.online/article/the-first-vibe-coded-gun-is-here",
+      "article_url": "https://ushotnews.online/article/the-first-vibe-coded-gun-is-here",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125341615471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125341615471257",
+      "fb_comment_id": "122125341615471257_1084202984604536",
+      "posted_at": "2026-10-16T19:41:41.544765+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T17:37:12.791770+00:00"
+  "last_cleaned_at": "2026-10-16T19:41:27.590496+00:00"
 }
