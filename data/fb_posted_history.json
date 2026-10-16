@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T13:26:20.522305+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-16T16:31:54.198144+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-7d7194e2b9": {
       "title": "Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125236333471257",
       "fb_comment_id": "122125236333471257_1419466032988772",
       "posted_at": "2026-10-16T13:26:20.522230+00:00"
+    },
+    "scraped-a39fc93632": {
+      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+      "slug": "the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17",
+      "url": "https://ushotnews.online/article/the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17",
+      "article_url": "https://ushotnews.online/article/the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125292835471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125292835471257",
+      "fb_comment_id": "122125292835471257_1773403670542077",
+      "posted_at": "2026-10-16T16:31:54.198068+00:00"
+    },
+    "the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17": {
+      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+      "slug": "the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17",
+      "url": "https://ushotnews.online/article/the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17",
+      "article_url": "https://ushotnews.online/article/the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125292835471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125292835471257",
+      "fb_comment_id": "122125292835471257_1773403670542077",
+      "posted_at": "2026-10-16T16:31:54.198068+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T13:26:09.751897+00:00"
+  "last_cleaned_at": "2026-10-16T16:31:35.546793+00:00"
 }
