@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T22:45:33.339806+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-16T23:16:29.640931+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-9006aee00c": {
       "title": "Eric Church spills Eli Manning's embarrassing fishing secret while out on the water with Randy Moss",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125378629471257",
       "fb_comment_id": "122125378629471257_1412654067723826",
       "posted_at": "2026-10-16T22:45:33.339717+00:00"
+    },
+    "scraped-21db5f2680": {
+      "title": "Haley Stevens is everywhere — except on the trail for El-Sayed",
+      "slug": "haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "article_url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125383147471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125383147471257",
+      "fb_comment_id": "122125383147471257_1611569783245761",
+      "posted_at": "2026-10-16T23:16:29.640851+00:00"
+    },
+    "haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed": {
+      "title": "Haley Stevens is everywhere — except on the trail for El-Sayed",
+      "slug": "haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "article_url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125383147471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125383147471257",
+      "fb_comment_id": "122125383147471257_1611569783245761",
+      "posted_at": "2026-10-16T23:16:29.640851+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T22:45:23.406324+00:00"
+  "last_cleaned_at": "2026-10-16T23:16:20.710414+00:00"
 }
