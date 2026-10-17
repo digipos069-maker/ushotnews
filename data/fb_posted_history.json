@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T05:55:15.235714+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-10-17T06:04:26.598609+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-46c384e4c0": {
       "title": "Jim Cramer isn't giving up on semiconductor stocks despite the sell off. Here's why",
@@ -727,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125470813471257",
       "fb_comment_id": "122125470813471257_1469932738314010",
       "posted_at": "2026-10-17T05:55:15.235637+00:00"
+    },
+    "scraped-7bd936ab76": {
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "slug": "apple8217s-updated-app-store-rules-go-after-8216nudify8217-ai-apps",
+      "url": "https://ushotnews.online/article/apple8217s-updated-app-store-rules-go-after-8216nudify8217-ai-apps",
+      "article_url": "https://ushotnews.online/article/apple8217s-updated-app-store-rules-go-after-8216nudify8217-ai-apps",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125473705471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125473705471257",
+      "fb_comment_id": "122125473705471257_1733060197793902",
+      "posted_at": "2026-10-17T06:04:26.598546+00:00"
+    },
+    "apple8217s-updated-app-store-rules-go-after-8216nudify8217-ai-apps": {
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "slug": "apple8217s-updated-app-store-rules-go-after-8216nudify8217-ai-apps",
+      "url": "https://ushotnews.online/article/apple8217s-updated-app-store-rules-go-after-8216nudify8217-ai-apps",
+      "article_url": "https://ushotnews.online/article/apple8217s-updated-app-store-rules-go-after-8216nudify8217-ai-apps",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125473705471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125473705471257",
+      "fb_comment_id": "122125473705471257_1733060197793902",
+      "posted_at": "2026-10-17T06:04:26.598546+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T05:55:01.365135+00:00"
+  "last_cleaned_at": "2026-10-17T06:04:13.794414+00:00"
 }
