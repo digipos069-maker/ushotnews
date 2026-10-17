@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-523eaa4dd9",
+    "slug": "kansas-republicans-fear-roger-marshall-may-be-running-out-of-time",
+    "guid": "000001a1-416d-d058-adf3-6b6d17cb0000",
+    "title": "Kansas Republicans fear Roger Marshall may be running out of time",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The newest addition to the Senate map is giving Republicans headaches.",
+    "content": [
+      "The newest addition to the Senate map is giving Republicans headaches.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/fb/0e/6f156ed744139f152f52175e7a93/vance-84125.jpg",
+    "imageCaption": "Kansas Republicans fear Roger Marshall may be running out of... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T11:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-68b6d441ac",
+    "slug": "its-a-dream-week-for-tech-docs",
+    "guid": "https://www.theverge.com/?p=1013367",
+    "title": "It’s a dream week for tech docs",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc Andreessen and the future of [&#8230;]",
+    "content": [
+      "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc Andreessen and the future of [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "It’s a dream week for tech docs... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T12:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6efd5bab95",
+    "slug": "apples-homeview-is-just-the-latest-threat-to-online-recipe-writers",
+    "guid": "https://www.theverge.com/?p=1012820",
+    "title": "Apple’s HomeView is just the latest threat to online recipe writers",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the kitchen [&#8230;]",
+    "content": [
+      "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the kitchen [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple’s HomeView is just the latest threat to online recipe ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T12:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6b7802a576",
+    "slug": "boses-new-wired-earbuds-are-simple-in-the-best-way",
+    "guid": "https://www.theverge.com/?p=1013320",
+    "title": "Bose’s new wired earbuds are simple in the best way",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to the fact that they're cool [&#8230;]",
+    "content": [
+      "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to the fact that they're cool [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bose’s new wired earbuds are simple in the best way... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c252f0ad0",
+    "slug": "websites-are-closing-their-doors-to-ai-agents",
+    "guid": "https://www.theverge.com/?p=1013195",
+    "title": "Websites are closing their doors to AI agents",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+    "content": [
+      "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Websites are closing their doors to AI agents... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ff83ff44c2",
+    "slug": "decades-after-apartheid-south-africans-seek-justice-for-crimes-of-the-past",
+    "guid": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+    "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's pastare still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.",
+    "content": [
+      "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's pastare still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Decades after apartheid, South Africans seek justice for cri... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T11:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0b0fea28c4",
+    "slug": "fraud-affordability-and-trump-policies-drive-friction-in-minnesota-senate-debate",
+    "guid": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+    "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
+    "content": [
+      "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fraud, affordability and Trump policies drive friction in Mi... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T11:43:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-67f988889f",
+    "slug": "perspective-midterm-money-madness",
+    "guid": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+    "title": "Perspective: Midterm money madness",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+    "content": [
+      "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Perspective: Midterm money madness... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T12:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-43b6a8ec16",
+    "slug": "our-kids-arent-broken-we-need-to-stop-treating-every-struggle-like-a-disorder",
+    "guid": "https://www.foxnews.com/opinion/kids-arent-broken-stop-treating-every-struggle-like-disorder",
+    "title": "Our kids aren’t broken. We need to stop treating every struggle like a disorder",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A neuropsychologist explains why a student scoring 34 on the ACT still felt like a failure and sought test accommodations for a perfect score.",
+    "content": [
+      "A neuropsychologist explains why a student scoring 34 on the ACT still felt like a failure and sought test accommodations for a perfect score.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/524/teen-boy-backpack-istock.jpg?ve=1&tl=1",
+    "imageCaption": "Our kids aren’t broken. We need to stop treating every strug... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:00:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9d31d2d10f",
+    "slug": "notre-dame-faces-first-real-test-as-unbeaten-byu-hosts-the-fighting-irish-in-top-10-clash",
+    "guid": "https://www.foxnews.com/outkick-betting/notre-dame-faces-first-real-test-unbeaten-byu-hosts-fighting-irish-top-10-clash",
+    "title": "Notre Dame faces first real test as unbeaten BYU hosts the Fighting Irish in top-10 clash",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "College Sports rankings face scrutiny as CJ Carr&apos;s undefeated Notre Dame hosts Bear Bachmeier&apos;s BYU Cougars in a top-10 college football clash.",
+    "content": [
+      "College Sports rankings face scrutiny as CJ Carr&apos;s undefeated Notre Dame hosts Bear Bachmeier&apos;s BYU Cougars in a top-10 college football clash.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/notre-dame-cj-carr-120725-4.jpg?ve=1&tl=1",
+    "imageCaption": "Notre Dame faces first real test as unbeaten BYU hosts the F... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:17:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0dfb1f8473",
+    "slug": "hackers-hide-dangerous-fake-ai-downloads-behind-google-ads",
+    "guid": "https://www.foxnews.com/tech/hackers-hide-dangerous-fake-ai-downloads-behind-google-ads",
+    "title": "Hackers hide dangerous fake AI downloads behind Google ads",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A fake Claude AI download scam uses Google ads and Bing redirects to trick Mac users into pasting a hidden malicious command in their Terminal.",
+    "content": [
+      "A fake Claude AI download scam uses Google ads and Bing redirects to trick Mac users into pasting a hidden malicious command in their Terminal.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/AI-Hackers-Photo-1.jpg?ve=1&tl=1",
+    "imageCaption": "Hackers hide dangerous fake AI downloads behind Google ads... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:20:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a6ca3fdb60",
+    "slug": "ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
+    "guid": "https://www.foxnews.com/outkick-sports/ufc-ring-girl-octagons-painting-tom-brady-artwork-fanatics-woke-concerts-college-football",
+    "title": "UFC ring girl goes from octagons to painting Tom Brady artwork for Fanatics, woke concerts & college football",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Brittney Palmer pivoted from a 16-year UFC ring girl career to creating baseball cards for Topps and painting NFL jerseys for Fanatics.",
+    "content": [
+      "Brittney Palmer pivoted from a 16-year UFC ring girl career to creating baseball cards for Topps and painting NFL jerseys for Fanatics.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brittney-palmer-ufc-296-announcer.jpg?ve=1&tl=1",
+    "imageCaption": "UFC ring girl goes from octagons to painting Tom Brady artwo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:36:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7cc455a9ae",
+    "slug": "fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-on-tennessee-vs-alabama-byu-vs-no",
+    "guid": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-tennessee-vs-alabama-byu-vs-notre-dame",
+    "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Tennessee vs Alabama, BYU vs Notre Dame",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bet $20 on Tennessee-Alabama or BYU-Notre Dame with Fanatics promo code FOXNEWS350 to earn $350 in FanCash as a new user.",
+    "content": [
+      "Bet $20 on Tennessee-Alabama or BYU-Notre Dame with Fanatics promo code FOXNEWS350 to earn $350 in FanCash as a new user.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/dijon-lee-alabama-bryant-denny-stadium.jpg?ve=1&tl=1",
+    "imageCaption": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:42:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b901aac111",
+    "slug": "underdog-promo-code-foxnews-play-5-get-100-on-indiana-vs-ohio-state-tennessee-vs-alabama",
+    "guid": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-indiana-vs-ohio-state-tennessee-vs-alabama",
+    "title": "Underdog Promo Code FOXNEWS: Play $5, Get $100 on Indiana vs Ohio State, Tennessee vs Alabama",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Underdog promo code FOXNEWS lets new users play $5 and earn $100 in bonuses while watching Ohio State-Indiana and Alabama-Tennessee.",
+    "content": [
+      "Underdog promo code FOXNEWS lets new users play $5 and earn $100 in bonuses while watching Ohio State-Indiana and Alabama-Tennessee.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/tennesseefootball2026a.jpg?ve=1&tl=1",
+    "imageCaption": "Underdog Promo Code FOXNEWS: Play $5, Get $100 on Indiana vs... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:46:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8df0040012",
+    "slug": "betmgm-bonus-code-foxnews-cover-your-first-cfb-bet-today-up-to-1500-as-indiana-faces-ohio-",
+    "guid": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-cfb-bet-today-up-1500-indiana-faces-ohio-state",
+    "title": "BetMGM Bonus Code FOXNEWS: Cover Your First CFB Bet Today up to $1500 as Indiana Faces Ohio State",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "BetMGM promo code FOXNEWS offers new users up to $1,500 in bonus funds if their first wager loses on Indiana vs. Ohio State.",
+    "content": [
+      "BetMGM promo code FOXNEWS offers new users up to $1,500 in bonus funds if their first wager loses on Indiana vs. Ohio State.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/jeremiah-smith-ohio-state-buckeyes-texas.jpg?ve=1&tl=1",
+    "imageCaption": "BetMGM Bonus Code FOXNEWS: Cover Your First CFB Bet Today up... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:47:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d7614413c5",
+    "slug": "investors-are-buying-up-vast-tracts-of-timberland-across-us-in-one-of-markets-longest-term",
+    "guid": "108358426",
+    "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Timberland managers buying for pension funds and other institutional investors can wait decades for returns, but the market can also be a profit trap.",
+    "content": [
+      "Timberland managers buying for pension funds and other institutional investors can wait decades for returns, but the market can also be a profit trap.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Investors are buying up vast tracts of timberland across U.S... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:47:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-47717b40b9",
+    "slug": "trumps-student-loan-overhaul-could-lead-to-more-bankruptcy-filings-former-judge-says",
+    "guid": "108366176",
+    "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "After nearly three decades as a bankruptcy judge, Sarah Sharer Curley writes about the legal process in her new book, \"The Price of Forgiveness.\"",
+    "content": [
+      "After nearly three decades as a bankruptcy judge, Sarah Sharer Curley writes about the legal process in her new book, \"The Price of Forgiveness.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump's student loan overhaul could lead to more bankruptcy ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T13:30:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-022ddb57fb",
+    "slug": "berkshire-shares-buck-market-sell-off-rally-to-highest-since-buffett-said-he-would-step-do",
+    "guid": "108423147",
+    "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
+    "content": [
+      "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Berkshire shares buck market sell-off, rally to highest sinc... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T12:46:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ca6345f476",
+    "slug": "bending-spoons-wants-to-revive-software-castoffs-berkshire-is-backing-the-plan",
+    "guid": "108409498",
+    "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+    "content": [
+      "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bending Spoons wants to revive software castoffs. Berkshire ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T12:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b49f4b26f5",
+    "slug": "trump-waives-broad-new-russia-sanctions-and-tariffs-under-graham-act-citing-national-inter",
+    "guid": "108423611",
+    "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+    "content": [
+      "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump waives broad new Russia sanctions and tariffs under Gr... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-17T10:20:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-8400cfd59f",
     "slug": "coastal-homes-burn-as-hot-winds-fuel-california-fires",
     "guid": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
