@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-17T19:41:56.512665+00:00",
+  "last_updated": "2026-10-17T21:36:26.876694+00:00",
   "posted_count": 74,
   "articles": {
-    "scraped-699faec30f": {
-      "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
-      "slug": "inflation-data-bank-of-americas-penalty-apples-new-home-hub-and-more-in-morning-squawk",
-      "url": "https://ushotnews.online/article/inflation-data-bank-of-americas-penalty-apples-new-home-hub-and-more-in-morning-squawk",
-      "article_url": "https://ushotnews.online/article/inflation-data-bank-of-americas-penalty-apples-new-home-hub-and-more-in-morning-squawk",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124617535471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124617535471257",
-      "fb_comment_id": "122124617535471257_1779749826480732",
-      "posted_at": "2026-10-14T20:00:01.626009+00:00"
-    },
-    "inflation-data-bank-of-americas-penalty-apples-new-home-hub-and-more-in-morning-squawk": {
-      "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
-      "slug": "inflation-data-bank-of-americas-penalty-apples-new-home-hub-and-more-in-morning-squawk",
-      "url": "https://ushotnews.online/article/inflation-data-bank-of-americas-penalty-apples-new-home-hub-and-more-in-morning-squawk",
-      "article_url": "https://ushotnews.online/article/inflation-data-bank-of-americas-penalty-apples-new-home-hub-and-more-in-morning-squawk",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124617535471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124617535471257",
-      "fb_comment_id": "122124617535471257_1779749826480732",
-      "posted_at": "2026-10-14T20:00:01.626009+00:00"
-    },
     "scraped-5b92dcfa29": {
       "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
       "slug": "bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mytho",
@@ -815,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125699065471257",
       "fb_comment_id": "122125699065471257_1467074365290710",
       "posted_at": "2026-10-17T19:41:56.512590+00:00"
+    },
+    "scraped-10ea3c20b6": {
+      "title": "Not all Republicans want to show Trump off",
+      "slug": "not-all-republicans-want-to-show-trump-off",
+      "url": "https://ushotnews.online/article/not-all-republicans-want-to-show-trump-off",
+      "article_url": "https://ushotnews.online/article/not-all-republicans-want-to-show-trump-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125723833471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125723833471257",
+      "fb_comment_id": "122125723833471257_1388910207637543",
+      "posted_at": "2026-10-17T21:36:26.876640+00:00"
+    },
+    "not-all-republicans-want-to-show-trump-off": {
+      "title": "Not all Republicans want to show Trump off",
+      "slug": "not-all-republicans-want-to-show-trump-off",
+      "url": "https://ushotnews.online/article/not-all-republicans-want-to-show-trump-off",
+      "article_url": "https://ushotnews.online/article/not-all-republicans-want-to-show-trump-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125723833471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125723833471257",
+      "fb_comment_id": "122125723833471257_1388910207637543",
+      "posted_at": "2026-10-17T21:36:26.876640+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T19:41:40.743327+00:00"
+  "last_cleaned_at": "2026-10-17T21:36:14.445580+00:00"
 }
