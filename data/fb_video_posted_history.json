@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-17T06:48:38.652146+00:00",
+  "last_updated": "2026-10-17T12:05:33.891089+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1026270": {
-      "title": "Los Angeles County Fire Department Search and Rescue",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055179/DOD_112055179.mp4",
-      "attached_website_url": "https://ushotnews.online/article/apples-homeview-ad-is-confusing-to-everyone-except-parents",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "4028061400835782",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4028061400835782",
-      "fb_comment_id": "4028061400835782_4451272365112003",
-      "posted_at": "2026-10-14T07:23:25.427435+00:00"
-    },
     "dvids-video:1026309": {
       "title": "Coast Guard assists in release of Brown Booby",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112056473/DOD_112056473.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2278595456296212",
       "fb_comment_id": "2278595456296212_2535357943612128",
       "posted_at": "2026-10-17T06:48:38.652094+00:00"
+    },
+    "dvids-video:1026687": {
+      "title": "Coast Guard Personal Watercraft Program Explained",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077514/DOD_112077514.mp4",
+      "attached_website_url": "https://ushotnews.online/article/all-the-news-about-the-iphone-duo",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1765406428052527",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1765406428052527",
+      "fb_comment_id": "1765406428052527_2126900821231741",
+      "posted_at": "2026-10-17T12:05:33.891024+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T06:47:22.210289+00:00"
+  "last_cleaned_at": "2026-10-17T12:04:08.682910+00:00"
 }
