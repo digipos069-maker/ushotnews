@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-17T11:07:09.373924+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-10-17T13:51:59.616846+00:00",
+  "posted_count": 68,
   "articles": {
-    "scraped-a76c00e3d5": {
-      "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
-      "slug": "heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
-      "url": "https://ushotnews.online/article/heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
-      "article_url": "https://ushotnews.online/article/heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124448869471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124448869471257",
-      "fb_comment_id": "122124448869471257_28622159440787465",
-      "posted_at": "2026-10-14T11:16:49.718334+00:00"
-    },
-    "heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock": {
-      "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
-      "slug": "heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
-      "url": "https://ushotnews.online/article/heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
-      "article_url": "https://ushotnews.online/article/heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124448869471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124448869471257",
-      "fb_comment_id": "122124448869471257_28622159440787465",
-      "posted_at": "2026-10-14T11:16:49.718334+00:00"
-    },
-    "scraped-73049e1803": {
-      "title": "Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex",
-      "slug": "russian-bot-farms-are-still-trolling-even-after-ukraine8217s-drone-strikes-on-yandex",
-      "url": "https://ushotnews.online/article/russian-bot-farms-are-still-trolling-even-after-ukraine8217s-drone-strikes-on-yandex",
-      "article_url": "https://ushotnews.online/article/russian-bot-farms-are-still-trolling-even-after-ukraine8217s-drone-strikes-on-yandex",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124476661471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124476661471257",
-      "fb_comment_id": "122124476661471257_2512403622496501",
-      "posted_at": "2026-10-14T12:49:18.659546+00:00"
-    },
-    "russian-bot-farms-are-still-trolling-even-after-ukraine8217s-drone-strikes-on-yandex": {
-      "title": "Russian bot farms are still trolling, even after Ukraine&#8217;s drone strikes on Yandex",
-      "slug": "russian-bot-farms-are-still-trolling-even-after-ukraine8217s-drone-strikes-on-yandex",
-      "url": "https://ushotnews.online/article/russian-bot-farms-are-still-trolling-even-after-ukraine8217s-drone-strikes-on-yandex",
-      "article_url": "https://ushotnews.online/article/russian-bot-farms-are-still-trolling-even-after-ukraine8217s-drone-strikes-on-yandex",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124476661471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124476661471257",
-      "fb_comment_id": "122124476661471257_2512403622496501",
-      "posted_at": "2026-10-14T12:49:18.659546+00:00"
-    },
     "scraped-9742a8df9e": {
       "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
       "slug": "singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates",
@@ -771,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125540605471257",
       "fb_comment_id": "122125540605471257_1049477261496100",
       "posted_at": "2026-10-17T11:07:09.373857+00:00"
+    },
+    "scraped-21757164cc": {
+      "title": "Dodgers' elimination ends remarkable streak of players named Will Smith winning the World Series",
+      "slug": "dodgers-elimination-ends-remarkable-streak-of-players-named-will-smith-winning-the-world-s",
+      "url": "https://ushotnews.online/article/dodgers-elimination-ends-remarkable-streak-of-players-named-will-smith-winning-the-world-s",
+      "article_url": "https://ushotnews.online/article/dodgers-elimination-ends-remarkable-streak-of-players-named-will-smith-winning-the-world-s",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125614015471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125614015471257",
+      "fb_comment_id": "122125614015471257_1416116576760774",
+      "posted_at": "2026-10-17T13:51:59.616785+00:00"
+    },
+    "dodgers-elimination-ends-remarkable-streak-of-players-named-will-smith-winning-the-world-s": {
+      "title": "Dodgers' elimination ends remarkable streak of players named Will Smith winning the World Series",
+      "slug": "dodgers-elimination-ends-remarkable-streak-of-players-named-will-smith-winning-the-world-s",
+      "url": "https://ushotnews.online/article/dodgers-elimination-ends-remarkable-streak-of-players-named-will-smith-winning-the-world-s",
+      "article_url": "https://ushotnews.online/article/dodgers-elimination-ends-remarkable-streak-of-players-named-will-smith-winning-the-world-s",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125614015471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125614015471257",
+      "fb_comment_id": "122125614015471257_1416116576760774",
+      "posted_at": "2026-10-17T13:51:59.616785+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T11:06:58.868033+00:00"
+  "last_cleaned_at": "2026-10-17T13:51:48.357710+00:00"
 }
