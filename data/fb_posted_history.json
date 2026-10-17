@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T19:02:45.076120+00:00",
-  "posted_count": 72,
+  "last_updated": "2026-10-17T19:41:56.512665+00:00",
+  "posted_count": 74,
   "articles": {
     "scraped-699faec30f": {
       "title": "Inflation data, Bank of America's penalty, Apple's new home hub and more in Morning Squawk",
@@ -793,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125690557471257",
       "fb_comment_id": "122125690557471257_1437007291219902",
       "posted_at": "2026-10-17T19:02:45.076050+00:00"
+    },
+    "scraped-2fe0e3d8a7": {
+      "title": "'Vast majority' of Iran's attempted attacks on Strait of Hormuz are unsuccessful, CENTCOM spokesman says",
+      "slug": "vast-majority-of-irans-attempted-attacks-on-strait-of-hormuz-are-unsuccessful-centcom-spok",
+      "url": "https://ushotnews.online/article/vast-majority-of-irans-attempted-attacks-on-strait-of-hormuz-are-unsuccessful-centcom-spok",
+      "article_url": "https://ushotnews.online/article/vast-majority-of-irans-attempted-attacks-on-strait-of-hormuz-are-unsuccessful-centcom-spok",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125699065471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125699065471257",
+      "fb_comment_id": "122125699065471257_1467074365290710",
+      "posted_at": "2026-10-17T19:41:56.512590+00:00"
+    },
+    "vast-majority-of-irans-attempted-attacks-on-strait-of-hormuz-are-unsuccessful-centcom-spok": {
+      "title": "'Vast majority' of Iran's attempted attacks on Strait of Hormuz are unsuccessful, CENTCOM spokesman says",
+      "slug": "vast-majority-of-irans-attempted-attacks-on-strait-of-hormuz-are-unsuccessful-centcom-spok",
+      "url": "https://ushotnews.online/article/vast-majority-of-irans-attempted-attacks-on-strait-of-hormuz-are-unsuccessful-centcom-spok",
+      "article_url": "https://ushotnews.online/article/vast-majority-of-irans-attempted-attacks-on-strait-of-hormuz-are-unsuccessful-centcom-spok",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125699065471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125699065471257",
+      "fb_comment_id": "122125699065471257_1467074365290710",
+      "posted_at": "2026-10-17T19:41:56.512590+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T19:02:30.577096+00:00"
+  "last_cleaned_at": "2026-10-17T19:41:40.743327+00:00"
 }
