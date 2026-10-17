@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-17T12:05:33.891089+00:00",
+  "last_updated": "2026-10-17T16:57:32.449162+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1026309": {
-      "title": "Coast Guard assists in release of Brown Booby",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112056473/DOD_112056473.mp4",
-      "attached_website_url": "https://ushotnews.online/article/apples-homeview-ad-is-confusing-to-everyone-except-parents",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1445692428619160",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1445692428619160",
-      "fb_comment_id": "1445692428619160_999083843210308",
-      "posted_at": "2026-10-14T13:32:48.932015+00:00"
-    },
     "dvids-video:1026344": {
       "title": "F-35Cs approach for first landing aboard PCU John F. Kennedy (CVN 79)",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112056961/DOD_112056961.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1765406428052527",
       "fb_comment_id": "1765406428052527_2126900821231741",
       "posted_at": "2026-10-17T12:05:33.891024+00:00"
+    },
+    "dvids-video:1026682": {
+      "title": "Installation protection exercise at MCBH",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077494/DOD_112077494.mp4",
+      "attached_website_url": "https://ushotnews.online/article/kansas-republicans-fear-roger-marshall-may-be-running-out-of-time",
+      "trending_score": 75.0,
+      "format": "video",
+      "fb_video_id": "1104218292353417",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1104218292353417",
+      "fb_comment_id": "1104218292353417_3720171868138925",
+      "posted_at": "2026-10-17T16:57:32.449080+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T12:04:08.682910+00:00"
+  "last_cleaned_at": "2026-10-17T16:56:26.576941+00:00"
 }
