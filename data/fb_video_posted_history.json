@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-17T16:57:32.449162+00:00",
+  "last_updated": "2026-10-17T20:25:31.378292+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1026344": {
-      "title": "F-35Cs approach for first landing aboard PCU John F. Kennedy (CVN 79)",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112056961/DOD_112056961.mp4",
-      "attached_website_url": "https://ushotnews.online/article/apples-homeview-ad-is-confusing-to-everyone-except-parents",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1712703187115682",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1712703187115682",
-      "fb_comment_id": "1712703187115682_2227554001123040",
-      "posted_at": "2026-10-14T18:27:40.942686+00:00"
-    },
     "dvids-video:1026390": {
       "title": "Promote the Corps: Staff Sgt. Thornton",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112057643/DOD_112057643.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1104218292353417",
       "fb_comment_id": "1104218292353417_3720171868138925",
       "posted_at": "2026-10-17T16:57:32.449080+00:00"
+    },
+    "dvids-video:1026684": {
+      "title": "By, With, Through",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077506/DOD_112077506.mp4",
+      "attached_website_url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
+      "trending_score": 60.0,
+      "format": "video",
+      "fb_video_id": "1026063397162493",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1026063397162493",
+      "fb_comment_id": "1026063397162493_3995786907384168",
+      "posted_at": "2026-10-17T20:25:31.378232+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T16:56:26.576941+00:00"
+  "last_cleaned_at": "2026-10-17T20:23:40.017420+00:00"
 }
