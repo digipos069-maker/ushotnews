@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T13:51:59.616846+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-10-17T14:22:18.319022+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-9742a8df9e": {
       "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125614015471257",
       "fb_comment_id": "122125614015471257_1416116576760774",
       "posted_at": "2026-10-17T13:51:59.616785+00:00"
+    },
+    "scraped-a7cdcf7b69": {
+      "title": "Pennsylvania socialist Democrat says he opposes imprisonment except for 'lawless MAGA thugs'",
+      "slug": "pennsylvania-socialist-democrat-says-he-opposes-imprisonment-except-for-lawless-maga-thugs",
+      "url": "https://ushotnews.online/article/pennsylvania-socialist-democrat-says-he-opposes-imprisonment-except-for-lawless-maga-thugs",
+      "article_url": "https://ushotnews.online/article/pennsylvania-socialist-democrat-says-he-opposes-imprisonment-except-for-lawless-maga-thugs",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125621227471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125621227471257",
+      "fb_comment_id": "122125621227471257_1574288673993222",
+      "posted_at": "2026-10-17T14:22:18.318963+00:00"
+    },
+    "pennsylvania-socialist-democrat-says-he-opposes-imprisonment-except-for-lawless-maga-thugs": {
+      "title": "Pennsylvania socialist Democrat says he opposes imprisonment except for 'lawless MAGA thugs'",
+      "slug": "pennsylvania-socialist-democrat-says-he-opposes-imprisonment-except-for-lawless-maga-thugs",
+      "url": "https://ushotnews.online/article/pennsylvania-socialist-democrat-says-he-opposes-imprisonment-except-for-lawless-maga-thugs",
+      "article_url": "https://ushotnews.online/article/pennsylvania-socialist-democrat-says-he-opposes-imprisonment-except-for-lawless-maga-thugs",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125621227471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125621227471257",
+      "fb_comment_id": "122125621227471257_1574288673993222",
+      "posted_at": "2026-10-17T14:22:18.318963+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T13:51:48.357710+00:00"
+  "last_cleaned_at": "2026-10-17T14:22:05.506489+00:00"
 }
