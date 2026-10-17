@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-16T20:49:47.535836+00:00",
+  "last_updated": "2026-10-17T00:15:30.149602+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1026266": {
-      "title": "Navy 251st Birthday Marked by NAVSUP WSS",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055114/DOD_112055114.mp4",
-      "attached_website_url": "https://ushotnews.online/article/apples-homepod-mini-2-is-available-to-preorder",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2122240591708145",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2122240591708145",
-      "fb_comment_id": "2122240591708145_1137073462419796",
-      "posted_at": "2026-10-13T21:07:54.453951+00:00"
-    },
     "dvids-video:1026281": {
       "title": "Rain or Shine: ‘Autumn Adventures’ Playgroup",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055528/DOD_112055528.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/3400803186789970",
       "fb_comment_id": "3400803186789970_1357682152920904",
       "posted_at": "2026-10-16T20:49:47.535770+00:00"
+    },
+    "dvids-video:1026677": {
+      "title": "U.S. Marine Corps Sgt. Maggie Hardy - NFL Minnesota Vikings Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077430/DOD_112077430.mp4",
+      "attached_website_url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1123275137300381",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1123275137300381",
+      "fb_comment_id": "1123275137300381_2745784189158055",
+      "posted_at": "2026-10-17T00:15:30.149549+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-16T20:48:17.575231+00:00"
+  "last_cleaned_at": "2026-10-17T00:14:37.217784+00:00"
 }
