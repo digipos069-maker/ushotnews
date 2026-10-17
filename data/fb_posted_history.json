@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-17T01:25:38.480078+00:00",
+  "last_updated": "2026-10-17T05:55:15.235714+00:00",
   "posted_count": 66,
   "articles": {
-    "scraped-83bd5b4792": {
-      "title": "Man who lived as woman for eight years warns surprising teen sexuality data may not tell full story",
-      "slug": "man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
-      "url": "https://ushotnews.online/article/man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
-      "article_url": "https://ushotnews.online/article/man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124368667471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124368667471257",
-      "fb_comment_id": "122124368667471257_1102512759305199",
-      "posted_at": "2026-10-14T05:51:34.129746+00:00"
-    },
-    "man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f": {
-      "title": "Man who lived as woman for eight years warns surprising teen sexuality data may not tell full story",
-      "slug": "man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
-      "url": "https://ushotnews.online/article/man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
-      "article_url": "https://ushotnews.online/article/man-who-lived-as-woman-for-eight-years-warns-surprising-teen-sexuality-data-may-not-tell-f",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124368667471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124368667471257",
-      "fb_comment_id": "122124368667471257_1102512759305199",
-      "posted_at": "2026-10-14T05:51:34.129746+00:00"
-    },
     "scraped-46c384e4c0": {
       "title": "Jim Cramer isn't giving up on semiconductor stocks despite the sell off. Here's why",
       "slug": "jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why",
@@ -727,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125420149471257",
       "fb_comment_id": "122125420149471257_1093469443667309",
       "posted_at": "2026-10-17T01:25:38.480012+00:00"
+    },
+    "scraped-d13f116ea1": {
+      "title": "ESPN allowing Troy Aikman to walk away from Joe Buck booth would make no sense | Bobby Burack",
+      "slug": "espn-allowing-troy-aikman-to-walk-away-from-joe-buck-booth-would-make-no-sense-bobby-burac",
+      "url": "https://ushotnews.online/article/espn-allowing-troy-aikman-to-walk-away-from-joe-buck-booth-would-make-no-sense-bobby-burac",
+      "article_url": "https://ushotnews.online/article/espn-allowing-troy-aikman-to-walk-away-from-joe-buck-booth-would-make-no-sense-bobby-burac",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125470813471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125470813471257",
+      "fb_comment_id": "122125470813471257_1469932738314010",
+      "posted_at": "2026-10-17T05:55:15.235637+00:00"
+    },
+    "espn-allowing-troy-aikman-to-walk-away-from-joe-buck-booth-would-make-no-sense-bobby-burac": {
+      "title": "ESPN allowing Troy Aikman to walk away from Joe Buck booth would make no sense | Bobby Burack",
+      "slug": "espn-allowing-troy-aikman-to-walk-away-from-joe-buck-booth-would-make-no-sense-bobby-burac",
+      "url": "https://ushotnews.online/article/espn-allowing-troy-aikman-to-walk-away-from-joe-buck-booth-would-make-no-sense-bobby-burac",
+      "article_url": "https://ushotnews.online/article/espn-allowing-troy-aikman-to-walk-away-from-joe-buck-booth-would-make-no-sense-bobby-burac",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125470813471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125470813471257",
+      "fb_comment_id": "122125470813471257_1469932738314010",
+      "posted_at": "2026-10-17T05:55:15.235637+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T01:25:24.878924+00:00"
+  "last_cleaned_at": "2026-10-17T05:55:01.365135+00:00"
 }
