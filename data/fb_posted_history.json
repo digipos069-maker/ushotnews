@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-17T06:04:26.598609+00:00",
+  "last_updated": "2026-10-17T10:12:43.057873+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-46c384e4c0": {
-      "title": "Jim Cramer isn't giving up on semiconductor stocks despite the sell off. Here's why",
-      "slug": "jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why",
-      "url": "https://ushotnews.online/article/jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why",
-      "article_url": "https://ushotnews.online/article/jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124377991471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124377991471257",
-      "fb_comment_id": "122124377991471257_2332722477495554",
-      "posted_at": "2026-10-14T06:38:54.711452+00:00"
-    },
-    "jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why": {
-      "title": "Jim Cramer isn't giving up on semiconductor stocks despite the sell off. Here's why",
-      "slug": "jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why",
-      "url": "https://ushotnews.online/article/jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why",
-      "article_url": "https://ushotnews.online/article/jim-cramer-isnt-giving-up-on-semiconductor-stocks-despite-the-sell-off-heres-why",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124377991471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124377991471257",
-      "fb_comment_id": "122124377991471257_2332722477495554",
-      "posted_at": "2026-10-14T06:38:54.711452+00:00"
-    },
     "scraped-a76c00e3d5": {
       "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
       "slug": "heres-where-jim-cramer-stands-on-this-newly-public-ai-infrastructure-stock",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125473705471257",
       "fb_comment_id": "122125473705471257_1733060197793902",
       "posted_at": "2026-10-17T06:04:26.598546+00:00"
+    },
+    "scraped-d3c873a392": {
+      "title": "Eagles appear set to add QB from Cowboys' practice squad as Jalen Hurts deals with blood clot",
+      "slug": "eagles-appear-set-to-add-qb-from-cowboys-practice-squad-as-jalen-hurts-deals-with-blood-cl",
+      "url": "https://ushotnews.online/article/eagles-appear-set-to-add-qb-from-cowboys-practice-squad-as-jalen-hurts-deals-with-blood-cl",
+      "article_url": "https://ushotnews.online/article/eagles-appear-set-to-add-qb-from-cowboys-practice-squad-as-jalen-hurts-deals-with-blood-cl",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125529913471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125529913471257",
+      "fb_comment_id": "122125529913471257_28879297551753612",
+      "posted_at": "2026-10-17T10:12:43.057820+00:00"
+    },
+    "eagles-appear-set-to-add-qb-from-cowboys-practice-squad-as-jalen-hurts-deals-with-blood-cl": {
+      "title": "Eagles appear set to add QB from Cowboys' practice squad as Jalen Hurts deals with blood clot",
+      "slug": "eagles-appear-set-to-add-qb-from-cowboys-practice-squad-as-jalen-hurts-deals-with-blood-cl",
+      "url": "https://ushotnews.online/article/eagles-appear-set-to-add-qb-from-cowboys-practice-squad-as-jalen-hurts-deals-with-blood-cl",
+      "article_url": "https://ushotnews.online/article/eagles-appear-set-to-add-qb-from-cowboys-practice-squad-as-jalen-hurts-deals-with-blood-cl",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125529913471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125529913471257",
+      "fb_comment_id": "122125529913471257_28879297551753612",
+      "posted_at": "2026-10-17T10:12:43.057820+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T06:04:13.794414+00:00"
+  "last_cleaned_at": "2026-10-17T10:12:33.637686+00:00"
 }
