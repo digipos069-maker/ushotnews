@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-17T14:22:18.319022+00:00",
+  "last_updated": "2026-10-17T16:51:52.242818+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-9742a8df9e": {
-      "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
-      "slug": "singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates",
-      "url": "https://ushotnews.online/article/singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates",
-      "article_url": "https://ushotnews.online/article/singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124520341471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124520341471257",
-      "fb_comment_id": "122124520341471257_1630715238783767",
-      "posted_at": "2026-10-14T15:55:17.617822+00:00"
-    },
-    "singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates": {
-      "title": "Singapore third-quarter GDP growth softens from four-year high but beats estimates",
-      "slug": "singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates",
-      "url": "https://ushotnews.online/article/singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates",
-      "article_url": "https://ushotnews.online/article/singapore-third-quarter-gdp-growth-softens-from-four-year-high-but-beats-estimates",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124520341471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124520341471257",
-      "fb_comment_id": "122124520341471257_1630715238783767",
-      "posted_at": "2026-10-14T15:55:17.617822+00:00"
-    },
     "scraped-4bcc21c615": {
       "title": "Abby Summers might be a Dallas Cowboys cheerleader, but her trip across the pond proves she's an Eagles fan",
       "slug": "abby-summers-might-be-a-dallas-cowboys-cheerleader-but-her-trip-across-the-pond-proves-she",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125621227471257",
       "fb_comment_id": "122125621227471257_1574288673993222",
       "posted_at": "2026-10-17T14:22:18.318963+00:00"
+    },
+    "scraped-523eaa4dd9": {
+      "title": "Kansas Republicans fear Roger Marshall may be running out of time",
+      "slug": "kansas-republicans-fear-roger-marshall-may-be-running-out-of-time",
+      "url": "https://ushotnews.online/article/kansas-republicans-fear-roger-marshall-may-be-running-out-of-time",
+      "article_url": "https://ushotnews.online/article/kansas-republicans-fear-roger-marshall-may-be-running-out-of-time",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125662909471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125662909471257",
+      "fb_comment_id": "122125662909471257_4325220387768154",
+      "posted_at": "2026-10-17T16:51:52.242761+00:00"
+    },
+    "kansas-republicans-fear-roger-marshall-may-be-running-out-of-time": {
+      "title": "Kansas Republicans fear Roger Marshall may be running out of time",
+      "slug": "kansas-republicans-fear-roger-marshall-may-be-running-out-of-time",
+      "url": "https://ushotnews.online/article/kansas-republicans-fear-roger-marshall-may-be-running-out-of-time",
+      "article_url": "https://ushotnews.online/article/kansas-republicans-fear-roger-marshall-may-be-running-out-of-time",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125662909471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125662909471257",
+      "fb_comment_id": "122125662909471257_4325220387768154",
+      "posted_at": "2026-10-17T16:51:52.242761+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T14:22:05.506489+00:00"
+  "last_cleaned_at": "2026-10-17T16:51:40.734552+00:00"
 }
