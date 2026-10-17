@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-17T00:15:30.149602+00:00",
+  "last_updated": "2026-10-17T06:48:38.652146+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1026281": {
-      "title": "Rain or Shine: ‘Autumn Adventures’ Playgroup",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055528/DOD_112055528.mp4",
-      "attached_website_url": "https://ushotnews.online/article/i-dont-miss-the-camera-on-the-ray-ban-meta-audio-glasses",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "3202820019918074",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3202820019918074",
-      "fb_comment_id": "3202820019918074_1635042168294586",
-      "posted_at": "2026-10-14T01:03:58.117211+00:00"
-    },
     "dvids-video:1026270": {
       "title": "Los Angeles County Fire Department Search and Rescue",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112055179/DOD_112055179.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1123275137300381",
       "fb_comment_id": "1123275137300381_2745784189158055",
       "posted_at": "2026-10-17T00:15:30.149549+00:00"
+    },
+    "dvids-video:1026689": {
+      "title": "Golden Knights Illuminate Minden-Tahoe SkyFest With Nighttime Mass Formation Jump",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077519/DOD_112077519.mp4",
+      "attached_website_url": "https://ushotnews.online/article/all-the-news-about-the-iphone-duo",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2278595456296212",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2278595456296212",
+      "fb_comment_id": "2278595456296212_2535357943612128",
+      "posted_at": "2026-10-17T06:48:38.652094+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T00:14:37.217784+00:00"
+  "last_cleaned_at": "2026-10-17T06:47:22.210289+00:00"
 }
