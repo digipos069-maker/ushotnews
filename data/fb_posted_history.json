@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T10:12:43.057873+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-10-17T11:07:09.373924+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-a76c00e3d5": {
       "title": "Here's where Jim Cramer stands on this newly public AI infrastructure stock",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125529913471257",
       "fb_comment_id": "122125529913471257_28879297551753612",
       "posted_at": "2026-10-17T10:12:43.057820+00:00"
+    },
+    "scraped-403ac77cab": {
+      "title": "Bedbugs found in plane's economy seats force major airline to cancel flight",
+      "slug": "bedbugs-found-in-planes-economy-seats-force-major-airline-to-cancel-flight",
+      "url": "https://ushotnews.online/article/bedbugs-found-in-planes-economy-seats-force-major-airline-to-cancel-flight",
+      "article_url": "https://ushotnews.online/article/bedbugs-found-in-planes-economy-seats-force-major-airline-to-cancel-flight",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125540605471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125540605471257",
+      "fb_comment_id": "122125540605471257_1049477261496100",
+      "posted_at": "2026-10-17T11:07:09.373857+00:00"
+    },
+    "bedbugs-found-in-planes-economy-seats-force-major-airline-to-cancel-flight": {
+      "title": "Bedbugs found in plane's economy seats force major airline to cancel flight",
+      "slug": "bedbugs-found-in-planes-economy-seats-force-major-airline-to-cancel-flight",
+      "url": "https://ushotnews.online/article/bedbugs-found-in-planes-economy-seats-force-major-airline-to-cancel-flight",
+      "article_url": "https://ushotnews.online/article/bedbugs-found-in-planes-economy-seats-force-major-airline-to-cancel-flight",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125540605471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125540605471257",
+      "fb_comment_id": "122125540605471257_1049477261496100",
+      "posted_at": "2026-10-17T11:07:09.373857+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T10:12:33.637686+00:00"
+  "last_cleaned_at": "2026-10-17T11:06:58.868033+00:00"
 }
