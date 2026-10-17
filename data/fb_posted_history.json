@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T21:36:26.876694+00:00",
-  "posted_count": 74,
+  "last_updated": "2026-10-17T22:11:30.826805+00:00",
+  "posted_count": 76,
   "articles": {
     "scraped-5b92dcfa29": {
       "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
@@ -815,7 +815,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125723833471257",
       "fb_comment_id": "122125723833471257_1388910207637543",
       "posted_at": "2026-10-17T21:36:26.876640+00:00"
+    },
+    "scraped-d5db0af4e5": {
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "slug": "zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
+      "url": "https://ushotnews.online/article/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
+      "article_url": "https://ushotnews.online/article/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125729683471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125729683471257",
+      "fb_comment_id": "122125729683471257_2637397656702619",
+      "posted_at": "2026-10-17T22:11:30.826742+00:00"
+    },
+    "zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold": {
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "slug": "zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
+      "url": "https://ushotnews.online/article/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
+      "article_url": "https://ushotnews.online/article/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125729683471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125729683471257",
+      "fb_comment_id": "122125729683471257_2637397656702619",
+      "posted_at": "2026-10-17T22:11:30.826742+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T21:36:14.445580+00:00"
+  "last_cleaned_at": "2026-10-17T22:11:19.021281+00:00"
 }
