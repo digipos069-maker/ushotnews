@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T16:51:52.242818+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-10-17T17:30:18.748879+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-4bcc21c615": {
       "title": "Abby Summers might be a Dallas Cowboys cheerleader, but her trip across the pond proves she's an Eagles fan",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125662909471257",
       "fb_comment_id": "122125662909471257_4325220387768154",
       "posted_at": "2026-10-17T16:51:52.242761+00:00"
+    },
+    "scraped-a6ca3fdb60": {
+      "title": "UFC ring girl goes from octagons to painting Tom Brady artwork for Fanatics, woke concerts & college football",
+      "slug": "ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
+      "url": "https://ushotnews.online/article/ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
+      "article_url": "https://ushotnews.online/article/ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125672653471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125672653471257",
+      "fb_comment_id": "122125672653471257_1647050373435631",
+      "posted_at": "2026-10-17T17:30:18.748815+00:00"
+    },
+    "ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-": {
+      "title": "UFC ring girl goes from octagons to painting Tom Brady artwork for Fanatics, woke concerts & college football",
+      "slug": "ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
+      "url": "https://ushotnews.online/article/ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
+      "article_url": "https://ushotnews.online/article/ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125672653471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125672653471257",
+      "fb_comment_id": "122125672653471257_1647050373435631",
+      "posted_at": "2026-10-17T17:30:18.748815+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T16:51:40.734552+00:00"
+  "last_cleaned_at": "2026-10-17T17:30:09.180136+00:00"
 }
