@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-18T00:13:53.555012+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-10-18T03:11:52.842898+00:00",
+  "posted_count": 78,
   "articles": {
-    "scraped-5b92dcfa29": {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "slug": "bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mytho",
-      "url": "https://ushotnews.online/article/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mytho",
-      "article_url": "https://ushotnews.online/article/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mytho",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124685377471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124685377471257",
-      "fb_comment_id": "122124685377471257_1707893396979368",
-      "posted_at": "2026-10-15T00:26:28.070412+00:00"
-    },
-    "bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mytho": {
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
-      "slug": "bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mytho",
-      "url": "https://ushotnews.online/article/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mytho",
-      "article_url": "https://ushotnews.online/article/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mytho",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124685377471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124685377471257",
-      "fb_comment_id": "122124685377471257_1707893396979368",
-      "posted_at": "2026-10-15T00:26:28.070412+00:00"
-    },
-    "scraped-589578e5c3": {
-      "title": "Tomi Lahren suggests Tony Romo to listen to the advice he gave her during 2016 Trevor Noah backlash",
-      "slug": "tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
-      "url": "https://ushotnews.online/article/tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
-      "article_url": "https://ushotnews.online/article/tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124696681471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124696681471257",
-      "fb_comment_id": "122124696681471257_911994955181722",
-      "posted_at": "2026-10-15T01:40:21.126444+00:00"
-    },
-    "tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah": {
-      "title": "Tomi Lahren suggests Tony Romo to listen to the advice he gave her during 2016 Trevor Noah backlash",
-      "slug": "tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
-      "url": "https://ushotnews.online/article/tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
-      "article_url": "https://ushotnews.online/article/tomi-lahren-suggests-tony-romo-to-listen-to-the-advice-he-gave-her-during-2016-trevor-noah",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124696681471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124696681471257",
-      "fb_comment_id": "122124696681471257_911994955181722",
-      "posted_at": "2026-10-15T01:40:21.126444+00:00"
-    },
     "scraped-90d9681407": {
       "title": "Wildlife influencer comes close to losing a wrestling match to a 19-foot reticulated python",
       "slug": "wildlife-influencer-comes-close-to-losing-a-wrestling-match-to-a-19-foot-reticulated-pytho",
@@ -881,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125752411471257",
       "fb_comment_id": "122125752411471257_2252903488823615",
       "posted_at": "2026-10-18T00:13:53.554942+00:00"
+    },
+    "scraped-79827b0dad": {
+      "title": "TikTok bans Musk documentary account",
+      "slug": "tiktok-bans-musk-documentary-account",
+      "url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
+      "article_url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125788753471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125788753471257",
+      "fb_comment_id": "122125788753471257_1763362108299167",
+      "posted_at": "2026-10-18T03:11:52.842828+00:00"
+    },
+    "tiktok-bans-musk-documentary-account": {
+      "title": "TikTok bans Musk documentary account",
+      "slug": "tiktok-bans-musk-documentary-account",
+      "url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
+      "article_url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125788753471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125788753471257",
+      "fb_comment_id": "122125788753471257_1763362108299167",
+      "posted_at": "2026-10-18T03:11:52.842828+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T00:13:39.256472+00:00"
+  "last_cleaned_at": "2026-10-18T03:11:38.552961+00:00"
 }
