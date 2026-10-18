@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T12:43:44.833934+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-10-18T13:55:53.541154+00:00",
+  "posted_count": 80,
   "articles": {
     "scraped-db451d8c3b": {
       "title": "Elizabeth Hurley sizzles in bathrobe as diamond ring sparks Billy Ray Cyrus romance speculation",
@@ -859,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125916517471257",
       "fb_comment_id": "122125916517471257_1024428416723717",
       "posted_at": "2026-10-18T12:43:44.833888+00:00"
+    },
+    "scraped-bf70636f3e": {
+      "title": "Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well",
+      "slug": "three-men-get-158-years-each-for-murdering-american-and-australian-surfers-dumping-bodies-",
+      "url": "https://ushotnews.online/article/three-men-get-158-years-each-for-murdering-american-and-australian-surfers-dumping-bodies-",
+      "article_url": "https://ushotnews.online/article/three-men-get-158-years-each-for-murdering-american-and-australian-surfers-dumping-bodies-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125931811471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125931811471257",
+      "fb_comment_id": "122125931811471257_1759265605159509",
+      "posted_at": "2026-10-18T13:55:53.541084+00:00"
+    },
+    "three-men-get-158-years-each-for-murdering-american-and-australian-surfers-dumping-bodies-": {
+      "title": "Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well",
+      "slug": "three-men-get-158-years-each-for-murdering-american-and-australian-surfers-dumping-bodies-",
+      "url": "https://ushotnews.online/article/three-men-get-158-years-each-for-murdering-american-and-australian-surfers-dumping-bodies-",
+      "article_url": "https://ushotnews.online/article/three-men-get-158-years-each-for-murdering-american-and-australian-surfers-dumping-bodies-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125931811471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125931811471257",
+      "fb_comment_id": "122125931811471257_1759265605159509",
+      "posted_at": "2026-10-18T13:55:53.541084+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T12:43:30.649815+00:00"
+  "last_cleaned_at": "2026-10-18T13:55:41.340689+00:00"
 }
