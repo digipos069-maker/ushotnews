@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T21:16:58.700448+00:00",
-  "posted_count": 82,
+  "last_updated": "2026-10-18T22:22:52.855788+00:00",
+  "posted_count": 84,
   "articles": {
     "scraped-f89b31d7ad": {
       "title": "Warriors rookie's reaction to learning he'd guard Lakers superstar Luka Dončić goes viral: 'What the f---?'",
@@ -903,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126026257471257",
       "fb_comment_id": "122126026257471257_1520647386492163",
       "posted_at": "2026-10-18T21:16:58.700387+00:00"
+    },
+    "scraped-fe9e92ef35": {
+      "title": "Pro-Israel leader warns Democrats failing to condemn ‘vicious Jew haters’ in Congress",
+      "slug": "pro-israel-leader-warns-democrats-failing-to-condemn-vicious-jew-haters-in-congress",
+      "url": "https://ushotnews.online/article/pro-israel-leader-warns-democrats-failing-to-condemn-vicious-jew-haters-in-congress",
+      "article_url": "https://ushotnews.online/article/pro-israel-leader-warns-democrats-failing-to-condemn-vicious-jew-haters-in-congress",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126037717471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126037717471257",
+      "fb_comment_id": "122126037717471257_1176206771644131",
+      "posted_at": "2026-10-18T22:22:52.855719+00:00"
+    },
+    "pro-israel-leader-warns-democrats-failing-to-condemn-vicious-jew-haters-in-congress": {
+      "title": "Pro-Israel leader warns Democrats failing to condemn ‘vicious Jew haters’ in Congress",
+      "slug": "pro-israel-leader-warns-democrats-failing-to-condemn-vicious-jew-haters-in-congress",
+      "url": "https://ushotnews.online/article/pro-israel-leader-warns-democrats-failing-to-condemn-vicious-jew-haters-in-congress",
+      "article_url": "https://ushotnews.online/article/pro-israel-leader-warns-democrats-failing-to-condemn-vicious-jew-haters-in-congress",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126037717471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126037717471257",
+      "fb_comment_id": "122126037717471257_1176206771644131",
+      "posted_at": "2026-10-18T22:22:52.855719+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T21:16:44.615059+00:00"
+  "last_cleaned_at": "2026-10-18T22:22:42.262666+00:00"
 }
