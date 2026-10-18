@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-18T17:15:32.284662+00:00",
+  "last_updated": "2026-10-18T18:47:42.740014+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-007c2e1e44": {
-      "title": "Lost piece of Jesus' world emerges after 2,000 years in extraordinary discovery",
-      "slug": "lost-piece-of-jesus-world-emerges-after-2000-years-in-extraordinary-discovery",
-      "url": "https://ushotnews.online/article/lost-piece-of-jesus-world-emerges-after-2000-years-in-extraordinary-discovery",
-      "article_url": "https://ushotnews.online/article/lost-piece-of-jesus-world-emerges-after-2000-years-in-extraordinary-discovery",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124979311471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124979311471257",
-      "fb_comment_id": "122124979311471257_4721576748130657",
-      "posted_at": "2026-10-15T17:37:54.992097+00:00"
-    },
-    "lost-piece-of-jesus-world-emerges-after-2000-years-in-extraordinary-discovery": {
-      "title": "Lost piece of Jesus' world emerges after 2,000 years in extraordinary discovery",
-      "slug": "lost-piece-of-jesus-world-emerges-after-2000-years-in-extraordinary-discovery",
-      "url": "https://ushotnews.online/article/lost-piece-of-jesus-world-emerges-after-2000-years-in-extraordinary-discovery",
-      "article_url": "https://ushotnews.online/article/lost-piece-of-jesus-world-emerges-after-2000-years-in-extraordinary-discovery",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124979311471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124979311471257",
-      "fb_comment_id": "122124979311471257_4721576748130657",
-      "posted_at": "2026-10-15T17:37:54.992097+00:00"
-    },
     "scraped-c89fd55127": {
       "title": "Trump announces Montana 'super range' at midterm rally for Pentagon to test advanced war technology",
       "slug": "trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125969893471257",
       "fb_comment_id": "122125969893471257_948455927957489",
       "posted_at": "2026-10-18T17:15:32.284581+00:00"
+    },
+    "scraped-cb5088d7e2": {
+      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+      "slug": "iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-repo",
+      "url": "https://ushotnews.online/article/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-repo",
+      "article_url": "https://ushotnews.online/article/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-repo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125995801471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125995801471257",
+      "fb_comment_id": "122125995801471257_1103695625735481",
+      "posted_at": "2026-10-18T18:47:42.739949+00:00"
+    },
+    "iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-repo": {
+      "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+      "slug": "iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-repo",
+      "url": "https://ushotnews.online/article/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-repo",
+      "article_url": "https://ushotnews.online/article/iran-says-it-has-a-new-operational-plan-if-the-us-resumes-attacks-as-shipping-vessels-repo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125995801471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125995801471257",
+      "fb_comment_id": "122125995801471257_1103695625735481",
+      "posted_at": "2026-10-18T18:47:42.739949+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T17:15:14.659776+00:00"
+  "last_cleaned_at": "2026-10-18T18:47:30.670359+00:00"
 }
