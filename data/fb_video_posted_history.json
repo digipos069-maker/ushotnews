@@ -1,40 +1,7 @@
 {
-  "last_updated": "2026-10-17T20:25:31.378292+00:00",
-  "posted_count": 15,
+  "last_updated": "2026-10-18T13:53:38.831606+00:00",
+  "posted_count": 13,
   "articles": {
-    "dvids-video:1026390": {
-      "title": "Promote the Corps: Staff Sgt. Thornton",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112057643/DOD_112057643.mp4",
-      "attached_website_url": "https://ushotnews.online/article/i-think-alaskas-turning-blue-republicans-fret-sullivans-path-to-reelection",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "1680770947094271",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1680770947094271",
-      "fb_comment_id": "1680770947094271_3529321730579917",
-      "posted_at": "2026-10-14T23:06:51.518843+00:00"
-    },
-    "dvids-video:1026421": {
-      "title": "Fire House Olympics",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112058197/DOD_112058197.mp4",
-      "attached_website_url": "https://ushotnews.online/article/trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1130085352738169",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1130085352738169",
-      "fb_comment_id": "1130085352738169_1401597491954425",
-      "posted_at": "2026-10-15T04:07:18.626951+00:00"
-    },
-    "dvids-video:1026429": {
-      "title": "Wet Gap Crossing Reel",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112058727/DOD_112058727.mp4",
-      "attached_website_url": "https://ushotnews.online/article/trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1607312554181593",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1607312554181593",
-      "fb_comment_id": "1607312554181593_2208723203406995",
-      "posted_at": "2026-10-15T11:13:25.412159+00:00"
-    },
     "dvids-video:1026448": {
       "title": "BOP Tool Mobile App Demonstration",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112059008/DOD_112059008.mp4",
@@ -166,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1026063397162493",
       "fb_comment_id": "1026063397162493_3995786907384168",
       "posted_at": "2026-10-17T20:25:31.378232+00:00"
+    },
+    "dvids-video:1026712": {
+      "title": "101st Air Refueling Wing Trunk or Treat 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112078938/DOD_112078938.mp4",
+      "attached_website_url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1281325534139735",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1281325534139735",
+      "fb_comment_id": "1281325534139735_2746796252383523",
+      "posted_at": "2026-10-18T13:53:38.831540+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T20:23:40.017420+00:00"
+  "last_cleaned_at": "2026-10-18T13:52:22.192887+00:00"
 }
