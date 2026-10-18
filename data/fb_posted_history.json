@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T16:22:25.213562+00:00",
-  "posted_count": 80,
+  "last_updated": "2026-10-18T17:15:32.284662+00:00",
+  "posted_count": 82,
   "articles": {
     "scraped-007c2e1e44": {
       "title": "Lost piece of Jesus' world emerges after 2,000 years in extraordinary discovery",
@@ -881,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125959831471257",
       "fb_comment_id": "122125959831471257_4669286623303819",
       "posted_at": "2026-10-18T16:22:25.213501+00:00"
+    },
+    "scraped-92bb6354a8": {
+      "title": "Rays even ALCS at two games apiece with Game 4 win over Guardians after series postponement",
+      "slug": "rays-even-alcs-at-two-games-apiece-with-game-4-win-over-guardians-after-series-postponemen",
+      "url": "https://ushotnews.online/article/rays-even-alcs-at-two-games-apiece-with-game-4-win-over-guardians-after-series-postponemen",
+      "article_url": "https://ushotnews.online/article/rays-even-alcs-at-two-games-apiece-with-game-4-win-over-guardians-after-series-postponemen",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125969893471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125969893471257",
+      "fb_comment_id": "122125969893471257_948455927957489",
+      "posted_at": "2026-10-18T17:15:32.284581+00:00"
+    },
+    "rays-even-alcs-at-two-games-apiece-with-game-4-win-over-guardians-after-series-postponemen": {
+      "title": "Rays even ALCS at two games apiece with Game 4 win over Guardians after series postponement",
+      "slug": "rays-even-alcs-at-two-games-apiece-with-game-4-win-over-guardians-after-series-postponemen",
+      "url": "https://ushotnews.online/article/rays-even-alcs-at-two-games-apiece-with-game-4-win-over-guardians-after-series-postponemen",
+      "article_url": "https://ushotnews.online/article/rays-even-alcs-at-two-games-apiece-with-game-4-win-over-guardians-after-series-postponemen",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125969893471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125969893471257",
+      "fb_comment_id": "122125969893471257_948455927957489",
+      "posted_at": "2026-10-18T17:15:32.284581+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T16:22:12.719599+00:00"
+  "last_cleaned_at": "2026-10-18T17:15:14.659776+00:00"
 }
