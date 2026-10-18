@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T03:11:52.842898+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-10-18T05:02:40.138872+00:00",
+  "posted_count": 80,
   "articles": {
     "scraped-90d9681407": {
       "title": "Wildlife influencer comes close to losing a wrestling match to a 19-foot reticulated python",
@@ -859,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125788753471257",
       "fb_comment_id": "122125788753471257_1763362108299167",
       "posted_at": "2026-10-18T03:11:52.842828+00:00"
+    },
+    "scraped-28d7e5c800": {
+      "title": "Here's some tips on how to organize photos with keywords on your phone",
+      "slug": "heres-some-tips-on-how-to-organize-photos-with-keywords-on-your-phone",
+      "url": "https://ushotnews.online/article/heres-some-tips-on-how-to-organize-photos-with-keywords-on-your-phone",
+      "article_url": "https://ushotnews.online/article/heres-some-tips-on-how-to-organize-photos-with-keywords-on-your-phone",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125810455471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125810455471257",
+      "fb_comment_id": "122125810455471257_2185993615628822",
+      "posted_at": "2026-10-18T05:02:40.138798+00:00"
+    },
+    "heres-some-tips-on-how-to-organize-photos-with-keywords-on-your-phone": {
+      "title": "Here's some tips on how to organize photos with keywords on your phone",
+      "slug": "heres-some-tips-on-how-to-organize-photos-with-keywords-on-your-phone",
+      "url": "https://ushotnews.online/article/heres-some-tips-on-how-to-organize-photos-with-keywords-on-your-phone",
+      "article_url": "https://ushotnews.online/article/heres-some-tips-on-how-to-organize-photos-with-keywords-on-your-phone",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125810455471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125810455471257",
+      "fb_comment_id": "122125810455471257_2185993615628822",
+      "posted_at": "2026-10-18T05:02:40.138798+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T03:11:38.552961+00:00"
+  "last_cleaned_at": "2026-10-18T05:02:27.836885+00:00"
 }
