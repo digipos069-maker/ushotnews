@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-18T22:22:52.855788+00:00",
+  "last_updated": "2026-10-18T23:30:10.381139+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-f89b31d7ad": {
-      "title": "Warriors rookie's reaction to learning he'd guard Lakers superstar Luka Dončić goes viral: 'What the f---?'",
-      "slug": "warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
-      "url": "https://ushotnews.online/article/warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
-      "article_url": "https://ushotnews.online/article/warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125043379471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125043379471257",
-      "fb_comment_id": "122125043379471257_2076752646347128",
-      "posted_at": "2026-10-15T22:38:54.004276+00:00"
-    },
-    "warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh": {
-      "title": "Warriors rookie's reaction to learning he'd guard Lakers superstar Luka Dončić goes viral: 'What the f---?'",
-      "slug": "warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
-      "url": "https://ushotnews.online/article/warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
-      "article_url": "https://ushotnews.online/article/warriors-rookies-reaction-to-learning-hed-guard-lakers-superstar-luka-dončić-goes-viral-wh",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125043379471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125043379471257",
-      "fb_comment_id": "122125043379471257_2076752646347128",
-      "posted_at": "2026-10-15T22:38:54.004276+00:00"
-    },
     "scraped-813aa093cc": {
       "title": "Washington state's high school sports league puts onus for trans athlete controversy on state laws",
       "slug": "washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126037717471257",
       "fb_comment_id": "122126037717471257_1176206771644131",
       "posted_at": "2026-10-18T22:22:52.855719+00:00"
+    },
+    "scraped-b19ed19246": {
+      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "slug": "lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
+      "url": "https://ushotnews.online/article/lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
+      "article_url": "https://ushotnews.online/article/lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126052303471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126052303471257",
+      "fb_comment_id": "122126052303471257_2402531450559109",
+      "posted_at": "2026-10-18T23:30:10.381079+00:00"
+    },
+    "lenovos-fast-comfy-steamos-handheld-is-hundreds-off": {
+      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+      "slug": "lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
+      "url": "https://ushotnews.online/article/lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
+      "article_url": "https://ushotnews.online/article/lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126052303471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126052303471257",
+      "fb_comment_id": "122126052303471257_2402531450559109",
+      "posted_at": "2026-10-18T23:30:10.381079+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T22:22:42.262666+00:00"
+  "last_cleaned_at": "2026-10-18T23:29:54.233023+00:00"
 }
