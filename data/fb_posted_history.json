@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T23:46:06.912315+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-10-18T00:13:53.555012+00:00",
+  "posted_count": 80,
   "articles": {
     "scraped-5b92dcfa29": {
       "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos",
@@ -859,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125746825471257",
       "fb_comment_id": "122125746825471257_1790220778769500",
       "posted_at": "2026-10-17T23:46:06.912250+00:00"
+    },
+    "scraped-a3b02fed63": {
+      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "slug": "mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
+      "url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
+      "article_url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125752411471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125752411471257",
+      "fb_comment_id": "122125752411471257_2252903488823615",
+      "posted_at": "2026-10-18T00:13:53.554942+00:00"
+    },
+    "mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast": {
+      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+      "slug": "mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
+      "url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
+      "article_url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125752411471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125752411471257",
+      "fb_comment_id": "122125752411471257_2252903488823615",
+      "posted_at": "2026-10-18T00:13:53.554942+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-17T23:45:51.200144+00:00"
+  "last_cleaned_at": "2026-10-18T00:13:39.256472+00:00"
 }
