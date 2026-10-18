@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-18T13:55:53.541154+00:00",
+  "last_updated": "2026-10-18T16:22:25.213562+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-db451d8c3b": {
-      "title": "Elizabeth Hurley sizzles in bathrobe as diamond ring sparks Billy Ray Cyrus romance speculation",
-      "slug": "elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
-      "url": "https://ushotnews.online/article/elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
-      "article_url": "https://ushotnews.online/article/elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124924183471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124924183471257",
-      "fb_comment_id": "122124924183471257_1041848948872783",
-      "posted_at": "2026-10-15T15:18:24.477894+00:00"
-    },
-    "elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul": {
-      "title": "Elizabeth Hurley sizzles in bathrobe as diamond ring sparks Billy Ray Cyrus romance speculation",
-      "slug": "elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
-      "url": "https://ushotnews.online/article/elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
-      "article_url": "https://ushotnews.online/article/elizabeth-hurley-sizzles-in-bathrobe-as-diamond-ring-sparks-billy-ray-cyrus-romance-specul",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122124924183471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122124924183471257",
-      "fb_comment_id": "122124924183471257_1041848948872783",
-      "posted_at": "2026-10-15T15:18:24.477894+00:00"
-    },
     "scraped-007c2e1e44": {
       "title": "Lost piece of Jesus' world emerges after 2,000 years in extraordinary discovery",
       "slug": "lost-piece-of-jesus-world-emerges-after-2000-years-in-extraordinary-discovery",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125931811471257",
       "fb_comment_id": "122125931811471257_1759265605159509",
       "posted_at": "2026-10-18T13:55:53.541084+00:00"
+    },
+    "scraped-343b039ea2": {
+      "title": "Fatalities, injuries reported at Canadian Forces Base Wainwright in Alberta after 'incident' that sparked fire",
+      "slug": "fatalities-injuries-reported-at-canadian-forces-base-wainwright-in-alberta-after-incident-",
+      "url": "https://ushotnews.online/article/fatalities-injuries-reported-at-canadian-forces-base-wainwright-in-alberta-after-incident-",
+      "article_url": "https://ushotnews.online/article/fatalities-injuries-reported-at-canadian-forces-base-wainwright-in-alberta-after-incident-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125959831471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125959831471257",
+      "fb_comment_id": "122125959831471257_4669286623303819",
+      "posted_at": "2026-10-18T16:22:25.213501+00:00"
+    },
+    "fatalities-injuries-reported-at-canadian-forces-base-wainwright-in-alberta-after-incident-": {
+      "title": "Fatalities, injuries reported at Canadian Forces Base Wainwright in Alberta after 'incident' that sparked fire",
+      "slug": "fatalities-injuries-reported-at-canadian-forces-base-wainwright-in-alberta-after-incident-",
+      "url": "https://ushotnews.online/article/fatalities-injuries-reported-at-canadian-forces-base-wainwright-in-alberta-after-incident-",
+      "article_url": "https://ushotnews.online/article/fatalities-injuries-reported-at-canadian-forces-base-wainwright-in-alberta-after-incident-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125959831471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125959831471257",
+      "fb_comment_id": "122125959831471257_4669286623303819",
+      "posted_at": "2026-10-18T16:22:25.213501+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T13:55:41.340689+00:00"
+  "last_cleaned_at": "2026-10-18T16:22:12.719599+00:00"
 }
