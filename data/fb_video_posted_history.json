@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-18T13:53:38.831606+00:00",
+  "last_updated": "2026-10-18T17:13:50.283397+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1026448": {
-      "title": "BOP Tool Mobile App Demonstration",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112059008/DOD_112059008.mp4",
-      "attached_website_url": "https://ushotnews.online/article/trump-torches-democrats-at-arizona-rally-warns-they-will-destroy-our-country-ahead-of-midt",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "3932502473565910",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3932502473565910",
-      "fb_comment_id": "3932502473565910_2287112562054597",
-      "posted_at": "2026-10-15T16:44:44.879501+00:00"
-    },
     "dvids-video:1026509": {
       "title": "Pfc. Dakoda Branski – Green Bay Packers Shout-out",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112062356/DOD_112062356.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1281325534139735",
       "fb_comment_id": "1281325534139735_2746796252383523",
       "posted_at": "2026-10-18T13:53:38.831540+00:00"
+    },
+    "dvids-video:1026716": {
+      "title": "Clearing the Air",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112079065/DOD_112079065.mp4",
+      "attached_website_url": "https://ushotnews.online/article/cities-want-to-put-the-boot-on-robotaxis",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1617624280145106",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1617624280145106",
+      "fb_comment_id": "1617624280145106_1082197864646746",
+      "posted_at": "2026-10-18T17:13:50.283338+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T13:52:22.192887+00:00"
+  "last_cleaned_at": "2026-10-18T17:12:15.483512+00:00"
 }
