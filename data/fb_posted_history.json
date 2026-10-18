@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T08:15:02.547807+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-10-18T09:50:36.571197+00:00",
+  "posted_count": 80,
   "articles": {
     "scraped-cd15fe7ae8": {
       "title": "DOJ threatens emergency legal action against California over suspected noncitizen voters",
@@ -859,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125853601471257",
       "fb_comment_id": "122125853601471257_1823684005339292",
       "posted_at": "2026-10-18T08:15:02.547747+00:00"
+    },
+    "scraped-1fa3abc39c": {
+      "title": "Megan Fox unveils provocative new photos as she launches new venture with OnlyFans co-founder",
+      "slug": "megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
+      "url": "https://ushotnews.online/article/megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
+      "article_url": "https://ushotnews.online/article/megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125871967471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125871967471257",
+      "fb_comment_id": "122125871967471257_2119556162264199",
+      "posted_at": "2026-10-18T09:50:36.571121+00:00"
+    },
+    "megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun": {
+      "title": "Megan Fox unveils provocative new photos as she launches new venture with OnlyFans co-founder",
+      "slug": "megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
+      "url": "https://ushotnews.online/article/megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
+      "article_url": "https://ushotnews.online/article/megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122125871967471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125871967471257",
+      "fb_comment_id": "122125871967471257_2119556162264199",
+      "posted_at": "2026-10-18T09:50:36.571121+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T08:14:54.716407+00:00"
+  "last_cleaned_at": "2026-10-18T09:50:23.231649+00:00"
 }
