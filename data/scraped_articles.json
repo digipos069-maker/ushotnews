@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-43fcaf9db7",
+    "slug": "democrats-tejano-star-sings-to-swing-south-texas",
+    "guid": "000001a1-4fbd-d365-a3e9-4fbfa3800000",
+    "title": "Democrats’ Tejano star sings to swing South Texas",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Bobby Pulido is trying to flip a district that’s slipped from Democrats. The Tejano singer might be the answer to winning culturally conservative Latino voters.",
+    "content": [
+      "Bobby Pulido is trying to flip a district that’s slipped from Democrats. The Tejano singer might be the answer to winning culturally conservative Latino voters.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/f9/31/3c28090247a986cab0a6f1267bb5/img-7212.jpg",
+    "imageCaption": "Democrats’ Tejano star sings to swing South Texas... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T17:05:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-14a8c7eb1f",
+    "slug": "video-game-ownership-bill-introduced-in-congress",
+    "guid": "https://www.theverge.com/?p=1013521",
+    "title": "Video game ownership bill introduced in Congress",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasingly common for [&#8230;]",
+    "content": [
+      "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasingly common for [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Video game ownership bill introduced in Congress... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T16:27:51+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-540488557b",
+    "slug": "a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "guid": "https://www.theverge.com/?p=1013541",
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
+    "content": [
+      "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A woman was arrested in Philly for blocking a delivery robot... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T18:28:10+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e9de0507d0",
+    "slug": "trump-defers-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+    "guid": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
+    "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
+    "content": [
+      "President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump defers federal diesel taxes to help farmers, but state... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T12:00:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0cb74054f9",
+    "slug": "noah-adams-longtime-host-of-nprs-all-things-considered-has-died",
+    "guid": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
+    "title": "Noah Adams, longtime host of NPR's All Things Considered, has died",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "One of NPR's most gifted storytellers, his soft voice and vivid writing helped define the network's sound for a generation of Americans.",
+    "content": [
+      "One of NPR's most gifted storytellers, his soft voice and vivid writing helped define the network's sound for a generation of Americans.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Noah Adams, longtime host of NPR's All Things Considered, ha... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T16:30:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd35d5cee6",
+    "slug": "ukraine-and-the-us-are-at-odds-over-starshield-heres-what-to-know",
+    "guid": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+    "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+    "content": [
+      "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Ukraine and the U.S. are at odds over Starshield. Here's wha... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T18:38:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f6879ca3cc",
+    "slug": "betmgm-bonus-code-foxnews-cover-your-first-rays-guardians-game-5-bet-up-to-1500",
+    "guid": "https://www.foxnews.com/outkick-betting/betmgm-bonus-code-foxnews-cover-your-first-rays-guardians-game-5-bet-up-1500",
+    "title": "BetMGM Bonus Code FOXNEWS: Cover Your First Rays-Guardians Game 5 Bet up to $1500",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Use BetMGM promo code FOXNEWS to get a refund of your first losing bet, up to $1,500, when wagering on Rays-Guardians Game 5.",
+    "content": [
+      "Use BetMGM promo code FOXNEWS to get a refund of your first losing bet, up to $1,500, when wagering on Rays-Guardians Game 5.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/junior-caminero-10-17-26.jpg?ve=1&tl=1",
+    "imageCaption": "BetMGM Bonus Code FOXNEWS: Cover Your First Rays-Guardians G... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T17:11:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fe9e92ef35",
+    "slug": "pro-israel-leader-warns-democrats-failing-to-condemn-vicious-jew-haters-in-congress",
+    "guid": "https://www.foxnews.com/politics/pro-israel-leader-warns-democrats-failing-condemn-vicious-jew-haters-congress",
+    "title": "Pro-Israel leader warns Democrats failing to condemn ‘vicious Jew haters’ in Congress",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Democratic Sen.-nominee Abdul El-Sayed&apos;s refusal to call Iran a bigger threat than Israel at a Michigan Senate debate alarmed ZOA&apos;s Morton Klein.",
+    "content": [
+      "Democratic Sen.-nominee Abdul El-Sayed&apos;s refusal to call Iran a bigger threat than Israel at a Michigan Senate debate alarmed ZOA&apos;s Morton Klein.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/10/931/523/Ilhan-Omar-Rashida-Tlaib.jpg?ve=1&tl=1",
+    "imageCaption": "Pro-Israel leader warns Democrats failing to condemn ‘viciou... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T17:49:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4dcf969f3b",
+    "slug": "photos-show-aftermath-of-riots-as-masked-groups-clash-with-police-across-france",
+    "guid": "https://www.foxnews.com/politics/photos-show-aftermath-riots-masked-groups-clash-police-across-france",
+    "title": "Photos show aftermath of riots as masked groups clash with police across France",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Paris streets littered with burned cars and shattered storefronts as police report 1,800 arrests nationwide following violent clashes over living costs.",
+    "content": [
+      "Paris streets littered with burned cars and shattered storefronts as police report 1,800 arrests nationwide following violent clashes over living costs.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/paris-fire-riots.png?ve=1&tl=1",
+    "imageCaption": "Photos show aftermath of riots as masked groups clash with p... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T17:53:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-18eb4048eb",
+    "slug": "canadian-pm-carney-says-4-service-members-killed-dozens-injured-in-military-base-fire",
+    "guid": "https://www.foxnews.com/world/canadian-pm-carney-4-service-members-killed-dozens-injured-military-base-fire",
+    "title": "Canadian PM Carney says 4 service members killed, dozens injured in military base fire",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Canadian Prime Minister Mark Carney confirmed four service members died after fierce 62 mph winds fueled flames at CFB Wainwright, Alberta.",
+    "content": [
+      "Canadian Prime Minister Mark Carney confirmed four service members died after fierce 62 mph winds fueled flames at CFB Wainwright, Alberta.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/canadian-forces-base-wainwright-fire.jpg?ve=1&tl=1",
+    "imageCaption": "Canadian PM Carney says 4 service members killed, dozens inj... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T17:54:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-54acac2cf0",
+    "slug": "courteney-cox-shows-off-beach-body-in-black-bikini-during-recent-trip-to-hawaii",
+    "guid": "https://www.foxnews.com/entertainment/courteney-cox-shows-beach-body-black-bikini-recent-trip-hawaii",
+    "title": "Courteney Cox shows off beach body in black bikini during recent trip to Hawaii",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Courteney Cox stunned in a black bikini during a Hawaii beach outing, and photos capture the 62-year-old&apos;s fit physique in the tropical surf.",
+    "content": [
+      "Courteney Cox stunned in a black bikini during a Hawaii beach outing, and photos capture the 62-year-old&apos;s fit physique in the tropical surf.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/courteney-cox-scream.jpg?ve=1&tl=1",
+    "imageCaption": "Courteney Cox shows off beach body in black bikini during re... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T18:00:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7ff26f5f5d",
+    "slug": "tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election",
+    "guid": "https://www.foxnews.com/media/tim-walz-takes-responsibility-minnesota-fraud-not-running-re-election-scandal-gift-gop",
+    "title": "Tim Walz says he takes responsibility for Minnesota fraud by not running for re-election",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tim Walz says he decided not to seek re-election over Minnesota&apos;s fraud scandal, calling it a gift to Republicans seeking to cut social programs.",
+    "content": [
+      "Tim Walz says he decided not to seek re-election over Minnesota&apos;s fraud scandal, calling it a gift to Republicans seeking to cut social programs.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/walz-confused.png?ve=1&tl=1",
+    "imageCaption": "Tim Walz says he takes responsibility for Minnesota fraud by... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T18:00:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fed3d09139",
+    "slug": "nearly-800000-travelers-just-voted-to-name-the-absolute-best-cruise-lines-of-2026",
+    "guid": "https://www.foxnews.com/travel/nearly-800000-travelers-just-voted-name-absolute-best-cruise-lines-2026",
+    "title": "Nearly 800,000 travelers just voted to name the absolute best cruise lines of 2026",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Princess Cruises topped the megaship category in Condé Nast Traveler&apos;s Readers&apos; Choice Awards, beating Royal Caribbean International and MSC Cruises.",
+    "content": [
+      "Princess Cruises topped the megaship category in Condé Nast Traveler&apos;s Readers&apos; Choice Awards, beating Royal Caribbean International and MSC Cruises.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/people-watching-princess-cruises.jpg?ve=1&tl=1",
+    "imageCaption": "Nearly 800,000 travelers just voted to name the absolute bes... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T18:16:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ecb5f04855",
+    "slug": "byu-qb-bear-bachmeier-says-notre-dame-disrespected-him-and-his-family-following-upset-win-",
+    "guid": "https://www.foxnews.com/outkick-sports/byu-qb-bear-bachmeier-says-notre-dame-disrespected-him-family-following-upset-win-irish",
+    "title": "BYU QB Bear Bachmeier says Notre Dame 'disrespected' him and his family following upset win over Irish",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bear Bachmeier said Notre Dame disrespected him and his family during recruitment, fueling his dominant performance in BYU&apos;s 28-24 upset win.",
+    "content": [
+      "Bear Bachmeier said Notre Dame disrespected him and his family during recruitment, fueling his dominant performance in BYU&apos;s 28-24 upset win.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bear-bachmeir-featured.jpg?ve=1&tl=1",
+    "imageCaption": "BYU QB Bear Bachmeier says Notre Dame 'disrespected' him and... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-18T18:27:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-3fa4f347f3",
     "slug": "can-scott-colom-win-mississippi-senate-warnock-is-making-a-big-bet-on-it",
     "guid": "000001a1-45c6-dc9a-a9a3-5dfe70ac0000",
