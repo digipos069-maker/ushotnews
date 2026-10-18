@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-18T18:47:42.740014+00:00",
+  "last_updated": "2026-10-18T19:35:43.256582+00:00",
   "posted_count": 82,
   "articles": {
-    "scraped-c89fd55127": {
-      "title": "Trump announces Montana 'super range' at midterm rally for Pentagon to test advanced war technology",
-      "slug": "trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
-      "url": "https://ushotnews.online/article/trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
-      "article_url": "https://ushotnews.online/article/trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125002669471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125002669471257",
-      "fb_comment_id": "122125002669471257_3466026906890210",
-      "posted_at": "2026-10-15T19:21:13.605142+00:00"
-    },
-    "trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec": {
-      "title": "Trump announces Montana 'super range' at midterm rally for Pentagon to test advanced war technology",
-      "slug": "trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
-      "url": "https://ushotnews.online/article/trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
-      "article_url": "https://ushotnews.online/article/trump-announces-montana-super-range-at-midterm-rally-for-pentagon-to-test-advanced-war-tec",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125002669471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125002669471257",
-      "fb_comment_id": "122125002669471257_3466026906890210",
-      "posted_at": "2026-10-15T19:21:13.605142+00:00"
-    },
     "scraped-42095b9cb8": {
       "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
       "slug": "social-security-benefits-to-get-a-boost-and-hasan-piker-defends-his-rhetoric",
@@ -903,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125995801471257",
       "fb_comment_id": "122125995801471257_1103695625735481",
       "posted_at": "2026-10-18T18:47:42.739949+00:00"
+    },
+    "scraped-2b93dec26a": {
+      "title": "Jana Kramer says Los Angeles priced her out of the childhood she wanted for her kids",
+      "slug": "jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
+      "url": "https://ushotnews.online/article/jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
+      "article_url": "https://ushotnews.online/article/jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126005137471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126005137471257",
+      "fb_comment_id": "122126005137471257_2366761910804039",
+      "posted_at": "2026-10-18T19:35:43.256502+00:00"
+    },
+    "jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids": {
+      "title": "Jana Kramer says Los Angeles priced her out of the childhood she wanted for her kids",
+      "slug": "jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
+      "url": "https://ushotnews.online/article/jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
+      "article_url": "https://ushotnews.online/article/jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126005137471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126005137471257",
+      "fb_comment_id": "122126005137471257_2366761910804039",
+      "posted_at": "2026-10-18T19:35:43.256502+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T18:47:30.670359+00:00"
+  "last_cleaned_at": "2026-10-18T19:35:30.876627+00:00"
 }
