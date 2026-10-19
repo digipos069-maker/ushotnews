@@ -1,5 +1,671 @@
 [
   {
+    "id": "scraped-d45ae8671c",
+    "slug": "what-does-a-white-house-press-secretary-do",
+    "guid": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
+    "title": "What does a White House press secretary do?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Katie Zacharia's short time as White House press secretary has brought renewed attention to the high-profile role.",
+    "content": [
+      "Katie Zacharia's short time as White House press secretary has brought renewed attention to the high-profile role.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What does a White House press secretary do?... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T01:41:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1c299ee5aa",
+    "slug": "trump-to-close-and-renovate-dc-golf-course-despite-legal-battle",
+    "guid": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
+    "title": "Trump to close and renovate D.C. golf course, despite legal battle",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump continues his efforts to remake Washington, D.C. He wants to turn an area used by the public into a world-class golf course.",
+    "content": [
+      "President Trump continues his efforts to remake Washington, D.C. He wants to turn an area used by the public into a world-class golf course.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump to close and renovate D.C. golf course, despite legal ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T02:09:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d503bfcd5b",
+    "slug": "trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-for-reelection",
+    "guid": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+    "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
+    "content": [
+      "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump endorses embattled Israeli Prime Minister Benjamin Net... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T05:35:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a8c7253194",
+    "slug": "caitlin-clark-and-taylor-swift-spotted-together-again-cheering-on-travis-kelce-at-chiefs-g",
+    "guid": "https://www.foxnews.com/outkick-sports/caitlin-clark-taylor-swift-spotted-together-cheering-travis-kelce-chiefs-game",
+    "title": "Caitlin Clark and Taylor Swift spotted together again cheering on Travis Kelce at Chiefs game",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Caitlin Clark and Taylor Swift were spotted celebrating a Travis Kelce catch at Arrowhead Stadium as the Chiefs routed the Chargers on Sunday.",
+    "content": [
+      "Caitlin Clark and Taylor Swift were spotted celebrating a Travis Kelce catch at Arrowhead Stadium as the Chiefs routed the Chargers on Sunday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/taylor-swift-caitlin-clark-chiefs-chargers.jpg?ve=1&tl=1",
+    "imageCaption": "Caitlin Clark and Taylor Swift spotted together again cheeri... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T01:23:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-50f2da91af",
+    "slug": "massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
+    "guid": "https://www.foxnews.com/politics/massachusetts-gop-ticket-rocked-alleged-drunken-crash-candidate-abruptly-halts-campaign",
+    "title": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Massachusetts Republican Shawn Oliver suspended his lieutenant governor campaign after a DUI arrest following a rollover crash in New Bedford.",
+    "content": [
+      "Massachusetts Republican Shawn Oliver suspended his lieutenant governor campaign after a DUI arrest following a rollover crash in New Bedford.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/shawn-oliver-massachusetts-lieutenant-governor-headset.png?ve=1&tl=1",
+    "imageCaption": "Massachusetts GOP ticket rocked by alleged drunken crash as ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T01:31:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-77ae2290cf",
+    "slug": "kevin-bacon-pleads-for-help-recovering-missing-fedex-package-rerouted-multiple-times-aroun",
+    "guid": "https://www.foxnews.com/entertainment/kevin-bacon-pleads-help-recovering-missing-fedex-package-rerouted-multiple-times-globe",
+    "title": "Kevin Bacon pleads for help recovering missing FedEx package rerouted multiple times around the globe",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kevin Bacon&apos;s FedEx package of sentimental &apos;90s clothes was shipped to Israel instead of Ireland and bounced through multiple countries since.",
+    "content": [
+      "Kevin Bacon&apos;s FedEx package of sentimental &apos;90s clothes was shipped to Israel instead of Ireland and bounced through multiple countries since.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/kevinbacon.jpg?ve=1&tl=1",
+    "imageCaption": "Kevin Bacon pleads for help recovering missing FedEx package... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T02:19:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4fc3a1b787",
+    "slug": "strait-of-hormuz-crisis-traps-6000-sailors-as-attacks-on-ships-mount-un-maritime-chief-say",
+    "guid": "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says",
+    "title": "Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Around 6,000 seafarers remain trapped near the Strait of Hormuz as 24 ships face attacks, while Iran accuses the U.S. military of using VHF Channel 16.",
+    "content": [
+      "Around 6,000 seafarers remain trapped near the Strait of Hormuz as 24 ships face attacks, while Iran accuses the U.S. military of using VHF Channel 16.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/marines-hormuz.jpeg?ve=1&tl=1",
+    "imageCaption": "Strait of Hormuz crisis traps 6,000 sailors as attacks on sh... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T02:23:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5dae274f18",
+    "slug": "arizona-man-accused-of-plotting-mass-casualty-attack-on-religious-site-with-cookbook-tied-",
+    "guid": "https://www.foxnews.com/us/arizona-man-accused-plotting-mass-casualty-attack-religious-site-cookbook-tied-okc-bombing",
+    "title": "Arizona man accused of plotting mass casualty attack on religious site with 'cookbook' tied to OKC bombing",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Prosecutors accused an Arizona man of keeping the Oklahoma City bombing-linked Anarchist Cookbook as his Bible while allegedly plotting a religious site attack.",
+    "content": [
+      "Prosecutors accused an Arizona man of keeping the Oklahoma City bombing-linked Anarchist Cookbook as his Bible while allegedly plotting a religious site attack.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Matthew-Bjornholt-az-terror-suspect-book.png?ve=1&tl=1",
+    "imageCaption": "Arizona man accused of plotting mass casualty attack on reli... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T02:45:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-64dd8a29cf",
+    "slug": "nfc-east-nearing-second-straight-winless-week-as-packers-beat-struggling-cowboys-on-sunday",
+    "guid": "https://www.foxnews.com/outkick-sports/nfc-east-nearing-second-straight-winless-week-packers-beat-struggling-cowboys-sunday-night-football",
+    "title": "NFC East nearing second straight winless week as Packers beat struggling Cowboys on 'Sunday Night Football'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jordan Love and the Green Bay Packers routed the Dallas Cowboys on Sunday Night Football as the NFC East&apos;s winless streak could hit two weeks.",
+    "content": [
+      "Jordan Love and the Green Bay Packers routed the Dallas Cowboys on Sunday Night Football as the NFC East&apos;s winless streak could hit two weeks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/matthew-golden-touchdown-celebration-lambeau.jpg?ve=1&tl=1",
+    "imageCaption": "NFC East nearing second straight winless week as Packers bea... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T04:02:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d447cdf32f",
+    "slug": "florida-attorney-general-james-uthmeier-secures-state-arrest-warrant-for-raúl-castro",
+    "guid": "https://www.foxnews.com/us/florida-attorney-general-james-uthmeier-secures-state-arrest-warrant-raul-castro",
+    "title": "Florida Attorney General James Uthmeier secures state arrest warrant for Raúl Castro",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A no-bond Florida arrest warrant charges Raúl Castro with conspiracy to commit first-degree murder in the 1996 Brothers to the Rescue shootdown.",
+    "content": [
+      "A no-bond Florida arrest warrant charges Raúl Castro with conspiracy to commit first-degree murder in the 1996 Brothers to the Rescue shootdown.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/raul-castro-havana-appearance.jpeg?ve=1&tl=1",
+    "imageCaption": "Florida Attorney General James Uthmeier secures state arrest... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T04:15:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d35bd47d5f",
+    "slug": "firefighters-save-historic-godfather-church-from-raging-nyc-warehouse-blaze",
+    "guid": "https://www.foxnews.com/us/firefighters-save-historic-godfather-church-raging-nyc-warehouse-blaze",
+    "title": "Firefighters save historic 'Godfather' church from raging NYC warehouse blaze",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A fire at a vacant warehouse threatened the Staten Island church featured in The Godfather, but the iconic building was saved from the blaze.",
+    "content": [
+      "A fire at a vacant warehouse threatened the Staten Island church featured in The Godfather, but the iconic building was saved from the blaze.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/fdny-crew-fire-historic-building-saved-hose.png?ve=1&tl=1",
+    "imageCaption": "Firefighters save historic 'Godfather' church from raging NY... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T06:42:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd1badab6a",
+    "slug": "chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround",
+    "guid": "108430237",
+    "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+    "content": [
+      "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "China's CXMT sees shares drop over 6% as investors look past... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T01:56:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e68eeb5bbe",
+    "slug": "chinas-third-quarter-economic-growth-quickens-to-45-as-exports-surge-beating-estimates",
+    "guid": "108430256",
+    "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
+    "content": [
+      "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "China's third-quarter economic growth quickens to 4.5% as ex... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T04:36:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-846527c924",
+    "slug": "indonesian-stocks-plunge-to-six-year-low-as-msci-downgrade-fears-mount",
+    "guid": "108430619",
+    "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Indonesia's benchmark stock index plunged to its lowest level in six years.",
+    "content": [
+      "Indonesia's benchmark stock index plunged to its lowest level in six years.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Indonesian stocks plunge to six-year low as MSCI downgrade f... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T03:00:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9effab168f",
+    "slug": "japanese-prime-minister-takaichi-rejects-criticism-around-weak-yen-and-high-interest-rates",
+    "guid": "108430806",
+    "title": "Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The prime minister denied that her policies were responsible for the yen’s weakness or rising JGB yields.",
+    "content": [
+      "The prime minister denied that her policies were responsible for the yen’s weakness or rising JGB yields.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Japanese Prime Minister Takaichi rejects criticism around we... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T05:29:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6b4ea9d576",
+    "slug": "openai-bugging-suspect-whatsapped-saudi-royal-days-before-arrest-feds-reveal",
+    "guid": "108430802",
+    "title": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before arrest, feds reveal",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+    "content": [
+      "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI bugging suspect WhatsApp'ed Saudi royal days before a... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T06:06:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-25d04c5746",
+    "slug": "france-hit-by-worst-unrest-in-years-as-attempts-to-rein-in-government-spending-meet-citize",
+    "guid": "108430305",
+    "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "France’s worst unrest in years saw thousands arrested, prompting President Macron to vow an “uncompromising” response ahead of a critical budget vote.",
+    "content": [
+      "France’s worst unrest in years saw thousands arrested, prompting President Macron to vow an “uncompromising” response ahead of a critical budget vote.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "France hit by worst unrest in years as attempts to rein in g... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T03:18:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-343af36306",
+    "slug": "putin-reportedly-suggests-summit-with-trump-and-xi-to-decide-fate-of-ukraine",
+    "guid": "108430239",
+    "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+    "content": [
+      "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Putin reportedly suggests summit with Trump and Xi to decide... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T03:56:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-2f6fafb262",
     "slug": "rams-have-a-legitimate-gripe-with-nfl-officials-but-their-2-4-record-is-the-bigger-problem",
     "guid": "https://www.foxnews.com/outkick-sports/rams-legitimate-gripe-nfl-officials-2-4-record-bigger-problem",
