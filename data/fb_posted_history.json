@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-19T01:35:31.140437+00:00",
+  "last_updated": "2026-10-19T05:12:06.030757+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-afb92c38e6": {
-      "title": "Former Cleveland Browns WR David Bell seeks $300M after botched surgery allegedly nearly killed him",
-      "slug": "former-cleveland-browns-wr-david-bell-seeks-300m-after-botched-surgery-allegedly-nearly-ki",
-      "url": "https://ushotnews.online/article/former-cleveland-browns-wr-david-bell-seeks-300m-after-botched-surgery-allegedly-nearly-ki",
-      "article_url": "https://ushotnews.online/article/former-cleveland-browns-wr-david-bell-seeks-300m-after-botched-surgery-allegedly-nearly-ki",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125106721471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125106721471257",
-      "fb_comment_id": "122125106721471257_1567932058441904",
-      "posted_at": "2026-10-16T03:18:30.901426+00:00"
-    },
-    "former-cleveland-browns-wr-david-bell-seeks-300m-after-botched-surgery-allegedly-nearly-ki": {
-      "title": "Former Cleveland Browns WR David Bell seeks $300M after botched surgery allegedly nearly killed him",
-      "slug": "former-cleveland-browns-wr-david-bell-seeks-300m-after-botched-surgery-allegedly-nearly-ki",
-      "url": "https://ushotnews.online/article/former-cleveland-browns-wr-david-bell-seeks-300m-after-botched-surgery-allegedly-nearly-ki",
-      "article_url": "https://ushotnews.online/article/former-cleveland-browns-wr-david-bell-seeks-300m-after-botched-surgery-allegedly-nearly-ki",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125106721471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125106721471257",
-      "fb_comment_id": "122125106721471257_1567932058441904",
-      "posted_at": "2026-10-16T03:18:30.901426+00:00"
-    },
     "scraped-798f7ca874": {
       "title": "Experimental skin cream linked to 2-year drop in biological age in early study",
       "slug": "experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126072913471257",
       "fb_comment_id": "122126072913471257_1093106423527865",
       "posted_at": "2026-10-19T01:35:31.140354+00:00"
+    },
+    "scraped-7257edb33e": {
+      "title": "Investigation launched after Air Force airman fatally falls before UTSA football game",
+      "slug": "investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
+      "url": "https://ushotnews.online/article/investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
+      "article_url": "https://ushotnews.online/article/investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126110383471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126110383471257",
+      "fb_comment_id": "122126110383471257_981126204394209",
+      "posted_at": "2026-10-19T05:12:06.030695+00:00"
+    },
+    "investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game": {
+      "title": "Investigation launched after Air Force airman fatally falls before UTSA football game",
+      "slug": "investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
+      "url": "https://ushotnews.online/article/investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
+      "article_url": "https://ushotnews.online/article/investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126110383471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126110383471257",
+      "fb_comment_id": "122126110383471257_981126204394209",
+      "posted_at": "2026-10-19T05:12:06.030695+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T01:35:16.355158+00:00"
+  "last_cleaned_at": "2026-10-19T05:11:52.125348+00:00"
 }
