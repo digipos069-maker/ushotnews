@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-19T07:21:47.865483+00:00",
+  "last_updated": "2026-10-19T11:10:40.270709+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-f5cd39f516": {
-      "title": "Steam can now show game achievements in separate ‘sets’",
-      "slug": "steam-can-now-show-game-achievements-in-separate-sets",
-      "url": "https://ushotnews.online/article/steam-can-now-show-game-achievements-in-separate-sets",
-      "article_url": "https://ushotnews.online/article/steam-can-now-show-game-achievements-in-separate-sets",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125158939471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125158939471257",
-      "fb_comment_id": "122125158939471257_2172004493350725",
-      "posted_at": "2026-10-16T08:25:22.529371+00:00"
-    },
-    "steam-can-now-show-game-achievements-in-separate-sets": {
-      "title": "Steam can now show game achievements in separate ‘sets’",
-      "slug": "steam-can-now-show-game-achievements-in-separate-sets",
-      "url": "https://ushotnews.online/article/steam-can-now-show-game-achievements-in-separate-sets",
-      "article_url": "https://ushotnews.online/article/steam-can-now-show-game-achievements-in-separate-sets",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125158939471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125158939471257",
-      "fb_comment_id": "122125158939471257_2172004493350725",
-      "posted_at": "2026-10-16T08:25:22.529371+00:00"
-    },
     "scraped-12831dc60f": {
       "title": "Trump posts AI-edited photo to brag about White House restoration work",
       "slug": "trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126135397471257",
       "fb_comment_id": "122126135397471257_1087609287595728",
       "posted_at": "2026-10-19T07:21:47.865425+00:00"
+    },
+    "scraped-b9fb18131f": {
+      "title": "Abdul El-Sayed invokes JFK to dismiss 'crazy' questions over family's alleged ties to Muslim Brotherhood",
+      "slug": "abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
+      "url": "https://ushotnews.online/article/abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
+      "article_url": "https://ushotnews.online/article/abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126188947471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126188947471257",
+      "fb_comment_id": "122126188947471257_1419858609820128",
+      "posted_at": "2026-10-19T11:10:40.270646+00:00"
+    },
+    "abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-": {
+      "title": "Abdul El-Sayed invokes JFK to dismiss 'crazy' questions over family's alleged ties to Muslim Brotherhood",
+      "slug": "abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
+      "url": "https://ushotnews.online/article/abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
+      "article_url": "https://ushotnews.online/article/abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126188947471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126188947471257",
+      "fb_comment_id": "122126188947471257_1419858609820128",
+      "posted_at": "2026-10-19T11:10:40.270646+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T07:21:34.722741+00:00"
+  "last_cleaned_at": "2026-10-19T11:10:27.326388+00:00"
 }
