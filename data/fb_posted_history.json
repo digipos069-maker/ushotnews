@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-19T11:10:40.270709+00:00",
-  "posted_count": 84,
+  "last_updated": "2026-10-19T14:53:05.906729+00:00",
+  "posted_count": 82,
   "articles": {
-    "scraped-12831dc60f": {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "slug": "trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
-      "url": "https://ushotnews.online/article/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
-      "article_url": "https://ushotnews.online/article/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125210677471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125210677471257",
-      "fb_comment_id": "122125210677471257_1470775258233451",
-      "posted_at": "2026-10-16T11:50:33.971644+00:00"
-    },
-    "trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work": {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "slug": "trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
-      "url": "https://ushotnews.online/article/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
-      "article_url": "https://ushotnews.online/article/trump-posts-ai-edited-photo-to-brag-about-white-house-restoration-work",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125210677471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125210677471257",
-      "fb_comment_id": "122125210677471257_1470775258233451",
-      "posted_at": "2026-10-16T11:50:33.971644+00:00"
-    },
-    "scraped-87f5057073": {
-      "title": "Trans neo-Nazi accused of plotting Hindu temple massacre, will receive hormone treatment in jail: officials",
-      "slug": "trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
-      "url": "https://ushotnews.online/article/trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
-      "article_url": "https://ushotnews.online/article/trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125236333471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125236333471257",
-      "fb_comment_id": "122125236333471257_1419466032988772",
-      "posted_at": "2026-10-16T13:26:20.522230+00:00"
-    },
-    "trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in": {
-      "title": "Trans neo-Nazi accused of plotting Hindu temple massacre, will receive hormone treatment in jail: officials",
-      "slug": "trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
-      "url": "https://ushotnews.online/article/trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
-      "article_url": "https://ushotnews.online/article/trans-neo-nazi-accused-of-plotting-hindu-temple-massacre-will-receive-hormone-treatment-in",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125236333471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125236333471257",
-      "fb_comment_id": "122125236333471257_1419466032988772",
-      "posted_at": "2026-10-16T13:26:20.522230+00:00"
-    },
     "scraped-a39fc93632": {
       "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
       "slug": "the-sony-xperia-10-vi-wont-be-getting-a-promised-update-to-android-17",
@@ -925,7 +881,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126188947471257",
       "fb_comment_id": "122126188947471257_1419858609820128",
       "posted_at": "2026-10-19T11:10:40.270646+00:00"
+    },
+    "scraped-50f2da91af": {
+      "title": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign",
+      "slug": "massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
+      "url": "https://ushotnews.online/article/massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
+      "article_url": "https://ushotnews.online/article/massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126244423471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126244423471257",
+      "fb_comment_id": "122126244423471257_2214591312814584",
+      "posted_at": "2026-10-19T14:53:05.906631+00:00"
+    },
+    "massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa": {
+      "title": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign",
+      "slug": "massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
+      "url": "https://ushotnews.online/article/massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
+      "article_url": "https://ushotnews.online/article/massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126244423471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126244423471257",
+      "fb_comment_id": "122126244423471257_2214591312814584",
+      "posted_at": "2026-10-19T14:53:05.906631+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T11:10:27.326388+00:00"
+  "last_cleaned_at": "2026-10-19T14:52:52.182071+00:00"
 }
