@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-19T17:43:25.044843+00:00",
+  "last_updated": "2026-10-19T20:23:47.432562+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-cfe2908025": {
-      "title": "The first vibe-coded gun is here",
-      "slug": "the-first-vibe-coded-gun-is-here",
-      "url": "https://ushotnews.online/article/the-first-vibe-coded-gun-is-here",
-      "article_url": "https://ushotnews.online/article/the-first-vibe-coded-gun-is-here",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125341615471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125341615471257",
-      "fb_comment_id": "122125341615471257_1084202984604536",
-      "posted_at": "2026-10-16T19:41:41.544765+00:00"
-    },
-    "the-first-vibe-coded-gun-is-here": {
-      "title": "The first vibe-coded gun is here",
-      "slug": "the-first-vibe-coded-gun-is-here",
-      "url": "https://ushotnews.online/article/the-first-vibe-coded-gun-is-here",
-      "article_url": "https://ushotnews.online/article/the-first-vibe-coded-gun-is-here",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125341615471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125341615471257",
-      "fb_comment_id": "122125341615471257_1084202984604536",
-      "posted_at": "2026-10-16T19:41:41.544765+00:00"
-    },
     "scraped-6d283e9f4f": {
       "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
       "slug": "teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126288649471257",
       "fb_comment_id": "122126288649471257_1532175362276504",
       "posted_at": "2026-10-19T17:43:25.044767+00:00"
+    },
+    "scraped-ae19a8ac78": {
+      "title": "The real reason it's going to take a while to know who won in some midterm races",
+      "slug": "the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
+      "url": "https://ushotnews.online/article/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
+      "article_url": "https://ushotnews.online/article/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126326527471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126326527471257",
+      "fb_comment_id": "122126326527471257_2058668044786330",
+      "posted_at": "2026-10-19T20:23:47.432504+00:00"
+    },
+    "the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races": {
+      "title": "The real reason it's going to take a while to know who won in some midterm races",
+      "slug": "the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
+      "url": "https://ushotnews.online/article/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
+      "article_url": "https://ushotnews.online/article/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126326527471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126326527471257",
+      "fb_comment_id": "122126326527471257_2058668044786330",
+      "posted_at": "2026-10-19T20:23:47.432504+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T17:43:11.052466+00:00"
+  "last_cleaned_at": "2026-10-19T20:23:32.469465+00:00"
 }
