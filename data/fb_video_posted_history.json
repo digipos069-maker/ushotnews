@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-19T07:34:29.641696+00:00",
+  "last_updated": "2026-10-19T15:26:40.100202+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1026571": {
-      "title": "SOCEUR Interview - TSOLO",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112071191/DOD_112071191.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-tesla-roadster-flew-drove-upside-down-and-hit-60mph-in-under-a-second",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "1129523759611000",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1129523759611000",
-      "fb_comment_id": "1129523759611000_1460289949293319",
-      "posted_at": "2026-10-16T13:09:27.173902+00:00"
-    },
     "dvids-video:1026624": {
       "title": "Warrant Officer Frank Patterson - Minnesota Vikings Shout-out",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112076486/DOD_112076486.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1433943142288454",
       "fb_comment_id": "1433943142288454_1744618056618320",
       "posted_at": "2026-10-19T07:34:29.641622+00:00"
+    },
+    "dvids-video:1026772": {
+      "title": "AFN Now Decoder Disposal",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112080462/DOD_112080462.mp4",
+      "attached_website_url": "https://ushotnews.online/article/what-does-a-white-house-press-secretary-do",
+      "trending_score": 100.0,
+      "format": "video",
+      "fb_video_id": "962807693055522",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/962807693055522",
+      "fb_comment_id": "962807693055522_1146748178033070",
+      "posted_at": "2026-10-19T15:26:40.100138+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T07:33:13.875945+00:00"
+  "last_cleaned_at": "2026-10-19T15:26:01.174355+00:00"
 }
