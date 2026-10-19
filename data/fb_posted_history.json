@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-19T05:12:06.030757+00:00",
+  "last_updated": "2026-10-19T07:21:47.865483+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-798f7ca874": {
-      "title": "Experimental skin cream linked to 2-year drop in biological age in early study",
-      "slug": "experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
-      "url": "https://ushotnews.online/article/experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
-      "article_url": "https://ushotnews.online/article/experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125135893471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125135893471257",
-      "fb_comment_id": "122125135893471257_1650628806775751",
-      "posted_at": "2026-10-16T06:18:00.170295+00:00"
-    },
-    "experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study": {
-      "title": "Experimental skin cream linked to 2-year drop in biological age in early study",
-      "slug": "experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
-      "url": "https://ushotnews.online/article/experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
-      "article_url": "https://ushotnews.online/article/experimental-skin-cream-linked-to-2-year-drop-in-biological-age-in-early-study",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125135893471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125135893471257",
-      "fb_comment_id": "122125135893471257_1650628806775751",
-      "posted_at": "2026-10-16T06:18:00.170295+00:00"
-    },
     "scraped-f5cd39f516": {
       "title": "Steam can now show game achievements in separate ‘sets’",
       "slug": "steam-can-now-show-game-achievements-in-separate-sets",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126110383471257",
       "fb_comment_id": "122126110383471257_981126204394209",
       "posted_at": "2026-10-19T05:12:06.030695+00:00"
+    },
+    "scraped-6ec0a6c7be": {
+      "title": "JJ McCarthy steps up as Giants potential starting quarterback while running back Cam Skattebo sits on bench",
+      "slug": "jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
+      "url": "https://ushotnews.online/article/jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
+      "article_url": "https://ushotnews.online/article/jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126135397471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126135397471257",
+      "fb_comment_id": "122126135397471257_1087609287595728",
+      "posted_at": "2026-10-19T07:21:47.865425+00:00"
+    },
+    "jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt": {
+      "title": "JJ McCarthy steps up as Giants potential starting quarterback while running back Cam Skattebo sits on bench",
+      "slug": "jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
+      "url": "https://ushotnews.online/article/jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
+      "article_url": "https://ushotnews.online/article/jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126135397471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126135397471257",
+      "fb_comment_id": "122126135397471257_1087609287595728",
+      "posted_at": "2026-10-19T07:21:47.865425+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T05:11:52.125348+00:00"
+  "last_cleaned_at": "2026-10-19T07:21:34.722741+00:00"
 }
