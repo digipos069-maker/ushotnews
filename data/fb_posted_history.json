@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-18T23:30:10.381139+00:00",
+  "last_updated": "2026-10-19T00:25:50.417295+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-813aa093cc": {
-      "title": "Washington state's high school sports league puts onus for trans athlete controversy on state laws",
-      "slug": "washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
-      "url": "https://ushotnews.online/article/washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
-      "article_url": "https://ushotnews.online/article/washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125059933471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125059933471257",
-      "fb_comment_id": "122125059933471257_1426503122146707",
-      "posted_at": "2026-10-15T23:37:47.939552+00:00"
-    },
-    "washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta": {
-      "title": "Washington state's high school sports league puts onus for trans athlete controversy on state laws",
-      "slug": "washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
-      "url": "https://ushotnews.online/article/washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
-      "article_url": "https://ushotnews.online/article/washington-states-high-school-sports-league-puts-onus-for-trans-athlete-controversy-on-sta",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125059933471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125059933471257",
-      "fb_comment_id": "122125059933471257_1426503122146707",
-      "posted_at": "2026-10-15T23:37:47.939552+00:00"
-    },
     "scraped-72d66615ec": {
       "title": "Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires",
       "slug": "jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126052303471257",
       "fb_comment_id": "122126052303471257_2402531450559109",
       "posted_at": "2026-10-18T23:30:10.381079+00:00"
+    },
+    "scraped-7ff26f5f5d": {
+      "title": "Tim Walz says he takes responsibility for Minnesota fraud by not running for re-election",
+      "slug": "tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election",
+      "url": "https://ushotnews.online/article/tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election",
+      "article_url": "https://ushotnews.online/article/tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126060415471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126060415471257",
+      "fb_comment_id": "122126060415471257_1180209597904230",
+      "posted_at": "2026-10-19T00:25:50.417232+00:00"
+    },
+    "tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election": {
+      "title": "Tim Walz says he takes responsibility for Minnesota fraud by not running for re-election",
+      "slug": "tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election",
+      "url": "https://ushotnews.online/article/tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election",
+      "article_url": "https://ushotnews.online/article/tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126060415471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126060415471257",
+      "fb_comment_id": "122126060415471257_1180209597904230",
+      "posted_at": "2026-10-19T00:25:50.417232+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-18T23:29:54.233023+00:00"
+  "last_cleaned_at": "2026-10-19T00:25:39.998195+00:00"
 }
