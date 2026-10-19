@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-19T15:26:40.100202+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-10-19T20:57:33.202232+00:00",
+  "posted_count": 11,
   "articles": {
-    "dvids-video:1026624": {
-      "title": "Warrant Officer Frank Patterson - Minnesota Vikings Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112076486/DOD_112076486.mp4",
-      "attached_website_url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2005803273463432",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2005803273463432",
-      "fb_comment_id": "2005803273463432_1768992244932327",
-      "posted_at": "2026-10-16T17:56:13.954499+00:00"
-    },
-    "dvids-video:1026616": {
-      "title": "SW Hosts UK Defence Minister",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112075151/DOD_112075151.mp4",
-      "attached_website_url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "3400803186789970",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3400803186789970",
-      "fb_comment_id": "3400803186789970_1357682152920904",
-      "posted_at": "2026-10-16T20:49:47.535770+00:00"
-    },
     "dvids-video:1026677": {
       "title": "U.S. Marine Corps Sgt. Maggie Hardy - NFL Minnesota Vikings Shout-out",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077430/DOD_112077430.mp4",
@@ -133,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/962807693055522",
       "fb_comment_id": "962807693055522_1146748178033070",
       "posted_at": "2026-10-19T15:26:40.100138+00:00"
+    },
+    "dvids-video:1026813": {
+      "title": "No Smoke. No Ash. No Problem?",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112081155/DOD_112081155.mp4",
+      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1098656259438480",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1098656259438480",
+      "fb_comment_id": "1098656259438480_1749547789608413",
+      "posted_at": "2026-10-19T20:57:33.202163+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T15:26:01.174355+00:00"
+  "last_cleaned_at": "2026-10-19T20:56:39.384898+00:00"
 }
