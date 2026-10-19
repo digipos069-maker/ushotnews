@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-19T20:23:47.432562+00:00",
+  "last_updated": "2026-10-19T22:16:23.753122+00:00",
   "posted_count": 80,
   "articles": {
-    "scraped-6d283e9f4f": {
-      "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
-      "slug": "teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
-      "url": "https://ushotnews.online/article/teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
-      "article_url": "https://ushotnews.online/article/teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125351359471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125351359471257",
-      "fb_comment_id": "122125351359471257_1499725881962613",
-      "posted_at": "2026-10-16T20:33:25.522693+00:00"
-    },
-    "teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens": {
-      "title": "Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens",
-      "slug": "teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
-      "url": "https://ushotnews.online/article/teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
-      "article_url": "https://ushotnews.online/article/teen-kills-4-at-oregon-school-and-doj-sues-california-over-alleged-noncitizens",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125351359471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125351359471257",
-      "fb_comment_id": "122125351359471257_1499725881962613",
-      "posted_at": "2026-10-16T20:33:25.522693+00:00"
-    },
     "scraped-7ff198de48": {
       "title": "Suspected Florida Publix slasher walked free from court months earlier despite victim warnings",
       "slug": "suspected-florida-publix-slasher-walked-free-from-court-months-earlier-despite-victim-warn",
@@ -881,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126326527471257",
       "fb_comment_id": "122126326527471257_2058668044786330",
       "posted_at": "2026-10-19T20:23:47.432504+00:00"
+    },
+    "scraped-7ffef23e2e": {
+      "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
+      "slug": "its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+      "url": "https://ushotnews.online/article/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+      "article_url": "https://ushotnews.online/article/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126348331471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126348331471257",
+      "fb_comment_id": "122126348331471257_1802422284215697",
+      "posted_at": "2026-10-19T22:16:23.753059+00:00"
+    },
+    "its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these": {
+      "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
+      "slug": "its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+      "url": "https://ushotnews.online/article/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+      "article_url": "https://ushotnews.online/article/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126348331471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126348331471257",
+      "fb_comment_id": "122126348331471257_1802422284215697",
+      "posted_at": "2026-10-19T22:16:23.753059+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T20:23:32.469465+00:00"
+  "last_cleaned_at": "2026-10-19T22:16:07.901076+00:00"
 }
