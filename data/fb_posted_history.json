@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-19T00:25:50.417295+00:00",
+  "last_updated": "2026-10-19T01:35:31.140437+00:00",
   "posted_count": 84,
   "articles": {
-    "scraped-72d66615ec": {
-      "title": "Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires",
-      "slug": "jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
-      "url": "https://ushotnews.online/article/jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
-      "article_url": "https://ushotnews.online/article/jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125087287471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125087287471257",
-      "fb_comment_id": "122125087287471257_1121546340774160",
-      "posted_at": "2026-10-16T01:11:22.501199+00:00"
-    },
-    "jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b": {
-      "title": "Jerry Seinfeld turns tables on radical anti-Israel agitators after chaotic Chicago stunt backfires",
-      "slug": "jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
-      "url": "https://ushotnews.online/article/jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
-      "article_url": "https://ushotnews.online/article/jerry-seinfeld-turns-tables-on-radical-anti-israel-agitators-after-chaotic-chicago-stunt-b",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125087287471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125087287471257",
-      "fb_comment_id": "122125087287471257_1121546340774160",
-      "posted_at": "2026-10-16T01:11:22.501199+00:00"
-    },
     "scraped-afb92c38e6": {
       "title": "Former Cleveland Browns WR David Bell seeks $300M after botched surgery allegedly nearly killed him",
       "slug": "former-cleveland-browns-wr-david-bell-seeks-300m-after-botched-surgery-allegedly-nearly-ki",
@@ -925,7 +903,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126060415471257",
       "fb_comment_id": "122126060415471257_1180209597904230",
       "posted_at": "2026-10-19T00:25:50.417232+00:00"
+    },
+    "scraped-2cf5757fa8": {
+      "title": "Costco shoppers spot new food court dessert with classic American twist just in time for fall",
+      "slug": "costco-shoppers-spot-new-food-court-dessert-with-classic-american-twist-just-in-time-for-f",
+      "url": "https://ushotnews.online/article/costco-shoppers-spot-new-food-court-dessert-with-classic-american-twist-just-in-time-for-f",
+      "article_url": "https://ushotnews.online/article/costco-shoppers-spot-new-food-court-dessert-with-classic-american-twist-just-in-time-for-f",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126072913471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126072913471257",
+      "fb_comment_id": "122126072913471257_1093106423527865",
+      "posted_at": "2026-10-19T01:35:31.140354+00:00"
+    },
+    "costco-shoppers-spot-new-food-court-dessert-with-classic-american-twist-just-in-time-for-f": {
+      "title": "Costco shoppers spot new food court dessert with classic American twist just in time for fall",
+      "slug": "costco-shoppers-spot-new-food-court-dessert-with-classic-american-twist-just-in-time-for-f",
+      "url": "https://ushotnews.online/article/costco-shoppers-spot-new-food-court-dessert-with-classic-american-twist-just-in-time-for-f",
+      "article_url": "https://ushotnews.online/article/costco-shoppers-spot-new-food-court-dessert-with-classic-american-twist-just-in-time-for-f",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126072913471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126072913471257",
+      "fb_comment_id": "122126072913471257_1093106423527865",
+      "posted_at": "2026-10-19T01:35:31.140354+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T00:25:39.998195+00:00"
+  "last_cleaned_at": "2026-10-19T01:35:16.355158+00:00"
 }
