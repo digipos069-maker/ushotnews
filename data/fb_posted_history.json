@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-20T20:49:16.676706+00:00",
+  "last_updated": "2026-10-20T22:08:40.456863+00:00",
   "posted_count": 72,
   "articles": {
-    "scraped-10ea3c20b6": {
-      "title": "Not all Republicans want to show Trump off",
-      "slug": "not-all-republicans-want-to-show-trump-off",
-      "url": "https://ushotnews.online/article/not-all-republicans-want-to-show-trump-off",
-      "article_url": "https://ushotnews.online/article/not-all-republicans-want-to-show-trump-off",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125723833471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125723833471257",
-      "fb_comment_id": "122125723833471257_1388910207637543",
-      "posted_at": "2026-10-17T21:36:26.876640+00:00"
-    },
-    "not-all-republicans-want-to-show-trump-off": {
-      "title": "Not all Republicans want to show Trump off",
-      "slug": "not-all-republicans-want-to-show-trump-off",
-      "url": "https://ushotnews.online/article/not-all-republicans-want-to-show-trump-off",
-      "article_url": "https://ushotnews.online/article/not-all-republicans-want-to-show-trump-off",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125723833471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125723833471257",
-      "fb_comment_id": "122125723833471257_1388910207637543",
-      "posted_at": "2026-10-17T21:36:26.876640+00:00"
-    },
     "scraped-d5db0af4e5": {
       "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
       "slug": "zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
@@ -793,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126689413471257",
       "fb_comment_id": "122126689413471257_1001984919583340",
       "posted_at": "2026-10-20T20:49:16.676636+00:00"
+    },
+    "scraped-9f9fd3693c": {
+      "title": "‘A warning sign for polling’: Why one GOP pollster thinks a blue wave may fall short",
+      "slug": "a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
+      "url": "https://ushotnews.online/article/a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
+      "article_url": "https://ushotnews.online/article/a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126704323471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126704323471257",
+      "fb_comment_id": "122126704323471257_1079966598213169",
+      "posted_at": "2026-10-20T22:08:40.456804+00:00"
+    },
+    "a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short": {
+      "title": "‘A warning sign for polling’: Why one GOP pollster thinks a blue wave may fall short",
+      "slug": "a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
+      "url": "https://ushotnews.online/article/a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
+      "article_url": "https://ushotnews.online/article/a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126704323471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126704323471257",
+      "fb_comment_id": "122126704323471257_1079966598213169",
+      "posted_at": "2026-10-20T22:08:40.456804+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-20T20:49:05.286548+00:00"
+  "last_cleaned_at": "2026-10-20T22:08:31.019267+00:00"
 }
