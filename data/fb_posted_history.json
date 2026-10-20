@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T06:30:37.681712+00:00",
-  "posted_count": 76,
+  "last_updated": "2026-10-20T09:09:59.193795+00:00",
+  "posted_count": 78,
   "articles": {
     "scraped-d3c873a392": {
       "title": "Eagles appear set to add QB from Cowboys' practice squad as Jalen Hurts deals with blood clot",
@@ -837,7 +837,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126452713471257",
       "fb_comment_id": "122126452713471257_1063524806704749",
       "posted_at": "2026-10-20T06:30:37.681643+00:00"
+    },
+    "scraped-6f5721ff2f": {
+      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
+      "slug": "michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "url": "https://ushotnews.online/article/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "article_url": "https://ushotnews.online/article/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126487129471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126487129471257",
+      "fb_comment_id": "122126487129471257_1128052829675380",
+      "posted_at": "2026-10-20T09:09:59.193720+00:00"
+    },
+    "michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold": {
+      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
+      "slug": "michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "url": "https://ushotnews.online/article/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "article_url": "https://ushotnews.online/article/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126487129471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126487129471257",
+      "fb_comment_id": "122126487129471257_1128052829675380",
+      "posted_at": "2026-10-20T09:09:59.193720+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-20T06:30:27.211728+00:00"
+  "last_cleaned_at": "2026-10-20T09:09:46.967027+00:00"
 }
