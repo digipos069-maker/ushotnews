@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T23:52:38.895019+00:00",
-  "posted_count": 78,
+  "last_updated": "2026-10-20T01:12:39.452409+00:00",
+  "posted_count": 80,
   "articles": {
     "scraped-571f2bda5a": {
       "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 Promo for Guardians-Rays ALCS Game 4",
@@ -859,7 +859,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126372655471257",
       "fb_comment_id": "122126372655471257_2927110744310921",
       "posted_at": "2026-10-19T23:52:38.894927+00:00"
+    },
+    "scraped-5559a2b01c": {
+      "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
+      "slug": "major-european-mobile-carriers-are-teaming-up-for-a-8216direct8217-satellite-program-witho",
+      "url": "https://ushotnews.online/article/major-european-mobile-carriers-are-teaming-up-for-a-8216direct8217-satellite-program-witho",
+      "article_url": "https://ushotnews.online/article/major-european-mobile-carriers-are-teaming-up-for-a-8216direct8217-satellite-program-witho",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126387877471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126387877471257",
+      "fb_comment_id": "122126387877471257_2103128866980676",
+      "posted_at": "2026-10-20T01:12:39.452344+00:00"
+    },
+    "major-european-mobile-carriers-are-teaming-up-for-a-8216direct8217-satellite-program-witho": {
+      "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
+      "slug": "major-european-mobile-carriers-are-teaming-up-for-a-8216direct8217-satellite-program-witho",
+      "url": "https://ushotnews.online/article/major-european-mobile-carriers-are-teaming-up-for-a-8216direct8217-satellite-program-witho",
+      "article_url": "https://ushotnews.online/article/major-european-mobile-carriers-are-teaming-up-for-a-8216direct8217-satellite-program-witho",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126387877471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126387877471257",
+      "fb_comment_id": "122126387877471257_2103128866980676",
+      "posted_at": "2026-10-20T01:12:39.452344+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T23:52:29.176336+00:00"
+  "last_cleaned_at": "2026-10-20T01:12:23.162516+00:00"
 }
