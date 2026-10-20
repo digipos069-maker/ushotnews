@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-20T22:08:40.456863+00:00",
-  "posted_count": 72,
+  "last_updated": "2026-10-20T23:46:50.399458+00:00",
+  "posted_count": 70,
   "articles": {
-    "scraped-d5db0af4e5": {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "slug": "zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
-      "url": "https://ushotnews.online/article/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
-      "article_url": "https://ushotnews.online/article/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125729683471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125729683471257",
-      "fb_comment_id": "122125729683471257_2637397656702619",
-      "posted_at": "2026-10-17T22:11:30.826742+00:00"
-    },
-    "zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold": {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "slug": "zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
-      "url": "https://ushotnews.online/article/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
-      "article_url": "https://ushotnews.online/article/zelenskyy-urges-support-for-new-us-sanctions-on-russia-after-trump-puts-them-on-hold",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125729683471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125729683471257",
-      "fb_comment_id": "122125729683471257_2637397656702619",
-      "posted_at": "2026-10-17T22:11:30.826742+00:00"
-    },
-    "scraped-929a242aaa": {
-      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-      "slug": "jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow",
-      "url": "https://ushotnews.online/article/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow",
-      "article_url": "https://ushotnews.online/article/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125746825471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125746825471257",
-      "fb_comment_id": "122125746825471257_1790220778769500",
-      "posted_at": "2026-10-17T23:46:06.912250+00:00"
-    },
-    "jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow": {
-      "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-      "slug": "jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow",
-      "url": "https://ushotnews.online/article/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow",
-      "article_url": "https://ushotnews.online/article/jad-abumrad-loves-a-butterfly-knife-and-a-good-springy-pillow",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125746825471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125746825471257",
-      "fb_comment_id": "122125746825471257_1790220778769500",
-      "posted_at": "2026-10-17T23:46:06.912250+00:00"
-    },
     "scraped-a3b02fed63": {
       "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
       "slug": "mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
@@ -793,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126704323471257",
       "fb_comment_id": "122126704323471257_1079966598213169",
       "posted_at": "2026-10-20T22:08:40.456804+00:00"
+    },
+    "scraped-099603019b": {
+      "title": "Inside the quiet money pullback — for both parties — in Georgia’s Senate race",
+      "slug": "inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "article_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126719269471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126719269471257",
+      "fb_comment_id": "122126719269471257_1059287910466594",
+      "posted_at": "2026-10-20T23:46:50.399391+00:00"
+    },
+    "inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race": {
+      "title": "Inside the quiet money pullback — for both parties — in Georgia’s Senate race",
+      "slug": "inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "article_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126719269471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126719269471257",
+      "fb_comment_id": "122126719269471257_1059287910466594",
+      "posted_at": "2026-10-20T23:46:50.399391+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-20T22:08:31.019267+00:00"
+  "last_cleaned_at": "2026-10-20T23:46:39.872014+00:00"
 }
