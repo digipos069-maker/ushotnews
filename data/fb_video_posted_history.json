@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-20T01:00:24.138487+00:00",
+  "last_updated": "2026-10-20T07:22:49.412356+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1026689": {
-      "title": "Golden Knights Illuminate Minden-Tahoe SkyFest With Nighttime Mass Formation Jump",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077519/DOD_112077519.mp4",
-      "attached_website_url": "https://ushotnews.online/article/all-the-news-about-the-iphone-duo",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2278595456296212",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2278595456296212",
-      "fb_comment_id": "2278595456296212_2535357943612128",
-      "posted_at": "2026-10-17T06:48:38.652094+00:00"
-    },
     "dvids-video:1026687": {
       "title": "Coast Guard Personal Watercraft Program Explained",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077514/DOD_112077514.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1043350352057232",
       "fb_comment_id": "1043350352057232_1655031909344964",
       "posted_at": "2026-10-20T01:00:24.138421+00:00"
+    },
+    "dvids-video:1026878": {
+      "title": "CFAS Fire Prevention Month Open House - Graphics Free",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083082/DOD_112083082.mp4",
+      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1083594174673299",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1083594174673299",
+      "fb_comment_id": "1083594174673299_1435809237962175",
+      "posted_at": "2026-10-20T07:22:49.412297+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-20T00:59:43.433015+00:00"
+  "last_cleaned_at": "2026-10-20T07:21:40.216933+00:00"
 }
