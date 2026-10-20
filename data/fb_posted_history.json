@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-20T17:28:24.763821+00:00",
+  "last_updated": "2026-10-20T18:37:22.291127+00:00",
   "posted_count": 74,
   "articles": {
-    "scraped-a6ca3fdb60": {
-      "title": "UFC ring girl goes from octagons to painting Tom Brady artwork for Fanatics, woke concerts & college football",
-      "slug": "ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
-      "url": "https://ushotnews.online/article/ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
-      "article_url": "https://ushotnews.online/article/ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125672653471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125672653471257",
-      "fb_comment_id": "122125672653471257_1647050373435631",
-      "posted_at": "2026-10-17T17:30:18.748815+00:00"
-    },
-    "ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-": {
-      "title": "UFC ring girl goes from octagons to painting Tom Brady artwork for Fanatics, woke concerts & college football",
-      "slug": "ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
-      "url": "https://ushotnews.online/article/ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
-      "article_url": "https://ushotnews.online/article/ufc-ring-girl-goes-from-octagons-to-painting-tom-brady-artwork-for-fanatics-woke-concerts-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125672653471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125672653471257",
-      "fb_comment_id": "122125672653471257_1647050373435631",
-      "posted_at": "2026-10-17T17:30:18.748815+00:00"
-    },
     "scraped-71836489c3": {
       "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
       "slug": "dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
@@ -815,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126637489471257",
       "fb_comment_id": "122126637489471257_959705897208825",
       "posted_at": "2026-10-20T17:28:24.763752+00:00"
+    },
+    "scraped-95a39fa912": {
+      "title": "Ohio returns as a bellwether",
+      "slug": "ohio-returns-as-a-bellwether",
+      "url": "https://ushotnews.online/article/ohio-returns-as-a-bellwether",
+      "article_url": "https://ushotnews.online/article/ohio-returns-as-a-bellwether",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126652939471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126652939471257",
+      "fb_comment_id": "122126652939471257_1142509875391405",
+      "posted_at": "2026-10-20T18:37:22.291038+00:00"
+    },
+    "ohio-returns-as-a-bellwether": {
+      "title": "Ohio returns as a bellwether",
+      "slug": "ohio-returns-as-a-bellwether",
+      "url": "https://ushotnews.online/article/ohio-returns-as-a-bellwether",
+      "article_url": "https://ushotnews.online/article/ohio-returns-as-a-bellwether",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126652939471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126652939471257",
+      "fb_comment_id": "122126652939471257_1142509875391405",
+      "posted_at": "2026-10-20T18:37:22.291038+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-20T17:28:11.198017+00:00"
+  "last_cleaned_at": "2026-10-20T18:37:11.815074+00:00"
 }
