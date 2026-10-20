@@ -1,5 +1,782 @@
 [
   {
+    "id": "scraped-9bcbe4dcfa",
+    "slug": "pritzkers-big-spending-for-black-and-hispanic-candidates-is-drawing-notice",
+    "guid": "000001a1-56ee-d76b-a7b1-5eff25b80000",
+    "title": "Pritzker’s big spending for Black and Hispanic candidates is drawing notice",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The Illinois governor is boosting candidates in early states and cultivating relationships with Black and Hispanic officials ahead of a possible 2028 run.",
+    "content": [
+      "The Illinois governor is boosting candidates in early states and cultivating relationships with Black and Hispanic officials ahead of a possible 2028 run.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/86/37/098a9ddb4d578e29fb7d9d92ad15/imageedit-2-2469996295.png",
+    "imageCaption": "Pritzker’s big spending for Black and Hispanic candidates is... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d0c20b322b",
+    "slug": "baseus-new-security-camera-has-a-spotlight-that-tracks-and-follows-moving-targets",
+    "guid": "https://www.theverge.com/?p=1005073",
+    "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across [&#8230;]",
+    "content": [
+      "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Baseus’ new security camera has a spotlight that tracks and ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T04:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8450139606",
+    "slug": "alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
+    "guid": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+    "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
+    "content": [
+      "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Alberta voters reject a move toward independence in referend... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T06:02:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1adc8b51fa",
+    "slug": "rays-will-face-brewers-in-world-series-to-produce-a-first-time-champion",
+    "guid": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
+    "title": "Rays will face Brewers in World Series to produce a first-time champion",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980.",
+    "content": [
+      "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Rays will face Brewers in World Series to produce a first-ti... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T06:28:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c833f4e4a7",
+    "slug": "why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+    "guid": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+    "title": "Why are some food prices up and others down? Here are the stories of 5 items",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
+    "content": [
+      "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why are some food prices up and others down? Here are the st... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3a636db705",
+    "slug": "can-the-new-federal-voucher-program-help-public-schools-democrats-are-torn",
+    "guid": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+    "title": "Can the new federal voucher program help public schools? Democrats are torn",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
+    "content": [
+      "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Can the new federal voucher program help public schools? Dem... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-372e7c742d",
+    "slug": "tiktok-staff-raised-child-safety-alarms-court-records-show-executives-failed-to-act",
+    "guid": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+    "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+    "content": [
+      "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "TikTok staff raised child safety alarms. Court records show ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e6581b6be6",
+    "slug": "senate-republicans-might-survive-the-blue-thunderstorm-uh-i-think",
+    "guid": "https://www.foxnews.com/opinion/senate-republicans-might-survive-blue-thunderstorm-uh-i-think",
+    "title": "Senate Republicans might survive the blue thunderstorm. Uh, I think.",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Democrats are talking confidently about a midterm wave, but Republicans are spending heavily to protect their Senate majority. From Susan Collins in Maine to the fight in Kansas, these races are anything but easy to call.",
+    "content": [
+      "Democrats are talking confidently about a midterm wave, but Republicans are spending heavily to protect their Senate majority. From Susan Collins in Maine to the fight in Kansas, these races are anything but easy to call.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/931/523/capitol-building.jpg?ve=1&tl=1",
+    "imageCaption": "Senate Republicans might survive the blue thunderstorm. Uh, ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T07:00:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-806b1976a4",
+    "slug": "rogers-argues-el-sayed-is-vulnerable-with-2-traditionally-democratic-blocs-as-obama-heads-",
+    "guid": "https://www.foxnews.com/politics/rogers-argues-el-sayed-vulnerable-traditionally-democratic-blocs-obama-heads-michigan",
+    "title": "Rogers argues El-Sayed is vulnerable with 2 traditionally Democratic blocs as Obama heads to Michigan",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Mike Rogers argues Abdul El-Sayed may lose Black and Jewish voters in Michigan&apos;s Senate race during a Sean Hannity town hall on key demographics.",
+    "content": [
+      "Mike Rogers argues Abdul El-Sayed may lose Black and Jewish voters in Michigan&apos;s Senate race during a Sean Hannity town hall on key demographics.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/rogers-sayed.jpg?ve=1&tl=1",
+    "imageCaption": "Rogers argues El-Sayed is vulnerable with 2 traditionally De... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T08:00:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a74c677bba",
+    "slug": "the-far-left-wants-to-kill-the-tech-that-can-create-trumps-golden-age",
+    "guid": "https://www.foxnews.com/opinion/far-left-wants-kill-tech-create-trumps-golden-age",
+    "title": "The far left wants to kill the tech that can create Trump’s golden age",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bernie Sanders wants to nationalize 50% of the AI industry and jail scientists, while Trump and Elon Musk push for a technological golden age.",
+    "content": [
+      "Bernie Sanders wants to nationalize 50% of the AI industry and jail scientists, while Trump and Elon Musk push for a technological golden age.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/bernie-sanders-artificial-intelligence-ai-2.jpg?ve=1&tl=1",
+    "imageCaption": "The far left wants to kill the tech that can create Trump’s ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7f8fb3bf80",
+    "slug": "navy-robot-deal-quadruples-as-us-looks-to-outsmart-china-with-ai-at-sea",
+    "guid": "https://www.foxnews.com/politics/navy-robot-deal-quadruples-us-looks-outsmart-china-ai-sea",
+    "title": "Navy robot deal quadruples as US looks to ‘outsmart’ China with AI at sea",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Gecko Robotics unveiled its Komodo robot that scans warship decks like a CAT scan, mapping corrosion without stripping coatings for the U.S. Navy.",
+    "content": [
+      "Gecko Robotics unveiled its Komodo robot that scans warship decks like a CAT scan, mapping corrosion without stripping coatings for the U.S. Navy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/gecko-2.jpg?ve=1&tl=1",
+    "imageCaption": "Navy robot deal quadruples as US looks to ‘outsmart’ China w... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-276691ac1a",
+    "slug": "top-trump-ally-warns-republican-party-dead-if-it-loses-key-voting-bloc-ahead-of-midterms",
+    "guid": "https://www.foxnews.com/politics/top-trump-ally-warns-republican-party-dead-loses-key-voting-bloc-ahead-midterms",
+    "title": "Top Trump ally warns Republican Party 'dead' if it loses key voting bloc ahead of midterms",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A top Senate Republican warns the GOP could be dead as a party if working-class voters abandon Republicans over economy and gas price woes.",
+    "content": [
+      "A top Senate Republican warns the GOP could be dead as a party if working-class voters abandon Republicans over economy and gas price woes.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/donald-trump-4.jpg?ve=1&tl=1",
+    "imageCaption": "Top Trump ally warns Republican Party 'dead' if it loses key... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6a1bd67edc",
+    "slug": "ilhan-omars-sister-questioned-by-feds-after-dramatic-dc-home-raid",
+    "guid": "https://www.foxnews.com/politics/ilhan-omars-sister-questioned-feds-after-dramatic-dc-home-raid",
+    "title": "Ilhan Omar's sister questioned by feds after dramatic DC home raid",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ilhan Omar&apos;s older sister Sahra Noor was questioned by federal investigators in connection with the immigration fraud probe following the DHS raid.",
+    "content": [
+      "Ilhan Omar&apos;s older sister Sahra Noor was questioned by federal investigators in connection with the immigration fraud probe following the DHS raid.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/omar-omar-sister-split.jpg?ve=1&tl=1",
+    "imageCaption": "Ilhan Omar's sister questioned by feds after dramatic DC hom... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4f202435e7",
+    "slug": "liz-peek-guaranteed-democrat-midterm-win-would-deliver-chaos-not-affordability",
+    "guid": "https://www.foxnews.com/opinion/liz-peek-guaranteed-democrat-midterm-win-would-deliver-chaos-not-affordability",
+    "title": "LIZ PEEK: Guaranteed — Democrat midterm win would deliver chaos not 'affordability'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Democrats campaign on affordability but can&apos;t agree on Medicare for all, housing or energy after Joe Biden&apos;s costly spending drove debt to $40 trillion.",
+    "content": [
+      "Democrats campaign on affordability but can&apos;t agree on Medicare for all, housing or energy after Joe Biden&apos;s costly spending drove debt to $40 trillion.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/1200/675/mamdani-election-day.jpg?ve=1&tl=1",
+    "imageCaption": "LIZ PEEK: Guaranteed — Democrat midterm win would deliver ch... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a14b513b51",
+    "slug": "morning-glory-minnesotas-massive-fraud-scandal-could-deliver-a-stunning-senate-upset",
+    "guid": "https://www.foxnews.com/opinion/morning-glory-minnesotas-massive-fraud-scandal-deliver-stunning-senate-upset",
+    "title": "MORNING GLORY: Minnesota's massive fraud scandal could deliver a stunning Senate upset",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Michele Tafoya&apos;s debate takedown of Peggy Flanagan over Minnesota&apos;s estimated $9 billion fraud scandal has reshaped the Minnesota Senate race.",
+    "content": [
+      "Michele Tafoya&apos;s debate takedown of Peggy Flanagan over Minnesota&apos;s estimated $9 billion fraud scandal has reshaped the Minnesota Senate race.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/tafoya-flanagan.jpg?ve=1&tl=1",
+    "imageCaption": "MORNING GLORY: Minnesota's massive fraud scandal could deliv... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T09:00:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7c0e70a3a5",
+    "slug": "us-treasury-yields-move-lower-as-investors-await-housing-employment-data",
+    "guid": "108435998",
+    "title": "U.S. Treasury yields move lower as investors await housing, employment data",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "U.S. Treasury yields inched lower on Tuesday as investors awaited economic data and weighed the inflationary backdrop ahead of the rate decision next week.",
+    "content": [
+      "U.S. Treasury yields inched lower on Tuesday as investors awaited economic data and weighed the inflationary backdrop ahead of the rate decision next week.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. Treasury yields move lower as investors await housing, ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T07:43:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-adafd9bf38",
+    "slug": "whats-making-europe-so-angry-the-frustration-behind-the-protests",
+    "guid": "108431871",
+    "title": "What’s making Europe so angry? The frustration behind the protests",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
+    "content": [
+      "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What’s making Europe so angry? The frustration behind the pr... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T07:19:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7ced92f17c",
+    "slug": "us-bans-deepseek-from-government-agency-systems-amid-ai-rift-with-china",
+    "guid": "108435618",
+    "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
+    "content": [
+      "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. bans DeepSeek from government agency systems amid AI ri... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T08:17:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5cc53f94b2",
+    "slug": "tech-stocks-had-a-nice-oversold-bounce-on-monday-earnings-this-week-will-determine-if-its-",
+    "guid": "108433558",
+    "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
+    "content": [
+      "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tech stocks had a nice oversold bounce on Monday. Earnings t... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-19T20:57:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e08e1639b4",
+    "slug": "general-motors-is-set-to-report-earnings-before-the-bell-heres-what-wall-street-expects",
+    "guid": "108433235",
+    "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "GM's 2025 third-quarter results included $48.59 billion in revenue, net income attributable to stockholders of $1.3 billion and adjusted EPS of $2.80.",
+    "content": [
+      "GM's 2025 third-quarter results included $48.59 billion in revenue, net income attributable to stockholders of $1.3 billion and adjusted EPS of $2.80.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "General Motors is set to report earnings before the bell. He... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T04:01:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9008166416",
+    "slug": "france-curfews-calm-unrest-as-macron-faces-criticism-over-gulf-trip",
+    "guid": "108435837",
+    "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Prime Minister Sébastien Lecornu said Tuesday some areas would remain under curfew after a weekend of violent rioting.",
+    "content": [
+      "Prime Minister Sébastien Lecornu said Tuesday some areas would remain under curfew after a weekend of violent rioting.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "France curfews calm unrest as Macron faces criticism over Gu... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-20T08:48:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-9d276157de",
     "slug": "doj-charges-28-in-california-with-voting-crimes-as-election-tensions-escalate",
     "guid": "https://www.npr.org/2026/10/19/nx-s1-6007908/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
