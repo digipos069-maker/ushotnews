@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-20T18:26:29.365407+00:00",
+  "last_updated": "2026-10-20T23:06:26.505809+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1026684": {
-      "title": "By, With, Through",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077506/DOD_112077506.mp4",
-      "attached_website_url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
-      "trending_score": 60.0,
-      "format": "video",
-      "fb_video_id": "1026063397162493",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1026063397162493",
-      "fb_comment_id": "1026063397162493_3995786907384168",
-      "posted_at": "2026-10-17T20:25:31.378232+00:00"
-    },
     "dvids-video:1026712": {
       "title": "101st Air Refueling Wing Trunk or Treat 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112078938/DOD_112078938.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1132598096395942",
       "fb_comment_id": "1132598096395942_1818415362616424",
       "posted_at": "2026-10-20T18:26:29.365348+00:00"
+    },
+    "dvids-video:1026979": {
+      "title": "Theater Postal Operations Center conducts Training Operations",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084709/DOD_112084709.mp4",
+      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2568645380250474",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2568645380250474",
+      "fb_comment_id": "2568645380250474_28238421535835185",
+      "posted_at": "2026-10-20T23:06:26.505751+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-20T18:24:58.752130+00:00"
+  "last_cleaned_at": "2026-10-20T23:04:32.748986+00:00"
 }
