@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-19T20:57:33.202232+00:00",
+  "last_updated": "2026-10-20T01:00:24.138487+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1026677": {
-      "title": "U.S. Marine Corps Sgt. Maggie Hardy - NFL Minnesota Vikings Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077430/DOD_112077430.mp4",
-      "attached_website_url": "https://ushotnews.online/article/haley-stevens-is-everywhere-except-on-the-trail-for-el-sayed",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1123275137300381",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1123275137300381",
-      "fb_comment_id": "1123275137300381_2745784189158055",
-      "posted_at": "2026-10-17T00:15:30.149549+00:00"
-    },
     "dvids-video:1026689": {
       "title": "Golden Knights Illuminate Minden-Tahoe SkyFest With Nighttime Mass Formation Jump",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112077519/DOD_112077519.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1098656259438480",
       "fb_comment_id": "1098656259438480_1749547789608413",
       "posted_at": "2026-10-19T20:57:33.202163+00:00"
+    },
+    "dvids-video:1026857": {
+      "title": "Coast Guard repatriates 63 aliens to Dominican Republic following unlawful migration voyage in the Mona Passage",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112082207/DOD_112082207.mp4",
+      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1043350352057232",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1043350352057232",
+      "fb_comment_id": "1043350352057232_1655031909344964",
+      "posted_at": "2026-10-20T01:00:24.138421+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-19T20:56:39.384898+00:00"
+  "last_cleaned_at": "2026-10-20T00:59:43.433015+00:00"
 }
