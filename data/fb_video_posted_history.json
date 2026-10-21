@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-21T11:33:26.253904+00:00",
+  "last_updated": "2026-10-21T16:59:58.459750+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1026712": {
-      "title": "101st Air Refueling Wing Trunk or Treat 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112078938/DOD_112078938.mp4",
-      "attached_website_url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1281325534139735",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1281325534139735",
-      "fb_comment_id": "1281325534139735_2746796252383523",
-      "posted_at": "2026-10-18T13:53:38.831540+00:00"
-    },
     "dvids-video:1026716": {
       "title": "Clearing the Air",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112079065/DOD_112079065.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1978069782889990",
       "fb_comment_id": "1978069782889990_1103968759051939",
       "posted_at": "2026-10-21T11:33:26.253845+00:00"
+    },
+    "dvids-video:1027020": {
+      "title": "Alpha Troop, 2nd Squadron, 15th Cavalry Regiment, 194th Armored Brigade Confidence Course Reel",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112085906/DOD_112085906.mp4",
+      "attached_website_url": "https://ushotnews.online/article/nvidias-latest-gpu-driver-brings-a-new-way-to-speed-up-pc-games",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "4412685175709752",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4412685175709752",
+      "fb_comment_id": "4412685175709752_4091411511161890",
+      "posted_at": "2026-10-21T16:59:58.459681+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-21T11:31:36.160926+00:00"
+  "last_cleaned_at": "2026-10-21T16:58:17.160720+00:00"
 }
