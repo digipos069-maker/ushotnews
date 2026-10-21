@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-21T22:42:24.026396+00:00",
+  "last_updated": "2026-10-21T23:32:15.210186+00:00",
   "posted_count": 62,
   "articles": {
-    "scraped-b19ed19246": {
-      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-      "slug": "lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
-      "url": "https://ushotnews.online/article/lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
-      "article_url": "https://ushotnews.online/article/lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126052303471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126052303471257",
-      "fb_comment_id": "122126052303471257_2402531450559109",
-      "posted_at": "2026-10-18T23:30:10.381079+00:00"
-    },
-    "lenovos-fast-comfy-steamos-handheld-is-hundreds-off": {
-      "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-      "slug": "lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
-      "url": "https://ushotnews.online/article/lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
-      "article_url": "https://ushotnews.online/article/lenovos-fast-comfy-steamos-handheld-is-hundreds-off",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126052303471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126052303471257",
-      "fb_comment_id": "122126052303471257_2402531450559109",
-      "posted_at": "2026-10-18T23:30:10.381079+00:00"
-    },
     "scraped-7ff26f5f5d": {
       "title": "Tim Walz says he takes responsibility for Minnesota fraud by not running for re-election",
       "slug": "tim-walz-says-he-takes-responsibility-for-minnesota-fraud-by-not-running-for-re-election",
@@ -683,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127008751471257",
       "fb_comment_id": "122127008751471257_1816951075990075",
       "posted_at": "2026-10-21T22:42:24.026331+00:00"
+    },
+    "scraped-0199ca6111": {
+      "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+      "slug": "netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
+      "url": "https://ushotnews.online/article/netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
+      "article_url": "https://ushotnews.online/article/netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127016191471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127016191471257",
+      "fb_comment_id": "122127016191471257_1636537317931167",
+      "posted_at": "2026-10-21T23:32:15.210126+00:00"
+    },
+    "netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in": {
+      "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
+      "slug": "netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
+      "url": "https://ushotnews.online/article/netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
+      "article_url": "https://ushotnews.online/article/netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127016191471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127016191471257",
+      "fb_comment_id": "122127016191471257_1636537317931167",
+      "posted_at": "2026-10-21T23:32:15.210126+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-21T22:42:10.768436+00:00"
+  "last_cleaned_at": "2026-10-21T23:32:01.241473+00:00"
 }
