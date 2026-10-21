@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-9fdadee3d2",
+    "slug": "nyc-high-school-faces-backlash-over-intifada-post",
+    "guid": "000001a1-602c-d95c-abe7-f7ee0da60000",
+    "title": "NYC high school faces backlash over ‘intifada’ post",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "NYC high school faces backlash over ‘intifada’ post",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "NYC high school faces backlash over ‘intifada’ post... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T20:58:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd6fd50d7e",
+    "slug": "flying-roadsters-cant-lift-teslas-flat-q3-revenues",
+    "guid": "https://www.theverge.com/?p=1015790",
+    "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent [&#8230;]",
+    "content": [
+      "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T20:22:31+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6b9742f82b",
+    "slug": "php-the-three-letters-that-shut-down-sites-all-over-the-internet-today",
+    "guid": "https://www.theverge.com/?p=1015906",
+    "title": "PHP: The three letters that shut down sites all over the internet today",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than [&#8230;]",
+    "content": [
+      "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "PHP: The three letters that shut down sites all over the int... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T20:36:56+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-78b2fae7ff",
+    "slug": "meta-says-it-wouldve-made-over-22-billion-if-it-didnt-have-to-pay-a-child-safety-settlemen",
+    "guid": "https://www.theverge.com/?p=1015877",
+    "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement. In August, Meta agreed to pay $17.1 [&#8230;]",
+    "content": [
+      "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operations would have been $22.89 billion without the settlement. In August, Meta agreed to pay $17.1 [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta says it would’ve made over $22 billion if it didn’t hav... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T20:46:56+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0db01dc20b",
+    "slug": "new-yorks-first-microdrama-film-festival-searches-for-its-audience",
+    "guid": "https://www.theverge.com/?p=1014494",
+    "title": "New York’s first microdrama film festival searches for its audience",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place [&#8230;]",
+    "content": [
+      "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "New York’s first microdrama film festival searches for its a... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T20:49:07+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-826381a578",
+    "slug": "meta-to-create-a-new-class-of-shares-to-fund-ai-push",
+    "guid": "https://www.theverge.com/?p=1015799",
+    "title": "Meta to create a new class of shares to fund AI push",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
+    "content": [
+      "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta to create a new class of shares to fund AI push... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T21:30:02+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-44cd1a99e5",
+    "slug": "data-centers-could-erase-decades-of-air-quality-gains",
+    "guid": "https://www.theverge.com/?p=1015958",
+    "title": "Data centers could erase decades of air quality gains",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
+    "content": [
+      "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Data centers could erase decades of air quality gains... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T22:33:44+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-93ae6cc446",
+    "slug": "poll-voters-want-congress-to-be-a-check-on-trump-trust-democrats-more-on-issues",
+    "guid": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
+    "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A new poll shows record support for Democratic congressional candidates ahead of the midterms, as voters feel the party is better attuned to handling their top issues.",
+    "content": [
+      "A new poll shows record support for Democratic congressional candidates ahead of the midterms, as voters feel the party is better attuned to handling their top issues.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Poll: Voters want Congress to be a check on Trump, trust Dem... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T20:56:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ce5f92206b",
+    "slug": "sam-laporta-shares-disappointment-in-lions-for-lack-of-extension-break-my-f-ing-back-for-t",
+    "guid": "https://www.foxnews.com/outkick-sports/sam-laporta-shares-disappointment-lions-lack-extension-break-my-f-ing-back-team",
+    "title": "Sam LaPorta shares disappointment in Lions for lack of extension: 'Break my f---ing back for the team'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sam LaPorta said on Pardon My Take he&apos;ll go get paid somewhere else if the Detroit Lions don&apos;t extend him before free agency in three months.",
+    "content": [
+      "Sam LaPorta said on Pardon My Take he&apos;ll go get paid somewhere else if the Detroit Lions don&apos;t extend him before free agency in three months.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/sam-laporta-looks-on-lions-ravens.jpg?ve=1&tl=1",
+    "imageCaption": "Sam LaPorta shares disappointment in Lions for lack of exten... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T22:33:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-798b15b283",
+    "slug": "amy-robach-tj-holmes-exes-get-engaged-to-each-other-three-years-after-high-profile-abc-new",
+    "guid": "https://www.foxnews.com/media/amy-robach-tj-holmes-exes-engaged-three-years-after-abc-news-cheating-scandal",
+    "title": "Amy Robach, TJ Holmes’ exes get engaged to each other three years after high-profile ABC News cheating scandal",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Andrew Shue and Marilee Fiebig are now engaged after bonding over the fallout from their ex-spouses Amy Robach and T.J. Holmes&apos; affair at ABC News.",
+    "content": [
+      "Andrew Shue and Marilee Fiebig are now engaged after bonding over the fallout from their ex-spouses Amy Robach and T.J. Holmes&apos; affair at ABC News.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/01/931/524/amy-robach-t.j.-holmes-spouses.jpg?ve=1&tl=1",
+    "imageCaption": "Amy Robach, TJ Holmes’ exes get engaged to each other three ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T22:41:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-54ddc28393",
+    "slug": "is-there-a-secret-to-success-the-best-major-league-baseball-teams-have-already-found",
+    "guid": "https://www.foxnews.com/outkick-sports/secret-success-best-major-league-baseball-teams-found",
+    "title": "Is there a secret to success the best Major League Baseball teams have already found?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Tampa Bay Rays and Milwaukee Brewers reached the 2026 World Series with limited payrolls, raising questions about what really drives MLB success.",
+    "content": [
+      "The Tampa Bay Rays and Milwaukee Brewers reached the 2026 World Series with limited payrolls, raising questions about what really drives MLB success.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/junior-caminero-two-run-home-run-alcs-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Is there a secret to success the best Major League Baseball ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T22:46:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b00297e3be",
+    "slug": "sam-franklin-jr-becomes-second-bills-player-suspended-over-alleged-spitting-appeals-nfl-ba",
+    "guid": "https://www.foxnews.com/outkick-sports/sam-franklin-jr-becomes-second-bills-player-suspended-alleged-spitting-appeals-nfl-ban",
+    "title": "Sam Franklin Jr becomes second Bills player suspended over alleged spitting, appeals NFL ban",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sam Franklin denied the spitting allegation on Instagram and posted video showing Delmar Glaze appearing to strike him during the Raiders game.",
+    "content": [
+      "Sam Franklin denied the spitting allegation on Instagram and posted video showing Delmar Glaze appearing to strike him during the Raiders game.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Sam-Franklin-Jr-warm-ups.jpg?ve=1&tl=1",
+    "imageCaption": "Sam Franklin Jr becomes second Bills player suspended over a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T22:52:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a84caca049",
+    "slug": "retired-nypd-detective-charged-with-murder-in-george-washington-bridge-shooting-of-con-ed-",
+    "guid": "https://www.foxnews.com/us/retired-nypd-detective-charged-murder-george-washington-bridge-shooting-con-ed-worker-officials",
+    "title": "Retired NYPD detective charged with murder in George Washington Bridge shooting of Con Ed worker: officials",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Con Edison worker Koran Irvine was fatally shot on the George Washington Bridge before crashing into a median. A retired police officer was charged with murder.",
+    "content": [
+      "Con Edison worker Koran Irvine was fatally shot on the George Washington Bridge before crashing into a median. A retired police officer was charged with murder.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/man-shot-and-killed-on-gwb-7.jpg?ve=1&tl=1",
+    "imageCaption": "Retired NYPD detective charged with murder in George Washing... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T23:01:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a4a50cc112",
+    "slug": "mans-puzzling-disappearance-in-national-park-triggers-frantic-24-hour-search-involving-k-9",
+    "guid": "https://www.foxnews.com/travel/mans-puzzling-disappearance-national-park-triggers-frantic-24-hour-search",
+    "title": "Man's puzzling disappearance in national park triggers frantic 24-hour search involving K-9",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A heroic K-9 tracked a 70-year-old missing hiker 2 miles down a trail in Hawaii Volcanoes National Park after his empty rental car was found nearby.",
+    "content": [
+      "A heroic K-9 tracked a 70-year-old missing hiker 2 miles down a trail in Hawaii Volcanoes National Park after his empty rental car was found nearby.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/HI-HAWAII-VOLCANOS-NATIONAL-PARK-WARNING-TRAVEL-2.jpg?ve=1&tl=1",
+    "imageCaption": "Man's puzzling disappearance in national park triggers frant... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T23:05:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ba07e198b4",
+    "slug": "hall-of-fame-basketball-coach-bob-huggins-has-progressive-cognitive-condition-family-annou",
+    "guid": "https://www.foxnews.com/outkick-sports/hall-fame-basketball-coach-bob-huggins-progressive-cognitive-condition-family-announces",
+    "title": "Hall of Fame basketball coach Bob Huggins has progressive cognitive condition, family announces",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Bob Huggins&apos; family revealed the Hall of Fame coach&apos;s progressive cognitive condition ahead of his University of Cincinnati induction ceremony.",
+    "content": [
+      "Bob Huggins&apos; family revealed the Hall of Fame coach&apos;s progressive cognitive condition ahead of his University of Cincinnati induction ceremony.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bob-huggins-west-virginia-big-12-tournament.jpg?ve=1&tl=1",
+    "imageCaption": "Hall of Fame basketball coach Bob Huggins has progressive co... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T23:25:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-da5c6b558f",
+    "slug": "jd-vance-visits-cincinnati-bengals-practice-and-quarterback-joe-burrow-is-convinced-it-was",
+    "guid": "https://www.foxnews.com/outkick-sports/jd-vance-visits-cincinnati-bengals-practice-quarterback-joe-burrow-convinced-mostly-about-him",
+    "title": "JD Vance visits Cincinnati Bengals practice and quarterback Joe Burrow is convinced it was mostly about him",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "JD Vance toured the Cincinnati Bengals locker room and watched practice, but star quarterback Joe Burrow says the two never actually talked.",
+    "content": [
+      "JD Vance toured the Cincinnati Bengals locker room and watched practice, but star quarterback Joe Burrow says the two never actually talked.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/joe-burrow-practice-cincinnati-fox-news-001.jpeg?ve=1&tl=1",
+    "imageCaption": "JD Vance visits Cincinnati Bengals practice and quarterback ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T23:28:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-010945d8b9",
+    "slug": "southwest-airlines-cuts-2026-profit-forecast-on-higher-fuel",
+    "guid": "108410471",
+    "title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
+    "content": [
+      "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Southwest Airlines cuts 2026 profit forecast on higher fuel... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T21:07:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f78d6c6239",
+    "slug": "trump-denies-ordering-starlink-slowdown-in-ukraine-says-he-doesnt-know-who-did",
+    "guid": "108443482",
+    "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\"",
+    "content": [
+      "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump denies ordering Starlink slowdown in Ukraine, says he ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T21:48:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-01aa4df3d3",
+    "slug": "ibm-beats-on-top-and-bottom-lines-as-ceo-krishna-touts-super-intelligence-traction",
+    "guid": "108443000",
+    "title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
+    "content": [
+      "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "IBM beats on top and bottom lines as CEO Krishna touts 'Supe... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T22:03:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-df93456292",
+    "slug": "coreweaves-market-confidence-erodes-as-bond-yields-spike-and-stock-sinks",
+    "guid": "108438644",
+    "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+    "content": [
+      "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "CoreWeave’s market confidence erodes as bond yields spike an... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-21T22:50:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-2feb4c0d0c",
     "slug": "star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
     "guid": "https://www.theverge.com/?p=1015624",
