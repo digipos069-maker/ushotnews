@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-21T19:32:09.308268+00:00",
+  "last_updated": "2026-10-21T20:18:51.964396+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-2b93dec26a": {
-      "title": "Jana Kramer says Los Angeles priced her out of the childhood she wanted for her kids",
-      "slug": "jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
-      "url": "https://ushotnews.online/article/jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
-      "article_url": "https://ushotnews.online/article/jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126005137471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126005137471257",
-      "fb_comment_id": "122126005137471257_2366761910804039",
-      "posted_at": "2026-10-18T19:35:43.256502+00:00"
-    },
-    "jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids": {
-      "title": "Jana Kramer says Los Angeles priced her out of the childhood she wanted for her kids",
-      "slug": "jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
-      "url": "https://ushotnews.online/article/jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
-      "article_url": "https://ushotnews.online/article/jana-kramer-says-los-angeles-priced-her-out-of-the-childhood-she-wanted-for-her-kids",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126005137471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126005137471257",
-      "fb_comment_id": "122126005137471257_2366761910804039",
-      "posted_at": "2026-10-18T19:35:43.256502+00:00"
-    },
     "scraped-fed3d09139": {
       "title": "Nearly 800,000 travelers just voted to name the absolute best cruise lines of 2026",
       "slug": "nearly-800000-travelers-just-voted-to-name-the-absolute-best-cruise-lines-of-2026",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126979885471257",
       "fb_comment_id": "122126979885471257_2349180168961563",
       "posted_at": "2026-10-21T19:32:09.308195+00:00"
+    },
+    "scraped-60d043f7ab": {
+      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
+      "slug": "samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
+      "url": "https://ushotnews.online/article/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
+      "article_url": "https://ushotnews.online/article/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126988711471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126988711471257",
+      "fb_comment_id": "122126988711471257_1363838513482878",
+      "posted_at": "2026-10-21T20:18:51.964313+00:00"
+    },
+    "samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price": {
+      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
+      "slug": "samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
+      "url": "https://ushotnews.online/article/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
+      "article_url": "https://ushotnews.online/article/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126988711471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126988711471257",
+      "fb_comment_id": "122126988711471257_1363838513482878",
+      "posted_at": "2026-10-21T20:18:51.964313+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-21T19:31:55.422341+00:00"
+  "last_cleaned_at": "2026-10-21T20:18:37.078647+00:00"
 }
