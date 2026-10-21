@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-20T23:46:50.399458+00:00",
+  "last_updated": "2026-10-21T00:46:42.054766+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-a3b02fed63": {
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "slug": "mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
-      "url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
-      "article_url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125752411471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125752411471257",
-      "fb_comment_id": "122125752411471257_2252903488823615",
-      "posted_at": "2026-10-18T00:13:53.554942+00:00"
-    },
-    "mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast": {
-      "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-      "slug": "mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
-      "url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
-      "article_url": "https://ushotnews.online/article/mercedes-amgs-first-ground-up-suv-is-a-1150hp-electric-beast",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125752411471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125752411471257",
-      "fb_comment_id": "122125752411471257_2252903488823615",
-      "posted_at": "2026-10-18T00:13:53.554942+00:00"
-    },
     "scraped-79827b0dad": {
       "title": "TikTok bans Musk documentary account",
       "slug": "tiktok-bans-musk-documentary-account",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126719269471257",
       "fb_comment_id": "122126719269471257_1059287910466594",
       "posted_at": "2026-10-20T23:46:50.399391+00:00"
+    },
+    "scraped-c8fda101e6": {
+      "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
+      "slug": "solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+      "url": "https://ushotnews.online/article/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+      "article_url": "https://ushotnews.online/article/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126729007471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126729007471257",
+      "fb_comment_id": "122126729007471257_1644226890522526",
+      "posted_at": "2026-10-21T00:46:42.054714+00:00"
+    },
+    "solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues": {
+      "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
+      "slug": "solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+      "url": "https://ushotnews.online/article/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+      "article_url": "https://ushotnews.online/article/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126729007471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126729007471257",
+      "fb_comment_id": "122126729007471257_1644226890522526",
+      "posted_at": "2026-10-21T00:46:42.054714+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-20T23:46:39.872014+00:00"
+  "last_cleaned_at": "2026-10-21T00:46:33.777906+00:00"
 }
