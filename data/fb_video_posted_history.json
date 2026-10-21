@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-21T16:59:58.459750+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-10-21T21:30:08.771413+00:00",
+  "posted_count": 12,
   "articles": {
-    "dvids-video:1026716": {
-      "title": "Clearing the Air",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112079065/DOD_112079065.mp4",
-      "attached_website_url": "https://ushotnews.online/article/cities-want-to-put-the-boot-on-robotaxis",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1617624280145106",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1617624280145106",
-      "fb_comment_id": "1617624280145106_1082197864646746",
-      "posted_at": "2026-10-18T17:13:50.283338+00:00"
-    },
-    "dvids-video:1026697": {
-      "title": "Maine National Guard, Coast Guard strengthen search and rescue partnership through joint training",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112078092/DOD_112078092.mp4",
-      "attached_website_url": "https://ushotnews.online/article/can-scott-colom-win-mississippi-senate-warnock-is-making-a-big-bet-on-it",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2194490328088082",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2194490328088082",
-      "fb_comment_id": "2194490328088082_1444164550997271",
-      "posted_at": "2026-10-18T20:25:47.447436+00:00"
-    },
     "dvids-video:1026754": {
       "title": "Halloween Safety Tips",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112080306/DOD_112080306.mp4",
@@ -144,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4412685175709752",
       "fb_comment_id": "4412685175709752_4091411511161890",
       "posted_at": "2026-10-21T16:59:58.459681+00:00"
+    },
+    "dvids-video:1027082": {
+      "title": "98th ARRTC activation ceremony at Fort McCoy, Part 4",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112087224/DOD_112087224.mp4",
+      "attached_website_url": "https://ushotnews.online/article/nvidias-latest-gpu-driver-brings-a-new-way-to-speed-up-pc-games",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1090476513610619",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1090476513610619",
+      "fb_comment_id": "1090476513610619_1634104408111956",
+      "posted_at": "2026-10-21T21:30:08.771348+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-21T16:58:17.160720+00:00"
+  "last_cleaned_at": "2026-10-21T21:28:43.816333+00:00"
 }
