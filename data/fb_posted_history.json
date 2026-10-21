@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-21T00:46:42.054766+00:00",
+  "last_updated": "2026-10-21T04:30:56.456192+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-79827b0dad": {
-      "title": "TikTok bans Musk documentary account",
-      "slug": "tiktok-bans-musk-documentary-account",
-      "url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
-      "article_url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125788753471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125788753471257",
-      "fb_comment_id": "122125788753471257_1763362108299167",
-      "posted_at": "2026-10-18T03:11:52.842828+00:00"
-    },
-    "tiktok-bans-musk-documentary-account": {
-      "title": "TikTok bans Musk documentary account",
-      "slug": "tiktok-bans-musk-documentary-account",
-      "url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
-      "article_url": "https://ushotnews.online/article/tiktok-bans-musk-documentary-account",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125788753471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125788753471257",
-      "fb_comment_id": "122125788753471257_1763362108299167",
-      "posted_at": "2026-10-18T03:11:52.842828+00:00"
-    },
     "scraped-28d7e5c800": {
       "title": "Here's some tips on how to organize photos with keywords on your phone",
       "slug": "heres-some-tips-on-how-to-organize-photos-with-keywords-on-your-phone",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126729007471257",
       "fb_comment_id": "122126729007471257_1644226890522526",
       "posted_at": "2026-10-21T00:46:42.054714+00:00"
+    },
+    "scraped-7f0eba7bde": {
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "slug": "australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
+      "url": "https://ushotnews.online/article/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
+      "article_url": "https://ushotnews.online/article/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126777349471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126777349471257",
+      "fb_comment_id": "122126777349471257_1633921984853501",
+      "posted_at": "2026-10-21T04:30:56.456135+00:00"
+    },
+    "australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident": {
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "slug": "australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
+      "url": "https://ushotnews.online/article/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
+      "article_url": "https://ushotnews.online/article/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126777349471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126777349471257",
+      "fb_comment_id": "122126777349471257_1633921984853501",
+      "posted_at": "2026-10-21T04:30:56.456135+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-21T00:46:33.777906+00:00"
+  "last_cleaned_at": "2026-10-21T04:30:44.657578+00:00"
 }
