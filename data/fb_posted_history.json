@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-21T05:45:18.067121+00:00",
+  "last_updated": "2026-10-21T09:35:17.573184+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-c4b533a298": {
-      "title": "Ohio State snaps Indiana's 22-game winning streak, hands reigning champs first loss since 2024 in thriller",
-      "slug": "ohio-state-snaps-indianas-22-game-winning-streak-hands-reigning-champs-first-loss-since-20",
-      "url": "https://ushotnews.online/article/ohio-state-snaps-indianas-22-game-winning-streak-hands-reigning-champs-first-loss-since-20",
-      "article_url": "https://ushotnews.online/article/ohio-state-snaps-indianas-22-game-winning-streak-hands-reigning-champs-first-loss-since-20",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125853601471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125853601471257",
-      "fb_comment_id": "122125853601471257_1823684005339292",
-      "posted_at": "2026-10-18T08:15:02.547747+00:00"
-    },
-    "ohio-state-snaps-indianas-22-game-winning-streak-hands-reigning-champs-first-loss-since-20": {
-      "title": "Ohio State snaps Indiana's 22-game winning streak, hands reigning champs first loss since 2024 in thriller",
-      "slug": "ohio-state-snaps-indianas-22-game-winning-streak-hands-reigning-champs-first-loss-since-20",
-      "url": "https://ushotnews.online/article/ohio-state-snaps-indianas-22-game-winning-streak-hands-reigning-champs-first-loss-since-20",
-      "article_url": "https://ushotnews.online/article/ohio-state-snaps-indianas-22-game-winning-streak-hands-reigning-champs-first-loss-since-20",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125853601471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125853601471257",
-      "fb_comment_id": "122125853601471257_1823684005339292",
-      "posted_at": "2026-10-18T08:15:02.547747+00:00"
-    },
     "scraped-1fa3abc39c": {
       "title": "Megan Fox unveils provocative new photos as she launches new venture with OnlyFans co-founder",
       "slug": "megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126793429471257",
       "fb_comment_id": "122126793429471257_1145960107956143",
       "posted_at": "2026-10-21T05:45:18.067060+00:00"
+    },
+    "scraped-0148ff30f3": {
+      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+      "slug": "a-kelvin-wave-raised-sea-levels-on-the-west-coast-more-are-coming",
+      "url": "https://ushotnews.online/article/a-kelvin-wave-raised-sea-levels-on-the-west-coast-more-are-coming",
+      "article_url": "https://ushotnews.online/article/a-kelvin-wave-raised-sea-levels-on-the-west-coast-more-are-coming",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126845917471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126845917471257",
+      "fb_comment_id": "122126845917471257_2049603602408725",
+      "posted_at": "2026-10-21T09:35:17.573124+00:00"
+    },
+    "a-kelvin-wave-raised-sea-levels-on-the-west-coast-more-are-coming": {
+      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
+      "slug": "a-kelvin-wave-raised-sea-levels-on-the-west-coast-more-are-coming",
+      "url": "https://ushotnews.online/article/a-kelvin-wave-raised-sea-levels-on-the-west-coast-more-are-coming",
+      "article_url": "https://ushotnews.online/article/a-kelvin-wave-raised-sea-levels-on-the-west-coast-more-are-coming",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126845917471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126845917471257",
+      "fb_comment_id": "122126845917471257_2049603602408725",
+      "posted_at": "2026-10-21T09:35:17.573124+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-21T05:45:09.882624+00:00"
+  "last_cleaned_at": "2026-10-21T09:35:04.929582+00:00"
 }
