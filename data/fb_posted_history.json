@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-21T09:35:17.573184+00:00",
+  "last_updated": "2026-10-21T11:14:39.434856+00:00",
   "posted_count": 70,
   "articles": {
-    "scraped-1fa3abc39c": {
-      "title": "Megan Fox unveils provocative new photos as she launches new venture with OnlyFans co-founder",
-      "slug": "megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
-      "url": "https://ushotnews.online/article/megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
-      "article_url": "https://ushotnews.online/article/megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125871967471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125871967471257",
-      "fb_comment_id": "122125871967471257_2119556162264199",
-      "posted_at": "2026-10-18T09:50:36.571121+00:00"
-    },
-    "megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun": {
-      "title": "Megan Fox unveils provocative new photos as she launches new venture with OnlyFans co-founder",
-      "slug": "megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
-      "url": "https://ushotnews.online/article/megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
-      "article_url": "https://ushotnews.online/article/megan-fox-unveils-provocative-new-photos-as-she-launches-new-venture-with-onlyfans-co-foun",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122125871967471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122125871967471257",
-      "fb_comment_id": "122125871967471257_2119556162264199",
-      "posted_at": "2026-10-18T09:50:36.571121+00:00"
-    },
     "scraped-9c898f7bad": {
       "title": "Dream and Valkyries leave court for national anthem, return seconds later at WNBA Finals",
       "slug": "dream-and-valkyries-leave-court-for-national-anthem-return-seconds-later-at-wnba-finals",
@@ -771,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126845917471257",
       "fb_comment_id": "122126845917471257_2049603602408725",
       "posted_at": "2026-10-21T09:35:17.573124+00:00"
+    },
+    "scraped-ea7d465ee4": {
+      "title": "Vibe coding is turning the music gear world upside down",
+      "slug": "vibe-coding-is-turning-the-music-gear-world-upside-down",
+      "url": "https://ushotnews.online/article/vibe-coding-is-turning-the-music-gear-world-upside-down",
+      "article_url": "https://ushotnews.online/article/vibe-coding-is-turning-the-music-gear-world-upside-down",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126869545471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126869545471257",
+      "fb_comment_id": "122126869545471257_1657947946030720",
+      "posted_at": "2026-10-21T11:14:39.434792+00:00"
+    },
+    "vibe-coding-is-turning-the-music-gear-world-upside-down": {
+      "title": "Vibe coding is turning the music gear world upside down",
+      "slug": "vibe-coding-is-turning-the-music-gear-world-upside-down",
+      "url": "https://ushotnews.online/article/vibe-coding-is-turning-the-music-gear-world-upside-down",
+      "article_url": "https://ushotnews.online/article/vibe-coding-is-turning-the-music-gear-world-upside-down",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122126869545471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126869545471257",
+      "fb_comment_id": "122126869545471257_1657947946030720",
+      "posted_at": "2026-10-21T11:14:39.434792+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-21T09:35:04.929582+00:00"
+  "last_cleaned_at": "2026-10-21T11:14:25.937805+00:00"
 }
