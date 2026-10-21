@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-21T04:11:49.287711+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-10-21T11:33:26.253904+00:00",
+  "posted_count": 13,
   "articles": {
     "dvids-video:1026712": {
       "title": "101st Air Refueling Wing Trunk or Treat 2026",
@@ -133,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1816141812810184",
       "fb_comment_id": "1816141812810184_1466424132213751",
       "posted_at": "2026-10-21T04:11:49.287646+00:00"
+    },
+    "dvids-video:1026959": {
+      "title": "Raider Report Ep 157- Fire Prevention Week & Wingman Guardian Connect",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084073/DOD_112084073.mp4",
+      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
+      "trending_score": 90.0,
+      "format": "video",
+      "fb_video_id": "1978069782889990",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1978069782889990",
+      "fb_comment_id": "1978069782889990_1103968759051939",
+      "posted_at": "2026-10-21T11:33:26.253845+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-21T04:10:56.743122+00:00"
+  "last_cleaned_at": "2026-10-21T11:31:36.160926+00:00"
 }
