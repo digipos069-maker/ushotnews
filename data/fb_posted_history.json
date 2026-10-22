@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-22T17:33:33.354649+00:00",
+  "last_updated": "2026-10-22T18:43:25.774277+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-bd1badab6a": {
-      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-      "slug": "chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround",
-      "url": "https://ushotnews.online/article/chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround",
-      "article_url": "https://ushotnews.online/article/chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126288649471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126288649471257",
-      "fb_comment_id": "122126288649471257_1532175362276504",
-      "posted_at": "2026-10-19T17:43:25.044767+00:00"
-    },
-    "chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround": {
-      "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-      "slug": "chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround",
-      "url": "https://ushotnews.online/article/chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround",
-      "article_url": "https://ushotnews.online/article/chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126288649471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126288649471257",
-      "fb_comment_id": "122126288649471257_1532175362276504",
-      "posted_at": "2026-10-19T17:43:25.044767+00:00"
-    },
     "scraped-ae19a8ac78": {
       "title": "The real reason it's going to take a while to know who won in some midterm races",
       "slug": "the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127227793471257",
       "fb_comment_id": "122127227793471257_2127003694580874",
       "posted_at": "2026-10-22T17:33:33.354565+00:00"
+    },
+    "scraped-71b1879b7e": {
+      "title": "Brian Kelly pins blame for Texas' offensive struggles on coach Steve Sarkisian, not Arch Manning",
+      "slug": "brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
+      "url": "https://ushotnews.online/article/brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
+      "article_url": "https://ushotnews.online/article/brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127242451471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127242451471257",
+      "fb_comment_id": "122127242451471257_1817656942853344",
+      "posted_at": "2026-10-22T18:43:25.774212+00:00"
+    },
+    "brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man": {
+      "title": "Brian Kelly pins blame for Texas' offensive struggles on coach Steve Sarkisian, not Arch Manning",
+      "slug": "brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
+      "url": "https://ushotnews.online/article/brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
+      "article_url": "https://ushotnews.online/article/brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127242451471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127242451471257",
+      "fb_comment_id": "122127242451471257_1817656942853344",
+      "posted_at": "2026-10-22T18:43:25.774212+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T17:33:21.555125+00:00"
+  "last_cleaned_at": "2026-10-22T18:43:16.887179+00:00"
 }
