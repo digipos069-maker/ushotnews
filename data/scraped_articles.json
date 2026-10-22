@@ -1,5 +1,930 @@
 [
   {
+    "id": "scraped-79b6941052",
+    "slug": "the-good-the-bad-and-the-unruly-from-over-two-dozen-candidate-debates",
+    "guid": "000001a1-6437-d632-a1af-ff3f9c900000",
+    "title": "The good, the bad and the unruly from over two dozen candidate debates",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "POLITICO watched all the key Senate and gubernatorial debates so you didn’t have to",
+    "content": [
+      "POLITICO watched all the key Senate and gubernatorial debates so you didn’t have to",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/23/1e/f7d03ae14a4f8ee9936a6b8a965e/election-2-26-michigan-senate-2-544.jpg",
+    "imageCaption": "The good, the bad and the unruly from over two dozen candida... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T16:14:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3ff7dbb2ed",
+    "slug": "elon-musk-says-tesla-will-sell-5-million-cars-by-2030-math-says-otherwise",
+    "guid": "https://www.theverge.com/?p=1016055",
+    "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a good shot of achieving that goal.\" [&#8230;]",
+    "content": [
+      "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a good shot of achieving that goal.\" [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Elon Musk says Tesla will sell 5 million cars by 2030 — math... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T17:42:52+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-585e2cc48d",
+    "slug": "amazon-renames-kindle-unlimited-to-kindle-plus-and-expands-access-to-audiobooks",
+    "guid": "https://www.theverge.com/?p=1016789",
+    "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands [&#8230;]",
+    "content": [
+      "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Amazon renames Kindle Unlimited to Kindle Plus and expands a... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T17:46:40+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-34ef661309",
+    "slug": "microsoft-says-its-ai-tool-is-better-than-doctors-at-diagnosing-conditions",
+    "guid": "https://www.theverge.com/?p=1016690",
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
+    "content": [
+      "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft says its AI tool is better than doctors at diagnos... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-772d2f85e0",
+    "slug": "tesla-driver-using-full-self-driving-struck-and-killed-a-man-crossing-i-80",
+    "guid": "https://www.theverge.com/?p=1016928",
+    "title": "Tesla driver using Full Self-Driving struck and killed a man crossing I-80",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the accident from the Tesla's dashcam, which \"showed the Tesla's brakes [&#8230;]",
+    "content": [
+      "A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the accident from the Tesla's dashcam, which \"showed the Tesla's brakes [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tesla driver using Full Self-Driving struck and killed a man... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:07:02+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dea5319dda",
+    "slug": "mass-effect-5-trailer-leaks-following-bioware-shutdown",
+    "guid": "https://www.theverge.com/?p=1016932",
+    "title": "Mass Effect 5 trailer leaks following BioWare shutdown",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features \"in-engine footage\" and uses \"pre-production assets,\" according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation [&#8230;]",
+    "content": [
+      "Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features \"in-engine footage\" and uses \"pre-production assets,\" according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Mass Effect 5 trailer leaks following BioWare shutdown... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:14:24+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3a18f69abd",
+    "slug": "in-metas-version-of-the-future-ill-have-my-muse-call-your-muse",
+    "guid": "https://www.theverge.com/?p=1016905",
+    "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
+    "content": [
+      "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "In Meta’s version of the future, I’ll have my Muse call your... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:15:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d7abfe0fcc",
+    "slug": "delta-can-turn-the-iphone-duo-into-your-favorite-folding-handheld",
+    "guid": "https://www.theverge.com/?p=1016524",
+    "title": "Delta can turn the iPhone Duo into your favorite folding handheld",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pok&#233;mon DLC experiences, and a new UI that was built around supporting Liquid Glass. Adding support for the iPhone Duo [&#8230;]",
+    "content": [
+      "The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pok&#233;mon DLC experiences, and a new UI that was built around supporting Liquid Glass. Adding support for the iPhone Duo [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Delta can turn the iPhone Duo into your favorite folding han... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-624ff2ead7",
+    "slug": "refurbished-ps5-consoles-include-second-controller-for-an-extra-18",
+    "guid": "https://www.theverge.com/?p=1016959",
+    "title": "Refurbished PS5 consoles include second controller for an extra $18",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because [&#8230;]",
+    "content": [
+      "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Refurbished PS5 consoles include second controller for an ex... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:38:50+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6a540cbe55",
+    "slug": "see-how-big-tech-is-transforming-spains-landscape",
+    "guid": "https://www.npr.org/2026/10/22/nx-s1-5991641/ai-data-centers-spain-environmental-impact",
+    "title": "See how Big Tech is transforming Spain's landscape",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
+    "content": [
+      "A drought-stricken region of northeast Spain has become a focus for American companies searching for locations to place their data centers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "See how Big Tech is transforming Spain's landscape... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-48f9d5a290",
+    "slug": "wyndham-clarks-influencer-girlfriend-on-importance-of-manscaping-babysitter-swinging-invit",
+    "guid": "https://www.foxnews.com/outkick-sports/wyndham-clark-influencer-girlfriend-importance-manscaping-babysitter-swinging-invite-married-affair",
+    "title": "Wyndham Clark's influencer girlfriend on importance of manscaping, babysitter swinging invite & married affair",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Emily Tanner toured Wyndham Clark&apos;s bathroom in a new video revealing the golfer&apos;s manscaping habits and grooming green flags after moving in together.",
+    "content": [
+      "Emily Tanner toured Wyndham Clark&apos;s bathroom in a new video revealing the golfer&apos;s manscaping habits and grooming green flags after moving in together.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/wyndham-clark-us-open-fox-news-011.jpeg?ve=1&tl=1",
+    "imageCaption": "Wyndham Clark's influencer girlfriend on importance of mansc... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T17:48:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fa121e9717",
+    "slug": "charles-barkley-weighs-in-on-the-friction-in-the-monday-night-football-broadcast-booth",
+    "guid": "https://www.foxnews.com/outkick-sports/charles-barkley-weighs-friction-monday-night-football-broadcast-booth",
+    "title": "Charles Barkley weighs in on the friction in the 'Monday Night Football' broadcast booth",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Charles Barkley says he&apos;s very disappointed in Troy Aikman for dragging Joe Buck into the ESPN contract dispute ahead of the Super Bowl game.",
+    "content": [
+      "Charles Barkley says he&apos;s very disappointed in Troy Aikman for dragging Joe Buck into the ESPN contract dispute ahead of the Super Bowl game.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/barkley-waving.png?ve=1&tl=1",
+    "imageCaption": "Charles Barkley weighs in on the friction in the 'Monday Nig... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T17:58:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c20c1ac10d",
+    "slug": "the-offspring-guitarist-kevin-noodles-wasserman-steps-away-from-touring-over-serious-healt",
+    "guid": "https://www.foxnews.com/entertainment/offspring-guitarist-kevin-noodles-wasserman-steps-away-from-touring-over-serious-health-issue",
+    "title": "The Offspring guitarist Kevin ‘Noodles’ Wasserman steps away from touring over ‘serious health issue’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kevin Noodles Wasserman shared an emotional Instagram post revealing his sudden departure from The Offspring&apos;s tour as bandmates rally behind him.",
+    "content": [
+      "Kevin Noodles Wasserman shared an emotional Instagram post revealing his sudden departure from The Offspring&apos;s tour as bandmates rally behind him.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/offspring.jpg?ve=1&tl=1",
+    "imageCaption": "The Offspring guitarist Kevin ‘Noodles’ Wasserman steps away... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T17:58:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-25c1eb6de5",
+    "slug": "last-minute-halloween-kids-guide-games-and-toys-that-will-still-arrive-on-time",
+    "guid": "https://www.foxnews.com/deals/kids-halloween-guide",
+    "title": "Last-minute Halloween kids' guide — games and toys that will still arrive on time",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Shop Halloween toys, games, activities and more for kids of every age that will still arrive in time, starting at $5.",
+    "content": [
+      "Shop Halloween toys, games, activities and more for kids of every age that will still arrive in time, starting at $5.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/halloween-kids.jpg?ve=1&tl=1",
+    "imageCaption": "Last-minute Halloween kids' guide — games and toys that will... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:01:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1660280084",
+    "slug": "accused-philadelphia-cop-killer-eric-lewis-faces-new-federal-gun-robbery-charges-after-dea",
+    "guid": "https://www.foxnews.com/us/accused-philadelphia-cop-killer-eric-lewis-faces-new-federal-gun-robbery-charges-deadly-ambush",
+    "title": "Accused Philadelphia cop killer Eric Lewis faces new federal gun, robbery charges after deadly ambush",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Eric Lewis now faces federal charges including firearm offenses after allegedly ambushing two Philadelphia police officers and killing Shane Seiber.",
+    "content": [
+      "Eric Lewis now faces federal charges including firearm offenses after allegedly ambushing two Philadelphia police officers and killing Shane Seiber.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/philly-ambush-attack-suspect-victim-charges.png?ve=1&tl=1",
+    "imageCaption": "Accused Philadelphia cop killer Eric Lewis faces new federal... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:07:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1b2ff5359b",
+    "slug": "federal-authorities-charge-15-in-massive-18b-southern-california-medical-fraud-sweep",
+    "guid": "https://www.foxnews.com/us/federal-authorities-charge-15-massive-1-8b-southern-california-medical-fraud-sweep",
+    "title": "Federal authorities charge 15 in massive $1.8B Southern California medical fraud sweep",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Federal raids across Southern California targeted 15 suspects, including a cardiothoracic surgeon, in nearly $2 billion in healthcare fraud schemes.",
+    "content": [
+      "Federal raids across Southern California targeted 15 suspects, including a cardiothoracic surgeon, in nearly $2 billion in healthcare fraud schemes.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/FBI-Los-Angeles-fraud.jpg?ve=1&tl=1",
+    "imageCaption": "Federal authorities charge 15 in massive $1.8B Southern Cali... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:17:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-51788f2cd5",
+    "slug": "presidents-cup-hero-jacob-bridgeman-joins-president-trump-on-stage-in-south-carolina-leads",
+    "guid": "https://www.foxnews.com/outkick-sports/presidents-cup-hero-jacob-bridgeman-joins-president-trump-stage-south-carolina-leads-clemson-chant",
+    "title": "Presidents Cup hero Jacob Bridgeman joins President Trump on stage in South Carolina, leads Clemson chant",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jacob Bridgeman spoke at Trump&apos;s Clemson University rally in South Carolina, recounting his Presidents Cup clinching putt for Team USA golf.",
+    "content": [
+      "Jacob Bridgeman spoke at Trump&apos;s Clemson University rally in South Carolina, recounting his Presidents Cup clinching putt for Team USA golf.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jacob-bridgeman-trump-featured.jpg?ve=1&tl=1",
+    "imageCaption": "Presidents Cup hero Jacob Bridgeman joins President Trump on... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:18:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9469945a3c",
+    "slug": "third-party-evaluators-found-vulnerabilities-in-openai-monitoring-system-during-test-pilot",
+    "guid": "108446673",
+    "title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+    "content": [
+      "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Third-party evaluators found vulnerabilities in OpenAI monit... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T17:37:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3139728e35",
+    "slug": "musks-clash-with-ukraine-accelerates-demand-for-starlink-alternatives-few-exist",
+    "guid": "108442815",
+    "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+    "content": [
+      "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Musk's clash with Ukraine accelerates demand for Starlink al... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:38:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f3c3e1002a",
+    "slug": "ai-debt-and-french-bonds-face-a-stress-test-why-it-may-not-be-over",
+    "guid": "108438212",
+    "title": "AI debt and French bonds face a stress test — why it may not be over",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.",
+    "content": [
+      "Bond markets are signaling unease over AI financing costs and sovereign debt in parts of Europe. More stress tests are coming.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AI debt and French bonds face a stress test — why it may not... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:13:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ba4da3168a",
+    "slug": "spacex-and-tesla-have-high-election-stakes-as-elon-musk-pours-366-million-into-campaigns",
+    "guid": "108435357",
+    "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+    "content": [
+      "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX and Tesla have high election stakes as Elon Musk pour... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:37:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1f51612c26",
+    "slug": "bill-ackman-says-2027-will-be-an-amazing-year-for-stocks-as-wars-inflation-ease",
+    "guid": "108447002",
+    "title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "\"We're going to have an amazing 2027,\" he said.",
+    "content": [
+      "\"We're going to have an amazing 2027,\" he said.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bill Ackman says 2027 will be an amazing year for stocks as ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T17:53:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bddcfbd455",
+    "slug": "moderna-shares-plunge-after-leak-of-partial-cancer-vaccine-data-despite-positive-results",
+    "guid": "108447853",
+    "title": "Moderna shares plunge after leak of partial cancer vaccine data despite positive results",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+    "content": [
+      "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Moderna shares plunge after leak of partial cancer vaccine d... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:41:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-89beb7a910",
+    "slug": "elon-musk-invests-about-1-billion-in-skydance",
+    "guid": "108447406",
+    "title": "Elon Musk invests about $1 billion in Skydance",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+    "content": [
+      "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Elon Musk invests about $1 billion in Skydance... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:02:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b7c8aec254",
+    "slug": "meta-stock-sinks-7-as-ai-spend-pushes-free-cash-flow-negative",
+    "guid": "108446883",
+    "title": "Meta stock sinks 7% as AI spend pushes free cash flow negative",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+    "content": [
+      "Prices for the social media giant's five-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta stock sinks 7% as AI spend pushes free cash flow negati... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T18:38:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-126f3b09d5",
     "slug": "americas-heartland-sows-doubt-in-the-gop",
     "guid": "000001a1-61c5-d632-a1af-fffd3b720000",
