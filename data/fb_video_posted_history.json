@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T00:32:54.583147+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-10-22T07:24:03.759984+00:00",
+  "posted_count": 14,
   "articles": {
     "dvids-video:1026754": {
       "title": "Halloween Safety Tips",
@@ -144,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1613230650445038",
       "fb_comment_id": "1613230650445038_2323020078455703",
       "posted_at": "2026-10-22T00:32:54.583067+00:00"
+    },
+    "dvids-video:1027117": {
+      "title": "210th FAB MLRS Live Fire Reel",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112087956/DOD_112087956.mp4",
+      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1442543464488657",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1442543464488657",
+      "fb_comment_id": "1442543464488657_1865687888209359",
+      "posted_at": "2026-10-22T07:24:03.759912+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T00:32:11.961803+00:00"
+  "last_cleaned_at": "2026-10-22T07:22:49.064833+00:00"
 }
