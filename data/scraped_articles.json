@@ -1,5 +1,856 @@
 [
   {
+    "id": "scraped-3bb145d129",
+    "slug": "a-final-farewell-to-nycs-horse-carriage-industry",
+    "guid": "000001a1-6544-d6a9-abf9-ffc63e090000",
+    "title": "A final farewell to NYC’s horse carriage industry",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "A final farewell to NYC’s horse carriage industry",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A final farewell to NYC’s horse carriage industry... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:46:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d281df1bfb",
+    "slug": "democrats-top-senate-super-pac-has-raised-354m-this-year",
+    "guid": "000001a1-6564-d6a9-abf9-ffe664bf0000",
+    "title": "Democrats’ top Senate super PAC has raised $354M this year",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The figure is a record for the group and includes roughly $88 million in the first two weeks of October.",
+    "content": [
+      "The figure is a record for the group and includes roughly $88 million in the first two weeks of October.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/2c/1c/a5251b854818910a55db558ce0ab/u-s-congress-1-892.jpg",
+    "imageCaption": "Democrats’ top Senate super PAC has raised $354M this year... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T22:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-87066e73b1",
+    "slug": "teenage-engineering-launched-an-instrument-amp-with-a-ton-of-built-in-effects",
+    "guid": "https://www.theverge.com/?p=1017022",
+    "title": "Teenage Engineering launched an instrument amp with a ton of built-in effects",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to [&#8230;]",
+    "content": [
+      "Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Teenage Engineering launched an instrument amp with a ton of... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T19:44:51+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-97f814776e",
+    "slug": "sure-lets-smoosh-spacex-and-tesla-together-who-cares",
+    "guid": "https://www.theverge.com/?p=1016879",
+    "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which [&#8230;]",
+    "content": [
+      "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sure, let’s smoosh SpaceX and Tesla together, who cares... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T19:45:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d1f70d8564",
+    "slug": "the-fcc-is-beginning-to-block-gadgets-with-foreign-surveillance-chips",
+    "guid": "https://www.theverge.com/?p=1017016",
+    "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims. [&#8230;]",
+    "content": [
+      "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims. [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The FCC is beginning to block gadgets with ‘foreign surveill... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:23:48+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d25a1d64c8",
+    "slug": "meta-turns-muse-sharing-back-on",
+    "guid": "https://www.theverge.com/?p=1017066",
+    "title": "Meta turns Muse sharing back on",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+    "content": [
+      "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta turns Muse sharing back on... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:24:04+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a541b79bf",
+    "slug": "meta8217s-ai-could-still-scrape-news-sites-legal-experts-say",
+    "guid": "https://www.theverge.com/?p=1017082",
+    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+    "content": [
+      "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta&#8217;s AI could still scrape news sites, legal experts... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:32:05+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-112f07ad56",
+    "slug": "fall-2026-earnings-watch",
+    "guid": "https://www.theverge.com/?post_type=vm_package&p=1016506",
+    "title": "Fall 2026 earnings watch",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
+    "content": [
+      "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fall 2026 earnings watch... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:15:16+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3920800b67",
+    "slug": "pc-shipments-dropped-over-20-percent-in-q3-due-to-ram-price-hikes",
+    "guid": "https://www.theverge.com/?p=1017144",
+    "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the [&#8230;]",
+    "content": [
+      "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "PC shipments dropped over 20 percent in Q3 due to RAM price ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:30:39+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-892ee18e20",
+    "slug": "canvas-first-ai-image-model-plans-designs-before-generating-them",
+    "guid": "https://www.theverge.com/?p=1017151",
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+    "content": [
+      "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Canva’s first AI image model plans designs before generating... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:51:25+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ef21440838",
+    "slug": "federal-judge-restricts-dhs-field-operations-looking-for-noncitizen-voters",
+    "guid": "https://www.npr.org/2026/10/22/nx-s1-6012682/judge-dhs-noncitizen-voting-operations",
+    "title": "Federal judge restricts DHS field operations looking for noncitizen voters",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The judge found the department's field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.",
+    "content": [
+      "The judge found the department's field operations to identify noncitizens who voted likely violated the Voting Rights Act, which bars voter intimidation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Federal judge restricts DHS field operations looking for non... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T19:16:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0fc70058ba",
+    "slug": "actor-tom-skerritt-who-played-dads-cops-and-commanding-officers-has-died",
+    "guid": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+    "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Skerritt was Captain Dallas in Alien, Viper in Top Gun, and a small town sheriff in the TV series Picket Fences.",
+    "content": [
+      "Skerritt was Captain Dallas in Alien, Viper in Top Gun, and a small town sheriff in the TV series Picket Fences.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Actor Tom Skerritt, who played dads, cops and commanding off... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:12:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f36d1ea11e",
+    "slug": "emily-ratajkowski-poses-in-plunging-black-swimsuit-as-she-shares-intimate-photo-with-boyfr",
+    "guid": "https://www.foxnews.com/entertainment/emily-ratajkowski-poses-plunging-black-swimsuit-she-shares-intimate-photo-boyfriend",
+    "title": "Emily Ratajkowski poses in plunging black swimsuit as she shares intimate photo with boyfriend",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Emily Ratajkowski&apos;s Instagram carousel features a daring swimsuit selfie, a cigarette snap that divided fans and a kiss with boyfriend Gavras.",
+    "content": [
+      "Emily Ratajkowski&apos;s Instagram carousel features a daring swimsuit selfie, a cigarette snap that divided fans and a kiss with boyfriend Gavras.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/emily-ratajkowski-academy-museum-gala.jpg?ve=1&tl=1",
+    "imageCaption": "Emily Ratajkowski poses in plunging black swimsuit as she sh... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:02:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6951d10d95",
+    "slug": "hegseth-unleashes-trumps-arsenal-of-freedom-with-warning-to-defense-giants",
+    "guid": "https://www.foxnews.com/politics/hegseth-unleashes-trumps-arsenal-freedom-warning-defense-giants",
+    "title": "Hegseth unleashes Trump's 'Arsenal of Freedom' with warning to defense giants",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Pete Hegseth&apos;s video showcases missile launches and production lines as the Trump administration&apos;s Arsenal of Freedom campaign targets Pentagon red tape.",
+    "content": [
+      "Pete Hegseth&apos;s video showcases missile launches and production lines as the Trump administration&apos;s Arsenal of Freedom campaign targets Pentagon red tape.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/secofwar.gif",
+    "imageCaption": "Hegseth unleashes Trump's 'Arsenal of Freedom' with warning ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:08:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-18a3e7804b",
+    "slug": "singham-linked-nonprofits-defy-house-ultimatum-blast-maga-led-witch-hunt",
+    "guid": "https://www.foxnews.com/politics/singham-linked-nonprofits-defy-house-ultimatum-blast-maga-led-witch-hunt",
+    "title": "Singham-linked nonprofits defy House ultimatum, blast 'MAGA-led witch hunt'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The People&apos;s Forum and BreakThrough News rejected House Ways and Means Committee demands, accusing Jason Smith&apos;s probe of violating First Amendment rights.",
+    "content": [
+      "The People&apos;s Forum and BreakThrough News rejected House Ways and Means Committee demands, accusing Jason Smith&apos;s probe of violating First Amendment rights.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Neville-Roy-Singham-US-Capitol-Congressional-Probe.jpg?ve=1&tl=1",
+    "imageCaption": "Singham-linked nonprofits defy House ultimatum, blast 'MAGA-... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:09:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f796be5ed3",
+    "slug": "trump-rally-exposes-surprising-cracks-in-maga-base-as-republicans-face-midterm-test",
+    "guid": "https://www.foxnews.com/politics/trump-rally-exposes-surprising-cracks-maga-base-republicans-face-midterm-test",
+    "title": "Trump rally exposes surprising cracks in MAGA base as Republicans face midterm test",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "President Donald Trump&apos;s Clemson rally revealed GOP fractures over the Iran war, funding and immigration as one student eyes crossing party lines.",
+    "content": [
+      "President Donald Trump&apos;s Clemson rally revealed GOP fractures over the Iran war, funding and immigration as one student eyes crossing party lines.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/sc-rallygoers.jpg?ve=1&tl=1",
+    "imageCaption": "Trump rally exposes surprising cracks in MAGA base as Republ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:10:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fb88a6c220",
+    "slug": "tiger-woods-wants-to-play-a-full-tgl-schedule-in-2027-after-dui-arrest-and-rehab-stint-gol",
+    "guid": "https://www.foxnews.com/outkick-sports/tiger-woods-wants-play-full-tgl-schedule-2027-after-dui-arrest-rehab-stint-golf-peer-reveals",
+    "title": "Tiger Woods wants to play a 'full TGL schedule' in 2027 after DUI arrest and rehab stint, golf peer reveals",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tiger Woods wants to play a full TGL schedule in 2027, and Jason Kisner said the 15-time major winner could even return to The Masters soon if all goes well.",
+    "content": [
+      "Tiger Woods wants to play a full TGL schedule in 2027, and Jason Kisner said the 15-time major winner could even return to The Masters soon if all goes well.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/tiger-woods-return-featured.jpg?ve=1&tl=1",
+    "imageCaption": "Tiger Woods wants to play a 'full TGL schedule' in 2027 afte... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:27:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-81f7431f60",
+    "slug": "as-seen-on-fox-and-friends-spooktacular-halloween-party-ideas",
+    "guid": "https://www.foxnews.com/deals/easy-halloween-party-ideas",
+    "title": "As seen on Fox and Friends: Spooktacular Halloween party ideas",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Discover easy Halloween party ideas, including spooky drinks, festive flowers, charcuterie boards and fun activities.",
+    "content": [
+      "Discover easy Halloween party ideas, including spooky drinks, festive flowers, charcuterie boards and fun activities.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/ff-halloween-main.jpg?ve=1&tl=1",
+    "imageCaption": "As seen on Fox and Friends: Spooktacular Halloween party ide... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:33:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cc54cac839",
+    "slug": "english-soccer-team-apologizes-for-hosting-an-out-of-hand-wet-wild-show-at-their-clubhouse",
+    "guid": "https://www.foxnews.com/outkick-sports/english-soccer-team-apologizes-hosting-out-of-hand-wet-wild-show-clubhouse",
+    "title": "English soccer team apologizes for hosting an out of hand 'Wet & Wild' show at their clubhouse",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Footage from the UK Pleasure Boys&apos; Wet Wild show at Banbury United FC&apos;s Spencer Clubhouse sparked an apology after acts went too far.",
+    "content": [
+      "Footage from the UK Pleasure Boys&apos; Wet Wild show at Banbury United FC&apos;s Spencer Clubhouse sparked an apology after acts went too far.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/spencer-stadium-banbury-united-barrow.jpg?ve=1&tl=1",
+    "imageCaption": "English soccer team apologizes for hosting an out of hand 'W... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:48:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9ce94b2c28",
+    "slug": "trump-asked-musk-to-lift-starlink-slowdown-wsj-reports",
+    "guid": "108447854",
+    "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
+    "content": [
+      "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump asked Musk to lift Starlink slowdown, WSJ reports... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T21:02:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-336cf5e098",
+    "slug": "openai-nears-up-to-30-billion-funding-round-at-125-trillion-valuation-led-by-uae-investors",
+    "guid": "108448203",
+    "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC.",
+    "content": [
+      "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI nears up to $30 billion funding round at $1.25 trilli... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:41:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cacaea7f7c",
+    "slug": "trump-defends-ramaswamy-ad-with-actons-estranged-mom-after-bipartisan-criticism",
+    "guid": "108448016",
+    "title": "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Ohio Gov. Mike DeWine said GOP gubernatorial nominee Vivek Ramaswamy should remove the ad featuring the mother of Democratic nominee Amy Acton.",
+    "content": [
+      "Ohio Gov. Mike DeWine said GOP gubernatorial nominee Vivek Ramaswamy should remove the ad featuring the mother of Democratic nominee Amy Acton.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump defends Ramaswamy ad with Acton's estranged mom after ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:26:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-00ef7bc58f",
+    "slug": "metas-deal-to-keep-zuckerberg-in-california-adds-fuel-to-wealth-tax-debate-ahead-of-electi",
+    "guid": "108444218",
+    "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
+    "content": [
+      "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta’s deal to keep Zuckerberg in California adds fuel to we... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:47:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-79b6941052",
     "slug": "the-good-the-bad-and-the-unruly-from-over-two-dozen-candidate-debates",
     "guid": "000001a1-6437-d632-a1af-ff3f9c900000",
