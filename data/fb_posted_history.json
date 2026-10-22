@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-22T14:33:16.429014+00:00",
+  "last_updated": "2026-10-22T17:33:33.354649+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-50f2da91af": {
-      "title": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign",
-      "slug": "massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
-      "url": "https://ushotnews.online/article/massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
-      "article_url": "https://ushotnews.online/article/massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126244423471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126244423471257",
-      "fb_comment_id": "122126244423471257_2214591312814584",
-      "posted_at": "2026-10-19T14:53:05.906631+00:00"
-    },
-    "massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa": {
-      "title": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign",
-      "slug": "massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
-      "url": "https://ushotnews.online/article/massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
-      "article_url": "https://ushotnews.online/article/massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126244423471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126244423471257",
-      "fb_comment_id": "122126244423471257_2214591312814584",
-      "posted_at": "2026-10-19T14:53:05.906631+00:00"
-    },
     "scraped-bd1badab6a": {
       "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
       "slug": "chinas-cxmt-sees-shares-drop-over-6-as-investors-look-past-chipmakers-profit-turnaround",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127191301471257",
       "fb_comment_id": "122127191301471257_28601758522853464",
       "posted_at": "2026-10-22T14:33:16.428923+00:00"
+    },
+    "scraped-1dd79363c0": {
+      "title": "James Talarico blames rise in GOP 'extremism' for prompting his 'God is non-binary,' six sexes remarks",
+      "slug": "james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
+      "url": "https://ushotnews.online/article/james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
+      "article_url": "https://ushotnews.online/article/james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127227793471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127227793471257",
+      "fb_comment_id": "122127227793471257_2127003694580874",
+      "posted_at": "2026-10-22T17:33:33.354565+00:00"
+    },
+    "james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-": {
+      "title": "James Talarico blames rise in GOP 'extremism' for prompting his 'God is non-binary,' six sexes remarks",
+      "slug": "james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
+      "url": "https://ushotnews.online/article/james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
+      "article_url": "https://ushotnews.online/article/james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127227793471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127227793471257",
+      "fb_comment_id": "122127227793471257_2127003694580874",
+      "posted_at": "2026-10-22T17:33:33.354565+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T14:33:03.767155+00:00"
+  "last_cleaned_at": "2026-10-22T17:33:21.555125+00:00"
 }
