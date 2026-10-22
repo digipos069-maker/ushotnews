@@ -1,5 +1,375 @@
 [
   {
+    "id": "scraped-133b0048db",
+    "slug": "north-korea-says-it-will-resume-propaganda-broadcasts-across-border-into-south-korea",
+    "guid": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
+    "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "North Korea plans to resume anti-Seoul propaganda broadcasts along the heavily armed border with South Korea, leader Kim Jong Un's sister said, reviving a psychological warfare campaign.",
+    "content": [
+      "North Korea plans to resume anti-Seoul propaganda broadcasts along the heavily armed border with South Korea, leader Kim Jong Un's sister said, reviving a psychological warfare campaign.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "North Korea says it will resume propaganda broadcasts across... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T06:36:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8d328dcc5e",
+    "slug": "bukele-says-military-operation-launched-to-rescue-salvadorans-held-by-gangs-in-haiti",
+    "guid": "https://www.npr.org/2026/10/22/nx-s1-6012029/bukele-military-operation-haiti",
+    "title": "Bukele says military operation launched to rescue Salvadorans held by gangs in Haiti",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "El Salvador's President Nayib Bukele said Wednesday he had launched a military operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti.",
+    "content": [
+      "El Salvador's President Nayib Bukele said Wednesday he had launched a military operation to rescue four Salvadoran aviation technicians kidnapped by gangs in Haiti.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bukele says military operation launched to rescue Salvadoran... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T08:39:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dd2cb2ab4e",
+    "slug": "kansas-senate-rivals-distance-themselves-from-party-leaders-in-fiery-debate",
+    "guid": "https://www.foxnews.com/politics/kansas-senate-rivals-distance-themselves-from-party-leaders-fiery-debate",
+    "title": "Kansas Senate rivals distance themselves from party leaders in fiery debate",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Kansas Senate debate saw Roger Marshall and Adam Hamilton try to define each other by their parties as Senate control hangs in the balance.",
+    "content": [
+      "The Kansas Senate debate saw Roger Marshall and Adam Hamilton try to define each other by their parties as Senate control hangs in the balance.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/marshall-hamilton-general-2026.jpg?ve=1&tl=1",
+    "imageCaption": "Kansas Senate rivals distance themselves from party leaders ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T03:22:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-25035e0cc0",
+    "slug": "trump-voters-reveal-their-biggest-fear-heading-into-midterms-and-its-not-rising-prices",
+    "guid": "https://www.foxnews.com/politics/trump-voters-reveal-biggest-fear-heading-midterms-its-not-rising-prices",
+    "title": "Trump voters reveal their biggest fear heading into midterms — and it's not rising prices",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trump rallied supporters in Wichita as the Kansas Senate race between Roger Marshall and Adam Hamilton tightens to a dead heat in the polls.",
+    "content": [
+      "Trump rallied supporters in Wichita as the Kansas Senate race between Roger Marshall and Adam Hamilton tightens to a dead heat in the polls.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/yellow-vest-marianne-monument-paris.jpg?ve=1&tl=1",
+    "imageCaption": "Trump voters reveal their biggest fear heading into midterms... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T08:00:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-49e9eb3b02",
+    "slug": "watch-top-3-clashes-in-heated-mn-governor-debate-as-walzs-legacy-looms-large-change-the-cu",
+    "guid": "https://www.foxnews.com/politics/watch-top-3-clashes-heated-mn-governor-debate-walz-legacy-looms-large-change-culture",
+    "title": "WATCH: Top 3 clashes in heated MN governor debate as Walz's legacy looms large: 'Change the culture'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Minnesota GOP House Speaker Lisa Demuth and Dem. Sen. Amy Klobuchar clashed on several issues in their final debate with Gov. Tim Walz being a focal point.",
+    "content": [
+      "Minnesota GOP House Speaker Lisa Demuth and Dem. Sen. Amy Klobuchar clashed on several issues in their final debate with Gov. Tim Walz being a focal point.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/governor-tim-walz.jpg?ve=1&tl=1",
+    "imageCaption": "WATCH: Top 3 clashes in heated MN governor debate as Walz's ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T08:00:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c3d42e3e5e",
+    "slug": "abortion-ice-and-socialism-spark-fireworks-in-swing-state-governor-debate-5-top-moments",
+    "guid": "https://www.foxnews.com/politics/abortion-ice-socialism-spark-fireworks-swing-state-governor-debate-5-top-moments",
+    "title": "Abortion, ICE and socialism spark fireworks in swing state governor debate: 5 top moments",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Republican Tom Tiffany pointed to a 20-week abortion limit while Democrat David Crowley declined to name a gestational cutoff in their debate.",
+    "content": [
+      "Republican Tom Tiffany pointed to a 20-week abortion limit while Democrat David Crowley declined to name a gestational cutoff in their debate.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/crowley-tiffany.jpg?ve=1&tl=1",
+    "imageCaption": "Abortion, ICE and socialism spark fireworks in swing state g... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T08:00:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-84ee296527",
+    "slug": "chinas-stock-market-sinks-into-bear-territory-as-csi-300-extends-10-week-rout",
+    "guid": "108444842",
+    "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.",
+    "content": [
+      "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "China's stock market sinks into bear territory as CSI 300 ex... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T04:02:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0703333ea5",
+    "slug": "us-pulls-diplomats-from-saudi-arabia-as-it-reportedly-readies-iran-strikes-after-midterms",
+    "guid": "108444404",
+    "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The U.S. ordered non-emergency staff out of Saudi Arabia after Houthi strikes on an airport and an oil field, reviving fears of a widening regional conflict.",
+    "content": [
+      "The U.S. ordered non-emergency staff out of Saudi Arabia after Houthi strikes on an airport and an oil field, reviving fears of a widening regional conflict.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. pulls diplomats from Saudi Arabia as it reportedly read... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T04:35:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-083375e2cc",
+    "slug": "barclays-to-slash-5000-jobs-in-ai-efficiency-push",
+    "guid": "108445456",
+    "title": "Barclays to slash 5,000 jobs in AI efficiency push",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
+    "content": [
+      "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Barclays to slash 5,000 jobs in AI efficiency push... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T08:17:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6e82de6f52",
+    "slug": "worlds-largest-wealth-fund-posts-30-billion-loss-after-bond-market-turbulence",
+    "guid": "108445620",
+    "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The fund has a current value of around $2.3 trillion.",
+    "content": [
+      "The fund has a current value of around $2.3 trillion.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "World's largest wealth fund posts $30 billion loss after bon... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T08:49:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-a44da137b3",
     "slug": "tesla-says-customers-can-add-their-own-vehicles-to-the-robotaxi-fleet-next-year-will-it-ha",
     "guid": "https://www.theverge.com/?p=1016118",
