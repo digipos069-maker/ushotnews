@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T12:22:18.332746+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-22T14:33:16.429014+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-50f2da91af": {
       "title": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127159441471257",
       "fb_comment_id": "122127159441471257_1782869302928258",
       "posted_at": "2026-10-22T12:22:18.332680+00:00"
+    },
+    "scraped-10003a10ea": {
+      "title": "Bose acquires Skullcandy to help it reach a wider audience",
+      "slug": "bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
+      "url": "https://ushotnews.online/article/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
+      "article_url": "https://ushotnews.online/article/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127191301471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127191301471257",
+      "fb_comment_id": "122127191301471257_28601758522853464",
+      "posted_at": "2026-10-22T14:33:16.428923+00:00"
+    },
+    "bose-acquires-skullcandy-to-help-it-reach-a-wider-audience": {
+      "title": "Bose acquires Skullcandy to help it reach a wider audience",
+      "slug": "bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
+      "url": "https://ushotnews.online/article/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
+      "article_url": "https://ushotnews.online/article/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127191301471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127191301471257",
+      "fb_comment_id": "122127191301471257_28601758522853464",
+      "posted_at": "2026-10-22T14:33:16.428923+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T12:22:06.055365+00:00"
+  "last_cleaned_at": "2026-10-22T14:33:03.767155+00:00"
 }
