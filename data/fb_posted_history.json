@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-22T08:52:02.398473+00:00",
+  "last_updated": "2026-10-22T12:22:18.332746+00:00",
   "posted_count": 62,
   "articles": {
-    "scraped-b9fb18131f": {
-      "title": "Abdul El-Sayed invokes JFK to dismiss 'crazy' questions over family's alleged ties to Muslim Brotherhood",
-      "slug": "abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
-      "url": "https://ushotnews.online/article/abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
-      "article_url": "https://ushotnews.online/article/abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126188947471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126188947471257",
-      "fb_comment_id": "122126188947471257_1419858609820128",
-      "posted_at": "2026-10-19T11:10:40.270646+00:00"
-    },
-    "abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-": {
-      "title": "Abdul El-Sayed invokes JFK to dismiss 'crazy' questions over family's alleged ties to Muslim Brotherhood",
-      "slug": "abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
-      "url": "https://ushotnews.online/article/abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
-      "article_url": "https://ushotnews.online/article/abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126188947471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126188947471257",
-      "fb_comment_id": "122126188947471257_1419858609820128",
-      "posted_at": "2026-10-19T11:10:40.270646+00:00"
-    },
     "scraped-50f2da91af": {
       "title": "Massachusetts GOP ticket rocked by alleged drunken crash as candidate abruptly halts campaign",
       "slug": "massachusetts-gop-ticket-rocked-by-alleged-drunken-crash-as-candidate-abruptly-halts-campa",
@@ -683,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127111441471257",
       "fb_comment_id": "122127111441471257_1137329418738960",
       "posted_at": "2026-10-22T08:52:02.398414+00:00"
+    },
+    "scraped-ab96907d75": {
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "slug": "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
+      "url": "https://ushotnews.online/article/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
+      "article_url": "https://ushotnews.online/article/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127159441471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127159441471257",
+      "fb_comment_id": "122127159441471257_1782869302928258",
+      "posted_at": "2026-10-22T12:22:18.332680+00:00"
+    },
+    "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash": {
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "slug": "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
+      "url": "https://ushotnews.online/article/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
+      "article_url": "https://ushotnews.online/article/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127159441471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127159441471257",
+      "fb_comment_id": "122127159441471257_1782869302928258",
+      "posted_at": "2026-10-22T12:22:18.332680+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T08:51:53.014826+00:00"
+  "last_cleaned_at": "2026-10-22T12:22:06.055365+00:00"
 }
