@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-22T18:43:25.774277+00:00",
+  "last_updated": "2026-10-22T21:27:56.116209+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-ae19a8ac78": {
-      "title": "The real reason it's going to take a while to know who won in some midterm races",
-      "slug": "the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
-      "url": "https://ushotnews.online/article/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
-      "article_url": "https://ushotnews.online/article/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126326527471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126326527471257",
-      "fb_comment_id": "122126326527471257_2058668044786330",
-      "posted_at": "2026-10-19T20:23:47.432504+00:00"
-    },
-    "the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races": {
-      "title": "The real reason it's going to take a while to know who won in some midterm races",
-      "slug": "the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
-      "url": "https://ushotnews.online/article/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
-      "article_url": "https://ushotnews.online/article/the-real-reason-its-going-to-take-a-while-to-know-who-won-in-some-midterm-races",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126326527471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126326527471257",
-      "fb_comment_id": "122126326527471257_2058668044786330",
-      "posted_at": "2026-10-19T20:23:47.432504+00:00"
-    },
     "scraped-7ffef23e2e": {
       "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
       "slug": "its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127242451471257",
       "fb_comment_id": "122127242451471257_1817656942853344",
       "posted_at": "2026-10-22T18:43:25.774212+00:00"
+    },
+    "scraped-d2b90a5c1f": {
+      "title": "Cyberpunk 2077&#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
+      "slug": "cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox",
+      "url": "https://ushotnews.online/article/cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox",
+      "article_url": "https://ushotnews.online/article/cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127278559471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127278559471257",
+      "fb_comment_id": "122127278559471257_1432513985695596",
+      "posted_at": "2026-10-22T21:27:56.116134+00:00"
+    },
+    "cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox": {
+      "title": "Cyberpunk 2077&#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
+      "slug": "cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox",
+      "url": "https://ushotnews.online/article/cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox",
+      "article_url": "https://ushotnews.online/article/cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127278559471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127278559471257",
+      "fb_comment_id": "122127278559471257_1432513985695596",
+      "posted_at": "2026-10-22T21:27:56.116134+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T18:43:16.887179+00:00"
+  "last_cleaned_at": "2026-10-22T21:27:45.216714+00:00"
 }
