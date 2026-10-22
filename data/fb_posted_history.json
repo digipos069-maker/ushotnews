@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-22T03:27:27.042921+00:00",
+  "last_updated": "2026-10-22T06:32:16.823746+00:00",
   "posted_count": 62,
   "articles": {
-    "scraped-7257edb33e": {
-      "title": "Investigation launched after Air Force airman fatally falls before UTSA football game",
-      "slug": "investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
-      "url": "https://ushotnews.online/article/investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
-      "article_url": "https://ushotnews.online/article/investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126110383471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126110383471257",
-      "fb_comment_id": "122126110383471257_981126204394209",
-      "posted_at": "2026-10-19T05:12:06.030695+00:00"
-    },
-    "investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game": {
-      "title": "Investigation launched after Air Force airman fatally falls before UTSA football game",
-      "slug": "investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
-      "url": "https://ushotnews.online/article/investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
-      "article_url": "https://ushotnews.online/article/investigation-launched-after-air-force-airman-fatally-falls-before-utsa-football-game",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126110383471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126110383471257",
-      "fb_comment_id": "122126110383471257_981126204394209",
-      "posted_at": "2026-10-19T05:12:06.030695+00:00"
-    },
     "scraped-6ec0a6c7be": {
       "title": "JJ McCarthy steps up as Giants potential starting quarterback while running back Cam Skattebo sits on bench",
       "slug": "jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
@@ -683,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127061731471257",
       "fb_comment_id": "122127061731471257_2233979030503780",
       "posted_at": "2026-10-22T03:27:27.042862+00:00"
+    },
+    "scraped-2feb4c0d0c": {
+      "title": "Star Wars Zero Company is a must-play strategy game at 20 percent off",
+      "slug": "star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "article_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127087519471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127087519471257",
+      "fb_comment_id": "122127087519471257_1421226106835867",
+      "posted_at": "2026-10-22T06:32:16.823681+00:00"
+    },
+    "star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off": {
+      "title": "Star Wars Zero Company is a must-play strategy game at 20 percent off",
+      "slug": "star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "article_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127087519471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127087519471257",
+      "fb_comment_id": "122127087519471257_1421226106835867",
+      "posted_at": "2026-10-22T06:32:16.823681+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T03:27:15.233620+00:00"
+  "last_cleaned_at": "2026-10-22T06:32:03.734204+00:00"
 }
