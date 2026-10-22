@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-22T06:32:16.823746+00:00",
+  "last_updated": "2026-10-22T08:52:02.398473+00:00",
   "posted_count": 62,
   "articles": {
-    "scraped-6ec0a6c7be": {
-      "title": "JJ McCarthy steps up as Giants potential starting quarterback while running back Cam Skattebo sits on bench",
-      "slug": "jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
-      "url": "https://ushotnews.online/article/jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
-      "article_url": "https://ushotnews.online/article/jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126135397471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126135397471257",
-      "fb_comment_id": "122126135397471257_1087609287595728",
-      "posted_at": "2026-10-19T07:21:47.865425+00:00"
-    },
-    "jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt": {
-      "title": "JJ McCarthy steps up as Giants potential starting quarterback while running back Cam Skattebo sits on bench",
-      "slug": "jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
-      "url": "https://ushotnews.online/article/jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
-      "article_url": "https://ushotnews.online/article/jj-mccarthy-steps-up-as-giants-potential-starting-quarterback-while-running-back-cam-skatt",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126135397471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126135397471257",
-      "fb_comment_id": "122126135397471257_1087609287595728",
-      "posted_at": "2026-10-19T07:21:47.865425+00:00"
-    },
     "scraped-b9fb18131f": {
       "title": "Abdul El-Sayed invokes JFK to dismiss 'crazy' questions over family's alleged ties to Muslim Brotherhood",
       "slug": "abdul-el-sayed-invokes-jfk-to-dismiss-crazy-questions-over-familys-alleged-ties-to-muslim-",
@@ -683,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127087519471257",
       "fb_comment_id": "122127087519471257_1421226106835867",
       "posted_at": "2026-10-22T06:32:16.823681+00:00"
+    },
+    "scraped-06e31a0666": {
+      "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
+      "slug": "how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+      "url": "https://ushotnews.online/article/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+      "article_url": "https://ushotnews.online/article/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127111441471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127111441471257",
+      "fb_comment_id": "122127111441471257_1137329418738960",
+      "posted_at": "2026-10-22T08:52:02.398414+00:00"
+    },
+    "how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections": {
+      "title": "How Trump's attacks on voting system integrity might affect upcoming elections",
+      "slug": "how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+      "url": "https://ushotnews.online/article/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+      "article_url": "https://ushotnews.online/article/how-trumps-attacks-on-voting-system-integrity-might-affect-upcoming-elections",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127111441471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127111441471257",
+      "fb_comment_id": "122127111441471257_1137329418738960",
+      "posted_at": "2026-10-22T08:52:02.398414+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T06:32:03.734204+00:00"
+  "last_cleaned_at": "2026-10-22T08:51:53.014826+00:00"
 }
