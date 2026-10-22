@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-22T21:27:56.116209+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-22T22:08:12.917947+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-7ffef23e2e": {
       "title": "It’s hard to imagine wireless headphones ever getting lighter than these",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127278559471257",
       "fb_comment_id": "122127278559471257_1432513985695596",
       "posted_at": "2026-10-22T21:27:56.116134+00:00"
+    },
+    "scraped-7ec0ae3abb": {
+      "title": "Xbox mandates a four-day return to office",
+      "slug": "xbox-mandates-a-four-day-return-to-office",
+      "url": "https://ushotnews.online/article/xbox-mandates-a-four-day-return-to-office",
+      "article_url": "https://ushotnews.online/article/xbox-mandates-a-four-day-return-to-office",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127286779471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127286779471257",
+      "fb_comment_id": "122127286779471257_988040086975622",
+      "posted_at": "2026-10-22T22:08:12.917880+00:00"
+    },
+    "xbox-mandates-a-four-day-return-to-office": {
+      "title": "Xbox mandates a four-day return to office",
+      "slug": "xbox-mandates-a-four-day-return-to-office",
+      "url": "https://ushotnews.online/article/xbox-mandates-a-four-day-return-to-office",
+      "article_url": "https://ushotnews.online/article/xbox-mandates-a-four-day-return-to-office",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127286779471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127286779471257",
+      "fb_comment_id": "122127286779471257_988040086975622",
+      "posted_at": "2026-10-22T22:08:12.917880+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T21:27:45.216714+00:00"
+  "last_cleaned_at": "2026-10-22T22:07:58.569054+00:00"
 }
