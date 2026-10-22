@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-22T13:40:29.443534+00:00",
+  "last_updated": "2026-10-22T18:27:20.122501+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1026772": {
-      "title": "AFN Now Decoder Disposal",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112080462/DOD_112080462.mp4",
-      "attached_website_url": "https://ushotnews.online/article/what-does-a-white-house-press-secretary-do",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "962807693055522",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/962807693055522",
-      "fb_comment_id": "962807693055522_1146748178033070",
-      "posted_at": "2026-10-19T15:26:40.100138+00:00"
-    },
     "dvids-video:1026813": {
       "title": "No Smoke. No Ash. No Problem?",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112081155/DOD_112081155.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2247986849316994",
       "fb_comment_id": "2247986849316994_1140070785305283",
       "posted_at": "2026-10-22T13:40:29.443475+00:00"
+    },
+    "dvids-video:1027211": {
+      "title": "Social 9x16: Best Squad 2026 Winners - Teaser 3 - NCO of the Year",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112089907/DOD_112089907.mp4",
+      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1645533086963304",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1645533086963304",
+      "fb_comment_id": "1645533086963304_1778172646772343",
+      "posted_at": "2026-10-22T18:27:20.122450+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T13:39:30.922618+00:00"
+  "last_cleaned_at": "2026-10-22T18:26:10.410892+00:00"
 }
