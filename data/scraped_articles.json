@@ -1,5 +1,597 @@
 [
   {
+    "id": "scraped-a40c6076b1",
+    "slug": "house-battleground-map-tightens-as-gop-scrambles-to-shore-up-red-seats",
+    "guid": "000001a1-6a67-dcfd-a3e1-6e6f91550000",
+    "title": "House battleground map tightens as GOP scrambles to shore up red seats",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Democrats are warning their party not to get too bullish about a big House majority.",
+    "content": [
+      "Democrats are warning their party not to get too bullish about a big House majority.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/ac/e2/c7d45980484fa5034396269c16e2/09-12-26-rebeccacooke-0875.jpg",
+    "imageCaption": "House battleground map tightens as GOP scrambles to shore up... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T20:20:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3f4621566b",
+    "slug": "spiking-ambulance-response-times-spur-calls-for-real-time-tracking",
+    "guid": "000001a1-6a7b-d679-a5a5-6aff39a20000",
+    "title": "Spiking ambulance response times spur calls for real-time tracking",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "An ambulance in New York City now takes an average of 13 minutes to reach someone in life-threatening distress.",
+    "content": [
+      "An ambulance in New York City now takes an average of 13 minutes to reach someone in life-threatening distress.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Spiking ambulance response times spur calls for real-time tr... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:03:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ffe63e785f",
+    "slug": "openai-now-trains-its-frontier-ai-models-with-no-internet-access",
+    "guid": "https://www.theverge.com/?p=1018021",
+    "title": "OpenAI now trains its frontier AI models with no internet access",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+    "content": [
+      "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI now trains its frontier AI models with no internet ac... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:11:07+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7f039b3b67",
+    "slug": "xboxs-first-chief-operating-officer-is-out-after-just-a-few-months",
+    "guid": "https://www.theverge.com/?p=1018037",
+    "title": "Xbox’s first chief operating officer is out after just a few months",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief [&#8230;]",
+    "content": [
+      "Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Xbox’s first chief operating officer is out after just a few... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:39:26+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-599cd3448a",
+    "slug": "robert-de-niro-ad-urges-voters-to-vote-early-to-avoid-what-trump-might-pull-on-election-da",
+    "guid": "https://www.foxnews.com/media/robert-de-niro-ad-urges-voters-vote-early-avoid-what-trump-might-pull-election-day",
+    "title": "Robert De Niro ad urges voters to vote early to avoid what Trump might 'pull on Election Day'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Actor Robert De Niro urged early voting in a fiery Indivisible ad, claiming President Donald Trump and the Supreme Court will interfere on Election Day.",
+    "content": [
+      "Actor Robert De Niro urged early voting in a fiery Indivisible ad, claiming President Donald Trump and the Supreme Court will interfere on Election Day.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/524/de-niro-trump-never-leave.jpg?ve=1&tl=1",
+    "imageCaption": "Robert De Niro ad urges voters to vote early to avoid what T... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:00:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e8b5fe403a",
+    "slug": "meghan-markle-says-she-kept-father-away-from-kids-to-protect-them-over-disturbing-allegati",
+    "guid": "https://www.foxnews.com/entertainment/meghan-markle-says-she-kept-father-away-from-kids-protect-them-over-disturbing-allegations-against-him",
+    "title": "Meghan Markle says she kept father away from kids to 'protect' them over 'disturbing allegations' against him",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Meghan Markle says a 2018 letter to Metropolitan Police made disturbing allegations against Thomas Markle, revealing why she cut off contact. Thomas denies the allegations.",
+    "content": [
+      "Meghan Markle says a 2018 letter to Metropolitan Police made disturbing allegations against Thomas Markle, revealing why she cut off contact. Thomas denies the allegations.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/markle.jpg?ve=1&tl=1",
+    "imageCaption": "Meghan Markle says she kept father away from kids to 'protec... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:17:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4795a02e84",
+    "slug": "irish-politicians-disavow-demeaning-psa-warning-grandparents-not-to-hug-family-without-ask",
+    "guid": "https://www.foxnews.com/media/irish-politicians-disavow-demeaning-psa-warning-grandparents-not-hug-family-without-asking-consent",
+    "title": "Irish politicians disavow ‘demeaning’ PSA warning grandparents not to hug family without asking consent",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A viral ad in Ireland warning against grandparents hugging grandchildren without asking for consent sparked outrage and was pulled by the Dublin Rape Crisis Centre.",
+    "content": [
+      "A viral ad in Ireland warning against grandparents hugging grandchildren without asking for consent sparked outrage and was pulled by the Dublin Rape Crisis Centre.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/irish-hug-ad-pic.png?ve=1&tl=1",
+    "imageCaption": "Irish politicians disavow ‘demeaning’ PSA warning grandparen... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:20:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd04020172",
+    "slug": "craig-carton-explains-why-the-nfl-has-some-questions-to-ask-after-bizarre-moment-in-bears-",
+    "guid": "https://www.foxnews.com/outkick-sports/craig-carton-explains-nfl-questions-bizarre-moment-bears-patriots-game",
+    "title": "Craig Carton explains why the NFL has some questions to ask after bizarre moment in Bears-Patriots game",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Craig Carton questions why Chicago Bears DB Malik Muhammad ran away from Rhamondre Stevenson on a late touchdown, demanding an NFL investigation.",
+    "content": [
+      "Craig Carton questions why Chicago Bears DB Malik Muhammad ran away from Rhamondre Stevenson on a late touchdown, demanding an NFL investigation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/malik-muhammad.png?ve=1&tl=1",
+    "imageCaption": "Craig Carton explains why the NFL has some questions to ask ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:33:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8509e4649c",
+    "slug": "msg-uses-knicks-championship-rings-as-bait-in-phishing-test-calls-the-lure-an-unfortunate-",
+    "guid": "https://www.foxnews.com/outkick-sports/msg-uses-knicks-championship-rings-bait-phishing-test-calls-lure-unfortunate-mistake",
+    "title": "MSG uses Knicks championship rings as bait in phishing test, calls the lure 'an unfortunate mistake'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "New York Knicks employees who clicked a phishing email disguised as a free championship ring offer were forced into a mandatory cybersecurity class.",
+    "content": [
+      "New York Knicks employees who clicked a phishing email disguised as a free championship ring offer were forced into a mandatory cybersecurity class.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/knicks-banner-102326.jpg?ve=1&tl=1",
+    "imageCaption": "MSG uses Knicks championship rings as bait in phishing test,... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:48:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4f14104ae0",
+    "slug": "kate-hudson-flaunts-toned-abs-in-strapless-red-bikini-during-beach-day-with-fiancé",
+    "guid": "https://www.foxnews.com/entertainment/kate-hudson-flaunts-toned-abs-strapless-red-bikini-beach-day-fiance",
+    "title": "Kate Hudson flaunts toned abs in strapless red bikini during beach day with fiancé",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kate Hudson showed off her toned figure in a red bikini alongside fiancé Danny Fujikawa during a Hawaii beach getaway for a friend&apos;s wedding.",
+    "content": [
+      "Kate Hudson showed off her toned figure in a red bikini alongside fiancé Danny Fujikawa during a Hawaii beach getaway for a friend&apos;s wedding.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/kate-hudson-academy-museum-gala.jpg?ve=1&tl=1",
+    "imageCaption": "Kate Hudson flaunts toned abs in strapless red bikini during... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T22:20:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7d213372a5",
+    "slug": "colorado-high-school-volleyball-players-faced-alleged-benching-threat-amid-trans-athlete-d",
+    "guid": "https://www.foxnews.com/outkick-sports/colorado-high-school-volleyball-players-faced-alleged-benching-threat-amid-trans-athlete-dispute",
+    "title": "Colorado high school volleyball players faced alleged benching threat amid trans athlete dispute",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Two Colorado high school volleyball players were allegedly threatened with benching after discussing a transgender athlete in their program.",
+    "content": [
+      "Two Colorado high school volleyball players were allegedly threatened with benching after discussing a transgender athlete in their program.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/1200/675/volleyball-players.jpg?ve=1&tl=1",
+    "imageCaption": "Colorado high school volleyball players faced alleged benchi... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T22:21:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-244a5a91af",
+    "slug": "fox-news-entertainment-newsletter-harry-risks-lobbing-a-grenade-at-william-kate-brings-bac",
+    "guid": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-harry-risks-lobbing-grenade-william-kate-brings-back-dianas-tiara",
+    "title": "Fox News Entertainment newsletter: Harry risks 'lobbing a grenade' at William; Kate brings back Diana's tiara",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
+    "content": [
+      "The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/prince-harry-kate-middleton-split.jpg?ve=1&tl=1",
+    "imageCaption": "Fox News Entertainment newsletter: Harry risks 'lobbing a gr... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T22:36:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-31b72e9b6a",
+    "slug": "turmoil-hits-ai-build-out-as-neoclouds-face-pressure-credit-risks-mount-and-solidigm-pulls",
+    "guid": "108452461",
+    "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+    "content": [
+      "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Turmoil hits AI build-out as neoclouds face pressure, credit... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T22:49:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e441a93bae",
+    "slug": "scalpers-offer-apple-iphone-duo-buyers-hundreds-extra-outside-beijing-launch",
+    "guid": "108358450",
+    "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
+    "content": [
+      "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Scalpers offer Apple iPhone Duo buyers hundreds extra outsid... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T20:06:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dfce05f64a",
+    "slug": "moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-y",
+    "guid": "108453363",
+    "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
+    "content": [
+      "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Moody's holds steady on France's credit rating as country gr... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T22:49:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-50a697bc25",
+    "slug": "trumps-executive-order-targets-mortgage-insurance-refinance-costs-what-it-means-for-borrow",
+    "guid": "108451567",
+    "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
+    "content": [
+      "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump's executive order targets mortgage insurance, refinanc... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T22:27:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-400c07f5ba",
     "slug": "the-first-broken-iphone-duos-are-here",
     "guid": "https://www.theverge.com/?p=1017623",
