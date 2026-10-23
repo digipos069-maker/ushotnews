@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-23T11:22:41.851557+00:00",
+  "last_updated": "2026-10-23T16:50:22.658981+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1026875": {
-      "title": "MCIPAC EOD, MWDs conduct joint training on Okinawa: Clean",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083045/DOD_112083045.mp4",
-      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "2559820424530386",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2559820424530386",
-      "fb_comment_id": "2559820424530386_4453123524831283",
-      "posted_at": "2026-10-20T13:29:34.277915+00:00"
-    },
     "dvids-video:1026949": {
       "title": "From the Cockpit: America 250 Over Washington, D.C.",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083954/DOD_112083954.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1099725016313280",
       "fb_comment_id": "1099725016313280_2218438489082047",
       "posted_at": "2026-10-23T11:22:41.851499+00:00"
+    },
+    "dvids-video:1027278": {
+      "title": "Barracks Quiet Hours",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112091924/DOD_112091924.mp4",
+      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1649715266617386",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1649715266617386",
+      "fb_comment_id": "1649715266617386_1618707783126561",
+      "posted_at": "2026-10-23T16:50:22.658919+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T11:21:20.695247+00:00"
+  "last_cleaned_at": "2026-10-23T16:49:52.167761+00:00"
 }
