@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T10:27:20.692402+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-23T11:05:19.580424+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-dff0221dcf": {
       "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127419985471257",
       "fb_comment_id": "122127419985471257_2103791656917303",
       "posted_at": "2026-10-23T10:27:20.692336+00:00"
+    },
+    "scraped-4f50675b36": {
+      "title": "NFL player Cordarrelle Patterson arrested after wife alleges he grabbed her, left bruises on her arm",
+      "slug": "nfl-player-cordarrelle-patterson-arrested-after-wife-alleges-he-grabbed-her-left-bruises-o",
+      "url": "https://ushotnews.online/article/nfl-player-cordarrelle-patterson-arrested-after-wife-alleges-he-grabbed-her-left-bruises-o",
+      "article_url": "https://ushotnews.online/article/nfl-player-cordarrelle-patterson-arrested-after-wife-alleges-he-grabbed-her-left-bruises-o",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127430635471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127430635471257",
+      "fb_comment_id": "122127430635471257_2281459072587754",
+      "posted_at": "2026-10-23T11:05:19.580357+00:00"
+    },
+    "nfl-player-cordarrelle-patterson-arrested-after-wife-alleges-he-grabbed-her-left-bruises-o": {
+      "title": "NFL player Cordarrelle Patterson arrested after wife alleges he grabbed her, left bruises on her arm",
+      "slug": "nfl-player-cordarrelle-patterson-arrested-after-wife-alleges-he-grabbed-her-left-bruises-o",
+      "url": "https://ushotnews.online/article/nfl-player-cordarrelle-patterson-arrested-after-wife-alleges-he-grabbed-her-left-bruises-o",
+      "article_url": "https://ushotnews.online/article/nfl-player-cordarrelle-patterson-arrested-after-wife-alleges-he-grabbed-her-left-bruises-o",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127430635471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127430635471257",
+      "fb_comment_id": "122127430635471257_2281459072587754",
+      "posted_at": "2026-10-23T11:05:19.580357+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T10:27:07.206008+00:00"
+  "last_cleaned_at": "2026-10-23T11:05:05.653076+00:00"
 }
