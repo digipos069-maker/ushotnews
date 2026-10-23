@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-23T04:16:37.973124+00:00",
+  "last_updated": "2026-10-23T11:22:41.851557+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1026878": {
-      "title": "CFAS Fire Prevention Month Open House - Graphics Free",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083082/DOD_112083082.mp4",
-      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1083594174673299",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1083594174673299",
-      "fb_comment_id": "1083594174673299_1435809237962175",
-      "posted_at": "2026-10-20T07:22:49.412297+00:00"
-    },
     "dvids-video:1026875": {
       "title": "MCIPAC EOD, MWDs conduct joint training on Okinawa: Clean",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083045/DOD_112083045.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1479015750838573",
       "fb_comment_id": "1479015750838573_2426097248162468",
       "posted_at": "2026-10-23T04:16:37.973064+00:00"
+    },
+    "dvids-video:1027281": {
+      "title": "1st Lt. Justin Fajardo - San Francisco 49ers Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112091986/DOD_112091986.mp4",
+      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1099725016313280",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1099725016313280",
+      "fb_comment_id": "1099725016313280_2218438489082047",
+      "posted_at": "2026-10-23T11:22:41.851499+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T04:15:11.836563+00:00"
+  "last_cleaned_at": "2026-10-23T11:21:20.695247+00:00"
 }
