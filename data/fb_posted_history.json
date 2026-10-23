@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-23T19:30:45.957563+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-23T22:35:57.814803+00:00",
+  "posted_count": 58,
   "articles": {
-    "scraped-0d95e5f9a0": {
-      "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
-      "slug": "wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-le",
-      "url": "https://ushotnews.online/article/wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-le",
-      "article_url": "https://ushotnews.online/article/wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-le",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126689413471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126689413471257",
-      "fb_comment_id": "122126689413471257_1001984919583340",
-      "posted_at": "2026-10-20T20:49:16.676636+00:00"
-    },
-    "wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-le": {
-      "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
-      "slug": "wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-le",
-      "url": "https://ushotnews.online/article/wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-le",
-      "article_url": "https://ushotnews.online/article/wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-le",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126689413471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126689413471257",
-      "fb_comment_id": "122126689413471257_1001984919583340",
-      "posted_at": "2026-10-20T20:49:16.676636+00:00"
-    },
-    "scraped-9f9fd3693c": {
-      "title": "‘A warning sign for polling’: Why one GOP pollster thinks a blue wave may fall short",
-      "slug": "a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
-      "url": "https://ushotnews.online/article/a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
-      "article_url": "https://ushotnews.online/article/a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126704323471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126704323471257",
-      "fb_comment_id": "122126704323471257_1079966598213169",
-      "posted_at": "2026-10-20T22:08:40.456804+00:00"
-    },
-    "a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short": {
-      "title": "‘A warning sign for polling’: Why one GOP pollster thinks a blue wave may fall short",
-      "slug": "a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
-      "url": "https://ushotnews.online/article/a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
-      "article_url": "https://ushotnews.online/article/a-warning-sign-for-polling-why-one-gop-pollster-thinks-a-blue-wave-may-fall-short",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126704323471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126704323471257",
-      "fb_comment_id": "122126704323471257_1079966598213169",
-      "posted_at": "2026-10-20T22:08:40.456804+00:00"
-    },
     "scraped-099603019b": {
       "title": "Inside the quiet money pullback — for both parties — in Georgia’s Senate race",
       "slug": "inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
@@ -685,5 +641,5 @@
       "posted_at": "2026-10-23T15:50:29.122608+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T19:30:45.957334+00:00"
+  "last_cleaned_at": "2026-10-23T22:35:57.814602+00:00"
 }
