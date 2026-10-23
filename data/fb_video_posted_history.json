@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-23T16:50:22.658981+00:00",
+  "last_updated": "2026-10-23T21:15:35.935973+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1026949": {
-      "title": "From the Cockpit: America 250 Over Washington, D.C.",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083954/DOD_112083954.mp4",
-      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1132598096395942",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1132598096395942",
-      "fb_comment_id": "1132598096395942_1818415362616424",
-      "posted_at": "2026-10-20T18:26:29.365348+00:00"
-    },
     "dvids-video:1026979": {
       "title": "Theater Postal Operations Center conducts Training Operations",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084709/DOD_112084709.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1649715266617386",
       "fb_comment_id": "1649715266617386_1618707783126561",
       "posted_at": "2026-10-23T16:50:22.658919+00:00"
+    },
+    "dvids-video:1027329": {
+      "title": "Coast Guard Station Los Angeles-Long Beach keeps Los Angeles Harbors safe for America250 during the Fourth of July",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093162/DOD_112093162.mp4",
+      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1795720568215561",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1795720568215561",
+      "fb_comment_id": "1795720568215561_1445198720277651",
+      "posted_at": "2026-10-23T21:15:35.935914+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T16:49:52.167761+00:00"
+  "last_cleaned_at": "2026-10-23T21:14:53.939654+00:00"
 }
