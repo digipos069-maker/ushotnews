@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T15:25:05.448128+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-23T15:50:29.122669+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-6a55394a80": {
       "title": "Alberta voters weigh future in Canada",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127541545471257",
       "fb_comment_id": "122127541545471257_1658316725731233",
       "posted_at": "2026-10-23T15:25:05.448070+00:00"
+    },
+    "scraped-730b612e3d": {
+      "title": "Meet the people moving north to escape increasingly hot summers",
+      "slug": "meet-the-people-moving-north-to-escape-increasingly-hot-summers",
+      "url": "https://ushotnews.online/article/meet-the-people-moving-north-to-escape-increasingly-hot-summers",
+      "article_url": "https://ushotnews.online/article/meet-the-people-moving-north-to-escape-increasingly-hot-summers",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127549123471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127549123471257",
+      "fb_comment_id": "122127549123471257_1161685946315190",
+      "posted_at": "2026-10-23T15:50:29.122608+00:00"
+    },
+    "meet-the-people-moving-north-to-escape-increasingly-hot-summers": {
+      "title": "Meet the people moving north to escape increasingly hot summers",
+      "slug": "meet-the-people-moving-north-to-escape-increasingly-hot-summers",
+      "url": "https://ushotnews.online/article/meet-the-people-moving-north-to-escape-increasingly-hot-summers",
+      "article_url": "https://ushotnews.online/article/meet-the-people-moving-north-to-escape-increasingly-hot-summers",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127549123471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127549123471257",
+      "fb_comment_id": "122127549123471257_1161685946315190",
+      "posted_at": "2026-10-23T15:50:29.122608+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T15:24:52.593463+00:00"
+  "last_cleaned_at": "2026-10-23T15:50:13.147338+00:00"
 }
