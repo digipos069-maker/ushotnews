@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T05:15:45.746917+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-23T05:45:53.569240+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-fa18ef9d93": {
       "title": "Democrats think cracking down on AI could give them an edge",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127362109471257",
       "fb_comment_id": "122127362109471257_1870760964355729",
       "posted_at": "2026-10-23T05:15:45.746838+00:00"
+    },
+    "scraped-04d0205a11": {
+      "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
+      "slug": "top-2-democrats-on-intel-say-theyre-preparing-for-trump-to-claim-foreign-meddling",
+      "url": "https://ushotnews.online/article/top-2-democrats-on-intel-say-theyre-preparing-for-trump-to-claim-foreign-meddling",
+      "article_url": "https://ushotnews.online/article/top-2-democrats-on-intel-say-theyre-preparing-for-trump-to-claim-foreign-meddling",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127366177471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127366177471257",
+      "fb_comment_id": "122127366177471257_2365294004213788",
+      "posted_at": "2026-10-23T05:45:53.569174+00:00"
+    },
+    "top-2-democrats-on-intel-say-theyre-preparing-for-trump-to-claim-foreign-meddling": {
+      "title": "Top 2 Democrats on Intel say they're preparing for Trump to claim foreign meddling",
+      "slug": "top-2-democrats-on-intel-say-theyre-preparing-for-trump-to-claim-foreign-meddling",
+      "url": "https://ushotnews.online/article/top-2-democrats-on-intel-say-theyre-preparing-for-trump-to-claim-foreign-meddling",
+      "article_url": "https://ushotnews.online/article/top-2-democrats-on-intel-say-theyre-preparing-for-trump-to-claim-foreign-meddling",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127366177471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127366177471257",
+      "fb_comment_id": "122127366177471257_2365294004213788",
+      "posted_at": "2026-10-23T05:45:53.569174+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T05:15:35.244835+00:00"
+  "last_cleaned_at": "2026-10-23T05:45:45.107350+00:00"
 }
