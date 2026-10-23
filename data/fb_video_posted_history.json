@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-22T23:09:41.128929+00:00",
+  "last_updated": "2026-10-23T04:16:37.973124+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1026857": {
-      "title": "Coast Guard repatriates 63 aliens to Dominican Republic following unlawful migration voyage in the Mona Passage",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112082207/DOD_112082207.mp4",
-      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1043350352057232",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1043350352057232",
-      "fb_comment_id": "1043350352057232_1655031909344964",
-      "posted_at": "2026-10-20T01:00:24.138421+00:00"
-    },
     "dvids-video:1026878": {
       "title": "CFAS Fire Prevention Month Open House - Graphics Free",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112083082/DOD_112083082.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2314932689254507",
       "fb_comment_id": "2314932689254507_1100299872708485",
       "posted_at": "2026-10-22T23:09:41.128866+00:00"
+    },
+    "dvids-video:1027260": {
+      "title": "U.S. forces allies and partners attend Keen Sword 27 brief",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112090965/DOD_112090965.mp4",
+      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1479015750838573",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1479015750838573",
+      "fb_comment_id": "1479015750838573_2426097248162468",
+      "posted_at": "2026-10-23T04:16:37.973064+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-22T23:08:23.280059+00:00"
+  "last_cleaned_at": "2026-10-23T04:15:11.836563+00:00"
 }
