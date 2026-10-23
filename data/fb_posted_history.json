@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T00:07:42.983500+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-23T00:49:57.506923+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-5559a2b01c": {
       "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127308253471257",
       "fb_comment_id": "122127308253471257_1636313761475537",
       "posted_at": "2026-10-23T00:07:42.983438+00:00"
+    },
+    "scraped-06e6f31dab": {
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
+      "url": "https://ushotnews.online/article/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
+      "article_url": "https://ushotnews.online/article/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127313731471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127313731471257",
+      "fb_comment_id": "122127313731471257_1796652321659975",
+      "posted_at": "2026-10-23T00:49:57.506861+00:00"
+    },
+    "anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent": {
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
+      "url": "https://ushotnews.online/article/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
+      "article_url": "https://ushotnews.online/article/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127313731471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127313731471257",
+      "fb_comment_id": "122127313731471257_1796652321659975",
+      "posted_at": "2026-10-23T00:49:57.506861+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T00:07:33.220378+00:00"
+  "last_cleaned_at": "2026-10-23T00:49:41.887282+00:00"
 }
