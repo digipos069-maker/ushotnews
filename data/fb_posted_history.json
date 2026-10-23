@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-23T15:50:29.122669+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-10-23T19:30:45.957563+00:00",
+  "posted_count": 62,
   "articles": {
-    "scraped-6a55394a80": {
-      "title": "Alberta voters weigh future in Canada",
-      "slug": "alberta-voters-weigh-future-in-canada",
-      "url": "https://ushotnews.online/article/alberta-voters-weigh-future-in-canada",
-      "article_url": "https://ushotnews.online/article/alberta-voters-weigh-future-in-canada",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126637489471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126637489471257",
-      "fb_comment_id": "122126637489471257_959705897208825",
-      "posted_at": "2026-10-20T17:28:24.763752+00:00"
-    },
-    "alberta-voters-weigh-future-in-canada": {
-      "title": "Alberta voters weigh future in Canada",
-      "slug": "alberta-voters-weigh-future-in-canada",
-      "url": "https://ushotnews.online/article/alberta-voters-weigh-future-in-canada",
-      "article_url": "https://ushotnews.online/article/alberta-voters-weigh-future-in-canada",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126637489471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126637489471257",
-      "fb_comment_id": "122126637489471257_959705897208825",
-      "posted_at": "2026-10-20T17:28:24.763752+00:00"
-    },
-    "scraped-95a39fa912": {
-      "title": "Ohio returns as a bellwether",
-      "slug": "ohio-returns-as-a-bellwether",
-      "url": "https://ushotnews.online/article/ohio-returns-as-a-bellwether",
-      "article_url": "https://ushotnews.online/article/ohio-returns-as-a-bellwether",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126652939471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126652939471257",
-      "fb_comment_id": "122126652939471257_1142509875391405",
-      "posted_at": "2026-10-20T18:37:22.291038+00:00"
-    },
-    "ohio-returns-as-a-bellwether": {
-      "title": "Ohio returns as a bellwether",
-      "slug": "ohio-returns-as-a-bellwether",
-      "url": "https://ushotnews.online/article/ohio-returns-as-a-bellwether",
-      "article_url": "https://ushotnews.online/article/ohio-returns-as-a-bellwether",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126652939471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126652939471257",
-      "fb_comment_id": "122126652939471257_1142509875391405",
-      "posted_at": "2026-10-20T18:37:22.291038+00:00"
-    },
     "scraped-0d95e5f9a0": {
       "title": "Wyze moved the screen on its new smart scale to the handle so it’s easier to read at eye level",
       "slug": "wyze-moved-the-screen-on-its-new-smart-scale-to-the-handle-so-its-easier-to-read-at-eye-le",
@@ -729,5 +685,5 @@
       "posted_at": "2026-10-23T15:50:29.122608+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T15:50:13.147338+00:00"
+  "last_cleaned_at": "2026-10-23T19:30:45.957334+00:00"
 }
