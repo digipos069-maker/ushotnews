@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-23T05:45:53.569240+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-10-23T10:27:20.692402+00:00",
+  "posted_count": 64,
   "articles": {
-    "scraped-fa18ef9d93": {
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "slug": "democrats-think-cracking-down-on-ai-could-give-them-an-edge",
-      "url": "https://ushotnews.online/article/democrats-think-cracking-down-on-ai-could-give-them-an-edge",
-      "article_url": "https://ushotnews.online/article/democrats-think-cracking-down-on-ai-could-give-them-an-edge",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126452713471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126452713471257",
-      "fb_comment_id": "122126452713471257_1063524806704749",
-      "posted_at": "2026-10-20T06:30:37.681643+00:00"
-    },
-    "democrats-think-cracking-down-on-ai-could-give-them-an-edge": {
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "slug": "democrats-think-cracking-down-on-ai-could-give-them-an-edge",
-      "url": "https://ushotnews.online/article/democrats-think-cracking-down-on-ai-could-give-them-an-edge",
-      "article_url": "https://ushotnews.online/article/democrats-think-cracking-down-on-ai-could-give-them-an-edge",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126452713471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126452713471257",
-      "fb_comment_id": "122126452713471257_1063524806704749",
-      "posted_at": "2026-10-20T06:30:37.681643+00:00"
-    },
-    "scraped-6f5721ff2f": {
-      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
-      "slug": "michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-      "url": "https://ushotnews.online/article/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-      "article_url": "https://ushotnews.online/article/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126487129471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126487129471257",
-      "fb_comment_id": "122126487129471257_1128052829675380",
-      "posted_at": "2026-10-20T09:09:59.193720+00:00"
-    },
-    "michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold": {
-      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
-      "slug": "michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-      "url": "https://ushotnews.online/article/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-      "article_url": "https://ushotnews.online/article/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126487129471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126487129471257",
-      "fb_comment_id": "122126487129471257_1128052829675380",
-      "posted_at": "2026-10-20T09:09:59.193720+00:00"
-    },
     "scraped-dff0221dcf": {
       "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "slug": "jb-pritzker-thinks-ai-could-help-us-live-to-100-or-threaten-us-like-nukes",
@@ -727,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127366177471257",
       "fb_comment_id": "122127366177471257_2365294004213788",
       "posted_at": "2026-10-23T05:45:53.569174+00:00"
+    },
+    "scraped-6fb119b66f": {
+      "title": "Why local officials are feeling 'on edge' as election day approaches",
+      "slug": "why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+      "url": "https://ushotnews.online/article/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+      "article_url": "https://ushotnews.online/article/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127419985471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127419985471257",
+      "fb_comment_id": "122127419985471257_2103791656917303",
+      "posted_at": "2026-10-23T10:27:20.692336+00:00"
+    },
+    "why-local-officials-are-feeling-on-edge-as-election-day-approaches": {
+      "title": "Why local officials are feeling 'on edge' as election day approaches",
+      "slug": "why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+      "url": "https://ushotnews.online/article/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+      "article_url": "https://ushotnews.online/article/why-local-officials-are-feeling-on-edge-as-election-day-approaches",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127419985471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127419985471257",
+      "fb_comment_id": "122127419985471257_2103791656917303",
+      "posted_at": "2026-10-23T10:27:20.692336+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-23T05:45:45.107350+00:00"
+  "last_cleaned_at": "2026-10-23T10:27:07.206008+00:00"
 }
