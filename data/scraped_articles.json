@@ -1,5 +1,412 @@
 [
   {
+    "id": "scraped-f7a372aa0e",
+    "slug": "can-angie-nixon-prove-democrats-can-win-in-florida",
+    "guid": "000001a1-64a8-d632-a1af-ffb8e77b0000",
+    "title": "Can Angie Nixon prove Democrats can win in Florida?",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Can Angie Nixon prove Democrats can win in Florida?",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Can Angie Nixon prove Democrats can win in Florida?... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T03:59:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e8963c29de",
+    "slug": "nba-legend-charles-barkley-says-he-wont-burn-every-bridge-like-aaron-rodgers-as-he-conside",
+    "guid": "https://www.foxnews.com/outkick-sports/nba-legend-charles-barkley-says-he-wont-burn-every-bridge-like-aaron-rodgers-he-considers-retirement",
+    "title": "NBA legend Charles Barkley says he won't 'burn every bridge' like Aaron Rodgers as he considers retirement",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Charles Barkley roasted Aaron Rodgers&apos; bitter farewell tour, vowing his own TV retirement will be about gratitude rather than burning bridges.",
+    "content": [
+      "Charles Barkley roasted Aaron Rodgers&apos; bitter farewell tour, vowing his own TV retirement will be about gratitude rather than burning bridges.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/charles-barkley.jpg?ve=1&tl=1",
+    "imageCaption": "NBA legend Charles Barkley says he won't 'burn every bridge'... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T02:07:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-221d017155",
+    "slug": "super-bowl-champion-marshall-faulk-says-he-is-living-with-parkinsons-disease",
+    "guid": "https://www.foxnews.com/outkick-sports/super-bowl-champion-marshall-faulk-living-parkinsons-disease",
+    "title": "Super Bowl champion Marshall Faulk says he is living with Parkinson's disease",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Marshall Faulk revealed his Parkinson&apos;s disease diagnosis on a podcast, describing hand rigidity and tremors he&apos;s managed with medication for over a year.",
+    "content": [
+      "Marshall Faulk revealed his Parkinson&apos;s disease diagnosis on a podcast, describing hand rigidity and tremors he&apos;s managed with medication for over a year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Marshall-Faulk-golf-event.jpg?ve=1&tl=1",
+    "imageCaption": "Super Bowl champion Marshall Faulk says he is living with Pa... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T02:21:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-af92d00f29",
+    "slug": "todd-benzinger-who-caught-the-final-out-of-the-reds-1990-world-series-sweep-dead-at-63",
+    "guid": "https://www.foxnews.com/outkick-sports/todd-benzinger-caught-final-out-reds-1990-world-series-sweep-dead-63",
+    "title": "Todd Benzinger, who caught the final out of the Reds' 1990 World Series sweep, dead at 63",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Todd Benzinger, the first baseman who caught the final out of the Cincinnati Reds&apos; 1990 World Series sweep over the Oakland Athletics, died at 63.",
+    "content": [
+      "Todd Benzinger, the first baseman who caught the final out of the Cincinnati Reds&apos; 1990 World Series sweep over the Oakland Athletics, died at 63.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/todd-benzinger-cincinnati-reds-bat.jpg?ve=1&tl=1",
+    "imageCaption": "Todd Benzinger, who caught the final out of the Reds' 1990 W... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T02:26:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d2ceb9e496",
+    "slug": "rhamondre-stevensons-miraculous-48-yard-touchdown-stuns-bears-as-clock-expires-in-first-ha",
+    "guid": "https://www.foxnews.com/outkick-sports/rhamondre-stevenson-miraculous-48-yard-touchdown-stuns-bears-clock-expires-first-half",
+    "title": "Rhamondre Stevenson's miraculous 48-yard touchdown stuns Bears as clock expires in first half",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Rhamondre Stevenson&apos;s 48-yard touchdown as time expired stunned Soldier Field, with only a 4.3% chance of scoring on the play against the Chicago Bears.",
+    "content": [
+      "Rhamondre Stevenson&apos;s 48-yard touchdown as time expired stunned Soldier Field, with only a 4.3% chance of scoring on the play against the Chicago Bears.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/rhamondre-stevenson-touchdown-patriots-bears.jpg?ve=1&tl=1",
+    "imageCaption": "Rhamondre Stevenson's miraculous 48-yard touchdown stuns Bea... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T02:42:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-39b88d336b",
+    "slug": "utah-man-charged-with-attempted-hate-crime-after-alleged-threat-to-blow-up-synagogue",
+    "guid": "https://www.foxnews.com/us/utah-man-charged-attempted-hate-crime-alleged-threat-blow-up-synagogue",
+    "title": "Utah man charged with attempted hate crime after alleged threat to 'blow up' synagogue",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Utah man allegedly threatened to blow up a synagogue, and a search of his home uncovered six improvised explosive pipe bombs and rifles, officials say.",
+    "content": [
+      "A Utah man allegedly threatened to blow up a synagogue, and a search of his home uncovered six improvised explosive pipe bombs and rifles, officials say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/skyler-rose-doj-utah-hate-crime-charges.png?ve=1&tl=1",
+    "imageCaption": "Utah man charged with attempted hate crime after alleged thr... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T03:20:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c2f87c171",
+    "slug": "drake-mayes-end-zone-interception-proves-costly-as-patriots-fall-30-24-to-bears-in-primeti",
+    "guid": "https://www.foxnews.com/outkick-sports/drake-maye-end-zone-interception-proves-costly-patriots-fall-30-24-bears-primetime",
+    "title": "Drake Maye's end-zone interception proves costly as Patriots fall 30-24 to Bears in primetime",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Caleb Williams threw for 308 yards and two TDs in the Chicago Bears&apos; 30-24 win over the New England Patriots, improving to an impressive 5-2 record.",
+    "content": [
+      "Caleb Williams threw for 308 yards and two TDs in the Chicago Bears&apos; 30-24 win over the New England Patriots, improving to an impressive 5-2 record.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/drake-maye-patriots-bears-soldier-field_001.jpg?ve=1&tl=1",
+    "imageCaption": "Drake Maye's end-zone interception proves costly as Patriots... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T03:55:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-751ae05970",
+    "slug": "blanche-wont-rule-out-doj-blocking-election-certification-in-doomsday-scenario",
+    "guid": "https://www.foxnews.com/politics/blanche-wont-rule-out-doj-blocking-election-certification-doomsday-scenario",
+    "title": "Blanche won't rule out DOJ blocking election certification in 'doomsday' scenario",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Attorney General Todd Blanche refused to rule out Department of Justice intervention in midterm election certification, citing hypothetical doomsday scenarios.",
+    "content": [
+      "Attorney General Todd Blanche refused to rule out Department of Justice intervention in midterm election certification, citing hypothetical doomsday scenarios.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/acting-attorney-general-todd-blanche-fox-news-001.jpeg?ve=1&tl=1",
+    "imageCaption": "Blanche won't rule out DOJ blocking election certification i... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T04:53:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-976d0dc11d",
+    "slug": "10-year-treasury-yield-tumbles-below-5-to-lowest-level-in-nearly-a-month",
+    "guid": "108445799",
+    "title": "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Treasury yields dove dramatically lower on Thursday as investors monitored a slump in stocks and surging oil prices.",
+    "content": [
+      "Treasury yields dove dramatically lower on Thursday as investors monitored a slump in stocks and surging oil prices.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "10-year Treasury yield tumbles below 5% to lowest level in n... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-22T20:05:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3e81908fab",
+    "slug": "wealthy-chinese-move-offshore-money-to-us-banks-as-beijings-tax-net-widens",
+    "guid": "108445000",
+    "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
+    "content": [
+      "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Wealthy Chinese move offshore money to U.S. banks as Beijing... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T04:55:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-77879a3ead",
+    "slug": "sk-hynix-shares-rebound-after-initial-drop-on-scrapped-solidigm-ipo-plans",
+    "guid": "108449123",
+    "title": "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "SK Hynix shares rebound after an inital drop in early trading, following halted review of Solidigm IPO plans in the U.S.",
+    "content": [
+      "SK Hynix shares rebound after an inital drop in early trading, following halted review of Solidigm IPO plans in the U.S.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SK Hynix shares rebound after initial drop on scrapped Solid... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T05:01:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-1fe258761e",
     "slug": "the-next-gen-xbox-wont-cost-you-1800-it-cant-can-it",
     "guid": "https://www.theverge.com/?p=1016134",
