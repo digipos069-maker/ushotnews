@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-24T14:50:23.034194+00:00",
+  "last_updated": "2026-10-24T17:51:54.633030+00:00",
   "posted_count": 62,
   "articles": {
-    "scraped-f6fd381e59": {
-      "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-      "slug": "elon-musk-promises-to-give-one-spacex-share-to-every-child-in-the-us",
-      "url": "https://ushotnews.online/article/elon-musk-promises-to-give-one-spacex-share-to-every-child-in-the-us",
-      "article_url": "https://ushotnews.online/article/elon-musk-promises-to-give-one-spacex-share-to-every-child-in-the-us",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126927487471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126927487471257",
-      "fb_comment_id": "122126927487471257_4113636252263094",
-      "posted_at": "2026-10-21T15:04:16.449163+00:00"
-    },
-    "elon-musk-promises-to-give-one-spacex-share-to-every-child-in-the-us": {
-      "title": "Elon Musk promises to give one SpaceX share to every child in the US",
-      "slug": "elon-musk-promises-to-give-one-spacex-share-to-every-child-in-the-us",
-      "url": "https://ushotnews.online/article/elon-musk-promises-to-give-one-spacex-share-to-every-child-in-the-us",
-      "article_url": "https://ushotnews.online/article/elon-musk-promises-to-give-one-spacex-share-to-every-child-in-the-us",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126927487471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126927487471257",
-      "fb_comment_id": "122126927487471257_4113636252263094",
-      "posted_at": "2026-10-21T15:04:16.449163+00:00"
-    },
     "scraped-772d109983": {
       "title": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
       "slug": "apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales",
@@ -683,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127871023471257",
       "fb_comment_id": "122127871023471257_1087308210801953",
       "posted_at": "2026-10-24T14:50:23.034131+00:00"
+    },
+    "scraped-5033935c06": {
+      "title": "Why the over 56.5 is the play as Houston visits undefeated Utah in Big 12 action",
+      "slug": "why-the-over-565-is-the-play-as-houston-visits-undefeated-utah-in-big-12-action",
+      "url": "https://ushotnews.online/article/why-the-over-565-is-the-play-as-houston-visits-undefeated-utah-in-big-12-action",
+      "article_url": "https://ushotnews.online/article/why-the-over-565-is-the-play-as-houston-visits-undefeated-utah-in-big-12-action",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127910377471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127910377471257",
+      "fb_comment_id": "122127910377471257_1095838776521385",
+      "posted_at": "2026-10-24T17:51:54.632966+00:00"
+    },
+    "why-the-over-565-is-the-play-as-houston-visits-undefeated-utah-in-big-12-action": {
+      "title": "Why the over 56.5 is the play as Houston visits undefeated Utah in Big 12 action",
+      "slug": "why-the-over-565-is-the-play-as-houston-visits-undefeated-utah-in-big-12-action",
+      "url": "https://ushotnews.online/article/why-the-over-565-is-the-play-as-houston-visits-undefeated-utah-in-big-12-action",
+      "article_url": "https://ushotnews.online/article/why-the-over-565-is-the-play-as-houston-visits-undefeated-utah-in-big-12-action",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127910377471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127910377471257",
+      "fb_comment_id": "122127910377471257_1095838776521385",
+      "posted_at": "2026-10-24T17:51:54.632966+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T14:50:12.534785+00:00"
+  "last_cleaned_at": "2026-10-24T17:51:44.124404+00:00"
 }
