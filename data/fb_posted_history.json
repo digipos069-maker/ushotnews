@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T17:51:54.633030+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-24T18:02:58.141277+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-772d109983": {
       "title": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127910377471257",
       "fb_comment_id": "122127910377471257_1095838776521385",
       "posted_at": "2026-10-24T17:51:54.632966+00:00"
+    },
+    "scraped-3e87fc544d": {
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "slug": "laika-has-spent-20-years-building-up-to-wildwood",
+      "url": "https://ushotnews.online/article/laika-has-spent-20-years-building-up-to-wildwood",
+      "article_url": "https://ushotnews.online/article/laika-has-spent-20-years-building-up-to-wildwood",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127911733471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127911733471257",
+      "fb_comment_id": "122127911733471257_1012802345171307",
+      "posted_at": "2026-10-24T18:02:58.141215+00:00"
+    },
+    "laika-has-spent-20-years-building-up-to-wildwood": {
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "slug": "laika-has-spent-20-years-building-up-to-wildwood",
+      "url": "https://ushotnews.online/article/laika-has-spent-20-years-building-up-to-wildwood",
+      "article_url": "https://ushotnews.online/article/laika-has-spent-20-years-building-up-to-wildwood",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127911733471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127911733471257",
+      "fb_comment_id": "122127911733471257_1012802345171307",
+      "posted_at": "2026-10-24T18:02:58.141215+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T17:51:44.124404+00:00"
+  "last_cleaned_at": "2026-10-24T18:02:47.638926+00:00"
 }
