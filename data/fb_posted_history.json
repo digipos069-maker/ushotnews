@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T11:30:34.096731+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-24T14:45:35.310535+00:00",
+  "posted_count": 60,
   "articles": {
     "scraped-f6fd381e59": {
       "title": "Elon Musk promises to give one SpaceX share to every child in the US",
@@ -639,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127824139471257",
       "fb_comment_id": "122127824139471257_2347966252608844",
       "posted_at": "2026-10-24T11:30:34.096668+00:00"
+    },
+    "scraped-17a85eca36": {
+      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+      "slug": "amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
+      "url": "https://ushotnews.online/article/amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
+      "article_url": "https://ushotnews.online/article/amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127869853471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127869853471257",
+      "fb_comment_id": "122127869853471257_2564608117382523",
+      "posted_at": "2026-10-24T14:45:35.310464+00:00"
+    },
+    "amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer": {
+      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+      "slug": "amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
+      "url": "https://ushotnews.online/article/amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
+      "article_url": "https://ushotnews.online/article/amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127869853471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127869853471257",
+      "fb_comment_id": "122127869853471257_2564608117382523",
+      "posted_at": "2026-10-24T14:45:35.310464+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T11:30:17.517555+00:00"
+  "last_cleaned_at": "2026-10-24T14:45:27.199249+00:00"
 }
