@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T21:07:31.968518+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-24T22:39:15.782784+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-891fe147ed": {
       "title": "Walmart is inviting AI agents to shop for you",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127951843471257",
       "fb_comment_id": "122127951843471257_1351775800218780",
       "posted_at": "2026-10-24T21:07:31.968466+00:00"
+    },
+    "scraped-d24e91a95e": {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "slug": "pennsylvania-will-require-labels-on-ai-generated-ads",
+      "url": "https://ushotnews.online/article/pennsylvania-will-require-labels-on-ai-generated-ads",
+      "article_url": "https://ushotnews.online/article/pennsylvania-will-require-labels-on-ai-generated-ads",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127968955471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127968955471257",
+      "fb_comment_id": "122127968955471257_1170397409069551",
+      "posted_at": "2026-10-24T22:39:15.782722+00:00"
+    },
+    "pennsylvania-will-require-labels-on-ai-generated-ads": {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "slug": "pennsylvania-will-require-labels-on-ai-generated-ads",
+      "url": "https://ushotnews.online/article/pennsylvania-will-require-labels-on-ai-generated-ads",
+      "article_url": "https://ushotnews.online/article/pennsylvania-will-require-labels-on-ai-generated-ads",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127968955471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127968955471257",
+      "fb_comment_id": "122127968955471257_1170397409069551",
+      "posted_at": "2026-10-24T22:39:15.782722+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T21:07:25.479841+00:00"
+  "last_cleaned_at": "2026-10-24T22:39:05.757018+00:00"
 }
