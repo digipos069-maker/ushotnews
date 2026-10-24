@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-24T20:17:33.126862+00:00",
+  "last_updated": "2026-10-24T21:07:31.968518+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-60d043f7ab": {
-      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
-      "slug": "samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
-      "url": "https://ushotnews.online/article/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
-      "article_url": "https://ushotnews.online/article/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126988711471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126988711471257",
-      "fb_comment_id": "122126988711471257_1363838513482878",
-      "posted_at": "2026-10-21T20:18:51.964313+00:00"
-    },
-    "samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price": {
-      "title": "Samsung’s 5K monitor has good gaming chops and a great price",
-      "slug": "samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
-      "url": "https://ushotnews.online/article/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
-      "article_url": "https://ushotnews.online/article/samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126988711471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126988711471257",
-      "fb_comment_id": "122126988711471257_1363838513482878",
-      "posted_at": "2026-10-21T20:18:51.964313+00:00"
-    },
     "scraped-891fe147ed": {
       "title": "Walmart is inviting AI agents to shop for you",
       "slug": "walmart-is-inviting-ai-agents-to-shop-for-you",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127939039471257",
       "fb_comment_id": "122127939039471257_3754969398012903",
       "posted_at": "2026-10-24T20:17:33.126804+00:00"
+    },
+    "scraped-bc24205804": {
+      "title": "Kate Gosselin says her kids know who she ‘truly’ is as son Collin levels abuse allegations",
+      "slug": "kate-gosselin-says-her-kids-know-who-she-truly-is-as-son-collin-levels-abuse-allegations",
+      "url": "https://ushotnews.online/article/kate-gosselin-says-her-kids-know-who-she-truly-is-as-son-collin-levels-abuse-allegations",
+      "article_url": "https://ushotnews.online/article/kate-gosselin-says-her-kids-know-who-she-truly-is-as-son-collin-levels-abuse-allegations",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127951843471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127951843471257",
+      "fb_comment_id": "122127951843471257_1351775800218780",
+      "posted_at": "2026-10-24T21:07:31.968466+00:00"
+    },
+    "kate-gosselin-says-her-kids-know-who-she-truly-is-as-son-collin-levels-abuse-allegations": {
+      "title": "Kate Gosselin says her kids know who she ‘truly’ is as son Collin levels abuse allegations",
+      "slug": "kate-gosselin-says-her-kids-know-who-she-truly-is-as-son-collin-levels-abuse-allegations",
+      "url": "https://ushotnews.online/article/kate-gosselin-says-her-kids-know-who-she-truly-is-as-son-collin-levels-abuse-allegations",
+      "article_url": "https://ushotnews.online/article/kate-gosselin-says-her-kids-know-who-she-truly-is-as-son-collin-levels-abuse-allegations",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127951843471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127951843471257",
+      "fb_comment_id": "122127951843471257_1351775800218780",
+      "posted_at": "2026-10-24T21:07:31.968466+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T20:17:22.719423+00:00"
+  "last_cleaned_at": "2026-10-24T21:07:25.479841+00:00"
 }
