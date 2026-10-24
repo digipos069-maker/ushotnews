@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-24T00:25:43.831001+00:00",
+  "last_updated": "2026-10-24T07:05:20.202182+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1026984": {
-      "title": "7th Annual Waimea Fall Festival",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084822/DOD_112084822.mp4",
-      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1816141812810184",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1816141812810184",
-      "fb_comment_id": "1816141812810184_1466424132213751",
-      "posted_at": "2026-10-21T04:11:49.287646+00:00"
-    },
     "dvids-video:1026959": {
       "title": "Raider Report Ep 157- Fire Prevention Week & Wingman Guardian Connect",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084073/DOD_112084073.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1694728631983807",
       "fb_comment_id": "1694728631983807_1382183588314645",
       "posted_at": "2026-10-24T00:25:43.830942+00:00"
+    },
+    "dvids-video:1027369": {
+      "title": "By, With, Through",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093992/DOD_112093992.mp4",
+      "attached_website_url": "https://ushotnews.online/article/ainsley-earhardt-and-sean-hannity-celebrate-upcoming-wedding-surrounded-by-family-and-frie",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2251211742089279",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2251211742089279",
+      "fb_comment_id": "2251211742089279_2174033103468993",
+      "posted_at": "2026-10-24T07:05:20.202121+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T00:25:06.568575+00:00"
+  "last_cleaned_at": "2026-10-24T07:04:43.223398+00:00"
 }
