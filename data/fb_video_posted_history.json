@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T17:18:21.114255+00:00",
-  "posted_count": 14,
+  "last_updated": "2026-10-24T20:32:46.694448+00:00",
+  "posted_count": 15,
   "articles": {
     "dvids-video:1027082": {
       "title": "98th ARRTC activation ceremony at Fort McCoy, Part 4",
@@ -155,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1105554495719576",
       "fb_comment_id": "1105554495719576_1116019147499751",
       "posted_at": "2026-10-24T17:18:21.114192+00:00"
+    },
+    "dvids-video:1027398": {
+      "title": "B-ROLL: NFL Leadership Visits Suresnes American Cemetery, Honors Fallen Service Members",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095185/DOD_112095185.mp4",
+      "attached_website_url": "https://ushotnews.online/article/pennsylvania-will-require-labels-on-ai-generated-ads",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1633025948548609",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1633025948548609",
+      "fb_comment_id": "1633025948548609_1144435688107282",
+      "posted_at": "2026-10-24T20:32:46.694374+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T17:17:45.416092+00:00"
+  "last_cleaned_at": "2026-10-24T20:31:58.086139+00:00"
 }
