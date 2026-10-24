@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-24T18:02:58.141277+00:00",
+  "last_updated": "2026-10-24T20:17:33.126862+00:00",
   "posted_count": 64,
   "articles": {
-    "scraped-772d109983": {
-      "title": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
-      "slug": "apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales",
-      "url": "https://ushotnews.online/article/apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales",
-      "article_url": "https://ushotnews.online/article/apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126979885471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126979885471257",
-      "fb_comment_id": "122126979885471257_2349180168961563",
-      "posted_at": "2026-10-21T19:32:09.308195+00:00"
-    },
-    "apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales": {
-      "title": "Apple says it only has &#8216;limited&#8217; iPhone Duo units for in-store sales",
-      "slug": "apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales",
-      "url": "https://ushotnews.online/article/apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales",
-      "article_url": "https://ushotnews.online/article/apple-says-it-only-has-8216limited8217-iphone-duo-units-for-in-store-sales",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126979885471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126979885471257",
-      "fb_comment_id": "122126979885471257_2349180168961563",
-      "posted_at": "2026-10-21T19:32:09.308195+00:00"
-    },
     "scraped-60d043f7ab": {
       "title": "Samsung’s 5K monitor has good gaming chops and a great price",
       "slug": "samsungs-5k-monitor-has-good-gaming-chops-and-a-great-price",
@@ -705,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127911733471257",
       "fb_comment_id": "122127911733471257_1012802345171307",
       "posted_at": "2026-10-24T18:02:58.141215+00:00"
+    },
+    "scraped-56a3797fce": {
+      "title": "Bill Maher fires back at liberal critics over second Trump dinner",
+      "slug": "bill-maher-fires-back-at-liberal-critics-over-second-trump-dinner",
+      "url": "https://ushotnews.online/article/bill-maher-fires-back-at-liberal-critics-over-second-trump-dinner",
+      "article_url": "https://ushotnews.online/article/bill-maher-fires-back-at-liberal-critics-over-second-trump-dinner",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127939039471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127939039471257",
+      "fb_comment_id": "122127939039471257_3754969398012903",
+      "posted_at": "2026-10-24T20:17:33.126804+00:00"
+    },
+    "bill-maher-fires-back-at-liberal-critics-over-second-trump-dinner": {
+      "title": "Bill Maher fires back at liberal critics over second Trump dinner",
+      "slug": "bill-maher-fires-back-at-liberal-critics-over-second-trump-dinner",
+      "url": "https://ushotnews.online/article/bill-maher-fires-back-at-liberal-critics-over-second-trump-dinner",
+      "article_url": "https://ushotnews.online/article/bill-maher-fires-back-at-liberal-critics-over-second-trump-dinner",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127939039471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127939039471257",
+      "fb_comment_id": "122127939039471257_3754969398012903",
+      "posted_at": "2026-10-24T20:17:33.126804+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T18:02:47.638926+00:00"
+  "last_cleaned_at": "2026-10-24T20:17:22.719423+00:00"
 }
