@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T06:14:13.509566+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-24T06:24:29.761351+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-0148ff30f3": {
       "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127751941471257",
       "fb_comment_id": "122127751941471257_1522999416527343",
       "posted_at": "2026-10-24T06:14:13.509508+00:00"
+    },
+    "scraped-7f039b3b67": {
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "slug": "xboxs-first-chief-operating-officer-is-out-after-just-a-few-months",
+      "url": "https://ushotnews.online/article/xboxs-first-chief-operating-officer-is-out-after-just-a-few-months",
+      "article_url": "https://ushotnews.online/article/xboxs-first-chief-operating-officer-is-out-after-just-a-few-months",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127753789471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127753789471257",
+      "fb_comment_id": "122127753789471257_1114101640992918",
+      "posted_at": "2026-10-24T06:24:29.761287+00:00"
+    },
+    "xboxs-first-chief-operating-officer-is-out-after-just-a-few-months": {
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "slug": "xboxs-first-chief-operating-officer-is-out-after-just-a-few-months",
+      "url": "https://ushotnews.online/article/xboxs-first-chief-operating-officer-is-out-after-just-a-few-months",
+      "article_url": "https://ushotnews.online/article/xboxs-first-chief-operating-officer-is-out-after-just-a-few-months",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127753789471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127753789471257",
+      "fb_comment_id": "122127753789471257_1114101640992918",
+      "posted_at": "2026-10-24T06:24:29.761287+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T06:14:04.217444+00:00"
+  "last_cleaned_at": "2026-10-24T06:24:21.892825+00:00"
 }
