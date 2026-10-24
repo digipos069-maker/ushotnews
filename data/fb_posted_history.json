@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T14:45:35.310535+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-10-24T14:50:23.034194+00:00",
+  "posted_count": 62,
   "articles": {
     "scraped-f6fd381e59": {
       "title": "Elon Musk promises to give one SpaceX share to every child in the US",
@@ -661,7 +661,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127869853471257",
       "fb_comment_id": "122127869853471257_2564608117382523",
       "posted_at": "2026-10-24T14:45:35.310464+00:00"
+    },
+    "scraped-e10ce1f4b2": {
+      "title": "It’s time to find a new browser",
+      "slug": "its-time-to-find-a-new-browser",
+      "url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
+      "article_url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127871023471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127871023471257",
+      "fb_comment_id": "122127871023471257_1087308210801953",
+      "posted_at": "2026-10-24T14:50:23.034131+00:00"
+    },
+    "its-time-to-find-a-new-browser": {
+      "title": "It’s time to find a new browser",
+      "slug": "its-time-to-find-a-new-browser",
+      "url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
+      "article_url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127871023471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127871023471257",
+      "fb_comment_id": "122127871023471257_1087308210801953",
+      "posted_at": "2026-10-24T14:50:23.034131+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T14:45:27.199249+00:00"
+  "last_cleaned_at": "2026-10-24T14:50:12.534785+00:00"
 }
