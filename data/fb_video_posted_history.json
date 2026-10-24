@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-24T07:05:20.202182+00:00",
+  "last_updated": "2026-10-24T12:34:57.925232+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1026959": {
-      "title": "Raider Report Ep 157- Fire Prevention Week & Wingman Guardian Connect",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112084073/DOD_112084073.mp4",
-      "attached_website_url": "https://ushotnews.online/article/inside-the-quiet-money-pullback-for-both-parties-in-georgias-senate-race",
-      "trending_score": 90.0,
-      "format": "video",
-      "fb_video_id": "1978069782889990",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1978069782889990",
-      "fb_comment_id": "1978069782889990_1103968759051939",
-      "posted_at": "2026-10-21T11:33:26.253845+00:00"
-    },
     "dvids-video:1027020": {
       "title": "Alpha Troop, 2nd Squadron, 15th Cavalry Regiment, 194th Armored Brigade Confidence Course Reel",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112085906/DOD_112085906.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2251211742089279",
       "fb_comment_id": "2251211742089279_2174033103468993",
       "posted_at": "2026-10-24T07:05:20.202121+00:00"
+    },
+    "dvids-video:1027355": {
+      "title": "Team Little Rock hosts 5K Reverse Ruck for Domestic Violence Awareness",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093716/DOD_112093716.mp4",
+      "attached_website_url": "https://ushotnews.online/article/trump-makes-alaska-the-latest-frontier-in-his-election-power-grab",
+      "trending_score": 75.0,
+      "format": "video",
+      "fb_video_id": "1133008175783154",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1133008175783154",
+      "fb_comment_id": "1133008175783154_975899041681906",
+      "posted_at": "2026-10-24T12:34:57.925174+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T07:04:43.223398+00:00"
+  "last_cleaned_at": "2026-10-24T12:33:16.454141+00:00"
 }
