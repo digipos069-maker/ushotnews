@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-24T12:34:57.925232+00:00",
+  "last_updated": "2026-10-24T17:18:21.114255+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1027020": {
-      "title": "Alpha Troop, 2nd Squadron, 15th Cavalry Regiment, 194th Armored Brigade Confidence Course Reel",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112085906/DOD_112085906.mp4",
-      "attached_website_url": "https://ushotnews.online/article/nvidias-latest-gpu-driver-brings-a-new-way-to-speed-up-pc-games",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "4412685175709752",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4412685175709752",
-      "fb_comment_id": "4412685175709752_4091411511161890",
-      "posted_at": "2026-10-21T16:59:58.459681+00:00"
-    },
     "dvids-video:1027082": {
       "title": "98th ARRTC activation ceremony at Fort McCoy, Part 4",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112087224/DOD_112087224.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1133008175783154",
       "fb_comment_id": "1133008175783154_975899041681906",
       "posted_at": "2026-10-24T12:34:57.925174+00:00"
+    },
+    "dvids-video:1027387": {
+      "title": "B-ROLL: NFL Leadership Visits Suresnes American Cemetery, Honors Fallen Service Members",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095073/DOD_112095073.mp4",
+      "attached_website_url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1105554495719576",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1105554495719576",
+      "fb_comment_id": "1105554495719576_1116019147499751",
+      "posted_at": "2026-10-24T17:18:21.114192+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T12:33:16.454141+00:00"
+  "last_cleaned_at": "2026-10-24T17:17:45.416092+00:00"
 }
