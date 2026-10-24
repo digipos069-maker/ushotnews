@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T01:22:59.366211+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-24T01:29:05.259393+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-7f0eba7bde": {
       "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127687597471257",
       "fb_comment_id": "122127687597471257_1883436072788127",
       "posted_at": "2026-10-24T01:22:59.366120+00:00"
+    },
+    "scraped-e8b5fe403a": {
+      "title": "Meghan Markle says she kept father away from kids to 'protect' them over 'disturbing allegations' against him",
+      "slug": "meghan-markle-says-she-kept-father-away-from-kids-to-protect-them-over-disturbing-allegati",
+      "url": "https://ushotnews.online/article/meghan-markle-says-she-kept-father-away-from-kids-to-protect-them-over-disturbing-allegati",
+      "article_url": "https://ushotnews.online/article/meghan-markle-says-she-kept-father-away-from-kids-to-protect-them-over-disturbing-allegati",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127688773471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127688773471257",
+      "fb_comment_id": "122127688773471257_1749115509497963",
+      "posted_at": "2026-10-24T01:29:05.259335+00:00"
+    },
+    "meghan-markle-says-she-kept-father-away-from-kids-to-protect-them-over-disturbing-allegati": {
+      "title": "Meghan Markle says she kept father away from kids to 'protect' them over 'disturbing allegations' against him",
+      "slug": "meghan-markle-says-she-kept-father-away-from-kids-to-protect-them-over-disturbing-allegati",
+      "url": "https://ushotnews.online/article/meghan-markle-says-she-kept-father-away-from-kids-to-protect-them-over-disturbing-allegati",
+      "article_url": "https://ushotnews.online/article/meghan-markle-says-she-kept-father-away-from-kids-to-protect-them-over-disturbing-allegati",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127688773471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127688773471257",
+      "fb_comment_id": "122127688773471257_1749115509497963",
+      "posted_at": "2026-10-24T01:29:05.259335+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T01:22:50.657404+00:00"
+  "last_cleaned_at": "2026-10-24T01:28:58.202797+00:00"
 }
