@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-24T01:29:05.259393+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-24T06:14:13.509566+00:00",
+  "posted_count": 56,
   "articles": {
-    "scraped-7f0eba7bde": {
-      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-      "slug": "australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
-      "url": "https://ushotnews.online/article/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
-      "article_url": "https://ushotnews.online/article/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126777349471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126777349471257",
-      "fb_comment_id": "122126777349471257_1633921984853501",
-      "posted_at": "2026-10-21T04:30:56.456135+00:00"
-    },
-    "australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident": {
-      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-      "slug": "australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
-      "url": "https://ushotnews.online/article/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
-      "article_url": "https://ushotnews.online/article/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126777349471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126777349471257",
-      "fb_comment_id": "122126777349471257_1633921984853501",
-      "posted_at": "2026-10-21T04:30:56.456135+00:00"
-    },
-    "scraped-2f6ca09316": {
-      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-      "slug": "2026-midterms-could-be-the-most-expensive-on-record-and-macron-condemns-protests",
-      "url": "https://ushotnews.online/article/2026-midterms-could-be-the-most-expensive-on-record-and-macron-condemns-protests",
-      "article_url": "https://ushotnews.online/article/2026-midterms-could-be-the-most-expensive-on-record-and-macron-condemns-protests",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126793429471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126793429471257",
-      "fb_comment_id": "122126793429471257_1145960107956143",
-      "posted_at": "2026-10-21T05:45:18.067060+00:00"
-    },
-    "2026-midterms-could-be-the-most-expensive-on-record-and-macron-condemns-protests": {
-      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-      "slug": "2026-midterms-could-be-the-most-expensive-on-record-and-macron-condemns-protests",
-      "url": "https://ushotnews.online/article/2026-midterms-could-be-the-most-expensive-on-record-and-macron-condemns-protests",
-      "article_url": "https://ushotnews.online/article/2026-midterms-could-be-the-most-expensive-on-record-and-macron-condemns-protests",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122126793429471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122126793429471257",
-      "fb_comment_id": "122126793429471257_1145960107956143",
-      "posted_at": "2026-10-21T05:45:18.067060+00:00"
-    },
     "scraped-0148ff30f3": {
       "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
       "slug": "a-kelvin-wave-raised-sea-levels-on-the-west-coast-more-are-coming",
@@ -639,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127688773471257",
       "fb_comment_id": "122127688773471257_1749115509497963",
       "posted_at": "2026-10-24T01:29:05.259335+00:00"
+    },
+    "scraped-ffe63e785f": {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "slug": "openai-now-trains-its-frontier-ai-models-with-no-internet-access",
+      "url": "https://ushotnews.online/article/openai-now-trains-its-frontier-ai-models-with-no-internet-access",
+      "article_url": "https://ushotnews.online/article/openai-now-trains-its-frontier-ai-models-with-no-internet-access",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127751941471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127751941471257",
+      "fb_comment_id": "122127751941471257_1522999416527343",
+      "posted_at": "2026-10-24T06:14:13.509508+00:00"
+    },
+    "openai-now-trains-its-frontier-ai-models-with-no-internet-access": {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "slug": "openai-now-trains-its-frontier-ai-models-with-no-internet-access",
+      "url": "https://ushotnews.online/article/openai-now-trains-its-frontier-ai-models-with-no-internet-access",
+      "article_url": "https://ushotnews.online/article/openai-now-trains-its-frontier-ai-models-with-no-internet-access",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127751941471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127751941471257",
+      "fb_comment_id": "122127751941471257_1522999416527343",
+      "posted_at": "2026-10-24T06:14:13.509508+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T01:28:58.202797+00:00"
+  "last_cleaned_at": "2026-10-24T06:14:04.217444+00:00"
 }
