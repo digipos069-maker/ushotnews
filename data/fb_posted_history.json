@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-24T22:39:15.782784+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-10-24T23:36:43.019767+00:00",
+  "posted_count": 64,
   "articles": {
-    "scraped-891fe147ed": {
-      "title": "Walmart is inviting AI agents to shop for you",
-      "slug": "walmart-is-inviting-ai-agents-to-shop-for-you",
-      "url": "https://ushotnews.online/article/walmart-is-inviting-ai-agents-to-shop-for-you",
-      "article_url": "https://ushotnews.online/article/walmart-is-inviting-ai-agents-to-shop-for-you",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127008751471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127008751471257",
-      "fb_comment_id": "122127008751471257_1816951075990075",
-      "posted_at": "2026-10-21T22:42:24.026331+00:00"
-    },
-    "walmart-is-inviting-ai-agents-to-shop-for-you": {
-      "title": "Walmart is inviting AI agents to shop for you",
-      "slug": "walmart-is-inviting-ai-agents-to-shop-for-you",
-      "url": "https://ushotnews.online/article/walmart-is-inviting-ai-agents-to-shop-for-you",
-      "article_url": "https://ushotnews.online/article/walmart-is-inviting-ai-agents-to-shop-for-you",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127008751471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127008751471257",
-      "fb_comment_id": "122127008751471257_1816951075990075",
-      "posted_at": "2026-10-21T22:42:24.026331+00:00"
-    },
-    "scraped-0199ca6111": {
-      "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-      "slug": "netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
-      "url": "https://ushotnews.online/article/netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
-      "article_url": "https://ushotnews.online/article/netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127016191471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127016191471257",
-      "fb_comment_id": "122127016191471257_1636537317931167",
-      "posted_at": "2026-10-21T23:32:15.210126+00:00"
-    },
-    "netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in": {
-      "title": "Netflix has dipped its toe into theatrical. Is it ready to jump in?",
-      "slug": "netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
-      "url": "https://ushotnews.online/article/netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
-      "article_url": "https://ushotnews.online/article/netflix-has-dipped-its-toe-into-theatrical-is-it-ready-to-jump-in",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127016191471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127016191471257",
-      "fb_comment_id": "122127016191471257_1636537317931167",
-      "posted_at": "2026-10-21T23:32:15.210126+00:00"
-    },
     "scraped-89d47b228a": {
       "title": "Pope Leo XIV needs no further cancer treatment after lung tumor removed, doctors say",
       "slug": "pope-leo-xiv-needs-no-further-cancer-treatment-after-lung-tumor-removed-doctors-say",
@@ -727,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127968955471257",
       "fb_comment_id": "122127968955471257_1170397409069551",
       "posted_at": "2026-10-24T22:39:15.782722+00:00"
+    },
+    "scraped-009e43cfbb": {
+      "title": "Jason Alexander admits ‘Seinfeld’ fame sent him to therapy",
+      "slug": "jason-alexander-admits-seinfeld-fame-sent-him-to-therapy",
+      "url": "https://ushotnews.online/article/jason-alexander-admits-seinfeld-fame-sent-him-to-therapy",
+      "article_url": "https://ushotnews.online/article/jason-alexander-admits-seinfeld-fame-sent-him-to-therapy",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127985047471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127985047471257",
+      "fb_comment_id": "122127985047471257_1606756063888262",
+      "posted_at": "2026-10-24T23:36:43.019698+00:00"
+    },
+    "jason-alexander-admits-seinfeld-fame-sent-him-to-therapy": {
+      "title": "Jason Alexander admits ‘Seinfeld’ fame sent him to therapy",
+      "slug": "jason-alexander-admits-seinfeld-fame-sent-him-to-therapy",
+      "url": "https://ushotnews.online/article/jason-alexander-admits-seinfeld-fame-sent-him-to-therapy",
+      "article_url": "https://ushotnews.online/article/jason-alexander-admits-seinfeld-fame-sent-him-to-therapy",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122127985047471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127985047471257",
+      "fb_comment_id": "122127985047471257_1606756063888262",
+      "posted_at": "2026-10-24T23:36:43.019698+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-24T22:39:05.757018+00:00"
+  "last_cleaned_at": "2026-10-24T23:36:30.876381+00:00"
 }
