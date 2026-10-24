@@ -1,5 +1,634 @@
 [
   {
+    "id": "scraped-89f5912106",
+    "slug": "trump-makes-alaska-the-latest-frontier-in-his-election-power-grab",
+    "guid": "000001a1-6b38-d679-a5a5-6bbf7de30000",
+    "title": "Trump makes Alaska the latest frontier in his election power grab",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The move by the Justice Department to try and preemptively block Alaska’s Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties.",
+    "content": [
+      "The move by the Justice Department to try and preemptively block Alaska’s Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/8c/cf/a1d2340048af9abe152f7852efe0/trump-1-935.jpg",
+    "imageCaption": "Trump makes Alaska the latest frontier in his election power... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T11:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8015130322",
+    "slug": "russia-steps-up-election-influence-efforts-in-final-stretch-of-midterms",
+    "guid": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
+    "title": "Russia steps up election influence efforts in final stretch of midterms",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and around the world.",
+    "content": [
+      "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and around the world.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Russia steps up election influence efforts in final stretch ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-23T21:40:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7efd5777d2",
+    "slug": "drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+    "guid": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+    "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+    "content": [
+      "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Drinking water supplies dwindle in Yemeni city besieged by H... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T07:04:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e30051a7db",
+    "slug": "this-decade-has-been-missing-its-big-impact-midterm",
+    "guid": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+    "title": "This decade has been missing its big-impact midterm",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
+    "content": [
+      "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "This decade has been missing its big-impact midterm... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-64816186a2",
+    "slug": "us-birth-rate-drops-to-record-low-but-older-women-are-having-more-babies",
+    "guid": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
+    "title": "U.S. birth rate drops to record low, but older women are having more babies",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children.",
+    "content": [
+      "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. birth rate drops to record low, but older women are hav... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-32c3b652c7",
+    "slug": "is-your-medicare-advantage-plan-ending-next-year-heres-what-to-know",
+    "guid": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
+    "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+    "content": [
+      "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Is your Medicare Advantage plan ending next year? Here's wha... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ecf87a91c1",
+    "slug": "minnesota-candidate-stress-tests-states-new-fraud-law-what-she-found-raised-major-red-flag",
+    "guid": "https://www.foxnews.com/politics/minnesota-candidate-stress-tests-states-new-fraud-law-what-she-found-raised-major-red-flags",
+    "title": "Minnesota candidate ‘stress tests’ state’s new fraud law — what she found raised major red flags",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Heidi Heino says she stress-tested Minnesota&apos;s inspector general law against Feeding Our Future and found critical gaps in fraud prevention safeguards.",
+    "content": [
+      "Heidi Heino says she stress-tested Minnesota&apos;s inspector general law against Feeding Our Future and found critical gaps in fraud prevention safeguards.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/tim-walz-national-guard-minnesota.jpg?ve=1&tl=1",
+    "imageCaption": "Minnesota candidate ‘stress tests’ state’s new fraud law — w... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T10:00:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-13789a2c6b",
+    "slug": "yogurt-shop-murders-fuel-family-questions-about-accomplice-as-rage-lingers-over-wrongfully",
+    "guid": "https://www.foxnews.com/us/yogurt-shop-murders-fuel-family-questions-accomplice-rage-lingers-wrongfully-accused",
+    "title": "Yogurt shop murders fuel family questions about accomplice as rage lingers over wrongfully accused",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Shawn Ayers, whose sister died in the 1991 Austin yogurt shop murders, co-founded the National Cold Case Center to help solve unsolved homicides.",
+    "content": [
+      "Shawn Ayers, whose sister died in the 1991 Austin yogurt shop murders, co-founded the National Cold Case Center to help solve unsolved homicides.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/yogurt-shop-murder-victims.png?ve=1&tl=1",
+    "imageCaption": "Yogurt shop murders fuel family questions about accomplice a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T10:00:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5de16bca54",
+    "slug": "pennsylvania-law-requires-delivery-robots-to-yield-to-pedestrians-yet-protester-still-face",
+    "guid": "https://www.foxnews.com/tech/pennsylvania-law-requires-delivery-robots-yield-pedestrians-protester-faced-arrest",
+    "title": "Pennsylvania law requires delivery robots to yield to pedestrians, yet protester still faced arrest",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Carolyn Marvin, a 78-year-old retired professor, was arrested after blocking an Uber Eats delivery robot on a Philadelphia sidewalk for months.",
+    "content": [
+      "Carolyn Marvin, a 78-year-old retired professor, was arrested after blocking an Uber Eats delivery robot on a Philadelphia sidewalk for months.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/uber-eats-robot-standoff-002.jpg?ve=1&tl=1",
+    "imageCaption": "Pennsylvania law requires delivery robots to yield to pedest... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T10:46:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-11802b5e00",
+    "slug": "trump-officials-warn-decades-long-decline-among-american-men-could-carry-national-security",
+    "guid": "https://www.foxnews.com/politics/trump-officials-warn-decades-long-decline-american-men-could-carry-national-security-consequences",
+    "title": "Trump officials warn decades-long decline among American men could carry national security consequences",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "President Donald Trump&apos;s administration develops testosterone screening for troops as an HHS official warns 77% of young Americans can&apos;t serve.",
+    "content": [
+      "President Donald Trump&apos;s administration develops testosterone screening for troops as an HHS official warns 77% of young Americans can&apos;t serve.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/trump-military-troops.jpg?ve=1&tl=1",
+    "imageCaption": "Trump officials warn decades-long decline among American men... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T11:00:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-605af2a5c0",
+    "slug": "jon-bon-jovi-impersonator-uses-ai-videos-to-scam-woman-out-of-10k-nearly-costing-her-home",
+    "guid": "https://www.foxnews.com/us/jon-bon-jovi-impersonator-uses-ai-videos-scam-woman-10k-nearly-costing-her-home",
+    "title": "Jon Bon Jovi impersonator uses AI videos to scam woman out of $10K, nearly costing her home",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Leslie Pickett lost over $10,000 to a deepfake scam after a fake Jon Bon Jovi account on Instagram used AI videos to build trust over months.",
+    "content": [
+      "Leslie Pickett lost over $10,000 to a deepfake scam after a fake Jon Bon Jovi account on Instagram used AI videos to build trust over months.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Super-Scam-Me-Leslie-Victim-Bon-Jovi-Scammer.jpg?ve=1&tl=1",
+    "imageCaption": "Jon Bon Jovi impersonator uses AI videos to scam woman out o... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T11:00:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd0d877aca",
+    "slug": "deprogrammed-he-was-headed-for-the-mlb-instead-he-stepped-up-to-the-plate-for-god",
+    "guid": "https://www.foxnews.com/media/deprogrammed-he-headed-mlb-instead-he-stepped-up-plate-god",
+    "title": "DEPROGRAMMED: He was headed for the MLB. Instead he stepped up to the plate for God",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Nehemiah Toles walked away from top college baseball offers and MLB scouts after hearing God&apos;s voice in a hotel room following a championship game.",
+    "content": [
+      "Nehemiah Toles walked away from top college baseball offers and MLB scouts after hearing God&apos;s voice in a hotel room following a championship game.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/v1-nehemiah-toles-article-thumb.png?ve=1&tl=1",
+    "imageCaption": "DEPROGRAMMED: He was headed for the MLB. Instead he stepped ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T11:00:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f6b8f3c5cc",
+    "slug": "canada-is-feeling-the-pain-from-trumps-tariffs-but-the-trade-fight-didnt-start-overnight",
+    "guid": "https://www.foxnews.com/politics/canada-feeling-pain-trumps-tariffs-trade-fight-didnt-start-overnight",
+    "title": "Canada is feeling the pain from Trump's tariffs — but the trade fight didn't start overnight",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "President Donald Trump&apos;s trade showdown with Canada targets dairy, lumber and market access, reviving decades-old tensions between allied economies.",
+    "content": [
+      "President Donald Trump&apos;s trade showdown with Canada targets dairy, lumber and market access, reviving decades-old tensions between allied economies.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-carney-white-house.png?ve=1&tl=1",
+    "imageCaption": "Canada is feeling the pain from Trump's tariffs — but the tr... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T11:00:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ef3c5f62b7",
+    "slug": "i-could-have-rescued-my-daughter-from-disappointment-heres-why-i-didnt",
+    "guid": "https://www.foxnews.com/opinion/could-have-rescued-daughter-disappointment-heres-why-i-didnt",
+    "title": "I could have rescued my daughter from disappointment. Here's why I didn't",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A child psychologist explains why rescuing kids from disappointment undermines self-efficacy, coping skills, and long-term child resilience.",
+    "content": [
+      "A child psychologist explains why rescuing kids from disappointment undermines self-efficacy, coping skills, and long-term child resilience.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mom-daughter-sit-on-steps-istock-final.jpg?ve=1&tl=1",
+    "imageCaption": "I could have rescued my daughter from disappointment. Here's... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T11:00:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-01b6d8db03",
+    "slug": "what-next-for-france-as-riots-rattle-markets-three-questions-facing-investors-ahead-of-mor",
+    "guid": "108448090",
+    "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
+    "content": [
+      "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What next for France as riots rattle markets? Three question... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T06:23:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f4b6b5778d",
+    "slug": "nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit",
+    "guid": "108433772",
+    "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+    "content": [
+      "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia's role as AI financier faces first big test as neoclo... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T11:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-de650b6aec",
+    "slug": "trump-is-pushing-a-massive-ai-buildout-his-own-voters-are-wary-of-what-comes-with-it",
+    "guid": "108447587",
+    "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
+    "content": [
+      "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump is pushing a massive AI buildout. His own voters are w... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T10:59:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-00bbbe92db",
     "slug": "ainsley-earhardt-and-sean-hannity-celebrate-upcoming-wedding-surrounded-by-family-and-frie",
     "guid": "https://www.foxnews.com/media/ainsley-earhardt-sean-hannity-celebrate-upcoming-wedding-surrounded-family-friends-mar-a-lago",
