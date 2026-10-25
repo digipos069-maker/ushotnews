@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-25T14:50:39.857831+00:00",
+  "last_updated": "2026-10-25T17:35:25.982141+00:00",
   "posted_count": 66,
   "articles": {
-    "scraped-1dd79363c0": {
-      "title": "James Talarico blames rise in GOP 'extremism' for prompting his 'God is non-binary,' six sexes remarks",
-      "slug": "james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
-      "url": "https://ushotnews.online/article/james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
-      "article_url": "https://ushotnews.online/article/james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127227793471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127227793471257",
-      "fb_comment_id": "122127227793471257_2127003694580874",
-      "posted_at": "2026-10-22T17:33:33.354565+00:00"
-    },
-    "james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-": {
-      "title": "James Talarico blames rise in GOP 'extremism' for prompting his 'God is non-binary,' six sexes remarks",
-      "slug": "james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
-      "url": "https://ushotnews.online/article/james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
-      "article_url": "https://ushotnews.online/article/james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127227793471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127227793471257",
-      "fb_comment_id": "122127227793471257_2127003694580874",
-      "posted_at": "2026-10-22T17:33:33.354565+00:00"
-    },
     "scraped-71b1879b7e": {
       "title": "Brian Kelly pins blame for Texas' offensive struggles on coach Steve Sarkisian, not Arch Manning",
       "slug": "brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
@@ -727,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128212903471257",
       "fb_comment_id": "122128212903471257_4427504697498679",
       "posted_at": "2026-10-25T14:50:39.857773+00:00"
+    },
+    "scraped-d3b258f571": {
+      "title": "'Vertigo' star Kim Novak plans to become compost after death",
+      "slug": "vertigo-star-kim-novak-plans-to-become-compost-after-death",
+      "url": "https://ushotnews.online/article/vertigo-star-kim-novak-plans-to-become-compost-after-death",
+      "article_url": "https://ushotnews.online/article/vertigo-star-kim-novak-plans-to-become-compost-after-death",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128250151471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128250151471257",
+      "fb_comment_id": "122128250151471257_2264674727492562",
+      "posted_at": "2026-10-25T17:35:25.982074+00:00"
+    },
+    "vertigo-star-kim-novak-plans-to-become-compost-after-death": {
+      "title": "'Vertigo' star Kim Novak plans to become compost after death",
+      "slug": "vertigo-star-kim-novak-plans-to-become-compost-after-death",
+      "url": "https://ushotnews.online/article/vertigo-star-kim-novak-plans-to-become-compost-after-death",
+      "article_url": "https://ushotnews.online/article/vertigo-star-kim-novak-plans-to-become-compost-after-death",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128250151471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128250151471257",
+      "fb_comment_id": "122128250151471257_2264674727492562",
+      "posted_at": "2026-10-25T17:35:25.982074+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T14:50:29.753021+00:00"
+  "last_cleaned_at": "2026-10-25T17:35:15.604051+00:00"
 }
