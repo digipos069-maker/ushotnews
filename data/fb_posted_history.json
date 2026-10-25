@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T23:09:39.054176+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-10-25T23:27:23.386238+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-f0a786e8fb": {
       "title": "Jessie James Decker's family beach photo leaves fans stunned by their matching six-pack abs",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128323069471257",
       "fb_comment_id": "122128323069471257_1575506304345257",
       "posted_at": "2026-10-25T23:09:39.054104+00:00"
+    },
+    "scraped-213ff86ce5": {
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "slug": "scott-walkers-the-drift-will-get-under-your-skin",
+      "url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
+      "article_url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128325583471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128325583471257",
+      "fb_comment_id": "122128325583471257_2258654308248957",
+      "posted_at": "2026-10-25T23:27:23.386146+00:00"
+    },
+    "scott-walkers-the-drift-will-get-under-your-skin": {
+      "title": "Scott Walker’s The Drift will get under your skin",
+      "slug": "scott-walkers-the-drift-will-get-under-your-skin",
+      "url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
+      "article_url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128325583471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128325583471257",
+      "fb_comment_id": "122128325583471257_2258654308248957",
+      "posted_at": "2026-10-25T23:27:23.386146+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T23:09:25.918145+00:00"
+  "last_cleaned_at": "2026-10-25T23:27:13.127047+00:00"
 }
