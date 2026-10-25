@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-25T17:33:34.618828+00:00",
+  "last_updated": "2026-10-25T20:40:36.307993+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1027211": {
-      "title": "Social 9x16: Best Squad 2026 Winners - Teaser 3 - NCO of the Year",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112089907/DOD_112089907.mp4",
-      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1645533086963304",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1645533086963304",
-      "fb_comment_id": "1645533086963304_1778172646772343",
-      "posted_at": "2026-10-22T18:27:20.122450+00:00"
-    },
     "dvids-video:1027222": {
       "title": "Small wins fuel resilience: First Sergeant makes strong comeback one step at a time",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112089963/DOD_112089963.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/29324589977229672",
       "fb_comment_id": "29324589977229672_2189039048310245",
       "posted_at": "2026-10-25T17:33:34.618756+00:00"
+    },
+    "dvids-video:1027441": {
+      "title": "CAS EVAC SIMULATION",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112096873/DOD_112096873.mp4",
+      "attached_website_url": "https://ushotnews.online/article/peltola-postpones-campaign-stops-after-saturday-car-crash",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "4470939716500727",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4470939716500727",
+      "fb_comment_id": "4470939716500727_1537448768409365",
+      "posted_at": "2026-10-25T20:40:36.307935+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T17:32:10.435147+00:00"
+  "last_cleaned_at": "2026-10-25T20:39:31.888201+00:00"
 }
