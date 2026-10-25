@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T09:21:01.203503+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-25T10:48:37.237189+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-ab96907d75": {
       "title": "Airbnb bans making guests do dishes and take out the trash",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128118301471257",
       "fb_comment_id": "122128118301471257_945761981647880",
       "posted_at": "2026-10-25T09:21:01.203448+00:00"
+    },
+    "scraped-702f8b256c": {
+      "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+      "slug": "in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "url": "https://ushotnews.online/article/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "article_url": "https://ushotnews.online/article/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128139799471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128139799471257",
+      "fb_comment_id": "122128139799471257_2682404935526040",
+      "posted_at": "2026-10-25T10:48:37.237128+00:00"
+    },
+    "in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map": {
+      "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+      "slug": "in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "url": "https://ushotnews.online/article/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "article_url": "https://ushotnews.online/article/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128139799471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128139799471257",
+      "fb_comment_id": "122128139799471257_2682404935526040",
+      "posted_at": "2026-10-25T10:48:37.237128+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T09:20:53.145505+00:00"
+  "last_cleaned_at": "2026-10-25T10:48:30.196948+00:00"
 }
