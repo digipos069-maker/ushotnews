@@ -1,5 +1,597 @@
 [
   {
+    "id": "scraped-519b1c3d3d",
+    "slug": "peltola-postpones-campaign-stops-after-saturday-car-crash",
+    "guid": "000001a1-7404-dc8a-a3ef-75cfac0c0000",
+    "title": "Peltola postpones campaign stops after Saturday car crash",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The Alaska Senate candidate and her family sustained minor injuries, her campaign announced Sunday.",
+    "content": [
+      "The Alaska Senate candidate and her family sustained minor injuries, her campaign announced Sunday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/c9/9c/1fc447b749208da777fb22a0973d/https-delivery-gettyimages.com/downloads/1243316153",
+    "imageCaption": "Peltola postpones campaign stops after Saturday car crash... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:26:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-327ab0aa4d",
+    "slug": "now-you-can-watch-instagram-reels-on-your-apple-tv",
+    "guid": "https://www.theverge.com/?p=1018253",
+    "title": "Now you can watch Instagram Reels on your Apple TV",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features [&#8230;]",
+    "content": [
+      "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Now you can watch Instagram Reels on your Apple TV... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T16:20:17+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d287685093",
+    "slug": "this-switch-2-sequel-accessory-was-a-few-millimeters-away-from-being-good",
+    "guid": "https://www.theverge.com/?p=1017508",
+    "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of [&#8230;]",
+    "content": [
+      "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "This Switch 2 sequel accessory was a few millimeters away fr... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5a3a89be12",
+    "slug": "what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+    "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear.",
+    "content": [
+      "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What makes a good spine-tingler? Stephen Graham Jones says i... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T15:03:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-363925dfb2",
+    "slug": "israelis-have-changed-will-they-change-their-leadership",
+    "guid": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+    "title": "Israelis have changed. Will they change their leadership?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+    "content": [
+      "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Israelis have changed. Will they change their leadership?... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T16:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c9e1c58717",
+    "slug": "venezuelas-opposition-leader-maría-corina-machado-returns-after-months-in-exile",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+    "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
+    "content": [
+      "Machado announced her arrival on social media, writing \"I am here. With you.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Venezuela's opposition leader María Corina Machado returns a... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T16:18:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7370752911",
+    "slug": "blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+    "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
+    "content": [
+      "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Blanche defends DOJ lawsuit blocking Alaska Senate results i... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:50:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-91c4db77c2",
+    "slug": "baylor-fires-dave-aranda-after-third-loss-of-season-will-reportedly-owe-him-substantial-bu",
+    "guid": "https://www.foxnews.com/outkick-sports/baylor-fires-dave-aranda-after-third-loss-season-will-reportedly-owe-him-substantial-buyout",
+    "title": "Baylor fires Dave Aranda after third loss of season, will reportedly owe him substantial buyout",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Dave Aranda&apos;s firing triggers a roughly $12 million buyout after a contract extension through 2029, making him the third Power Four coach axed this year.",
+    "content": [
+      "Dave Aranda&apos;s firing triggers a roughly $12 million buyout after a contract extension through 2029, making him the third Power Four coach axed this year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/aranda-featured.jpg?ve=1&tl=1",
+    "imageCaption": "Baylor fires Dave Aranda after third loss of season, will re... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T16:55:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bbec349811",
+    "slug": "sound-of-music-star-julie-andrews-spotted-in-rare-hamptons-outing-weeks-after-turning-91",
+    "guid": "https://www.foxnews.com/entertainment/sound-music-star-julie-andrews-spotted-rare-hamptons-outing-weeks-after-turning-91",
+    "title": "'Sound of Music' star Julie Andrews spotted in rare Hamptons outing weeks after turning 91",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Julie Andrews, 91, was photographed in the Hamptons wearing a purple raincoat and pink sunglasses in a rare public outing in the coastal city.",
+    "content": [
+      "Julie Andrews, 91, was photographed in the Hamptons wearing a purple raincoat and pink sunglasses in a rare public outing in the coastal city.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/julie-andrews-split-2.jpg?ve=1&tl=1",
+    "imageCaption": "'Sound of Music' star Julie Andrews spotted in rare Hamptons... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:00:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c1e4346838",
+    "slug": "doj-flooded-with-thousands-of-fraud-tips-after-cash-incentive-launch-trump-official-says",
+    "guid": "https://www.foxnews.com/media/doj-flooded-thousands-fraud-tips-after-cash-incentive-launch-trump-official-says",
+    "title": "DOJ flooded with thousands of fraud tips after cash incentive launch, Trump official says",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Justice Department&apos;s fraud whistleblower program received thousands of tips in days, as Colin McDonald reveals a novel upfront payment approach.",
+    "content": [
+      "The Justice Department&apos;s fraud whistleblower program received thousands of tips in days, as Colin McDonald reveals a novel upfront payment approach.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-on-south-lawn.jpg?ve=1&tl=1",
+    "imageCaption": "DOJ flooded with thousands of fraud tips after cash incentiv... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:07:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f1a5568d9d",
+    "slug": "reckless-visitors-are-destroying-yellowstones-iconic-thermal-pools-with-trash",
+    "guid": "https://www.foxnews.com/travel/reckless-visitors-destroying-yellowstones-iconic-thermal-pools-trash",
+    "title": "Reckless visitors are destroying Yellowstone's iconic thermal pools with trash",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "That&apos;s a lot of garbage: Yellowstone National Park&apos;s geology team collected over 23,000 pieces of trash from geysers and hot springs, including AirPods and rubber ducks.",
+    "content": [
+      "That&apos;s a lot of garbage: Yellowstone National Park&apos;s geology team collected over 23,000 pieces of trash from geysers and hot springs, including AirPods and rubber ducks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Yellowstone-National-Park-Visitors.png?ve=1&tl=1",
+    "imageCaption": "Reckless visitors are destroying Yellowstone's iconic therma... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:08:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ea1e8e9f39",
+    "slug": "trump-reveals-dire-warning-to-macron-as-violent-unrest-spreads-across-europe",
+    "guid": "https://www.foxnews.com/media/trump-reveals-dire-warning-macron-violent-unrest-spreads-across-europe",
+    "title": "Trump reveals dire warning to Macron as violent unrest spreads across Europe",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trump says he warned Emmanuel Macron that immigration policies were destroying France as nearly 1,000 protesters were arrested on Saturday.",
+    "content": [
+      "Trump says he warned Emmanuel Macron that immigration policies were destroying France as nearly 1,000 protesters were arrested on Saturday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-france-macron.jpg?ve=1&tl=1",
+    "imageCaption": "Trump reveals dire warning to Macron as violent unrest sprea... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:27:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-38b8f0b011",
+    "slug": "wwe-hall-of-famer-mocks-womens-champion-while-at-nfl-paris-game-what-now-chelsea",
+    "guid": "https://www.foxnews.com/outkick-sports/wwe-hall-famer-mocks-womens-champion-nfl-paris-game-what-now-chelsea",
+    "title": "WWE Hall of Famer mocks women's champion while at NFL Paris game: 'What now Chelsea?'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Nikki Bella mocked Chelsea Green&apos;s ring entrance in a viral video from Paris ahead of their WWE Women&apos;s Championship showdown on SmackDown.",
+    "content": [
+      "Nikki Bella mocked Chelsea Green&apos;s ring entrance in a viral video from Paris ahead of their WWE Women&apos;s Championship showdown on SmackDown.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nikki-bella-smackdown-sacramento-2026.jpg?ve=1&tl=1",
+    "imageCaption": "WWE Hall of Famer mocks women's champion while at NFL Paris ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:30:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3e902519b6",
+    "slug": "who-is-itamar-ben-gvir-the-israeli-firebrand-rising-with-the-populist-right-across-the-glo",
+    "guid": "https://www.foxnews.com/world/who-itamar-ben-gvir-israeli-firebrand-rising-populist-right-across-globe",
+    "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Itamar Ben-Gvir’s law-and-order agenda has made him one of Israel’s most controversial politicians — and potentially a pivotal player in the country’s next government.",
+    "content": [
+      "Itamar Ben-Gvir’s law-and-order agenda has made him one of Israel’s most controversial politicians — and potentially a pivotal player in the country’s next government.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ben-gvir-knesset-speech.jpg?ve=1&tl=1",
+    "imageCaption": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with th... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:32:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-995b68a7e3",
+    "slug": "venezuelan-opposition-leader-maría-corina-machado-makes-surprise-return-home-after-nearly-",
+    "guid": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad",
+    "title": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "María Corina Machado&apos;s return to Venezuela could reshape opposition dynamics as Edmundo González vows to join her and push for democratic elections.",
+    "content": [
+      "María Corina Machado&apos;s return to Venezuela could reshape opposition dynamics as Edmundo González vows to join her and push for democratic elections.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/machado-nobel-prize.jpg?ve=1&tl=1",
+    "imageCaption": "Venezuelan opposition leader María Corina Machado makes surp... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T17:47:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-14a71e9ad3",
+    "slug": "audi-defends-plans-for-a-4-billion-georgia-plant-amid-vw-restructuring-tariffs",
+    "guid": "108459703",
+    "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+    "content": [
+      "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Audi defends plans for a $4 billion Georgia plant amid VW re... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T16:42:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-e68eba0184",
     "slug": "googles-ai-search-changes-upended-online-publishing",
     "guid": "https://www.theverge.com/?p=1017983",
