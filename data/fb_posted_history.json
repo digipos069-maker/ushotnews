@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-25T10:48:37.237189+00:00",
+  "last_updated": "2026-10-25T13:53:11.273046+00:00",
   "posted_count": 66,
   "articles": {
-    "scraped-ab96907d75": {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "slug": "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
-      "url": "https://ushotnews.online/article/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
-      "article_url": "https://ushotnews.online/article/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127159441471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127159441471257",
-      "fb_comment_id": "122127159441471257_1782869302928258",
-      "posted_at": "2026-10-22T12:22:18.332680+00:00"
-    },
-    "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash": {
-      "title": "Airbnb bans making guests do dishes and take out the trash",
-      "slug": "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
-      "url": "https://ushotnews.online/article/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
-      "article_url": "https://ushotnews.online/article/airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127159441471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127159441471257",
-      "fb_comment_id": "122127159441471257_1782869302928258",
-      "posted_at": "2026-10-22T12:22:18.332680+00:00"
-    },
     "scraped-10003a10ea": {
       "title": "Bose acquires Skullcandy to help it reach a wider audience",
       "slug": "bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
@@ -727,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128139799471257",
       "fb_comment_id": "122128139799471257_2682404935526040",
       "posted_at": "2026-10-25T10:48:37.237128+00:00"
+    },
+    "scraped-9865e2bfd1": {
+      "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "slug": "soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+      "url": "https://ushotnews.online/article/soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+      "article_url": "https://ushotnews.online/article/soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128199319471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128199319471257",
+      "fb_comment_id": "122128199319471257_4005515739755649",
+      "posted_at": "2026-10-25T13:53:11.272987+00:00"
+    },
+    "soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe": {
+      "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "slug": "soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+      "url": "https://ushotnews.online/article/soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+      "article_url": "https://ushotnews.online/article/soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128199319471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128199319471257",
+      "fb_comment_id": "122128199319471257_4005515739755649",
+      "posted_at": "2026-10-25T13:53:11.272987+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T10:48:30.196948+00:00"
+  "last_cleaned_at": "2026-10-25T13:53:03.685936+00:00"
 }
