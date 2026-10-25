@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T17:35:25.982141+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-10-25T18:10:12.051347+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-71b1879b7e": {
       "title": "Brian Kelly pins blame for Texas' offensive struggles on coach Steve Sarkisian, not Arch Manning",
@@ -727,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128250151471257",
       "fb_comment_id": "122128250151471257_2264674727492562",
       "posted_at": "2026-10-25T17:35:25.982074+00:00"
+    },
+    "scraped-3e902519b6": {
+      "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
+      "slug": "who-is-itamar-ben-gvir-the-israeli-firebrand-rising-with-the-populist-right-across-the-glo",
+      "url": "https://ushotnews.online/article/who-is-itamar-ben-gvir-the-israeli-firebrand-rising-with-the-populist-right-across-the-glo",
+      "article_url": "https://ushotnews.online/article/who-is-itamar-ben-gvir-the-israeli-firebrand-rising-with-the-populist-right-across-the-glo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128258575471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128258575471257",
+      "fb_comment_id": "122128258575471257_28063642319975892",
+      "posted_at": "2026-10-25T18:10:12.051277+00:00"
+    },
+    "who-is-itamar-ben-gvir-the-israeli-firebrand-rising-with-the-populist-right-across-the-glo": {
+      "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
+      "slug": "who-is-itamar-ben-gvir-the-israeli-firebrand-rising-with-the-populist-right-across-the-glo",
+      "url": "https://ushotnews.online/article/who-is-itamar-ben-gvir-the-israeli-firebrand-rising-with-the-populist-right-across-the-glo",
+      "article_url": "https://ushotnews.online/article/who-is-itamar-ben-gvir-the-israeli-firebrand-rising-with-the-populist-right-across-the-glo",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128258575471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128258575471257",
+      "fb_comment_id": "122128258575471257_28063642319975892",
+      "posted_at": "2026-10-25T18:10:12.051277+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T17:35:15.604051+00:00"
+  "last_cleaned_at": "2026-10-25T18:10:00.544608+00:00"
 }
