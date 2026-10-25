@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T04:28:32.220102+00:00",
-  "posted_count": 64,
+  "last_updated": "2026-10-25T05:43:49.077469+00:00",
+  "posted_count": 66,
   "articles": {
     "scraped-2feb4c0d0c": {
       "title": "Star Wars Zero Company is a must-play strategy game at 20 percent off",
@@ -705,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128043733471257",
       "fb_comment_id": "122128043733471257_2015148315867896",
       "posted_at": "2026-10-25T04:28:32.220044+00:00"
+    },
+    "scraped-021898edee": {
+      "title": "NC State fires Dave Doeren after 14 years as Wolfpack football coach following loss to Stanford",
+      "slug": "nc-state-fires-dave-doeren-after-14-years-as-wolfpack-football-coach-following-loss-to-sta",
+      "url": "https://ushotnews.online/article/nc-state-fires-dave-doeren-after-14-years-as-wolfpack-football-coach-following-loss-to-sta",
+      "article_url": "https://ushotnews.online/article/nc-state-fires-dave-doeren-after-14-years-as-wolfpack-football-coach-following-loss-to-sta",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128060515471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128060515471257",
+      "fb_comment_id": "122128060515471257_1138895625497467",
+      "posted_at": "2026-10-25T05:43:49.077399+00:00"
+    },
+    "nc-state-fires-dave-doeren-after-14-years-as-wolfpack-football-coach-following-loss-to-sta": {
+      "title": "NC State fires Dave Doeren after 14 years as Wolfpack football coach following loss to Stanford",
+      "slug": "nc-state-fires-dave-doeren-after-14-years-as-wolfpack-football-coach-following-loss-to-sta",
+      "url": "https://ushotnews.online/article/nc-state-fires-dave-doeren-after-14-years-as-wolfpack-football-coach-following-loss-to-sta",
+      "article_url": "https://ushotnews.online/article/nc-state-fires-dave-doeren-after-14-years-as-wolfpack-football-coach-following-loss-to-sta",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128060515471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128060515471257",
+      "fb_comment_id": "122128060515471257_1138895625497467",
+      "posted_at": "2026-10-25T05:43:49.077399+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T04:28:22.404091+00:00"
+  "last_cleaned_at": "2026-10-25T05:43:40.183441+00:00"
 }
