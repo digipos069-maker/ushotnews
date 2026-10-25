@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-9865e2bfd1",
+    "slug": "soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+    "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+    "content": [
+      "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Soldiers guard center of Milan as thousands of protesters ma... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T07:15:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0bef13014a",
+    "slug": "independent-candidates-sense-a-moment-in-the-west-democrats-are-hoping-theyre-right",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+    "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting.",
+    "content": [
+      "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Independent candidates sense a moment in the West. Democrats... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-702f8b256c",
+    "slug": "in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+    "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country.",
+    "content": [
+      "In a sign of the potentially dire midterm political environment, Republicans have spent millions of dollars playing defense in Arkansas, one of the most conservative states in the country.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "In Arkansas, Democrats see an opening at the edge of the com... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-07c548e757",
+    "slug": "more-dads-taking-paid-family-leave-for-a-new-baby-sometimes-as-much-as-moms-are",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+    "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
+    "content": [
+      "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "More dads taking paid family leave for a new baby, sometimes... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2fa32fdc58",
+    "slug": "when-a-teen-posts-a-selfie-how-much-filter-is-too-much-filter",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+    "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy.",
+    "content": [
+      "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "When a teen posts a selfie, how much filter is 'too much' fi... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b786968887",
+    "slug": "irans-oil-lifeline-is-drying-up-the-biggest-pain-may-fall-on-ordinary-citizens",
+    "guid": "https://www.foxnews.com/politics/irans-oil-lifeline-drying-up-biggest-pain-may-fall-ordinary-citizens",
+    "title": "Iran’s oil lifeline is drying up. The biggest pain may fall on ordinary citizens",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Iran&apos;s floating oil inventory has fallen to zero as the U.S. naval blockade tightens, but the IRGC may be shielded while civilians bear the pain.",
+    "content": [
+      "Iran&apos;s floating oil inventory has fallen to zero as the U.S. naval blockade tightens, but the IRGC may be shielded while civilians bear the pain.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Iranian-Leaders.jpg?ve=1&tl=1",
+    "imageCaption": "Iran’s oil lifeline is drying up. The biggest pain may fall ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T08:00:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-86b49808e3",
+    "slug": "leavitt-says-trump-is-defying-midterm-headwinds-as-he-barnstorms-country",
+    "guid": "https://www.foxnews.com/politics/leavitt-says-trump-defying-midterm-headwinds-he-barnstorms-country",
+    "title": "Leavitt says Trump is defying midterm headwinds as he barnstorms country",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Karoline Leavitt reveals Trump&apos;s blunt strategy to combat negative approval ratings and rally MAGA voters who typically skip midterm cycles.",
+    "content": [
+      "Karoline Leavitt reveals Trump&apos;s blunt strategy to combat negative approval ratings and rally MAGA voters who typically skip midterm cycles.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-karoline-leavitt-fox-news.png?ve=1&tl=1",
+    "imageCaption": "Leavitt says Trump is defying midterm headwinds as he barnst... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T09:00:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-14725896f1",
+    "slug": "alarming-fraud-trend-puts-small-town-mosque-with-industry-and-foreign-govt-ties-in-focus-o",
+    "guid": "https://www.foxnews.com/politics/alarming-fraud-trend-puts-small-town-mosque-industry-foreign-govt-ties-focus-our-motherland-now",
+    "title": "Alarming fraud trend puts small-town mosque with industry and foreign govt ties in focus: ‘Our motherland now’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Fox News Digital found Uzbek trucking companies donated hundreds of thousands to the Islamic Center of Maineville despite serious safety violations.",
+    "content": [
+      "Fox News Digital found Uzbek trucking companies donated hundreds of thousands to the Islamic Center of Maineville despite serious safety violations.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mosque-trucks.jpg?ve=1&tl=1",
+    "imageCaption": "Alarming fraud trend puts small-town mosque with industry an... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T09:00:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-87874ab3af",
+    "slug": "former-israeli-army-chief-gadi-eisenkot-emerges-as-netanyahus-leading-election-challenger",
+    "guid": "https://www.foxnews.com/world/former-israeli-army-chief-gadi-eisenkot-emerges-netanyahus-leading-election-challenger",
+    "title": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A decorated former Israeli army chief has emerged as a leading election challenger after serving in the war cabinet and suffering devastating personal losses following the Oct. 7 attacks.",
+    "content": [
+      "A decorated former Israeli army chief has emerged as a leading election challenger after serving in the war cabinet and suffering devastating personal losses following the Oct. 7 attacks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/gadi-eisenkot-netanyahu.jpg?ve=1&tl=1",
+    "imageCaption": "Former Israeli army chief Gadi Eisenkot emerges as Netanyahu... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T10:00:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f33a87bc5f",
+    "slug": "new-pentagon-ufo-files-detail-fbi-agents-sighting-of-silent-triangular-object-with-no-visi",
+    "guid": "https://www.foxnews.com/us/pentagon-ufo-files-detail-fbi-agents-sighting-silent-triangular-object-no-visible-engines",
+    "title": "New Pentagon UFO files detail FBI agents' sighting of silent triangular object with no visible engines",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "FBI agents described a silent black triangular UAP hovering before accelerating at fighter-jet speeds in newly released Department of War documents.",
+    "content": [
+      "FBI agents described a silent black triangular UAP hovering before accelerating at fighter-jet speeds in newly released Department of War documents.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/AARO-Latest-File-Drop-001.jpg?ve=1&tl=1",
+    "imageCaption": "New Pentagon UFO files detail FBI agents' sighting of silent... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T10:00:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b80a8df8a2",
+    "slug": "inside-the-pentagons-doomsday-plan-to-keep-america-fighting-if-global-war-erupts",
+    "guid": "https://www.foxnews.com/politics/inside-pentagons-doomsday-plan-keep-america-fighting-global-war-erupts",
+    "title": "Inside the Pentagon's doomsday plan to keep America fighting if global war erupts",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Pentagon&apos;s FORTRESS initiative requires every major U.S. military base to sustain operations for 90 days without civilian power or supply chains.",
+    "content": [
+      "The Pentagon&apos;s FORTRESS initiative requires every major U.S. military base to sustain operations for 90 days without civilian power or supply chains.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/army-nuclear-reactor.jpg?ve=1&tl=1",
+    "imageCaption": "Inside the Pentagon's doomsday plan to keep America fighting... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T10:00:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d47527aecb",
+    "slug": "american-culture-quiz-test-yourself-on-famous-feuds-and-skin-secrets",
+    "guid": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-famous-feuds-skin-secrets",
+    "title": "American Culture Quiz: Test yourself on famous feuds and skin secrets",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of famous feuds, skin secrets and a lot more.",
+    "content": [
+      "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of famous feuds, skin secrets and a lot more.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/quiz-collage-1025.jpg?ve=1&tl=1",
+    "imageCaption": "American Culture Quiz: Test yourself on famous feuds and ski... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T10:00:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0f976feb73",
+    "slug": "foster-childrens-autism-therapy-at-risk-as-georgia-lawmakers-step-into-funding-fight",
+    "guid": "https://www.foxnews.com/politics/foster-childrens-autism-therapy-risk-georgia-lawmakers-step-funding-fight",
+    "title": "Foster children's autism therapy at risk as Georgia lawmakers step into funding fight",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Georgia foster children face losing ABA therapy progress after Amerigroup&apos;s 30% Medicaid reimbursement cut, as advocates warn clinics may close.",
+    "content": [
+      "Georgia foster children face losing ABA therapy progress after Amerigroup&apos;s 30% Medicaid reimbursement cut, as advocates warn clinics may close.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brian-strickland-georgia-capitol-autism-therapy-protest.jpg?ve=1&tl=1",
+    "imageCaption": "Foster children's autism therapy at risk as Georgia lawmaker... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T10:00:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-724e3c135e",
+    "slug": "america-by-the-numbers-how-voters-feel-about-the-economy-inflation-ai-and-trump",
+    "guid": "108451928",
+    "title": "America by the numbers: How voters feel about the economy, inflation, AI and Trump",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic.",
+    "content": [
+      "With the U.S. midterm elections looming, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "America by the numbers: How voters feel about the economy, i... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-24T10:58:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-263c9478c8",
     "slug": "drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
     "guid": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
