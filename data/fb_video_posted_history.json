@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T07:29:36.159287+00:00",
-  "posted_count": 14,
+  "last_updated": "2026-10-25T13:07:02.941909+00:00",
+  "posted_count": 15,
   "articles": {
     "dvids-video:1027147": {
       "title": "MacDill celebrates Airmen and families at Fall Fest",
@@ -155,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4401752930041548",
       "fb_comment_id": "4401752930041548_1140516438360296",
       "posted_at": "2026-10-25T07:29:36.159230+00:00"
+    },
+    "dvids-video:1027403": {
+      "title": "1st Sgt. Steven Shives - Houston Texans Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095214/DOD_112095214.mp4",
+      "attached_website_url": "https://ushotnews.online/article/soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
+      "trending_score": 100.0,
+      "format": "video",
+      "fb_video_id": "29524657103793738",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/29524657103793738",
+      "fb_comment_id": "29524657103793738_1757713925310843",
+      "posted_at": "2026-10-25T13:07:02.941838+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T07:28:30.233241+00:00"
+  "last_cleaned_at": "2026-10-25T13:06:05.934178+00:00"
 }
