@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-25T13:53:11.273046+00:00",
+  "last_updated": "2026-10-25T14:50:39.857831+00:00",
   "posted_count": 66,
   "articles": {
-    "scraped-10003a10ea": {
-      "title": "Bose acquires Skullcandy to help it reach a wider audience",
-      "slug": "bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
-      "url": "https://ushotnews.online/article/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
-      "article_url": "https://ushotnews.online/article/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127191301471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127191301471257",
-      "fb_comment_id": "122127191301471257_28601758522853464",
-      "posted_at": "2026-10-22T14:33:16.428923+00:00"
-    },
-    "bose-acquires-skullcandy-to-help-it-reach-a-wider-audience": {
-      "title": "Bose acquires Skullcandy to help it reach a wider audience",
-      "slug": "bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
-      "url": "https://ushotnews.online/article/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
-      "article_url": "https://ushotnews.online/article/bose-acquires-skullcandy-to-help-it-reach-a-wider-audience",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127191301471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127191301471257",
-      "fb_comment_id": "122127191301471257_28601758522853464",
-      "posted_at": "2026-10-22T14:33:16.428923+00:00"
-    },
     "scraped-1dd79363c0": {
       "title": "James Talarico blames rise in GOP 'extremism' for prompting his 'God is non-binary,' six sexes remarks",
       "slug": "james-talarico-blames-rise-in-gop-extremism-for-prompting-his-god-is-non-binary-six-sexes-",
@@ -727,7 +705,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128199319471257",
       "fb_comment_id": "122128199319471257_4005515739755649",
       "posted_at": "2026-10-25T13:53:11.272987+00:00"
+    },
+    "scraped-ecc576f681": {
+      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+      "slug": "saudi-arabia-says-it-intercepted-missiles-and-drones-from-iran-backed-houthis",
+      "url": "https://ushotnews.online/article/saudi-arabia-says-it-intercepted-missiles-and-drones-from-iran-backed-houthis",
+      "article_url": "https://ushotnews.online/article/saudi-arabia-says-it-intercepted-missiles-and-drones-from-iran-backed-houthis",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128212903471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128212903471257",
+      "fb_comment_id": "122128212903471257_4427504697498679",
+      "posted_at": "2026-10-25T14:50:39.857773+00:00"
+    },
+    "saudi-arabia-says-it-intercepted-missiles-and-drones-from-iran-backed-houthis": {
+      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+      "slug": "saudi-arabia-says-it-intercepted-missiles-and-drones-from-iran-backed-houthis",
+      "url": "https://ushotnews.online/article/saudi-arabia-says-it-intercepted-missiles-and-drones-from-iran-backed-houthis",
+      "article_url": "https://ushotnews.online/article/saudi-arabia-says-it-intercepted-missiles-and-drones-from-iran-backed-houthis",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128212903471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128212903471257",
+      "fb_comment_id": "122128212903471257_4427504697498679",
+      "posted_at": "2026-10-25T14:50:39.857773+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T13:53:03.685936+00:00"
+  "last_cleaned_at": "2026-10-25T14:50:29.753021+00:00"
 }
