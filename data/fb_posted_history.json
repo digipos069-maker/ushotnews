@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-25T18:10:12.051347+00:00",
+  "last_updated": "2026-10-25T20:44:13.780933+00:00",
   "posted_count": 68,
   "articles": {
-    "scraped-71b1879b7e": {
-      "title": "Brian Kelly pins blame for Texas' offensive struggles on coach Steve Sarkisian, not Arch Manning",
-      "slug": "brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
-      "url": "https://ushotnews.online/article/brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
-      "article_url": "https://ushotnews.online/article/brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127242451471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127242451471257",
-      "fb_comment_id": "122127242451471257_1817656942853344",
-      "posted_at": "2026-10-22T18:43:25.774212+00:00"
-    },
-    "brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man": {
-      "title": "Brian Kelly pins blame for Texas' offensive struggles on coach Steve Sarkisian, not Arch Manning",
-      "slug": "brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
-      "url": "https://ushotnews.online/article/brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
-      "article_url": "https://ushotnews.online/article/brian-kelly-pins-blame-for-texas-offensive-struggles-on-coach-steve-sarkisian-not-arch-man",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127242451471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127242451471257",
-      "fb_comment_id": "122127242451471257_1817656942853344",
-      "posted_at": "2026-10-22T18:43:25.774212+00:00"
-    },
     "scraped-d2b90a5c1f": {
       "title": "Cyberpunk 2077&#8217;s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox",
       "slug": "cyberpunk-20778217s-update-for-edgerunners-2-brings-mods-to-ps5-switch-2-and-xbox",
@@ -749,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128258575471257",
       "fb_comment_id": "122128258575471257_28063642319975892",
       "posted_at": "2026-10-25T18:10:12.051277+00:00"
+    },
+    "scraped-cc10b740a7": {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "slug": "ropensource-just-banned-ai-non-english-speakers-and-more",
+      "url": "https://ushotnews.online/article/ropensource-just-banned-ai-non-english-speakers-and-more",
+      "article_url": "https://ushotnews.online/article/ropensource-just-banned-ai-non-english-speakers-and-more",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128294707471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128294707471257",
+      "fb_comment_id": "122128294707471257_1161291796469149",
+      "posted_at": "2026-10-25T20:44:13.780874+00:00"
+    },
+    "ropensource-just-banned-ai-non-english-speakers-and-more": {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "slug": "ropensource-just-banned-ai-non-english-speakers-and-more",
+      "url": "https://ushotnews.online/article/ropensource-just-banned-ai-non-english-speakers-and-more",
+      "article_url": "https://ushotnews.online/article/ropensource-just-banned-ai-non-english-speakers-and-more",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128294707471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128294707471257",
+      "fb_comment_id": "122128294707471257_1161291796469149",
+      "posted_at": "2026-10-25T20:44:13.780874+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T18:10:00.544608+00:00"
+  "last_cleaned_at": "2026-10-25T20:43:53.781185+00:00"
 }
