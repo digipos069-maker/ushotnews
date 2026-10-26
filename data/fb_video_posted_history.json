@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-26T19:50:24.403506+00:00",
+  "last_updated": "2026-10-26T23:41:32.343335+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1027329": {
-      "title": "Coast Guard Station Los Angeles-Long Beach keeps Los Angeles Harbors safe for America250 during the Fourth of July",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093162/DOD_112093162.mp4",
-      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1795720568215561",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1795720568215561",
-      "fb_comment_id": "1795720568215561_1445198720277651",
-      "posted_at": "2026-10-23T21:15:35.935914+00:00"
-    },
     "dvids-video:1027341": {
       "title": "No Good Excuse",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093563/DOD_112093563.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1966304761011348",
       "fb_comment_id": "1966304761011348_1080498888144312",
       "posted_at": "2026-10-26T19:50:24.403452+00:00"
+    },
+    "dvids-video:1027597": {
+      "title": "Faces of DLA: Kristie Davis, DLA Disposition Services (open caption)",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112100444/DOD_112100444.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-sony-wh-1000xm4c-bring-back-a-beloved-headphone-design",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "3042500246099351",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3042500246099351",
+      "fb_comment_id": "3042500246099351_1824441195557337",
+      "posted_at": "2026-10-26T23:41:32.343256+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T19:49:08.538835+00:00"
+  "last_cleaned_at": "2026-10-26T23:40:20.463580+00:00"
 }
