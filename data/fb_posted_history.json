@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T20:42:58.242282+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-10-26T23:59:50.616246+00:00",
+  "posted_count": 72,
   "articles": {
     "scraped-932bf816e2": {
       "title": "McMahon plans to 'fire' herself from a job, striving to show Congress that the Department of Ed is not needed",
@@ -771,7 +771,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128686591471257",
       "fb_comment_id": "122128686591471257_1064738643276808",
       "posted_at": "2026-10-26T20:42:58.242214+00:00"
+    },
+    "scraped-68ca6a2b27": {
+      "title": "Oregon Ducks' collapse continues, as loss to Illinois puts Dan Lanning on the hot seat in Eugene",
+      "slug": "oregon-ducks-collapse-continues-as-loss-to-illinois-puts-dan-lanning-on-the-hot-seat-in-eu",
+      "url": "https://ushotnews.online/article/oregon-ducks-collapse-continues-as-loss-to-illinois-puts-dan-lanning-on-the-hot-seat-in-eu",
+      "article_url": "https://ushotnews.online/article/oregon-ducks-collapse-continues-as-loss-to-illinois-puts-dan-lanning-on-the-hot-seat-in-eu",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128741485471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128741485471257",
+      "fb_comment_id": "122128741485471257_3459276780944988",
+      "posted_at": "2026-10-26T23:59:50.616188+00:00"
+    },
+    "oregon-ducks-collapse-continues-as-loss-to-illinois-puts-dan-lanning-on-the-hot-seat-in-eu": {
+      "title": "Oregon Ducks' collapse continues, as loss to Illinois puts Dan Lanning on the hot seat in Eugene",
+      "slug": "oregon-ducks-collapse-continues-as-loss-to-illinois-puts-dan-lanning-on-the-hot-seat-in-eu",
+      "url": "https://ushotnews.online/article/oregon-ducks-collapse-continues-as-loss-to-illinois-puts-dan-lanning-on-the-hot-seat-in-eu",
+      "article_url": "https://ushotnews.online/article/oregon-ducks-collapse-continues-as-loss-to-illinois-puts-dan-lanning-on-the-hot-seat-in-eu",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128741485471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128741485471257",
+      "fb_comment_id": "122128741485471257_3459276780944988",
+      "posted_at": "2026-10-26T23:59:50.616188+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T20:42:49.090303+00:00"
+  "last_cleaned_at": "2026-10-26T23:59:41.720925+00:00"
 }
