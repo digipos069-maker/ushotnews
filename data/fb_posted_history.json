@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T01:32:01.443084+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-10-26T01:35:09.119773+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-2b715e676c": {
       "title": "Vols fans set noise record and terrify Alabama's Kalen DeBoer, Tiff Ann's Halloween costume & Danica stumps!",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128354611471257",
       "fb_comment_id": "122128354611471257_1455612086481199",
       "posted_at": "2026-10-26T01:32:01.443007+00:00"
+    },
+    "scraped-1dc22a34b4": {
+      "title": "NFL fans put on brave face in Paris as Steelers beat Saints with chaos in the city",
+      "slug": "nfl-fans-put-on-brave-face-in-paris-as-steelers-beat-saints-with-chaos-in-the-city",
+      "url": "https://ushotnews.online/article/nfl-fans-put-on-brave-face-in-paris-as-steelers-beat-saints-with-chaos-in-the-city",
+      "article_url": "https://ushotnews.online/article/nfl-fans-put-on-brave-face-in-paris-as-steelers-beat-saints-with-chaos-in-the-city",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128355331471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128355331471257",
+      "fb_comment_id": "122128355331471257_3088093134856211",
+      "posted_at": "2026-10-26T01:35:09.119699+00:00"
+    },
+    "nfl-fans-put-on-brave-face-in-paris-as-steelers-beat-saints-with-chaos-in-the-city": {
+      "title": "NFL fans put on brave face in Paris as Steelers beat Saints with chaos in the city",
+      "slug": "nfl-fans-put-on-brave-face-in-paris-as-steelers-beat-saints-with-chaos-in-the-city",
+      "url": "https://ushotnews.online/article/nfl-fans-put-on-brave-face-in-paris-as-steelers-beat-saints-with-chaos-in-the-city",
+      "article_url": "https://ushotnews.online/article/nfl-fans-put-on-brave-face-in-paris-as-steelers-beat-saints-with-chaos-in-the-city",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128355331471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128355331471257",
+      "fb_comment_id": "122128355331471257_3088093134856211",
+      "posted_at": "2026-10-26T01:35:09.119699+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T01:31:50.359032+00:00"
+  "last_cleaned_at": "2026-10-26T01:34:59.852586+00:00"
 }
