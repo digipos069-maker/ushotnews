@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-25T20:40:36.307993+00:00",
+  "last_updated": "2026-10-26T00:01:40.381248+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1027222": {
-      "title": "Small wins fuel resilience: First Sergeant makes strong comeback one step at a time",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112089963/DOD_112089963.mp4",
-      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2314932689254507",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2314932689254507",
-      "fb_comment_id": "2314932689254507_1100299872708485",
-      "posted_at": "2026-10-22T23:09:41.128866+00:00"
-    },
     "dvids-video:1027260": {
       "title": "U.S. forces allies and partners attend Keen Sword 27 brief",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112090965/DOD_112090965.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4470939716500727",
       "fb_comment_id": "4470939716500727_1537448768409365",
       "posted_at": "2026-10-25T20:40:36.307935+00:00"
+    },
+    "dvids-video:1027440": {
+      "title": "CAS EVAC SIMULATION",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112096872/DOD_112096872.mp4",
+      "attached_website_url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2069492810364226",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2069492810364226",
+      "fb_comment_id": "2069492810364226_1112933534658173",
+      "posted_at": "2026-10-26T00:01:40.381188+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T20:39:31.888201+00:00"
+  "last_cleaned_at": "2026-10-26T00:00:08.812744+00:00"
 }
