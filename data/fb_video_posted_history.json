@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-26T12:39:38.431711+00:00",
+  "last_updated": "2026-10-26T19:50:24.403506+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1027278": {
-      "title": "Barracks Quiet Hours",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112091924/DOD_112091924.mp4",
-      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1649715266617386",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1649715266617386",
-      "fb_comment_id": "1649715266617386_1618707783126561",
-      "posted_at": "2026-10-23T16:50:22.658919+00:00"
-    },
     "dvids-video:1027329": {
       "title": "Coast Guard Station Los Angeles-Long Beach keeps Los Angeles Harbors safe for America250 during the Fourth of July",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093162/DOD_112093162.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1441485830679162",
       "fb_comment_id": "1441485830679162_1383062470570322",
       "posted_at": "2026-10-26T12:39:38.431650+00:00"
+    },
+    "dvids-video:1027544": {
+      "title": "COVID Reinstatement Process",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112099345/DOD_112099345-1920x1080-9000k.mp4",
+      "attached_website_url": "https://ushotnews.online/article/spurned-by-trump-these-outgoing-republicans-arent-helping-their-potential-successors",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1966304761011348",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1966304761011348",
+      "fb_comment_id": "1966304761011348_1080498888144312",
+      "posted_at": "2026-10-26T19:50:24.403452+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T12:38:27.009708+00:00"
+  "last_cleaned_at": "2026-10-26T19:49:08.538835+00:00"
 }
