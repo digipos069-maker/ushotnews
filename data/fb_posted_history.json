@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-25T23:27:23.386238+00:00",
-  "posted_count": 70,
+  "last_updated": "2026-10-26T01:32:01.443084+00:00",
+  "posted_count": 68,
   "articles": {
-    "scraped-f0a786e8fb": {
-      "title": "Jessie James Decker's family beach photo leaves fans stunned by their matching six-pack abs",
-      "slug": "jessie-james-deckers-family-beach-photo-leaves-fans-stunned-by-their-matching-six-pack-abs",
-      "url": "https://ushotnews.online/article/jessie-james-deckers-family-beach-photo-leaves-fans-stunned-by-their-matching-six-pack-abs",
-      "article_url": "https://ushotnews.online/article/jessie-james-deckers-family-beach-photo-leaves-fans-stunned-by-their-matching-six-pack-abs",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127308253471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127308253471257",
-      "fb_comment_id": "122127308253471257_1636313761475537",
-      "posted_at": "2026-10-23T00:07:42.983438+00:00"
-    },
-    "jessie-james-deckers-family-beach-photo-leaves-fans-stunned-by-their-matching-six-pack-abs": {
-      "title": "Jessie James Decker's family beach photo leaves fans stunned by their matching six-pack abs",
-      "slug": "jessie-james-deckers-family-beach-photo-leaves-fans-stunned-by-their-matching-six-pack-abs",
-      "url": "https://ushotnews.online/article/jessie-james-deckers-family-beach-photo-leaves-fans-stunned-by-their-matching-six-pack-abs",
-      "article_url": "https://ushotnews.online/article/jessie-james-deckers-family-beach-photo-leaves-fans-stunned-by-their-matching-six-pack-abs",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127308253471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127308253471257",
-      "fb_comment_id": "122127308253471257_1636313761475537",
-      "posted_at": "2026-10-23T00:07:42.983438+00:00"
-    },
-    "scraped-06e6f31dab": {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
-      "url": "https://ushotnews.online/article/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
-      "article_url": "https://ushotnews.online/article/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127313731471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127313731471257",
-      "fb_comment_id": "122127313731471257_1796652321659975",
-      "posted_at": "2026-10-23T00:49:57.506861+00:00"
-    },
-    "anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent": {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "slug": "anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
-      "url": "https://ushotnews.online/article/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
-      "article_url": "https://ushotnews.online/article/anthropic-takes-on-muse-with-claude-duet-its-new-ai-agent",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127313731471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127313731471257",
-      "fb_comment_id": "122127313731471257_1796652321659975",
-      "posted_at": "2026-10-23T00:49:57.506861+00:00"
-    },
     "scraped-2b715e676c": {
       "title": "Vols fans set noise record and terrify Alabama's Kalen DeBoer, Tiff Ann's Halloween costume & Danica stumps!",
       "slug": "vols-fans-set-noise-record-and-terrify-alabamas-kalen-deboer-tiff-anns-halloween-costume-d",
@@ -771,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128325583471257",
       "fb_comment_id": "122128325583471257_2258654308248957",
       "posted_at": "2026-10-25T23:27:23.386146+00:00"
+    },
+    "scraped-e1a56e253a": {
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "slug": "spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
+      "url": "https://ushotnews.online/article/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
+      "article_url": "https://ushotnews.online/article/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128354611471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128354611471257",
+      "fb_comment_id": "122128354611471257_1455612086481199",
+      "posted_at": "2026-10-26T01:32:01.443007+00:00"
+    },
+    "spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says": {
+      "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+      "slug": "spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
+      "url": "https://ushotnews.online/article/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
+      "article_url": "https://ushotnews.online/article/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128354611471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128354611471257",
+      "fb_comment_id": "122128354611471257_1455612086481199",
+      "posted_at": "2026-10-26T01:32:01.443007+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-25T23:27:13.127047+00:00"
+  "last_cleaned_at": "2026-10-26T01:31:50.359032+00:00"
 }
