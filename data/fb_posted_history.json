@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T14:29:53.586094+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-10-26T15:06:44.602020+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-2f4b66a419": {
       "title": "World Series preview: Why the Milwaukee Brewers are the team to beat against the Tampa Bay Rays",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128576971471257",
       "fb_comment_id": "122128576971471257_1810621240274034",
       "posted_at": "2026-10-26T14:29:53.586035+00:00"
+    },
+    "scraped-a69eee5a5e": {
+      "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+      "slug": "australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "url": "https://ushotnews.online/article/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "article_url": "https://ushotnews.online/article/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128591791471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128591791471257",
+      "fb_comment_id": "122128591791471257_1162888359742141",
+      "posted_at": "2026-10-26T15:06:44.601955+00:00"
+    },
+    "australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban": {
+      "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+      "slug": "australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "url": "https://ushotnews.online/article/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "article_url": "https://ushotnews.online/article/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128591791471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128591791471257",
+      "fb_comment_id": "122128591791471257_1162888359742141",
+      "posted_at": "2026-10-26T15:06:44.601955+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T14:29:45.469220+00:00"
+  "last_cleaned_at": "2026-10-26T15:06:32.628320+00:00"
 }
