@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T20:06:44.410176+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-10-26T20:42:58.242282+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-932bf816e2": {
       "title": "McMahon plans to 'fire' herself from a job, striving to show Congress that the Department of Ed is not needed",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128681203471257",
       "fb_comment_id": "122128681203471257_1464996355695862",
       "posted_at": "2026-10-26T20:06:44.410110+00:00"
+    },
+    "scraped-70205ab75f": {
+      "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Eagles vs Cowboys",
+      "slug": "underdog-promo-code-foxnews-play-10-get-50-on-eagles-vs-cowboys",
+      "url": "https://ushotnews.online/article/underdog-promo-code-foxnews-play-10-get-50-on-eagles-vs-cowboys",
+      "article_url": "https://ushotnews.online/article/underdog-promo-code-foxnews-play-10-get-50-on-eagles-vs-cowboys",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128686591471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128686591471257",
+      "fb_comment_id": "122128686591471257_1064738643276808",
+      "posted_at": "2026-10-26T20:42:58.242214+00:00"
+    },
+    "underdog-promo-code-foxnews-play-10-get-50-on-eagles-vs-cowboys": {
+      "title": "Underdog Promo Code FOXNEWS: Play $10, Get $50 on Eagles vs Cowboys",
+      "slug": "underdog-promo-code-foxnews-play-10-get-50-on-eagles-vs-cowboys",
+      "url": "https://ushotnews.online/article/underdog-promo-code-foxnews-play-10-get-50-on-eagles-vs-cowboys",
+      "article_url": "https://ushotnews.online/article/underdog-promo-code-foxnews-play-10-get-50-on-eagles-vs-cowboys",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128686591471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128686591471257",
+      "fb_comment_id": "122128686591471257_1064738643276808",
+      "posted_at": "2026-10-26T20:42:58.242214+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T20:06:34.481020+00:00"
+  "last_cleaned_at": "2026-10-26T20:42:49.090303+00:00"
 }
