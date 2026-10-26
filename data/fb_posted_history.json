@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T07:27:25.172169+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-10-26T07:42:26.121153+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-6fb119b66f": {
       "title": "Why local officials are feeling 'on edge' as election day approaches",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128438155471257",
       "fb_comment_id": "122128438155471257_1640047781197574",
       "posted_at": "2026-10-26T07:27:25.172105+00:00"
+    },
+    "scraped-4108c89763": {
+      "title": "College homecoming party turns to chaos as deck collapses, leaving at least 28 people injured",
+      "slug": "college-homecoming-party-turns-to-chaos-as-deck-collapses-leaving-at-least-28-people-injur",
+      "url": "https://ushotnews.online/article/college-homecoming-party-turns-to-chaos-as-deck-collapses-leaving-at-least-28-people-injur",
+      "article_url": "https://ushotnews.online/article/college-homecoming-party-turns-to-chaos-as-deck-collapses-leaving-at-least-28-people-injur",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128440855471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128440855471257",
+      "fb_comment_id": "122128440855471257_1007062955116054",
+      "posted_at": "2026-10-26T07:42:26.121068+00:00"
+    },
+    "college-homecoming-party-turns-to-chaos-as-deck-collapses-leaving-at-least-28-people-injur": {
+      "title": "College homecoming party turns to chaos as deck collapses, leaving at least 28 people injured",
+      "slug": "college-homecoming-party-turns-to-chaos-as-deck-collapses-leaving-at-least-28-people-injur",
+      "url": "https://ushotnews.online/article/college-homecoming-party-turns-to-chaos-as-deck-collapses-leaving-at-least-28-people-injur",
+      "article_url": "https://ushotnews.online/article/college-homecoming-party-turns-to-chaos-as-deck-collapses-leaving-at-least-28-people-injur",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128440855471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128440855471257",
+      "fb_comment_id": "122128440855471257_1007062955116054",
+      "posted_at": "2026-10-26T07:42:26.121068+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T07:27:10.493724+00:00"
+  "last_cleaned_at": "2026-10-26T07:42:17.971078+00:00"
 }
