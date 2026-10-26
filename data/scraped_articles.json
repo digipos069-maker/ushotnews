@@ -1,5 +1,449 @@
 [
   {
+    "id": "scraped-eec086cf4f",
+    "slug": "brazils-left-wing-president-lula-elected-for-fourth-term",
+    "guid": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+    "title": "Brazil's left-wing President Lula elected for fourth term",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
+    "content": [
+      "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Brazil's left-wing President Lula elected for fourth term... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T00:35:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d4dccdae23",
+    "slug": "david-marcus-the-future-of-the-gop-in-new-england-rides-on-maines-senate-vote",
+    "guid": "https://www.foxnews.com/opinion/david-marcus-future-gop-new-england-rides-maines-senate-vote",
+    "title": "DAVID MARCUS: The future of the GOP in New England rides on Maine’s Senate vote",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Susan Collins faces Democrat Troy Jackson in Maine&apos;s Senate race as New England&apos;s last Republican senator fights to prove centrism still works.",
+    "content": [
+      "Susan Collins faces Democrat Troy Jackson in Maine&apos;s Senate race as New England&apos;s last Republican senator fights to prove centrism still works.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/931/523/110912_ohio.jpg?ve=1&tl=1",
+    "imageCaption": "DAVID MARCUS: The future of the GOP in New England rides on ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T23:23:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-297fb61638",
+    "slug": "nfls-french-national-anthem-performer-nina-tonji-alters-words-to-la-marseillaise-sparking-",
+    "guid": "https://www.foxnews.com/outkick-sports/nfl-french-national-anthem-performer-nina-tonji-alters-words-la-marseillaise-sparking-outrage-france",
+    "title": "NFL's French national anthem performer Nina Tonji alters words to La Marseillaise, sparking outrage in France",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Nina Tonji changed impure to united in La Marseillaise before the Pittsburgh Steelers and New Orleans Saints game amid immigration unrest.",
+    "content": [
+      "Nina Tonji changed impure to united in La Marseillaise before the Pittsburgh Steelers and New Orleans Saints game amid immigration unrest.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nina-tonji-french-national-anthem-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "NFL's French national anthem performer Nina Tonji alters wor... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-25T23:36:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-941cd5d952",
+    "slug": "donna-mills-85-draws-the-line-at-unexpected-onlyfans-request-im-not-going-to",
+    "guid": "https://www.foxnews.com/entertainment/donna-mills-85-draws-line-unexpected-onlyfans-request-im-not-going",
+    "title": "Donna Mills, 85, draws the line at unexpected OnlyFans request: ‘I’m not going to’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Knots Landing star Donna Mills revealed the one surprising everyday activity she refuses to film for her OnlyFans subscribers.",
+    "content": [
+      "Knots Landing star Donna Mills revealed the one surprising everyday activity she refuses to film for her OnlyFans subscribers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/donna-mills-tamron-hall-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "Donna Mills, 85, draws the line at unexpected OnlyFans reque... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T00:01:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-380f41c993",
+    "slug": "todd-blanche-challenges-dana-bash-for-only-citing-part-of-constitution-during-heated-elect",
+    "guid": "https://www.foxnews.com/media/todd-blanche-challenges-dana-bash-only-citing-part-constitution-during-heated-election-clash",
+    "title": "Todd Blanche challenges Dana Bash for only citing part of Constitution during heated election clash",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Todd Blanche demanded CNN show the full Elections Clause in the Constitution on air after Dana Bash highlighted only the first portion during a tense legal debate.",
+    "content": [
+      "Todd Blanche demanded CNN show the full Elections Clause in the Constitution on air after Dana Bash highlighted only the first portion during a tense legal debate.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/todd-blanche-doj-news-conference.jpg?ve=1&tl=1",
+    "imageCaption": "Todd Blanche challenges Dana Bash for only citing part of Co... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T00:11:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7a9b303f9d",
+    "slug": "conservative-wave-hits-roadblock-in-brazil-as-lula-holds-off-bolsonaro-challenge",
+    "guid": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
+    "title": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "In a tight election, incumbent President Lula da Silva bested Senator Flavio Bolsonaro in Brazil.",
+    "content": [
+      "In a tight election, incumbent President Lula da Silva bested Senator Flavio Bolsonaro in Brazil.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brazil-election-1.png?ve=1&tl=1",
+    "imageCaption": "Conservative wave hits roadblock in Brazil as Lula holds off... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T00:27:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2fb7ec90c6",
+    "slug": "israel-drills-for-surprise-attack-with-massive-military-exercise-as-expert-invokes-1973-wa",
+    "guid": "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war",
+    "title": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Israel&apos;s largest military drill in years mobilizes multiple divisions to counter border infiltrations, as an analyst invokes the 1973 Yom Kippur War.",
+    "content": [
+      "Israel&apos;s largest military drill in years mobilizes multiple divisions to counter border infiltrations, as an analyst invokes the 1973 Yom Kippur War.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/israeli-soldiers-northern-israel-.jpg?ve=1&tl=1",
+    "imageCaption": "Israel drills for surprise attack with massive military exer... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T00:42:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1dc22a34b4",
+    "slug": "nfl-fans-put-on-brave-face-in-paris-as-steelers-beat-saints-with-chaos-in-the-city",
+    "guid": "https://www.foxnews.com/outkick-sports/nfl-fans-brave-face-paris-steelers-beat-saints-chaos-city",
+    "title": "NFL fans put on brave face in Paris as Steelers beat Saints with chaos in the city",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "While NFL fans braved Paris amid civil unrest and violent protests to attend the first-ever game in France, some told OutKick it hasn&apos;t been as bad as expected.",
+    "content": [
+      "While NFL fans braved Paris amid civil unrest and violent protests to attend the first-ever game in France, some told OutKick it hasn&apos;t been as bad as expected.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/police-patrol-stade-de-france-paris.jpg?ve=1&tl=1",
+    "imageCaption": "NFL fans put on brave face in Paris as Steelers beat Saints ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T00:58:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-15239a4dd5",
+    "slug": "jd-vance-sees-bengals-making-a-run-but-thats-understandable-because-hes-a-fan-especially-o",
+    "guid": "https://www.foxnews.com/outkick-sports/jd-vance-sees-bengals-making-run-understandable-fan-jamarr-chase",
+    "title": "JD Vance sees Bengals making 'a run' but that's understandable because he's a fan, especially of Ja'Marr Chase",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "JD Vance predicted the Cincinnati Bengals will make a run after Joe Burrow threw four touchdown passes in a dominant second-half comeback.",
+    "content": [
+      "JD Vance predicted the Cincinnati Bengals will make a run after Joe Burrow threw four touchdown passes in a dominant second-half comeback.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jd-vance-bengal-102326.jpg?ve=1&tl=1",
+    "imageCaption": "JD Vance sees Bengals making 'a run' but that's understandab... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T01:11:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-19d1457704",
+    "slug": "behind-mad-money-was-a-brilliant-writer-viewers-never-saw-we-lost-him-too-soon",
+    "guid": "108460890",
+    "title": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
+    "content": [
+      "Jim Cramer remembers Cliff Mason, the head writer of \"Mad Money,\" who died last week at age 41.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Behind ‘Mad Money’ was a brilliant writer viewers never saw.... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T00:28:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e1a56e253a",
+    "slug": "spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
+    "guid": "108461509",
+    "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+    "content": [
+      "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T00:37:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9b35e0db59",
+    "slug": "brazils-lula-wins-presidential-election-in-runoff-vote",
+    "guid": "108461512",
+    "title": "Brazil's Lula wins presidential election in runoff vote",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Brazil's Lula wins record fourth term in presidential runoff with markets falling and real set to weaken.",
+    "content": [
+      "Brazil's Lula wins record fourth term in presidential runoff with markets falling and real set to weaken.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Brazil's Lula wins presidential election in runoff vote... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T01:10:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-213ff86ce5",
     "slug": "scott-walkers-the-drift-will-get-under-your-skin",
     "guid": "https://www.theverge.com/?p=1018300",
