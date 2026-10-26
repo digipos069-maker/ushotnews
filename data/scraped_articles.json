@@ -1,5 +1,708 @@
 [
   {
+    "id": "scraped-855da1ba87",
+    "slug": "blakemans-bank-statements-dont-match-his-disclosure-reports",
+    "guid": "000001a1-7a0e-dcfd-a3e1-7e6f2c870000",
+    "title": "Blakeman’s bank statements don’t match his disclosure reports",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Blakeman’s bank statements don’t match his disclosure reports",
+    "content": [
+      "WASHINGTON — In a developing report from the Economy desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Blakeman’s bank statements don’t match his disclosure report... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T21:38:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8ef1ceff60",
+    "slug": "anthropic-is-burning-gas-to-feed-the-ai-boom",
+    "guid": "https://www.theverge.com/?p=1018994",
+    "title": "Anthropic is burning gas to feed the AI boom",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
+    "content": [
+      "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic is burning gas to feed the AI boom... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T21:45:31+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a327375d38",
+    "slug": "samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50",
+    "guid": "https://www.theverge.com/?p=1018962",
+    "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&#38;H Photo) and the 512GB version $99 (Amazon, B&#38;H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and [&#8230;]",
+    "content": [
+      "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&#38;H Photo) and the 512GB version $99 (Amazon, B&#38;H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Samsung’s Switch 2-ready MicroSD Express card is on sale for... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T21:56:36+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c1f968c7fc",
+    "slug": "openai-announces-three-big-science-discoveries-and-a-new-way-to-work-with-academics",
+    "guid": "https://www.theverge.com/?p=1019143",
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
+    "content": [
+      "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI announces three big science discoveries and a new way... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T23:34:58+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-68ca6a2b27",
+    "slug": "oregon-ducks-collapse-continues-as-loss-to-illinois-puts-dan-lanning-on-the-hot-seat-in-eu",
+    "guid": "https://www.foxnews.com/outkick-sports/oregon-ducks-collapse-continues-loss-illinois-puts-dan-lanning-hot-seat-eugene",
+    "title": "Oregon Ducks' collapse continues, as loss to Illinois puts Dan Lanning on the hot seat in Eugene",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Oregon Ducks football dropped from the AP Poll after seven turnovers against UCLA and a stunning loss at Illinois despite being 10.5-point favorites.",
+    "content": [
+      "Oregon Ducks football dropped from the AP Poll after seven turnovers against UCLA and a stunning loss at Illinois despite being 10.5-point favorites.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/dan-lanning-looks-on-oregon-jmu.jpg?ve=1&tl=1",
+    "imageCaption": "Oregon Ducks' collapse continues, as loss to Illinois puts D... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T21:48:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cc9751d22c",
+    "slug": "robert-griffin-iii-says-he-would-100-take-baylors-vacant-head-football-coach-job",
+    "guid": "https://www.foxnews.com/outkick-sports/robert-griffin-iii-100-percent-take-baylor-vacant-head-football-coach-job",
+    "title": "Robert Griffin III says he would '100%' take Baylor's vacant head football coach job",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Robert Griffin III says he&apos;d 100% take the Baylor Bears head coaching job, revealing he&apos;s already spoken with athletic director Doug McNamee.",
+    "content": [
+      "Robert Griffin III says he&apos;d 100% take the Baylor Bears head coaching job, revealing he&apos;s already spoken with athletic director Doug McNamee.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/robert-griffin-iii-afc-divisional-fox-news-001.jpeg?ve=1&tl=1",
+    "imageCaption": "Robert Griffin III says he would '100%' take Baylor's vacant... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T21:58:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a5d673b580",
+    "slug": "not-even-sky-high-gas-prices-or-the-iran-war-will-stop-trump-supporters-voting-maga",
+    "guid": "https://www.foxnews.com/politics/sky-high-gas-prices-iran-war-wont-stop-trump-supporters-voting-maga",
+    "title": "Not even sky high gas prices or the Iran war will stop Trump supporters voting MAGA",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "MAGA voters at a Michigan Trump rally dismiss rising gas prices and the Iran war as temporary sacrifices, vowing to back Republicans in midterms.",
+    "content": [
+      "MAGA voters at a Michigan Trump rally dismiss rising gas prices and the Iran war as temporary sacrifices, vowing to back Republicans in midterms.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/donald-trump-with-MAGA-faithful-Port-Huron-MI-Oct.-25_-2026.jpeg?ve=1&tl=1",
+    "imageCaption": "Not even sky high gas prices or the Iran war will stop Trump... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T22:00:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e7a7bf79cb",
+    "slug": "deadly-security-risks-prompt-updated-travel-warnings-for-13-countries",
+    "guid": "https://www.foxnews.com/travel/deadly-security-risks-prompt-updated-travel-warnings-13-countries",
+    "title": "Deadly security risks prompt updated travel warnings for 13 countries",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Citing Iranian-backed Houthi attacks and escalation risks for Americans, the State Department has now updated advisories for 13 Middle Eastern countries.",
+    "content": [
+      "Citing Iranian-backed Houthi attacks and escalation risks for Americans, the State Department has now updated advisories for 13 Middle Eastern countries.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/MIDDLE-EAST-TRAVEL-WARNING-SAFETY-TERRORIST-ATTACKS-1.jpg?ve=1&tl=1",
+    "imageCaption": "Deadly security risks prompt updated travel warnings for 13 ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T22:33:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-391018595f",
+    "slug": "jon-gosselin-claims-hes-perfect-strangers-now-with-six-of-his-kids-after-years-of-no-conta",
+    "guid": "https://www.foxnews.com/entertainment/jon-gosselin-claims-hes-perfect-strangers-now-six-his-kids-after-years-no-contact",
+    "title": "Jon Gosselin claims he's 'perfect strangers now' with six of his kids after years of no contact",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jon Gosselin reveals he hasn&apos;t spoken to six of his eight children in years, calling them perfect strangers amid Collin Gosselin&apos;s memoir.",
+    "content": [
+      "Jon Gosselin reveals he hasn&apos;t spoken to six of his eight children in years, calling them perfect strangers amid Collin Gosselin&apos;s memoir.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jon-gosselin.jpg?ve=1&tl=1",
+    "imageCaption": "Jon Gosselin claims he's 'perfect strangers now' with six of... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T22:46:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-10fa9099ea",
+    "slug": "illegal-alien-pleads-guilty-to-staging-fake-kidnapping-to-target-border-patrol",
+    "guid": "https://www.foxnews.com/us/illegal-alien-pleads-guilty-staging-fake-kidnapping-target-border-patrol",
+    "title": "Illegal alien pleads guilty to staging fake kidnapping to target Border Patrol",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Yuriana Julia Pelaez Calderón allegedly fabricated her abduction, altered her appearance and hid in California to build a lawsuit against Border Patrol.",
+    "content": [
+      "Yuriana Julia Pelaez Calderón allegedly fabricated her abduction, altered her appearance and hid in California to build a lawsuit against Border Patrol.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/calderon.jpg?ve=1&tl=1",
+    "imageCaption": "Illegal alien pleads guilty to staging fake kidnapping to ta... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T23:40:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5097ec4c81",
+    "slug": "raiders-coach-keeping-kirk-cousins-as-starting-qb-despite-4-game-win-streak-top-pick-ferna",
+    "guid": "https://www.foxnews.com/outkick-sports/raiders-coach-keeping-kirk-cousins-starting-qb-despite-4-game-win-streak-top-pick-fernando-mendoza-waiting",
+    "title": "Raiders coach keeping Kirk Cousins as starting QB despite 4-game win streak, top pick Fernando Mendoza waiting",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kirk Cousins leads the NFL with 16 passing touchdowns, but the Las Vegas Raiders&apos; four-game skid has fans calling for Fernando Mendoza&apos;s debut.",
+    "content": [
+      "Kirk Cousins leads the NFL with 16 passing touchdowns, but the Las Vegas Raiders&apos; four-game skid has fans calling for Fernando Mendoza&apos;s debut.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Fernando-Mendoza-Raiders.jpg?ve=1&tl=1",
+    "imageCaption": "Raiders coach keeping Kirk Cousins as starting QB despite 4-... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T23:50:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0056ca158c",
+    "slug": "detransitioner-says-she-was-denied-opportunity-to-deliver-talarico-a-message-at-cnn-town-h",
+    "guid": "https://www.foxnews.com/media/detransitioner-says-she-denied-opportunity-deliver-talarico-message-cnn-town-hall",
+    "title": "Detransitioner says she was denied opportunity to deliver Talarico a message at CNN town hall",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Soren Aldaco alleges she was denied an opportunity by CNN to attend a town hall and ask Texas Senate candidate James Talarico questions about his position on gender surgeries.",
+    "content": [
+      "Soren Aldaco alleges she was denied an opportunity by CNN to attend a town hall and ask Texas Senate candidate James Talarico questions about his position on gender surgeries.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/detransitioner-talarico.png?ve=1&tl=1",
+    "imageCaption": "Detransitioner says she was denied opportunity to deliver Ta... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T23:52:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7020c1d0dc",
+    "slug": "jim-cramer-warns-this-overlooked-danger-could-threaten-the-market-rally",
+    "guid": "108465399",
+    "title": "Jim Cramer warns this overlooked danger could threaten the market rally",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "CNBC’s Jim Cramer warned that a flood of massive IPOs could threaten the bull market's rally.",
+    "content": [
+      "CNBC’s Jim Cramer warned that a flood of massive IPOs could threaten the bull market's rally.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer warns this overlooked danger could threaten the m... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T22:09:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b048629edb",
+    "slug": "blackberry-reinvented-ceo-sees-big-opportunities-ai-powered-robots",
+    "guid": "108465772",
+    "title": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.",
+    "content": [
+      "BlackBerry CEO John Giamatteo sees AI-powered robots as a major growth opportunity.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "BlackBerry reinvented: CEO sees big opportunities AI-powered... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T22:34:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a6fa1919c8",
+    "slug": "jetblue-posts-bigger-loss-on-fuel-costs-but-ceo-says-margins-improving",
+    "guid": "108465212",
+    "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+    "content": [
+      "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "JetBlue posts bigger loss on fuel costs, but CEO says margin... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T21:18:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a93e9df38e",
+    "slug": "bessent-dines-at-cheesecake-factory-slams-obama-over-trump-joke",
+    "guid": "108465314",
+    "title": "Bessent dines at Cheesecake Factory, slams Obama over Trump joke",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+    "content": [
+      "Cheesecake Factory has emerged as a campaign talking point before next week's election, with Treasury Secretary Scott Bessent dining there Monday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bessent dines at Cheesecake Factory, slams Obama over Trump ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T21:38:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c063d4f13e",
+    "slug": "bank-of-japan-is-expected-to-hold-rates-this-week-but-stay-hawkish-cnbc-survey",
+    "guid": "108462623",
+    "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+    "content": [
+      "All survey respondents said they expect the BOJ to set the stage for a rate hike in December or January, as inflation and wages continue to rise.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bank of Japan is expected to hold rates this week — but stay... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T23:51:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ca1f5a9a33",
+    "slug": "doj-charges-ex-fbi-director-james-comey-in-new-case",
+    "guid": "108465785",
+    "title": "DOJ charges ex-FBI Director James Comey in new case",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
+    "content": [
+      "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "DOJ charges ex-FBI Director James Comey in new case... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T22:24:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-94d754b949",
+    "slug": "from-wall-street-to-silicon-valley-anthropic-ipo-poised-to-have-massive-trickle-down-effec",
+    "guid": "108360561",
+    "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+    "content": [
+      "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "From Wall Street to Silicon Valley, Anthropic IPO poised to ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-26T22:50:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-2aefa395be",
     "slug": "the-sony-wh-1000xm4c-bring-back-a-beloved-headphone-design",
     "guid": "https://www.theverge.com/?p=1018115",
