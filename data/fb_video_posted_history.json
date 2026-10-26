@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-26T04:36:13.382549+00:00",
+  "last_updated": "2026-10-26T12:39:38.431711+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1027281": {
-      "title": "1st Lt. Justin Fajardo - San Francisco 49ers Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112091986/DOD_112091986.mp4",
-      "attached_website_url": "https://ushotnews.online/article/star-wars-zero-company-is-a-must-play-strategy-game-at-20-percent-off",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1099725016313280",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1099725016313280",
-      "fb_comment_id": "1099725016313280_2218438489082047",
-      "posted_at": "2026-10-23T11:22:41.851499+00:00"
-    },
     "dvids-video:1027278": {
       "title": "Barracks Quiet Hours",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112091924/DOD_112091924.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2446393362798795",
       "fb_comment_id": "2446393362798795_2110325236523520",
       "posted_at": "2026-10-26T04:36:13.382484+00:00"
+    },
+    "dvids-video:1027496": {
+      "title": "Keen Sword 27: U.S. Marines and JGSDF CQB training",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112098290/DOD_112098290.mp4",
+      "attached_website_url": "https://ushotnews.online/article/ninth-circuit-questions-trump-dojs-emergency-request-to-set-aside-20000-california-mail-ba",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1441485830679162",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1441485830679162",
+      "fb_comment_id": "1441485830679162_1383062470570322",
+      "posted_at": "2026-10-26T12:39:38.431650+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T04:35:38.678848+00:00"
+  "last_cleaned_at": "2026-10-26T12:38:27.009708+00:00"
 }
