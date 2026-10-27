@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-27T11:55:43.493703+00:00",
-  "posted_count": 15,
+  "last_updated": "2026-10-27T17:50:02.905621+00:00",
+  "posted_count": 14,
   "articles": {
-    "dvids-video:1027355": {
-      "title": "Team Little Rock hosts 5K Reverse Ruck for Domestic Violence Awareness",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093716/DOD_112093716.mp4",
-      "attached_website_url": "https://ushotnews.online/article/trump-makes-alaska-the-latest-frontier-in-his-election-power-grab",
-      "trending_score": 75.0,
-      "format": "video",
-      "fb_video_id": "1133008175783154",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1133008175783154",
-      "fb_comment_id": "1133008175783154_975899041681906",
-      "posted_at": "2026-10-24T12:34:57.925174+00:00"
-    },
-    "dvids-video:1027387": {
-      "title": "B-ROLL: NFL Leadership Visits Suresnes American Cemetery, Honors Fallen Service Members",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095073/DOD_112095073.mp4",
-      "attached_website_url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1105554495719576",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1105554495719576",
-      "fb_comment_id": "1105554495719576_1116019147499751",
-      "posted_at": "2026-10-24T17:18:21.114192+00:00"
-    },
     "dvids-video:1027398": {
       "title": "B-ROLL: NFL Leadership Visits Suresnes American Cemetery, Honors Fallen Service Members",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095185/DOD_112095185.mp4",
@@ -166,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/5580378902186545",
       "fb_comment_id": "5580378902186545_1860050105034717",
       "posted_at": "2026-10-27T11:55:43.493645+00:00"
+    },
+    "dvids-video:1027660": {
+      "title": "Lethal Kinetic Strike, October 27, 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112102249/DOD_112102249.mp4",
+      "attached_website_url": "https://ushotnews.online/article/palmer-luckeys-anduril-is-getting-into-laptops-and-claims-they8217ll-be-american-made",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2109243856620664",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2109243856620664",
+      "fb_comment_id": "2109243856620664_1052100114516250",
+      "posted_at": "2026-10-27T17:50:02.905566+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T11:54:31.814863+00:00"
+  "last_cleaned_at": "2026-10-27T17:48:56.464629+00:00"
 }
