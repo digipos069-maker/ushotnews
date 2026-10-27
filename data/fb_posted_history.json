@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T04:49:18.165727+00:00",
-  "posted_count": 72,
+  "last_updated": "2026-10-27T05:30:18.495437+00:00",
+  "posted_count": 74,
   "articles": {
     "scraped-ffe63e785f": {
       "title": "OpenAI now trains its frontier AI models with no internet access",
@@ -793,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128801227471257",
       "fb_comment_id": "122128801227471257_1469000088680407",
       "posted_at": "2026-10-27T04:49:18.165665+00:00"
+    },
+    "scraped-a327375d38": {
+      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "slug": "samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50",
+      "url": "https://ushotnews.online/article/samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50",
+      "article_url": "https://ushotnews.online/article/samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128810035471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128810035471257",
+      "fb_comment_id": "122128810035471257_1667893014870131",
+      "posted_at": "2026-10-27T05:30:18.495377+00:00"
+    },
+    "samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50": {
+      "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
+      "slug": "samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50",
+      "url": "https://ushotnews.online/article/samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50",
+      "article_url": "https://ushotnews.online/article/samsungs-switch-2-ready-microsd-express-card-is-on-sale-for-less-than-50",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128810035471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128810035471257",
+      "fb_comment_id": "122128810035471257_1667893014870131",
+      "posted_at": "2026-10-27T05:30:18.495377+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T04:49:10.805291+00:00"
+  "last_cleaned_at": "2026-10-27T05:30:08.407189+00:00"
 }
