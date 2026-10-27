@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T23:59:50.616246+00:00",
-  "posted_count": 72,
+  "last_updated": "2026-10-27T00:21:20.828239+00:00",
+  "posted_count": 74,
   "articles": {
     "scraped-932bf816e2": {
       "title": "McMahon plans to 'fire' herself from a job, striving to show Congress that the Department of Ed is not needed",
@@ -793,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128741485471257",
       "fb_comment_id": "122128741485471257_3459276780944988",
       "posted_at": "2026-10-26T23:59:50.616188+00:00"
+    },
+    "scraped-5097ec4c81": {
+      "title": "Raiders coach keeping Kirk Cousins as starting QB despite 4-game win streak, top pick Fernando Mendoza waiting",
+      "slug": "raiders-coach-keeping-kirk-cousins-as-starting-qb-despite-4-game-win-streak-top-pick-ferna",
+      "url": "https://ushotnews.online/article/raiders-coach-keeping-kirk-cousins-as-starting-qb-despite-4-game-win-streak-top-pick-ferna",
+      "article_url": "https://ushotnews.online/article/raiders-coach-keeping-kirk-cousins-as-starting-qb-despite-4-game-win-streak-top-pick-ferna",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128745511471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128745511471257",
+      "fb_comment_id": "122128745511471257_1809004903440030",
+      "posted_at": "2026-10-27T00:21:20.828158+00:00"
+    },
+    "raiders-coach-keeping-kirk-cousins-as-starting-qb-despite-4-game-win-streak-top-pick-ferna": {
+      "title": "Raiders coach keeping Kirk Cousins as starting QB despite 4-game win streak, top pick Fernando Mendoza waiting",
+      "slug": "raiders-coach-keeping-kirk-cousins-as-starting-qb-despite-4-game-win-streak-top-pick-ferna",
+      "url": "https://ushotnews.online/article/raiders-coach-keeping-kirk-cousins-as-starting-qb-despite-4-game-win-streak-top-pick-ferna",
+      "article_url": "https://ushotnews.online/article/raiders-coach-keeping-kirk-cousins-as-starting-qb-despite-4-game-win-streak-top-pick-ferna",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128745511471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128745511471257",
+      "fb_comment_id": "122128745511471257_1809004903440030",
+      "posted_at": "2026-10-27T00:21:20.828158+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T23:59:41.720925+00:00"
+  "last_cleaned_at": "2026-10-27T00:21:09.498795+00:00"
 }
