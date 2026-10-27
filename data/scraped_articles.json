@@ -1,5 +1,412 @@
 [
   {
+    "id": "scraped-f7c5ea209c",
+    "slug": "trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+    "guid": "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+    "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit.",
+    "content": [
+      "The Trump administration is attempting to prosecute James Comey for what it calls a decade-old leak of classified information. Comey's lawyers immediately dismissed the effort as invalid and outside the time limit.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump administration attempting to prosecute former FBI Dire... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T00:31:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-425313181a",
+    "slug": "middle-school-teacher-arrested-in-alleged-prostitution-scheme-at-casino-hotel",
+    "guid": "https://www.foxnews.com/us/middle-school-teacher-arrested-alleged-prostitution-scheme-casino-hotel",
+    "title": "Middle school teacher arrested in alleged prostitution scheme at casino hotel",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Middle Township middle school teacher was fired after allegedly helping restrain a man during a prostitution-related robbery in a casino hotel room.",
+    "content": [
+      "The Middle Township middle school teacher was fired after allegedly helping restrain a man during a prostitution-related robbery in a casino hotel room.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/middle-township-middle-school.jpg?ve=1&tl=1",
+    "imageCaption": "Middle school teacher arrested in alleged prostitution schem... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T02:13:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a9046602f0",
+    "slug": "brandi-kruse-tells-laura-ingraham-about-being-forced-out-of-portland-soccer-game-we-did-no",
+    "guid": "https://www.foxnews.com/outkick-sports/brandi-kruse-tells-laura-ingraham-about-being-forced-out-portland-soccer-game-we-did-nothing-wrong",
+    "title": "Brandi Kruse tells Laura Ingraham about being forced out of Portland soccer game: 'We did nothing wrong'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Brandi Kruse describes being forcibly removed from a Portland Thorns match for wearing XX-XY shirts while those who allegedly attacked stayed.",
+    "content": [
+      "Brandi Kruse describes being forcibly removed from a Portland Thorns match for wearing XX-XY shirts while those who allegedly attacked stayed.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/portland-save-womens-sports-002.jpg?ve=1&tl=1",
+    "imageCaption": "Brandi Kruse tells Laura Ingraham about being forced out of ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T02:19:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-de2f9bcf6f",
+    "slug": "jay-z-to-headline-apple-music-super-bowl-lxi-halftime-show-in-los-angeles",
+    "guid": "https://www.foxnews.com/sports/jay-z-headline-super-bowl-lxi-halftime-show-los-angeles",
+    "title": "Jay-Z to headline Apple Music Super Bowl LXI Halftime Show in Los Angeles",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Apple Music announced Jay-Z will headline the Super Bowl LXI halftime show at SoFi Stadium in Inglewood, California, set for Feb. 14, 2027..",
+    "content": [
+      "Apple Music announced Jay-Z will headline the Super Bowl LXI halftime show at SoFi Stadium in Inglewood, California, set for Feb. 14, 2027..",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/523/787ae4e2-jay-z.jpg?ve=1&tl=1",
+    "imageCaption": "Jay-Z to headline Apple Music Super Bowl LXI Halftime Show i... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T02:29:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-abe290734c",
+    "slug": "stand-or-hide-in-the-tunnel-for-the-anthem-valkyries-wnba-fans-show-loyalty-ready-for-earl",
+    "guid": "https://www.foxnews.com/outkick-sports/stand-hide-tunnel-anthem-valkyries-wnba-fans-show-loyalty-ready-early-finals-game-6",
+    "title": "'Stand or hide in the tunnel' for the anthem, Valkyries WNBA fans show loyalty; ready for early Finals Game 6",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Golden State Valkyries fans face a 9:30 a.m. PT tipoff for WNBA Finals Game 6 in Atlanta due to Hawks scheduling conflicts at State Farm Arena.",
+    "content": [
+      "Golden State Valkyries fans face a 9:30 a.m. PT tipoff for WNBA Finals Game 6 in Atlanta due to Hawks scheduling conflicts at State Farm Arena.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/wnbafinalsgame5anthem.jpg?ve=1&tl=1",
+    "imageCaption": "'Stand or hide in the tunnel' for the anthem, Valkyries WNBA... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T03:15:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0a205b411a",
+    "slug": "john-harbaugh-backs-cam-skattebo-rips-nfl-for-controversial-flag-thats-the-way-youre-suppo",
+    "guid": "https://www.foxnews.com/outkick-sports/john-harbaugh-backs-cam-skattebo-rips-nfl-controversial-flag-way-youre-supposed-run",
+    "title": "John Harbaugh backs Cam Skattebo, rips NFL for controversial flag: 'That's the way you're supposed to run'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Cam Skattebo ripped the NFL over his unnecessary roughness penalty, saying he&apos;ll play for free if the league keeps flagging his punishing style.",
+    "content": [
+      "Cam Skattebo ripped the NFL over his unnecessary roughness penalty, saying he&apos;ll play for free if the league keeps flagging his punishing style.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/john-harbaugh-giants-texans-houston.jpg?ve=1&tl=1",
+    "imageCaption": "John Harbaugh backs Cam Skattebo, rips NFL for controversial... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T03:27:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1b673bb4af",
+    "slug": "cowboys-dak-prescott-get-back-on-track-at-the-expense-of-reeling-eagles-in-key-nfc-east-wi",
+    "guid": "https://www.foxnews.com/outkick-sports/cowboys-dak-prescott-back-on-track-expense-reeling-eagles-key-nfc-east-win",
+    "title": "Cowboys, Dak Prescott get back on track at the expense of reeling Eagles in key NFC East win",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Javonte Williams rushed for 155 yards as the Dallas Cowboys topped the Philadelphia Eagles, 38-21, on Monday Night Football in a key NFC East clash.",
+    "content": [
+      "Javonte Williams rushed for 155 yards as the Dallas Cowboys topped the Philadelphia Eagles, 38-21, on Monday Night Football in a key NFC East clash.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/dak-prescott-cowboys-warmup-philadelphia.jpg?ve=1&tl=1",
+    "imageCaption": "Cowboys, Dak Prescott get back on track at the expense of re... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T03:42:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f46301c63f",
+    "slug": "brewers-ride-ridiculous-record-setting-eight-run-inning-to-dominant-3-0-world-series-lead-",
+    "guid": "https://www.foxnews.com/outkick-sports/brewers-ride-ridiculous-record-setting-eight-run-inning-dominant-3-0-world-series-lead-rays",
+    "title": "Brewers ride ridiculous, record-setting eight-run inning to dominant 3-0 World Series lead over Rays",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jackson Chourio&apos;s four-hit night and Robert Gasser&apos;s historic shutout outing powered the Milwaukee Brewers to a commanding 3-0 World Series lead.",
+    "content": [
+      "Jackson Chourio&apos;s four-hit night and Robert Gasser&apos;s historic shutout outing powered the Milwaukee Brewers to a commanding 3-0 World Series lead.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brandon-woodruff-world-series-last-out-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Brewers ride ridiculous, record-setting eight-run inning to ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T04:01:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d576a88b08",
+    "slug": "florida-mom-arrested-after-vegas-trip-left-4-kids-without-overnight-supervision-deputies",
+    "guid": "https://www.foxnews.com/us/florida-mom-arrested-after-vegas-trip-left-4-kids-without-overnight-supervision-deputies",
+    "title": "Florida mom arrested after Vegas trip left 4 kids without overnight supervision: deputies",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Body camera video shows deputies arresting Irene Miller at the airport after her four children were found home alone while she was in Las Vegas.",
+    "content": [
+      "Body camera video shows deputies arresting Irene Miller at the airport after her four children were found home alone while she was in Las Vegas.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/irene-miller-child-neglect-arrest-mugshot.png?ve=1&tl=1",
+    "imageCaption": "Florida mom arrested after Vegas trip left 4 kids without ov... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T04:03:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-796c0830a7",
+    "slug": "china-industrial-profits-post-strongest-growth-in-three-months-as-tech-boom-widens-economi",
+    "guid": "108466212",
+    "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+    "content": [
+      "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "China industrial profits post strongest growth in three mont... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T03:34:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f59f2ec24d",
+    "slug": "hsbc-announces-share-buyback-of-up-to-1-billion-as-third-quarter-profit-meets-estimates",
+    "guid": "108466287",
+    "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "HSBC announced its third-quarter earnings on Tuesday.",
+    "content": [
+      "HSBC announced its third-quarter earnings on Tuesday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "HSBC announces share buyback of up to $1 billion as third-qu... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T04:42:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-855da1ba87",
     "slug": "blakemans-bank-statements-dont-match-his-disclosure-reports",
     "guid": "000001a1-7a0e-dcfd-a3e1-7e6f2c870000",
