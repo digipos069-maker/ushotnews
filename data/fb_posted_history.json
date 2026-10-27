@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T10:13:35.143318+00:00",
-  "posted_count": 72,
+  "last_updated": "2026-10-27T10:54:54.892171+00:00",
+  "posted_count": 74,
   "articles": {
     "scraped-7efd5777d2": {
       "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
@@ -793,7 +793,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128880565471257",
       "fb_comment_id": "122128880565471257_1453349661184564",
       "posted_at": "2026-10-27T10:13:35.143267+00:00"
+    },
+    "scraped-363881179d": {
+      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+      "slug": "local-ceasefire-brokered-by-melania-trump-starts-in-southern-ukraine",
+      "url": "https://ushotnews.online/article/local-ceasefire-brokered-by-melania-trump-starts-in-southern-ukraine",
+      "article_url": "https://ushotnews.online/article/local-ceasefire-brokered-by-melania-trump-starts-in-southern-ukraine",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128892253471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128892253471257",
+      "fb_comment_id": "122128892253471257_2118261305459395",
+      "posted_at": "2026-10-27T10:54:54.892111+00:00"
+    },
+    "local-ceasefire-brokered-by-melania-trump-starts-in-southern-ukraine": {
+      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
+      "slug": "local-ceasefire-brokered-by-melania-trump-starts-in-southern-ukraine",
+      "url": "https://ushotnews.online/article/local-ceasefire-brokered-by-melania-trump-starts-in-southern-ukraine",
+      "article_url": "https://ushotnews.online/article/local-ceasefire-brokered-by-melania-trump-starts-in-southern-ukraine",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128892253471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128892253471257",
+      "fb_comment_id": "122128892253471257_2118261305459395",
+      "posted_at": "2026-10-27T10:54:54.892111+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T10:13:27.378116+00:00"
+  "last_cleaned_at": "2026-10-27T10:54:46.953443+00:00"
 }
