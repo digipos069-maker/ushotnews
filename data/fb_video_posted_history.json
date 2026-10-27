@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-26T23:41:32.343335+00:00",
+  "last_updated": "2026-10-27T04:32:26.665990+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1027341": {
-      "title": "No Good Excuse",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093563/DOD_112093563.mp4",
-      "attached_website_url": "https://ushotnews.online/article/house-battleground-map-tightens-as-gop-scrambles-to-shore-up-red-seats",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "1694728631983807",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1694728631983807",
-      "fb_comment_id": "1694728631983807_1382183588314645",
-      "posted_at": "2026-10-24T00:25:43.830942+00:00"
-    },
     "dvids-video:1027369": {
       "title": "By, With, Through",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093992/DOD_112093992.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/3042500246099351",
       "fb_comment_id": "3042500246099351_1824441195557337",
       "posted_at": "2026-10-26T23:41:32.343256+00:00"
+    },
+    "dvids-video:1027612": {
+      "title": "Carroll Flu Drive",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112100761/DOD_112100761.mp4",
+      "attached_website_url": "https://ushotnews.online/article/blakemans-bank-statements-dont-match-his-disclosure-reports",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1633068152164167",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1633068152164167",
+      "fb_comment_id": "1633068152164167_1707438760714479",
+      "posted_at": "2026-10-27T04:32:26.665930+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-26T23:40:20.463580+00:00"
+  "last_cleaned_at": "2026-10-27T04:31:53.762443+00:00"
 }
