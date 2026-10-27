@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-27T17:50:02.905621+00:00",
+  "last_updated": "2026-10-27T22:01:47.243946+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1027398": {
-      "title": "B-ROLL: NFL Leadership Visits Suresnes American Cemetery, Honors Fallen Service Members",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095185/DOD_112095185.mp4",
-      "attached_website_url": "https://ushotnews.online/article/pennsylvania-will-require-labels-on-ai-generated-ads",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1633025948548609",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1633025948548609",
-      "fb_comment_id": "1633025948548609_1144435688107282",
-      "posted_at": "2026-10-24T20:32:46.694374+00:00"
-    },
     "dvids-video:1027413": {
       "title": "A-10s perform at Friday on the Frontier",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095433/DOD_112095433.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2109243856620664",
       "fb_comment_id": "2109243856620664_1052100114516250",
       "posted_at": "2026-10-27T17:50:02.905566+00:00"
+    },
+    "dvids-video:1027711": {
+      "title": "Ravens Community Engagement (Bengals v Ravens 2026)",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112103244/DOD_112103244.mp4",
+      "attached_website_url": "https://ushotnews.online/article/kathy-hochul-on-trump-mamdani-and-the-future-of-new-york",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1010891008713537",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1010891008713537",
+      "fb_comment_id": "1010891008713537_1149113434115955",
+      "posted_at": "2026-10-27T22:01:47.243889+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T17:48:56.464629+00:00"
+  "last_cleaned_at": "2026-10-27T22:00:18.463617+00:00"
 }
