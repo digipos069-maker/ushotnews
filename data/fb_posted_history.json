@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T15:58:05.499920+00:00",
-  "posted_count": 68,
+  "last_updated": "2026-10-27T16:25:20.870431+00:00",
+  "posted_count": 70,
   "articles": {
     "scraped-5033935c06": {
       "title": "Why the over 56.5 is the play as Houston visits undefeated Utah in Big 12 action",
@@ -749,7 +749,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128973571471257",
       "fb_comment_id": "122128973571471257_1895793424736186",
       "posted_at": "2026-10-27T15:58:05.499861+00:00"
+    },
+    "scraped-c5a6af5c68": {
+      "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+      "slug": "bolsonaros-party-accepts-brazil-election-defeat-but-he-refuses-to-concede",
+      "url": "https://ushotnews.online/article/bolsonaros-party-accepts-brazil-election-defeat-but-he-refuses-to-concede",
+      "article_url": "https://ushotnews.online/article/bolsonaros-party-accepts-brazil-election-defeat-but-he-refuses-to-concede",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128980477471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128980477471257",
+      "fb_comment_id": "122128980477471257_1771658023946404",
+      "posted_at": "2026-10-27T16:25:20.870367+00:00"
+    },
+    "bolsonaros-party-accepts-brazil-election-defeat-but-he-refuses-to-concede": {
+      "title": "Bolsonaro's Party accepts Brazil election defeat, but he refuses to concede",
+      "slug": "bolsonaros-party-accepts-brazil-election-defeat-but-he-refuses-to-concede",
+      "url": "https://ushotnews.online/article/bolsonaros-party-accepts-brazil-election-defeat-but-he-refuses-to-concede",
+      "article_url": "https://ushotnews.online/article/bolsonaros-party-accepts-brazil-election-defeat-but-he-refuses-to-concede",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128980477471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128980477471257",
+      "fb_comment_id": "122128980477471257_1771658023946404",
+      "posted_at": "2026-10-27T16:25:20.870367+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T15:57:56.509894+00:00"
+  "last_cleaned_at": "2026-10-27T16:25:12.443957+00:00"
 }
