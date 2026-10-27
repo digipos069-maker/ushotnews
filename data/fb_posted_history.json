@@ -1,95 +1,7 @@
 {
-  "last_updated": "2026-10-27T10:54:54.892171+00:00",
-  "posted_count": 74,
+  "last_updated": "2026-10-27T15:58:05.499920+00:00",
+  "posted_count": 68,
   "articles": {
-    "scraped-7efd5777d2": {
-      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-      "slug": "drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "url": "https://ushotnews.online/article/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "article_url": "https://ushotnews.online/article/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127821919471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127821919471257",
-      "fb_comment_id": "122127821919471257_1296799009238418",
-      "posted_at": "2026-10-24T11:25:19.639920+00:00"
-    },
-    "drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels": {
-      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-      "slug": "drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "url": "https://ushotnews.online/article/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "article_url": "https://ushotnews.online/article/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127821919471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127821919471257",
-      "fb_comment_id": "122127821919471257_1296799009238418",
-      "posted_at": "2026-10-24T11:25:19.639920+00:00"
-    },
-    "scraped-e30051a7db": {
-      "title": "This decade has been missing its big-impact midterm",
-      "slug": "this-decade-has-been-missing-its-big-impact-midterm",
-      "url": "https://ushotnews.online/article/this-decade-has-been-missing-its-big-impact-midterm",
-      "article_url": "https://ushotnews.online/article/this-decade-has-been-missing-its-big-impact-midterm",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127824139471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127824139471257",
-      "fb_comment_id": "122127824139471257_2347966252608844",
-      "posted_at": "2026-10-24T11:30:34.096668+00:00"
-    },
-    "this-decade-has-been-missing-its-big-impact-midterm": {
-      "title": "This decade has been missing its big-impact midterm",
-      "slug": "this-decade-has-been-missing-its-big-impact-midterm",
-      "url": "https://ushotnews.online/article/this-decade-has-been-missing-its-big-impact-midterm",
-      "article_url": "https://ushotnews.online/article/this-decade-has-been-missing-its-big-impact-midterm",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127824139471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127824139471257",
-      "fb_comment_id": "122127824139471257_2347966252608844",
-      "posted_at": "2026-10-24T11:30:34.096668+00:00"
-    },
-    "scraped-17a85eca36": {
-      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-      "slug": "amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
-      "url": "https://ushotnews.online/article/amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
-      "article_url": "https://ushotnews.online/article/amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127869853471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127869853471257",
-      "fb_comment_id": "122127869853471257_2564608117382523",
-      "posted_at": "2026-10-24T14:45:35.310464+00:00"
-    },
-    "amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer": {
-      "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-      "slug": "amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
-      "url": "https://ushotnews.online/article/amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
-      "article_url": "https://ushotnews.online/article/amgen-says-drug-combo-cuts-risk-of-death-by-58-in-patients-with-aggressive-lung-cancer",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127869853471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127869853471257",
-      "fb_comment_id": "122127869853471257_2564608117382523",
-      "posted_at": "2026-10-24T14:45:35.310464+00:00"
-    },
-    "scraped-e10ce1f4b2": {
-      "title": "It’s time to find a new browser",
-      "slug": "its-time-to-find-a-new-browser",
-      "url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
-      "article_url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127871023471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127871023471257",
-      "fb_comment_id": "122127871023471257_1087308210801953",
-      "posted_at": "2026-10-24T14:50:23.034131+00:00"
-    },
-    "its-time-to-find-a-new-browser": {
-      "title": "It’s time to find a new browser",
-      "slug": "its-time-to-find-a-new-browser",
-      "url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
-      "article_url": "https://ushotnews.online/article/its-time-to-find-a-new-browser",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122127871023471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122127871023471257",
-      "fb_comment_id": "122127871023471257_1087308210801953",
-      "posted_at": "2026-10-24T14:50:23.034131+00:00"
-    },
     "scraped-5033935c06": {
       "title": "Why the over 56.5 is the play as Houston visits undefeated Utah in Big 12 action",
       "slug": "why-the-over-565-is-the-play-as-houston-visits-undefeated-utah-in-big-12-action",
@@ -815,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128892253471257",
       "fb_comment_id": "122128892253471257_2118261305459395",
       "posted_at": "2026-10-27T10:54:54.892111+00:00"
+    },
+    "scraped-1cb4b4fd69": {
+      "title": "College football corporate overlords ruin another classic rivalry game with stupid new name",
+      "slug": "college-football-corporate-overlords-ruin-another-classic-rivalry-game-with-stupid-new-nam",
+      "url": "https://ushotnews.online/article/college-football-corporate-overlords-ruin-another-classic-rivalry-game-with-stupid-new-nam",
+      "article_url": "https://ushotnews.online/article/college-football-corporate-overlords-ruin-another-classic-rivalry-game-with-stupid-new-nam",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128973571471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128973571471257",
+      "fb_comment_id": "122128973571471257_1895793424736186",
+      "posted_at": "2026-10-27T15:58:05.499861+00:00"
+    },
+    "college-football-corporate-overlords-ruin-another-classic-rivalry-game-with-stupid-new-nam": {
+      "title": "College football corporate overlords ruin another classic rivalry game with stupid new name",
+      "slug": "college-football-corporate-overlords-ruin-another-classic-rivalry-game-with-stupid-new-nam",
+      "url": "https://ushotnews.online/article/college-football-corporate-overlords-ruin-another-classic-rivalry-game-with-stupid-new-nam",
+      "article_url": "https://ushotnews.online/article/college-football-corporate-overlords-ruin-another-classic-rivalry-game-with-stupid-new-nam",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122128973571471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128973571471257",
+      "fb_comment_id": "122128973571471257_1895793424736186",
+      "posted_at": "2026-10-27T15:58:05.499861+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T10:54:46.953443+00:00"
+  "last_cleaned_at": "2026-10-27T15:57:56.509894+00:00"
 }
