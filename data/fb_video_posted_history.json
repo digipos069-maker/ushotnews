@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-27T04:32:26.665990+00:00",
+  "last_updated": "2026-10-27T11:55:43.493703+00:00",
   "posted_count": 15,
   "articles": {
-    "dvids-video:1027369": {
-      "title": "By, With, Through",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093992/DOD_112093992.mp4",
-      "attached_website_url": "https://ushotnews.online/article/ainsley-earhardt-and-sean-hannity-celebrate-upcoming-wedding-surrounded-by-family-and-frie",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2251211742089279",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2251211742089279",
-      "fb_comment_id": "2251211742089279_2174033103468993",
-      "posted_at": "2026-10-24T07:05:20.202121+00:00"
-    },
     "dvids-video:1027355": {
       "title": "Team Little Rock hosts 5K Reverse Ruck for Domestic Violence Awareness",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112093716/DOD_112093716.mp4",
@@ -166,7 +155,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1633068152164167",
       "fb_comment_id": "1633068152164167_1707438760714479",
       "posted_at": "2026-10-27T04:32:26.665930+00:00"
+    },
+    "dvids-video:1027616": {
+      "title": "Faces of Keen Sword 27 - Head of the DMBV",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112100892/DOD_112100892.mp4",
+      "attached_website_url": "https://ushotnews.online/article/trumps-fundraising-dominance-is-masking-a-long-term-problem-for-republicans",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "5580378902186545",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/5580378902186545",
+      "fb_comment_id": "5580378902186545_1860050105034717",
+      "posted_at": "2026-10-27T11:55:43.493645+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T04:31:53.762443+00:00"
+  "last_cleaned_at": "2026-10-27T11:54:31.814863+00:00"
 }
