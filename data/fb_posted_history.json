@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-27T20:32:03.330513+00:00",
-  "posted_count": 66,
+  "last_updated": "2026-10-27T20:54:43.518189+00:00",
+  "posted_count": 68,
   "articles": {
     "scraped-bc24205804": {
       "title": "Kate Gosselin says her kids know who she ‘truly’ is as son Collin levels abuse allegations",
@@ -727,7 +727,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129043609471257",
       "fb_comment_id": "122129043609471257_1532969905305703",
       "posted_at": "2026-10-27T20:32:03.330453+00:00"
+    },
+    "scraped-9c337b6436": {
+      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+      "slug": "a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
+      "url": "https://ushotnews.online/article/a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
+      "article_url": "https://ushotnews.online/article/a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129054643471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129054643471257",
+      "fb_comment_id": "122129054643471257_1623736912407997",
+      "posted_at": "2026-10-27T20:54:43.518126+00:00"
+    },
+    "a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month": {
+      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
+      "slug": "a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
+      "url": "https://ushotnews.online/article/a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
+      "article_url": "https://ushotnews.online/article/a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129054643471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129054643471257",
+      "fb_comment_id": "122129054643471257_1623736912407997",
+      "posted_at": "2026-10-27T20:54:43.518126+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T20:31:56.485529+00:00"
+  "last_cleaned_at": "2026-10-27T20:54:35.091367+00:00"
 }
