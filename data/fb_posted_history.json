@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T18:59:24.545774+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-28T19:03:26.396519+00:00",
+  "posted_count": 60,
   "articles": {
     "scraped-cc10b740a7": {
       "title": "r/opensource just banned AI, non-English speakers, and more",
@@ -639,7 +639,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129353143471257",
       "fb_comment_id": "122129353143471257_1817885156222301",
       "posted_at": "2026-10-28T18:59:24.545716+00:00"
+    },
+    "scraped-aa6fb924b7": {
+      "title": "Fed holds interest rates steady even as inflation remains stubborn",
+      "slug": "fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
+      "url": "https://ushotnews.online/article/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
+      "article_url": "https://ushotnews.online/article/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129354319471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129354319471257",
+      "fb_comment_id": "122129354319471257_2223510708575211",
+      "posted_at": "2026-10-28T19:03:26.396434+00:00"
+    },
+    "fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn": {
+      "title": "Fed holds interest rates steady even as inflation remains stubborn",
+      "slug": "fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
+      "url": "https://ushotnews.online/article/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
+      "article_url": "https://ushotnews.online/article/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129354319471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129354319471257",
+      "fb_comment_id": "122129354319471257_2223510708575211",
+      "posted_at": "2026-10-28T19:03:26.396434+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T18:59:12.917822+00:00"
+  "last_cleaned_at": "2026-10-28T19:03:14.390529+00:00"
 }
