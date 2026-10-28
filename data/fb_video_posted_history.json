@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-27T22:01:47.243946+00:00",
+  "last_updated": "2026-10-28T05:04:21.623755+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1027413": {
-      "title": "A-10s perform at Friday on the Frontier",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095433/DOD_112095433.mp4",
-      "attached_website_url": "https://ushotnews.online/article/blue-planet-iii-is-keeping-the-rough-edges-in-the-age-of-ai",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2011437079521628",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2011437079521628",
-      "fb_comment_id": "2011437079521628_1735529517552092",
-      "posted_at": "2026-10-25T00:10:21.139689+00:00"
-    },
     "dvids-video:1027405": {
       "title": "MCBH Halloween Fest Announcement",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095281/DOD_112095281.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1010891008713537",
       "fb_comment_id": "1010891008713537_1149113434115955",
       "posted_at": "2026-10-27T22:01:47.243889+00:00"
+    },
+    "dvids-video:1027735": {
+      "title": "Sgt. Dustin Stark - Detroit Lions Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112103552/DOD_112103552.mp4",
+      "attached_website_url": "https://ushotnews.online/article/republicans-wanted-rubio-on-the-stump-trump-coaxed-him-there",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2297176244458931",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2297176244458931",
+      "fb_comment_id": "2297176244458931_2947691698900601",
+      "posted_at": "2026-10-28T05:04:21.623695+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-27T22:00:18.463617+00:00"
+  "last_cleaned_at": "2026-10-28T05:03:43.428464+00:00"
 }
