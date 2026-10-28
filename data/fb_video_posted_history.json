@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-28T12:33:04.583119+00:00",
-  "posted_count": 14,
+  "last_updated": "2026-10-28T19:26:02.748969+00:00",
+  "posted_count": 13,
   "articles": {
-    "dvids-video:1027403": {
-      "title": "1st Sgt. Steven Shives - Houston Texans Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095214/DOD_112095214.mp4",
-      "attached_website_url": "https://ushotnews.online/article/soldiers-guard-center-of-milan-as-thousands-of-protesters-march-in-cities-across-europe",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "29524657103793738",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/29524657103793738",
-      "fb_comment_id": "29524657103793738_1757713925310843",
-      "posted_at": "2026-10-25T13:07:02.941838+00:00"
-    },
-    "dvids-video:1027432": {
-      "title": "Salute To Service",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112096649/DOD_112096649.mp4",
-      "attached_website_url": "https://ushotnews.online/article/googles-ai-search-changes-upended-online-publishing",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "29324589977229672",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/29324589977229672",
-      "fb_comment_id": "29324589977229672_2189039048310245",
-      "posted_at": "2026-10-25T17:33:34.618756+00:00"
-    },
     "dvids-video:1027441": {
       "title": "CAS EVAC SIMULATION",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112096873/DOD_112096873.mp4",
@@ -155,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2871255813269492",
       "fb_comment_id": "2871255813269492_3169935233197923",
       "posted_at": "2026-10-28T12:33:04.583050+00:00"
+    },
+    "dvids-video:1027832": {
+      "title": "MOS Spotlight: LCpl. Felgenhauer",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112105746/DOD_112105746.mp4",
+      "attached_website_url": "https://ushotnews.online/article/billionaire-taxes-trans-rights-abortion-voting-rights-this-years-biggest-state-votes",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "3242503689290826",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3242503689290826",
+      "fb_comment_id": "3242503689290826_3906307822845790",
+      "posted_at": "2026-10-28T19:26:02.748910+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T12:31:09.745351+00:00"
+  "last_cleaned_at": "2026-10-28T19:24:50.303761+00:00"
 }
