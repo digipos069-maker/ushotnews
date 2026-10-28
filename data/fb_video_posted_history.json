@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-28T19:26:02.748969+00:00",
+  "last_updated": "2026-10-28T23:58:46.324885+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1027441": {
-      "title": "CAS EVAC SIMULATION",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112096873/DOD_112096873.mp4",
-      "attached_website_url": "https://ushotnews.online/article/peltola-postpones-campaign-stops-after-saturday-car-crash",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "4470939716500727",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4470939716500727",
-      "fb_comment_id": "4470939716500727_1537448768409365",
-      "posted_at": "2026-10-25T20:40:36.307935+00:00"
-    },
     "dvids-video:1027440": {
       "title": "CAS EVAC SIMULATION",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112096872/DOD_112096872.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/3242503689290826",
       "fb_comment_id": "3242503689290826_3906307822845790",
       "posted_at": "2026-10-28T19:26:02.748910+00:00"
+    },
+    "dvids-video:1027861": {
+      "title": "7th Infantry Division Historical Welcome Video",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112106383/DOD_112106383.mp4",
+      "attached_website_url": "https://ushotnews.online/article/foreign-gadget-bans-all-the-news-about-the-fccs-clampdown-on-chinese-tech",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2936833690019274",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2936833690019274",
+      "fb_comment_id": "2936833690019274_1634824431615163",
+      "posted_at": "2026-10-28T23:58:46.324826+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T19:24:50.303761+00:00"
+  "last_cleaned_at": "2026-10-28T23:57:30.445190+00:00"
 }
