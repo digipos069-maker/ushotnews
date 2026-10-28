@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-28T23:05:43.323999+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-28T23:28:16.751494+00:00",
+  "posted_count": 56,
   "articles": {
-    "scraped-a3ef3030eb": {
-      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-      "slug": "ukraine-disputes-elon-musks-claim-that-its-military-violated-starlink-terms-during-drone-o",
-      "url": "https://ushotnews.online/article/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlink-terms-during-drone-o",
-      "article_url": "https://ushotnews.online/article/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlink-terms-during-drone-o",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128323069471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128323069471257",
-      "fb_comment_id": "122128323069471257_1575506304345257",
-      "posted_at": "2026-10-25T23:09:39.054104+00:00"
-    },
-    "ukraine-disputes-elon-musks-claim-that-its-military-violated-starlink-terms-during-drone-o": {
-      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-      "slug": "ukraine-disputes-elon-musks-claim-that-its-military-violated-starlink-terms-during-drone-o",
-      "url": "https://ushotnews.online/article/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlink-terms-during-drone-o",
-      "article_url": "https://ushotnews.online/article/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlink-terms-during-drone-o",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128323069471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128323069471257",
-      "fb_comment_id": "122128323069471257_1575506304345257",
-      "posted_at": "2026-10-25T23:09:39.054104+00:00"
-    },
-    "scraped-213ff86ce5": {
-      "title": "Scott Walker’s The Drift will get under your skin",
-      "slug": "scott-walkers-the-drift-will-get-under-your-skin",
-      "url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
-      "article_url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128325583471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128325583471257",
-      "fb_comment_id": "122128325583471257_2258654308248957",
-      "posted_at": "2026-10-25T23:27:23.386146+00:00"
-    },
-    "scott-walkers-the-drift-will-get-under-your-skin": {
-      "title": "Scott Walker’s The Drift will get under your skin",
-      "slug": "scott-walkers-the-drift-will-get-under-your-skin",
-      "url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
-      "article_url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128325583471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128325583471257",
-      "fb_comment_id": "122128325583471257_2258654308248957",
-      "posted_at": "2026-10-25T23:27:23.386146+00:00"
-    },
     "scraped-e1a56e253a": {
       "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
       "slug": "spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-says",
@@ -639,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129421921471257",
       "fb_comment_id": "122129421921471257_1591149092224539",
       "posted_at": "2026-10-28T23:05:43.323941+00:00"
+    },
+    "scraped-c2baa73537": {
+      "title": "Trump administration will allow pharmacies to make popular peptides",
+      "slug": "trump-administration-will-allow-pharmacies-to-make-popular-peptides",
+      "url": "https://ushotnews.online/article/trump-administration-will-allow-pharmacies-to-make-popular-peptides",
+      "article_url": "https://ushotnews.online/article/trump-administration-will-allow-pharmacies-to-make-popular-peptides",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129430939471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129430939471257",
+      "fb_comment_id": "122129430939471257_1977382432895719",
+      "posted_at": "2026-10-28T23:28:16.751394+00:00"
+    },
+    "trump-administration-will-allow-pharmacies-to-make-popular-peptides": {
+      "title": "Trump administration will allow pharmacies to make popular peptides",
+      "slug": "trump-administration-will-allow-pharmacies-to-make-popular-peptides",
+      "url": "https://ushotnews.online/article/trump-administration-will-allow-pharmacies-to-make-popular-peptides",
+      "article_url": "https://ushotnews.online/article/trump-administration-will-allow-pharmacies-to-make-popular-peptides",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129430939471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129430939471257",
+      "fb_comment_id": "122129430939471257_1977382432895719",
+      "posted_at": "2026-10-28T23:28:16.751394+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T23:05:33.366595+00:00"
+  "last_cleaned_at": "2026-10-28T23:28:05.627274+00:00"
 }
