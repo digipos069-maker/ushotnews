@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-28T19:03:26.396519+00:00",
-  "posted_count": 60,
+  "last_updated": "2026-10-28T23:05:43.323999+00:00",
+  "posted_count": 58,
   "articles": {
-    "scraped-cc10b740a7": {
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "slug": "ropensource-just-banned-ai-non-english-speakers-and-more",
-      "url": "https://ushotnews.online/article/ropensource-just-banned-ai-non-english-speakers-and-more",
-      "article_url": "https://ushotnews.online/article/ropensource-just-banned-ai-non-english-speakers-and-more",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128294707471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128294707471257",
-      "fb_comment_id": "122128294707471257_1161291796469149",
-      "posted_at": "2026-10-25T20:44:13.780874+00:00"
-    },
-    "ropensource-just-banned-ai-non-english-speakers-and-more": {
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "slug": "ropensource-just-banned-ai-non-english-speakers-and-more",
-      "url": "https://ushotnews.online/article/ropensource-just-banned-ai-non-english-speakers-and-more",
-      "article_url": "https://ushotnews.online/article/ropensource-just-banned-ai-non-english-speakers-and-more",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128294707471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128294707471257",
-      "fb_comment_id": "122128294707471257_1161291796469149",
-      "posted_at": "2026-10-25T20:44:13.780874+00:00"
-    },
-    "scraped-327ab0aa4d": {
-      "title": "Now you can watch Instagram Reels on your Apple TV",
-      "slug": "now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "url": "https://ushotnews.online/article/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "article_url": "https://ushotnews.online/article/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128299099471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128299099471257",
-      "fb_comment_id": "122128299099471257_1215256737495092",
-      "posted_at": "2026-10-25T21:05:26.742497+00:00"
-    },
-    "now-you-can-watch-instagram-reels-on-your-apple-tv": {
-      "title": "Now you can watch Instagram Reels on your Apple TV",
-      "slug": "now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "url": "https://ushotnews.online/article/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "article_url": "https://ushotnews.online/article/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128299099471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128299099471257",
-      "fb_comment_id": "122128299099471257_1215256737495092",
-      "posted_at": "2026-10-25T21:05:26.742497+00:00"
-    },
     "scraped-a3ef3030eb": {
       "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
       "slug": "ukraine-disputes-elon-musks-claim-that-its-military-violated-starlink-terms-during-drone-o",
@@ -661,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129354319471257",
       "fb_comment_id": "122129354319471257_2223510708575211",
       "posted_at": "2026-10-28T19:03:26.396434+00:00"
+    },
+    "scraped-efd7e5ffb5": {
+      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "slug": "coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
+      "url": "https://ushotnews.online/article/coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
+      "article_url": "https://ushotnews.online/article/coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129421921471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129421921471257",
+      "fb_comment_id": "122129421921471257_1591149092224539",
+      "posted_at": "2026-10-28T23:05:43.323941+00:00"
+    },
+    "coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations": {
+      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
+      "slug": "coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
+      "url": "https://ushotnews.online/article/coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
+      "article_url": "https://ushotnews.online/article/coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129421921471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129421921471257",
+      "fb_comment_id": "122129421921471257_1591149092224539",
+      "posted_at": "2026-10-28T23:05:43.323941+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T19:03:14.390529+00:00"
+  "last_cleaned_at": "2026-10-28T23:05:33.366595+00:00"
 }
