@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-444ae7bb29",
+    "slug": "republicans-wanted-rubio-on-the-stump-trump-coaxed-him-there",
+    "guid": "000001a1-7f4e-dcfd-a3e1-7f6f1e6a0000",
+    "title": "Republicans wanted Rubio on the stump. Trump coaxed him there.",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "“We love you, Texas,” the secretary of State told the crowd.",
+    "content": [
+      "“We love you, Texas,” the secretary of State told the crowd.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/7a/dc/f8ec83694c4cad5d739db0a599c4/aptopix-trump-73738.jpg",
+    "imageCaption": "Republicans wanted Rubio on the stump. Trump coaxed him ther... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T22:50:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2492ceac54",
+    "slug": "researchers-are-getting-tired-of-openai-gatekeeping-its-breakthroughs",
+    "guid": "https://www.theverge.com/?p=1019921",
+    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+    "content": [
+      "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Researchers are getting tired of OpenAI gatekeeping its brea... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T20:48:58+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b0d119ea87",
+    "slug": "heres-why-the-iphone-duos-hinge-could-be-cracking-the-screen",
+    "guid": "https://www.theverge.com/?p=1020145",
+    "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing [&#8230;]",
+    "content": [
+      "Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Here’s why the iPhone Duo’s hinge could be cracking the scre... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T22:55:05+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8a1aa348f4",
+    "slug": "israels-election-turnout-soars-lifting-opposition-hopes-of-beating-netanyahu",
+    "guid": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
+    "title": "Israel's election turnout soars, lifting opposition hopes of beating Netanyahu",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
+    "content": [
+      "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Israel's election turnout soars, lifting opposition hopes of... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T20:45:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a86f5e6999",
+    "slug": "southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
+    "guid": "https://www.npr.org/2026/10/27/nx-s1-6019352/southwest-flood-damage-estimates-are-hundreds-of-millions-for-new-mexico-alone",
+    "title": "Southwest flood damage estimates are hundreds of millions for New Mexico alone",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
+    "content": [
+      "Intense rainstorms linked to a very active El Niño-driven Pacific hurricane season have left thousands of people in the Four Corners states displaced.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Southwest flood damage estimates are hundreds of millions fo... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T21:17:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ddc5d8b63f",
+    "slug": "russian-diesel-tankers-close-in-on-us-ports-as-trump-putin-deal-triggers-legal-showdown",
+    "guid": "https://www.foxnews.com/politics/russian-diesel-tankers-close-us-ports-trump-putin-deal-triggers-legal-showdown",
+    "title": "Russian diesel tankers close in on US ports as Trump, Putin deal triggers legal showdown",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Three tankers carrying Russian diesel are heading to U.S. ports as Congress threatens to investigate companies involved in Trump&apos;s fuel deal with Moscow.",
+    "content": [
+      "Three tankers carrying Russian diesel are heading to U.S. ports as Congress threatens to investigate companies involved in Trump&apos;s fuel deal with Moscow.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ce4a5cc3-ce4a5cc3-vladimir-putin-donald-trump-2025-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "Russian diesel tankers close in on US ports as Trump, Putin ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:09:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d3dcea2ea6",
+    "slug": "savannah-chrisley-stands-by-huge-age-gap-with-fiancé-after-announcing-pregnancy",
+    "guid": "https://www.foxnews.com/entertainment/savannah-chrisley-stands-huge-age-gap-fiance-announcing-pregnancy",
+    "title": "Savannah Chrisley stands by ‘huge’ age gap with fiancé after announcing pregnancy",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Savannah Chrisley revealed on her Unlocked podcast why she kept her age-gap relationship quiet and how fiancé Jason proposed in December 2025.",
+    "content": [
+      "Savannah Chrisley revealed on her Unlocked podcast why she kept her age-gap relationship quiet and how fiancé Jason proposed in December 2025.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/savannah-chrisley.jpg?ve=1&tl=1",
+    "imageCaption": "Savannah Chrisley stands by ‘huge’ age gap with fiancé after... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:17:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b901458d76",
+    "slug": "travelers-may-face-major-disruptions-as-strikes-threaten-airports-and-popular-attractions",
+    "guid": "https://www.foxnews.com/travel/travelers-face-major-disruptions-strikes-threaten-airports-popular-attractions",
+    "title": "Travelers may face major disruptions as strikes threaten airports and popular attractions",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Rail strikes may hit Spain&apos;s Renfe and Ouigo train services on Thursday and Friday, while Italy&apos;s general strike is threatening trains, flights and ground travel.",
+    "content": [
+      "Rail strikes may hit Spain&apos;s Renfe and Ouigo train services on Thursday and Friday, while Italy&apos;s general strike is threatening trains, flights and ground travel.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/madrid-barajas-airport-terminal-travelers.jpg?ve=1&tl=1",
+    "imageCaption": "Travelers may face major disruptions as strikes threaten air... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:28:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a001137ac2",
+    "slug": "tiger-woods-and-vanessa-trumps-relationship-stronger-than-ever-with-marriage-talks-on-the-",
+    "guid": "https://www.foxnews.com/outkick-sports/tiger-woods-vanessa-trumps-relationship-stronger-than-ever-marriage-talks-table-report",
+    "title": "Tiger Woods and Vanessa Trump's relationship 'stronger than ever' with marriage talks on the table: report",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tiger Woods and Vanessa Trump have discussed marriage after leaning on each other in a difficult year, dealing with his arrest on charges of DUI and her breast cancer diagnosis.",
+    "content": [
+      "Tiger Woods and Vanessa Trump have discussed marriage after leaning on each other in a difficult year, dealing with his arrest on charges of DUI and her breast cancer diagnosis.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tiger-woods-vanessa-trump-embrace-tgl.jpg?ve=1&tl=1",
+    "imageCaption": "Tiger Woods and Vanessa Trump's relationship 'stronger than ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:39:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-eea100d698",
+    "slug": "rep-tom-tiffany-claims-kamala-harris-visit-signals-weakness-in-david-crowleys-wisconsin-ca",
+    "guid": "https://www.foxnews.com/politics/rep-tom-tiffany-claims-kamala-harris-visit-signals-weakness-david-crowleys-wisconsin-campaign",
+    "title": "Rep Tom Tiffany claims Kamala Harris' visit signals weakness in David Crowley’s Wisconsin campaign",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tom Tiffany says Kamala Harris&apos; Milwaukee rally for David Crowley reveals Democrats are struggling to energize their base before Wisconsin&apos;s election.",
+    "content": [
+      "Tom Tiffany says Kamala Harris&apos; Milwaukee rally for David Crowley reveals Democrats are struggling to energize their base before Wisconsin&apos;s election.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/kamala-harris-crowley-event.jpg?ve=1&tl=1",
+    "imageCaption": "Rep Tom Tiffany claims Kamala Harris' visit signals weakness... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:41:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-774c8d7345",
+    "slug": "fbi-advised-espn-star-pat-mcafee-to-wear-a-bulletproof-vest-after-charlie-kirks-assassinat",
+    "guid": "https://www.foxnews.com/outkick-sports/fbi-advised-espn-star-pat-mcafee-wear-bulletproof-vest-charlie-kirk-assassination",
+    "title": "FBI advised ESPN star Pat McAfee to wear a bulletproof vest after Charlie Kirk’s assassination",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The FBI advised Pat McAfee to wear a bulletproof vest after the Charlie Kirk assassination, a source says, as safety fears grow for media figures.",
+    "content": [
+      "The FBI advised Pat McAfee to wear a bulletproof vest after the Charlie Kirk assassination, a source says, as safety fears grow for media figures.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/pat-mcafee-college-gameday-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "FBI advised ESPN star Pat McAfee to wear a bulletproof vest ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:44:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e9ac6522d7",
+    "slug": "mamdani-under-fire-over-nyc-schools-as-critics-say-mayor-is-devoid-of-education-agenda-des",
+    "guid": "https://www.foxnews.com/media/mamdani-fire-nyc-schools-critics-say-mayor-devoid-education-agenda-despite-38b-budget",
+    "title": "Mamdani under fire over NYC schools as critics say mayor is devoid of education agenda despite $38B budget",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Zohran Mamdani campaigned on progressive K-12 education reform, but advocates say the New York City mayor has produced few substantive changes.",
+    "content": [
+      "Zohran Mamdani campaigned on progressive K-12 education reform, but advocates say the New York City mayor has produced few substantive changes.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mamdani-childcare-1.png?ve=1&tl=1",
+    "imageCaption": "Mamdani under fire over NYC schools as critics say mayor is ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:52:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d06202b9ba",
+    "slug": "ea-shuts-down-legendary-game-studio-bioware-after-recent-high-profile-disappointments-cont",
+    "guid": "https://www.foxnews.com/media/ea-shuts-down-legendary-game-studio-bioware-after-recent-high-profile-disappointments-controversies",
+    "title": "EA shuts down legendary game studio BioWare after recent high-profile disappointments, controversies",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Electronic Arts shut down BioWare after 31 years, ending early development on the next Mass Effect project following several recent flops.",
+    "content": [
+      "Electronic Arts shut down BioWare after 31 years, ending early development on the next Mass Effect project following several recent flops.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/EA-office-Sign.png?ve=1&tl=1",
+    "imageCaption": "EA shuts down legendary game studio BioWare after recent hig... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-28T00:03:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9cae514a19",
+    "slug": "walmart-says-ai-training-is-boosting-confidence-with-the-technology-among-its-21-million-a",
+    "guid": "108470258",
+    "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+    "content": [
+      "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Walmart says AI training is boosting confidence with the tec... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T21:15:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-10f3e3f19c",
+    "slug": "jim-cramer-warns-investors-not-to-get-fooled-by-the-latest-ai-stock-rally",
+    "guid": "108470453",
+    "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.",
+    "content": [
+      "CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer warns investors not to get fooled by the latest A... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T22:24:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4668594656",
+    "slug": "chart-anthropics-cash-pile-towers-over-nearly-every-us-company",
+    "guid": "108469583",
+    "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+    "content": [
+      "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Chart: Anthropic's cash pile towers over nearly every U.S. c... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:03:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e61c0a6e2f",
+    "slug": "grand-jury-rejects-doj-bid-to-indict-ex-trump-wh-aide-cassidy-hutchinson-reports",
+    "guid": "108471066",
+    "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+    "content": [
+      "Prosecutors aimed to charge Cassidy Hutchinson over testimony about President Trump's conduct the day of the Jan. 6, 2021, U.S. Capitol riot by his supporters.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassid... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T23:50:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ddf93965ce",
+    "slug": "trump-administration-may-let-more-russian-diesel-onto-market-energy-secretary-tells-cnbc",
+    "guid": "108470069",
+    "title": "Trump administration may let more Russian diesel onto market, energy secretary tells CNBC",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
+    "content": [
+      "The diesel volumes in the Trump-Putin deal won't materially lower prices because the shipments are small compared to total demand, analysts say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump administration may let more Russian diesel onto market... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-27T22:18:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ca27b3fa43",
+    "slug": "indian-investors-rush-to-nvidia-spacex-apple-as-local-trading-apps-roll-out-access-to-us-s",
+    "guid": "108467543",
+    "title": "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+    "content": [
+      "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Indian investors rush to Nvidia, SpaceX, Apple as local trad... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-28T00:14:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-80ed608396",
+    "slug": "sk-hynix-third-quarter-profit-sharply-beats-estimates-on-ai-memory-boost",
+    "guid": "108464173",
+    "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
+    "content": [
+      "South Korean chipmaker SK Hynix on Wednesday reported its third-quarter earnings.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SK Hynix third-quarter profit sharply beats estimates on AI ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-28T00:09:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-2300967cdd",
     "slug": "kathy-hochul-on-trump-mamdani-and-the-future-of-new-york",
     "guid": "000001a1-7a1a-dc8a-a3ef-7fdb8cec0000",
