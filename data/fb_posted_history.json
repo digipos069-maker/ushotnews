@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T13:22:07.180072+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-28T13:27:37.657483+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-9865e2bfd1": {
       "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129274627471257",
       "fb_comment_id": "122129274627471257_1413207584352812",
       "posted_at": "2026-10-28T13:22:07.180002+00:00"
+    },
+    "scraped-b69085c1a0": {
+      "title": "Voters in Texas agree: They hate data centers",
+      "slug": "voters-in-texas-agree-they-hate-data-centers",
+      "url": "https://ushotnews.online/article/voters-in-texas-agree-they-hate-data-centers",
+      "article_url": "https://ushotnews.online/article/voters-in-texas-agree-they-hate-data-centers",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129276331471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129276331471257",
+      "fb_comment_id": "122129276331471257_2163405830977698",
+      "posted_at": "2026-10-28T13:27:37.657385+00:00"
+    },
+    "voters-in-texas-agree-they-hate-data-centers": {
+      "title": "Voters in Texas agree: They hate data centers",
+      "slug": "voters-in-texas-agree-they-hate-data-centers",
+      "url": "https://ushotnews.online/article/voters-in-texas-agree-they-hate-data-centers",
+      "article_url": "https://ushotnews.online/article/voters-in-texas-agree-they-hate-data-centers",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129276331471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129276331471257",
+      "fb_comment_id": "122129276331471257_2163405830977698",
+      "posted_at": "2026-10-28T13:27:37.657385+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T13:21:55.178444+00:00"
+  "last_cleaned_at": "2026-10-28T13:27:28.394681+00:00"
 }
