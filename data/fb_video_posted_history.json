@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-28T05:04:21.623755+00:00",
+  "last_updated": "2026-10-28T12:33:04.583119+00:00",
   "posted_count": 14,
   "articles": {
-    "dvids-video:1027405": {
-      "title": "MCBH Halloween Fest Announcement",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095281/DOD_112095281.mp4",
-      "attached_website_url": "https://ushotnews.online/article/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "4401752930041548",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4401752930041548",
-      "fb_comment_id": "4401752930041548_1140516438360296",
-      "posted_at": "2026-10-25T07:29:36.159230+00:00"
-    },
     "dvids-video:1027403": {
       "title": "1st Sgt. Steven Shives - Houston Texans Shout-out",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112095214/DOD_112095214.mp4",
@@ -155,7 +144,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2297176244458931",
       "fb_comment_id": "2297176244458931_2947691698900601",
       "posted_at": "2026-10-28T05:04:21.623695+00:00"
+    },
+    "dvids-video:1027754": {
+      "title": "3rd LSB work alongside JGSDF during bilateral aerial delivery training",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112104349/DOD_112104349.mp4",
+      "attached_website_url": "https://ushotnews.online/article/us-to-issue-visas-to-flávio-bolsonaro-as-his-whereabouts-remain-unclear",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2871255813269492",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2871255813269492",
+      "fb_comment_id": "2871255813269492_3169935233197923",
+      "posted_at": "2026-10-28T12:33:04.583050+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T05:03:43.428464+00:00"
+  "last_cleaned_at": "2026-10-28T12:31:09.745351+00:00"
 }
