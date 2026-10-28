@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T06:02:20.739419+00:00",
-  "posted_count": 62,
+  "last_updated": "2026-10-28T06:12:31.787364+00:00",
+  "posted_count": 64,
   "articles": {
     "scraped-76715f05e6": {
       "title": "LaNorris Sellers' acrobatics, late fumble recovery help give South Carolina walk-off win over Tennessee",
@@ -683,7 +683,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129163747471257",
       "fb_comment_id": "122129163747471257_1150599147397890",
       "posted_at": "2026-10-28T06:02:20.739348+00:00"
+    },
+    "scraped-d0231b426e": {
+      "title": "Florida girlfriend allegedly tracks cheating boyfriend, shoots woman in his car: reports",
+      "slug": "florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-in-his-car-reports",
+      "url": "https://ushotnews.online/article/florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-in-his-car-reports",
+      "article_url": "https://ushotnews.online/article/florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-in-his-car-reports",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129167239471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129167239471257",
+      "fb_comment_id": "122129167239471257_1663802175133679",
+      "posted_at": "2026-10-28T06:12:31.787296+00:00"
+    },
+    "florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-in-his-car-reports": {
+      "title": "Florida girlfriend allegedly tracks cheating boyfriend, shoots woman in his car: reports",
+      "slug": "florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-in-his-car-reports",
+      "url": "https://ushotnews.online/article/florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-in-his-car-reports",
+      "article_url": "https://ushotnews.online/article/florida-girlfriend-allegedly-tracks-cheating-boyfriend-shoots-woman-in-his-car-reports",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129167239471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129167239471257",
+      "fb_comment_id": "122129167239471257_1663802175133679",
+      "posted_at": "2026-10-28T06:12:31.787296+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T06:02:08.518570+00:00"
+  "last_cleaned_at": "2026-10-28T06:12:22.421104+00:00"
 }
