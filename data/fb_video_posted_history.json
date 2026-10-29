@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-29T19:30:01.569448+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-10-29T23:52:37.199987+00:00",
+  "posted_count": 12,
   "articles": {
-    "dvids-video:1027544": {
-      "title": "COVID Reinstatement Process",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112099345/DOD_112099345-1920x1080-9000k.mp4",
-      "attached_website_url": "https://ushotnews.online/article/spurned-by-trump-these-outgoing-republicans-arent-helping-their-potential-successors",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1966304761011348",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1966304761011348",
-      "fb_comment_id": "1966304761011348_1080498888144312",
-      "posted_at": "2026-10-26T19:50:24.403452+00:00"
-    },
-    "dvids-video:1027597": {
-      "title": "Faces of DLA: Kristie Davis, DLA Disposition Services (open caption)",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112100444/DOD_112100444.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-sony-wh-1000xm4c-bring-back-a-beloved-headphone-design",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "3042500246099351",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3042500246099351",
-      "fb_comment_id": "3042500246099351_1824441195557337",
-      "posted_at": "2026-10-26T23:41:32.343256+00:00"
-    },
     "dvids-video:1027612": {
       "title": "Carroll Flu Drive",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112100761/DOD_112100761.mp4",
@@ -144,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1051888854576307",
       "fb_comment_id": "1051888854576307_1146704517743145",
       "posted_at": "2026-10-29T19:30:01.569390+00:00"
+    },
+    "dvids-video:1028035": {
+      "title": "Advanced Helicopter Rescue School social media teaser",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112109088/DOD_112109088.mp4",
+      "attached_website_url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1135228325912178",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1135228325912178",
+      "fb_comment_id": "1135228325912178_2587851211687318",
+      "posted_at": "2026-10-29T23:52:37.199926+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-29T19:28:37.461375+00:00"
+  "last_cleaned_at": "2026-10-29T23:52:03.666138+00:00"
 }
