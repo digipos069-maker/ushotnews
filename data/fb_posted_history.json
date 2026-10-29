@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T09:24:44.759697+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-29T09:47:58.963799+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-1841b33b29": {
       "title": "Kylie Cantrall's World Series national anthem being called best since Whitney by some, NFL memes & Ric update",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129596485471257",
       "fb_comment_id": "122129596485471257_1534149748775286",
       "posted_at": "2026-10-29T09:24:44.759626+00:00"
+    },
+    "scraped-7bacca111b": {
+      "title": "DR MARC SIEGEL: America’s awful marijuana addiction is spreading from parents to kids",
+      "slug": "dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
+      "url": "https://ushotnews.online/article/dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
+      "article_url": "https://ushotnews.online/article/dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129601111471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129601111471257",
+      "fb_comment_id": "122129601111471257_1143896761923097",
+      "posted_at": "2026-10-29T09:47:58.963719+00:00"
+    },
+    "dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids": {
+      "title": "DR MARC SIEGEL: America’s awful marijuana addiction is spreading from parents to kids",
+      "slug": "dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
+      "url": "https://ushotnews.online/article/dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
+      "article_url": "https://ushotnews.online/article/dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129601111471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129601111471257",
+      "fb_comment_id": "122129601111471257_1143896761923097",
+      "posted_at": "2026-10-29T09:47:58.963719+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-29T09:24:36.975877+00:00"
+  "last_cleaned_at": "2026-10-29T09:47:51.571809+00:00"
 }
