@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T12:43:10.406746+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-10-29T19:30:01.569448+00:00",
+  "posted_count": 13,
   "articles": {
     "dvids-video:1027544": {
       "title": "COVID Reinstatement Process",
@@ -133,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2509897116163884",
       "fb_comment_id": "2509897116163884_2304789676965683",
       "posted_at": "2026-10-29T12:43:10.406656+00:00"
+    },
+    "dvids-video:1027988": {
+      "title": "Coast Guard Air Station Elizabeth City hosts a visit with DHS Secretary Markwayne Mullin",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112108370/DOD_112108370.mp4",
+      "attached_website_url": "https://ushotnews.online/article/moderates-put-the-left-on-notice",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1051888854576307",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1051888854576307",
+      "fb_comment_id": "1051888854576307_1146704517743145",
+      "posted_at": "2026-10-29T19:30:01.569390+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-29T12:41:48.987145+00:00"
+  "last_cleaned_at": "2026-10-29T19:28:37.461375+00:00"
 }
