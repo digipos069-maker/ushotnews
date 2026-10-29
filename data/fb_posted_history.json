@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T16:21:12.569059+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-29T16:51:36.849947+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-4abd266fd4": {
       "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129718477471257",
       "fb_comment_id": "122129718477471257_2012307896000123",
       "posted_at": "2026-10-29T16:21:12.569000+00:00"
+    },
+    "scraped-d0f077a651": {
+      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+      "slug": "us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "url": "https://ushotnews.online/article/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "article_url": "https://ushotnews.online/article/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129727723471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129727723471257",
+      "fb_comment_id": "122129727723471257_1148487181083906",
+      "posted_at": "2026-10-29T16:51:36.849887+00:00"
+    },
+    "us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production": {
+      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
+      "slug": "us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "url": "https://ushotnews.online/article/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "article_url": "https://ushotnews.online/article/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129727723471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129727723471257",
+      "fb_comment_id": "122129727723471257_1148487181083906",
+      "posted_at": "2026-10-29T16:51:36.849887+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-29T16:21:01.098808+00:00"
+  "last_cleaned_at": "2026-10-29T16:51:24.732833+00:00"
 }
