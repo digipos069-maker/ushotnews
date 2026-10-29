@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-29T09:47:58.963799+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-29T16:21:12.569059+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-1841b33b29": {
-      "title": "Kylie Cantrall's World Series national anthem being called best since Whitney by some, NFL memes & Ric update",
-      "slug": "kylie-cantralls-world-series-national-anthem-being-called-best-since-whitney-by-some-nfl-m",
-      "url": "https://ushotnews.online/article/kylie-cantralls-world-series-national-anthem-being-called-best-since-whitney-by-some-nfl-m",
-      "article_url": "https://ushotnews.online/article/kylie-cantralls-world-series-national-anthem-being-called-best-since-whitney-by-some-nfl-m",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128576971471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128576971471257",
-      "fb_comment_id": "122128576971471257_1810621240274034",
-      "posted_at": "2026-10-26T14:29:53.586035+00:00"
-    },
-    "kylie-cantralls-world-series-national-anthem-being-called-best-since-whitney-by-some-nfl-m": {
-      "title": "Kylie Cantrall's World Series national anthem being called best since Whitney by some, NFL memes & Ric update",
-      "slug": "kylie-cantralls-world-series-national-anthem-being-called-best-since-whitney-by-some-nfl-m",
-      "url": "https://ushotnews.online/article/kylie-cantralls-world-series-national-anthem-being-called-best-since-whitney-by-some-nfl-m",
-      "article_url": "https://ushotnews.online/article/kylie-cantralls-world-series-national-anthem-being-called-best-since-whitney-by-some-nfl-m",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128576971471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128576971471257",
-      "fb_comment_id": "122128576971471257_1810621240274034",
-      "posted_at": "2026-10-26T14:29:53.586035+00:00"
-    },
-    "scraped-a69eee5a5e": {
-      "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
-      "slug": "australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
-      "url": "https://ushotnews.online/article/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
-      "article_url": "https://ushotnews.online/article/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128591791471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128591791471257",
-      "fb_comment_id": "122128591791471257_1162888359742141",
-      "posted_at": "2026-10-26T15:06:44.601955+00:00"
-    },
-    "australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban": {
-      "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
-      "slug": "australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
-      "url": "https://ushotnews.online/article/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
-      "article_url": "https://ushotnews.online/article/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122128591791471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122128591791471257",
-      "fb_comment_id": "122128591791471257_1162888359742141",
-      "posted_at": "2026-10-26T15:06:44.601955+00:00"
-    },
     "scraped-4abd266fd4": {
       "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
       "slug": "iphone-duo-now-supports-apple-pencil-with-ios-272",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129601111471257",
       "fb_comment_id": "122129601111471257_1143896761923097",
       "posted_at": "2026-10-29T09:47:58.963719+00:00"
+    },
+    "scraped-c4a16da24e": {
+      "title": "Microsoft’s AI future has fewer jobs",
+      "slug": "microsofts-ai-future-has-fewer-jobs",
+      "url": "https://ushotnews.online/article/microsofts-ai-future-has-fewer-jobs",
+      "article_url": "https://ushotnews.online/article/microsofts-ai-future-has-fewer-jobs",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129718477471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129718477471257",
+      "fb_comment_id": "122129718477471257_2012307896000123",
+      "posted_at": "2026-10-29T16:21:12.569000+00:00"
+    },
+    "microsofts-ai-future-has-fewer-jobs": {
+      "title": "Microsoft’s AI future has fewer jobs",
+      "slug": "microsofts-ai-future-has-fewer-jobs",
+      "url": "https://ushotnews.online/article/microsofts-ai-future-has-fewer-jobs",
+      "article_url": "https://ushotnews.online/article/microsofts-ai-future-has-fewer-jobs",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129718477471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129718477471257",
+      "fb_comment_id": "122129718477471257_2012307896000123",
+      "posted_at": "2026-10-29T16:21:12.569000+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-29T09:47:51.571809+00:00"
+  "last_cleaned_at": "2026-10-29T16:21:01.098808+00:00"
 }
