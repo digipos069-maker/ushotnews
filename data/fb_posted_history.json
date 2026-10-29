@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T21:19:33.150057+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-29T21:44:41.344576+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-68ca6a2b27": {
       "title": "Oregon Ducks' collapse continues, as loss to Illinois puts Dan Lanning on the hot seat in Eugene",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129785881471257",
       "fb_comment_id": "122129785881471257_3046788722334331",
       "posted_at": "2026-10-29T21:19:33.149992+00:00"
+    },
+    "scraped-08d2c7ef8c": {
+      "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
+      "slug": "fishing-is-a-key-issue-in-alaskas-tight-us-senate-race",
+      "url": "https://ushotnews.online/article/fishing-is-a-key-issue-in-alaskas-tight-us-senate-race",
+      "article_url": "https://ushotnews.online/article/fishing-is-a-key-issue-in-alaskas-tight-us-senate-race",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129795619471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129795619471257",
+      "fb_comment_id": "122129795619471257_2572383183239538",
+      "posted_at": "2026-10-29T21:44:41.344504+00:00"
+    },
+    "fishing-is-a-key-issue-in-alaskas-tight-us-senate-race": {
+      "title": "Fishing is a key issue in Alaska's tight U.S. Senate race",
+      "slug": "fishing-is-a-key-issue-in-alaskas-tight-us-senate-race",
+      "url": "https://ushotnews.online/article/fishing-is-a-key-issue-in-alaskas-tight-us-senate-race",
+      "article_url": "https://ushotnews.online/article/fishing-is-a-key-issue-in-alaskas-tight-us-senate-race",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129795619471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129795619471257",
+      "fb_comment_id": "122129795619471257_2572383183239538",
+      "posted_at": "2026-10-29T21:44:41.344504+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-29T21:19:21.140489+00:00"
+  "last_cleaned_at": "2026-10-29T21:44:31.838509+00:00"
 }
