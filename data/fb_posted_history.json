@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T02:39:17.518264+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-29T02:46:23.008579+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-9ae035bd87": {
       "title": "Nicki Minaj pledges to support Donald Trump again during Michigan Republican campaign rally",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129507547471257",
       "fb_comment_id": "122129507547471257_1113632784971962",
       "posted_at": "2026-10-29T02:39:17.518206+00:00"
+    },
+    "scraped-85fde396d5": {
+      "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+      "slug": "brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "url": "https://ushotnews.online/article/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "article_url": "https://ushotnews.online/article/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129509833471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129509833471257",
+      "fb_comment_id": "122129509833471257_4572350379690883",
+      "posted_at": "2026-10-29T02:46:23.008520+00:00"
+    },
+    "brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami": {
+      "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+      "slug": "brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "url": "https://ushotnews.online/article/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "article_url": "https://ushotnews.online/article/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129509833471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129509833471257",
+      "fb_comment_id": "122129509833471257_4572350379690883",
+      "posted_at": "2026-10-29T02:46:23.008520+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-29T02:39:07.030114+00:00"
+  "last_cleaned_at": "2026-10-29T02:46:14.610438+00:00"
 }
