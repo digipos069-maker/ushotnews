@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-10-28T23:58:46.324885+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-10-29T05:34:42.099602+00:00",
+  "posted_count": 12,
   "articles": {
-    "dvids-video:1027440": {
-      "title": "CAS EVAC SIMULATION",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112096872/DOD_112096872.mp4",
-      "attached_website_url": "https://ushotnews.online/article/scott-walkers-the-drift-will-get-under-your-skin",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2069492810364226",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2069492810364226",
-      "fb_comment_id": "2069492810364226_1112933534658173",
-      "posted_at": "2026-10-26T00:01:40.381188+00:00"
-    },
-    "dvids-video:1027467": {
-      "title": "51st Fighter Wing - Chicago Bears Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112097428/DOD_112097428.mp4",
-      "attached_website_url": "https://ushotnews.online/article/brazils-left-wing-president-lula-elected-for-fourth-term",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2446393362798795",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2446393362798795",
-      "fb_comment_id": "2446393362798795_2110325236523520",
-      "posted_at": "2026-10-26T04:36:13.382484+00:00"
-    },
     "dvids-video:1027496": {
       "title": "Keen Sword 27: U.S. Marines and JGSDF CQB training",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112098290/DOD_112098290.mp4",
@@ -144,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2936833690019274",
       "fb_comment_id": "2936833690019274_1634824431615163",
       "posted_at": "2026-10-28T23:58:46.324826+00:00"
+    },
+    "dvids-video:1027904": {
+      "title": "Staff Flu Vaccination, Marine Corps Air Station Iwakuni, Japan 2026 (BROLL)",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112107109/DOD_112107109.mp4",
+      "attached_website_url": "https://ushotnews.online/article/adam-mosseri-says-negativity-around-ai-is-going-to-get-worse",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2313979112509928",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2313979112509928",
+      "fb_comment_id": "2313979112509928_29972758442361026",
+      "posted_at": "2026-10-29T05:34:42.099544+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-28T23:57:30.445190+00:00"
+  "last_cleaned_at": "2026-10-29T05:34:13.821935+00:00"
 }
