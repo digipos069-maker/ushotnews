@@ -1,5 +1,856 @@
 [
   {
+    "id": "scraped-f4e9300f02",
+    "slug": "trumps-anti-muslim-attacks-dominate-michigans-election-homestretch",
+    "guid": "000001a1-852a-d924-adfd-8faef14b0001",
+    "title": "Trump’s anti-Muslim attacks dominate Michigan’s election homestretch",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "After Trump called him a “jihadist,” Abdul El-Sayed brushed off the “desperate, bad faith attacks”",
+    "content": [
+      "After Trump called him a “jihadist,” Abdul El-Sayed brushed off the “desperate, bad faith attacks”",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/ad/d1/914c000b48a5843dc72b77ef6a7c/election-2-26-michigan-97427.jpg",
+    "imageCaption": "Trump’s anti-Muslim attacks dominate Michigan’s election hom... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a41211ad1c",
+    "slug": "state-ballots-let-voters-decide-on-abortion-taxes-transgender-restrictions",
+    "guid": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+    "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
+    "content": [
+      "Missouri voters could ban abortion - after they just removed a ban two years ago. California voters could tax billionaires 5% of their wealth.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "State ballots let voters decide on abortion, taxes, transgen... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-61ebe4c734",
+    "slug": "tariffs-diesel-and-computer-chips-are-driving-up-costs-for-automakers",
+    "guid": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
+    "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
+    "content": [
+      "American auto companies say they are paying more for key components like computer chips, steel and copper — plus the fuel needed to transport their products.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tariffs, diesel and computer chips are driving up costs for ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ef9b4c3148",
+    "slug": "these-are-the-house-races-to-watch-in-the-2026-midterm-election-on-nov-3",
+    "guid": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+    "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.",
+    "content": [
+      "An NPR analysis finds 70 House districts where Democrats and Republicans are each investing more than six figures in advertising during the final few days of the election, including in deep red areas.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "These are the House races to watch in the 2026 midterm elect... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-175739da3f",
+    "slug": "ahead-of-midterms-missourians-defend-transgender-healthcare",
+    "guid": "https://www.npr.org/2026/10/29/nx-s1-6017986/election-midterm-healthcare-transgender",
+    "title": "Ahead of midterms, Missourians defend transgender healthcare",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
+    "content": [
+      "The campaign to defend access to transgender healthcare for young people in Missouri is taking an unhurried approach to talking with voters about the proposed ban.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Ahead of midterms, Missourians defend transgender healthcare... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4df8679369",
+    "slug": "business-as-a-liberal-art-some-high-schools-say-yes",
+    "guid": "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school",
+    "title": "Business as a liberal art? Some high schools say yes",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Learning about money is becoming a growing part of the high school curriculum.",
+    "content": [
+      "Learning about money is becoming a growing part of the high school curriculum.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Business as a liberal art? Some high schools say yes... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-eb7e9c1971",
+    "slug": "their-colleges-closed-but-the-government-refuses-to-erase-their-debts-lawsuit-says",
+    "guid": "https://www.npr.org/2026/10/29/nx-s1-6003916/student-loans-closed-colleges-education-department-trump-biden",
+    "title": "Their colleges closed, but the government refuses to erase their debts, lawsuit says",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly. A new lawsuit claims the department isn't fully following those rules.",
+    "content": [
+      "Federal law requires the Education Department to erase the student loans of borrowers whose colleges close suddenly. A new lawsuit claims the department isn't fully following those rules.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Their colleges closed, but the government refuses to erase t... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ae05a7372e",
+    "slug": "how-ai-drones-are-influencing-the-course-of-the-ukraine-war",
+    "guid": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
+    "title": "How AI drones are influencing the course of the Ukraine war",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
+    "content": [
+      "Artificial intelligence is making drones faster and more capable. Russia and Ukraine both use AI-powered drones, and Ukrainian President Volodymyr Zelenskyy has warned that AI could lead decisions on the battlefield as soon as next year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How AI drones are influencing the course of the Ukraine war... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:02:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-56c60ed51c",
+    "slug": "brewers-win-world-series-for-first-time-in-franchise-history-with-game-5-victory-over-rays",
+    "guid": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays",
+    "title": "Brewers win World Series for first time in franchise history with Game 5 victory over Rays",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Milwaukee Brewers can call themselves World Series champions for the first time in franchise history after defeating the Tampa Bay Rays in Game 5.",
+    "content": [
+      "The Milwaukee Brewers can call themselves World Series champions for the first time in franchise history after defeating the Tampa Bay Rays in Game 5.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mlb-brewers-102826-1.jpg?ve=1&tl=1",
+    "imageCaption": "Brewers win World Series for first time in franchise history... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T03:14:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-638da8d48c",
+    "slug": "dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-and-border-pat",
+    "guid": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents",
+    "title": "DHS investigates massive data breach exposing 40,000 employees, including ICE and Border Patrol agents",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Department of Homeland Security is investigating a breach that exposed roughly 40,000 employees, including 10,000 ICE agents and CBP personnel.",
+    "content": [
+      "The Department of Homeland Security is investigating a breach that exposed roughly 40,000 employees, including 10,000 ICE agents and CBP personnel.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/markwayne-mullin-october-9-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "DHS investigates massive data breach exposing 40,000 employe... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T04:31:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e575bbb3fe",
+    "slug": "why-most-journalists-are-tired-of-fact-checking-donald-trump",
+    "guid": "https://www.foxnews.com/opinion/why-most-journalists-tired-fact-checking-donald-trump",
+    "title": "Why most journalists are tired of fact-checking Donald Trump",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Journalists are abandoning basic fact-checking and overlooking major stories as President Trump’s provocative remarks dominate the news cycle.",
+    "content": [
+      "Journalists are abandoning basic fact-checking and overlooking major stories as President Trump’s provocative remarks dominate the news cycle.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-greets-supporters-park-city-kansas.jpg?ve=1&tl=1",
+    "imageCaption": "Why most journalists are tired of fact-checking Donald Trump... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T07:00:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f35eb85166",
+    "slug": "hugh-hewitt-the-hidden-advantage-that-could-turn-senate-toss-ups-into-gop-wins",
+    "guid": "https://www.foxnews.com/opinion/hugh-hewitt-hidden-advantage-turn-senate-toss-ups-gop-wins",
+    "title": "HUGH HEWITT: The hidden advantage that could turn Senate toss-ups into GOP wins",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Susan Collins&apos; seniority advantage and key Senate races from Ohio to Minnesota could determine GOP control as Trump campaigns across the country.",
+    "content": [
+      "Susan Collins&apos; seniority advantage and key Senate races from Ohio to Minnesota could determine GOP control as Trump campaigns across the country.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/1200/675/jackson-collins-split.jpg?ve=1&tl=1",
+    "imageCaption": "HUGH HEWITT: The hidden advantage that could turn Senate tos... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T08:50:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-63803f216a",
+    "slug": "jason-chaffetz-democrats-tried-to-trick-alaska-voters-peltola-must-answer",
+    "guid": "https://www.foxnews.com/opinion/jason-chaffetz-democrats-tried-trick-alaska-voters-peltola-must-answer",
+    "title": "JASON CHAFFETZ: Democrats tried to trick Alaska voters. Peltola must answer",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Democratic Party and Mary Peltola&apos;s campaign allegedly recruited a Daniel J. Sullivan namesake to confuse Alaska voters under ranked-choice voting.",
+    "content": [
+      "The Democratic Party and Mary Peltola&apos;s campaign allegedly recruited a Daniel J. Sullivan namesake to confuse Alaska voters under ranked-choice voting.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/mary-peltola-alaska-senate-race.jpg?ve=1&tl=1",
+    "imageCaption": "JASON CHAFFETZ: Democrats tried to trick Alaska voters. Pelt... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T08:50:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7bacca111b",
+    "slug": "dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
+    "guid": "https://www.foxnews.com/opinion/dr-marc-siegel-americas-awful-marijuana-addiction-spreading-parents-kids",
+    "title": "DR MARC SIEGEL: America’s awful marijuana addiction is spreading from parents to kids",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A new study reveals approximately 6 million children live with a parent who uses cannabis most days, as THC content in products has surged dramatically.",
+    "content": [
+      "A new study reveals approximately 6 million children live with a parent who uses cannabis most days, as THC content in products has surged dramatically.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/man-smoking-marijuana-istock.jpg?ve=1&tl=1",
+    "imageCaption": "DR MARC SIEGEL: America’s awful marijuana addiction is sprea... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T08:50:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2e44e1df9e",
+    "slug": "thune-goes-all-in-on-campaign-trail-as-schumer-stays-on-bench-faces-rejection-from-fellow-",
+    "guid": "https://www.foxnews.com/politics/thune-goes-all-in-campaign-trail-schumer-stays-bench-faces-rejection-from-fellow-dems",
+    "title": "Thune goes all-in on campaign trail as Schumer stays on bench, faces rejection from fellow Dems",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "John Thune campaigns across key states while Chuck Schumer shifts to virtual events and faces growing resistance from his own party&apos;s candidates.",
+    "content": [
+      "John Thune campaigns across key states while Chuck Schumer shifts to virtual events and faces growing resistance from his own party&apos;s candidates.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/thune-schumer.jpg?ve=1&tl=1",
+    "imageCaption": "Thune goes all-in on campaign trail as Schumer stays on benc... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f7e2039091",
+    "slug": "taylor-weyeneth-final-republican-election-strategy-has-two-essential-elements",
+    "guid": "https://www.foxnews.com/opinion/taylor-weyeneth-final-republican-election-strategy-has-two-essential-elements",
+    "title": "TAYLOR WEYENETH: Final Republican election strategy has two essential elements",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Congressional Democrats face internal battles as Democratic Socialists of America members could dictate key decisions in a razor-thin House majority.",
+    "content": [
+      "Congressional Democrats face internal battles as Democratic Socialists of America members could dictate key decisions in a razor-thin House majority.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abdul-el-sayed-hasan-piker-detroit.jpg?ve=1&tl=1",
+    "imageCaption": "TAYLOR WEYENETH: Final Republican election strategy has two ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-20e052ea79",
+    "slug": "us-workers-connection-to-their-jobs-hits-lowest-level-since-2011-gallup-poll-finds",
+    "guid": "108476331",
+    "title": "U.S. workers’ connection to their jobs hits lowest level since 2011, Gallup poll finds",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Gallup finds U.S. worker engagement on the job sinking to a level not seen since 2011, with remote and hybrid employees and AI primary factors.",
+    "content": [
+      "Gallup finds U.S. worker engagement on the job sinking to a level not seen since 2011, with remote and hybrid employees and AI primary factors.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "U.S. workers’ connection to their jobs hits lowest level sin... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T04:01:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f0ac366200",
+    "slug": "analysis-warsh-is-learning-to-wield-the-feds-power-without-showing-his-hand",
+    "guid": "108477606",
+    "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+    "content": [
+      "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Analysis: Warsh is learning to wield the Fed's power without... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-946a76645b",
+    "slug": "trump-methane-policy-rollback-may-have-minimal-impact-on-crude-prices-epa-says",
+    "guid": "108466880",
+    "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
+    "content": [
+      "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump methane policy rollback may have minimal impact on cru... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T04:00:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c135ecdc8",
+    "slug": "shell-nearly-doubles-quarterly-profit-year-on-year-as-refining-margins-soar-to-record-high",
+    "guid": "108479074",
+    "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The oil major hiked its share buyback program as global volatility in energy markets saw profits soar.",
+    "content": [
+      "The oil major hiked its share buyback program as global volatility in energy markets saw profits soar.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Shell nearly doubles quarterly profit year-on-year as refini... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:04:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d4abce62bb",
+    "slug": "putin-praises-elon-musk-as-a-real-genius-as-russia-develops-starlink-alternative",
+    "guid": "108479150",
+    "title": "Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+    "content": [
+      "Russia is trying to develop is own version of the satellite constellation Starlink: Rassvet.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Putin praises Elon Musk as a ‘real genius’ as Russia develop... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T09:06:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-69f246738f",
+    "slug": "hegseth-reportedly-fires-us-top-military-planner-as-trump-downplays-iran-peace-talks",
+    "guid": "108478857",
+    "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+    "content": [
+      "Lieutenant General Brett Sylvia was removed as head of strategy, plans and policy on the Joint Chiefs of Staff.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Hegseth reportedly fires U.S. top military planner as Trump ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T07:35:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8fdac0d470",
+    "slug": "alphabet-falls-10-in-premarket-putting-it-on-course-for-its-biggest-ever-post-earnings-dro",
+    "guid": "108479149",
+    "title": "Alphabet falls 10% in premarket, putting it on course for its biggest ever post-earnings drop",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+    "content": [
+      "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Alphabet falls 10% in premarket, putting it on course for it... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-29T08:54:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-cc5ca4b137",
     "slug": "adam-mosseri-says-negativity-around-ai-is-going-to-get-worse",
     "guid": "https://www.theverge.com/?p=1021644",
