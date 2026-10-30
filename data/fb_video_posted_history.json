@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-30T05:16:43.957352+00:00",
+  "last_updated": "2026-10-30T12:34:24.774201+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1027616": {
-      "title": "Faces of Keen Sword 27 - Head of the DMBV",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112100892/DOD_112100892.mp4",
-      "attached_website_url": "https://ushotnews.online/article/trumps-fundraising-dominance-is-masking-a-long-term-problem-for-republicans",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "5580378902186545",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/5580378902186545",
-      "fb_comment_id": "5580378902186545_1860050105034717",
-      "posted_at": "2026-10-27T11:55:43.493645+00:00"
-    },
     "dvids-video:1027660": {
       "title": "Lethal Kinetic Strike, October 27, 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112102249/DOD_112102249.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1701747451552703",
       "fb_comment_id": "1701747451552703_1933565847624591",
       "posted_at": "2026-10-30T05:16:43.957295+00:00"
+    },
+    "dvids-video:1028111": {
+      "title": "Send Me: The making of a Soldier | Week 5",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112110399/DOD_112110399.mp4",
+      "attached_website_url": "https://ushotnews.online/article/why-the-midterms-are-a-warning-sign-for-both-parties",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1095959269875592",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1095959269875592",
+      "fb_comment_id": "1095959269875592_1117832020977007",
+      "posted_at": "2026-10-30T12:34:24.774139+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T05:15:44.787380+00:00"
+  "last_cleaned_at": "2026-10-30T12:33:12.194821+00:00"
 }
