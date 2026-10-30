@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-30T20:04:47.450505+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-30T23:28:44.971931+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-17d10353e2": {
-      "title": "WNBA's bizarre national anthem controversy shows just how much the league needs Caitlin Clark",
-      "slug": "wnbas-bizarre-national-anthem-controversy-shows-just-how-much-the-league-needs-caitlin-cla",
-      "url": "https://ushotnews.online/article/wnbas-bizarre-national-anthem-controversy-shows-just-how-much-the-league-needs-caitlin-cla",
-      "article_url": "https://ushotnews.online/article/wnbas-bizarre-national-anthem-controversy-shows-just-how-much-the-league-needs-caitlin-cla",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129043609471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129043609471257",
-      "fb_comment_id": "122129043609471257_1532969905305703",
-      "posted_at": "2026-10-27T20:32:03.330453+00:00"
-    },
-    "wnbas-bizarre-national-anthem-controversy-shows-just-how-much-the-league-needs-caitlin-cla": {
-      "title": "WNBA's bizarre national anthem controversy shows just how much the league needs Caitlin Clark",
-      "slug": "wnbas-bizarre-national-anthem-controversy-shows-just-how-much-the-league-needs-caitlin-cla",
-      "url": "https://ushotnews.online/article/wnbas-bizarre-national-anthem-controversy-shows-just-how-much-the-league-needs-caitlin-cla",
-      "article_url": "https://ushotnews.online/article/wnbas-bizarre-national-anthem-controversy-shows-just-how-much-the-league-needs-caitlin-cla",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129043609471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129043609471257",
-      "fb_comment_id": "122129043609471257_1532969905305703",
-      "posted_at": "2026-10-27T20:32:03.330453+00:00"
-    },
-    "scraped-9c337b6436": {
-      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-      "slug": "a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
-      "url": "https://ushotnews.online/article/a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
-      "article_url": "https://ushotnews.online/article/a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129054643471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129054643471257",
-      "fb_comment_id": "122129054643471257_1623736912407997",
-      "posted_at": "2026-10-27T20:54:43.518126+00:00"
-    },
-    "a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month": {
-      "title": "A judge halted D.C. golf course renovations. Trump says they'll still start next month",
-      "slug": "a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
-      "url": "https://ushotnews.online/article/a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
-      "article_url": "https://ushotnews.online/article/a-judge-halted-dc-golf-course-renovations-trump-says-theyll-still-start-next-month",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129054643471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129054643471257",
-      "fb_comment_id": "122129054643471257_1623736912407997",
-      "posted_at": "2026-10-27T20:54:43.518126+00:00"
-    },
     "scraped-2492ceac54": {
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
       "slug": "researchers-are-getting-tired-of-openai-gatekeeping-its-breakthroughs",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130148053471257",
       "fb_comment_id": "122130148053471257_3471558489669613",
       "posted_at": "2026-10-30T20:04:47.450443+00:00"
+    },
+    "scraped-97c712311c": {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "slug": "sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
+      "url": "https://ushotnews.online/article/sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
+      "article_url": "https://ushotnews.online/article/sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130190599471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130190599471257",
+      "fb_comment_id": "122130190599471257_999333839879621",
+      "posted_at": "2026-10-30T23:28:44.971864+00:00"
+    },
+    "sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk": {
+      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "slug": "sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
+      "url": "https://ushotnews.online/article/sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
+      "article_url": "https://ushotnews.online/article/sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130190599471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130190599471257",
+      "fb_comment_id": "122130190599471257_999333839879621",
+      "posted_at": "2026-10-30T23:28:44.971864+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T20:04:34.847138+00:00"
+  "last_cleaned_at": "2026-10-30T23:28:32.572863+00:00"
 }
