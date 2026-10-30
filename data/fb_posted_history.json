@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T07:33:21.119078+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-30T08:30:27.070169+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-6d86ca20a9": {
       "title": "Carville advises Dems cater to one key demographic for 2028 nominee, but warns 'they're not that liberal'",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129934147471257",
       "fb_comment_id": "122129934147471257_951190077740326",
       "posted_at": "2026-10-30T07:33:21.119021+00:00"
+    },
+    "scraped-9ce04a55ec": {
+      "title": "Brewers continue World Series celebration, raise Commissioner’s Trophy at Lambeau Field during Packers game",
+      "slug": "brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
+      "url": "https://ushotnews.online/article/brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
+      "article_url": "https://ushotnews.online/article/brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129945745471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129945745471257",
+      "fb_comment_id": "122129945745471257_1637082504786436",
+      "posted_at": "2026-10-30T08:30:27.070110+00:00"
+    },
+    "brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri": {
+      "title": "Brewers continue World Series celebration, raise Commissioner’s Trophy at Lambeau Field during Packers game",
+      "slug": "brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
+      "url": "https://ushotnews.online/article/brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
+      "article_url": "https://ushotnews.online/article/brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129945745471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129945745471257",
+      "fb_comment_id": "122129945745471257_1637082504786436",
+      "posted_at": "2026-10-30T08:30:27.070110+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T07:33:11.467000+00:00"
+  "last_cleaned_at": "2026-10-30T08:30:17.799035+00:00"
 }
