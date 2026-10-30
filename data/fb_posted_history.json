@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T14:52:00.351420+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-30T15:18:08.095252+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-1cb4b4fd69": {
       "title": "College football corporate overlords ruin another classic rivalry game with stupid new name",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130058425471257",
       "fb_comment_id": "122130058425471257_1160379073343584",
       "posted_at": "2026-10-30T14:52:00.351359+00:00"
+    },
+    "scraped-59d109f7fa": {
+      "title": "‘It could be quite a brutal evening’: GOP braces for some once-unthinkable losses",
+      "slug": "it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses",
+      "url": "https://ushotnews.online/article/it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses",
+      "article_url": "https://ushotnews.online/article/it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130063285471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130063285471257",
+      "fb_comment_id": "122130063285471257_1735320678014558",
+      "posted_at": "2026-10-30T15:18:08.095182+00:00"
+    },
+    "it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses": {
+      "title": "‘It could be quite a brutal evening’: GOP braces for some once-unthinkable losses",
+      "slug": "it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses",
+      "url": "https://ushotnews.online/article/it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses",
+      "article_url": "https://ushotnews.online/article/it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130063285471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130063285471257",
+      "fb_comment_id": "122130063285471257_1735320678014558",
+      "posted_at": "2026-10-30T15:18:08.095182+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T14:51:48.960583+00:00"
+  "last_cleaned_at": "2026-10-30T15:17:57.721154+00:00"
 }
