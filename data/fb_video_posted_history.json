@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-30T12:34:24.774201+00:00",
+  "last_updated": "2026-10-30T19:06:39.984011+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1027660": {
-      "title": "Lethal Kinetic Strike, October 27, 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112102249/DOD_112102249.mp4",
-      "attached_website_url": "https://ushotnews.online/article/palmer-luckeys-anduril-is-getting-into-laptops-and-claims-they8217ll-be-american-made",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2109243856620664",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2109243856620664",
-      "fb_comment_id": "2109243856620664_1052100114516250",
-      "posted_at": "2026-10-27T17:50:02.905566+00:00"
-    },
     "dvids-video:1027711": {
       "title": "Ravens Community Engagement (Bengals v Ravens 2026)",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112103244/DOD_112103244.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1095959269875592",
       "fb_comment_id": "1095959269875592_1117832020977007",
       "posted_at": "2026-10-30T12:34:24.774139+00:00"
+    },
+    "dvids-video:1028149": {
+      "title": "AST responders work to remove drums from site",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112110865/DOD_112110865.mp4",
+      "attached_website_url": "https://ushotnews.online/article/it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1110498651975142",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1110498651975142",
+      "fb_comment_id": "1110498651975142_1434665454871666",
+      "posted_at": "2026-10-30T19:06:39.983952+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T12:33:12.194821+00:00"
+  "last_cleaned_at": "2026-10-30T19:05:48.788529+00:00"
 }
