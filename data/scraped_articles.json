@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-8ddf77d70e",
+    "slug": "the-biggest-names-in-ai-are-backing-a-new-way-to-opt-out-of-scraping",
+    "guid": "https://www.theverge.com/?p=1023763",
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
+    "content": [
+      "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The biggest names in AI are backing a new way to opt out of ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T20:26:10+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-97c712311c",
+    "slug": "sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
+    "guid": "https://www.theverge.com/?p=1023820",
+    "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]",
+    "content": [
+      "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sam Altman says it’s better for RAM to be in a data center t... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T20:48:43+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c79075dac5",
+    "slug": "exclusive-details-about-akais-mpc-sample-key",
+    "guid": "https://www.theverge.com/?p=1023649",
+    "title": "Exclusive details about Akai’s MPC Sample Key",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of [&#8230;]",
+    "content": [
+      "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Exclusive details about Akai’s MPC Sample Key... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T21:01:32+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-05b2ece9f0",
+    "slug": "apple-intelligence-is-finally-coming-to-china-with-ios-273",
+    "guid": "https://www.theverge.com/?p=1023974",
+    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
+    "content": [
+      "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple Intelligence is finally coming to China with iOS 27.3... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:32:53+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b040af0ff1",
+    "slug": "judge-orders-an-inquiry-into-potential-doj-misconduct-in-trumps-golf-course-case",
+    "guid": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+    "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
+    "content": [
+      "A federal judge is opening an formal inquiry into Trump officials' conduct in the East Potomac case, including whether they misled the court about their plans for the municipal golf course.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Judge orders an inquiry into potential DOJ misconduct in Tru... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T21:56:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5f60dc7014",
+    "slug": "despite-concerns-the-trump-administration-still-sends-pregnant-migrant-minors-to-south-tex",
+    "guid": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
+    "title": "Despite concerns, the Trump administration still sends pregnant migrant minors to south Texas",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.",
+    "content": [
+      "Several children have had to leave the state to receive medical care, including abortions, that is unavailable in Texas.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Despite concerns, the Trump administration still sends pregn... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:06:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fb7eb2f807",
+    "slug": "fox-news-entertainment-newsletter-prince-harry-making-big-mistake-meghan-markle-suffers-ma",
+    "guid": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-prince-harry-making-big-mistake-meghan-markle-suffers-major-blow",
+    "title": "Fox News Entertainment newsletter: Prince Harry making ‘big mistake’; Meghan Markle suffers major blow",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
+    "content": [
+      "The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/Prince-Harry-Meghan-Markle-Nottingham-Appearance.jpg?ve=1&tl=1",
+    "imageCaption": "Fox News Entertainment newsletter: Prince Harry making ‘big ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T21:49:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6b323781e4",
+    "slug": "selma-blair-breaks-silence-weeks-after-arrest-for-assault-for-allegedly-attempting-to-open",
+    "guid": "https://www.foxnews.com/entertainment/selma-blair-breaks-silence-weeks-after-arrest-assualt-allegedly-attempting-open-door-midflight",
+    "title": "Selma Blair breaks silence weeks after arrest for assault for allegedly attempting to open door midflight",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Selma Blair on Friday broke her silence weeks after being arrested for assault for allegedly attempting to open an airplane door midflight.",
+    "content": [
+      "Selma Blair on Friday broke her silence weeks after being arrested for assault for allegedly attempting to open an airplane door midflight.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/selma-blair-green.jpg?ve=1&tl=1",
+    "imageCaption": "Selma Blair breaks silence weeks after arrest for assault fo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:26:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-25fad6655a",
+    "slug": "fox-readers-love-this-candle-warmer-lamp-and-its-now-just-20",
+    "guid": "https://www.foxnews.com/deals/marycele-candle-warmer-lamp-amazon-deal",
+    "title": "Fox readers love this candle warmer lamp, and it’s now just $20",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Skip the open flame and warm jar candles with the popular and elegant Marycele warmer lamp, now for half off.",
+    "content": [
+      "Skip the open flame and warm jar candles with the popular and elegant Marycele warmer lamp, now for half off.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/candle-warmer.jpg?ve=1&tl=1",
+    "imageCaption": "Fox readers love this candle warmer lamp, and it’s now just ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:26:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bf2da7ce69",
+    "slug": "russias-international-hockey-ban-lifted-prompting-backlash-from-iihf-other-countries-incom",
+    "guid": "https://www.foxnews.com/outkick-sports/russia-international-hockey-ban-lifted-prompting-backlash-iihf-countries-incomprehensible",
+    "title": "Russia's international hockey ban lifted, prompting backlash from IIHF, other countries: 'Incomprehensible'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Court of Arbitration for Sport cited insufficient evidence for the IIHF&apos;s security concerns, clearing Russia for the world championships.",
+    "content": [
+      "The Court of Arbitration for Sport cited insufficient evidence for the IIHF&apos;s security concerns, clearing Russia for the world championships.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/russia-sweden-ice-hockey-world-championship.jpg?ve=1&tl=1",
+    "imageCaption": "Russia's international hockey ban lifted, prompting backlash... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:30:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a8ca685317",
+    "slug": "polish-president-turns-plane-around-after-coup-at-nations-top-court",
+    "guid": "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
+    "title": "Polish president turns plane around after 'coup' at nation’s top court",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tensions between Poland’s president and prime minister intensified as demonstrators rally outside the country’s top court.",
+    "content": [
+      "Tensions between Poland’s president and prime minister intensified as demonstrators rally outside the country’s top court.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/poland-court-protest.jpg?ve=1&tl=1",
+    "imageCaption": "Polish president turns plane around after 'coup' at nation’s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:32:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d06d9fefed",
+    "slug": "california-dad-of-5-says-charter-school-rejected-books-that-even-mentioned-god-publisher-b",
+    "guid": "https://www.foxnews.com/media/california-dad-5-says-charter-school-rejected-books-even-mentioned-god-publisher-blacklist",
+    "title": "California dad of 5 says charter school rejected books that even mentioned God: 'Publisher blacklist'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "John Woolard says a California charter school rejected homeschooling materials that merely mentioned God, forcing his family to pay out of pocket.",
+    "content": [
+      "John Woolard says a California charter school rejected homeschooling materials that merely mentioned God, forcing his family to pay out of pocket.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/John-and-Breanna-Woolard-family.jpg?ve=1&tl=1",
+    "imageCaption": "California dad of 5 says charter school rejected books that ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T23:00:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-029c81552b",
+    "slug": "battleground-republican-declares-he-is-stronger-than-ever-as-he-addresses-scrutiny-over-mi",
+    "guid": "https://www.foxnews.com/media/battleground-republican-declares-stronger-than-ever-addresses-scrutiny-missed-votes",
+    "title": "Battleground Republican declares he is 'stronger than ever' as he addresses scrutiny over missed votes",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Rep. Tom Kean Jr. says he is stronger than ever after a months-long hospitalization for depression, vowing to combat mental health stigma.",
+    "content": [
+      "Rep. Tom Kean Jr. says he is stronger than ever after a months-long hospitalization for depression, vowing to combat mental health stigma.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/tom-keans-jr-fox-news.png?ve=1&tl=1",
+    "imageCaption": "Battleground Republican declares he is 'stronger than ever' ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T23:02:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7e0365d350",
+    "slug": "exclusive-ice-captures-illegal-alien-at-center-of-nyc-manhunt-after-sanctuary-city-release",
+    "guid": "https://www.foxnews.com/politics/exclusive-ice-captures-illegal-alien-center-nyc-manhunt-sanctuary-city-release",
+    "title": "EXCLUSIVE: ICE captures illegal alien at center of NYC manhunt after sanctuary city release",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Alpha Bah, who allegedly assaulted a NYPD officer, was tracked to a temporary NYC residence in after his release from Queens Central Booking despite an ICE detainer request.",
+    "content": [
+      "Alpha Bah, who allegedly assaulted a NYPD officer, was tracked to a temporary NYC residence in after his release from Queens Central Booking despite an ICE detainer request.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/alpha-bah-ice-arrest-nyc-manhunt-sanctuary-city.jpg?ve=1&tl=1",
+    "imageCaption": "EXCLUSIVE: ICE captures illegal alien at center of NYC manhu... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T23:10:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-804759abff",
+    "slug": "cramers-week-ahead-expect-more-volatility-as-tech-earnings-midterms-loom",
+    "guid": "108487479",
+    "title": "Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
+    "content": [
+      "Investors await earnings from Apple, AMD, and other major companies, as well as the midterm elections and the monthly jobs report.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cramer’s week ahead: Expect more volatility as tech earnings... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:17:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-55fbf5274d",
+    "slug": "jim-cramer-says-its-time-to-look-beyond-tech-here-are-4-consumer-stocks-he-likes",
+    "guid": "108487111",
+    "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
+    "content": [
+      "Cramer said investors looking to diversify beyond the struggling AI trade should consider consumer staples.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer says it's time to look beyond tech. Here are 4 co... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:52:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-49f5fdaab9",
+    "slug": "binance-loses-63-billion-in-crypto-heistwhat-happens-to-your-money-when-an-exchange-gets-h",
+    "guid": "108487114",
+    "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.",
+    "content": [
+      "Crypto exchanges make it easier to buy, sell and store digital assets, but they come with risks, too.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Binance loses $6.3 billion in crypto heist—what happens to y... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T21:45:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a7e5f53048",
+    "slug": "meta-outlook-revised-downward-by-sp-on-cash-flow-and-capex-concerns",
+    "guid": "108488626",
+    "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Meta has been given a negative outlook by S P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.",
+    "content": [
+      "Meta has been given a negative outlook by S P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta outlook revised downward by S&P on cash flow and capex ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:42:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0d5619f071",
+    "slug": "halloween-gets-pricier-as-chocolate-costs-climb-hershey-may-feel-the-pinch",
+    "guid": "108403840",
+    "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+    "content": [
+      "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Halloween gets pricier as chocolate costs climb — Hershey ma... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T16:55:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-971d9edccf",
+    "slug": "alaska-senate-election-doj-wants-to-segregate-all-ballots-for-2nd-sullivan-candidate",
+    "guid": "108487097",
+    "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+    "content": [
+      "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Alaska Senate election: DOJ wants to 'segregate' all ballots... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T22:57:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-5603ff0b27",
     "slug": "a-wave-can-hide-a-lot-of-weaknesses-dems-question-if-theyll-learn-anything",
     "guid": "000001a1-898e-d924-adfd-8bae1c4f0001",
