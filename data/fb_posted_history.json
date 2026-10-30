@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T19:51:46.364265+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-30T20:04:47.450505+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-17d10353e2": {
       "title": "WNBA's bizarre national anthem controversy shows just how much the league needs Caitlin Clark",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130146613471257",
       "fb_comment_id": "122130146613471257_1093872216800858",
       "posted_at": "2026-10-30T19:51:46.364206+00:00"
+    },
+    "scraped-67212b2bd5": {
+      "title": "'Punt' on this year's quarterback draft class, take Jeremiah Smith, says college football expert Brooks Austin",
+      "slug": "punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
+      "url": "https://ushotnews.online/article/punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
+      "article_url": "https://ushotnews.online/article/punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130148053471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130148053471257",
+      "fb_comment_id": "122130148053471257_3471558489669613",
+      "posted_at": "2026-10-30T20:04:47.450443+00:00"
+    },
+    "punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper": {
+      "title": "'Punt' on this year's quarterback draft class, take Jeremiah Smith, says college football expert Brooks Austin",
+      "slug": "punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
+      "url": "https://ushotnews.online/article/punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
+      "article_url": "https://ushotnews.online/article/punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130148053471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130148053471257",
+      "fb_comment_id": "122130148053471257_3471558489669613",
+      "posted_at": "2026-10-30T20:04:47.450443+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T19:51:38.249479+00:00"
+  "last_cleaned_at": "2026-10-30T20:04:34.847138+00:00"
 }
