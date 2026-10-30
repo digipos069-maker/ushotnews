@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T01:15:33.187279+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-30T01:51:56.173009+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-f59f2ec24d": {
       "title": "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129855925471257",
       "fb_comment_id": "122129855925471257_2192136104675704",
       "posted_at": "2026-10-30T01:15:33.187205+00:00"
+    },
+    "scraped-6b1630400d": {
+      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+      "slug": "utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
+      "url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
+      "article_url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129862999471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129862999471257",
+      "fb_comment_id": "122129862999471257_29094463350206711",
+      "posted_at": "2026-10-30T01:51:56.172937+00:00"
+    },
+    "utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling": {
+      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
+      "slug": "utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
+      "url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
+      "article_url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122129862999471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129862999471257",
+      "fb_comment_id": "122129862999471257_29094463350206711",
+      "posted_at": "2026-10-30T01:51:56.172937+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T01:15:24.927185+00:00"
+  "last_cleaned_at": "2026-10-30T01:51:46.191033+00:00"
 }
