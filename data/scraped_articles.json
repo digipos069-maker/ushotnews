@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-5840ec4d0a",
+    "slug": "why-the-midterms-are-a-warning-sign-for-both-parties",
+    "guid": "000001a1-8a1e-db47-afb1-8ffe3e050000",
+    "title": "Why the midterms are a warning sign for both parties",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Why the midterms are a warning sign for both parties",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why the midterms are a warning sign for both parties... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T03:59:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0e6d12b8d4",
+    "slug": "justice-department-issues-subpoenas-to-california-election-workers",
+    "guid": "https://www.npr.org/2026/10/29/nx-s1-6022560/doj-subpoenas-california-election",
+    "title": "Justice Department issues subpoenas to California election workers",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state's voter rolls.",
+    "content": [
+      "Grand jury subpoenas sent to election workers in Los Angeles come amid escalating tensions between the Trump administration and California election officials over the state's voter rolls.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Justice Department issues subpoenas to California election w... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T01:35:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-df2f2f33ec",
+    "slug": "man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi",
+    "guid": "https://www.foxnews.com/us/man-dressed-zombie-allegedly-stabs-two-coffee-shop-flees-hits-robotaxi",
+    "title": "Man dressed as zombie allegedly stabs two in coffee shop, flees and hits robotaxi",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Shankar Temple Grace allegedly stabbed two people at The Buzz Mill before fleeing in a pickup truck and crashing into an unoccupied vehicle.",
+    "content": [
+      "Shankar Temple Grace allegedly stabbed two people at The Buzz Mill before fleeing in a pickup truck and crashing into an unoccupied vehicle.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/buzzmill-attack.jpg?ve=1&tl=1",
+    "imageCaption": "Man dressed as zombie allegedly stabs two in coffee shop, fl... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T01:04:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1a9147e9cb",
+    "slug": "a-ghost-story-in-the-nations-capitol",
+    "guid": "https://www.foxnews.com/politics/ghost-story-nations-capitol",
+    "title": "A ghost story in the nation's Capitol",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Chad Pergram recalls slipping on the U.S. Capitol steps in front of Justin Trudeau and explores the ghostly history behind his unexpected fall.",
+    "content": [
+      "Chad Pergram recalls slipping on the U.S. Capitol steps in front of Justin Trudeau and explores the ghostly history behind his unexpected fall.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chad-pergram-.png?ve=1&tl=1",
+    "imageCaption": "A ghost story in the nation's Capitol... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T01:31:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dac1d64dab",
+    "slug": "june-jones-former-hawaii-and-atlanta-falcons-head-coach-dead-at-73",
+    "guid": "https://www.foxnews.com/outkick-sports/june-jones-former-hawaii-atlanta-falcons-head-coach-dead-73",
+    "title": "June Jones, former Hawai'i and Atlanta Falcons head coach, dead at 73",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "June Jones, who help led Hawai&apos;i to its first-ever BCS Bowl appearance among more coaching accolades, has died at the age of 73 on Thursday.",
+    "content": [
+      "June Jones, who help led Hawai&apos;i to its first-ever BCS Bowl appearance among more coaching accolades, has died at the age of 73 on Thursday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/June-Jones-Obit-2_001.jpg?ve=1&tl=1",
+    "imageCaption": "June Jones, former Hawai'i and Atlanta Falcons head coach, d... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T02:12:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1538f83253",
+    "slug": "chilis-customers-suffer-chemical-burns-after-dangerous-margarita-mix-up",
+    "guid": "https://www.foxnews.com/us/chilis-customers-suffer-chemical-burns-after-dangerous-margarita-mix-up",
+    "title": "Chili's customers suffer chemical burns after dangerous margarita mix-up",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Three customers and two employees suffered symptoms after an industrial degreaser was mistakenly used to prepare margaritas at a North Carolina Chili&apos;s.",
+    "content": [
+      "Three customers and two employees suffered symptoms after an industrial degreaser was mistakenly used to prepare margaritas at a North Carolina Chili&apos;s.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/chilis-redesign-exterior-night.jpg?ve=1&tl=1",
+    "imageCaption": "Chili's customers suffer chemical burns after dangerous marg... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T02:15:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f7bbc85fe8",
+    "slug": "three-killed-in-midair-helicopter-collision-near-oregon-airport-authorities-confirm",
+    "guid": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms",
+    "title": "Three killed in midair helicopter collision near Oregon airport, authorities confirm",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Two helicopters collided midair near McMinnville Municipal Airport in Oregon, crashing in a field and forcing highway closures as the FAA investigates.",
+    "content": [
+      "Two helicopters collided midair near McMinnville Municipal Airport in Oregon, crashing in a field and forcing highway closures as the FAA investigates.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/oregon-helicopter-collision-emergency-response.jpg?ve=1&tl=1",
+    "imageCaption": "Three killed in midair helicopter collision near Oregon airp... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T02:21:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9ce04a55ec",
+    "slug": "brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
+    "guid": "https://www.foxnews.com/outkick-sports/brewers-continue-world-series-celebration-raise-commissioners-trophy-lambeau-field-packers-game",
+    "title": "Brewers continue World Series celebration, raise Commissioner’s Trophy at Lambeau Field during Packers game",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Milwaukee Brewers raised the Commissioner&apos;s Trophy at Lambeau Field as Sal Frelick attempted a Lambeau Leap after their World Series win.",
+    "content": [
+      "The Milwaukee Brewers raised the Commissioner&apos;s Trophy at Lambeau Field as Sal Frelick attempted a Lambeau Leap after their World Series win.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Milwaukee-Brewers-Lambeau-Leap.jpg?ve=1&tl=1",
+    "imageCaption": "Brewers continue World Series celebration, raise Commissione... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T02:48:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-26dc787fba",
+    "slug": "packers-wr-christian-watson-gets-checked-at-hospital-after-scary-injury-somehow-returns-to",
+    "guid": "https://www.foxnews.com/outkick-sports/packers-wr-christian-watson-checked-hospital-scary-injury-returns-lambeau-field",
+    "title": "Packers WR Christian Watson gets checked at hospital after scary injury, somehow returns to Lambeau Field",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Christian Watson was rushed by ambulance to a hospital mid-game against the Carolina Panthers, only to ride it back to Lambeau Field in full pads.",
+    "content": [
+      "Christian Watson was rushed by ambulance to a hospital mid-game against the Carolina Panthers, only to ride it back to Lambeau Field in full pads.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/christian-watson-green-bay-packers-lambeau-field.jpg?ve=1&tl=1",
+    "imageCaption": "Packers WR Christian Watson gets checked at hospital after s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T03:09:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3b9a6470e7",
+    "slug": "packers-top-panthers-brewers-storm-lambeau-and-christian-watson-returns-from-hospital",
+    "guid": "https://www.foxnews.com/outkick-sports/packers-top-panthers-brewers-storm-lambeau-christian-watson-returns-hospital",
+    "title": "Packers top Panthers, Brewers storm Lambeau and Christian Watson returns from hospital",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jordan Love threw for 288 yards and three touchdowns as the Green Bay Packers held off Bryce Young and the Carolina Panthers at Lambeau Field.",
+    "content": [
+      "Jordan Love threw for 288 yards and three touchdowns as the Green Bay Packers held off Bryce Young and the Carolina Panthers at Lambeau Field.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Tucker-Kraft-touchdown-Lambeau-Leap.jpg?ve=1&tl=1",
+    "imageCaption": "Packers top Panthers, Brewers storm Lambeau and Christian Wa... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T03:59:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-69c28cb082",
+    "slug": "boj-holds-rates-as-underlying-inflation-aligns-with-2-target-for-first-time-since-2013",
+    "guid": "108478778",
+    "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.",
+    "content": [
+      "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "BOJ holds rates as underlying inflation aligns with 2% targe... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T04:19:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-66c484954c",
+    "slug": "israel-faces-weeks-of-coalition-haggling-as-netanyahus-party-claims-election-stolen",
+    "guid": "108483728",
+    "title": "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.",
+    "content": [
+      "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Israel faces weeks of coalition haggling as Netanyahu’s part... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T03:28:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cb9ff71542",
+    "slug": "a-pharma-giant-is-moving-past-one-patent-cliff-but-another-is-already-looming",
+    "guid": "108474408",
+    "title": "A pharma giant is moving past one patent cliff — but another is already looming",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks.",
+    "content": [
+      "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A pharma giant is moving past one patent cliff — but another... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T06:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-33895a2f04",
+    "slug": "iran-claims-four-tankers-struck-mines-in-hormuz-as-strike-fears-grow-after-us-midterms",
+    "guid": "108484422",
+    "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Iran said four tankers struck mines in the Strait of Hormuz, while Tehran disputed a U.S. claim that key shipping lanes had been cleared.",
+    "content": [
+      "Iran said four tankers struck mines in the Strait of Hormuz, while Tehran disputed a U.S. claim that key shipping lanes had been cleared.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Iran claims four tankers struck mines in Hormuz as strike fe... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-30T07:12:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-50603ff920",
     "slug": "reddits-ceo-says-googles-ai-mode-does-not-drive-traffic",
     "guid": "https://www.theverge.com/?p=1022848",
