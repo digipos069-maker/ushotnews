@@ -1,5 +1,338 @@
 [
   {
+    "id": "scraped-c548b305cc",
+    "slug": "el-sayed-campaign-wants-stevens-to-stay-away-after-day-of-back-and-forth-sniping",
+    "guid": "000001a1-8f52-d924-adfd-8ff66f820000",
+    "title": "El-Sayed campaign wants Stevens to stay away after day of back-and-forth sniping",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Some Democrats worry that the blowup between the two former primary rivals is imperiling their hold on the seat.",
+    "content": [
+      "Some Democrats worry that the blowup between the two former primary rivals is imperiling their hold on the seat.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/ad/d1/914c000b48a5843dc72b77ef6a7c/election-2-26-michigan-97427.jpg",
+    "imageCaption": "El-Sayed campaign wants Stevens to stay away after day of ba... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T00:46:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ffb02aef5a",
+    "slug": "nhls-reigning-mvp-nikita-kucherov-reportedly-asks-lightning-for-trade-in-stunning-move",
+    "guid": "https://www.foxnews.com/outkick-sports/nhls-reigning-mvp-nikita-kucherov-reportedly-asks-lightning-trade-stunning-move",
+    "title": "NHL's reigning MVP Nikita Kucherov reportedly asks Lightning for trade in stunning move",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Nikita Kucherov has reportedly asked the Tampa Bay Lightning to trade him and told teammates he will not re-sign after this season.",
+    "content": [
+      "Nikita Kucherov has reportedly asked the Tampa Bay Lightning to trade him and told teammates he will not re-sign after this season.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nikita-kucherov.png?ve=1&tl=1",
+    "imageCaption": "NHL's reigning MVP Nikita Kucherov reportedly asks Lightning... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T00:20:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3ec835704f",
+    "slug": "the-view-co-hosts-agree-democrats-should-not-impeach-trump-if-party-wins-back-control-of-c",
+    "guid": "https://www.foxnews.com/media/the-view-co-hosts-agree-democrats-should-not-impeach-trump-party-wins-back-control-congress",
+    "title": "'The View' co-hosts agree Democrats should not impeach Trump if party wins back control of Congress",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Former Vice President Kamala Harris warned Democrats against impeaching President Donald Trump, and The View co-hosts agreed the focus should be on accountability and investigations.",
+    "content": [
+      "Former Vice President Kamala Harris warned Democrats against impeaching President Donald Trump, and The View co-hosts agreed the focus should be on accountability and investigations.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/president-donald-trump-aug-31-2026.jpg?ve=1&tl=1",
+    "imageCaption": "'The View' co-hosts agree Democrats should not impeach Trump... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T00:24:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0f9004de39",
+    "slug": "sheriffs-department-gives-update-on-nancy-guthrie-case-9-months-after-kidnapping",
+    "guid": "https://www.foxnews.com/us/sheriffs-department-gives-update-nancy-guthrie-case-9-months-after-kidnapping",
+    "title": "Sheriff's department gives update on Nancy Guthrie case 9 months after kidnapping",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Pima County Sheriff’s Department gave an update in the Nancy Guthrie missing person’s case Friday, saying the department continuing to work to advance the case.",
+    "content": [
+      "The Pima County Sheriff’s Department gave an update in the Nancy Guthrie missing person’s case Friday, saying the department continuing to work to advance the case.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/nancy-guthrie-disappearance.jpg?ve=1&tl=1",
+    "imageCaption": "Sheriff's department gives update on Nancy Guthrie case 9 mo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T00:58:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-990401c654",
+    "slug": "hulk-hogans-widow-faces-negligence-claim-after-minor-was-allegedly-raped-at-sons-party-rep",
+    "guid": "https://www.foxnews.com/outkick-sports/hulk-hogan-widow-faces-negligence-claim-minor-allegedly-raped-son-party-report",
+    "title": "Hulk Hogan's widow faces negligence claim after minor was allegedly raped at son's party: report",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sky Daily allegedly supplied alcohol to minors before a party where a girl was sexually assaulted, according to a lawsuit first reported by TMZ.",
+    "content": [
+      "Sky Daily allegedly supplied alcohol to minors before a party where a girl was sexually assaulted, according to a lawsuit first reported by TMZ.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/sky-daily-hulk-hogan-103026.jpg?ve=1&tl=1",
+    "imageCaption": "Hulk Hogan's widow faces negligence claim after minor was al... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T01:16:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-76bf869780",
+    "slug": "buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert",
+    "guid": "https://www.foxnews.com/outkick-sports/buffalo-bills-tap-hometown-heroes-goo-goo-dolls-thanksgiving-night-halftime-concert",
+    "title": "Buffalo Bills tap hometown heroes Goo Goo Dolls for Thanksgiving night halftime concert",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Goo Goo Dolls will headline the Buffalo Bills Thanksgiving night halftime show, performing on the Bills Legends Deck at Highmark Stadium.",
+    "content": [
+      "The Goo Goo Dolls will headline the Buffalo Bills Thanksgiving night halftime show, performing on the Bills Legends Deck at Highmark Stadium.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Highmark-Stadium-general-view.jpg?ve=1&tl=1",
+    "imageCaption": "Buffalo Bills tap hometown heroes Goo Goo Dolls for Thanksgi... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T01:28:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fccb749a49",
+    "slug": "california-woman-accused-of-killing-trans-son-in-law-puts-blame-on-husband-in-new-docs-rep",
+    "guid": "https://www.foxnews.com/us/california-woman-accused-killing-trans-son-in-law-blames-husband-new-docs-reports",
+    "title": "California woman accused of killing trans son-in-law puts blame on husband in new docs: reports",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Shili Chen claims husband Shouyong Zhang fired the fatal shots that killed Jonathan McKinsey in a Dublin, California, park amid a bitter custody battle.",
+    "content": [
+      "Shili Chen claims husband Shouyong Zhang fired the fatal shots that killed Jonathan McKinsey in a Dublin, California, park amid a bitter custody battle.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/McKinsey-and-Inlaws-Split.jpg?ve=1&tl=1",
+    "imageCaption": "California woman accused of killing trans son-in-law puts bl... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T01:40:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9022c4c30a",
+    "slug": "ex-nba-player-says-lebron-james-should-stand-the-f-still-during-national-anthem",
+    "guid": "https://www.foxnews.com/outkick-sports/ex-nba-player-says-lebron-james-should-stand-f-still-during-national-anthem",
+    "title": "Ex-NBA player says LeBron James should 'stand the f--- still' during national anthem",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jason Williams unleashed an expletive-filled rant on his podcast about LeBron James&apos; national anthem habits, claiming the NBA star deserved a fine.",
+    "content": [
+      "Jason Williams unleashed an expletive-filled rant on his podcast about LeBron James&apos; national anthem habits, claiming the NBA star deserved a fine.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/lebron-james-76ers-mascot.jpg?ve=1&tl=1",
+    "imageCaption": "Ex-NBA player says LeBron James should 'stand the f--- still... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T01:46:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-33c9e30883",
+    "slug": "juju-watkins-says-shes-dreamed-of-her-first-basket-since-acl-injury-as-usc-looks-to-end-ti",
+    "guid": "https://www.foxnews.com/outkick-sports/juju-watkins-dreamed-first-basket-since-acl-injury-usc-looks-end-title-drought",
+    "title": "JuJu Watkins says she's dreamed of her first basket since ACL injury as USC looks to end title drought",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "JuJu Watkins returns to USC women&apos;s basketball after rehabbing an ACL tear, joining Jazzy Davidson in a loaded backcourt chasing a national title.",
+    "content": [
+      "JuJu Watkins returns to USC women&apos;s basketball after rehabbing an ACL tear, joining Jazzy Davidson in a loaded backcourt chasing a national title.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/juju-watkins4.jpg?ve=1&tl=1",
+    "imageCaption": "JuJu Watkins says she's dreamed of her first basket since AC... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T02:12:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-8ddf77d70e",
     "slug": "the-biggest-names-in-ai-are-backing-a-new-way-to-opt-out-of-scraping",
     "guid": "https://www.theverge.com/?p=1023763",
