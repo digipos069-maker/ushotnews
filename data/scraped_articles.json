@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-2258b0f184",
+    "slug": "keyboards-of-the-verge",
+    "guid": "https://www.theverge.com/?p=1017979",
+    "title": "Keyboards of The Verge",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from [&#8230;]",
+    "content": [
+      "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Keyboards of The Verge... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T19:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-006ee6e9e1",
+    "slug": "get-in-the-spirit-with-these-horrors-from-youtube",
+    "guid": "https://www.theverge.com/?p=1024096",
+    "title": "Get in the spirit with these horrors from YouTube",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or [&#8230;]",
+    "content": [
+      "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Get in the spirit with these horrors from YouTube... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:06:58+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1adbdb89e8",
+    "slug": "france-seethes-again-as-youth-led-protests-sweep-europe",
+    "guid": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+    "title": "France seethes again as youth-led protests sweep Europe",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+    "content": [
+      "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "France seethes again as youth-led protests sweep Europe... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T19:30:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ce86e46202",
+    "slug": "mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+    "guid": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+    "title": "Mixed economic forecast weighs heavy ahead of midterms",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?",
+    "content": [
+      "There was a mixed Halloween bag of economic news this week. GDP growth is up, but so are prices. For now at least, interest rates are staying the same. What does that mean for the midterm elections?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Mixed economic forecast weighs heavy ahead of midterms... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:14:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1722b4dc84",
+    "slug": "syracuse-stuns-smu-30-27-with-a-go-ahead-touchdown-with-17-seconds-left-for-halloween-upse",
+    "guid": "https://www.foxnews.com/outkick-sports/syracuse-stuns-smu-30-27-go-ahead-touchdown-17-seconds-left-halloween-upset",
+    "title": "Syracuse stuns SMU 30-27 with a go-ahead touchdown with 17 seconds left for Halloween upset",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kevin Jennings threw for 351 yards, but six sacks and a last-second Syracuse touchdown crushed SMU&apos;s College Football Playoff hopes on Halloween.",
+    "content": [
+      "Kevin Jennings threw for 351 yards, but six sacks and a last-second Syracuse touchdown crushed SMU&apos;s College Football Playoff hopes on Halloween.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/steve-angeli.png?ve=1&tl=1",
+    "imageCaption": "Syracuse stuns SMU 30-27 with a go-ahead touchdown with 17 s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:01:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-015b6131d9",
+    "slug": "transfer-portal-not-nil-reason-for-parity-claims-college-football-expert-brooks-austin",
+    "guid": "https://www.foxnews.com/outkick-sports/transfer-portal-not-nil-reason-parity-claims-college-football-expert-brooks-austin",
+    "title": "Transfer portal, not NIL, reason for parity, claims college football expert Brooks Austin",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Brooks Austin argues the transfer portal, not NIL, drives college football parity as programs like Georgia and Alabama can no longer stockpile depth.",
+    "content": [
+      "Brooks Austin argues the transfer portal, not NIL, drives college football parity as programs like Georgia and Alabama can no longer stockpile depth.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/sec-championship-120625.jpg?ve=1&tl=1",
+    "imageCaption": "Transfer portal, not NIL, reason for parity, claims college ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:05:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b759b5af59",
+    "slug": "cruise-company-founder-says-hes-the-villain-after-200-plus-passengers-are-stranded",
+    "guid": "https://www.foxnews.com/travel/cruise-company-founder-says-hes-villain-200-plus-passengers-stranded",
+    "title": "Cruise company founder says he's 'the villain' after 200-plus passengers are stranded",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The cruise ship captain of the Villa Vie Odyssey calls the forced disembarkation in Cambodia really painful as over 200 residents now face an uncertain future.",
+    "content": [
+      "The cruise ship captain of the Villa Vie Odyssey calls the forced disembarkation in Cambodia really painful as over 200 residents now face an uncertain future.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/CAMBODIA-VILLA-VIE-CRUISE-END-TRAVEL-FOLO-1.jpg?ve=1&tl=1",
+    "imageCaption": "Cruise company founder says he's 'the villain' after 200-plu... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:05:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d8d944aa5b",
+    "slug": "paper-straws-could-be-doing-more-harm-than-good-study-suggests",
+    "guid": "https://www.foxnews.com/health/paper-straws-could-doing-more-harm-than-good-study-suggests",
+    "title": "Paper straws could be doing more harm than good, study suggests",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A South Korean government-commissioned life cycle assessment found paper straws scored 6.33 times higher than plastic on a cancer-related measure.",
+    "content": [
+      "A South Korean government-commissioned life cycle assessment found paper straws scored 6.33 times higher than plastic on a cancer-related measure.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/paper-straws-in-drinks.jpg?ve=1&tl=1",
+    "imageCaption": "Paper straws could be doing more harm than good, study sugge... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:11:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bff42e928d",
+    "slug": "how-house-democrats-deterrence-message-on-trump-jobs-could-backfire",
+    "guid": "https://www.foxnews.com/politics/house-democrats-deterrence-message-trump-jobs-could-backfire-former-federal-prosecutor-warns",
+    "title": "How House Democrats' 'deterrence message' on Trump jobs could backfire",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Elissa Slotkin&apos;s warning to young Americans about joining Trump&apos;s administration could hand Republicans legal ammunition under Trump v. Mazars.",
+    "content": [
+      "Elissa Slotkin&apos;s warning to young Americans about joining Trump&apos;s administration could hand Republicans legal ammunition under Trump v. Mazars.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-on-south-lawn.jpg?ve=1&tl=1",
+    "imageCaption": "How House Democrats' 'deterrence message' on Trump jobs coul... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:36:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-41479d8615",
+    "slug": "cardinals-budda-baker-fields-questions-about-trade-rumors-while-wearing-evil-clown-hallowe",
+    "guid": "https://www.foxnews.com/outkick-sports/cardinals-budda-baker-fields-questions-trade-rumors-evil-clown-halloween-mask",
+    "title": "Cardinals' Budda Baker fields questions about trade rumors while wearing evil clown Halloween mask",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Budda Baker showed up in a creepy clown costume for his media availability, then had to field Arizona Cardinals trade deadline questions in full getup.",
+    "content": [
+      "Budda Baker showed up in a creepy clown costume for his media availability, then had to field Arizona Cardinals trade deadline questions in full getup.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/budda-baker-2.png?ve=1&tl=1",
+    "imageCaption": "Cardinals' Budda Baker fields questions about trade rumors w... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:50:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-19e4165c2a",
+    "slug": "jessie-james-decker-sets-internet-ablaze-after-spraying-passengers-bare-foot-on-her-armres",
+    "guid": "https://www.foxnews.com/entertainment/jessie-james-decker-sets-internet-ablaze-spraying-passengers-bare-foot-armrest-during-flight",
+    "title": "Jessie James Decker sets internet ablaze after spraying passenger’s bare foot on her armrest during flight",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jessie James Decker&apos;s airplane foot spray video ignited a fierce plane etiquette debate, with hundreds weighing in on the barefoot passenger&apos;s identity.",
+    "content": [
+      "Jessie James Decker&apos;s airplane foot spray video ignited a fierce plane etiquette debate, with hundreds weighing in on the barefoot passenger&apos;s identity.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jessie-james-decker-empire-state-building-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Jessie James Decker sets internet ablaze after spraying pass... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T22:00:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-744234407c",
+    "slug": "jonathan-taylor-trade-talks-active-and-ongoing-as-colts-now-fielding-calls-on-all-pro-runn",
+    "guid": "https://www.foxnews.com/outkick-sports/jonathan-taylor-trade-talks-active-ongoing-colts-fielding-calls-all-pro-running-back-report",
+    "title": "Jonathan Taylor trade talks 'active and ongoing' as Colts now fielding calls on All-Pro running back: report",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Broncos, Packers, Vikings, Giants and Seahawks have all called about Jonathan Taylor as the Colts&apos; NFL trade deadline fire sale heats up.",
+    "content": [
+      "The Broncos, Packers, Vikings, Giants and Seahawks have all called about Jonathan Taylor as the Colts&apos; NFL trade deadline fire sale heats up.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jonathan-taylor-colts-vikings-practice.jpg?ve=1&tl=1",
+    "imageCaption": "Jonathan Taylor trade talks 'active and ongoing' as Colts no... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T22:27:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3cf1128879",
+    "slug": "openai-pares-fundraising-goal-now-seeking-up-to-20-billion-in-latest-round",
+    "guid": "108493066",
+    "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+    "content": [
+      "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI pares fundraising goal, now seeking up to $20 billion... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T19:56:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-67bd7bdf6d",
+    "slug": "trump-defamation-suit-against-murdoch-wsj-over-epstein-letter-dismissed-with-prejudice",
+    "guid": "108493414",
+    "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+    "content": [
+      "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump defamation suit against Murdoch, WSJ over Epstein lett... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-10-31T21:05:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-6f98d6f665",
     "slug": "this-sunday-conservative-pastors-will-preach-against-democrats-claims-to-christian-faith",
     "guid": "000001a1-8e4a-d312-abed-ef4a86ec0001",
