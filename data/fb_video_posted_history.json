@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-31T05:00:04.186417+00:00",
+  "last_updated": "2026-10-31T12:00:43.387102+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1027735": {
-      "title": "Sgt. Dustin Stark - Detroit Lions Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112103552/DOD_112103552.mp4",
-      "attached_website_url": "https://ushotnews.online/article/republicans-wanted-rubio-on-the-stump-trump-coaxed-him-there",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2297176244458931",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2297176244458931",
-      "fb_comment_id": "2297176244458931_2947691698900601",
-      "posted_at": "2026-10-28T05:04:21.623695+00:00"
-    },
     "dvids-video:1027754": {
       "title": "3rd LSB work alongside JGSDF during bilateral aerial delivery training",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112104349/DOD_112104349.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1110738895029403",
       "fb_comment_id": "1110738895029403_1120257597279216",
       "posted_at": "2026-10-31T05:00:04.186357+00:00"
+    },
+    "dvids-video:1028246": {
+      "title": "Inflatable boat, small",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112112000/DOD_112112000.mp4",
+      "attached_website_url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
+      "trending_score": 60.0,
+      "format": "video",
+      "fb_video_id": "1118311853922413",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1118311853922413",
+      "fb_comment_id": "1118311853922413_1605476724159060",
+      "posted_at": "2026-10-31T12:00:43.387036+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T04:59:16.428848+00:00"
+  "last_cleaned_at": "2026-10-31T11:59:25.702863+00:00"
 }
