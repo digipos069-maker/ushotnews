@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-31T22:46:10.310657+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-10-31T23:38:23.949704+00:00",
+  "posted_count": 56,
   "articles": {
-    "scraped-efd7e5ffb5": {
-      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-      "slug": "coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
-      "url": "https://ushotnews.online/article/coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
-      "article_url": "https://ushotnews.online/article/coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129421921471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129421921471257",
-      "fb_comment_id": "122129421921471257_1591149092224539",
-      "posted_at": "2026-10-28T23:05:43.323941+00:00"
-    },
-    "coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations": {
-      "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-      "slug": "coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
-      "url": "https://ushotnews.online/article/coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
-      "article_url": "https://ushotnews.online/article/coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129421921471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129421921471257",
-      "fb_comment_id": "122129421921471257_1591149092224539",
-      "posted_at": "2026-10-28T23:05:43.323941+00:00"
-    },
-    "scraped-c2baa73537": {
-      "title": "Trump administration will allow pharmacies to make popular peptides",
-      "slug": "trump-administration-will-allow-pharmacies-to-make-popular-peptides",
-      "url": "https://ushotnews.online/article/trump-administration-will-allow-pharmacies-to-make-popular-peptides",
-      "article_url": "https://ushotnews.online/article/trump-administration-will-allow-pharmacies-to-make-popular-peptides",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129430939471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129430939471257",
-      "fb_comment_id": "122129430939471257_1977382432895719",
-      "posted_at": "2026-10-28T23:28:16.751394+00:00"
-    },
-    "trump-administration-will-allow-pharmacies-to-make-popular-peptides": {
-      "title": "Trump administration will allow pharmacies to make popular peptides",
-      "slug": "trump-administration-will-allow-pharmacies-to-make-popular-peptides",
-      "url": "https://ushotnews.online/article/trump-administration-will-allow-pharmacies-to-make-popular-peptides",
-      "article_url": "https://ushotnews.online/article/trump-administration-will-allow-pharmacies-to-make-popular-peptides",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129430939471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129430939471257",
-      "fb_comment_id": "122129430939471257_1977382432895719",
-      "posted_at": "2026-10-28T23:28:16.751394+00:00"
-    },
     "scraped-bc3f70623a": {
       "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
       "slug": "forecasters-are-predicting-a-warmer-and-wetter-winter-heres-how-el-niño-will-affect-your-r",
@@ -639,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130545025471257",
       "fb_comment_id": "122130545025471257_1092732363798829",
       "posted_at": "2026-10-31T22:46:10.310590+00:00"
+    },
+    "scraped-2258b0f184": {
+      "title": "Keyboards of The Verge",
+      "slug": "keyboards-of-the-verge",
+      "url": "https://ushotnews.online/article/keyboards-of-the-verge",
+      "article_url": "https://ushotnews.online/article/keyboards-of-the-verge",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130555921471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130555921471257",
+      "fb_comment_id": "122130555921471257_1579919840554426",
+      "posted_at": "2026-10-31T23:38:23.949644+00:00"
+    },
+    "keyboards-of-the-verge": {
+      "title": "Keyboards of The Verge",
+      "slug": "keyboards-of-the-verge",
+      "url": "https://ushotnews.online/article/keyboards-of-the-verge",
+      "article_url": "https://ushotnews.online/article/keyboards-of-the-verge",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130555921471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130555921471257",
+      "fb_comment_id": "122130555921471257_1579919840554426",
+      "posted_at": "2026-10-31T23:38:23.949644+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T22:45:52.716219+00:00"
+  "last_cleaned_at": "2026-10-31T23:38:08.614478+00:00"
 }
