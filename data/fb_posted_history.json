@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-31T16:16:55.086697+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-31T19:29:48.852447+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-0c2d6578b6": {
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "slug": "microsoft-is-ending-copilot-support-on-smart-tvs",
-      "url": "https://ushotnews.online/article/microsoft-is-ending-copilot-support-on-smart-tvs",
-      "article_url": "https://ushotnews.online/article/microsoft-is-ending-copilot-support-on-smart-tvs",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129353143471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129353143471257",
-      "fb_comment_id": "122129353143471257_1817885156222301",
-      "posted_at": "2026-10-28T18:59:24.545716+00:00"
-    },
-    "microsoft-is-ending-copilot-support-on-smart-tvs": {
-      "title": "Microsoft is ending Copilot support on smart TVs",
-      "slug": "microsoft-is-ending-copilot-support-on-smart-tvs",
-      "url": "https://ushotnews.online/article/microsoft-is-ending-copilot-support-on-smart-tvs",
-      "article_url": "https://ushotnews.online/article/microsoft-is-ending-copilot-support-on-smart-tvs",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129353143471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129353143471257",
-      "fb_comment_id": "122129353143471257_1817885156222301",
-      "posted_at": "2026-10-28T18:59:24.545716+00:00"
-    },
-    "scraped-aa6fb924b7": {
-      "title": "Fed holds interest rates steady even as inflation remains stubborn",
-      "slug": "fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
-      "url": "https://ushotnews.online/article/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
-      "article_url": "https://ushotnews.online/article/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129354319471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129354319471257",
-      "fb_comment_id": "122129354319471257_2223510708575211",
-      "posted_at": "2026-10-28T19:03:26.396434+00:00"
-    },
-    "fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn": {
-      "title": "Fed holds interest rates steady even as inflation remains stubborn",
-      "slug": "fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
-      "url": "https://ushotnews.online/article/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
-      "article_url": "https://ushotnews.online/article/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129354319471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129354319471257",
-      "fb_comment_id": "122129354319471257_2223510708575211",
-      "posted_at": "2026-10-28T19:03:26.396434+00:00"
-    },
     "scraped-efd7e5ffb5": {
       "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
       "slug": "coreweave-and-other-neocloud-stocks-drop-after-microsoft-capex-comes-in-below-expectations",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130467025471257",
       "fb_comment_id": "122130467025471257_3364565780381395",
       "posted_at": "2026-10-31T16:16:55.086626+00:00"
+    },
+    "scraped-e9fbb4f1a0": {
+      "title": "Tatum O'Neal steps out with family ahead of 63rd birthday years after near-fatal stroke",
+      "slug": "tatum-oneal-steps-out-with-family-ahead-of-63rd-birthday-years-after-near-fatal-stroke",
+      "url": "https://ushotnews.online/article/tatum-oneal-steps-out-with-family-ahead-of-63rd-birthday-years-after-near-fatal-stroke",
+      "article_url": "https://ushotnews.online/article/tatum-oneal-steps-out-with-family-ahead-of-63rd-birthday-years-after-near-fatal-stroke",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130506547471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130506547471257",
+      "fb_comment_id": "122130506547471257_1466874612287802",
+      "posted_at": "2026-10-31T19:29:48.852372+00:00"
+    },
+    "tatum-oneal-steps-out-with-family-ahead-of-63rd-birthday-years-after-near-fatal-stroke": {
+      "title": "Tatum O'Neal steps out with family ahead of 63rd birthday years after near-fatal stroke",
+      "slug": "tatum-oneal-steps-out-with-family-ahead-of-63rd-birthday-years-after-near-fatal-stroke",
+      "url": "https://ushotnews.online/article/tatum-oneal-steps-out-with-family-ahead-of-63rd-birthday-years-after-near-fatal-stroke",
+      "article_url": "https://ushotnews.online/article/tatum-oneal-steps-out-with-family-ahead-of-63rd-birthday-years-after-near-fatal-stroke",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130506547471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130506547471257",
+      "fb_comment_id": "122130506547471257_1466874612287802",
+      "posted_at": "2026-10-31T19:29:48.852372+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T16:16:42.377244+00:00"
+  "last_cleaned_at": "2026-10-31T19:29:36.884298+00:00"
 }
