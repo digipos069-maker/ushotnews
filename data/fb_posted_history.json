@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T09:18:30.591057+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-31T11:09:24.731015+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-b9293514f1": {
       "title": "What's gone up even faster than gas or rent? The cost of caregiving",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130361575471257",
       "fb_comment_id": "122130361575471257_1159658499823934",
       "posted_at": "2026-10-31T09:18:30.590996+00:00"
+    },
+    "scraped-a85138f1d3": {
+      "title": "100 years later, Harry Houdini's death still haunts Detroit",
+      "slug": "100-years-later-harry-houdinis-death-still-haunts-detroit",
+      "url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
+      "article_url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130395397471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130395397471257",
+      "fb_comment_id": "122130395397471257_1184650784134582",
+      "posted_at": "2026-10-31T11:09:24.730952+00:00"
+    },
+    "100-years-later-harry-houdinis-death-still-haunts-detroit": {
+      "title": "100 years later, Harry Houdini's death still haunts Detroit",
+      "slug": "100-years-later-harry-houdinis-death-still-haunts-detroit",
+      "url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
+      "article_url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130395397471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130395397471257",
+      "fb_comment_id": "122130395397471257_1184650784134582",
+      "posted_at": "2026-10-31T11:09:24.730952+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T09:18:22.071336+00:00"
+  "last_cleaned_at": "2026-10-31T11:09:14.573274+00:00"
 }
