@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T23:28:44.971931+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-31T00:00:04.863295+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-2492ceac54": {
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130190599471257",
       "fb_comment_id": "122130190599471257_999333839879621",
       "posted_at": "2026-10-30T23:28:44.971864+00:00"
+    },
+    "scraped-6b323781e4": {
+      "title": "Selma Blair breaks silence weeks after arrest for assault for allegedly attempting to open door midflight",
+      "slug": "selma-blair-breaks-silence-weeks-after-arrest-for-assault-for-allegedly-attempting-to-open",
+      "url": "https://ushotnews.online/article/selma-blair-breaks-silence-weeks-after-arrest-for-assault-for-allegedly-attempting-to-open",
+      "article_url": "https://ushotnews.online/article/selma-blair-breaks-silence-weeks-after-arrest-for-assault-for-allegedly-attempting-to-open",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130196695471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130196695471257",
+      "fb_comment_id": "122130196695471257_1835121907803368",
+      "posted_at": "2026-10-31T00:00:04.863226+00:00"
+    },
+    "selma-blair-breaks-silence-weeks-after-arrest-for-assault-for-allegedly-attempting-to-open": {
+      "title": "Selma Blair breaks silence weeks after arrest for assault for allegedly attempting to open door midflight",
+      "slug": "selma-blair-breaks-silence-weeks-after-arrest-for-assault-for-allegedly-attempting-to-open",
+      "url": "https://ushotnews.online/article/selma-blair-breaks-silence-weeks-after-arrest-for-assault-for-allegedly-attempting-to-open",
+      "article_url": "https://ushotnews.online/article/selma-blair-breaks-silence-weeks-after-arrest-for-assault-for-allegedly-attempting-to-open",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130196695471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130196695471257",
+      "fb_comment_id": "122130196695471257_1835121907803368",
+      "posted_at": "2026-10-31T00:00:04.863226+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T23:28:32.572863+00:00"
+  "last_cleaned_at": "2026-10-30T23:59:55.503293+00:00"
 }
