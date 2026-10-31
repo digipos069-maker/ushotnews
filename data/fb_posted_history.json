@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T19:29:48.852447+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-31T20:14:51.792769+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-efd7e5ffb5": {
       "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130506547471257",
       "fb_comment_id": "122130506547471257_1466874612287802",
       "posted_at": "2026-10-31T19:29:48.852372+00:00"
+    },
+    "scraped-966980d435": {
+      "title": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
+      "slug": "stocks-started-the-week-with-promise-but-ended-in-despair-our-take-on-the-big-reversal",
+      "url": "https://ushotnews.online/article/stocks-started-the-week-with-promise-but-ended-in-despair-our-take-on-the-big-reversal",
+      "article_url": "https://ushotnews.online/article/stocks-started-the-week-with-promise-but-ended-in-despair-our-take-on-the-big-reversal",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130515601471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130515601471257",
+      "fb_comment_id": "122130515601471257_5526752517550376",
+      "posted_at": "2026-10-31T20:14:51.792703+00:00"
+    },
+    "stocks-started-the-week-with-promise-but-ended-in-despair-our-take-on-the-big-reversal": {
+      "title": "Stocks started the week with promise but ended in despair. Our take on the big reversal",
+      "slug": "stocks-started-the-week-with-promise-but-ended-in-despair-our-take-on-the-big-reversal",
+      "url": "https://ushotnews.online/article/stocks-started-the-week-with-promise-but-ended-in-despair-our-take-on-the-big-reversal",
+      "article_url": "https://ushotnews.online/article/stocks-started-the-week-with-promise-but-ended-in-despair-our-take-on-the-big-reversal",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130515601471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130515601471257",
+      "fb_comment_id": "122130515601471257_5526752517550376",
+      "posted_at": "2026-10-31T20:14:51.792703+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T19:29:36.884298+00:00"
+  "last_cleaned_at": "2026-10-31T20:14:43.742856+00:00"
 }
