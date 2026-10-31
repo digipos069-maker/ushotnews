@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-10-31T11:09:24.731015+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-10-31T15:28:14.875446+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-b9293514f1": {
-      "title": "What's gone up even faster than gas or rent? The cost of caregiving",
-      "slug": "whats-gone-up-even-faster-than-gas-or-rent-the-cost-of-caregiving",
-      "url": "https://ushotnews.online/article/whats-gone-up-even-faster-than-gas-or-rent-the-cost-of-caregiving",
-      "article_url": "https://ushotnews.online/article/whats-gone-up-even-faster-than-gas-or-rent-the-cost-of-caregiving",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129274627471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129274627471257",
-      "fb_comment_id": "122129274627471257_1413207584352812",
-      "posted_at": "2026-10-28T13:22:07.180002+00:00"
-    },
-    "whats-gone-up-even-faster-than-gas-or-rent-the-cost-of-caregiving": {
-      "title": "What's gone up even faster than gas or rent? The cost of caregiving",
-      "slug": "whats-gone-up-even-faster-than-gas-or-rent-the-cost-of-caregiving",
-      "url": "https://ushotnews.online/article/whats-gone-up-even-faster-than-gas-or-rent-the-cost-of-caregiving",
-      "article_url": "https://ushotnews.online/article/whats-gone-up-even-faster-than-gas-or-rent-the-cost-of-caregiving",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129274627471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129274627471257",
-      "fb_comment_id": "122129274627471257_1413207584352812",
-      "posted_at": "2026-10-28T13:22:07.180002+00:00"
-    },
-    "scraped-b69085c1a0": {
-      "title": "Voters in Texas agree: They hate data centers",
-      "slug": "voters-in-texas-agree-they-hate-data-centers",
-      "url": "https://ushotnews.online/article/voters-in-texas-agree-they-hate-data-centers",
-      "article_url": "https://ushotnews.online/article/voters-in-texas-agree-they-hate-data-centers",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129276331471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129276331471257",
-      "fb_comment_id": "122129276331471257_2163405830977698",
-      "posted_at": "2026-10-28T13:27:37.657385+00:00"
-    },
-    "voters-in-texas-agree-they-hate-data-centers": {
-      "title": "Voters in Texas agree: They hate data centers",
-      "slug": "voters-in-texas-agree-they-hate-data-centers",
-      "url": "https://ushotnews.online/article/voters-in-texas-agree-they-hate-data-centers",
-      "article_url": "https://ushotnews.online/article/voters-in-texas-agree-they-hate-data-centers",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129276331471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129276331471257",
-      "fb_comment_id": "122129276331471257_2163405830977698",
-      "posted_at": "2026-10-28T13:27:37.657385+00:00"
-    },
     "scraped-0c2d6578b6": {
       "title": "Microsoft is ending Copilot support on smart TVs",
       "slug": "microsoft-is-ending-copilot-support-on-smart-tvs",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130395397471257",
       "fb_comment_id": "122130395397471257_1184650784134582",
       "posted_at": "2026-10-31T11:09:24.730952+00:00"
+    },
+    "scraped-f2c8c0d680": {
+      "title": "Where to Bet on the Breeders’ Cup, Best Online Racebooks and Betting Apps",
+      "slug": "where-to-bet-on-the-breeders-cup-best-online-racebooks-and-betting-apps",
+      "url": "https://ushotnews.online/article/where-to-bet-on-the-breeders-cup-best-online-racebooks-and-betting-apps",
+      "article_url": "https://ushotnews.online/article/where-to-bet-on-the-breeders-cup-best-online-racebooks-and-betting-apps",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130457527471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130457527471257",
+      "fb_comment_id": "122130457527471257_1436083961981925",
+      "posted_at": "2026-10-31T15:28:14.875380+00:00"
+    },
+    "where-to-bet-on-the-breeders-cup-best-online-racebooks-and-betting-apps": {
+      "title": "Where to Bet on the Breeders’ Cup, Best Online Racebooks and Betting Apps",
+      "slug": "where-to-bet-on-the-breeders-cup-best-online-racebooks-and-betting-apps",
+      "url": "https://ushotnews.online/article/where-to-bet-on-the-breeders-cup-best-online-racebooks-and-betting-apps",
+      "article_url": "https://ushotnews.online/article/where-to-bet-on-the-breeders-cup-best-online-racebooks-and-betting-apps",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130457527471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130457527471257",
+      "fb_comment_id": "122130457527471257_1436083961981925",
+      "posted_at": "2026-10-31T15:28:14.875380+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T11:09:14.573274+00:00"
+  "last_cleaned_at": "2026-10-31T15:28:01.067850+00:00"
 }
