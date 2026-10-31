@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-31T17:14:13.958431+00:00",
+  "last_updated": "2026-10-31T21:17:05.830190+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1027832": {
-      "title": "MOS Spotlight: LCpl. Felgenhauer",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112105746/DOD_112105746.mp4",
-      "attached_website_url": "https://ushotnews.online/article/billionaire-taxes-trans-rights-abortion-voting-rights-this-years-biggest-state-votes",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "3242503689290826",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3242503689290826",
-      "fb_comment_id": "3242503689290826_3906307822845790",
-      "posted_at": "2026-10-28T19:26:02.748910+00:00"
-    },
     "dvids-video:1027861": {
       "title": "7th Infantry Division Historical Welcome Video",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112106383/DOD_112106383.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1321286486719838",
       "fb_comment_id": "1321286486719838_1143058121506089",
       "posted_at": "2026-10-31T17:14:13.958343+00:00"
+    },
+    "dvids-video:1028233": {
+      "title": "2d Cavalry Regiment participates in Greece’s Oxi Day Parade 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111849/DOD_112111849.mp4",
+      "attached_website_url": "https://ushotnews.online/article/this-sunday-conservative-pastors-will-preach-against-democrats-claims-to-christian-faith",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1487148086083214",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1487148086083214",
+      "fb_comment_id": "1487148086083214_1676086417477330",
+      "posted_at": "2026-10-31T21:17:05.830132+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T17:13:15.859283+00:00"
+  "last_cleaned_at": "2026-10-31T21:16:07.818425+00:00"
 }
