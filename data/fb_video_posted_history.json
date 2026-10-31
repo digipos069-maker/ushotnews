@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-31T12:00:43.387102+00:00",
+  "last_updated": "2026-10-31T17:14:13.958431+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1027754": {
-      "title": "3rd LSB work alongside JGSDF during bilateral aerial delivery training",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112104349/DOD_112104349.mp4",
-      "attached_website_url": "https://ushotnews.online/article/us-to-issue-visas-to-flávio-bolsonaro-as-his-whereabouts-remain-unclear",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2871255813269492",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2871255813269492",
-      "fb_comment_id": "2871255813269492_3169935233197923",
-      "posted_at": "2026-10-28T12:33:04.583050+00:00"
-    },
     "dvids-video:1027832": {
       "title": "MOS Spotlight: LCpl. Felgenhauer",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112105746/DOD_112105746.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1118311853922413",
       "fb_comment_id": "1118311853922413_1605476724159060",
       "posted_at": "2026-10-31T12:00:43.387036+00:00"
+    },
+    "dvids-video:1028271": {
+      "title": "Secretary of State Marco Rubio meets with Indo-Pacific Quad Foreign Ministers",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112113274/DOD_112113274.mp4",
+      "attached_website_url": "https://ushotnews.online/article/heres-why-you-can8217t-shake-those-unhinged-political-texts",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1321286486719838",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1321286486719838",
+      "fb_comment_id": "1321286486719838_1143058121506089",
+      "posted_at": "2026-10-31T17:14:13.958343+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T11:59:25.702863+00:00"
+  "last_cleaned_at": "2026-10-31T17:13:15.859283+00:00"
 }
