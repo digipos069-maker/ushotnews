@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T02:40:35.551376+00:00",
-  "posted_count": 54,
+  "last_updated": "2026-10-31T05:26:57.064593+00:00",
+  "posted_count": 56,
   "articles": {
     "scraped-4fd30ed655": {
       "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
@@ -595,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130243789471257",
       "fb_comment_id": "122130243789471257_4305099669729238",
       "posted_at": "2026-10-31T02:40:35.551318+00:00"
+    },
+    "scraped-76bf869780": {
+      "title": "Buffalo Bills tap hometown heroes Goo Goo Dolls for Thanksgiving night halftime concert",
+      "slug": "buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert",
+      "url": "https://ushotnews.online/article/buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert",
+      "article_url": "https://ushotnews.online/article/buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130287511471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130287511471257",
+      "fb_comment_id": "122130287511471257_1657425442387535",
+      "posted_at": "2026-10-31T05:26:57.064545+00:00"
+    },
+    "buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert": {
+      "title": "Buffalo Bills tap hometown heroes Goo Goo Dolls for Thanksgiving night halftime concert",
+      "slug": "buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert",
+      "url": "https://ushotnews.online/article/buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert",
+      "article_url": "https://ushotnews.online/article/buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130287511471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130287511471257",
+      "fb_comment_id": "122130287511471257_1657425442387535",
+      "posted_at": "2026-10-31T05:26:57.064545+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T02:40:24.685676+00:00"
+  "last_cleaned_at": "2026-10-31T05:26:47.504811+00:00"
 }
