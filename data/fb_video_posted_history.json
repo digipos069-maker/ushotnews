@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T23:34:28.316658+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-10-31T05:00:04.186417+00:00",
+  "posted_count": 13,
   "articles": {
     "dvids-video:1027735": {
       "title": "Sgt. Dustin Stark - Detroit Lions Shout-out",
@@ -133,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2872682939769262",
       "fb_comment_id": "2872682939769262_1655034472956915",
       "posted_at": "2026-10-30T23:34:28.316600+00:00"
+    },
+    "dvids-video:1028258": {
+      "title": "Col. Joseph Scott - Green Bay Packers Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112112255/DOD_112112255.mp4",
+      "attached_website_url": "https://ushotnews.online/article/el-sayed-campaign-wants-stevens-to-stay-away-after-day-of-back-and-forth-sniping",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1110738895029403",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1110738895029403",
+      "fb_comment_id": "1110738895029403_1120257597279216",
+      "posted_at": "2026-10-31T05:00:04.186357+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-30T23:32:46.233012+00:00"
+  "last_cleaned_at": "2026-10-31T04:59:16.428848+00:00"
 }
