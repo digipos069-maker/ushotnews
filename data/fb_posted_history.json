@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T13:10:04.604483+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-11-01T15:47:40.118209+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-c4a16da24e": {
       "title": "Microsoft’s AI future has fewer jobs",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130773277471257",
       "fb_comment_id": "122130773277471257_1476332171224532",
       "posted_at": "2026-11-01T13:10:04.604424+00:00"
+    },
+    "scraped-69ddef2b82": {
+      "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+      "slug": "how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party",
+      "url": "https://ushotnews.online/article/how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party",
+      "article_url": "https://ushotnews.online/article/how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130817749471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130817749471257",
+      "fb_comment_id": "122130817749471257_2901458803542751",
+      "posted_at": "2026-11-01T15:47:40.118145+00:00"
+    },
+    "how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party": {
+      "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
+      "slug": "how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party",
+      "url": "https://ushotnews.online/article/how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party",
+      "article_url": "https://ushotnews.online/article/how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130817749471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130817749471257",
+      "fb_comment_id": "122130817749471257_2901458803542751",
+      "posted_at": "2026-11-01T15:47:40.118145+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T13:09:53.495745+00:00"
+  "last_cleaned_at": "2026-11-01T15:47:31.759367+00:00"
 }
