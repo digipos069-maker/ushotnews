@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-01T15:47:40.118209+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-11-01T18:30:47.720073+00:00",
+  "posted_count": 56,
   "articles": {
-    "scraped-c4a16da24e": {
-      "title": "Microsoft’s AI future has fewer jobs",
-      "slug": "microsofts-ai-future-has-fewer-jobs",
-      "url": "https://ushotnews.online/article/microsofts-ai-future-has-fewer-jobs",
-      "article_url": "https://ushotnews.online/article/microsofts-ai-future-has-fewer-jobs",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129718477471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129718477471257",
-      "fb_comment_id": "122129718477471257_2012307896000123",
-      "posted_at": "2026-10-29T16:21:12.569000+00:00"
-    },
-    "microsofts-ai-future-has-fewer-jobs": {
-      "title": "Microsoft’s AI future has fewer jobs",
-      "slug": "microsofts-ai-future-has-fewer-jobs",
-      "url": "https://ushotnews.online/article/microsofts-ai-future-has-fewer-jobs",
-      "article_url": "https://ushotnews.online/article/microsofts-ai-future-has-fewer-jobs",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129718477471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129718477471257",
-      "fb_comment_id": "122129718477471257_2012307896000123",
-      "posted_at": "2026-10-29T16:21:12.569000+00:00"
-    },
-    "scraped-d0f077a651": {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "slug": "us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "url": "https://ushotnews.online/article/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "article_url": "https://ushotnews.online/article/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129727723471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129727723471257",
-      "fb_comment_id": "122129727723471257_1148487181083906",
-      "posted_at": "2026-10-29T16:51:36.849887+00:00"
-    },
-    "us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production": {
-      "title": "US and Japan agree to establish a Japanese facility for joint missile production",
-      "slug": "us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "url": "https://ushotnews.online/article/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "article_url": "https://ushotnews.online/article/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129727723471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129727723471257",
-      "fb_comment_id": "122129727723471257_1148487181083906",
-      "posted_at": "2026-10-29T16:51:36.849887+00:00"
-    },
     "scraped-6b2c540871": {
       "title": "FOX News Media teams up with Breast Cancer Research Foundation",
       "slug": "fox-news-media-teams-up-with-breast-cancer-research-foundation",
@@ -639,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130817749471257",
       "fb_comment_id": "122130817749471257_2901458803542751",
       "posted_at": "2026-11-01T15:47:40.118145+00:00"
+    },
+    "scraped-74cecc67be": {
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "slug": "homepod-mini-2-first-look-three-things-i-love-and-one-disappointment",
+      "url": "https://ushotnews.online/article/homepod-mini-2-first-look-three-things-i-love-and-one-disappointment",
+      "article_url": "https://ushotnews.online/article/homepod-mini-2-first-look-three-things-i-love-and-one-disappointment",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130856569471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130856569471257",
+      "fb_comment_id": "122130856569471257_2099500797376884",
+      "posted_at": "2026-11-01T18:30:47.720011+00:00"
+    },
+    "homepod-mini-2-first-look-three-things-i-love-and-one-disappointment": {
+      "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+      "slug": "homepod-mini-2-first-look-three-things-i-love-and-one-disappointment",
+      "url": "https://ushotnews.online/article/homepod-mini-2-first-look-three-things-i-love-and-one-disappointment",
+      "article_url": "https://ushotnews.online/article/homepod-mini-2-first-look-three-things-i-love-and-one-disappointment",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130856569471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130856569471257",
+      "fb_comment_id": "122130856569471257_2099500797376884",
+      "posted_at": "2026-11-01T18:30:47.720011+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T15:47:31.759367+00:00"
+  "last_cleaned_at": "2026-11-01T18:30:36.507725+00:00"
 }
