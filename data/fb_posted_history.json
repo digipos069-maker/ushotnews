@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T22:22:07.269869+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-11-01T23:45:59.253421+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-a4a53142be": {
       "title": "WATCH: Phoenix bank employees rescue food vendor during severe Arizona storm in viral video",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130898515471257",
       "fb_comment_id": "122130898515471257_1461477899460911",
       "posted_at": "2026-11-01T22:22:07.269797+00:00"
+    },
+    "scraped-e75e3b64fe": {
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "slug": "a-fully-playable-version-of-portal-prequel-f-stop-leaked",
+      "url": "https://ushotnews.online/article/a-fully-playable-version-of-portal-prequel-f-stop-leaked",
+      "article_url": "https://ushotnews.online/article/a-fully-playable-version-of-portal-prequel-f-stop-leaked",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130922281471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130922281471257",
+      "fb_comment_id": "122130922281471257_4590300331185498",
+      "posted_at": "2026-11-01T23:45:59.253344+00:00"
+    },
+    "a-fully-playable-version-of-portal-prequel-f-stop-leaked": {
+      "title": "A fully playable version of Portal prequel F-Stop leaked",
+      "slug": "a-fully-playable-version-of-portal-prequel-f-stop-leaked",
+      "url": "https://ushotnews.online/article/a-fully-playable-version-of-portal-prequel-f-stop-leaked",
+      "article_url": "https://ushotnews.online/article/a-fully-playable-version-of-portal-prequel-f-stop-leaked",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130922281471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130922281471257",
+      "fb_comment_id": "122130922281471257_4590300331185498",
+      "posted_at": "2026-11-01T23:45:59.253344+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T22:21:53.954113+00:00"
+  "last_cleaned_at": "2026-11-01T23:45:47.018207+00:00"
 }
