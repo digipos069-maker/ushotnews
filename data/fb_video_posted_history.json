@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-01T00:51:40.980005+00:00",
+  "last_updated": "2026-11-01T08:59:01.479107+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1027904": {
-      "title": "Staff Flu Vaccination, Marine Corps Air Station Iwakuni, Japan 2026 (BROLL)",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112107109/DOD_112107109.mp4",
-      "attached_website_url": "https://ushotnews.online/article/adam-mosseri-says-negativity-around-ai-is-going-to-get-worse",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2313979112509928",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2313979112509928",
-      "fb_comment_id": "2313979112509928_29972758442361026",
-      "posted_at": "2026-10-29T05:34:42.099544+00:00"
-    },
     "dvids-video:1027925": {
       "title": "Have You Completed Your DECOS?",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112107451/DOD_112107451.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1120752543757854",
       "fb_comment_id": "1120752543757854_1493329759311670",
       "posted_at": "2026-11-01T00:51:40.979941+00:00"
+    },
+    "dvids-video:1028297": {
+      "title": "A U.S. Sailor Shouts-out the NFL Cowboys",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112113517/DOD_112113517.mp4",
+      "attached_website_url": "https://ushotnews.online/article/nyc-woman-critically-injured-after-being-stabbed-multiple-times-while-jogging-along-brookl",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2159711141593870",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2159711141593870",
+      "fb_comment_id": "2159711141593870_972725945422936",
+      "posted_at": "2026-11-01T08:59:01.479039+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T00:51:09.417364+00:00"
+  "last_cleaned_at": "2026-11-01T08:57:57.518186+00:00"
 }
