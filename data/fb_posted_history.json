@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T18:30:47.720073+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-11-01T20:12:54.700595+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-6b2c540871": {
       "title": "FOX News Media teams up with Breast Cancer Research Foundation",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130856569471257",
       "fb_comment_id": "122130856569471257_2099500797376884",
       "posted_at": "2026-11-01T18:30:47.720011+00:00"
+    },
+    "scraped-b620c8a7d2": {
+      "title": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impersonation lead Hollywood's best Halloween looks",
+      "slug": "heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
+      "url": "https://ushotnews.online/article/heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
+      "article_url": "https://ushotnews.online/article/heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130880077471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130880077471257",
+      "fb_comment_id": "122130880077471257_1476548114327995",
+      "posted_at": "2026-11-01T20:12:54.700535+00:00"
+    },
+    "heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h": {
+      "title": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impersonation lead Hollywood's best Halloween looks",
+      "slug": "heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
+      "url": "https://ushotnews.online/article/heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
+      "article_url": "https://ushotnews.online/article/heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130880077471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130880077471257",
+      "fb_comment_id": "122130880077471257_1476548114327995",
+      "posted_at": "2026-11-01T20:12:54.700535+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T18:30:36.507725+00:00"
+  "last_cleaned_at": "2026-11-01T20:12:44.407703+00:00"
 }
