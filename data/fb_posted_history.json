@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T05:49:34.753423+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-11-01T08:45:52.514209+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-63803f216a": {
       "title": "JASON CHAFFETZ: Democrats tried to trick Alaska voters. Peltola must answer",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130622875471257",
       "fb_comment_id": "122130622875471257_1822514129461582",
       "posted_at": "2026-11-01T05:49:34.753350+00:00"
+    },
+    "scraped-085d2a2cbc": {
+      "title": "Bill Belichick's UNC Tar Heels nearly upset top-ranked Miami before costly strip-sack",
+      "slug": "bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
+      "url": "https://ushotnews.online/article/bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
+      "article_url": "https://ushotnews.online/article/bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130684369471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130684369471257",
+      "fb_comment_id": "122130684369471257_2160671754543053",
+      "posted_at": "2026-11-01T08:45:52.514145+00:00"
+    },
+    "bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack": {
+      "title": "Bill Belichick's UNC Tar Heels nearly upset top-ranked Miami before costly strip-sack",
+      "slug": "bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
+      "url": "https://ushotnews.online/article/bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
+      "article_url": "https://ushotnews.online/article/bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130684369471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130684369471257",
+      "fb_comment_id": "122130684369471257_2160671754543053",
+      "posted_at": "2026-11-01T08:45:52.514145+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T05:49:26.397420+00:00"
+  "last_cleaned_at": "2026-11-01T08:45:42.437141+00:00"
 }
