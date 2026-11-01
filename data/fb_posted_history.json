@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T23:38:23.949704+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-11-01T01:52:56.700166+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-bc3f70623a": {
       "title": "Forecasters are predicting a warmer and wetter winter. Here's how El Niño will affect your region.",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130555921471257",
       "fb_comment_id": "122130555921471257_1579919840554426",
       "posted_at": "2026-10-31T23:38:23.949644+00:00"
+    },
+    "scraped-1adbdb89e8": {
+      "title": "France seethes again as youth-led protests sweep Europe",
+      "slug": "france-seethes-again-as-youth-led-protests-sweep-europe",
+      "url": "https://ushotnews.online/article/france-seethes-again-as-youth-led-protests-sweep-europe",
+      "article_url": "https://ushotnews.online/article/france-seethes-again-as-youth-led-protests-sweep-europe",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130577425471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130577425471257",
+      "fb_comment_id": "122130577425471257_1116408284703292",
+      "posted_at": "2026-11-01T01:52:56.700105+00:00"
+    },
+    "france-seethes-again-as-youth-led-protests-sweep-europe": {
+      "title": "France seethes again as youth-led protests sweep Europe",
+      "slug": "france-seethes-again-as-youth-led-protests-sweep-europe",
+      "url": "https://ushotnews.online/article/france-seethes-again-as-youth-led-protests-sweep-europe",
+      "article_url": "https://ushotnews.online/article/france-seethes-again-as-youth-led-protests-sweep-europe",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130577425471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130577425471257",
+      "fb_comment_id": "122130577425471257_1116408284703292",
+      "posted_at": "2026-11-01T01:52:56.700105+00:00"
     }
   },
-  "last_cleaned_at": "2026-10-31T23:38:08.614478+00:00"
+  "last_cleaned_at": "2026-11-01T01:52:48.142824+00:00"
 }
