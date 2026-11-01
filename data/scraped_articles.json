@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-51b189243a",
+    "slug": "democratic-rep-haley-stevens-endorses-republican-mike-rogers-for-michigan-senate",
+    "guid": "000001a1-9834-dc5e-abb5-ba7773430000",
+    "title": "Democratic Rep. Haley Stevens endorses Republican Mike Rogers for Michigan Senate",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "It's a blow for Democratic nominee Abdul El-Sayed in the final days of his campaign, and an escalation of their feud.",
+    "content": [
+      "It's a blow for Democratic nominee Abdul El-Sayed in the final days of his campaign, and an escalation of their feud.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/27/db/0f01be71462481d0bb296304e3fb/08-04-2026-michigan-stevens-039.jpg",
+    "imageCaption": "Democratic Rep. Haley Stevens endorses Republican Mike Roger... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T17:44:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e75e3b64fe",
+    "slug": "a-fully-playable-version-of-portal-prequel-f-stop-leaked",
+    "guid": "https://www.theverge.com/?p=1024206",
+    "title": "A fully playable version of Portal prequel F-Stop leaked",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version [&#8230;]",
+    "content": [
+      "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve Cut Content Discord this week, allowing a nearly complete version [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A fully playable version of Portal prequel F-Stop leaked... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T16:19:21+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c815c9856e",
+    "slug": "apples-homeview-could-add-security-camera-features",
+    "guid": "https://www.theverge.com/?p=1024219",
+    "title": "Apple’s HomeView could add security camera features",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly [&#8230;]",
+    "content": [
+      "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well as privacy functions. According to pdfu, there is a setup page that even explicitly [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple’s HomeView could add security camera features... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T17:16:07+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d9d4cdf368",
+    "slug": "flock-keeps-ignoring-requests-to-cancel-its-contracts",
+    "guid": "https://www.theverge.com/?p=1024232",
+    "title": "Flock keeps ignoring requests to cancel its contracts",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city [&#8230;]",
+    "content": [
+      "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Flock keeps ignoring requests to cancel its contracts... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T19:58:02+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7c4c666b55",
+    "slug": "new-york-city-marathon-swedens-almgren-and-kenyas-chepkirui-win-as-60000-take-part",
+    "guid": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+    "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.",
+    "content": [
+      "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "New York City Marathon: Sweden's Almgren and Kenya's Chepkir... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T17:33:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b1c6ec2555",
+    "slug": "the-midterms-will-test-the-nations-political-direction-and-confidence",
+    "guid": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+    "title": "The midterms will test the nation's political direction and confidence",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
+    "content": [
+      "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The midterms will test the nation's political direction and ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T17:57:58+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1ad24d8f88",
+    "slug": "judge-tosses-trumps-attempt-to-block-alaska-senate-results-if-gop-incumbent-loses",
+    "guid": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+    "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
+    "content": [
+      "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Judge tosses Trump's attempt to block Alaska Senate results ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T18:00:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9d592cd8c5",
+    "slug": "how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+    "guid": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+    "title": "How to think about the midterms — and the political moment the country is in",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
+    "content": [
+      "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How to think about the midterms — and the political moment t... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T18:27:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-948220a19f",
+    "slug": "connecticut-senator-chris-murphy-is-hospitalized-with-a-stroke",
+    "guid": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+    "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
+    "content": [
+      "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Connecticut Senator Chris Murphy is hospitalized with a stro... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T19:00:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c8f5f89477",
+    "slug": "haley-stevens-endorses-gop-candidate-in-michigan-senate-race-spurning-abdul-el-sayed",
+    "guid": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+    "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+    "content": [
+      "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Haley Stevens endorses GOP candidate in Michigan Senate race... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T19:49:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b620c8a7d2",
+    "slug": "heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
+    "guid": "https://www.foxnews.com/entertainment/heidi-klums-severed-hand-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-halloween-looks",
+    "title": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impersonation lead Hollywood's best Halloween looks",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Heidi Klum&apos;s gruesome severed-hand costume stole the show, but Zendaya&apos;s Halle Berry tribute and Lisa Rinna&apos;s Kylie Jenner look turned heads too.",
+    "content": [
+      "Heidi Klum&apos;s gruesome severed-hand costume stole the show, but Zendaya&apos;s Halle Berry tribute and Lisa Rinna&apos;s Kylie Jenner look turned heads too.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/heidi-klum-lisa-rinna.jpg?ve=1&tl=1",
+    "imageCaption": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impe... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T17:48:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a2026f5c7e",
+    "slug": "ravens-quarterback-lamar-jackson-injured-once-again-and-out-of-the-game-after-only-one-pla",
+    "guid": "https://www.foxnews.com/outkick-sports/ravens-quarterback-lamar-jackson-injured-once-again-out-game-after-one-play-against-bills",
+    "title": "Ravens quarterback Lamar Jackson injured once again and out of the game after only one play against Bills",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Lamar Jackson injured his right thumb on his very first snap against the Buffalo Bills after missing three straight games with an ankle sprain.",
+    "content": [
+      "Lamar Jackson injured his right thumb on his very first snap against the Buffalo Bills after missing three straight games with an ankle sprain.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/lamar-jackson-ravens-bills.jpg?ve=1&tl=1",
+    "imageCaption": "Ravens quarterback Lamar Jackson injured once again and out ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T17:52:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-09285145f6",
+    "slug": "miranda-lambert-says-fan-told-her-i-did-shoot-him-after-being-inspired-by-gunpowder-lead",
+    "guid": "https://www.foxnews.com/entertainment/miranda-lambert-says-fan-told-her-i-did-shoot-him-after-being-inspired-gunpowder-lead",
+    "title": "Miranda Lambert says fan told her ‘I did shoot him’ after being inspired by ‘Gunpowder & Lead’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A fan&apos;s shocking confession about Gunpowder Lead left Miranda Lambert in tears and forever changed how she viewed the domestic abuse anthem.",
+    "content": [
+      "A fan&apos;s shocking confession about Gunpowder Lead left Miranda Lambert in tears and forever changed how she viewed the domestic abuse anthem.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/miranda-lambert-cma-awards-bridgestone-arena.jpg?ve=1&tl=1",
+    "imageCaption": "Miranda Lambert says fan told her ‘I did shoot him’ after be... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T18:00:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-07e673cd43",
+    "slug": "dhs-official-vows-to-prosecute-and-deport-noncitizens-caught-illegally-voting-ahead-of-mid",
+    "guid": "https://www.foxnews.com/media/dhs-official-vows-to-prosecute-deport-noncitizens-caught-illegally-voting-ahead-midterms",
+    "title": "DHS official vows to prosecute and deport noncitizens caught illegally voting ahead of midterms",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Department of Homeland Security general counsel James Percival vowed to find, charge and deport noncitizens who cast illegal ballots in midterm elections.",
+    "content": [
+      "Department of Homeland Security general counsel James Percival vowed to find, charge and deport noncitizens who cast illegal ballots in midterm elections.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/virginia-redistricting-referendum-fairfax-voting-fox-news.jpg?ve=1&tl=1",
+    "imageCaption": "DHS official vows to prosecute and deport noncitizens caught... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T18:06:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5df18d3fbc",
+    "slug": "holiday-airfare-hits-10-year-high-as-thanksgiving-and-christmas-travel-costs-soar",
+    "guid": "https://www.foxnews.com/travel/holiday-airfare-hits-10-year-high-thanksgiving-christmas-travel-costs-soar",
+    "title": "Holiday airfare hits 10-year high as Thanksgiving and Christmas travel costs soar",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Prices of holiday plane travel are averaging $402 for Thanksgiving and $452 for Christmas as elevated jet fuel costs drive prices to 10-year highs, per Hopper.",
+    "content": [
+      "Prices of holiday plane travel are averaging $402 for Thanksgiving and $452 for Christmas as elevated jet fuel costs drive prices to 10-year highs, per Hopper.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/gettyimages-1631504273-copy.jpeg?ve=1&tl=1",
+    "imageCaption": "Holiday airfare hits 10-year high as Thanksgiving and Christ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T18:20:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1e58b01e23",
+    "slug": "jerry-koosman-hero-of-the-1969-miracle-mets-world-series-championship-run-dead-at-83",
+    "guid": "https://www.foxnews.com/outkick-sports/jerry-koosman-hero-1969-miracle-mets-world-series-championship-run-dead-83",
+    "title": "Jerry Koosman, hero of the 1969 'Miracle' Mets World Series championship run, dead at 83",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jerry Koosman won the decisive Game 5 of the 1969 World Series for the Miracle Mets. The left-hander spent 12 of his 19 MLB seasons in Queens.",
+    "content": [
+      "Jerry Koosman won the decisive Game 5 of the 1969 World Series for the Miracle Mets. The left-hander spent 12 of his 19 MLB seasons in Queens.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jerry-koosman-1969-world-series-mets.jpg?ve=1&tl=1",
+    "imageCaption": "Jerry Koosman, hero of the 1969 'Miracle' Mets World Series ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T18:50:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-24411428cc",
+    "slug": "biological-male-competing-in-girls-cross-country-race-denies-another-runner-and-her-team-a",
+    "guid": "https://www.foxnews.com/outkick-sports/biological-male-competing-girls-cross-country-race-denies-runner-team-trip-state",
+    "title": "Biological male competing in girls' cross-country race denies another runner and her team a trip to state",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A biological male runner on Camas High&apos;s girls&apos; cross-country team displaced a Puyallup girl from state, fueling debate ahead of Initiative 638.",
+    "content": [
+      "A biological male runner on Camas High&apos;s girls&apos; cross-country team displaced a Puyallup girl from state, fueling debate ahead of Initiative 638.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/Camas-Runners-Close-Up.jpg?ve=1&tl=1",
+    "imageCaption": "Biological male competing in girls' cross-country race denie... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T18:58:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-22805f4df8",
+    "slug": "the-pitt-star-noah-wyle-does-100-push-ups-a-day-come-rain-or-come-shine-at-55",
+    "guid": "https://www.foxnews.com/entertainment/the-pitt-star-noah-wyle-does-100-push-ups-day-come-rain-come-shine-55",
+    "title": "'The Pitt' star Noah Wyle does 100 push-ups a day ‘come rain or come shine’ at 55",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Noah Wyle reveals his daily push-ups routine and chin-up bar goal with his accountability partner while filming the demanding medical drama The Pitt.",
+    "content": [
+      "Noah Wyle reveals his daily push-ups routine and chin-up bar goal with his accountability partner while filming the demanding medical drama The Pitt.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/noah-wyle-the-pitt_001.jpg?ve=1&tl=1",
+    "imageCaption": "'The Pitt' star Noah Wyle does 100 push-ups a day ‘come rain... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T19:00:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c4b12fa704",
+    "slug": "democratic-rep-stevens-endorses-republican-rogers-over-rival-el-sayed-in-michigan-senate-e",
+    "guid": "108498328",
+    "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
+    "content": [
+      "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Democratic Rep. Stevens endorses Republican Rogers over riva... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T19:41:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-27b7ce6f7e",
+    "slug": "judge-dismisses-alaska-senate-election-lawsuit-doj-vows-appeal",
+    "guid": "108498460",
+    "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+    "content": [
+      "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Judge dismisses Alaska Senate election lawsuit; DOJ vows app... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-01T19:55:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-fb9939f29b",
     "slug": "raphael-warnock-is-nauseously-optimistic-about-dems-midterm-chances",
     "guid": "000001a1-92cb-d2f6-adb3-b6ef87ff0000",
