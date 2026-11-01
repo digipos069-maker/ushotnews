@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-01T16:43:12.318911+00:00",
+  "last_updated": "2026-11-01T21:55:07.715269+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1027988": {
-      "title": "Coast Guard Air Station Elizabeth City hosts a visit with DHS Secretary Markwayne Mullin",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112108370/DOD_112108370.mp4",
-      "attached_website_url": "https://ushotnews.online/article/moderates-put-the-left-on-notice",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1051888854576307",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1051888854576307",
-      "fb_comment_id": "1051888854576307_1146704517743145",
-      "posted_at": "2026-10-29T19:30:01.569390+00:00"
-    },
     "dvids-video:1028035": {
       "title": "Advanced Helicopter Rescue School social media teaser",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112109088/DOD_112109088.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2206682826582474",
       "fb_comment_id": "2206682826582474_1903063547769171",
       "posted_at": "2026-11-01T16:43:12.318827+00:00"
+    },
+    "dvids-video:1028303": {
+      "title": "The U.S. Army Parachute Team jumps at Martinsville Motor Speedway ahead of NASCAR race",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112114205/DOD_112114205.mp4",
+      "attached_website_url": "https://ushotnews.online/article/democratic-rep-haley-stevens-endorses-republican-mike-rogers-for-michigan-senate",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1142701531612937",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1142701531612937",
+      "fb_comment_id": "1142701531612937_2020827971960122",
+      "posted_at": "2026-11-01T21:55:07.715213+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T16:42:04.633631+00:00"
+  "last_cleaned_at": "2026-11-01T21:54:01.138246+00:00"
 }
