@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-01T08:45:52.514209+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-11-01T13:10:04.604483+00:00",
+  "posted_count": 56,
   "articles": {
-    "scraped-63803f216a": {
-      "title": "JASON CHAFFETZ: Democrats tried to trick Alaska voters. Peltola must answer",
-      "slug": "jason-chaffetz-democrats-tried-to-trick-alaska-voters-peltola-must-answer",
-      "url": "https://ushotnews.online/article/jason-chaffetz-democrats-tried-to-trick-alaska-voters-peltola-must-answer",
-      "article_url": "https://ushotnews.online/article/jason-chaffetz-democrats-tried-to-trick-alaska-voters-peltola-must-answer",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129596485471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129596485471257",
-      "fb_comment_id": "122129596485471257_1534149748775286",
-      "posted_at": "2026-10-29T09:24:44.759626+00:00"
-    },
-    "jason-chaffetz-democrats-tried-to-trick-alaska-voters-peltola-must-answer": {
-      "title": "JASON CHAFFETZ: Democrats tried to trick Alaska voters. Peltola must answer",
-      "slug": "jason-chaffetz-democrats-tried-to-trick-alaska-voters-peltola-must-answer",
-      "url": "https://ushotnews.online/article/jason-chaffetz-democrats-tried-to-trick-alaska-voters-peltola-must-answer",
-      "article_url": "https://ushotnews.online/article/jason-chaffetz-democrats-tried-to-trick-alaska-voters-peltola-must-answer",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129596485471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129596485471257",
-      "fb_comment_id": "122129596485471257_1534149748775286",
-      "posted_at": "2026-10-29T09:24:44.759626+00:00"
-    },
-    "scraped-7bacca111b": {
-      "title": "DR MARC SIEGEL: America’s awful marijuana addiction is spreading from parents to kids",
-      "slug": "dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
-      "url": "https://ushotnews.online/article/dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
-      "article_url": "https://ushotnews.online/article/dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129601111471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129601111471257",
-      "fb_comment_id": "122129601111471257_1143896761923097",
-      "posted_at": "2026-10-29T09:47:58.963719+00:00"
-    },
-    "dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids": {
-      "title": "DR MARC SIEGEL: America’s awful marijuana addiction is spreading from parents to kids",
-      "slug": "dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
-      "url": "https://ushotnews.online/article/dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
-      "article_url": "https://ushotnews.online/article/dr-marc-siegel-americas-awful-marijuana-addiction-is-spreading-from-parents-to-kids",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129601111471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129601111471257",
-      "fb_comment_id": "122129601111471257_1143896761923097",
-      "posted_at": "2026-10-29T09:47:58.963719+00:00"
-    },
     "scraped-c4a16da24e": {
       "title": "Microsoft’s AI future has fewer jobs",
       "slug": "microsofts-ai-future-has-fewer-jobs",
@@ -639,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130684369471257",
       "fb_comment_id": "122130684369471257_2160671754543053",
       "posted_at": "2026-11-01T08:45:52.514145+00:00"
+    },
+    "scraped-006ee6e9e1": {
+      "title": "Get in the spirit with these horrors from YouTube",
+      "slug": "get-in-the-spirit-with-these-horrors-from-youtube",
+      "url": "https://ushotnews.online/article/get-in-the-spirit-with-these-horrors-from-youtube",
+      "article_url": "https://ushotnews.online/article/get-in-the-spirit-with-these-horrors-from-youtube",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130773277471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130773277471257",
+      "fb_comment_id": "122130773277471257_1476332171224532",
+      "posted_at": "2026-11-01T13:10:04.604424+00:00"
+    },
+    "get-in-the-spirit-with-these-horrors-from-youtube": {
+      "title": "Get in the spirit with these horrors from YouTube",
+      "slug": "get-in-the-spirit-with-these-horrors-from-youtube",
+      "url": "https://ushotnews.online/article/get-in-the-spirit-with-these-horrors-from-youtube",
+      "article_url": "https://ushotnews.online/article/get-in-the-spirit-with-these-horrors-from-youtube",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130773277471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130773277471257",
+      "fb_comment_id": "122130773277471257_1476332171224532",
+      "posted_at": "2026-11-01T13:10:04.604424+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T08:45:42.437141+00:00"
+  "last_cleaned_at": "2026-11-01T13:09:53.495745+00:00"
 }
