@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T09:18:52.755508+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-11-02T13:07:48.053978+00:00",
+  "posted_count": 58,
   "articles": {
     "scraped-b14f4e1a8f": {
       "title": "2026 midterm election voter guides: Find local resources in your community",
@@ -617,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131102641471257",
       "fb_comment_id": "122131102641471257_2665989903851897",
       "posted_at": "2026-11-02T09:18:52.755399+00:00"
+    },
+    "scraped-12618ec2e4": {
+      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+      "slug": "two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
+      "url": "https://ushotnews.online/article/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
+      "article_url": "https://ushotnews.online/article/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131151091471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131151091471257",
+      "fb_comment_id": "122131151091471257_1903235854163931",
+      "posted_at": "2026-11-02T13:07:48.053914+00:00"
+    },
+    "two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio": {
+      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
+      "slug": "two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
+      "url": "https://ushotnews.online/article/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
+      "article_url": "https://ushotnews.online/article/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131151091471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131151091471257",
+      "fb_comment_id": "122131151091471257_1903235854163931",
+      "posted_at": "2026-11-02T13:07:48.053914+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-02T09:18:42.017415+00:00"
+  "last_cleaned_at": "2026-11-02T13:07:36.810167+00:00"
 }
