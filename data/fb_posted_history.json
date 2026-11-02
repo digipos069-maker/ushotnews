@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-02T01:45:25.049939+00:00",
+  "last_updated": "2026-11-02T04:38:04.183867+00:00",
   "posted_count": 58,
   "articles": {
-    "scraped-6b1630400d": {
-      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-      "slug": "utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
-      "url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
-      "article_url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129862999471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129862999471257",
-      "fb_comment_id": "122129862999471257_29094463350206711",
-      "posted_at": "2026-10-30T01:51:56.172937+00:00"
-    },
-    "utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling": {
-      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-      "slug": "utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
-      "url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
-      "article_url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129862999471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129862999471257",
-      "fb_comment_id": "122129862999471257_29094463350206711",
-      "posted_at": "2026-10-30T01:51:56.172937+00:00"
-    },
     "scraped-df2f2f33ec": {
       "title": "Man dressed as zombie allegedly stabs two in coffee shop, flees and hits robotaxi",
       "slug": "man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi",
@@ -639,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130941835471257",
       "fb_comment_id": "122130941835471257_2873610013025865",
       "posted_at": "2026-11-02T01:45:25.049851+00:00"
+    },
+    "scraped-ac31707a38": {
+      "title": "Collins accuses Schumer of pushing attack ads filled with 'outright lies' in tight Maine race",
+      "slug": "collins-accuses-schumer-of-pushing-attack-ads-filled-with-outright-lies-in-tight-maine-rac",
+      "url": "https://ushotnews.online/article/collins-accuses-schumer-of-pushing-attack-ads-filled-with-outright-lies-in-tight-maine-rac",
+      "article_url": "https://ushotnews.online/article/collins-accuses-schumer-of-pushing-attack-ads-filled-with-outright-lies-in-tight-maine-rac",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130978177471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130978177471257",
+      "fb_comment_id": "122130978177471257_39666609942987352",
+      "posted_at": "2026-11-02T04:38:04.183795+00:00"
+    },
+    "collins-accuses-schumer-of-pushing-attack-ads-filled-with-outright-lies-in-tight-maine-rac": {
+      "title": "Collins accuses Schumer of pushing attack ads filled with 'outright lies' in tight Maine race",
+      "slug": "collins-accuses-schumer-of-pushing-attack-ads-filled-with-outright-lies-in-tight-maine-rac",
+      "url": "https://ushotnews.online/article/collins-accuses-schumer-of-pushing-attack-ads-filled-with-outright-lies-in-tight-maine-rac",
+      "article_url": "https://ushotnews.online/article/collins-accuses-schumer-of-pushing-attack-ads-filled-with-outright-lies-in-tight-maine-rac",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130978177471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130978177471257",
+      "fb_comment_id": "122130978177471257_39666609942987352",
+      "posted_at": "2026-11-02T04:38:04.183795+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-02T01:45:13.251634+00:00"
+  "last_cleaned_at": "2026-11-02T04:37:56.011114+00:00"
 }
