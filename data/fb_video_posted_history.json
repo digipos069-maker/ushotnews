@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-02T09:10:59.290134+00:00",
-  "posted_count": 13,
+  "last_updated": "2026-11-02T20:10:06.757461+00:00",
+  "posted_count": 12,
   "articles": {
-    "dvids-video:1028111": {
-      "title": "Send Me: The making of a Soldier | Week 5",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112110399/DOD_112110399.mp4",
-      "attached_website_url": "https://ushotnews.online/article/why-the-midterms-are-a-warning-sign-for-both-parties",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1095959269875592",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1095959269875592",
-      "fb_comment_id": "1095959269875592_1117832020977007",
-      "posted_at": "2026-10-30T12:34:24.774139+00:00"
-    },
-    "dvids-video:1028149": {
-      "title": "AST responders work to remove drums from site",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112110865/DOD_112110865.mp4",
-      "attached_website_url": "https://ushotnews.online/article/it-could-be-quite-a-brutal-evening-gop-braces-for-some-once-unthinkable-losses",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1110498651975142",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1110498651975142",
-      "fb_comment_id": "1110498651975142_1434665454871666",
-      "posted_at": "2026-10-30T19:06:39.983952+00:00"
-    },
     "dvids-video:1028241": {
       "title": "Secretary of State Marco Rubio meets with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111988/DOD_112111988.mp4",
@@ -144,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1556759129809959",
       "fb_comment_id": "1556759129809959_1447364084206561",
       "posted_at": "2026-11-02T09:10:59.290075+00:00"
+    },
+    "dvids-video:1028385": {
+      "title": "Coast Guard medevacs 53-year-old man off container ship 34 miles northwest of San Francisco",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112116286/DOD_112116286.mp4",
+      "attached_website_url": "https://ushotnews.online/article/a-lot-of-republicans-have-held-their-tongues-anger-at-trump-is-growing",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1109064181914639",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1109064181914639",
+      "fb_comment_id": "1109064181914639_1506823681504727",
+      "posted_at": "2026-11-02T20:10:06.757389+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-02T09:10:14.397051+00:00"
+  "last_cleaned_at": "2026-11-02T20:08:30.968609+00:00"
 }
