@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-02T04:38:04.183867+00:00",
-  "posted_count": 58,
+  "last_updated": "2026-11-02T09:18:52.755508+00:00",
+  "posted_count": 56,
   "articles": {
-    "scraped-df2f2f33ec": {
-      "title": "Man dressed as zombie allegedly stabs two in coffee shop, flees and hits robotaxi",
-      "slug": "man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi",
-      "url": "https://ushotnews.online/article/man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi",
-      "article_url": "https://ushotnews.online/article/man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129934147471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129934147471257",
-      "fb_comment_id": "122129934147471257_951190077740326",
-      "posted_at": "2026-10-30T07:33:21.119021+00:00"
-    },
-    "man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi": {
-      "title": "Man dressed as zombie allegedly stabs two in coffee shop, flees and hits robotaxi",
-      "slug": "man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi",
-      "url": "https://ushotnews.online/article/man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi",
-      "article_url": "https://ushotnews.online/article/man-dressed-as-zombie-allegedly-stabs-two-in-coffee-shop-flees-and-hits-robotaxi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129934147471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129934147471257",
-      "fb_comment_id": "122129934147471257_951190077740326",
-      "posted_at": "2026-10-30T07:33:21.119021+00:00"
-    },
-    "scraped-9ce04a55ec": {
-      "title": "Brewers continue World Series celebration, raise Commissioner’s Trophy at Lambeau Field during Packers game",
-      "slug": "brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
-      "url": "https://ushotnews.online/article/brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
-      "article_url": "https://ushotnews.online/article/brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129945745471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129945745471257",
-      "fb_comment_id": "122129945745471257_1637082504786436",
-      "posted_at": "2026-10-30T08:30:27.070110+00:00"
-    },
-    "brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri": {
-      "title": "Brewers continue World Series celebration, raise Commissioner’s Trophy at Lambeau Field during Packers game",
-      "slug": "brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
-      "url": "https://ushotnews.online/article/brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
-      "article_url": "https://ushotnews.online/article/brewers-continue-world-series-celebration-raise-commissioners-trophy-at-lambeau-field-duri",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129945745471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129945745471257",
-      "fb_comment_id": "122129945745471257_1637082504786436",
-      "posted_at": "2026-10-30T08:30:27.070110+00:00"
-    },
     "scraped-b14f4e1a8f": {
       "title": "2026 midterm election voter guides: Find local resources in your community",
       "slug": "2026-midterm-election-voter-guides-find-local-resources-in-your-community",
@@ -639,7 +595,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130978177471257",
       "fb_comment_id": "122130978177471257_39666609942987352",
       "posted_at": "2026-11-02T04:38:04.183795+00:00"
+    },
+    "scraped-334754155a": {
+      "title": "Josh Jacobs' lawyers call police release of previously unreported abuse allegations 'character assassination'",
+      "slug": "josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
+      "url": "https://ushotnews.online/article/josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
+      "article_url": "https://ushotnews.online/article/josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131102641471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131102641471257",
+      "fb_comment_id": "122131102641471257_2665989903851897",
+      "posted_at": "2026-11-02T09:18:52.755399+00:00"
+    },
+    "josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact": {
+      "title": "Josh Jacobs' lawyers call police release of previously unreported abuse allegations 'character assassination'",
+      "slug": "josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
+      "url": "https://ushotnews.online/article/josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
+      "article_url": "https://ushotnews.online/article/josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131102641471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131102641471257",
+      "fb_comment_id": "122131102641471257_2665989903851897",
+      "posted_at": "2026-11-02T09:18:52.755399+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-02T04:37:56.011114+00:00"
+  "last_cleaned_at": "2026-11-02T09:18:42.017415+00:00"
 }
