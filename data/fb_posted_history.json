@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-02T19:43:49.821424+00:00",
-  "posted_count": 56,
+  "last_updated": "2026-11-02T22:25:19.486991+00:00",
+  "posted_count": 54,
   "articles": {
-    "scraped-1025cecaf8": {
-      "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-      "slug": "npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
-      "url": "https://ushotnews.online/article/npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
-      "article_url": "https://ushotnews.online/article/npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130146613471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130146613471257",
-      "fb_comment_id": "122130146613471257_1093872216800858",
-      "posted_at": "2026-10-30T19:51:46.364206+00:00"
-    },
-    "npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters": {
-      "title": "NPR special: 5 takeaways from a year of listening to swing voters",
-      "slug": "npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
-      "url": "https://ushotnews.online/article/npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
-      "article_url": "https://ushotnews.online/article/npr-special-5-takeaways-from-a-year-of-listening-to-swing-voters",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130146613471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130146613471257",
-      "fb_comment_id": "122130146613471257_1093872216800858",
-      "posted_at": "2026-10-30T19:51:46.364206+00:00"
-    },
-    "scraped-67212b2bd5": {
-      "title": "'Punt' on this year's quarterback draft class, take Jeremiah Smith, says college football expert Brooks Austin",
-      "slug": "punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
-      "url": "https://ushotnews.online/article/punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
-      "article_url": "https://ushotnews.online/article/punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130148053471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130148053471257",
-      "fb_comment_id": "122130148053471257_3471558489669613",
-      "posted_at": "2026-10-30T20:04:47.450443+00:00"
-    },
-    "punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper": {
-      "title": "'Punt' on this year's quarterback draft class, take Jeremiah Smith, says college football expert Brooks Austin",
-      "slug": "punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
-      "url": "https://ushotnews.online/article/punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
-      "article_url": "https://ushotnews.online/article/punt-on-this-years-quarterback-draft-class-take-jeremiah-smith-says-college-football-exper",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130148053471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130148053471257",
-      "fb_comment_id": "122130148053471257_3471558489669613",
-      "posted_at": "2026-10-30T20:04:47.450443+00:00"
-    },
     "scraped-97c712311c": {
       "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
       "slug": "sam-altman-says-its-better-for-ram-to-be-in-a-data-center-than-on-your-desk",
@@ -617,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131247421471257",
       "fb_comment_id": "122131247421471257_1102473779273891",
       "posted_at": "2026-11-02T19:43:49.821355+00:00"
+    },
+    "scraped-b95fae4587": {
+      "title": "JACKSON THOMPSON: Maine girls speak out about facing trans athlete as state grapples with issue",
+      "slug": "jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
+      "url": "https://ushotnews.online/article/jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
+      "article_url": "https://ushotnews.online/article/jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131295691471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131295691471257",
+      "fb_comment_id": "122131295691471257_29081523974847986",
+      "posted_at": "2026-11-02T22:25:19.486929+00:00"
+    },
+    "jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i": {
+      "title": "JACKSON THOMPSON: Maine girls speak out about facing trans athlete as state grapples with issue",
+      "slug": "jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
+      "url": "https://ushotnews.online/article/jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
+      "article_url": "https://ushotnews.online/article/jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131295691471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131295691471257",
+      "fb_comment_id": "122131295691471257_29081523974847986",
+      "posted_at": "2026-11-02T22:25:19.486929+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-02T19:43:40.011151+00:00"
+  "last_cleaned_at": "2026-11-02T22:25:11.375521+00:00"
 }
