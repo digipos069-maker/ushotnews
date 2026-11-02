@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-01T21:55:07.715269+00:00",
+  "last_updated": "2026-11-02T01:25:55.901635+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1028035": {
-      "title": "Advanced Helicopter Rescue School social media teaser",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112109088/DOD_112109088.mp4",
-      "attached_website_url": "https://ushotnews.online/article/utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1135228325912178",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1135228325912178",
-      "fb_comment_id": "1135228325912178_2587851211687318",
-      "posted_at": "2026-10-29T23:52:37.199926+00:00"
-    },
     "dvids-video:1028038": {
       "title": "U.S. Army Demonstrates Emerging Autonomous Breaching Technology at Fort Hood",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112109139/DOD_112109139.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1142701531612937",
       "fb_comment_id": "1142701531612937_2020827971960122",
       "posted_at": "2026-11-01T21:55:07.715213+00:00"
+    },
+    "dvids-video:1028304": {
+      "title": "U.S. Air Force Cpt. Natalia Morales Dental Policentro de Salud San Isidro Interview",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112114387/DOD_112114387.mp4",
+      "attached_website_url": "https://ushotnews.online/article/democrats-eye-state-supreme-court-races-this-year-and-beyond",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1125561573529339",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1125561573529339",
+      "fb_comment_id": "1125561573529339_1647842170083397",
+      "posted_at": "2026-11-02T01:25:55.901575+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T21:54:01.138246+00:00"
+  "last_cleaned_at": "2026-11-02T01:24:37.041918+00:00"
 }
