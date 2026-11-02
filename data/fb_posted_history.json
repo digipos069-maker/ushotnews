@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-01T23:45:59.253421+00:00",
+  "last_updated": "2026-11-02T01:45:25.049939+00:00",
   "posted_count": 58,
   "articles": {
-    "scraped-a4a53142be": {
-      "title": "WATCH: Phoenix bank employees rescue food vendor during severe Arizona storm in viral video",
-      "slug": "watch-phoenix-bank-employees-rescue-food-vendor-during-severe-arizona-storm-in-viral-video",
-      "url": "https://ushotnews.online/article/watch-phoenix-bank-employees-rescue-food-vendor-during-severe-arizona-storm-in-viral-video",
-      "article_url": "https://ushotnews.online/article/watch-phoenix-bank-employees-rescue-food-vendor-during-severe-arizona-storm-in-viral-video",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129855925471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129855925471257",
-      "fb_comment_id": "122129855925471257_2192136104675704",
-      "posted_at": "2026-10-30T01:15:33.187205+00:00"
-    },
-    "watch-phoenix-bank-employees-rescue-food-vendor-during-severe-arizona-storm-in-viral-video": {
-      "title": "WATCH: Phoenix bank employees rescue food vendor during severe Arizona storm in viral video",
-      "slug": "watch-phoenix-bank-employees-rescue-food-vendor-during-severe-arizona-storm-in-viral-video",
-      "url": "https://ushotnews.online/article/watch-phoenix-bank-employees-rescue-food-vendor-during-severe-arizona-storm-in-viral-video",
-      "article_url": "https://ushotnews.online/article/watch-phoenix-bank-employees-rescue-food-vendor-during-severe-arizona-storm-in-viral-video",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122129855925471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122129855925471257",
-      "fb_comment_id": "122129855925471257_2192136104675704",
-      "posted_at": "2026-10-30T01:15:33.187205+00:00"
-    },
     "scraped-6b1630400d": {
       "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
       "slug": "utah-charges-kalshi-and-its-ceo-with-illegally-promoting-online-gambling",
@@ -639,7 +617,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130922281471257",
       "fb_comment_id": "122130922281471257_4590300331185498",
       "posted_at": "2026-11-01T23:45:59.253344+00:00"
+    },
+    "scraped-41942616f1": {
+      "title": "Cruise passengers criticize new program identifying early tippers on board",
+      "slug": "cruise-passengers-criticize-new-program-identifying-early-tippers-on-board",
+      "url": "https://ushotnews.online/article/cruise-passengers-criticize-new-program-identifying-early-tippers-on-board",
+      "article_url": "https://ushotnews.online/article/cruise-passengers-criticize-new-program-identifying-early-tippers-on-board",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130941835471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130941835471257",
+      "fb_comment_id": "122130941835471257_2873610013025865",
+      "posted_at": "2026-11-02T01:45:25.049851+00:00"
+    },
+    "cruise-passengers-criticize-new-program-identifying-early-tippers-on-board": {
+      "title": "Cruise passengers criticize new program identifying early tippers on board",
+      "slug": "cruise-passengers-criticize-new-program-identifying-early-tippers-on-board",
+      "url": "https://ushotnews.online/article/cruise-passengers-criticize-new-program-identifying-early-tippers-on-board",
+      "article_url": "https://ushotnews.online/article/cruise-passengers-criticize-new-program-identifying-early-tippers-on-board",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122130941835471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130941835471257",
+      "fb_comment_id": "122130941835471257_2873610013025865",
+      "posted_at": "2026-11-02T01:45:25.049851+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-01T23:45:47.018207+00:00"
+  "last_cleaned_at": "2026-11-02T01:45:13.251634+00:00"
 }
