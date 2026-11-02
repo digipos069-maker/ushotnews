@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-02T01:25:55.901635+00:00",
+  "last_updated": "2026-11-02T09:10:59.290134+00:00",
   "posted_count": 13,
   "articles": {
-    "dvids-video:1028038": {
-      "title": "U.S. Army Demonstrates Emerging Autonomous Breaching Technology at Fort Hood",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112109139/DOD_112109139.mp4",
-      "attached_website_url": "https://ushotnews.online/article/reddits-ceo-says-googles-ai-mode-does-not-drive-traffic",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "1701747451552703",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1701747451552703",
-      "fb_comment_id": "1701747451552703_1933565847624591",
-      "posted_at": "2026-10-30T05:16:43.957295+00:00"
-    },
     "dvids-video:1028111": {
       "title": "Send Me: The making of a Soldier | Week 5",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112110399/DOD_112110399.mp4",
@@ -144,7 +133,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1125561573529339",
       "fb_comment_id": "1125561573529339_1647842170083397",
       "posted_at": "2026-11-02T01:25:55.901575+00:00"
+    },
+    "dvids-video:1028312": {
+      "title": "U.S. Army Corps of Engineers, Seattle District Col. Kathryn Sanborn's Farewell Message",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112114575/DOD_112114575.mp4",
+      "attached_website_url": "https://ushotnews.online/article/gulf-region-on-edge-as-qatar-leads-talks-with-iran-to-stave-off-new-us-attacks",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1556759129809959",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1556759129809959",
+      "fb_comment_id": "1556759129809959_1447364084206561",
+      "posted_at": "2026-11-02T09:10:59.290075+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-02T01:24:37.041918+00:00"
+  "last_cleaned_at": "2026-11-02T09:10:14.397051+00:00"
 }
