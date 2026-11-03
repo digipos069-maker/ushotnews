@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-03T02:11:32.064109+00:00",
+  "last_updated": "2026-11-03T03:36:41.286612+00:00",
   "posted_count": 52,
   "articles": {
-    "scraped-bf2da7ce69": {
-      "title": "Russia's international hockey ban lifted, prompting backlash from IIHF, other countries: 'Incomprehensible'",
-      "slug": "russias-international-hockey-ban-lifted-prompting-backlash-from-iihf-other-countries-incom",
-      "url": "https://ushotnews.online/article/russias-international-hockey-ban-lifted-prompting-backlash-from-iihf-other-countries-incom",
-      "article_url": "https://ushotnews.online/article/russias-international-hockey-ban-lifted-prompting-backlash-from-iihf-other-countries-incom",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130243789471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130243789471257",
-      "fb_comment_id": "122130243789471257_4305099669729238",
-      "posted_at": "2026-10-31T02:40:35.551318+00:00"
-    },
-    "russias-international-hockey-ban-lifted-prompting-backlash-from-iihf-other-countries-incom": {
-      "title": "Russia's international hockey ban lifted, prompting backlash from IIHF, other countries: 'Incomprehensible'",
-      "slug": "russias-international-hockey-ban-lifted-prompting-backlash-from-iihf-other-countries-incom",
-      "url": "https://ushotnews.online/article/russias-international-hockey-ban-lifted-prompting-backlash-from-iihf-other-countries-incom",
-      "article_url": "https://ushotnews.online/article/russias-international-hockey-ban-lifted-prompting-backlash-from-iihf-other-countries-incom",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130243789471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130243789471257",
-      "fb_comment_id": "122130243789471257_4305099669729238",
-      "posted_at": "2026-10-31T02:40:35.551318+00:00"
-    },
     "scraped-76bf869780": {
       "title": "Buffalo Bills tap hometown heroes Goo Goo Dolls for Thanksgiving night halftime concert",
       "slug": "buffalo-bills-tap-hometown-heroes-goo-goo-dolls-for-thanksgiving-night-halftime-concert",
@@ -573,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131337265471257",
       "fb_comment_id": "122131337265471257_4681521235459661",
       "posted_at": "2026-11-03T02:11:32.064043+00:00"
+    },
+    "scraped-61677215c0": {
+      "title": "Four states vote Tuesday on ballot measures that could reshape girls' and women's sports nationwide",
+      "slug": "four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
+      "url": "https://ushotnews.online/article/four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
+      "article_url": "https://ushotnews.online/article/four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131349565471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131349565471257",
+      "fb_comment_id": "122131349565471257_1870200414347014",
+      "posted_at": "2026-11-03T03:36:41.286536+00:00"
+    },
+    "four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat": {
+      "title": "Four states vote Tuesday on ballot measures that could reshape girls' and women's sports nationwide",
+      "slug": "four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
+      "url": "https://ushotnews.online/article/four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
+      "article_url": "https://ushotnews.online/article/four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131349565471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131349565471257",
+      "fb_comment_id": "122131349565471257_1870200414347014",
+      "posted_at": "2026-11-03T03:36:41.286536+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-03T02:11:21.255881+00:00"
+  "last_cleaned_at": "2026-11-03T03:36:31.983911+00:00"
 }
