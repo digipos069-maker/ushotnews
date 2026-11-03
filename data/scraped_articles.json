@@ -1,5 +1,1300 @@
 [
   {
+    "id": "scraped-d158270e30",
+    "slug": "poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
+    "guid": "000001a1-9d85-d2f6-adb3-bfad98f10000",
+    "title": "Poll: GOP voters say the party isn’t focused enough on the economy",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Hours before polls close, a new survey shows a stark disconnect between what Republican voters want their party to focus on and what they say the party actually is focusing on.",
+    "content": [
+      "Hours before polls close, a new survey shows a stark disconnect between what Republican voters want their party to focus on and what they say the party actually is focusing on.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/22/d4/b03c12ea4b929d32be03403d3c46/tpp-economy-culture.png",
+    "imageCaption": "Poll: GOP voters say the party isn’t focused enough on the e... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4bf7203c3b",
+    "slug": "the-xbox-nano-has-a-hidden-cloud-secret",
+    "guid": "https://www.theverge.com/?p=1025430",
+    "title": "The Xbox Nano has a hidden cloud secret",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano leaked earlier this year. The [&#8230;]",
+    "content": [
+      "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, but one I've been anticipating since the Xbox Nano leaked earlier this year. The [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Xbox Nano has a hidden cloud secret... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:16:04+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c8b051f3b",
+    "slug": "mofts-new-origami-case-adds-a-kickstand-and-grip-to-the-iphone-duo",
+    "guid": "https://www.theverge.com/?p=1025364",
+    "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Folio's origami-like [&#8230;]",
+    "content": [
+      "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles for hands-free use, or reconfigure the Dynamic Folio's origami-like [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Moft’s new origami case adds a kickstand and grip to the iPh... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:27:52+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-49bc9cb5aa",
+    "slug": "netflix-will-show-you-themed-recommendations-through-a-new-ai-discover-tab",
+    "guid": "https://www.theverge.com/?p=1025029",
+    "title": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show [&#8230;]",
+    "content": [
+      "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Netflix will show you themed recommendations through a new ‘... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-db1f1d6d56",
+    "slug": "googles-gemini-powered-home-speaker-is-already-on-sale-for-20-percent-off",
+    "guid": "https://www.theverge.com/?p=1025498",
+    "title": "Google’s Gemini-powered Home Speaker is already on sale for 20 percent off",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "If you&#8217;re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That&#8217;s the best price we&#8217;ve seen for the Gemini-powered speaker, which launched in June and represents Google’s first smart speaker in several years. In her review, [&#8230;]",
+    "content": [
+      "If you&#8217;re looking for a good smart speaker, the Google Home Speaker is down to around $79 ($20 off) in all four colors at Best Buy, Walmart, and Target. That&#8217;s the best price we&#8217;ve seen for the Gemini-powered speaker, which launched in June and represents Google’s first smart speaker in several years. In her review, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Google’s Gemini-powered Home Speaker is already on sale for ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:11:49+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-880cf0684b",
+    "slug": "indie-games-are-missing-launch-dates-because-steam-is-backed-up",
+    "guid": "https://www.theverge.com/?p=1025596",
+    "title": "Indie games are missing launch dates because Steam is backed up",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in [&#8230;]",
+    "content": [
+      "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Indie games are missing launch dates because Steam is backed... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:14:50+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9bab64825d",
+    "slug": "reddit-is-adding-more-ads",
+    "guid": "https://www.theverge.com/?p=1025602",
+    "title": "Reddit is adding more ads",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Reddit is testing ads on another area of its platform: search. With this update, ads will appear within your search results \"based on a range of factors, including contextual relevance to a search query,\" according to Reddit. That means searching for \"espresso station\" could present you with ads for espresso, machines, beans, or mugs, while [&#8230;]",
+    "content": [
+      "Reddit is testing ads on another area of its platform: search. With this update, ads will appear within your search results \"based on a range of factors, including contextual relevance to a search query,\" according to Reddit. That means searching for \"espresso station\" could present you with ads for espresso, machines, beans, or mugs, while [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Reddit is adding more ads... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:26:36+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-552e8b3b35",
+    "slug": "openai-says-chatgpt-is-catching-up-to-google-in-search",
+    "guid": "https://www.theverge.com/?p=1025482",
+    "title": "OpenAI says ChatGPT is catching up to Google in search",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said [&#8230;]",
+    "content": [
+      "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "OpenAI says ChatGPT is catching up to Google in search... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:30:42+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f71d80fc17",
+    "slug": "apples-latest-watchos-beta-includes-its-new-always-on-audio-intelligence-features",
+    "guid": "https://www.theverge.com/?p=1025002",
+    "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 [&#8230;]",
+    "content": [
+      "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple’s latest watchOS beta includes its new always-on Audio... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:31:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f2fb0d4376",
+    "slug": "new-restrictions-at-texas-tech-are-changing-what-professors-can-teach",
+    "guid": "https://www.npr.org/2026/11/03/nx-s1-5963883/texas-tech-academic-sb17-odyssey",
+    "title": "New restrictions at Texas Tech are changing what professors can teach",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The rules have led to changes in course materials, prompted accusations of censorship and fueled pushback from faculty and students, including faculty departures, student protests and a federal lawsuit.",
+    "content": [
+      "The rules have led to changes in course materials, prompted accusations of censorship and fueled pushback from faculty and students, including faculty departures, student protests and a federal lawsuit.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "New restrictions at Texas Tech are changing what professors ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T10:01:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-41da5afcf3",
+    "slug": "control-of-congress-is-at-stake-today-and-judge-to-consider-motion-in-clancy-case",
+    "guid": "https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy",
+    "title": "Control of Congress is at stake today. And, judge to consider motion in Clancy case",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
+    "content": [
+      "Election Day is here, and voters are heading to the polls in an election that may change control of Congress. And, a judge is considering whether to dismiss Lindsay Clancy's murder case.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Control of Congress is at stake today. And, judge to conside... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T11:43:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-69ad8273dc",
+    "slug": "indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+    "guid": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+    "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+    "content": [
+      "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Indian navy rescues 20 crew from Iranian fishing boat hijack... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T14:13:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7dd1ac48b6",
+    "slug": "for-ukraines-kherson-region-a-short-ceasefire-meant-a-momentary-return-to-normal-life",
+    "guid": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+    "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+    "content": [
+      "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "For Ukraine's Kherson region, a short ceasefire meant a mome... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T15:54:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-71ba5abe74",
+    "slug": "when-caring-for-aging-family-members-becomes-cost-prohibitive",
+    "guid": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
+    "title": "When caring for aging family members becomes cost prohibitive",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
+    "content": [
+      "AARP reports family caregivers are spending 60% more than they were five years ago. Journalist Paula Span discusses the rising costs of caregiving and senior living, and the options available to us.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "When caring for aging family members becomes cost prohibitiv... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:09:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3639a29f07",
+    "slug": "bird-flu-kills-us-resident-after-dairy-cow-exposure-marking-nations-third-death",
+    "guid": "https://www.foxnews.com/health/bird-flu-kills-us-resident-dairy-cow-exposure-marking-nations-third-death",
+    "title": "Bird flu kills US resident after dairy cow exposure, marking nation’s third death",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A Yakima County resident with underlying health conditions died after contracting H5N1 bird flu from infected dairy cows at a local dairy farm.",
+    "content": [
+      "A Yakima County resident with underlying health conditions died after contracting H5N1 bird flu from infected dairy cows at a local dairy farm.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cattle.jpg?ve=1&tl=1",
+    "imageCaption": "Bird flu kills US resident after dairy cow exposure, marking... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:23:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-731836f467",
+    "slug": "these-college-football-coordinators-will-be-the-next-big-head-coaches-according-to-film-gu",
+    "guid": "https://www.foxnews.com/outkick-sports/college-football-coordinators-next-big-head-coaches-film-guy-brooks-austin",
+    "title": "These college football coordinators will be the next big head coaches, according to 'Film Guy' Brooks Austin",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Florida State&apos;s coaching search could target rising coordinators like Buster Faulkner, Kevin McGiven, or Glenn Schumann, says analyst Brooks Austin.",
+    "content": [
+      "Florida State&apos;s coaching search could target rising coordinators like Buster Faulkner, Kevin McGiven, or Glenn Schumann, says analyst Brooks Austin.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/eli-drinkwitz-buster-faulkner-missouri-tigers.jpg?ve=1&tl=1",
+    "imageCaption": "These college football coordinators will be the next big hea... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:27:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8ebb11716c",
+    "slug": "ex-rep-justin-amash-says-mike-rogers-would-be-more-dangerous-in-the-us-senate-than-abdul-e",
+    "guid": "https://www.foxnews.com/politics/ex-rep-justin-amash-mike-rogers-would-be-more-dangerous-us-senate-abdul-el-sayed",
+    "title": "Ex-Rep Justin Amash says Mike Rogers 'would be more dangerous in the US Senate' than Abdul El-Sayed",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Former Rep. Justin Amash suggested that former Republican Rep. Mike Rogers would be more dangerous in the U.S. Senate than Democratic Senate candidate Abdul El-Sayed.",
+    "content": [
+      "Former Rep. Justin Amash suggested that former Republican Rep. Mike Rogers would be more dangerous in the U.S. Senate than Democratic Senate candidate Abdul El-Sayed.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/02db9340-mike-rogers-abdul-el-sayed-split.jpg?ve=1&tl=1",
+    "imageCaption": "Ex-Rep Justin Amash says Mike Rogers 'would be more dangerou... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:36:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9780fa9502",
+    "slug": "aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo",
+    "guid": "https://www.foxnews.com/politics/aoc-campaign-memo-frames-growth-from-progressive-firebrand-national-democratic-party-force",
+    "title": "AOC campaign memo frames growth from progressive firebrand to national Democratic Party force",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Alexandria Ocasio-Cortez&apos;s campaign memo reveals how she built a nationwide movement around economic populism after Trump&apos;s 2024 election victory.",
+    "content": [
+      "Alexandria Ocasio-Cortez&apos;s campaign memo reveals how she built a nationwide movement around economic populism after Trump&apos;s 2024 election victory.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/zohran-mamdani-forest-hills-rally-fox-news-001.jpeg?ve=1&tl=1",
+    "imageCaption": "AOC campaign memo frames growth from progressive firebrand t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:49:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2377f919f3",
+    "slug": "zach-bryans-cover-of-ian-noes-kentucky-hurricane-with-a-choir-goes-viral-on-youtube",
+    "guid": "https://www.foxnews.com/outkick-culture/zach-bryan-cover-ian-noe-kentucky-hurricane-choir-goes-viral-youtube",
+    "title": "Zach Bryan's cover of Ian Noe's 'Kentucky Hurricane' with a choir goes viral on YouTube",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "After releasing his new EP Young Manhood Other Donatable Organs, Zach Bryan linked up with a choir for a viral Kentucky Hurricane cover.",
+    "content": [
+      "After releasing his new EP Young Manhood Other Donatable Organs, Zach Bryan linked up with a choir for a viral Kentucky Hurricane cover.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Zach_Bryan.jpeg?ve=1&tl=1",
+    "imageCaption": "Zach Bryan's cover of Ian Noe's 'Kentucky Hurricane' with a ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:50:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-374c39bf60",
+    "slug": "popeyes-revives-long-lost-menu-item-that-fans-have-been-waiting-years-to-taste-again",
+    "guid": "https://www.foxnews.com/food-drink/popeyes-revives-long-lost-menu-item-fans-have-been-waiting-years-taste-again",
+    "title": "Popeyes revives long-lost menu item that fans have been waiting years to taste again",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A discontinued menu item from Popeyes returns, sparking nostalgia and debate as some customers praised the crispy batter while others disagreed.",
+    "content": [
+      "A discontinued menu item from Popeyes returns, sparking nostalgia and debate as some customers praised the crispy batter while others disagreed.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/popeyes_drive_thru.jpg?ve=1&tl=1",
+    "imageCaption": "Popeyes revives long-lost menu item that fans have been wait... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:57:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-85570af3c5",
+    "slug": "healthy-24-year-old-athlete-dies-just-2-miles-from-nyc-marathon-finish-line-after-sending-",
+    "guid": "https://www.foxnews.com/health/healthy-24-year-old-athlete-dies-2-miles-nyc-marathon-finish-line-after-sending-dad-chilling-texts",
+    "title": "Healthy 24-year-old athlete dies just 2 miles from NYC marathon finish line after sending dad chilling texts",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Rachel Apa&apos;s father says rhabdomyolysis killed the 24-year-old NYC marathon runner, who collapsed at mile 24 during her first-ever race Sunday.",
+    "content": [
+      "Rachel Apa&apos;s father says rhabdomyolysis killed the 24-year-old NYC marathon runner, who collapsed at mile 24 during her first-ever race Sunday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/rachel-apa-nyc-marathon-split.jpg?ve=1&tl=1",
+    "imageCaption": "Healthy 24-year-old athlete dies just 2 miles from NYC marat... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:59:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2527876ea5",
+    "slug": "tiger-woods-to-redesign-famed-long-island-golf-club-that-was-rocked-by-prostitution-scanda",
+    "guid": "https://www.foxnews.com/outkick-sports/tiger-woods-redesign-famed-long-island-golf-club-rocked-prostitution-scandal",
+    "title": "Tiger Woods to redesign famed Long Island golf club that was rocked by prostitution scandal",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tiger Woods and TGR Design will redesign a scandal-plagued Long Island golf club closed since 2021, bringing new life to the Gold Coast region.",
+    "content": [
+      "Tiger Woods and TGR Design will redesign a scandal-plagued Long Island golf club closed since 2021, bringing new life to the Gold Coast region.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tiger-woods-dui-golf-sports-fox-news.jpg?ve=1&tl=1",
+    "imageCaption": "Tiger Woods to redesign famed Long Island golf club that was... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:03:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2e5a79708c",
+    "slug": "apple-margin-outlook-pressures-tech-as-reported-us-strike-lifts-oil",
+    "guid": "108509760",
+    "title": "Apple margin outlook pressures tech as reported U.S. strike lifts oil",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Midterm voting gets underway amid volatility across stock and oil markets",
+    "content": [
+      "Midterm voting gets underway amid volatility across stock and oil markets",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple margin outlook pressures tech as reported U.S. strike ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T11:30:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6117187d39",
+    "slug": "apple-stock-sinks-as-global-memory-crisis-hurts-profits-giving-ternus-his-first-big-test",
+    "guid": "108506849",
+    "title": "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street.",
+    "content": [
+      "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple stock sinks as global memory crisis hurts profits, giv... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T14:38:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ec26685524",
+    "slug": "supermarket-fridges-hit-with-cyberattacks-across-europe-heres-whats-happening",
+    "guid": "108509046",
+    "title": "Supermarket fridges hit with cyberattacks across Europe — here's what's happening",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food.",
+    "content": [
+      "European supermarkets have become the center of another cyberattack, with hackers remotely heating fridges and spoiling food.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Supermarket fridges hit with cyberattacks across Europe — he... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T14:31:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c803a2df9d",
+    "slug": "shopify-falls-7-after-q3-revenue-and-merchandise-volume-miss-estimates",
+    "guid": "108510765",
+    "title": "Shopify falls 7% after Q3 revenue and merchandise volume miss estimates",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Shopify stock fell after the e-commerce platform's Q3 revenue and gross merchandise volume missed estimates, despite an adjusted earnings beat.",
+    "content": [
+      "Shopify stock fell after the e-commerce platform's Q3 revenue and gross merchandise volume missed estimates, despite an adjusted earnings beat.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Shopify falls 7% after Q3 revenue and merchandise volume mis... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T16:53:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d2e32b0cf4",
+    "slug": "jim-cramer-likes-crowdstrikes-new-ai-kill-switch-and-the-cyber-stock",
+    "guid": "108511426",
+    "title": "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the cyber stock",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Jim Cramer sees the tool as a significant growth driver for CrowdStrike and a breakthrough for the broader industry.",
+    "content": [
+      "Jim Cramer sees the tool as a significant growth driver for CrowdStrike and a breakthrough for the broader industry.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer likes CrowdStrike's new 'AI kill switch' and the ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:56:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8a8e29ebbb",
+    "slug": "job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls",
+    "guid": "108511422",
+    "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+    "kicker": "CNBC ECONOMY EXCLUSIVE",
+    "summary": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
+    "content": [
+      "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Economy newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Job openings posted big September gain in positive sign for ... Reported by CNBC Economy.",
+    "author": {
+      "name": "CNBC Economy Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T16:10:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCEconomy",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cea403cab8",
+    "slug": "what-the-2026-midterm-elections-could-mean-for-trumps-final-two-years",
+    "guid": "108505249",
+    "title": "What the 2026 midterm elections could mean for Trump's final two years",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Oddsmakers and public polls place Democrats in a favorable position ahead of Election Day.",
+    "content": [
+      "Oddsmakers and public polls place Democrats in a favorable position ahead of Election Day.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What the 2026 midterm elections could mean for Trump's final... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:29:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c2a21a5416",
+    "slug": "bill-ackman-warns-of-casino-stock-market-as-speculative-trading-grows",
+    "guid": "108510770",
+    "title": "Bill Ackman warns of 'casino' stock market as speculative trading grows",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "\"We're back to the casino-type markets when there was 95% leverage,\" said the founder of Pershing Square Capital Management.",
+    "content": [
+      "\"We're back to the casino-type markets when there was 95% leverage,\" said the founder of Pershing Square Capital Management.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bill Ackman warns of 'casino' stock market as speculative tr... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T16:23:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-14185b58ff",
+    "slug": "sullivan-what-the-2026-midterms-could-mean-for-energy-investors",
+    "guid": "108512479",
+    "title": "Sullivan: What the 2026 midterms could mean for energy investors",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "A Democratic Congress could be good for offshore wind and solar energy.",
+    "content": [
+      "A Democratic Congress could be good for offshore wind and solar energy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sullivan: What the 2026 midterms could mean for energy inves... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T19:03:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-74d230d716",
+    "slug": "ai-generated-slopaganda-in-political-ads-puts-internet-platforms-on-alert",
+    "guid": "108505807",
+    "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Tuesday's midterm elections follow record spending on AI-generated political ads.",
+    "content": [
+      "Tuesday's midterm elections follow record spending on AI-generated political ads.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AI-generated 'slopaganda' in political ads puts internet pla... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:37:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd5013f078",
+    "slug": "disney-plans-several-thousand-layoffs-asks-some-managers-to-cut-costs-by-up-to-20",
+    "guid": "108511107",
+    "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
+    "content": [
+      "Disney expects to lay off several thousand employees in the latest round of job cuts for the entertainment giant.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Disney plans several thousand layoffs, asks some managers to... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T17:05:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-89df8a8eef",
+    "slug": "binance-co-ceo-richard-teng-says-hackers-used-fake-job-interviews-ai-tool-to-steal-63-bill",
+    "guid": "108511116",
+    "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
+    "content": [
+      "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Binance co-CEO Richard Teng says hackers used fake job inter... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:40:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8374d6966e",
+    "slug": "meta-seeks-to-raise-up-to-25-billion-in-debt-sale-as-ai-spending-jumps",
+    "guid": "108512037",
+    "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Meta is aiming to raise between $20 billion and $25 billion in a bond sale as the company ramps up spending on infrastructure and AI models and services.",
+    "content": [
+      "Meta is aiming to raise between $20 billion and $25 billion in a bond sale as the company ramps up spending on infrastructure and AI models and services.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Meta seeks to raise up to $25 billion in debt sale as AI spe... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-03T18:33:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-22dc56b1a0",
     "slug": "the-armageddon-election",
     "guid": "000001a1-9fe9-d0f3-a5f5-9ffdaa430000",
