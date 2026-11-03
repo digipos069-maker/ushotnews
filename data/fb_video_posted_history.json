@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-03T03:25:07.298539+00:00",
+  "last_updated": "2026-11-03T11:47:20.633296+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1028258": {
-      "title": "Col. Joseph Scott - Green Bay Packers Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112112255/DOD_112112255.mp4",
-      "attached_website_url": "https://ushotnews.online/article/el-sayed-campaign-wants-stevens-to-stay-away-after-day-of-back-and-forth-sniping",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1110738895029403",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1110738895029403",
-      "fb_comment_id": "1110738895029403_1120257597279216",
-      "posted_at": "2026-10-31T05:00:04.186357+00:00"
-    },
     "dvids-video:1028246": {
       "title": "Inflatable boat, small",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112112000/DOD_112112000.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1459202089639461",
       "fb_comment_id": "1459202089639461_2598738283884139",
       "posted_at": "2026-11-03T03:25:07.298479+00:00"
+    },
+    "dvids-video:1028444": {
+      "title": "LRMC Halloween MASCAL DECON",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112118120/DOD_112118120.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-armageddon-election",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1747241649678978",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1747241649678978",
+      "fb_comment_id": "1747241649678978_1884601185905336",
+      "posted_at": "2026-11-03T11:47:20.633244+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-03T03:24:28.418199+00:00"
+  "last_cleaned_at": "2026-11-03T11:46:07.138496+00:00"
 }
