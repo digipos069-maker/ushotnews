@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-02T20:10:06.757461+00:00",
+  "last_updated": "2026-11-03T03:25:07.298539+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1028241": {
-      "title": "Secretary of State Marco Rubio meets with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111988/DOD_112111988.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-biggest-names-in-ai-are-backing-a-new-way-to-opt-out-of-scraping",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2872682939769262",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2872682939769262",
-      "fb_comment_id": "2872682939769262_1655034472956915",
-      "posted_at": "2026-10-30T23:34:28.316600+00:00"
-    },
     "dvids-video:1028258": {
       "title": "Col. Joseph Scott - Green Bay Packers Shout-out",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112112255/DOD_112112255.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1109064181914639",
       "fb_comment_id": "1109064181914639_1506823681504727",
       "posted_at": "2026-11-02T20:10:06.757389+00:00"
+    },
+    "dvids-video:1028408": {
+      "title": "Lead from the front: Brig. Gen. Anderson hits the PT field on first day in command",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112116929/DOD_112116929.mp4",
+      "attached_website_url": "https://ushotnews.online/article/xbox8217s-former-coo-has-serious-concerns-about-her-abrupt-departure",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1459202089639461",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1459202089639461",
+      "fb_comment_id": "1459202089639461_2598738283884139",
+      "posted_at": "2026-11-03T03:25:07.298479+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-02T20:08:30.968609+00:00"
+  "last_cleaned_at": "2026-11-03T03:24:28.418199+00:00"
 }
