@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-03T09:57:46.578173+00:00",
+  "last_updated": "2026-11-03T11:39:14.579836+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-a85138f1d3": {
-      "title": "100 years later, Harry Houdini's death still haunts Detroit",
-      "slug": "100-years-later-harry-houdinis-death-still-haunts-detroit",
-      "url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
-      "article_url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130395397471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130395397471257",
-      "fb_comment_id": "122130395397471257_1184650784134582",
-      "posted_at": "2026-10-31T11:09:24.730952+00:00"
-    },
-    "100-years-later-harry-houdinis-death-still-haunts-detroit": {
-      "title": "100 years later, Harry Houdini's death still haunts Detroit",
-      "slug": "100-years-later-harry-houdinis-death-still-haunts-detroit",
-      "url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
-      "article_url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130395397471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130395397471257",
-      "fb_comment_id": "122130395397471257_1184650784134582",
-      "posted_at": "2026-10-31T11:09:24.730952+00:00"
-    },
     "scraped-f2c8c0d680": {
       "title": "Where to Bet on the Breeders’ Cup, Best Online Racebooks and Betting Apps",
       "slug": "where-to-bet-on-the-breeders-cup-best-online-racebooks-and-betting-apps",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131425105471257",
       "fb_comment_id": "122131425105471257_1512320280724175",
       "posted_at": "2026-11-03T09:57:46.578112+00:00"
+    },
+    "scraped-6ab1606ecf": {
+      "title": "Ex-Chicago FBI chief sues DOJ, claims he was ousted over failed anti-ICE prosecutions",
+      "slug": "ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
+      "url": "https://ushotnews.online/article/ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
+      "article_url": "https://ushotnews.online/article/ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131450755471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131450755471257",
+      "fb_comment_id": "122131450755471257_29041914722140568",
+      "posted_at": "2026-11-03T11:39:14.579777+00:00"
+    },
+    "ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions": {
+      "title": "Ex-Chicago FBI chief sues DOJ, claims he was ousted over failed anti-ICE prosecutions",
+      "slug": "ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
+      "url": "https://ushotnews.online/article/ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
+      "article_url": "https://ushotnews.online/article/ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131450755471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131450755471257",
+      "fb_comment_id": "122131450755471257_29041914722140568",
+      "posted_at": "2026-11-03T11:39:14.579777+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-03T09:57:32.896933+00:00"
+  "last_cleaned_at": "2026-11-03T11:39:04.864832+00:00"
 }
