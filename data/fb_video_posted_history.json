@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-03T11:47:20.633296+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-11-03T19:21:38.025999+00:00",
+  "posted_count": 11,
   "articles": {
-    "dvids-video:1028246": {
-      "title": "Inflatable boat, small",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112112000/DOD_112112000.mp4",
-      "attached_website_url": "https://ushotnews.online/article/100-years-later-harry-houdinis-death-still-haunts-detroit",
-      "trending_score": 60.0,
-      "format": "video",
-      "fb_video_id": "1118311853922413",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1118311853922413",
-      "fb_comment_id": "1118311853922413_1605476724159060",
-      "posted_at": "2026-10-31T12:00:43.387036+00:00"
-    },
-    "dvids-video:1028271": {
-      "title": "Secretary of State Marco Rubio meets with Indo-Pacific Quad Foreign Ministers",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112113274/DOD_112113274.mp4",
-      "attached_website_url": "https://ushotnews.online/article/heres-why-you-can8217t-shake-those-unhinged-political-texts",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1321286486719838",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1321286486719838",
-      "fb_comment_id": "1321286486719838_1143058121506089",
-      "posted_at": "2026-10-31T17:14:13.958343+00:00"
-    },
     "dvids-video:1028233": {
       "title": "2d Cavalry Regiment participates in Greece’s Oxi Day Parade 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111849/DOD_112111849.mp4",
@@ -133,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1747241649678978",
       "fb_comment_id": "1747241649678978_1884601185905336",
       "posted_at": "2026-11-03T11:47:20.633244+00:00"
+    },
+    "dvids-video:1028499": {
+      "title": "Accelerated Vehicle Durability Testing",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112119007/DOD_112119007.mp4",
+      "attached_website_url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1091899283848177",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1091899283848177",
+      "fb_comment_id": "1091899283848177_2314994695955275",
+      "posted_at": "2026-11-03T19:21:38.025941+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-03T11:46:07.138496+00:00"
+  "last_cleaned_at": "2026-11-03T19:19:59.850526+00:00"
 }
