@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T17:43:43.525132+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-11-03T19:07:31.934323+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-e9fbb4f1a0": {
       "title": "Tatum O'Neal steps out with family ahead of 63rd birthday years after near-fatal stroke",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131531677471257",
       "fb_comment_id": "122131531677471257_1012965868503628",
       "posted_at": "2026-11-03T17:43:43.525068+00:00"
+    },
+    "scraped-d158270e30": {
+      "title": "Poll: GOP voters say the party isn’t focused enough on the economy",
+      "slug": "poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
+      "url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
+      "article_url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131546695471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131546695471257",
+      "fb_comment_id": "122131546695471257_971104548946766",
+      "posted_at": "2026-11-03T19:07:31.934247+00:00"
+    },
+    "poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy": {
+      "title": "Poll: GOP voters say the party isn’t focused enough on the economy",
+      "slug": "poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
+      "url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
+      "article_url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131546695471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131546695471257",
+      "fb_comment_id": "122131546695471257_971104548946766",
+      "posted_at": "2026-11-03T19:07:31.934247+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-03T17:43:31.733023+00:00"
+  "last_cleaned_at": "2026-11-03T19:07:24.128685+00:00"
 }
