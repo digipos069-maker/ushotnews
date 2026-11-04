@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-04T03:10:19.012460+00:00",
+  "last_updated": "2026-11-04T06:51:48.785208+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-bff42e928d": {
-      "title": "How House Democrats' 'deterrence message' on Trump jobs could backfire",
-      "slug": "how-house-democrats-deterrence-message-on-trump-jobs-could-backfire",
-      "url": "https://ushotnews.online/article/how-house-democrats-deterrence-message-on-trump-jobs-could-backfire",
-      "article_url": "https://ushotnews.online/article/how-house-democrats-deterrence-message-on-trump-jobs-could-backfire",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130622875471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130622875471257",
-      "fb_comment_id": "122130622875471257_1822514129461582",
-      "posted_at": "2026-11-01T05:49:34.753350+00:00"
-    },
-    "how-house-democrats-deterrence-message-on-trump-jobs-could-backfire": {
-      "title": "How House Democrats' 'deterrence message' on Trump jobs could backfire",
-      "slug": "how-house-democrats-deterrence-message-on-trump-jobs-could-backfire",
-      "url": "https://ushotnews.online/article/how-house-democrats-deterrence-message-on-trump-jobs-could-backfire",
-      "article_url": "https://ushotnews.online/article/how-house-democrats-deterrence-message-on-trump-jobs-could-backfire",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130622875471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130622875471257",
-      "fb_comment_id": "122130622875471257_1822514129461582",
-      "posted_at": "2026-11-01T05:49:34.753350+00:00"
-    },
     "scraped-085d2a2cbc": {
       "title": "Bill Belichick's UNC Tar Heels nearly upset top-ranked Miami before costly strip-sack",
       "slug": "bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131624473471257",
       "fb_comment_id": "122131624473471257_2089185288388154",
       "posted_at": "2026-11-04T03:10:19.012404+00:00"
+    },
+    "scraped-940f762ca7": {
+      "title": "Conservatives stunned by 'catastrophic' midterm blue tsunami, blame Trump's Iran war, high gas prices",
+      "slug": "conservatives-stunned-by-catastrophic-midterm-blue-tsunami-blame-trumps-iran-war-high-gas-",
+      "url": "https://ushotnews.online/article/conservatives-stunned-by-catastrophic-midterm-blue-tsunami-blame-trumps-iran-war-high-gas-",
+      "article_url": "https://ushotnews.online/article/conservatives-stunned-by-catastrophic-midterm-blue-tsunami-blame-trumps-iran-war-high-gas-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131672503471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131672503471257",
+      "fb_comment_id": "122131672503471257_1502762558411876",
+      "posted_at": "2026-11-04T06:51:48.785157+00:00"
+    },
+    "conservatives-stunned-by-catastrophic-midterm-blue-tsunami-blame-trumps-iran-war-high-gas-": {
+      "title": "Conservatives stunned by 'catastrophic' midterm blue tsunami, blame Trump's Iran war, high gas prices",
+      "slug": "conservatives-stunned-by-catastrophic-midterm-blue-tsunami-blame-trumps-iran-war-high-gas-",
+      "url": "https://ushotnews.online/article/conservatives-stunned-by-catastrophic-midterm-blue-tsunami-blame-trumps-iran-war-high-gas-",
+      "article_url": "https://ushotnews.online/article/conservatives-stunned-by-catastrophic-midterm-blue-tsunami-blame-trumps-iran-war-high-gas-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131672503471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131672503471257",
+      "fb_comment_id": "122131672503471257_1502762558411876",
+      "posted_at": "2026-11-04T06:51:48.785157+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-04T03:10:06.572337+00:00"
+  "last_cleaned_at": "2026-11-04T06:51:38.303507+00:00"
 }
