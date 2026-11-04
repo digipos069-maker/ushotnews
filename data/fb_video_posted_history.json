@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-03T19:21:38.025999+00:00",
+  "last_updated": "2026-11-04T00:31:34.476061+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1028233": {
-      "title": "2d Cavalry Regiment participates in Greece’s Oxi Day Parade 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112111849/DOD_112111849.mp4",
-      "attached_website_url": "https://ushotnews.online/article/this-sunday-conservative-pastors-will-preach-against-democrats-claims-to-christian-faith",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1487148086083214",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1487148086083214",
-      "fb_comment_id": "1487148086083214_1676086417477330",
-      "posted_at": "2026-10-31T21:17:05.830132+00:00"
-    },
     "dvids-video:1028282": {
       "title": "Fort Knox facilitates annual Halloween festivities",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2610/DOD_112113477/DOD_112113477.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1091899283848177",
       "fb_comment_id": "1091899283848177_2314994695955275",
       "posted_at": "2026-11-03T19:21:38.025941+00:00"
+    },
+    "dvids-video:1028540": {
+      "title": "Texas Longhorns - Shout-out",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112119685/DOD_112119685.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-pixel-buds-pro-2-have-returned-to-their-lowest-price-to-date",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2951000118601219",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2951000118601219",
+      "fb_comment_id": "2951000118601219_1518705006983328",
+      "posted_at": "2026-11-04T00:31:34.476005+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-03T19:19:59.850526+00:00"
+  "last_cleaned_at": "2026-11-04T00:30:29.243428+00:00"
 }
