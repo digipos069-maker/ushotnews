@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-04T18:50:48.276334+00:00",
+  "last_updated": "2026-11-04T21:25:41.645427+00:00",
   "posted_count": 44,
   "articles": {
-    "scraped-b620c8a7d2": {
-      "title": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impersonation lead Hollywood's best Halloween looks",
-      "slug": "heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
-      "url": "https://ushotnews.online/article/heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
-      "article_url": "https://ushotnews.online/article/heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130880077471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130880077471257",
-      "fb_comment_id": "122130880077471257_1476548114327995",
-      "posted_at": "2026-11-01T20:12:54.700535+00:00"
-    },
-    "heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h": {
-      "title": "Heidi Klum's severed hand and Lisa Rinna's Kylie Jenner impersonation lead Hollywood's best Halloween looks",
-      "slug": "heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
-      "url": "https://ushotnews.online/article/heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
-      "article_url": "https://ushotnews.online/article/heidi-klums-severed-hand-and-lisa-rinnas-kylie-jenner-impersonation-lead-hollywoods-best-h",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130880077471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130880077471257",
-      "fb_comment_id": "122130880077471257_1476548114327995",
-      "posted_at": "2026-11-01T20:12:54.700535+00:00"
-    },
     "scraped-5df18d3fbc": {
       "title": "Holiday airfare hits 10-year high as Thanksgiving and Christmas travel costs soar",
       "slug": "holiday-airfare-hits-10-year-high-as-thanksgiving-and-christmas-travel-costs-soar",
@@ -485,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131826631471257",
       "fb_comment_id": "122131826631471257_2218899435333554",
       "posted_at": "2026-11-04T18:50:48.276267+00:00"
+    },
+    "scraped-b11b827393": {
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "slug": "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
+      "url": "https://ushotnews.online/article/nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
+      "article_url": "https://ushotnews.online/article/nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131854189471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131854189471257",
+      "fb_comment_id": "122131854189471257_1884734006031640",
+      "posted_at": "2026-11-04T21:25:41.645370+00:00"
+    },
+    "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month": {
+      "title": "Nothing teases a screen-free AI device ahead of launch next month",
+      "slug": "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
+      "url": "https://ushotnews.online/article/nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
+      "article_url": "https://ushotnews.online/article/nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131854189471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131854189471257",
+      "fb_comment_id": "122131854189471257_1884734006031640",
+      "posted_at": "2026-11-04T21:25:41.645370+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-04T18:50:38.036026+00:00"
+  "last_cleaned_at": "2026-11-04T21:25:31.400176+00:00"
 }
