@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-04T11:29:51.896186+00:00",
+  "last_updated": "2026-11-04T15:08:12.083312+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-006ee6e9e1": {
-      "title": "Get in the spirit with these horrors from YouTube",
-      "slug": "get-in-the-spirit-with-these-horrors-from-youtube",
-      "url": "https://ushotnews.online/article/get-in-the-spirit-with-these-horrors-from-youtube",
-      "article_url": "https://ushotnews.online/article/get-in-the-spirit-with-these-horrors-from-youtube",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130773277471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130773277471257",
-      "fb_comment_id": "122130773277471257_1476332171224532",
-      "posted_at": "2026-11-01T13:10:04.604424+00:00"
-    },
-    "get-in-the-spirit-with-these-horrors-from-youtube": {
-      "title": "Get in the spirit with these horrors from YouTube",
-      "slug": "get-in-the-spirit-with-these-horrors-from-youtube",
-      "url": "https://ushotnews.online/article/get-in-the-spirit-with-these-horrors-from-youtube",
-      "article_url": "https://ushotnews.online/article/get-in-the-spirit-with-these-horrors-from-youtube",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130773277471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130773277471257",
-      "fb_comment_id": "122130773277471257_1476332171224532",
-      "posted_at": "2026-11-01T13:10:04.604424+00:00"
-    },
     "scraped-69ddef2b82": {
       "title": "How Gen Z Republicans running for Congress are thinking about the future of the party",
       "slug": "how-gen-z-republicans-running-for-congress-are-thinking-about-the-future-of-the-party",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131732221471257",
       "fb_comment_id": "122131732221471257_1106571642355591",
       "posted_at": "2026-11-04T11:29:51.896115+00:00"
+    },
+    "scraped-a23f7b9846": {
+      "title": "Jimmy Kimmel revels in Democrats' blue wave as party takes back control of Congress",
+      "slug": "jimmy-kimmel-revels-in-democrats-blue-wave-as-party-takes-back-control-of-congress",
+      "url": "https://ushotnews.online/article/jimmy-kimmel-revels-in-democrats-blue-wave-as-party-takes-back-control-of-congress",
+      "article_url": "https://ushotnews.online/article/jimmy-kimmel-revels-in-democrats-blue-wave-as-party-takes-back-control-of-congress",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131785207471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131785207471257",
+      "fb_comment_id": "122131785207471257_1662997012144715",
+      "posted_at": "2026-11-04T15:08:12.083255+00:00"
+    },
+    "jimmy-kimmel-revels-in-democrats-blue-wave-as-party-takes-back-control-of-congress": {
+      "title": "Jimmy Kimmel revels in Democrats' blue wave as party takes back control of Congress",
+      "slug": "jimmy-kimmel-revels-in-democrats-blue-wave-as-party-takes-back-control-of-congress",
+      "url": "https://ushotnews.online/article/jimmy-kimmel-revels-in-democrats-blue-wave-as-party-takes-back-control-of-congress",
+      "article_url": "https://ushotnews.online/article/jimmy-kimmel-revels-in-democrats-blue-wave-as-party-takes-back-control-of-congress",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131785207471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131785207471257",
+      "fb_comment_id": "122131785207471257_1662997012144715",
+      "posted_at": "2026-11-04T15:08:12.083255+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-04T11:29:41.264034+00:00"
+  "last_cleaned_at": "2026-11-04T15:08:01.673065+00:00"
 }
