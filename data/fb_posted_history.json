@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-04T06:51:48.785208+00:00",
+  "last_updated": "2026-11-04T11:29:51.896186+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-085d2a2cbc": {
-      "title": "Bill Belichick's UNC Tar Heels nearly upset top-ranked Miami before costly strip-sack",
-      "slug": "bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
-      "url": "https://ushotnews.online/article/bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
-      "article_url": "https://ushotnews.online/article/bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130684369471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130684369471257",
-      "fb_comment_id": "122130684369471257_2160671754543053",
-      "posted_at": "2026-11-01T08:45:52.514145+00:00"
-    },
-    "bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack": {
-      "title": "Bill Belichick's UNC Tar Heels nearly upset top-ranked Miami before costly strip-sack",
-      "slug": "bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
-      "url": "https://ushotnews.online/article/bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
-      "article_url": "https://ushotnews.online/article/bill-belichicks-unc-tar-heels-nearly-upset-top-ranked-miami-before-costly-strip-sack",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130684369471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130684369471257",
-      "fb_comment_id": "122130684369471257_2160671754543053",
-      "posted_at": "2026-11-01T08:45:52.514145+00:00"
-    },
     "scraped-006ee6e9e1": {
       "title": "Get in the spirit with these horrors from YouTube",
       "slug": "get-in-the-spirit-with-these-horrors-from-youtube",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131672503471257",
       "fb_comment_id": "122131672503471257_1502762558411876",
       "posted_at": "2026-11-04T06:51:48.785157+00:00"
+    },
+    "scraped-0d484157cf": {
+      "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+      "slug": "troy-jackson-wins-maine-senate-race-over-susan-collins-in-major-coup-for-democrats",
+      "url": "https://ushotnews.online/article/troy-jackson-wins-maine-senate-race-over-susan-collins-in-major-coup-for-democrats",
+      "article_url": "https://ushotnews.online/article/troy-jackson-wins-maine-senate-race-over-susan-collins-in-major-coup-for-democrats",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131732221471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131732221471257",
+      "fb_comment_id": "122131732221471257_1106571642355591",
+      "posted_at": "2026-11-04T11:29:51.896115+00:00"
+    },
+    "troy-jackson-wins-maine-senate-race-over-susan-collins-in-major-coup-for-democrats": {
+      "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+      "slug": "troy-jackson-wins-maine-senate-race-over-susan-collins-in-major-coup-for-democrats",
+      "url": "https://ushotnews.online/article/troy-jackson-wins-maine-senate-race-over-susan-collins-in-major-coup-for-democrats",
+      "article_url": "https://ushotnews.online/article/troy-jackson-wins-maine-senate-race-over-susan-collins-in-major-coup-for-democrats",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131732221471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131732221471257",
+      "fb_comment_id": "122131732221471257_1106571642355591",
+      "posted_at": "2026-11-04T11:29:51.896115+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-04T06:51:38.303507+00:00"
+  "last_cleaned_at": "2026-11-04T11:29:41.264034+00:00"
 }
