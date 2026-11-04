@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-04T00:05:28.558993+00:00",
+  "last_updated": "2026-11-04T03:10:19.012460+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-1adbdb89e8": {
-      "title": "France seethes again as youth-led protests sweep Europe",
-      "slug": "france-seethes-again-as-youth-led-protests-sweep-europe",
-      "url": "https://ushotnews.online/article/france-seethes-again-as-youth-led-protests-sweep-europe",
-      "article_url": "https://ushotnews.online/article/france-seethes-again-as-youth-led-protests-sweep-europe",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130577425471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130577425471257",
-      "fb_comment_id": "122130577425471257_1116408284703292",
-      "posted_at": "2026-11-01T01:52:56.700105+00:00"
-    },
-    "france-seethes-again-as-youth-led-protests-sweep-europe": {
-      "title": "France seethes again as youth-led protests sweep Europe",
-      "slug": "france-seethes-again-as-youth-led-protests-sweep-europe",
-      "url": "https://ushotnews.online/article/france-seethes-again-as-youth-led-protests-sweep-europe",
-      "article_url": "https://ushotnews.online/article/france-seethes-again-as-youth-led-protests-sweep-europe",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130577425471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130577425471257",
-      "fb_comment_id": "122130577425471257_1116408284703292",
-      "posted_at": "2026-11-01T01:52:56.700105+00:00"
-    },
     "scraped-bff42e928d": {
       "title": "How House Democrats' 'deterrence message' on Trump jobs could backfire",
       "slug": "how-house-democrats-deterrence-message-on-trump-jobs-could-backfire",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131596243471257",
       "fb_comment_id": "122131596243471257_2362858477872382",
       "posted_at": "2026-11-04T00:05:28.558930+00:00"
+    },
+    "scraped-5a8c56cc84": {
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "slug": "those-jeff-bezos-hair-transplant-photos-are-very-fake",
+      "url": "https://ushotnews.online/article/those-jeff-bezos-hair-transplant-photos-are-very-fake",
+      "article_url": "https://ushotnews.online/article/those-jeff-bezos-hair-transplant-photos-are-very-fake",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131624473471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131624473471257",
+      "fb_comment_id": "122131624473471257_2089185288388154",
+      "posted_at": "2026-11-04T03:10:19.012404+00:00"
+    },
+    "those-jeff-bezos-hair-transplant-photos-are-very-fake": {
+      "title": "Those Jeff Bezos hair transplant photos are very fake",
+      "slug": "those-jeff-bezos-hair-transplant-photos-are-very-fake",
+      "url": "https://ushotnews.online/article/those-jeff-bezos-hair-transplant-photos-are-very-fake",
+      "article_url": "https://ushotnews.online/article/those-jeff-bezos-hair-transplant-photos-are-very-fake",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131624473471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131624473471257",
+      "fb_comment_id": "122131624473471257_2089185288388154",
+      "posted_at": "2026-11-04T03:10:19.012404+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-04T00:05:15.378823+00:00"
+  "last_cleaned_at": "2026-11-04T03:10:06.572337+00:00"
 }
