@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-03T23:12:32.274826+00:00",
+  "last_updated": "2026-11-04T00:05:28.558993+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-2258b0f184": {
-      "title": "Keyboards of The Verge",
-      "slug": "keyboards-of-the-verge",
-      "url": "https://ushotnews.online/article/keyboards-of-the-verge",
-      "article_url": "https://ushotnews.online/article/keyboards-of-the-verge",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130555921471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130555921471257",
-      "fb_comment_id": "122130555921471257_1579919840554426",
-      "posted_at": "2026-10-31T23:38:23.949644+00:00"
-    },
-    "keyboards-of-the-verge": {
-      "title": "Keyboards of The Verge",
-      "slug": "keyboards-of-the-verge",
-      "url": "https://ushotnews.online/article/keyboards-of-the-verge",
-      "article_url": "https://ushotnews.online/article/keyboards-of-the-verge",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122130555921471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122130555921471257",
-      "fb_comment_id": "122130555921471257_1579919840554426",
-      "posted_at": "2026-10-31T23:38:23.949644+00:00"
-    },
     "scraped-1adbdb89e8": {
       "title": "France seethes again as youth-led protests sweep Europe",
       "slug": "france-seethes-again-as-youth-led-protests-sweep-europe",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131585755471257",
       "fb_comment_id": "122131585755471257_1819335609417636",
       "posted_at": "2026-11-03T23:12:32.274765+00:00"
+    },
+    "scraped-12ee4b3ae4": {
+      "title": "Two helicopters collide near Mount Everest during rescue flight, killing one, injuring others",
+      "slug": "two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
+      "url": "https://ushotnews.online/article/two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
+      "article_url": "https://ushotnews.online/article/two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131596243471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131596243471257",
+      "fb_comment_id": "122131596243471257_2362858477872382",
+      "posted_at": "2026-11-04T00:05:28.558930+00:00"
+    },
+    "two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other": {
+      "title": "Two helicopters collide near Mount Everest during rescue flight, killing one, injuring others",
+      "slug": "two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
+      "url": "https://ushotnews.online/article/two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
+      "article_url": "https://ushotnews.online/article/two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131596243471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131596243471257",
+      "fb_comment_id": "122131596243471257_2362858477872382",
+      "posted_at": "2026-11-04T00:05:28.558930+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-03T23:12:24.031787+00:00"
+  "last_cleaned_at": "2026-11-04T00:05:15.378823+00:00"
 }
