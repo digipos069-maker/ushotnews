@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-04T17:54:18.781875+00:00",
+  "last_updated": "2026-11-04T23:29:30.637896+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1028303": {
-      "title": "The U.S. Army Parachute Team jumps at Martinsville Motor Speedway ahead of NASCAR race",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112114205/DOD_112114205.mp4",
-      "attached_website_url": "https://ushotnews.online/article/democratic-rep-haley-stevens-endorses-republican-mike-rogers-for-michigan-senate",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1142701531612937",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1142701531612937",
-      "fb_comment_id": "1142701531612937_2020827971960122",
-      "posted_at": "2026-11-01T21:55:07.715213+00:00"
-    },
     "dvids-video:1028304": {
       "title": "U.S. Air Force Cpt. Natalia Morales Dental Policentro de Salud San Isidro Interview",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112114387/DOD_112114387.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4117874628514743",
       "fb_comment_id": "4117874628514743_1534006805463823",
       "posted_at": "2026-11-04T17:54:18.781809+00:00"
+    },
+    "dvids-video:1028611": {
+      "title": "Coast Guard offloads over $27 million of Illegal Narcotics in Port Everglades",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112121577/DOD_112121577.mp4",
+      "attached_website_url": "https://ushotnews.online/article/this-is-an-earthquake-latino-voters-rush-back-to-democrats",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2200665457536408",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2200665457536408",
+      "fb_comment_id": "2200665457536408_2227245501162940",
+      "posted_at": "2026-11-04T23:29:30.637835+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-04T17:53:05.830946+00:00"
+  "last_cleaned_at": "2026-11-04T23:28:05.640704+00:00"
 }
