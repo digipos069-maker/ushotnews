@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-05T06:04:40.295517+00:00",
+  "last_updated": "2026-11-05T16:20:42.080030+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1028312": {
-      "title": "U.S. Army Corps of Engineers, Seattle District Col. Kathryn Sanborn's Farewell Message",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112114575/DOD_112114575.mp4",
-      "attached_website_url": "https://ushotnews.online/article/gulf-region-on-edge-as-qatar-leads-talks-with-iran-to-stave-off-new-us-attacks",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1556759129809959",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1556759129809959",
-      "fb_comment_id": "1556759129809959_1447364084206561",
-      "posted_at": "2026-11-02T09:10:59.290075+00:00"
-    },
     "dvids-video:1028385": {
       "title": "Coast Guard medevacs 53-year-old man off container ship 34 miles northwest of San Francisco",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112116286/DOD_112116286.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4505396443006980",
       "fb_comment_id": "4505396443006980_1425548639663828",
       "posted_at": "2026-11-05T06:04:40.295480+00:00"
+    },
+    "dvids-video:1028714": {
+      "title": "FOX Sports Veterans Day Scripted (Bears)",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112124138/DOD_112124138.mp4",
+      "attached_website_url": "https://ushotnews.online/article/nintendos-designers-strove-for-elegance-when-remaking-ocarina-of-time",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1120236460606796",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1120236460606796",
+      "fb_comment_id": "1120236460606796_1463208095764144",
+      "posted_at": "2026-11-05T16:20:42.079970+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-05T06:03:54.260235+00:00"
+  "last_cleaned_at": "2026-11-05T16:20:12.945273+00:00"
 }
