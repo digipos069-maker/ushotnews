@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T07:17:54.188792+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-11-05T08:59:51.408928+00:00",
+  "posted_count": 44,
   "articles": {
     "scraped-334754155a": {
       "title": "Josh Jacobs' lawyers call police release of previously unreported abuse allegations 'character assassination'",
@@ -463,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131970223471257",
       "fb_comment_id": "122131970223471257_954302087475575",
       "posted_at": "2026-11-05T07:17:54.188734+00:00"
+    },
+    "scraped-b0af96f837": {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "slug": "qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink",
+      "url": "https://ushotnews.online/article/qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink",
+      "article_url": "https://ushotnews.online/article/qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131985811471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131985811471257",
+      "fb_comment_id": "122131985811471257_1910490473265140",
+      "posted_at": "2026-11-05T08:59:51.408862+00:00"
+    },
+    "qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink": {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "slug": "qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink",
+      "url": "https://ushotnews.online/article/qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink",
+      "article_url": "https://ushotnews.online/article/qualcomm-is-betting-big-on-data-centers-as-smartphone-sales-sink",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131985811471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131985811471257",
+      "fb_comment_id": "122131985811471257_1910490473265140",
+      "posted_at": "2026-11-05T08:59:51.408862+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-05T07:17:43.650944+00:00"
+  "last_cleaned_at": "2026-11-05T08:59:39.045230+00:00"
 }
