@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-05T21:55:08.172170+00:00",
+  "last_updated": "2026-11-05T22:46:36.409804+00:00",
   "posted_count": 44,
   "articles": {
-    "scraped-b95fae4587": {
-      "title": "JACKSON THOMPSON: Maine girls speak out about facing trans athlete as state grapples with issue",
-      "slug": "jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
-      "url": "https://ushotnews.online/article/jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
-      "article_url": "https://ushotnews.online/article/jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131295691471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131295691471257",
-      "fb_comment_id": "122131295691471257_29081523974847986",
-      "posted_at": "2026-11-02T22:25:19.486929+00:00"
-    },
-    "jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i": {
-      "title": "JACKSON THOMPSON: Maine girls speak out about facing trans athlete as state grapples with issue",
-      "slug": "jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
-      "url": "https://ushotnews.online/article/jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
-      "article_url": "https://ushotnews.online/article/jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131295691471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131295691471257",
-      "fb_comment_id": "122131295691471257_29081523974847986",
-      "posted_at": "2026-11-02T22:25:19.486929+00:00"
-    },
     "scraped-b628aad82e": {
       "title": "Anthropic clamps down on Claude’s AI video game clones",
       "slug": "anthropic-clamps-down-on-claudes-ai-video-game-clones",
@@ -485,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132155071471257",
       "fb_comment_id": "122132155071471257_1142805711728905",
       "posted_at": "2026-11-05T21:55:08.172096+00:00"
+    },
+    "scraped-e75e0b1e22": {
+      "title": "Ex-Alaska lawmaker details mystery recruiter as FBI, Congress widen 'Decoy Dan' scrutiny",
+      "slug": "ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
+      "url": "https://ushotnews.online/article/ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
+      "article_url": "https://ushotnews.online/article/ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132162103471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132162103471257",
+      "fb_comment_id": "122132162103471257_1385334926760506",
+      "posted_at": "2026-11-05T22:46:36.409729+00:00"
+    },
+    "ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny": {
+      "title": "Ex-Alaska lawmaker details mystery recruiter as FBI, Congress widen 'Decoy Dan' scrutiny",
+      "slug": "ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
+      "url": "https://ushotnews.online/article/ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
+      "article_url": "https://ushotnews.online/article/ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132162103471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132162103471257",
+      "fb_comment_id": "122132162103471257_1385334926760506",
+      "posted_at": "2026-11-05T22:46:36.409729+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-05T21:54:53.755620+00:00"
+  "last_cleaned_at": "2026-11-05T22:46:29.319673+00:00"
 }
