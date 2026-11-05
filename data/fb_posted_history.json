@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-05T17:19:15.405441+00:00",
+  "last_updated": "2026-11-05T21:55:08.172170+00:00",
   "posted_count": 44,
   "articles": {
-    "scraped-bf41c14a2d": {
-      "title": "What Vance's midterm push reveals about his potential 2028 bid",
-      "slug": "what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-      "url": "https://ushotnews.online/article/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-      "article_url": "https://ushotnews.online/article/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131247421471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131247421471257",
-      "fb_comment_id": "122131247421471257_1102473779273891",
-      "posted_at": "2026-11-02T19:43:49.821355+00:00"
-    },
-    "what-vances-midterm-push-reveals-about-his-potential-2028-bid": {
-      "title": "What Vance's midterm push reveals about his potential 2028 bid",
-      "slug": "what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-      "url": "https://ushotnews.online/article/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-      "article_url": "https://ushotnews.online/article/what-vances-midterm-push-reveals-about-his-potential-2028-bid",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131247421471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131247421471257",
-      "fb_comment_id": "122131247421471257_1102473779273891",
-      "posted_at": "2026-11-02T19:43:49.821355+00:00"
-    },
     "scraped-b95fae4587": {
       "title": "JACKSON THOMPSON: Maine girls speak out about facing trans athlete as state grapples with issue",
       "slug": "jackson-thompson-maine-girls-speak-out-about-facing-trans-athlete-as-state-grapples-with-i",
@@ -485,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132106765471257",
       "fb_comment_id": "122132106765471257_1148288357763329",
       "posted_at": "2026-11-05T17:19:15.405375+00:00"
+    },
+    "scraped-bfe2650765": {
+      "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
+      "slug": "camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
+      "url": "https://ushotnews.online/article/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
+      "article_url": "https://ushotnews.online/article/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132155071471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132155071471257",
+      "fb_comment_id": "122132155071471257_1142805711728905",
+      "posted_at": "2026-11-05T21:55:08.172096+00:00"
+    },
+    "camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder": {
+      "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
+      "slug": "camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
+      "url": "https://ushotnews.online/article/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
+      "article_url": "https://ushotnews.online/article/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132155071471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132155071471257",
+      "fb_comment_id": "122132155071471257_1142805711728905",
+      "posted_at": "2026-11-05T21:55:08.172096+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-05T17:19:06.162932+00:00"
+  "last_cleaned_at": "2026-11-05T21:54:53.755620+00:00"
 }
