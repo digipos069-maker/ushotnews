@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-04T23:29:30.637896+00:00",
+  "last_updated": "2026-11-05T06:04:40.295517+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1028304": {
-      "title": "U.S. Air Force Cpt. Natalia Morales Dental Policentro de Salud San Isidro Interview",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112114387/DOD_112114387.mp4",
-      "attached_website_url": "https://ushotnews.online/article/democrats-eye-state-supreme-court-races-this-year-and-beyond",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1125561573529339",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1125561573529339",
-      "fb_comment_id": "1125561573529339_1647842170083397",
-      "posted_at": "2026-11-02T01:25:55.901575+00:00"
-    },
     "dvids-video:1028312": {
       "title": "U.S. Army Corps of Engineers, Seattle District Col. Kathryn Sanborn's Farewell Message",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112114575/DOD_112114575.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2200665457536408",
       "fb_comment_id": "2200665457536408_2227245501162940",
       "posted_at": "2026-11-04T23:29:30.637835+00:00"
+    },
+    "dvids-video:1028676": {
+      "title": "Misawa Trunk or Treat 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112123483/DOD_112123483.mp4",
+      "attached_website_url": "https://ushotnews.online/article/boses-quietcomfort-headphones-are-more-than-half-off",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "4505396443006980",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4505396443006980",
+      "fb_comment_id": "4505396443006980_1425548639663828",
+      "posted_at": "2026-11-05T06:04:40.295480+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-04T23:28:05.640704+00:00"
+  "last_cleaned_at": "2026-11-05T06:03:54.260235+00:00"
 }
