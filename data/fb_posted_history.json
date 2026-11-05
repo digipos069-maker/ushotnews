@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-05T08:59:51.408928+00:00",
-  "posted_count": 44,
+  "last_updated": "2026-11-05T15:45:11.973046+00:00",
+  "posted_count": 42,
   "articles": {
-    "scraped-334754155a": {
-      "title": "Josh Jacobs' lawyers call police release of previously unreported abuse allegations 'character assassination'",
-      "slug": "josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
-      "url": "https://ushotnews.online/article/josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
-      "article_url": "https://ushotnews.online/article/josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131102641471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131102641471257",
-      "fb_comment_id": "122131102641471257_2665989903851897",
-      "posted_at": "2026-11-02T09:18:52.755399+00:00"
-    },
-    "josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact": {
-      "title": "Josh Jacobs' lawyers call police release of previously unreported abuse allegations 'character assassination'",
-      "slug": "josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
-      "url": "https://ushotnews.online/article/josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
-      "article_url": "https://ushotnews.online/article/josh-jacobs-lawyers-call-police-release-of-previously-unreported-abuse-allegations-charact",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131102641471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131102641471257",
-      "fb_comment_id": "122131102641471257_2665989903851897",
-      "posted_at": "2026-11-02T09:18:52.755399+00:00"
-    },
-    "scraped-12618ec2e4": {
-      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
-      "slug": "two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
-      "url": "https://ushotnews.online/article/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
-      "article_url": "https://ushotnews.online/article/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131151091471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131151091471257",
-      "fb_comment_id": "122131151091471257_1903235854163931",
-      "posted_at": "2026-11-02T13:07:48.053914+00:00"
-    },
-    "two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio": {
-      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
-      "slug": "two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
-      "url": "https://ushotnews.online/article/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
-      "article_url": "https://ushotnews.online/article/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusio",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131151091471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131151091471257",
-      "fb_comment_id": "122131151091471257_1903235854163931",
-      "posted_at": "2026-11-02T13:07:48.053914+00:00"
-    },
     "scraped-bf41c14a2d": {
       "title": "What Vance's midterm push reveals about his potential 2028 bid",
       "slug": "what-vances-midterm-push-reveals-about-his-potential-2028-bid",
@@ -485,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131985811471257",
       "fb_comment_id": "122131985811471257_1910490473265140",
       "posted_at": "2026-11-05T08:59:51.408862+00:00"
+    },
+    "scraped-c9c09627c5": {
+      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "slug": "inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
+      "url": "https://ushotnews.online/article/inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
+      "article_url": "https://ushotnews.online/article/inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132084763471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132084763471257",
+      "fb_comment_id": "122132084763471257_1001059036381266",
+      "posted_at": "2026-11-05T15:45:11.972986+00:00"
+    },
+    "inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals": {
+      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+      "slug": "inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
+      "url": "https://ushotnews.online/article/inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
+      "article_url": "https://ushotnews.online/article/inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132084763471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132084763471257",
+      "fb_comment_id": "122132084763471257_1001059036381266",
+      "posted_at": "2026-11-05T15:45:11.972986+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-05T08:59:39.045230+00:00"
+  "last_cleaned_at": "2026-11-05T15:44:59.195980+00:00"
 }
