@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T00:18:02.292843+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-11-05T01:39:48.829245+00:00",
+  "posted_count": 44,
   "articles": {
     "scraped-41942616f1": {
       "title": "Cruise passengers criticize new program identifying early tippers on board",
@@ -463,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131891881471257",
       "fb_comment_id": "122131891881471257_1503846594893595",
       "posted_at": "2026-11-05T00:18:02.292768+00:00"
+    },
+    "scraped-d0da59abcb": {
+      "title": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
+      "slug": "jim-cramer-warns-investors-may-be-reading-too-much-into-wall-streets-post-election-rally",
+      "url": "https://ushotnews.online/article/jim-cramer-warns-investors-may-be-reading-too-much-into-wall-streets-post-election-rally",
+      "article_url": "https://ushotnews.online/article/jim-cramer-warns-investors-may-be-reading-too-much-into-wall-streets-post-election-rally",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131906143471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131906143471257",
+      "fb_comment_id": "122131906143471257_2326508698181417",
+      "posted_at": "2026-11-05T01:39:48.829142+00:00"
+    },
+    "jim-cramer-warns-investors-may-be-reading-too-much-into-wall-streets-post-election-rally": {
+      "title": "Jim Cramer warns investors may be reading too much into Wall Street's post-election rally",
+      "slug": "jim-cramer-warns-investors-may-be-reading-too-much-into-wall-streets-post-election-rally",
+      "url": "https://ushotnews.online/article/jim-cramer-warns-investors-may-be-reading-too-much-into-wall-streets-post-election-rally",
+      "article_url": "https://ushotnews.online/article/jim-cramer-warns-investors-may-be-reading-too-much-into-wall-streets-post-election-rally",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122131906143471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131906143471257",
+      "fb_comment_id": "122131906143471257_2326508698181417",
+      "posted_at": "2026-11-05T01:39:48.829142+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-05T00:17:52.792351+00:00"
+  "last_cleaned_at": "2026-11-05T01:39:40.798055+00:00"
 }
