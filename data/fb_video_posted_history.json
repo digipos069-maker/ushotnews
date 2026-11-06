@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-05T23:30:19.103903+00:00",
+  "last_updated": "2026-11-06T06:00:17.131940+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1028408": {
-      "title": "Lead from the front: Brig. Gen. Anderson hits the PT field on first day in command",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112116929/DOD_112116929.mp4",
-      "attached_website_url": "https://ushotnews.online/article/xbox8217s-former-coo-has-serious-concerns-about-her-abrupt-departure",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1459202089639461",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1459202089639461",
-      "fb_comment_id": "1459202089639461_2598738283884139",
-      "posted_at": "2026-11-03T03:25:07.298479+00:00"
-    },
     "dvids-video:1028444": {
       "title": "LRMC Halloween MASCAL DECON",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112118120/DOD_112118120.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1806593997786342",
       "fb_comment_id": "1806593997786342_1848472356471343",
       "posted_at": "2026-11-05T23:30:19.103841+00:00"
+    },
+    "dvids-video:1028855": {
+      "title": "JPMRC 27-01: 1-21 Infantry Regiment Conducts Medical and Unmanned Aerial  System Rehearsals",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112127171/DOD_112127171.mp4",
+      "attached_website_url": "https://ushotnews.online/article/how-abdul-el-sayed-actually-did-with-jewish-voters",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1845891769759896",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1845891769759896",
+      "fb_comment_id": "1845891769759896_1650829670014714",
+      "posted_at": "2026-11-06T06:00:17.131881+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-05T23:29:32.179403+00:00"
+  "last_cleaned_at": "2026-11-06T05:58:59.196269+00:00"
 }
