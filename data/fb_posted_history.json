@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-06T03:13:06.132682+00:00",
+  "last_updated": "2026-11-06T09:46:20.911399+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-61677215c0": {
-      "title": "Four states vote Tuesday on ballot measures that could reshape girls' and women's sports nationwide",
-      "slug": "four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
-      "url": "https://ushotnews.online/article/four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
-      "article_url": "https://ushotnews.online/article/four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131349565471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131349565471257",
-      "fb_comment_id": "122131349565471257_1870200414347014",
-      "posted_at": "2026-11-03T03:36:41.286536+00:00"
-    },
-    "four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat": {
-      "title": "Four states vote Tuesday on ballot measures that could reshape girls' and women's sports nationwide",
-      "slug": "four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
-      "url": "https://ushotnews.online/article/four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
-      "article_url": "https://ushotnews.online/article/four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131349565471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131349565471257",
-      "fb_comment_id": "122131349565471257_1870200414347014",
-      "posted_at": "2026-11-03T03:36:41.286536+00:00"
-    },
     "scraped-3a64ff36b2": {
       "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
       "slug": "xbox8217s-former-coo-has-serious-concerns-about-her-abrupt-departure",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132216733471257",
       "fb_comment_id": "122132216733471257_1805074657368417",
       "posted_at": "2026-11-06T03:13:06.132612+00:00"
+    },
+    "scraped-36c0a554dc": {
+      "title": "New York Knicks champion calls out Taylor Swift as the 'fakest fan' from MSG's celebrity row",
+      "slug": "new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
+      "url": "https://ushotnews.online/article/new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
+      "article_url": "https://ushotnews.online/article/new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132312481471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132312481471257",
+      "fb_comment_id": "122132312481471257_28239055865767231",
+      "posted_at": "2026-11-06T09:46:20.911311+00:00"
+    },
+    "new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row": {
+      "title": "New York Knicks champion calls out Taylor Swift as the 'fakest fan' from MSG's celebrity row",
+      "slug": "new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
+      "url": "https://ushotnews.online/article/new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
+      "article_url": "https://ushotnews.online/article/new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132312481471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132312481471257",
+      "fb_comment_id": "122132312481471257_28239055865767231",
+      "posted_at": "2026-11-06T09:46:20.911311+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T03:12:53.022812+00:00"
+  "last_cleaned_at": "2026-11-06T09:46:13.491555+00:00"
 }
