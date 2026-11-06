@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-06T06:00:17.131940+00:00",
+  "last_updated": "2026-11-06T14:09:50.890631+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1028444": {
-      "title": "LRMC Halloween MASCAL DECON",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112118120/DOD_112118120.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-armageddon-election",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1747241649678978",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1747241649678978",
-      "fb_comment_id": "1747241649678978_1884601185905336",
-      "posted_at": "2026-11-03T11:47:20.633244+00:00"
-    },
     "dvids-video:1028499": {
       "title": "Accelerated Vehicle Durability Testing",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112119007/DOD_112119007.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1845891769759896",
       "fb_comment_id": "1845891769759896_1650829670014714",
       "posted_at": "2026-11-06T06:00:17.131881+00:00"
+    },
+    "dvids-video:1028866": {
+      "title": "Camp Arifjan Halloween 5K",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112127353/DOD_112127353.mp4",
+      "attached_website_url": "https://ushotnews.online/article/poll-republicans-and-democrats-can-agree-on-one-thing-theyre-divided",
+      "trending_score": 100.0,
+      "format": "video",
+      "fb_video_id": "1924538375379958",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1924538375379958",
+      "fb_comment_id": "1924538375379958_2185600548999357",
+      "posted_at": "2026-11-06T14:09:50.890573+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T05:58:59.196269+00:00"
+  "last_cleaned_at": "2026-11-06T14:08:49.308003+00:00"
 }
