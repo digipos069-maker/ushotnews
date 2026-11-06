@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-06T18:15:09.956716+00:00",
+  "last_updated": "2026-11-06T22:19:31.354483+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-d158270e30": {
-      "title": "Poll: GOP voters say the party isn’t focused enough on the economy",
-      "slug": "poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
-      "url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
-      "article_url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131546695471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131546695471257",
-      "fb_comment_id": "122131546695471257_971104548946766",
-      "posted_at": "2026-11-03T19:07:31.934247+00:00"
-    },
-    "poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy": {
-      "title": "Poll: GOP voters say the party isn’t focused enough on the economy",
-      "slug": "poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
-      "url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
-      "article_url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131546695471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131546695471257",
-      "fb_comment_id": "122131546695471257_971104548946766",
-      "posted_at": "2026-11-03T19:07:31.934247+00:00"
-    },
     "scraped-9780fa9502": {
       "title": "AOC campaign memo frames growth from progressive firebrand to national Democratic Party force",
       "slug": "aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132416617471257",
       "fb_comment_id": "122132416617471257_1099545302830721",
       "posted_at": "2026-11-06T18:15:09.956632+00:00"
+    },
+    "scraped-663bd6dce8": {
+      "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+      "slug": "ex-lawmaker-gets-125-years-in-macaos-first-national-security-case",
+      "url": "https://ushotnews.online/article/ex-lawmaker-gets-125-years-in-macaos-first-national-security-case",
+      "article_url": "https://ushotnews.online/article/ex-lawmaker-gets-125-years-in-macaos-first-national-security-case",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132461965471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132461965471257",
+      "fb_comment_id": "122132461965471257_29165643963070788",
+      "posted_at": "2026-11-06T22:19:31.354424+00:00"
+    },
+    "ex-lawmaker-gets-125-years-in-macaos-first-national-security-case": {
+      "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
+      "slug": "ex-lawmaker-gets-125-years-in-macaos-first-national-security-case",
+      "url": "https://ushotnews.online/article/ex-lawmaker-gets-125-years-in-macaos-first-national-security-case",
+      "article_url": "https://ushotnews.online/article/ex-lawmaker-gets-125-years-in-macaos-first-national-security-case",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132461965471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132461965471257",
+      "fb_comment_id": "122132461965471257_29165643963070788",
+      "posted_at": "2026-11-06T22:19:31.354424+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T18:14:59.245211+00:00"
+  "last_cleaned_at": "2026-11-06T22:19:21.191894+00:00"
 }
