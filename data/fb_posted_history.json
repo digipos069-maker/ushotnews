@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T02:14:57.987224+00:00",
-  "posted_count": 44,
+  "last_updated": "2026-11-06T03:13:06.132682+00:00",
+  "posted_count": 46,
   "articles": {
     "scraped-61677215c0": {
       "title": "Four states vote Tuesday on ballot measures that could reshape girls' and women's sports nationwide",
@@ -485,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132205231471257",
       "fb_comment_id": "122132205231471257_1436566461996179",
       "posted_at": "2026-11-06T02:14:57.987168+00:00"
+    },
+    "scraped-ad5190981f": {
+      "title": "Indiana, Florida and Alabama carry out rare US triple execution day",
+      "slug": "indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
+      "url": "https://ushotnews.online/article/indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
+      "article_url": "https://ushotnews.online/article/indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132216733471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132216733471257",
+      "fb_comment_id": "122132216733471257_1805074657368417",
+      "posted_at": "2026-11-06T03:13:06.132612+00:00"
+    },
+    "indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day": {
+      "title": "Indiana, Florida and Alabama carry out rare US triple execution day",
+      "slug": "indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
+      "url": "https://ushotnews.online/article/indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
+      "article_url": "https://ushotnews.online/article/indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132216733471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132216733471257",
+      "fb_comment_id": "122132216733471257_1805074657368417",
+      "posted_at": "2026-11-06T03:13:06.132612+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T02:14:47.051725+00:00"
+  "last_cleaned_at": "2026-11-06T03:12:53.022812+00:00"
 }
