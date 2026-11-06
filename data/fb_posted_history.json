@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-05T22:46:36.409804+00:00",
+  "last_updated": "2026-11-06T02:14:57.987224+00:00",
   "posted_count": 44,
   "articles": {
-    "scraped-b628aad82e": {
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "slug": "anthropic-clamps-down-on-claudes-ai-video-game-clones",
-      "url": "https://ushotnews.online/article/anthropic-clamps-down-on-claudes-ai-video-game-clones",
-      "article_url": "https://ushotnews.online/article/anthropic-clamps-down-on-claudes-ai-video-game-clones",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131337265471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131337265471257",
-      "fb_comment_id": "122131337265471257_4681521235459661",
-      "posted_at": "2026-11-03T02:11:32.064043+00:00"
-    },
-    "anthropic-clamps-down-on-claudes-ai-video-game-clones": {
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "slug": "anthropic-clamps-down-on-claudes-ai-video-game-clones",
-      "url": "https://ushotnews.online/article/anthropic-clamps-down-on-claudes-ai-video-game-clones",
-      "article_url": "https://ushotnews.online/article/anthropic-clamps-down-on-claudes-ai-video-game-clones",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131337265471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131337265471257",
-      "fb_comment_id": "122131337265471257_4681521235459661",
-      "posted_at": "2026-11-03T02:11:32.064043+00:00"
-    },
     "scraped-61677215c0": {
       "title": "Four states vote Tuesday on ballot measures that could reshape girls' and women's sports nationwide",
       "slug": "four-states-vote-tuesday-on-ballot-measures-that-could-reshape-girls-and-womens-sports-nat",
@@ -485,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132162103471257",
       "fb_comment_id": "122132162103471257_1385334926760506",
       "posted_at": "2026-11-05T22:46:36.409729+00:00"
+    },
+    "scraped-7b022438ca": {
+      "title": "Blue Origin’s next launch now won’t happen until 2027",
+      "slug": "blue-origins-next-launch-now-wont-happen-until-2027",
+      "url": "https://ushotnews.online/article/blue-origins-next-launch-now-wont-happen-until-2027",
+      "article_url": "https://ushotnews.online/article/blue-origins-next-launch-now-wont-happen-until-2027",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132205231471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132205231471257",
+      "fb_comment_id": "122132205231471257_1436566461996179",
+      "posted_at": "2026-11-06T02:14:57.987168+00:00"
+    },
+    "blue-origins-next-launch-now-wont-happen-until-2027": {
+      "title": "Blue Origin’s next launch now won’t happen until 2027",
+      "slug": "blue-origins-next-launch-now-wont-happen-until-2027",
+      "url": "https://ushotnews.online/article/blue-origins-next-launch-now-wont-happen-until-2027",
+      "article_url": "https://ushotnews.online/article/blue-origins-next-launch-now-wont-happen-until-2027",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132205231471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132205231471257",
+      "fb_comment_id": "122132205231471257_1436566461996179",
+      "posted_at": "2026-11-06T02:14:57.987168+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-05T22:46:29.319673+00:00"
+  "last_cleaned_at": "2026-11-06T02:14:47.051725+00:00"
 }
