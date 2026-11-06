@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-06T22:19:31.354483+00:00",
+  "last_updated": "2026-11-06T23:24:32.742411+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-9780fa9502": {
-      "title": "AOC campaign memo frames growth from progressive firebrand to national Democratic Party force",
-      "slug": "aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo",
-      "url": "https://ushotnews.online/article/aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo",
-      "article_url": "https://ushotnews.online/article/aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131585755471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131585755471257",
-      "fb_comment_id": "122131585755471257_1819335609417636",
-      "posted_at": "2026-11-03T23:12:32.274765+00:00"
-    },
-    "aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo": {
-      "title": "AOC campaign memo frames growth from progressive firebrand to national Democratic Party force",
-      "slug": "aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo",
-      "url": "https://ushotnews.online/article/aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo",
-      "article_url": "https://ushotnews.online/article/aoc-campaign-memo-frames-growth-from-progressive-firebrand-to-national-democratic-party-fo",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131585755471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131585755471257",
-      "fb_comment_id": "122131585755471257_1819335609417636",
-      "posted_at": "2026-11-03T23:12:32.274765+00:00"
-    },
     "scraped-12ee4b3ae4": {
       "title": "Two helicopters collide near Mount Everest during rescue flight, killing one, injuring others",
       "slug": "two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132461965471257",
       "fb_comment_id": "122132461965471257_29165643963070788",
       "posted_at": "2026-11-06T22:19:31.354424+00:00"
+    },
+    "scraped-c10b661b9a": {
+      "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+      "slug": "no-one-knows-how-many-ballots-are-outstanding-in-mississippis-senate-race",
+      "url": "https://ushotnews.online/article/no-one-knows-how-many-ballots-are-outstanding-in-mississippis-senate-race",
+      "article_url": "https://ushotnews.online/article/no-one-knows-how-many-ballots-are-outstanding-in-mississippis-senate-race",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132472123471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132472123471257",
+      "fb_comment_id": "122132472123471257_1484232360269353",
+      "posted_at": "2026-11-06T23:24:32.742340+00:00"
+    },
+    "no-one-knows-how-many-ballots-are-outstanding-in-mississippis-senate-race": {
+      "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+      "slug": "no-one-knows-how-many-ballots-are-outstanding-in-mississippis-senate-race",
+      "url": "https://ushotnews.online/article/no-one-knows-how-many-ballots-are-outstanding-in-mississippis-senate-race",
+      "article_url": "https://ushotnews.online/article/no-one-knows-how-many-ballots-are-outstanding-in-mississippis-senate-race",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132472123471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132472123471257",
+      "fb_comment_id": "122132472123471257_1484232360269353",
+      "posted_at": "2026-11-06T23:24:32.742340+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T22:19:21.191894+00:00"
+  "last_cleaned_at": "2026-11-06T23:24:22.040608+00:00"
 }
