@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-06T14:09:50.890631+00:00",
+  "last_updated": "2026-11-06T21:26:27.006686+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1028499": {
-      "title": "Accelerated Vehicle Durability Testing",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112119007/DOD_112119007.mp4",
-      "attached_website_url": "https://ushotnews.online/article/poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1091899283848177",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1091899283848177",
-      "fb_comment_id": "1091899283848177_2314994695955275",
-      "posted_at": "2026-11-03T19:21:38.025941+00:00"
-    },
     "dvids-video:1028540": {
       "title": "Texas Longhorns - Shout-out",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112119685/DOD_112119685.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1924538375379958",
       "fb_comment_id": "1924538375379958_2185600548999357",
       "posted_at": "2026-11-06T14:09:50.890573+00:00"
+    },
+    "dvids-video:1028951": {
+      "title": "NNSY Dry Dock 4 Refueling Complex Ribbon Cutting - Oct. 29, 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112129296/DOD_112129296.mp4",
+      "attached_website_url": "https://ushotnews.online/article/jim-clyburn-gives-his-reaction-to-dems-historic-midterm-win",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2187788378839132",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2187788378839132",
+      "fb_comment_id": "2187788378839132_1688010536361197",
+      "posted_at": "2026-11-06T21:26:27.006645+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T14:08:49.308003+00:00"
+  "last_cleaned_at": "2026-11-06T21:24:44.521579+00:00"
 }
