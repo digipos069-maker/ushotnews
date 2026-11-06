@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-06T17:23:43.873709+00:00",
+  "last_updated": "2026-11-06T18:15:09.956716+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-e89970bbc6": {
-      "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-      "slug": "review-the-legend-of-zelda-ocarina-of-time-remake-is-superb-streamlined-and-safe",
-      "url": "https://ushotnews.online/article/review-the-legend-of-zelda-ocarina-of-time-remake-is-superb-streamlined-and-safe",
-      "article_url": "https://ushotnews.online/article/review-the-legend-of-zelda-ocarina-of-time-remake-is-superb-streamlined-and-safe",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131531677471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131531677471257",
-      "fb_comment_id": "122131531677471257_1012965868503628",
-      "posted_at": "2026-11-03T17:43:43.525068+00:00"
-    },
-    "review-the-legend-of-zelda-ocarina-of-time-remake-is-superb-streamlined-and-safe": {
-      "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
-      "slug": "review-the-legend-of-zelda-ocarina-of-time-remake-is-superb-streamlined-and-safe",
-      "url": "https://ushotnews.online/article/review-the-legend-of-zelda-ocarina-of-time-remake-is-superb-streamlined-and-safe",
-      "article_url": "https://ushotnews.online/article/review-the-legend-of-zelda-ocarina-of-time-remake-is-superb-streamlined-and-safe",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131531677471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131531677471257",
-      "fb_comment_id": "122131531677471257_1012965868503628",
-      "posted_at": "2026-11-03T17:43:43.525068+00:00"
-    },
     "scraped-d158270e30": {
       "title": "Poll: GOP voters say the party isn’t focused enough on the economy",
       "slug": "poll-gop-voters-say-the-party-isnt-focused-enough-on-the-economy",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132408655471257",
       "fb_comment_id": "122132408655471257_1852478062572974",
       "posted_at": "2026-11-06T17:23:43.873658+00:00"
+    },
+    "scraped-c1446abdf9": {
+      "title": "Italian chef fired after refusing to put pineapple on pizza, calling it 'insult to his culture'",
+      "slug": "italian-chef-fired-after-refusing-to-put-pineapple-on-pizza-calling-it-insult-to-his-cultu",
+      "url": "https://ushotnews.online/article/italian-chef-fired-after-refusing-to-put-pineapple-on-pizza-calling-it-insult-to-his-cultu",
+      "article_url": "https://ushotnews.online/article/italian-chef-fired-after-refusing-to-put-pineapple-on-pizza-calling-it-insult-to-his-cultu",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132416617471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132416617471257",
+      "fb_comment_id": "122132416617471257_1099545302830721",
+      "posted_at": "2026-11-06T18:15:09.956632+00:00"
+    },
+    "italian-chef-fired-after-refusing-to-put-pineapple-on-pizza-calling-it-insult-to-his-cultu": {
+      "title": "Italian chef fired after refusing to put pineapple on pizza, calling it 'insult to his culture'",
+      "slug": "italian-chef-fired-after-refusing-to-put-pineapple-on-pizza-calling-it-insult-to-his-cultu",
+      "url": "https://ushotnews.online/article/italian-chef-fired-after-refusing-to-put-pineapple-on-pizza-calling-it-insult-to-his-cultu",
+      "article_url": "https://ushotnews.online/article/italian-chef-fired-after-refusing-to-put-pineapple-on-pizza-calling-it-insult-to-his-cultu",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132416617471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132416617471257",
+      "fb_comment_id": "122132416617471257_1099545302830721",
+      "posted_at": "2026-11-06T18:15:09.956632+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T17:23:33.982407+00:00"
+  "last_cleaned_at": "2026-11-06T18:14:59.245211+00:00"
 }
