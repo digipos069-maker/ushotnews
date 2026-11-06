@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-06T11:20:28.302444+00:00",
+  "last_updated": "2026-11-06T17:23:43.873709+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-6ab1606ecf": {
-      "title": "Ex-Chicago FBI chief sues DOJ, claims he was ousted over failed anti-ICE prosecutions",
-      "slug": "ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
-      "url": "https://ushotnews.online/article/ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
-      "article_url": "https://ushotnews.online/article/ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131450755471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131450755471257",
-      "fb_comment_id": "122131450755471257_29041914722140568",
-      "posted_at": "2026-11-03T11:39:14.579777+00:00"
-    },
-    "ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions": {
-      "title": "Ex-Chicago FBI chief sues DOJ, claims he was ousted over failed anti-ICE prosecutions",
-      "slug": "ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
-      "url": "https://ushotnews.online/article/ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
-      "article_url": "https://ushotnews.online/article/ex-chicago-fbi-chief-sues-doj-claims-he-was-ousted-over-failed-anti-ice-prosecutions",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131450755471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131450755471257",
-      "fb_comment_id": "122131450755471257_29041914722140568",
-      "posted_at": "2026-11-03T11:39:14.579777+00:00"
-    },
     "scraped-e89970bbc6": {
       "title": "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
       "slug": "review-the-legend-of-zelda-ocarina-of-time-remake-is-superb-streamlined-and-safe",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132335575471257",
       "fb_comment_id": "122132335575471257_29549729447986068",
       "posted_at": "2026-11-06T11:20:28.302352+00:00"
+    },
+    "scraped-7b897d8e59": {
+      "title": "Blood sugar spikes could hinge on the order you eat your food, study suggests",
+      "slug": "blood-sugar-spikes-could-hinge-on-the-order-you-eat-your-food-study-suggests",
+      "url": "https://ushotnews.online/article/blood-sugar-spikes-could-hinge-on-the-order-you-eat-your-food-study-suggests",
+      "article_url": "https://ushotnews.online/article/blood-sugar-spikes-could-hinge-on-the-order-you-eat-your-food-study-suggests",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132408655471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132408655471257",
+      "fb_comment_id": "122132408655471257_1852478062572974",
+      "posted_at": "2026-11-06T17:23:43.873658+00:00"
+    },
+    "blood-sugar-spikes-could-hinge-on-the-order-you-eat-your-food-study-suggests": {
+      "title": "Blood sugar spikes could hinge on the order you eat your food, study suggests",
+      "slug": "blood-sugar-spikes-could-hinge-on-the-order-you-eat-your-food-study-suggests",
+      "url": "https://ushotnews.online/article/blood-sugar-spikes-could-hinge-on-the-order-you-eat-your-food-study-suggests",
+      "article_url": "https://ushotnews.online/article/blood-sugar-spikes-could-hinge-on-the-order-you-eat-your-food-study-suggests",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132408655471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132408655471257",
+      "fb_comment_id": "122132408655471257_1852478062572974",
+      "posted_at": "2026-11-06T17:23:43.873658+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T11:20:20.796812+00:00"
+  "last_cleaned_at": "2026-11-06T17:23:33.982407+00:00"
 }
