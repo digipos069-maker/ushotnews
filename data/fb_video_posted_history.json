@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T01:45:31.896805+00:00",
-  "posted_count": 10,
+  "last_updated": "2026-11-07T08:36:49.566053+00:00",
+  "posted_count": 11,
   "articles": {
     "dvids-video:1028556": {
       "title": "Bringing Life Back to the Ocean: Clean",
@@ -111,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1960527145328360",
       "fb_comment_id": "1960527145328360_2265258294087476",
       "posted_at": "2026-11-07T01:45:31.896744+00:00"
+    },
+    "dvids-video:1028985": {
+      "title": "Oklahoma National Guard Best Warrior Competition Obstacle Course",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112129940/DOD_112129940.mp4",
+      "attached_website_url": "https://ushotnews.online/article/openai-valued-at-125-trillion-as-rival-anthropic-nears-its-ipo",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1131644183058497",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1131644183058497",
+      "fb_comment_id": "1131644183058497_1122708107183939",
+      "posted_at": "2026-11-07T08:36:49.565986+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T01:44:26.108200+00:00"
+  "last_cleaned_at": "2026-11-07T08:35:29.337027+00:00"
 }
