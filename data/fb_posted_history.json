@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T15:52:50.623883+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-07T16:45:34.512456+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-5dec040ce2": {
       "title": "Radical socialist wing's huge night reveals ascending clout within Democratic Party",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132665701471257",
       "fb_comment_id": "122132665701471257_4169199150053607",
       "posted_at": "2026-11-07T15:52:50.623823+00:00"
+    },
+    "scraped-00109065c6": {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "slug": "the-us-let-nvidia-sell-chips-to-an-empty-office-in-china",
+      "url": "https://ushotnews.online/article/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china",
+      "article_url": "https://ushotnews.online/article/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132673837471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132673837471257",
+      "fb_comment_id": "122132673837471257_1127262849888417",
+      "posted_at": "2026-11-07T16:45:34.512379+00:00"
+    },
+    "the-us-let-nvidia-sell-chips-to-an-empty-office-in-china": {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "slug": "the-us-let-nvidia-sell-chips-to-an-empty-office-in-china",
+      "url": "https://ushotnews.online/article/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china",
+      "article_url": "https://ushotnews.online/article/the-us-let-nvidia-sell-chips-to-an-empty-office-in-china",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132673837471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132673837471257",
+      "fb_comment_id": "122132673837471257_1127262849888417",
+      "posted_at": "2026-11-07T16:45:34.512379+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T15:52:41.391321+00:00"
+  "last_cleaned_at": "2026-11-07T16:45:23.434467+00:00"
 }
