@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-06T21:26:27.006686+00:00",
+  "last_updated": "2026-11-07T01:45:31.896805+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1028540": {
-      "title": "Texas Longhorns - Shout-out",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112119685/DOD_112119685.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-pixel-buds-pro-2-have-returned-to-their-lowest-price-to-date",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2951000118601219",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2951000118601219",
-      "fb_comment_id": "2951000118601219_1518705006983328",
-      "posted_at": "2026-11-04T00:31:34.476005+00:00"
-    },
     "dvids-video:1028556": {
       "title": "Bringing Life Back to the Ocean: Clean",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112120576/DOD_112120576.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2187788378839132",
       "fb_comment_id": "2187788378839132_1688010536361197",
       "posted_at": "2026-11-06T21:26:27.006645+00:00"
+    },
+    "dvids-video:1028969": {
+      "title": "Fort McCoy holds 2026 Holiday Meal with installation community, Part 5",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112129620/DOD_112129620.mp4",
+      "attached_website_url": "https://ushotnews.online/article/stephen-millers-rise-to-chief-of-staff-indicates-trump-isnt-ready-to-move-on",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1960527145328360",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1960527145328360",
+      "fb_comment_id": "1960527145328360_2265258294087476",
+      "posted_at": "2026-11-07T01:45:31.896744+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T21:24:44.521579+00:00"
+  "last_cleaned_at": "2026-11-07T01:44:26.108200+00:00"
 }
