@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T09:10:19.307894+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-07T10:34:30.845277+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-0d484157cf": {
       "title": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132585127471257",
       "fb_comment_id": "122132585127471257_28723388720686550",
       "posted_at": "2026-11-07T09:10:19.307833+00:00"
+    },
+    "scraped-a70cd20c02": {
+      "title": "49ers coach gives blunt reaction to disgruntled Brandon Aiyuk's return to team: 'I could care less'",
+      "slug": "49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
+      "url": "https://ushotnews.online/article/49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
+      "article_url": "https://ushotnews.online/article/49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132606505471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132606505471257",
+      "fb_comment_id": "122132606505471257_1121124400779010",
+      "posted_at": "2026-11-07T10:34:30.845213+00:00"
+    },
+    "49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care": {
+      "title": "49ers coach gives blunt reaction to disgruntled Brandon Aiyuk's return to team: 'I could care less'",
+      "slug": "49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
+      "url": "https://ushotnews.online/article/49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
+      "article_url": "https://ushotnews.online/article/49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132606505471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132606505471257",
+      "fb_comment_id": "122132606505471257_1121124400779010",
+      "posted_at": "2026-11-07T10:34:30.845213+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T09:10:09.811445+00:00"
+  "last_cleaned_at": "2026-11-07T10:34:22.668407+00:00"
 }
