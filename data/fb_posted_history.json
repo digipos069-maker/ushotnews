@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-06T23:24:32.742411+00:00",
+  "last_updated": "2026-11-07T02:18:31.544247+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-12ee4b3ae4": {
-      "title": "Two helicopters collide near Mount Everest during rescue flight, killing one, injuring others",
-      "slug": "two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
-      "url": "https://ushotnews.online/article/two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
-      "article_url": "https://ushotnews.online/article/two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131596243471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131596243471257",
-      "fb_comment_id": "122131596243471257_2362858477872382",
-      "posted_at": "2026-11-04T00:05:28.558930+00:00"
-    },
-    "two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other": {
-      "title": "Two helicopters collide near Mount Everest during rescue flight, killing one, injuring others",
-      "slug": "two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
-      "url": "https://ushotnews.online/article/two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
-      "article_url": "https://ushotnews.online/article/two-helicopters-collide-near-mount-everest-during-rescue-flight-killing-one-injuring-other",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131596243471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131596243471257",
-      "fb_comment_id": "122131596243471257_2362858477872382",
-      "posted_at": "2026-11-04T00:05:28.558930+00:00"
-    },
     "scraped-5a8c56cc84": {
       "title": "Those Jeff Bezos hair transplant photos are very fake",
       "slug": "those-jeff-bezos-hair-transplant-photos-are-very-fake",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132472123471257",
       "fb_comment_id": "122132472123471257_1484232360269353",
       "posted_at": "2026-11-06T23:24:32.742340+00:00"
+    },
+    "scraped-f8b166bdd4": {
+      "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+      "slug": "trumps-global-health-strategy-is-emerging-what-will-the-democratic-congress-say",
+      "url": "https://ushotnews.online/article/trumps-global-health-strategy-is-emerging-what-will-the-democratic-congress-say",
+      "article_url": "https://ushotnews.online/article/trumps-global-health-strategy-is-emerging-what-will-the-democratic-congress-say",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132510331471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132510331471257",
+      "fb_comment_id": "122132510331471257_1635744351627918",
+      "posted_at": "2026-11-07T02:18:31.544182+00:00"
+    },
+    "trumps-global-health-strategy-is-emerging-what-will-the-democratic-congress-say": {
+      "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+      "slug": "trumps-global-health-strategy-is-emerging-what-will-the-democratic-congress-say",
+      "url": "https://ushotnews.online/article/trumps-global-health-strategy-is-emerging-what-will-the-democratic-congress-say",
+      "article_url": "https://ushotnews.online/article/trumps-global-health-strategy-is-emerging-what-will-the-democratic-congress-say",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132510331471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132510331471257",
+      "fb_comment_id": "122132510331471257_1635744351627918",
+      "posted_at": "2026-11-07T02:18:31.544182+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-06T23:24:22.040608+00:00"
+  "last_cleaned_at": "2026-11-07T02:18:24.810433+00:00"
 }
