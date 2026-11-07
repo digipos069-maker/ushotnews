@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-07T20:40:51.226945+00:00",
+  "last_updated": "2026-11-07T23:53:20.793511+00:00",
   "posted_count": 50,
   "articles": {
-    "scraped-b11b827393": {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "slug": "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
-      "url": "https://ushotnews.online/article/nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
-      "article_url": "https://ushotnews.online/article/nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131854189471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131854189471257",
-      "fb_comment_id": "122131854189471257_1884734006031640",
-      "posted_at": "2026-11-04T21:25:41.645370+00:00"
-    },
-    "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month": {
-      "title": "Nothing teases a screen-free AI device ahead of launch next month",
-      "slug": "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
-      "url": "https://ushotnews.online/article/nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
-      "article_url": "https://ushotnews.online/article/nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131854189471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131854189471257",
-      "fb_comment_id": "122131854189471257_1884734006031640",
-      "posted_at": "2026-11-04T21:25:41.645370+00:00"
-    },
     "scraped-a03371eeae": {
       "title": "Hakeem Jeffries declares bid for House speaker after GOP's midterm massacre",
       "slug": "hakeem-jeffries-declares-bid-for-house-speaker-after-gops-midterm-massacre",
@@ -551,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132729607471257",
       "fb_comment_id": "122132729607471257_1806918173692358",
       "posted_at": "2026-11-07T20:40:51.226885+00:00"
+    },
+    "scraped-cd98bddd18": {
+      "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+      "slug": "israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-n",
+      "url": "https://ushotnews.online/article/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-n",
+      "article_url": "https://ushotnews.online/article/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-n",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132758329471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132758329471257",
+      "fb_comment_id": "122132758329471257_1465232072444057",
+      "posted_at": "2026-11-07T23:53:20.793449+00:00"
+    },
+    "israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-n": {
+      "title": "Israel's president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+      "slug": "israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-n",
+      "url": "https://ushotnews.online/article/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-n",
+      "article_url": "https://ushotnews.online/article/israels-president-taps-opposition-candidate-eisenkot-to-form-a-government-in-setback-for-n",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132758329471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132758329471257",
+      "fb_comment_id": "122132758329471257_1465232072444057",
+      "posted_at": "2026-11-07T23:53:20.793449+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T20:40:40.670996+00:00"
+  "last_cleaned_at": "2026-11-07T23:53:11.663522+00:00"
 }
