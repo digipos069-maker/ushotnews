@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-07T08:36:49.566053+00:00",
+  "last_updated": "2026-11-07T16:14:39.257996+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1028556": {
-      "title": "Bringing Life Back to the Ocean: Clean",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112120576/DOD_112120576.mp4",
-      "attached_website_url": "https://ushotnews.online/article/bidens-revenge-his-alumni-are-winning-in-the-midterms",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1848692366159888",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1848692366159888",
-      "fb_comment_id": "1848692366159888_1642564444552720",
-      "posted_at": "2026-11-04T08:52:47.797720+00:00"
-    },
     "dvids-video:1028585": {
       "title": "Mountain Peak 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112121061/DOD_112121061.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1131644183058497",
       "fb_comment_id": "1131644183058497_1122708107183939",
       "posted_at": "2026-11-07T08:36:49.565986+00:00"
+    },
+    "dvids-video:1028992": {
+      "title": "U.S. Army Pvt. Samuel Thomas discusses 2nd Squadron, 2d Cavalry Regiment’s live-fire A-Roll",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112130705/DOD_112130705.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1392172436080778",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1392172436080778",
+      "fb_comment_id": "1392172436080778_1404049184855422",
+      "posted_at": "2026-11-07T16:14:39.257932+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T08:35:29.337027+00:00"
+  "last_cleaned_at": "2026-11-07T16:13:18.786283+00:00"
 }
