@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-07T16:45:34.512456+00:00",
+  "last_updated": "2026-11-07T20:08:30.316878+00:00",
   "posted_count": 48,
   "articles": {
-    "scraped-5dec040ce2": {
-      "title": "Radical socialist wing's huge night reveals ascending clout within Democratic Party",
-      "slug": "radical-socialist-wings-huge-night-reveals-ascending-clout-within-democratic-party",
-      "url": "https://ushotnews.online/article/radical-socialist-wings-huge-night-reveals-ascending-clout-within-democratic-party",
-      "article_url": "https://ushotnews.online/article/radical-socialist-wings-huge-night-reveals-ascending-clout-within-democratic-party",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131826631471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131826631471257",
-      "fb_comment_id": "122131826631471257_2218899435333554",
-      "posted_at": "2026-11-04T18:50:48.276267+00:00"
-    },
-    "radical-socialist-wings-huge-night-reveals-ascending-clout-within-democratic-party": {
-      "title": "Radical socialist wing's huge night reveals ascending clout within Democratic Party",
-      "slug": "radical-socialist-wings-huge-night-reveals-ascending-clout-within-democratic-party",
-      "url": "https://ushotnews.online/article/radical-socialist-wings-huge-night-reveals-ascending-clout-within-democratic-party",
-      "article_url": "https://ushotnews.online/article/radical-socialist-wings-huge-night-reveals-ascending-clout-within-democratic-party",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122131826631471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122131826631471257",
-      "fb_comment_id": "122131826631471257_2218899435333554",
-      "posted_at": "2026-11-04T18:50:48.276267+00:00"
-    },
     "scraped-b11b827393": {
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
       "slug": "nothing-teases-a-screen-free-ai-device-ahead-of-launch-next-month",
@@ -529,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132673837471257",
       "fb_comment_id": "122132673837471257_1127262849888417",
       "posted_at": "2026-11-07T16:45:34.512379+00:00"
+    },
+    "scraped-0301b05568": {
+      "title": "Perspective: Simon Winchester was here to tell a story",
+      "slug": "perspective-simon-winchester-was-here-to-tell-a-story",
+      "url": "https://ushotnews.online/article/perspective-simon-winchester-was-here-to-tell-a-story",
+      "article_url": "https://ushotnews.online/article/perspective-simon-winchester-was-here-to-tell-a-story",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132711745471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132711745471257",
+      "fb_comment_id": "122132711745471257_1118701437426079",
+      "posted_at": "2026-11-07T20:08:30.316819+00:00"
+    },
+    "perspective-simon-winchester-was-here-to-tell-a-story": {
+      "title": "Perspective: Simon Winchester was here to tell a story",
+      "slug": "perspective-simon-winchester-was-here-to-tell-a-story",
+      "url": "https://ushotnews.online/article/perspective-simon-winchester-was-here-to-tell-a-story",
+      "article_url": "https://ushotnews.online/article/perspective-simon-winchester-was-here-to-tell-a-story",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132711745471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132711745471257",
+      "fb_comment_id": "122132711745471257_1118701437426079",
+      "posted_at": "2026-11-07T20:08:30.316819+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T16:45:23.434467+00:00"
+  "last_cleaned_at": "2026-11-07T20:08:18.120846+00:00"
 }
