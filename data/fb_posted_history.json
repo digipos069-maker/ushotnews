@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T20:08:30.316878+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-11-07T20:40:51.226945+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-b11b827393": {
       "title": "Nothing teases a screen-free AI device ahead of launch next month",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132711745471257",
       "fb_comment_id": "122132711745471257_1118701437426079",
       "posted_at": "2026-11-07T20:08:30.316819+00:00"
+    },
+    "scraped-7f74ac30bb": {
+      "title": "Good riddance, Cybertruck!",
+      "slug": "good-riddance-cybertruck",
+      "url": "https://ushotnews.online/article/good-riddance-cybertruck",
+      "article_url": "https://ushotnews.online/article/good-riddance-cybertruck",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132729607471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132729607471257",
+      "fb_comment_id": "122132729607471257_1806918173692358",
+      "posted_at": "2026-11-07T20:40:51.226885+00:00"
+    },
+    "good-riddance-cybertruck": {
+      "title": "Good riddance, Cybertruck!",
+      "slug": "good-riddance-cybertruck",
+      "url": "https://ushotnews.online/article/good-riddance-cybertruck",
+      "article_url": "https://ushotnews.online/article/good-riddance-cybertruck",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132729607471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132729607471257",
+      "fb_comment_id": "122132729607471257_1806918173692358",
+      "posted_at": "2026-11-07T20:40:51.226885+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T20:08:18.120846+00:00"
+  "last_cleaned_at": "2026-11-07T20:40:40.670996+00:00"
 }
