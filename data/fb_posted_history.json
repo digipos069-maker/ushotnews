@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T02:18:31.544247+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-07T03:02:16.275595+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-5a8c56cc84": {
       "title": "Those Jeff Bezos hair transplant photos are very fake",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132510331471257",
       "fb_comment_id": "122132510331471257_1635744351627918",
       "posted_at": "2026-11-07T02:18:31.544182+00:00"
+    },
+    "scraped-fca92b9bc0": {
+      "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+      "slug": "pope-leo-begins-a-12-day-3-country-south-america-tour-after-his-cancer-surgery",
+      "url": "https://ushotnews.online/article/pope-leo-begins-a-12-day-3-country-south-america-tour-after-his-cancer-surgery",
+      "article_url": "https://ushotnews.online/article/pope-leo-begins-a-12-day-3-country-south-america-tour-after-his-cancer-surgery",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132517279471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132517279471257",
+      "fb_comment_id": "122132517279471257_2285819422200307",
+      "posted_at": "2026-11-07T03:02:16.275531+00:00"
+    },
+    "pope-leo-begins-a-12-day-3-country-south-america-tour-after-his-cancer-surgery": {
+      "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+      "slug": "pope-leo-begins-a-12-day-3-country-south-america-tour-after-his-cancer-surgery",
+      "url": "https://ushotnews.online/article/pope-leo-begins-a-12-day-3-country-south-america-tour-after-his-cancer-surgery",
+      "article_url": "https://ushotnews.online/article/pope-leo-begins-a-12-day-3-country-south-america-tour-after-his-cancer-surgery",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132517279471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132517279471257",
+      "fb_comment_id": "122132517279471257_2285819422200307",
+      "posted_at": "2026-11-07T03:02:16.275531+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T02:18:24.810433+00:00"
+  "last_cleaned_at": "2026-11-07T03:02:08.463431+00:00"
 }
