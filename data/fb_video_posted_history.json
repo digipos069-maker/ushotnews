@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-07T16:14:39.257996+00:00",
+  "last_updated": "2026-11-07T21:40:06.403975+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1028585": {
-      "title": "Mountain Peak 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112121061/DOD_112121061.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-legend-of-zelda-ocarina-of-time-never-gets-old",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "4117874628514743",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4117874628514743",
-      "fb_comment_id": "4117874628514743_1534006805463823",
-      "posted_at": "2026-11-04T17:54:18.781809+00:00"
-    },
     "dvids-video:1028611": {
       "title": "Coast Guard offloads over $27 million of Illegal Narcotics in Port Everglades",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112121577/DOD_112121577.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1392172436080778",
       "fb_comment_id": "1392172436080778_1404049184855422",
       "posted_at": "2026-11-07T16:14:39.257932+00:00"
+    },
+    "dvids-video:1028987": {
+      "title": "U.S. Army Pacific hosts Global Tactical Acquisitions Directorate Accelerated Capability Event",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112130634/DOD_112130634.mp4",
+      "attached_website_url": "https://ushotnews.online/article/why-this-gop-governor-thinks-his-party-got-worse-than-a-butt-whipping-on-tuesday",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "3699427110204653",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3699427110204653",
+      "fb_comment_id": "3699427110204653_3462382457267678",
+      "posted_at": "2026-11-07T21:40:06.403912+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T16:13:18.786283+00:00"
+  "last_cleaned_at": "2026-11-07T21:39:31.741030+00:00"
 }
