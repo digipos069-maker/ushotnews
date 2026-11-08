@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-08T18:57:22.519050+00:00",
+  "last_updated": "2026-11-08T22:25:14.252907+00:00",
   "posted_count": 52,
   "articles": {
-    "scraped-bfe2650765": {
-      "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
-      "slug": "camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
-      "url": "https://ushotnews.online/article/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
-      "article_url": "https://ushotnews.online/article/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132155071471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132155071471257",
-      "fb_comment_id": "122132155071471257_1142805711728905",
-      "posted_at": "2026-11-05T21:55:08.172096+00:00"
-    },
-    "camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder": {
-      "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
-      "slug": "camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
-      "url": "https://ushotnews.online/article/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
-      "article_url": "https://ushotnews.online/article/camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132155071471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132155071471257",
-      "fb_comment_id": "122132155071471257_1142805711728905",
-      "posted_at": "2026-11-05T21:55:08.172096+00:00"
-    },
     "scraped-e75e0b1e22": {
       "title": "Ex-Alaska lawmaker details mystery recruiter as FBI, Congress widen 'Decoy Dan' scrutiny",
       "slug": "ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
@@ -573,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132977395471257",
       "fb_comment_id": "122132977395471257_29562709773414819",
       "posted_at": "2026-11-08T18:57:22.518988+00:00"
+    },
+    "scraped-1cfadd4059": {
+      "title": "Fast-food chain that once lit up American roads still missed decades later",
+      "slug": "fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
+      "url": "https://ushotnews.online/article/fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
+      "article_url": "https://ushotnews.online/article/fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133008799471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133008799471257",
+      "fb_comment_id": "122133008799471257_1123448216959853",
+      "posted_at": "2026-11-08T22:25:14.252842+00:00"
+    },
+    "fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later": {
+      "title": "Fast-food chain that once lit up American roads still missed decades later",
+      "slug": "fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
+      "url": "https://ushotnews.online/article/fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
+      "article_url": "https://ushotnews.online/article/fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133008799471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133008799471257",
+      "fb_comment_id": "122133008799471257_1123448216959853",
+      "posted_at": "2026-11-08T22:25:14.252842+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T18:57:12.797028+00:00"
+  "last_cleaned_at": "2026-11-08T22:25:02.178329+00:00"
 }
