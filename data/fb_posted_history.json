@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T05:50:23.434922+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-11-08T06:30:45.463065+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-71ae004b9e": {
       "title": "17 better ways Elon Musk could have wasted $446 million",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132826369471257",
       "fb_comment_id": "122132826369471257_1816524462754043",
       "posted_at": "2026-11-08T05:50:23.434856+00:00"
+    },
+    "scraped-2d4383c09d": {
+      "title": "Matt Rhule says Nebraska was due for 'a change' after coaching staff shakeup following loss to Illinois",
+      "slug": "matt-rhule-says-nebraska-was-due-for-a-change-after-coaching-staff-shakeup-following-loss-",
+      "url": "https://ushotnews.online/article/matt-rhule-says-nebraska-was-due-for-a-change-after-coaching-staff-shakeup-following-loss-",
+      "article_url": "https://ushotnews.online/article/matt-rhule-says-nebraska-was-due-for-a-change-after-coaching-staff-shakeup-following-loss-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132835027471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132835027471257",
+      "fb_comment_id": "122132835027471257_2313995675811332",
+      "posted_at": "2026-11-08T06:30:45.462997+00:00"
+    },
+    "matt-rhule-says-nebraska-was-due-for-a-change-after-coaching-staff-shakeup-following-loss-": {
+      "title": "Matt Rhule says Nebraska was due for 'a change' after coaching staff shakeup following loss to Illinois",
+      "slug": "matt-rhule-says-nebraska-was-due-for-a-change-after-coaching-staff-shakeup-following-loss-",
+      "url": "https://ushotnews.online/article/matt-rhule-says-nebraska-was-due-for-a-change-after-coaching-staff-shakeup-following-loss-",
+      "article_url": "https://ushotnews.online/article/matt-rhule-says-nebraska-was-due-for-a-change-after-coaching-staff-shakeup-following-loss-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132835027471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132835027471257",
+      "fb_comment_id": "122132835027471257_2313995675811332",
+      "posted_at": "2026-11-08T06:30:45.462997+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T05:50:16.098758+00:00"
+  "last_cleaned_at": "2026-11-08T06:30:37.859909+00:00"
 }
