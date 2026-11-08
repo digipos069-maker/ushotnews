@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-07T21:40:06.403975+00:00",
+  "last_updated": "2026-11-08T01:14:43.666238+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1028611": {
-      "title": "Coast Guard offloads over $27 million of Illegal Narcotics in Port Everglades",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112121577/DOD_112121577.mp4",
-      "attached_website_url": "https://ushotnews.online/article/this-is-an-earthquake-latino-voters-rush-back-to-democrats",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2200665457536408",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2200665457536408",
-      "fb_comment_id": "2200665457536408_2227245501162940",
-      "posted_at": "2026-11-04T23:29:30.637835+00:00"
-    },
     "dvids-video:1028676": {
       "title": "Misawa Trunk or Treat 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112123483/DOD_112123483.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/3699427110204653",
       "fb_comment_id": "3699427110204653_3462382457267678",
       "posted_at": "2026-11-07T21:40:06.403912+00:00"
+    },
+    "dvids-video:1029029": {
+      "title": "The U.S. Army Parachute Team jumps for Salute to America in Space",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112131458/DOD_112131458.mp4",
+      "attached_website_url": "https://ushotnews.online/article/israels-president-taps-opposition-candidate-not-netanyahu-to-form-a-government",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1938922857516389",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1938922857516389",
+      "fb_comment_id": "1938922857516389_2300642767460648",
+      "posted_at": "2026-11-08T01:14:43.666176+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T21:39:31.741030+00:00"
+  "last_cleaned_at": "2026-11-08T01:13:28.131017+00:00"
 }
