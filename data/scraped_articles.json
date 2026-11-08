@@ -1,5 +1,634 @@
 [
   {
+    "id": "scraped-849e2bd9aa",
+    "slug": "apple-is-racing-to-make-siri-more-agentic",
+    "guid": "https://www.theverge.com/?p=1029552",
+    "title": "Apple is racing to make Siri more agentic",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
+    "content": [
+      "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple is racing to make Siri more agentic... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T19:18:19+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-22a8ebf492",
+    "slug": "epic-games-launcher-is-coming-to-steamos",
+    "guid": "https://www.theverge.com/?p=1029557",
+    "title": "Epic Games Launcher is coming to SteamOS",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]",
+    "content": [
+      "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Epic Games Launcher is coming to SteamOS... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T20:52:05+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-122bf748ff",
+    "slug": "soul-glos-diaspora-problems-is-a-hardcore-record-like-no-other",
+    "guid": "https://www.theverge.com/?p=1029579",
+    "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
+    "content": [
+      "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Soul Glo’s Diaspora Problems is a hardcore record like no ot... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T22:37:22+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ec1b19534a",
+    "slug": "ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+    "guid": "https://www.npr.org/2026/11/08/nx-s1-6030918/ss-united-states-a-historic-ship-will-be-sunk-to-create-an-artificial-reef",
+    "title": "SS United States, a historic ship will be sunk to create an artificial reef",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+    "content": [
+      "NPR's Ayesha Rascoe talks to Alex Fogg, Natural Resources Chief of Okaloosa County, Florida, about efforts to deliberately sink the SS United States and create an artificial reef in its wreckage.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SS United States, a historic ship will be sunk to create an ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T13:34:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b86d920f95",
+    "slug": "europe-to-join-us-brokered-ukraine-talks-in-abu-dhabi-defying-kremlin-objections",
+    "guid": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+    "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+    "content": [
+      "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, def... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T19:25:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-933a16a08b",
+    "slug": "independent-wrestlings-heart-still-beating-even-as-social-media-begins-to-write-its-obitua",
+    "guid": "https://www.foxnews.com/outkick-sports/independent-wrestling-heart-still-beating-social-media-begins-write-obituary",
+    "title": "Independent wrestling's heart still beating even as social media begins to write its obituary",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ben Bishop and Killer Kross dismiss claims that independent wrestling is dead after Fight Factory&apos;s No Thanks Given drew hundreds in New Jersey.",
+    "content": [
+      "Ben Bishop and Killer Kross dismiss claims that independent wrestling is dead after Fight Factory&apos;s No Thanks Given drew hundreds in New Jersey.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Ben-Bishop-110826-1.jpg?ve=1&tl=1",
+    "imageCaption": "Independent wrestling's heart still beating even as social m... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T21:06:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1ef1d5598e",
+    "slug": "aldi-rolls-out-more-than-30-holiday-items-under-10-with-new-drops-every-wednesday-in-novem",
+    "guid": "https://www.foxnews.com/food-drink/aldi-rolls-out-more-than-30-holiday-items-under-10-new-drops-every-wednesday-november",
+    "title": "Aldi rolls out more than 30 holiday items under $10 with new drops every Wednesday in November",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Aldi&apos;s weekly holiday drops feature over 30 festive items under $10, from Advent calendars to Christmas tree-shaped chicken nuggets and seasonal treats.",
+    "content": [
+      "Aldi&apos;s weekly holiday drops feature over 30 festive items under $10, from Advent calendars to Christmas tree-shaped chicken nuggets and seasonal treats.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Aldi-grocery-store-frozen-aisle.png?ve=1&tl=1",
+    "imageCaption": "Aldi rolls out more than 30 holiday items under $10 with new... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T21:08:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ce52dc881c",
+    "slug": "ring-girl-sydney-thomas-proves-that-the-best-way-to-pay-tribute-to-someone-is-still-by-put",
+    "guid": "https://www.foxnews.com/outkick-sports/ring-girl-sydney-thomas-proves-best-way-pay-tribute-someone-putting-boobs",
+    "title": "Ring girl Sydney Thomas proves that the best way to pay tribute to someone is still by putting boobs on them",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sydney Thomas scrapped her Lane Kiffin Halloween costume idea for an Erling Haaland-inspired look that included a wild AI face-swap tribute.",
+    "content": [
+      "Sydney Thomas scrapped her Lane Kiffin Halloween costume idea for an Erling Haaland-inspired look that included a wild AI face-swap tribute.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/sydney-thomas-housemaid-premiere-tcl-chinese-theatre.jpg?ve=1&tl=1",
+    "imageCaption": "Ring girl Sydney Thomas proves that the best way to pay trib... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T21:10:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ba7ba4bb3f",
+    "slug": "week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
+    "guid": "https://www.foxnews.com/outkick-sports/week-10-ap-poll-georgia-rightfully-take-over-top-spot-voters-continue-award-usc-no-reason",
+    "title": "Week 10 AP Poll sees Georgia rightfully take over top spot while voters continue to award USC for no reason",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Georgia jumped to No. 1 after dismantling Ole Miss 42-7, while the Alabama-Tennessee ranking debate and USC&apos;s puzzling rise stir controversy.",
+    "content": [
+      "Georgia jumped to No. 1 after dismantling Ole Miss 42-7, while the Alabama-Tennessee ranking debate and USC&apos;s puzzling rise stir controversy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/georgia-number-one-featured.jpg?ve=1&tl=1",
+    "imageCaption": "Week 10 AP Poll sees Georgia rightfully take over top spot w... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T21:20:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e1eb87bfc4",
+    "slug": "alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone",
+    "guid": "https://www.foxnews.com/travel/alligator-attack-florida-mom-sparks-panicked-911-call-arm-gone",
+    "title": "Alligator attack on Florida mom sparks panicked 911 call: 'Her arm is gone'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "After a terrifying alligator attack on Silver River in Florida, newly released 911 audio captures witnesses describing the severe injuries that Dina Spann suffered.",
+    "content": [
+      "After a terrifying alligator attack on Silver River in Florida, newly released 911 audio captures witnesses describing the severe injuries that Dina Spann suffered.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/FL-WOMAN-ATTACKED-BY-GATOR-911-CALL-TRAVEL-1.jpg?ve=1&tl=1",
+    "imageCaption": "Alligator attack on Florida mom sparks panicked 911 call: 'H... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T21:30:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fe0872863e",
+    "slug": "video-shows-small-plane-clip-pickup-truck-during-emergency-landing-on-busy-florida-road",
+    "guid": "https://www.foxnews.com/us/video-shows-small-plane-clip-pickup-truck-during-emergency-landing-busy-florida-road",
+    "title": "Video shows small plane clip pickup truck during emergency landing on busy Florida road",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Video captures a small plane making an emergency landing on a North Fort Myers road, clipping a pickup truck as it touches down on the asphalt.",
+    "content": [
+      "Video captures a small plane making an emergency landing on a North Fort Myers road, clipping a pickup truck as it touches down on the asphalt.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/DASH-CAM-VIDEO-CAPTURES-SMALL-PLANE-MAKING-LANDING.gif",
+    "imageCaption": "Video shows small plane clip pickup truck during emergency l... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T21:51:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cfabd96b33",
+    "slug": "chynna-phillips-admits-she-considered-calling-lawyer-to-end-billy-baldwin-marriage-after-t",
+    "guid": "https://www.foxnews.com/entertainment/chynna-phillips-admits-she-considered-calling-lawyer-end-billy-baldwin-marriage-after-treacherous-times",
+    "title": "Chynna Phillips admits she considered calling lawyer to end Billy Baldwin marriage after 'treacherous times'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Chynna Phillips admits she considered calling a lawyer to end her marriage to Billy Baldwin, but his willingness to work on their decades-long marriage changed everything.",
+    "content": [
+      "Chynna Phillips admits she considered calling a lawyer to end her marriage to Billy Baldwin, but his willingness to work on their decades-long marriage changed everything.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chynna-phillips-billy-baldwin-brian-fest.jpg?ve=1&tl=1",
+    "imageCaption": "Chynna Phillips admits she considered calling lawyer to end ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T22:00:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f94be7e885",
+    "slug": "bengals-quarterback-joe-burrow-offers-nothing-in-spanish-in-madrid-but-in-english-hes-maki",
+    "guid": "https://www.foxnews.com/outkick-sports/bengals-quarterback-joe-burrow-offers-nothing-spanish-madrid-english-making-mvp-statement",
+    "title": "Bengals quarterback Joe Burrow offers nothing in Spanish in Madrid but in English he's making an MVP statement",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Joe Burrow threw three touchdown passes and ran for another in the Cincinnati Bengals&apos; convincing 34-17 win over the Atlanta Falcons in Madrid.",
+    "content": [
+      "Joe Burrow threw three touchdown passes and ran for another in the Cincinnati Bengals&apos; convincing 34-17 win over the Atlanta Falcons in Madrid.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/joe-burrow-interviewed-madrid-bengals.jpg?ve=1&tl=1",
+    "imageCaption": "Bengals quarterback Joe Burrow offers nothing in Spanish in ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T22:06:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-562cff8b34",
+    "slug": "read-huangs-email-to-his-staff-and-statement-from-nvidias-board-of-directors",
+    "guid": "108545261",
+    "title": "Read Huang's email to his staff and statement from Nvidia's board of directors",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Here is the text of a staff email from Huang obtained by CNBC and a statement released Sunday about the investigation from Nvidia's board of directors.",
+    "content": [
+      "Here is the text of a staff email from Huang obtained by CNBC and a statement released Sunday about the investigation from Nvidia's board of directors.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Read Huang's email to his staff and statement from Nvidia's ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T22:19:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-72aa58ca51",
+    "slug": "democrats-amp-up-trump-investigation-threats-blanche-counters-he-may-probe-lawmakers",
+    "guid": "108545251",
+    "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
+    "content": [
+      "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Democrats amp up Trump investigation threats, Blanche counte... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T18:57:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8d840158f2",
+    "slug": "trump-says-renewed-iran-strikes-highly-unlikely-if-talks-progress-but-warns-he-could-still",
+    "guid": "108545256",
+    "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
+    "content": [
+      "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says renewed Iran strikes ‘highly unlikely’ if talks p... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T21:53:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b5f6194423",
+    "slug": "nvidia-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy",
+    "guid": "108545259",
+    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+    "content": [
+      "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia investigates CEO Jensen Huang's relationship with all... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T22:22:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-93e2bbb9bc",
     "slug": "democratic-thrashing-redraws-the-map-of-state-power",
     "guid": "000001a1-b27b-dc5e-abb5-b27ff6550001",
