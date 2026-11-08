@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T18:27:54.302251+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-11-08T18:57:22.519050+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-bfe2650765": {
       "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132971587471257",
       "fb_comment_id": "122132971587471257_1424241127443851",
       "posted_at": "2026-11-08T18:27:54.302194+00:00"
+    },
+    "scraped-93f1995eaf": {
+      "title": "The week of the backup QB in the NFL kicks off as Sanders, Milton, Minshew, Lock, and Wentz start",
+      "slug": "the-week-of-the-backup-qb-in-the-nfl-kicks-off-as-sanders-milton-minshew-lock-and-wentz-st",
+      "url": "https://ushotnews.online/article/the-week-of-the-backup-qb-in-the-nfl-kicks-off-as-sanders-milton-minshew-lock-and-wentz-st",
+      "article_url": "https://ushotnews.online/article/the-week-of-the-backup-qb-in-the-nfl-kicks-off-as-sanders-milton-minshew-lock-and-wentz-st",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132977395471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132977395471257",
+      "fb_comment_id": "122132977395471257_29562709773414819",
+      "posted_at": "2026-11-08T18:57:22.518988+00:00"
+    },
+    "the-week-of-the-backup-qb-in-the-nfl-kicks-off-as-sanders-milton-minshew-lock-and-wentz-st": {
+      "title": "The week of the backup QB in the NFL kicks off as Sanders, Milton, Minshew, Lock, and Wentz start",
+      "slug": "the-week-of-the-backup-qb-in-the-nfl-kicks-off-as-sanders-milton-minshew-lock-and-wentz-st",
+      "url": "https://ushotnews.online/article/the-week-of-the-backup-qb-in-the-nfl-kicks-off-as-sanders-milton-minshew-lock-and-wentz-st",
+      "article_url": "https://ushotnews.online/article/the-week-of-the-backup-qb-in-the-nfl-kicks-off-as-sanders-milton-minshew-lock-and-wentz-st",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132977395471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132977395471257",
+      "fb_comment_id": "122132977395471257_29562709773414819",
+      "posted_at": "2026-11-08T18:57:22.518988+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T18:27:44.982832+00:00"
+  "last_cleaned_at": "2026-11-08T18:57:12.797028+00:00"
 }
