@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T23:53:20.793511+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-11-08T00:13:41.146617+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-a03371eeae": {
       "title": "Hakeem Jeffries declares bid for House speaker after GOP's midterm massacre",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132758329471257",
       "fb_comment_id": "122132758329471257_1465232072444057",
       "posted_at": "2026-11-07T23:53:20.793449+00:00"
+    },
+    "scraped-bf67aef661": {
+      "title": "Suspect who reportedly claimed to be LeBron James' son arrested for stalking at star's LA home, LAPD says",
+      "slug": "suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
+      "url": "https://ushotnews.online/article/suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
+      "article_url": "https://ushotnews.online/article/suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132761923471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132761923471257",
+      "fb_comment_id": "122132761923471257_2262643814518380",
+      "posted_at": "2026-11-08T00:13:41.146556+00:00"
+    },
+    "suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho": {
+      "title": "Suspect who reportedly claimed to be LeBron James' son arrested for stalking at star's LA home, LAPD says",
+      "slug": "suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
+      "url": "https://ushotnews.online/article/suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
+      "article_url": "https://ushotnews.online/article/suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132761923471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132761923471257",
+      "fb_comment_id": "122132761923471257_2262643814518380",
+      "posted_at": "2026-11-08T00:13:41.146556+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-07T23:53:11.663522+00:00"
+  "last_cleaned_at": "2026-11-08T00:13:32.790710+00:00"
 }
