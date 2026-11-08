@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T22:25:14.252907+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-11-08T22:42:40.029268+00:00",
+  "posted_count": 54,
   "articles": {
     "scraped-e75e0b1e22": {
       "title": "Ex-Alaska lawmaker details mystery recruiter as FBI, Congress widen 'Decoy Dan' scrutiny",
@@ -573,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133008799471257",
       "fb_comment_id": "122133008799471257_1123448216959853",
       "posted_at": "2026-11-08T22:25:14.252842+00:00"
+    },
+    "scraped-ba7ba4bb3f": {
+      "title": "Week 10 AP Poll sees Georgia rightfully take over top spot while voters continue to award USC for no reason",
+      "slug": "week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
+      "url": "https://ushotnews.online/article/week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
+      "article_url": "https://ushotnews.online/article/week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133010551471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133010551471257",
+      "fb_comment_id": "122133010551471257_1095602389971596",
+      "posted_at": "2026-11-08T22:42:40.029205+00:00"
+    },
+    "week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-": {
+      "title": "Week 10 AP Poll sees Georgia rightfully take over top spot while voters continue to award USC for no reason",
+      "slug": "week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
+      "url": "https://ushotnews.online/article/week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
+      "article_url": "https://ushotnews.online/article/week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133010551471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133010551471257",
+      "fb_comment_id": "122133010551471257_1095602389971596",
+      "posted_at": "2026-11-08T22:42:40.029205+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T22:25:02.178329+00:00"
+  "last_cleaned_at": "2026-11-08T22:42:33.231965+00:00"
 }
