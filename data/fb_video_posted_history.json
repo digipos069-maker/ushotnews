@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-08T01:14:43.666238+00:00",
+  "last_updated": "2026-11-08T08:48:47.300123+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1028676": {
-      "title": "Misawa Trunk or Treat 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112123483/DOD_112123483.mp4",
-      "attached_website_url": "https://ushotnews.online/article/boses-quietcomfort-headphones-are-more-than-half-off",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "4505396443006980",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4505396443006980",
-      "fb_comment_id": "4505396443006980_1425548639663828",
-      "posted_at": "2026-11-05T06:04:40.295480+00:00"
-    },
     "dvids-video:1028714": {
       "title": "FOX Sports Veterans Day Scripted (Bears)",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112124138/DOD_112124138.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1938922857516389",
       "fb_comment_id": "1938922857516389_2300642767460648",
       "posted_at": "2026-11-08T01:14:43.666176+00:00"
+    },
+    "dvids-video:1029037": {
+      "title": "1st Special Forces Group (Airborne) conducts a Night Raid during Tahoma Strike",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112131543/DOD_112131543.mp4",
+      "attached_website_url": "https://ushotnews.online/article/homelessness-in-the-us-saw-its-largest-drop-in-more-than-a-decade-last-year",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2969772850044233",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2969772850044233",
+      "fb_comment_id": "2969772850044233_1878764820207313",
+      "posted_at": "2026-11-08T08:48:47.300062+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T01:13:28.131017+00:00"
+  "last_cleaned_at": "2026-11-08T08:47:51.523723+00:00"
 }
