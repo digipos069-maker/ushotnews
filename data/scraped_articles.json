@@ -1,5 +1,671 @@
 [
   {
+    "id": "scraped-93e2bbb9bc",
+    "slug": "democratic-thrashing-redraws-the-map-of-state-power",
+    "guid": "000001a1-b27b-dc5e-abb5-b27ff6550001",
+    "title": "Democratic thrashing redraws the map of state power",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Dems picked up more than 500 seats (and counting) and flipped at least 12 legislative chambers.",
+    "content": [
+      "Dems picked up more than 500 seats (and counting) and flipped at least 12 legislative chambers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/bd/04/950350964f319f0ee9199536c5f7/wisconsin-postpartum-medicaid-09411.jpg",
+    "imageCaption": "Democratic thrashing redraws the map of state power... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T15:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3f8a913731",
+    "slug": "how-hinojosas-win-in-texas-could-bite-beshear",
+    "guid": "000001a1-bb8e-d2f6-adb3-bfae8f240000",
+    "title": "How Hinojosa’s win in Texas could bite Beshear",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Latino operatives for months pressured Andy Beshear and the Democratic Governors Association to back Gina Hinojosa. Now her win is blowing back on them.",
+    "content": [
+      "Latino operatives for months pressured Andy Beshear and the Democratic Governors Association to back Gina Hinojosa. Now her win is blowing back on them.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/36/25/76ce8dcc42449c37a41da6b42710/https-delivery-gettyimages.com/downloads/2262496546",
+    "imageCaption": "How Hinojosa’s win in Texas could bite Beshear... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T15:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3875090e16",
+    "slug": "chatbots-might-be-coming-to-apples-homeview",
+    "guid": "https://www.theverge.com/?p=1029526",
+    "title": "Chatbots might be coming to Apple’s HomeView",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
+    "content": [
+      "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Chatbots might be coming to Apple’s HomeView... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T15:00:30+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c2927ee048",
+    "slug": "apples-m5-macbook-air-is-down-to-its-lowest-price-since-july",
+    "guid": "https://www.theverge.com/?p=1029019",
+    "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for around $950 to $1,000 shortly after [&#8230;]",
+    "content": [
+      "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for around $950 to $1,000 shortly after [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple’s M5 MacBook Air is down to its lowest price since Jul... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T16:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a8f1d310e9",
+    "slug": "elvis-and-eminem-rights-holders-are-suing-suno",
+    "guid": "https://www.theverge.com/?p=1029533",
+    "title": "Elvis and Eminem rights holders are suing Suno",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
+    "content": [
+      "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Elvis and Eminem rights holders are suing Suno... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T17:23:19+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8eaac73ac7",
+    "slug": "russell-brand-to-learn-sentence-after-being-found-guilty-of-rape-and-sexual-assault",
+    "guid": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+    "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+    "content": [
+      "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Russell Brand to learn sentence after being found guilty of ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T15:07:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-73f6ef2827",
+    "slug": "after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+    "guid": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+    "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+    "content": [
+      "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "After a successful trip to Uruguay, Pope Leo heads to Argent... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T16:30:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8386b7f590",
+    "slug": "no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+    "guid": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+    "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+    "content": [
+      "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "No clear winner in New Zealand election, as leaders prepare ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T16:46:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-013240085c",
+    "slug": "leavitt-reveals-what-republicans-must-do-to-survive-politically-after-trump-leaves-white-h",
+    "guid": "https://www.foxnews.com/media/leavitt-reveals-what-republicans-must-do-survive-politically-after-trump-leaves-white-house",
+    "title": "Leavitt reveals what Republicans must do to survive politically after Trump leaves White House",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Karoline Leavitt says the GOP must find a new leader who can connect with working Americans and rebuild Trump&apos;s America First political coalition.",
+    "content": [
+      "Karoline Leavitt says the GOP must find a new leader who can connect with working Americans and rebuild Trump&apos;s America First political coalition.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/karoline-leavitt-wh-fox-news.png?ve=1&tl=1",
+    "imageCaption": "Leavitt reveals what Republicans must do to survive politica... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T17:07:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5c4d286fab",
+    "slug": "two-female-deer-throwdown-in-a-backyard-as-the-they-appear-to-be-protecting-their-young",
+    "guid": "https://www.foxnews.com/outkick-sports/two-female-deer-throwdown-backyard-protecting-young",
+    "title": "Two female deer throwdown in a backyard as the they appear to be protecting their young",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Viral video captures two female deer fighting on their hind legs, throwing hooves like boxers while their fawns watch the intense backyard clash.",
+    "content": [
+      "Viral video captures two female deer fighting on their hind legs, throwing hooves like boxers while their fawns watch the intense backyard clash.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/red-deer-fighting-meadow.jpg?ve=1&tl=1",
+    "imageCaption": "Two female deer throwdown in a backyard as the they appear t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T17:12:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-93f1995eaf",
+    "slug": "the-week-of-the-backup-qb-in-the-nfl-kicks-off-as-sanders-milton-minshew-lock-and-wentz-st",
+    "guid": "https://www.foxnews.com/outkick-sports/week-backup-qb-nfl-kicks-off-sanders-milton-minshew-lock-wentz-start",
+    "title": "The week of the backup QB in the NFL kicks off as Sanders, Milton, Minshew, Lock, and Wentz start",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Five NFL backup quarterbacks start in Week 9, with Shedeur Sanders, Carson Wentz, and Drew Lock all stepping in for playoff-contending teams.",
+    "content": [
+      "Five NFL backup quarterbacks start in Week 9, with Shedeur Sanders, Carson Wentz, and Drew Lock all stepping in for playoff-contending teams.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/kyler-murray-minnesota-vikings-fox-news-001.jpeg?ve=1&tl=1",
+    "imageCaption": "The week of the backup QB in the NFL kicks off as Sanders, M... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T17:13:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-91d796c1b6",
+    "slug": "philip-rivers-finalizing-agreement-to-return-to-nc-state-as-wolfpacks-new-head-coach-in-re",
+    "guid": "https://www.foxnews.com/outkick-sports/philip-rivers-finalizing-agreement-return-nc-state-wolfpack-head-coach-remarkable-move",
+    "title": "Philip Rivers finalizing agreement to return to NC State as Wolfpack’s new head coach in remarkable move",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Philip Rivers had already begun assembling a coaching staff before formally accepting the NC State job, sources say. His son Gunner enrolls in January.",
+    "content": [
+      "Philip Rivers had already begun assembling a coaching staff before formally accepting the NC State job, sources say. His son Gunner enrolls in January.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/philip-rivers-indianapolis-colts-lumen-field.jpg?ve=1&tl=1",
+    "imageCaption": "Philip Rivers finalizing agreement to return to NC State as ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T18:02:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8057fbd516",
+    "slug": "detroit-lions-wear-jack-campbell-jerseys-ahead-of-miami-dolphins-game-to-honor-injured-tea",
+    "guid": "https://www.foxnews.com/outkick-sports/detroit-lions-wear-jack-campbell-jerseys-ahead-miami-dolphins-game-honor-injured-teammate",
+    "title": "Detroit Lions wear Jack Campbell jerseys ahead of Miami Dolphins game to honor injured teammate",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Detroit Lions players arrived in Miami wearing Jack Campbell&apos;s No. 46 jersey one week after the linebacker&apos;s serious neck injury against the Vikings.",
+    "content": [
+      "Detroit Lions players arrived in Miami wearing Jack Campbell&apos;s No. 46 jersey one week after the linebacker&apos;s serious neck injury against the Vikings.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jack-campbell-chuck-clark-lions-cardinals.jpg?ve=1&tl=1",
+    "imageCaption": "Detroit Lions wear Jack Campbell jerseys ahead of Miami Dolp... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T18:06:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c42a6c564e",
+    "slug": "fishing-is-big-business-and-fxr-founder-says-the-sports-growth-is-only-getting-started",
+    "guid": "https://www.foxnews.com/outkick-sports/fishing-big-business-fxr-founder-says-sports-growth-only-getting-started",
+    "title": "Fishing is big business, and FXR founder says the sport's growth is only getting started",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Matt Robertson&apos;s record $1.25 million bass fishing win at The Champions highlights a booming industry now drawing 57 million American anglers.",
+    "content": [
+      "Matt Robertson&apos;s record $1.25 million bass fishing win at The Champions highlights a booming industry now drawing 57 million American anglers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/matt-robertson-the-champions-launch.jpg?ve=1&tl=1",
+    "imageCaption": "Fishing is big business, and FXR founder says the sport's gr... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T18:12:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1cfadd4059",
+    "slug": "fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
+    "guid": "https://www.foxnews.com/food-drink/fast-food-chain-once-lit-up-american-roads-still-missed-decades-later",
+    "title": "Fast-food chain that once lit up American roads still missed decades later",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Iconic fast-food chain The Red Barn once rivaled McDonald&apos;s with its Big Barney burger and barn-shaped buildings, but its 300 to 400 locations vanished by 1988.",
+    "content": [
+      "Iconic fast-food chain The Red Barn once rivaled McDonald&apos;s with its Big Barney burger and barn-shaped buildings, but its 300 to 400 locations vanished by 1988.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Red-Barn-Split.png?ve=1&tl=1",
+    "imageCaption": "Fast-food chain that once lit up American roads still missed... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T18:15:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d706f6ea72",
+    "slug": "dunleavy-calls-alaska-voting-system-very-confusing-as-razor-thin-senate-race-frozen-in-tim",
+    "guid": "https://www.foxnews.com/politics/dunleavy-calls-alaska-voting-system-very-confusing-razor-thin-senate-race-frozen-time",
+    "title": "Dunleavy calls Alaska voting system ‘very confusing’ as razor-thin Senate race frozen in time",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Republican Alaska Gov. Mike Dunleavy calls ranked-choice voting very confusing as Mary Peltola leads Dan Sullivan by just 637 votes in Senate race.",
+    "content": [
+      "Republican Alaska Gov. Mike Dunleavy calls ranked-choice voting very confusing as Mary Peltola leads Dan Sullivan by just 637 votes in Senate race.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/5e4a6d20-mike-dunleavy.jpg?ve=1&tl=1",
+    "imageCaption": "Dunleavy calls Alaska voting system ‘very confusing’ as razo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T18:41:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-eaa343524d",
+    "slug": "recent-ai-agent-experiments-reveal-a-risky-future-of-machine-teamwork-inside-corporations",
+    "guid": "108505013",
+    "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
+    "content": [
+      "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Recent AI agent experiments reveal a risky future of machine... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T14:14:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bb25f36c62",
+    "slug": "nvidia-ceo-jensen-huang-faces-bipartisan-congressional-scrutiny-over-reported-china-spy-li",
+    "guid": "108545247",
+    "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+    "content": [
+      "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia CEO Jensen Huang faces bipartisan congressional scrut... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-08T18:18:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-3b1f2e8603",
     "slug": "theres-no-slowing-down-medias-pivot-to-video-20",
     "guid": "https://www.theverge.com/?p=1026252",
