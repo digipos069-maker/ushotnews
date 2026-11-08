@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-08T08:48:47.300123+00:00",
+  "last_updated": "2026-11-08T16:35:55.256747+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1028714": {
-      "title": "FOX Sports Veterans Day Scripted (Bears)",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112124138/DOD_112124138.mp4",
-      "attached_website_url": "https://ushotnews.online/article/nintendos-designers-strove-for-elegance-when-remaking-ocarina-of-time",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1120236460606796",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1120236460606796",
-      "fb_comment_id": "1120236460606796_1463208095764144",
-      "posted_at": "2026-11-05T16:20:42.079970+00:00"
-    },
     "dvids-video:1028816": {
       "title": "128th Aviation Brigade: Phoenix Week",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112126145/DOD_112126145.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2969772850044233",
       "fb_comment_id": "2969772850044233_1878764820207313",
       "posted_at": "2026-11-08T08:48:47.300062+00:00"
+    },
+    "dvids-video:1029105": {
+      "title": "Live burn firefighting training provides real world experience",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112132628/DOD_112132628.mp4",
+      "attached_website_url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1504725534835033",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1504725534835033",
+      "fb_comment_id": "1504725534835033_2690804794706785",
+      "posted_at": "2026-11-08T16:35:55.256694+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T08:47:51.523723+00:00"
+  "last_cleaned_at": "2026-11-08T16:34:37.151414+00:00"
 }
