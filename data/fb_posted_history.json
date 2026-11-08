@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-08T14:05:46.244039+00:00",
-  "posted_count": 52,
+  "last_updated": "2026-11-08T18:27:54.302251+00:00",
+  "posted_count": 50,
   "articles": {
-    "scraped-c9c09627c5": {
-      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
-      "slug": "inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
-      "url": "https://ushotnews.online/article/inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
-      "article_url": "https://ushotnews.online/article/inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132084763471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132084763471257",
-      "fb_comment_id": "122132084763471257_1001059036381266",
-      "posted_at": "2026-11-05T15:45:11.972986+00:00"
-    },
-    "inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals": {
-      "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
-      "slug": "inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
-      "url": "https://ushotnews.online/article/inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
-      "article_url": "https://ushotnews.online/article/inside-the-chip-talent-war-trade-secrets-and-rising-chinese-rivals",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132084763471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132084763471257",
-      "fb_comment_id": "122132084763471257_1001059036381266",
-      "posted_at": "2026-11-05T15:45:11.972986+00:00"
-    },
-    "scraped-1b4e184bb9": {
-      "title": "Bernie’s populist moment",
-      "slug": "bernies-populist-moment",
-      "url": "https://ushotnews.online/article/bernies-populist-moment",
-      "article_url": "https://ushotnews.online/article/bernies-populist-moment",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132106765471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132106765471257",
-      "fb_comment_id": "122132106765471257_1148288357763329",
-      "posted_at": "2026-11-05T17:19:15.405375+00:00"
-    },
-    "bernies-populist-moment": {
-      "title": "Bernie’s populist moment",
-      "slug": "bernies-populist-moment",
-      "url": "https://ushotnews.online/article/bernies-populist-moment",
-      "article_url": "https://ushotnews.online/article/bernies-populist-moment",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132106765471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132106765471257",
-      "fb_comment_id": "122132106765471257_1148288357763329",
-      "posted_at": "2026-11-05T17:19:15.405375+00:00"
-    },
     "scraped-bfe2650765": {
       "title": "Camp Snap made a smaller kid-friendly version of its retro digital camcorder",
       "slug": "camp-snap-made-a-smaller-kid-friendly-version-of-its-retro-digital-camcorder",
@@ -573,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132922729471257",
       "fb_comment_id": "122132922729471257_2306904410086781",
       "posted_at": "2026-11-08T14:05:46.243977+00:00"
+    },
+    "scraped-270489172d": {
+      "title": "DAVID MARCUS: How Ashley Moody survived the blue tsunami and emerged as a GOP star.",
+      "slug": "david-marcus-how-ashley-moody-survived-the-blue-tsunami-and-emerged-as-a-gop-star",
+      "url": "https://ushotnews.online/article/david-marcus-how-ashley-moody-survived-the-blue-tsunami-and-emerged-as-a-gop-star",
+      "article_url": "https://ushotnews.online/article/david-marcus-how-ashley-moody-survived-the-blue-tsunami-and-emerged-as-a-gop-star",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132971587471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132971587471257",
+      "fb_comment_id": "122132971587471257_1424241127443851",
+      "posted_at": "2026-11-08T18:27:54.302194+00:00"
+    },
+    "david-marcus-how-ashley-moody-survived-the-blue-tsunami-and-emerged-as-a-gop-star": {
+      "title": "DAVID MARCUS: How Ashley Moody survived the blue tsunami and emerged as a GOP star.",
+      "slug": "david-marcus-how-ashley-moody-survived-the-blue-tsunami-and-emerged-as-a-gop-star",
+      "url": "https://ushotnews.online/article/david-marcus-how-ashley-moody-survived-the-blue-tsunami-and-emerged-as-a-gop-star",
+      "article_url": "https://ushotnews.online/article/david-marcus-how-ashley-moody-survived-the-blue-tsunami-and-emerged-as-a-gop-star",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132971587471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132971587471257",
+      "fb_comment_id": "122132971587471257_1424241127443851",
+      "posted_at": "2026-11-08T18:27:54.302194+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T14:05:34.549050+00:00"
+  "last_cleaned_at": "2026-11-08T18:27:44.982832+00:00"
 }
