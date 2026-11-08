@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T13:13:01.724759+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-11-08T14:05:46.244039+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-c9c09627c5": {
       "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132910945471257",
       "fb_comment_id": "122132910945471257_1797088721517491",
       "posted_at": "2026-11-08T13:13:01.724705+00:00"
+    },
+    "scraped-3b1f2e8603": {
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "slug": "theres-no-slowing-down-medias-pivot-to-video-20",
+      "url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
+      "article_url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132922729471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132922729471257",
+      "fb_comment_id": "122132922729471257_2306904410086781",
+      "posted_at": "2026-11-08T14:05:46.243977+00:00"
+    },
+    "theres-no-slowing-down-medias-pivot-to-video-20": {
+      "title": "There’s no slowing down media’s pivot-to-video 2.0",
+      "slug": "theres-no-slowing-down-medias-pivot-to-video-20",
+      "url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
+      "article_url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122132922729471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132922729471257",
+      "fb_comment_id": "122132922729471257_2306904410086781",
+      "posted_at": "2026-11-08T14:05:46.243977+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T13:12:54.045666+00:00"
+  "last_cleaned_at": "2026-11-08T14:05:34.549050+00:00"
 }
