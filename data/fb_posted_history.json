@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-09T09:37:31.288232+00:00",
+  "last_updated": "2026-11-09T10:05:39.338677+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-36c0a554dc": {
-      "title": "New York Knicks champion calls out Taylor Swift as the 'fakest fan' from MSG's celebrity row",
-      "slug": "new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
-      "url": "https://ushotnews.online/article/new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
-      "article_url": "https://ushotnews.online/article/new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132312481471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132312481471257",
-      "fb_comment_id": "122132312481471257_28239055865767231",
-      "posted_at": "2026-11-06T09:46:20.911311+00:00"
-    },
-    "new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row": {
-      "title": "New York Knicks champion calls out Taylor Swift as the 'fakest fan' from MSG's celebrity row",
-      "slug": "new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
-      "url": "https://ushotnews.online/article/new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
-      "article_url": "https://ushotnews.online/article/new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132312481471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132312481471257",
-      "fb_comment_id": "122132312481471257_28239055865767231",
-      "posted_at": "2026-11-06T09:46:20.911311+00:00"
-    },
     "scraped-9fef861ffc": {
       "title": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
       "slug": "oil-prices-set-for-sharp-weekly-fall-after-midterm-elections-as-investors-weigh-iran-confl",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133131745471257",
       "fb_comment_id": "122133131745471257_1495718215756807",
       "posted_at": "2026-11-09T09:37:31.288162+00:00"
+    },
+    "scraped-182af7202a": {
+      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+      "slug": "nvidia-stock-falls-5-as-scrutiny-turns-to-jensen-huangs-relationship-with-alleged-chinese-",
+      "url": "https://ushotnews.online/article/nvidia-stock-falls-5-as-scrutiny-turns-to-jensen-huangs-relationship-with-alleged-chinese-",
+      "article_url": "https://ushotnews.online/article/nvidia-stock-falls-5-as-scrutiny-turns-to-jensen-huangs-relationship-with-alleged-chinese-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133137469471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133137469471257",
+      "fb_comment_id": "122133137469471257_1133967365685901",
+      "posted_at": "2026-11-09T10:05:39.338615+00:00"
+    },
+    "nvidia-stock-falls-5-as-scrutiny-turns-to-jensen-huangs-relationship-with-alleged-chinese-": {
+      "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+      "slug": "nvidia-stock-falls-5-as-scrutiny-turns-to-jensen-huangs-relationship-with-alleged-chinese-",
+      "url": "https://ushotnews.online/article/nvidia-stock-falls-5-as-scrutiny-turns-to-jensen-huangs-relationship-with-alleged-chinese-",
+      "article_url": "https://ushotnews.online/article/nvidia-stock-falls-5-as-scrutiny-turns-to-jensen-huangs-relationship-with-alleged-chinese-",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133137469471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133137469471257",
+      "fb_comment_id": "122133137469471257_1133967365685901",
+      "posted_at": "2026-11-09T10:05:39.338615+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-09T09:37:21.458810+00:00"
+  "last_cleaned_at": "2026-11-09T10:05:28.786688+00:00"
 }
