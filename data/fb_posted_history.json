@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-08T22:42:40.029268+00:00",
+  "last_updated": "2026-11-09T01:54:44.988861+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-e75e0b1e22": {
-      "title": "Ex-Alaska lawmaker details mystery recruiter as FBI, Congress widen 'Decoy Dan' scrutiny",
-      "slug": "ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
-      "url": "https://ushotnews.online/article/ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
-      "article_url": "https://ushotnews.online/article/ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132162103471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132162103471257",
-      "fb_comment_id": "122132162103471257_1385334926760506",
-      "posted_at": "2026-11-05T22:46:36.409729+00:00"
-    },
-    "ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny": {
-      "title": "Ex-Alaska lawmaker details mystery recruiter as FBI, Congress widen 'Decoy Dan' scrutiny",
-      "slug": "ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
-      "url": "https://ushotnews.online/article/ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
-      "article_url": "https://ushotnews.online/article/ex-alaska-lawmaker-details-mystery-recruiter-as-fbi-congress-widen-decoy-dan-scrutiny",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132162103471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132162103471257",
-      "fb_comment_id": "122132162103471257_1385334926760506",
-      "posted_at": "2026-11-05T22:46:36.409729+00:00"
-    },
     "scraped-7b022438ca": {
       "title": "Blue Origin’s next launch now won’t happen until 2027",
       "slug": "blue-origins-next-launch-now-wont-happen-until-2027",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133010551471257",
       "fb_comment_id": "122133010551471257_1095602389971596",
       "posted_at": "2026-11-08T22:42:40.029205+00:00"
+    },
+    "scraped-e1eb87bfc4": {
+      "title": "Alligator attack on Florida mom sparks panicked 911 call: 'Her arm is gone'",
+      "slug": "alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone",
+      "url": "https://ushotnews.online/article/alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone",
+      "article_url": "https://ushotnews.online/article/alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133045387471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133045387471257",
+      "fb_comment_id": "122133045387471257_1435171004876597",
+      "posted_at": "2026-11-09T01:54:44.988801+00:00"
+    },
+    "alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone": {
+      "title": "Alligator attack on Florida mom sparks panicked 911 call: 'Her arm is gone'",
+      "slug": "alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone",
+      "url": "https://ushotnews.online/article/alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone",
+      "article_url": "https://ushotnews.online/article/alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133045387471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133045387471257",
+      "fb_comment_id": "122133045387471257_1435171004876597",
+      "posted_at": "2026-11-09T01:54:44.988801+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-08T22:42:33.231965+00:00"
+  "last_cleaned_at": "2026-11-09T01:54:32.958285+00:00"
 }
