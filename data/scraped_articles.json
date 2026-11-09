@@ -1,5 +1,1485 @@
 [
   {
+    "id": "scraped-b919a2307a",
+    "slug": "the-bloc-wants-a-bold-agenda-can-jeffries-deliver",
+    "guid": "000001a1-beeb-d0f3-a5f5-bfff0f200000",
+    "title": "The Bloc wants a bold agenda. Can Jeffries deliver?",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The Bloc wants a bold agenda. Can Jeffries deliver?",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Bloc wants a bold agenda. Can Jeffries deliver?... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T10:45:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-65b8656d9a",
+    "slug": "josh-shapiro-says-texas-wont-replace-pennsylvania-as-the-ultimate-swing-state",
+    "guid": "000001a1-c0c1-def8-a5f7-f2d9f6760000",
+    "title": "Josh Shapiro says Texas won’t replace Pennsylvania as the ‘ultimate swing state’",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The governor romped to a 22-point reelection victory last week.",
+    "content": [
+      "The governor romped to a 22-point reelection victory last week.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/e8/3e/100511164777865b7ad2f277601d/election-2-26-pennsylvania-29364.jpg",
+    "imageCaption": "Josh Shapiro says Texas won’t replace Pennsylvania as the ‘u... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T15:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f98c031828",
+    "slug": "sonys-new-playstation-portal-handheld-includes-additional-internal-storage",
+    "guid": "https://www.theverge.com/?p=1029822",
+    "title": "Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storage for future-looking features. It's the additional internal storage that's the surprise change to this particular model, which will be locked [&#8230;]",
+    "content": [
+      "Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include \"additional\" internal storage for future-looking features. It's the additional internal storage that's the surprise change to this particular model, which will be locked [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sony’s new PlayStation Portal handheld includes ‘additional’... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T16:23:31+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-db103de6e9",
+    "slug": "uber-wants-to-park-your-car-now-too",
+    "guid": "https://www.theverge.com/?p=1029776",
+    "title": "Uber wants to park your car now, too",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's [&#8230;]",
+    "content": [
+      "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Uber wants to park your car now, too... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T17:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a4166e9c9",
+    "slug": "the-future-of-ai-hinges-on-jensen-huangs-sex-life",
+    "guid": "https://www.theverge.com/?p=1029990",
+    "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
+    "content": [
+      "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The future of AI hinges on… Jensen Huang’s sex life?... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T17:36:08+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-619c5b56e9",
+    "slug": "james-gunn-is-out-as-dc-movie-leader",
+    "guid": "https://www.theverge.com/?p=1030022",
+    "title": "James Gunn is out as DC movie leader",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will \"continue to produce on various DC projects\" [&#8230;]",
+    "content": [
+      "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will \"continue to produce on various DC projects\" [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "James Gunn is out as DC movie leader... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T17:39:57+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4591e0d6f7",
+    "slug": "instagrams-effect-builder-makes-new-filters-from-ai-prompts",
+    "guid": "https://www.theverge.com/?p=1030061",
+    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
+    "content": [
+      "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Instagram’s Effect Builder makes new filters from AI prompts... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T18:07:23+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f5ae1dd63a",
+    "slug": "you-can-grab-three-months-of-game-pass-ultimate-for-under-20-per-month",
+    "guid": "https://www.theverge.com/?p=1029998",
+    "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings [&#8230;]",
+    "content": [
+      "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "You can grab three months of Game Pass Ultimate for under $2... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T18:35:25+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-53b7ea44cd",
+    "slug": "anthropic-launches-new-claude-fable-and-mythos-52-models",
+    "guid": "https://www.theverge.com/?p=1030005",
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable [&#8230;]",
+    "content": [
+      "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic launches new Claude Fable and Mythos 5.2 models... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T19:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a20ec08b24",
+    "slug": "apples-50-intelligence-usage-packs-extend-access-to-some-ai-features",
+    "guid": "https://www.theverge.com/?p=1030084",
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
+    "content": [
+      "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple’s $50 Intelligence Usage Packs extend access to some A... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T19:09:58+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-efc3c764c9",
+    "slug": "he-was-diagnosed-with-cancer-then-he-was-told-he-lost-his-medicaid",
+    "guid": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+    "title": "He was diagnosed with cancer. Then he was told he lost his Medicaid",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+    "content": [
+      "Health clinics and organizations advocating for poor and working-class Nebraskans say the rollout of Medicaid work requirements has been rife with problems.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "He was diagnosed with cancer. Then he was told he lost his M... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ccce3b5ffc",
+    "slug": "on-wild-cumberland-island-a-land-swap-proposal-stirs-controversy",
+    "guid": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
+    "title": "On wild Cumberland Island, a land swap proposal stirs controversy",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it.",
+    "content": [
+      "Visitors, ecologists, park rangers and residents all love this wild barrier island off the coast of southern Georgia. But they have different ideas of how to best protect it.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "On wild Cumberland Island, a land swap proposal stirs contro... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-760f923ff9",
+    "slug": "democrats-won-big-on-issues-like-immigration-but-ice-still-has-the-money",
+    "guid": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
+    "title": "Democrats won big on issues like immigration. But ICE still has the money",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?",
+    "content": [
+      "Following Tuesday's \"blue wave,\" Democrats have vowed to reign in ICE's power. What could they actually accomplish?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Democrats won big on issues like immigration. But ICE still ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-df22a7902a",
+    "slug": "why-a-south-korean-city-is-turning-to-a-us-college-to-outsmart-ai",
+    "guid": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+    "title": "Why a South Korean city is turning to a U.S. college to outsmart AI?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
+    "content": [
+      "Through civic participation and liberal education, South Korean educators hope to \"quietly stitch the fabric of our democracy…before it unravels beyond repair.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why a South Korean city is turning to a U.S. college to outs... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T10:47:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7b581589d1",
+    "slug": "congress-is-back-after-gops-midterm-defeat-and-trump-appoints-new-chief-of-staff",
+    "guid": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
+    "title": "Congress is back after GOP's midterm defeat. And, Trump appoints new chief of staff",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition.",
+    "content": [
+      "Republicans have just weeks left of control of Congress. Here's what to expect. And, Trump has appointed Stephen Miller as his new chief of staff, signaling his readiness to confront his opposition.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Congress is back after GOP's midterm defeat. And, Trump appo... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T12:45:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e44b22891e",
+    "slug": "british-comedian-russell-brand-sentenced-to-over-10-years-for-rape-and-sexual-assault",
+    "guid": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+    "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
+    "content": [
+      "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "British comedian Russell Brand sentenced to over 10 years fo... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T14:36:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-121373efd9",
+    "slug": "thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+    "guid": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
+    "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
+    "content": [
+      "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Thick smog shrouds New Delhi after Diwali firecrackers add t... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T15:09:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-64ee56c542",
+    "slug": "thomas-massie-files-articles-of-impeachment-against-defense-secretary-pete-hegseth",
+    "guid": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+    "title": "Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
+    "content": [
+      "The articles accuse Hegseth of \"high crimes and misdemeanors,\" including for waging war against Iran in violation of the War Powers Resolution.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Thomas Massie files articles of impeachment against Defense ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:52:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-00aac505f9",
+    "slug": "arizona-golf-is-just-different-according-to-golfer-who-encountered-a-herd-of-javelinas",
+    "guid": "https://www.foxnews.com/outkick-sports/arizona-golf-just-different-golfer-encountered-herd-javelinas",
+    "title": "Arizona golf is just different according to golfer who encountered a herd of javelinas",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Golfer Mikey TeeTimes captured video of a javelina herd crossing an Arizona golf course, showcasing the desert mammals&apos; unexpected appearances.",
+    "content": [
+      "Golfer Mikey TeeTimes captured video of a javelina herd crossing an Arizona golf course, showcasing the desert mammals&apos; unexpected appearances.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/javelinas-arizona-golf-course.jpg?ve=1&tl=1",
+    "imageCaption": "Arizona golf is just different according to golfer who encou... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:03:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4996c0bd85",
+    "slug": "melania-trump-scholarship-recipient-reveals-how-fostering-the-future-helped-her-with-lsu-a",
+    "guid": "https://www.foxnews.com/media/melania-trump-scholarship-recipient-how-fostering-future-helped-her-reach-lsu-after-life-foster-care",
+    "title": "Melania Trump scholarship recipient reveals how Fostering the Future helped her with LSU after foster care",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ella Bennett, who entered foster care at age 3, describes meeting Melania Trump at LSU and how the $7.2 million scholarship eases financial stress.",
+    "content": [
+      "Ella Bennett, who entered foster care at age 3, describes meeting Melania Trump at LSU and how the $7.2 million scholarship eases financial stress.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/melania-trump-lsu-fostering-future.jpg?ve=1&tl=1",
+    "imageCaption": "Melania Trump scholarship recipient reveals how Fostering th... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:11:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-259f335ff7",
+    "slug": "fbi-investigates-suspected-homicide-aboard-msc-seascape-cruise-ship-after-sudden-return-to",
+    "guid": "https://www.foxnews.com/us/fbi-investigates-suspected-homicide-aboard-msc-seascape-cruise-ship-sudden-return-texas",
+    "title": "FBI investigates suspected homicide aboard MSC Seascape cruise ship after sudden return to Texas",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The MSC Seascape was ordered back to Galveston just one day into a weeklong Mexico and Honduras voyage after a guest death prompted an FBI investigation.",
+    "content": [
+      "The MSC Seascape was ordered back to Galveston just one day into a weeklong Mexico and Honduras voyage after a guest death prompted an FBI investigation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/MSC-Seascape-003.jpg?ve=1&tl=1",
+    "imageCaption": "FBI investigates suspected homicide aboard MSC Seascape crui... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:15:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8fbf4d4d7b",
+    "slug": "wwe-legend-shares-the-importance-of-standing-for-the-national-anthem-working-with-us-milit",
+    "guid": "https://www.foxnews.com/outkick-sports/wwe-legend-shares-importance-standing-national-anthem-working-us-military-members",
+    "title": "WWE legend shares the importance of standing for the national anthem, working with US military members",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "WWE Hall of Famer Goldberg revealed the deeply personal reason he stands with his hand over his heart during The Star-Spangled Banner every time.",
+    "content": [
+      "WWE Hall of Famer Goldberg revealed the deeply personal reason he stands with his hand over his heart during The Star-Spangled Banner every time.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/goldberg-enters-ring-state-farm-arena.jpg?ve=1&tl=1",
+    "imageCaption": "WWE legend shares the importance of standing for the nationa... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:21:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5f02588d81",
+    "slug": "chris-rock-says-he-was-not-a-great-husband-to-malaak-compton-rock-admits-he-watched-a-lot-",
+    "guid": "https://www.foxnews.com/entertainment/chris-rock-says-he-was-not-great-husband-malaak-compton-rock-admits-he-watched-a-lot-porn",
+    "title": "Chris Rock says he 'was not a great husband' to Malaak Compton-Rock, admits he watched 'a lot of porn'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Chris Rock admitted to cheating and porn addiction during his nearly 20-year marriage to Malaak Compton-Rock, comparing himself to a Marvel character.",
+    "content": [
+      "Chris Rock admitted to cheating and porn addiction during his nearly 20-year marriage to Malaak Compton-Rock, comparing himself to a Marvel character.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chris-rock-pink.jpg?ve=1&tl=1",
+    "imageCaption": "Chris Rock says he 'was not a great husband' to Malaak Compt... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:23:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b6ca9c9fcc",
+    "slug": "jared-goffs-si-swimsuit-wife-had-a-big-miami-weekend-college-football-gets-greedy-christma",
+    "guid": "https://www.foxnews.com/outkick-sports/jared-goff-si-swimsuit-wife-big-miami-weekend-college-football-greedy-christmas-decor-time",
+    "title": "Jared Goff's SI Swimsuit wife had a big Miami weekend, college football gets greedy & Christmas decor time?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Christen Harper celebrated the Lions&apos; win over the Miami Dolphins as the college football playoff expands to 24 teams and drops championship games.",
+    "content": [
+      "Christen Harper celebrated the Lions&apos; win over the Miami Dolphins as the college football playoff expands to 24 teams and drops championship games.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/christen-harper-sports-illustrated-swimsuit-launch.jpg?ve=1&tl=1",
+    "imageCaption": "Jared Goff's SI Swimsuit wife had a big Miami weekend, colle... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:40:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1126f3a2e8",
+    "slug": "rubios-defense-of-trumps-iran-war-draws-sharp-contrast-with-vances-midterm-blame",
+    "guid": "https://www.foxnews.com/politics/rubios-defense-trumps-iran-war-draws-sharp-contrast-vances-midterm-blame",
+    "title": "Rubio's defense of Trump's Iran war draws sharp contrast with Vance's midterm blame",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "JD Vance blamed the Iran war for Republicans&apos; midterm losses, raising questions about his 2028 ambitions and his shift from Trump on the conflict.",
+    "content": [
+      "JD Vance blamed the Iran war for Republicans&apos; midterm losses, raising questions about his 2028 ambitions and his shift from Trump on the conflict.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/trump-vance-rubio.jpg?ve=1&tl=1",
+    "imageCaption": "Rubio's defense of Trump's Iran war draws sharp contrast wit... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:42:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3befdc35d8",
+    "slug": "new-california-law-will-restrict-sales-of-some-muscle-building-supplements-to-minors",
+    "guid": "https://www.foxnews.com/health/california-law-restrict-sales-muscle-building-supplements-minors",
+    "title": "New California law will restrict sales of some muscle-building supplements to minors",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Gavin Newsom signed AB 2030 restricting diet pills and muscle building supplements for minors, but questions remain about creatine and protein products.",
+    "content": [
+      "Gavin Newsom signed AB 2030 restricting diet pills and muscle building supplements for minors, but questions remain about creatine and protein products.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/young-man-workout-supplement.jpg?ve=1&tl=1",
+    "imageCaption": "New California law will restrict sales of some muscle-buildi... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:43:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b24772ac1a",
+    "slug": "coreweave-confronts-doom-cycle-narrative-as-neocloud-credit-risk-overshadows-growth",
+    "guid": "108527164",
+    "title": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Leading neoclouds CoreWeave and Nebius have both lost about half their value in the past month as they get set for earnings reports this week.",
+    "content": [
+      "Leading neoclouds CoreWeave and Nebius have both lost about half their value in the past month as they get set for earnings reports this week.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "CoreWeave confronts 'doom cycle' narrative as neocloud credi... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T12:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8594fe9df2",
+    "slug": "jim-cramer-says-this-is-the-stock-to-buy-as-data-center-development-slows",
+    "guid": "108546465",
+    "title": "Jim Cramer says this is the stock to buy as data center development slows",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Jim Cramer says a slowdown in data center construction gives Amazon an edge.",
+    "content": [
+      "Jim Cramer says a slowdown in data center construction gives Amazon an edge.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer says this is the stock to buy as data center deve... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T17:22:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8682ab5d4f",
+    "slug": "goldman-ceo-solomon-says-ai-financing-remains-strong-despite-market-jitters",
+    "guid": "108546599",
+    "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+    "content": [
+      "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Goldman CEO Solomon says AI financing remains strong despite... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T18:14:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1bbf583b06",
+    "slug": "anthropic-releases-first-frontier-models-since-amodeis-call-for-slowdown-as-ipo-buzz-build",
+    "guid": "108546364",
+    "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
+    "content": [
+      "The launch comes as Anthropic is gearing up for what is widely expected to be a blockbuster IPO",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic releases first frontier models since Amodei's call... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T19:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-db5f66714e",
+    "slug": "elizabeth-warren-set-to-take-over-the-senate-banking-committee-heres-what-she-plans-to-do",
+    "guid": "108546596",
+    "title": "Elizabeth Warren set to take over the Senate banking committee. Here's what she plans to do",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Sen. Elizabeth Warren telegraphed her agenda for the Senate banking committee as Congress transfers to Democratic control",
+    "content": [
+      "Sen. Elizabeth Warren telegraphed her agenda for the Senate banking committee as Congress transfers to Democratic control",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Elizabeth Warren set to take over the Senate banking committ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T19:34:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5591b9bd00",
+    "slug": "nvidias-trump-ties-draw-scrutiny-after-reports-huang-was-targeted-by-chinese-intelligence",
+    "guid": "108546544",
+    "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
+    "content": [
+      "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia’s Trump ties draw scrutiny after reports Huang was ta... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:49:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-70f8de5de0",
+    "slug": "a-massive-trade-in-nvidia-just-went-off-here-are-the-details",
+    "guid": "108546617",
+    "title": "A massive trade in Nvidia just went off – here are the details",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Despite Monday's sell-off, options traders are targeting new highs on Nvidia",
+    "content": [
+      "Despite Monday's sell-off, options traders are targeting new highs on Nvidia",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A massive trade in Nvidia just went off – here are the detai... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T18:37:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-91ef7ca3ff",
+    "slug": "trump-administration-proposes-stricter-work-search-rules-for-unemployment-benefits",
+    "guid": "108546589",
+    "title": "Trump administration proposes stricter work-search rules for unemployment benefits",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "A Labor Department proposal would require unemployment claimants to report at least five qualifying work-search activities each week.",
+    "content": [
+      "A Labor Department proposal would require unemployment claimants to report at least five qualifying work-search activities each week.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump administration proposes stricter work-search rules for... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T19:59:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9335746ef4",
+    "slug": "this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw",
+    "guid": "108546420",
+    "title": "This beaten-down data center stock could be worth a look, says Mike Khouw",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "United Rentals is trading at a below-market forward multiple. Effectively, one can buy superior, market-beating growth at a discounted market multiple.",
+    "content": [
+      "United Rentals is trading at a below-market forward multiple. Effectively, one can buy superior, market-beating growth at a discounted market multiple.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "This beaten-down data center stock could be worth a look, sa... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T19:23:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-833539c8bb",
+    "slug": "trump-questions-midterm-election-results-revives-voting-machine-conspiracy",
+    "guid": "108546454",
+    "title": "Trump questions midterm election results, revives voting-machine conspiracy",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Trump's questioning of the legitimacy of his loss in the 2020 election culminated with an attack on the U.S. Capitol by a mob of his supporters.",
+    "content": [
+      "President Trump's questioning of the legitimacy of his loss in the 2020 election culminated with an attack on the U.S. Capitol by a mob of his supporters.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump questions midterm election results, revives voting-mac... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T18:02:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1f7865c73f",
+    "slug": "as-nvidia-probes-jensen-huang-affair-heres-the-board-member-likely-to-play-a-big-role",
+    "guid": "108546594",
+    "title": "As Nvidia probes Jensen Huang affair, here's the board member likely to play a big role",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Stephen Neal is the board's lead independent director and head of corporate governance. Experts say how Nvidia handles the probe is crucial to retaining its reputation.",
+    "content": [
+      "Stephen Neal is the board's lead independent director and head of corporate governance. Experts say how Nvidia handles the probe is crucial to retaining its reputation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "As Nvidia probes Jensen Huang affair, here's the board membe... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:41:54+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6292d3d634",
+    "slug": "pepsico-to-cut-about-1000-jobs-as-north-american-business-struggles",
+    "guid": "108546758",
+    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+    "content": [
+      "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "PepsiCo to cut about 1,000 jobs as North American business s... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:41:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9d1b423657",
+    "slug": "hegseth-impeachment-articles-introduced-by-rep-massie",
+    "guid": "108546729",
+    "title": "Hegseth impeachment articles introduced by Rep. Massie",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth.",
+    "content": [
+      "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Hegseth impeachment articles introduced by Rep. Massie... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:54:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7323ac2302",
+    "slug": "jensen-huang-affair-puts-nvidias-future-at-risk-with-no-clear-successor-to-the-renowned-ce",
+    "guid": "108546439",
+    "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
+    "content": [
+      "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jensen Huang affair puts Nvidia's future at risk, with no cl... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-09T20:25:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-c4ae20247f",
     "slug": "new-vance-friendly-group-launching-to-push-gop-toward-younger-hardliners",
     "guid": "000001a1-bcad-dc5e-abb5-beef000d0001",
