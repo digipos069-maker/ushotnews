@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-09T01:54:44.988861+00:00",
+  "last_updated": "2026-11-09T02:23:53.266389+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-7b022438ca": {
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
-      "slug": "blue-origins-next-launch-now-wont-happen-until-2027",
-      "url": "https://ushotnews.online/article/blue-origins-next-launch-now-wont-happen-until-2027",
-      "article_url": "https://ushotnews.online/article/blue-origins-next-launch-now-wont-happen-until-2027",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132205231471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132205231471257",
-      "fb_comment_id": "122132205231471257_1436566461996179",
-      "posted_at": "2026-11-06T02:14:57.987168+00:00"
-    },
-    "blue-origins-next-launch-now-wont-happen-until-2027": {
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
-      "slug": "blue-origins-next-launch-now-wont-happen-until-2027",
-      "url": "https://ushotnews.online/article/blue-origins-next-launch-now-wont-happen-until-2027",
-      "article_url": "https://ushotnews.online/article/blue-origins-next-launch-now-wont-happen-until-2027",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132205231471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132205231471257",
-      "fb_comment_id": "122132205231471257_1436566461996179",
-      "posted_at": "2026-11-06T02:14:57.987168+00:00"
-    },
     "scraped-ad5190981f": {
       "title": "Indiana, Florida and Alabama carry out rare US triple execution day",
       "slug": "indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133045387471257",
       "fb_comment_id": "122133045387471257_1435171004876597",
       "posted_at": "2026-11-09T01:54:44.988801+00:00"
+    },
+    "scraped-eb6242d08f": {
+      "title": "Tensions flare as demonstrators target Jewish restaurants, drawing massive counterprotest",
+      "slug": "tensions-flare-as-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest",
+      "url": "https://ushotnews.online/article/tensions-flare-as-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest",
+      "article_url": "https://ushotnews.online/article/tensions-flare-as-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133049257471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133049257471257",
+      "fb_comment_id": "122133049257471257_986475623981016",
+      "posted_at": "2026-11-09T02:23:53.266329+00:00"
+    },
+    "tensions-flare-as-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest": {
+      "title": "Tensions flare as demonstrators target Jewish restaurants, drawing massive counterprotest",
+      "slug": "tensions-flare-as-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest",
+      "url": "https://ushotnews.online/article/tensions-flare-as-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest",
+      "article_url": "https://ushotnews.online/article/tensions-flare-as-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133049257471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133049257471257",
+      "fb_comment_id": "122133049257471257_986475623981016",
+      "posted_at": "2026-11-09T02:23:53.266329+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-09T01:54:32.958285+00:00"
+  "last_cleaned_at": "2026-11-09T02:23:46.097990+00:00"
 }
