@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-09T01:34:32.153685+00:00",
+  "last_updated": "2026-11-09T09:30:34.883811+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1028855": {
-      "title": "JPMRC 27-01: 1-21 Infantry Regiment Conducts Medical and Unmanned Aerial  System Rehearsals",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112127171/DOD_112127171.mp4",
-      "attached_website_url": "https://ushotnews.online/article/how-abdul-el-sayed-actually-did-with-jewish-voters",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1845891769759896",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1845891769759896",
-      "fb_comment_id": "1845891769759896_1650829670014714",
-      "posted_at": "2026-11-06T06:00:17.131881+00:00"
-    },
     "dvids-video:1028866": {
       "title": "Camp Arifjan Halloween 5K",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112127353/DOD_112127353.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1161098453293011",
       "fb_comment_id": "1161098453293011_1626390319031481",
       "posted_at": "2026-11-09T01:34:32.153615+00:00"
+    },
+    "dvids-video:1029165": {
+      "title": "HUBS: Autumn Wonders of West Coast Aomori",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112133662/DOD_112133662.mp4",
+      "attached_website_url": "https://ushotnews.online/article/heres-the-full-text-of-jensen-huangs-memo-to-nvidia",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "4566799960201172",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4566799960201172",
+      "fb_comment_id": "4566799960201172_1643161820635128",
+      "posted_at": "2026-11-09T09:30:34.883746+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-09T01:33:44.487741+00:00"
+  "last_cleaned_at": "2026-11-09T09:29:53.821499+00:00"
 }
