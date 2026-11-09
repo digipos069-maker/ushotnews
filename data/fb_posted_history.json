@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T20:38:38.834859+00:00",
-  "posted_count": 50,
+  "last_updated": "2026-11-09T20:57:33.294690+00:00",
+  "posted_count": 52,
   "articles": {
     "scraped-663bd6dce8": {
       "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
@@ -551,7 +551,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133290109471257",
       "fb_comment_id": "122133290109471257_1131960972924116",
       "posted_at": "2026-11-09T20:38:38.834801+00:00"
+    },
+    "scraped-4591e0d6f7": {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "slug": "instagrams-effect-builder-makes-new-filters-from-ai-prompts",
+      "url": "https://ushotnews.online/article/instagrams-effect-builder-makes-new-filters-from-ai-prompts",
+      "article_url": "https://ushotnews.online/article/instagrams-effect-builder-makes-new-filters-from-ai-prompts",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133293091471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133293091471257",
+      "fb_comment_id": "122133293091471257_2077170786319397",
+      "posted_at": "2026-11-09T20:57:33.294621+00:00"
+    },
+    "instagrams-effect-builder-makes-new-filters-from-ai-prompts": {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "slug": "instagrams-effect-builder-makes-new-filters-from-ai-prompts",
+      "url": "https://ushotnews.online/article/instagrams-effect-builder-makes-new-filters-from-ai-prompts",
+      "article_url": "https://ushotnews.online/article/instagrams-effect-builder-makes-new-filters-from-ai-prompts",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133293091471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133293091471257",
+      "fb_comment_id": "122133293091471257_2077170786319397",
+      "posted_at": "2026-11-09T20:57:33.294621+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-09T20:38:29.147905+00:00"
+  "last_cleaned_at": "2026-11-09T20:57:23.451340+00:00"
 }
