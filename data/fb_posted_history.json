@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-09T02:23:53.266389+00:00",
+  "last_updated": "2026-11-09T09:37:31.288232+00:00",
   "posted_count": 54,
   "articles": {
-    "scraped-ad5190981f": {
-      "title": "Indiana, Florida and Alabama carry out rare US triple execution day",
-      "slug": "indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
-      "url": "https://ushotnews.online/article/indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
-      "article_url": "https://ushotnews.online/article/indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132216733471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132216733471257",
-      "fb_comment_id": "122132216733471257_1805074657368417",
-      "posted_at": "2026-11-06T03:13:06.132612+00:00"
-    },
-    "indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day": {
-      "title": "Indiana, Florida and Alabama carry out rare US triple execution day",
-      "slug": "indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
-      "url": "https://ushotnews.online/article/indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
-      "article_url": "https://ushotnews.online/article/indiana-florida-and-alabama-carry-out-rare-us-triple-execution-day",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132216733471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132216733471257",
-      "fb_comment_id": "122132216733471257_1805074657368417",
-      "posted_at": "2026-11-06T03:13:06.132612+00:00"
-    },
     "scraped-36c0a554dc": {
       "title": "New York Knicks champion calls out Taylor Swift as the 'fakest fan' from MSG's celebrity row",
       "slug": "new-york-knicks-champion-calls-out-taylor-swift-as-the-fakest-fan-from-msgs-celebrity-row",
@@ -595,7 +573,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133049257471257",
       "fb_comment_id": "122133049257471257_986475623981016",
       "posted_at": "2026-11-09T02:23:53.266329+00:00"
+    },
+    "scraped-de5b21cf0c": {
+      "title": "Donna Mills on why she never married despite decades-long romance: 'I was always so independent'",
+      "slug": "donna-mills-on-why-she-never-married-despite-decades-long-romance-i-was-always-so-independ",
+      "url": "https://ushotnews.online/article/donna-mills-on-why-she-never-married-despite-decades-long-romance-i-was-always-so-independ",
+      "article_url": "https://ushotnews.online/article/donna-mills-on-why-she-never-married-despite-decades-long-romance-i-was-always-so-independ",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133131745471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133131745471257",
+      "fb_comment_id": "122133131745471257_1495718215756807",
+      "posted_at": "2026-11-09T09:37:31.288162+00:00"
+    },
+    "donna-mills-on-why-she-never-married-despite-decades-long-romance-i-was-always-so-independ": {
+      "title": "Donna Mills on why she never married despite decades-long romance: 'I was always so independent'",
+      "slug": "donna-mills-on-why-she-never-married-despite-decades-long-romance-i-was-always-so-independ",
+      "url": "https://ushotnews.online/article/donna-mills-on-why-she-never-married-despite-decades-long-romance-i-was-always-so-independ",
+      "article_url": "https://ushotnews.online/article/donna-mills-on-why-she-never-married-despite-decades-long-romance-i-was-always-so-independ",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133131745471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133131745471257",
+      "fb_comment_id": "122133131745471257_1495718215756807",
+      "posted_at": "2026-11-09T09:37:31.288162+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-09T02:23:46.097990+00:00"
+  "last_cleaned_at": "2026-11-09T09:37:21.458810+00:00"
 }
