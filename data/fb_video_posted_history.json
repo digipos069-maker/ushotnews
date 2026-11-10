@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-09T20:35:26.439159+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-11-10T04:01:17.008628+00:00",
+  "posted_count": 11,
   "articles": {
-    "dvids-video:1028951": {
-      "title": "NNSY Dry Dock 4 Refueling Complex Ribbon Cutting - Oct. 29, 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112129296/DOD_112129296.mp4",
-      "attached_website_url": "https://ushotnews.online/article/jim-clyburn-gives-his-reaction-to-dems-historic-midterm-win",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2187788378839132",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2187788378839132",
-      "fb_comment_id": "2187788378839132_1688010536361197",
-      "posted_at": "2026-11-06T21:26:27.006645+00:00"
-    },
-    "dvids-video:1028969": {
-      "title": "Fort McCoy holds 2026 Holiday Meal with installation community, Part 5",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112129620/DOD_112129620.mp4",
-      "attached_website_url": "https://ushotnews.online/article/stephen-millers-rise-to-chief-of-staff-indicates-trump-isnt-ready-to-move-on",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1960527145328360",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1960527145328360",
-      "fb_comment_id": "1960527145328360_2265258294087476",
-      "posted_at": "2026-11-07T01:45:31.896744+00:00"
-    },
     "dvids-video:1028985": {
       "title": "Oklahoma National Guard Best Warrior Competition Obstacle Course",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112129940/DOD_112129940.mp4",
@@ -133,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1659125992357060",
       "fb_comment_id": "1659125992357060_1479144510762692",
       "posted_at": "2026-11-09T20:35:26.439105+00:00"
+    },
+    "dvids-video:1029324": {
+      "title": "EOD Explosive Munitions Documentation and Disposal during Keen Sword 27: Clean",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112137372/DOD_112137372.mp4",
+      "attached_website_url": "https://ushotnews.online/article/court-filing-alleges-trump-adviser-received-cash-luxury-gifts-from-foreign-interests",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1716350730503663",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1716350730503663",
+      "fb_comment_id": "1716350730503663_1529890685619490",
+      "posted_at": "2026-11-10T04:01:17.008573+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-09T20:34:16.411921+00:00"
+  "last_cleaned_at": "2026-11-10T04:00:13.587285+00:00"
 }
