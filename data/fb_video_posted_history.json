@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-10T04:01:17.008628+00:00",
+  "last_updated": "2026-11-10T12:31:39.309167+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1028985": {
-      "title": "Oklahoma National Guard Best Warrior Competition Obstacle Course",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112129940/DOD_112129940.mp4",
-      "attached_website_url": "https://ushotnews.online/article/openai-valued-at-125-trillion-as-rival-anthropic-nears-its-ipo",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1131644183058497",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1131644183058497",
-      "fb_comment_id": "1131644183058497_1122708107183939",
-      "posted_at": "2026-11-07T08:36:49.565986+00:00"
-    },
     "dvids-video:1028992": {
       "title": "U.S. Army Pvt. Samuel Thomas discusses 2nd Squadron, 2d Cavalry Regiment’s live-fire A-Roll",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112130705/DOD_112130705.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1716350730503663",
       "fb_comment_id": "1716350730503663_1529890685619490",
       "posted_at": "2026-11-10T04:01:17.008573+00:00"
+    },
+    "dvids-video:1029344": {
+      "title": "ESG 7's U.S. Marine Corps 251st Birthday video",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112138113/DOD_112138113.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-democratic-partys-new-2028-powerbrokers",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2155131682057266",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2155131682057266",
+      "fb_comment_id": "2155131682057266_1475240117819342",
+      "posted_at": "2026-11-10T12:31:39.309107+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-10T04:00:13.587285+00:00"
+  "last_cleaned_at": "2026-11-10T12:30:14.892316+00:00"
 }
