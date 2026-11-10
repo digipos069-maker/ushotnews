@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-10T12:31:39.309167+00:00",
+  "last_updated": "2026-11-10T20:46:22.341736+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1028992": {
-      "title": "U.S. Army Pvt. Samuel Thomas discusses 2nd Squadron, 2d Cavalry Regiment’s live-fire A-Roll",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112130705/DOD_112130705.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1392172436080778",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1392172436080778",
-      "fb_comment_id": "1392172436080778_1404049184855422",
-      "posted_at": "2026-11-07T16:14:39.257932+00:00"
-    },
     "dvids-video:1028987": {
       "title": "U.S. Army Pacific hosts Global Tactical Acquisitions Directorate Accelerated Capability Event",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112130634/DOD_112130634.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2155131682057266",
       "fb_comment_id": "2155131682057266_1475240117819342",
       "posted_at": "2026-11-10T12:31:39.309107+00:00"
+    },
+    "dvids-video:1029438": {
+      "title": "Around the MHS - November 12, 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112139361/DOD_112139361.mp4",
+      "attached_website_url": "https://ushotnews.online/article/democrats-plot-their-course-on-national-popular-vote",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2182179149323007",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2182179149323007",
+      "fb_comment_id": "2182179149323007_1467760571951850",
+      "posted_at": "2026-11-10T20:46:22.341650+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-10T12:30:14.892316+00:00"
+  "last_cleaned_at": "2026-11-10T20:45:00.099745+00:00"
 }
