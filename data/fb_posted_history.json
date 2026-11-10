@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T11:32:15.728747+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-10T11:40:04.405919+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-6925a3102c": {
       "title": "Bernie Sanders thinks Medicare-for-all bill could pass, 'not absolutely certain' Trump would veto",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133579357471257",
       "fb_comment_id": "122133579357471257_1785275492590272",
       "posted_at": "2026-11-10T11:32:15.728681+00:00"
+    },
+    "scraped-462f151b53": {
+      "title": "Trump defends Pentagon chief as Massie targets him: 'Hegseth should be praised, not impeached'",
+      "slug": "trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
+      "url": "https://ushotnews.online/article/trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
+      "article_url": "https://ushotnews.online/article/trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133580935471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133580935471257",
+      "fb_comment_id": "122133580935471257_1576814672186300",
+      "posted_at": "2026-11-10T11:40:04.405854+00:00"
+    },
+    "trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached": {
+      "title": "Trump defends Pentagon chief as Massie targets him: 'Hegseth should be praised, not impeached'",
+      "slug": "trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
+      "url": "https://ushotnews.online/article/trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
+      "article_url": "https://ushotnews.online/article/trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133580935471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133580935471257",
+      "fb_comment_id": "122133580935471257_1576814672186300",
+      "posted_at": "2026-11-10T11:40:04.405854+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-10T11:32:05.959160+00:00"
+  "last_cleaned_at": "2026-11-10T11:39:48.532516+00:00"
 }
