@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-10T03:25:21.257427+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-11-10T11:32:15.728747+00:00",
+  "posted_count": 46,
   "articles": {
-    "scraped-c0d06ff8a2": {
-      "title": "US offers $20 million reward for information on Iran's nuclear program",
-      "slug": "us-offers-20-million-reward-for-information-on-irans-nuclear-program",
-      "url": "https://ushotnews.online/article/us-offers-20-million-reward-for-information-on-irans-nuclear-program",
-      "article_url": "https://ushotnews.online/article/us-offers-20-million-reward-for-information-on-irans-nuclear-program",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132585127471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132585127471257",
-      "fb_comment_id": "122132585127471257_28723388720686550",
-      "posted_at": "2026-11-07T09:10:19.307833+00:00"
-    },
-    "us-offers-20-million-reward-for-information-on-irans-nuclear-program": {
-      "title": "US offers $20 million reward for information on Iran's nuclear program",
-      "slug": "us-offers-20-million-reward-for-information-on-irans-nuclear-program",
-      "url": "https://ushotnews.online/article/us-offers-20-million-reward-for-information-on-irans-nuclear-program",
-      "article_url": "https://ushotnews.online/article/us-offers-20-million-reward-for-information-on-irans-nuclear-program",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132585127471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132585127471257",
-      "fb_comment_id": "122132585127471257_28723388720686550",
-      "posted_at": "2026-11-07T09:10:19.307833+00:00"
-    },
-    "scraped-a70cd20c02": {
-      "title": "49ers coach gives blunt reaction to disgruntled Brandon Aiyuk's return to team: 'I could care less'",
-      "slug": "49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
-      "url": "https://ushotnews.online/article/49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
-      "article_url": "https://ushotnews.online/article/49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132606505471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132606505471257",
-      "fb_comment_id": "122132606505471257_1121124400779010",
-      "posted_at": "2026-11-07T10:34:30.845213+00:00"
-    },
-    "49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care": {
-      "title": "49ers coach gives blunt reaction to disgruntled Brandon Aiyuk's return to team: 'I could care less'",
-      "slug": "49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
-      "url": "https://ushotnews.online/article/49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
-      "article_url": "https://ushotnews.online/article/49ers-coach-gives-blunt-reaction-to-disgruntled-brandon-aiyuks-return-to-team-i-could-care",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132606505471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132606505471257",
-      "fb_comment_id": "122132606505471257_1121124400779010",
-      "posted_at": "2026-11-07T10:34:30.845213+00:00"
-    },
     "scraped-6925a3102c": {
       "title": "Bernie Sanders thinks Medicare-for-all bill could pass, 'not absolutely certain' Trump would veto",
       "slug": "bernie-sanders-thinks-medicare-for-all-bill-could-pass-not-absolutely-certain-trump-would-",
@@ -529,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133451473471257",
       "fb_comment_id": "122133451473471257_2243151726234194",
       "posted_at": "2026-11-10T03:25:21.257349+00:00"
+    },
+    "scraped-fcc77e0837": {
+      "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "slug": "us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
+      "url": "https://ushotnews.online/article/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
+      "article_url": "https://ushotnews.online/article/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133579357471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133579357471257",
+      "fb_comment_id": "122133579357471257_1785275492590272",
+      "posted_at": "2026-11-10T11:32:15.728681+00:00"
+    },
+    "us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi": {
+      "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "slug": "us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
+      "url": "https://ushotnews.online/article/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
+      "article_url": "https://ushotnews.online/article/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133579357471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133579357471257",
+      "fb_comment_id": "122133579357471257_1785275492590272",
+      "posted_at": "2026-11-10T11:32:15.728681+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-10T03:25:09.751825+00:00"
+  "last_cleaned_at": "2026-11-10T11:32:05.959160+00:00"
 }
