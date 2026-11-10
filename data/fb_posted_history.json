@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T03:18:26.047144+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-10T03:25:21.257427+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-c0d06ff8a2": {
       "title": "US offers $20 million reward for information on Iran's nuclear program",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133450423471257",
       "fb_comment_id": "122133450423471257_5712318992326942",
       "posted_at": "2026-11-10T03:18:26.047085+00:00"
+    },
+    "scraped-7584b8011b": {
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "slug": "the-global-pledge-to-use-ai-for-climate-good-is-a-cruel-joke",
+      "url": "https://ushotnews.online/article/the-global-pledge-to-use-ai-for-climate-good-is-a-cruel-joke",
+      "article_url": "https://ushotnews.online/article/the-global-pledge-to-use-ai-for-climate-good-is-a-cruel-joke",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133451473471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133451473471257",
+      "fb_comment_id": "122133451473471257_2243151726234194",
+      "posted_at": "2026-11-10T03:25:21.257349+00:00"
+    },
+    "the-global-pledge-to-use-ai-for-climate-good-is-a-cruel-joke": {
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "slug": "the-global-pledge-to-use-ai-for-climate-good-is-a-cruel-joke",
+      "url": "https://ushotnews.online/article/the-global-pledge-to-use-ai-for-climate-good-is-a-cruel-joke",
+      "article_url": "https://ushotnews.online/article/the-global-pledge-to-use-ai-for-climate-good-is-a-cruel-joke",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133451473471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133451473471257",
+      "fb_comment_id": "122133451473471257_2243151726234194",
+      "posted_at": "2026-11-10T03:25:21.257349+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-10T03:18:17.289277+00:00"
+  "last_cleaned_at": "2026-11-10T03:25:09.751825+00:00"
 }
