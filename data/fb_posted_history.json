@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-11T00:11:09.169976+00:00",
+  "last_updated": "2026-11-11T00:34:02.374751+00:00",
   "posted_count": 42,
   "articles": {
-    "scraped-bf67aef661": {
-      "title": "Suspect who reportedly claimed to be LeBron James' son arrested for stalking at star's LA home, LAPD says",
-      "slug": "suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
-      "url": "https://ushotnews.online/article/suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
-      "article_url": "https://ushotnews.online/article/suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132761923471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132761923471257",
-      "fb_comment_id": "122132761923471257_2262643814518380",
-      "posted_at": "2026-11-08T00:13:41.146556+00:00"
-    },
-    "suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho": {
-      "title": "Suspect who reportedly claimed to be LeBron James' son arrested for stalking at star's LA home, LAPD says",
-      "slug": "suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
-      "url": "https://ushotnews.online/article/suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
-      "article_url": "https://ushotnews.online/article/suspect-who-reportedly-claimed-to-be-lebron-james-son-arrested-for-stalking-at-stars-la-ho",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132761923471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132761923471257",
-      "fb_comment_id": "122132761923471257_2262643814518380",
-      "posted_at": "2026-11-08T00:13:41.146556+00:00"
-    },
     "scraped-1119a9397a": {
       "title": "Paris agitators defy police orders, renew nationwide protests centered in Paris",
       "slug": "paris-agitators-defy-police-orders-renew-nationwide-protests-centered-in-paris",
@@ -463,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133760047471257",
       "fb_comment_id": "122133760047471257_2221919325407293",
       "posted_at": "2026-11-11T00:11:09.169922+00:00"
+    },
+    "scraped-9e0ee40283": {
+      "title": "Colts had Jonathan Taylor and Grover Stewart trade offers but didn't complete deals that eventually got pulled",
+      "slug": "colts-had-jonathan-taylor-and-grover-stewart-trade-offers-but-didnt-complete-deals-that-ev",
+      "url": "https://ushotnews.online/article/colts-had-jonathan-taylor-and-grover-stewart-trade-offers-but-didnt-complete-deals-that-ev",
+      "article_url": "https://ushotnews.online/article/colts-had-jonathan-taylor-and-grover-stewart-trade-offers-but-didnt-complete-deals-that-ev",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133764043471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133764043471257",
+      "fb_comment_id": "122133764043471257_1537148244890224",
+      "posted_at": "2026-11-11T00:34:02.374684+00:00"
+    },
+    "colts-had-jonathan-taylor-and-grover-stewart-trade-offers-but-didnt-complete-deals-that-ev": {
+      "title": "Colts had Jonathan Taylor and Grover Stewart trade offers but didn't complete deals that eventually got pulled",
+      "slug": "colts-had-jonathan-taylor-and-grover-stewart-trade-offers-but-didnt-complete-deals-that-ev",
+      "url": "https://ushotnews.online/article/colts-had-jonathan-taylor-and-grover-stewart-trade-offers-but-didnt-complete-deals-that-ev",
+      "article_url": "https://ushotnews.online/article/colts-had-jonathan-taylor-and-grover-stewart-trade-offers-but-didnt-complete-deals-that-ev",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133764043471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133764043471257",
+      "fb_comment_id": "122133764043471257_1537148244890224",
+      "posted_at": "2026-11-11T00:34:02.374684+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-11T00:11:01.841718+00:00"
+  "last_cleaned_at": "2026-11-11T00:33:49.937083+00:00"
 }
