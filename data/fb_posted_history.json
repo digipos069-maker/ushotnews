@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-11T07:41:36.233382+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-11-11T14:56:55.806371+00:00",
+  "posted_count": 40,
   "articles": {
-    "scraped-7e884ab224": {
-      "title": "JACKSON THOMPSON: Dana White says he'll meet with Trump amid claim of White House press secretary job offer",
-      "slug": "jackson-thompson-dana-white-says-hell-meet-with-trump-amid-claim-of-white-house-press-secr",
-      "url": "https://ushotnews.online/article/jackson-thompson-dana-white-says-hell-meet-with-trump-amid-claim-of-white-house-press-secr",
-      "article_url": "https://ushotnews.online/article/jackson-thompson-dana-white-says-hell-meet-with-trump-amid-claim-of-white-house-press-secr",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132910945471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132910945471257",
-      "fb_comment_id": "122132910945471257_1797088721517491",
-      "posted_at": "2026-11-08T13:13:01.724705+00:00"
-    },
-    "jackson-thompson-dana-white-says-hell-meet-with-trump-amid-claim-of-white-house-press-secr": {
-      "title": "JACKSON THOMPSON: Dana White says he'll meet with Trump amid claim of White House press secretary job offer",
-      "slug": "jackson-thompson-dana-white-says-hell-meet-with-trump-amid-claim-of-white-house-press-secr",
-      "url": "https://ushotnews.online/article/jackson-thompson-dana-white-says-hell-meet-with-trump-amid-claim-of-white-house-press-secr",
-      "article_url": "https://ushotnews.online/article/jackson-thompson-dana-white-says-hell-meet-with-trump-amid-claim-of-white-house-press-secr",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132910945471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132910945471257",
-      "fb_comment_id": "122132910945471257_1797088721517491",
-      "posted_at": "2026-11-08T13:13:01.724705+00:00"
-    },
-    "scraped-3b1f2e8603": {
-      "title": "There’s no slowing down media’s pivot-to-video 2.0",
-      "slug": "theres-no-slowing-down-medias-pivot-to-video-20",
-      "url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
-      "article_url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132922729471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132922729471257",
-      "fb_comment_id": "122132922729471257_2306904410086781",
-      "posted_at": "2026-11-08T14:05:46.243977+00:00"
-    },
-    "theres-no-slowing-down-medias-pivot-to-video-20": {
-      "title": "There’s no slowing down media’s pivot-to-video 2.0",
-      "slug": "theres-no-slowing-down-medias-pivot-to-video-20",
-      "url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
-      "article_url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122132922729471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122132922729471257",
-      "fb_comment_id": "122132922729471257_2306904410086781",
-      "posted_at": "2026-11-08T14:05:46.243977+00:00"
-    },
     "scraped-270489172d": {
       "title": "DAVID MARCUS: How Ashley Moody survived the blue tsunami and emerged as a GOP star.",
       "slug": "david-marcus-how-ashley-moody-survived-the-blue-tsunami-and-emerged-as-a-gop-star",
@@ -463,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133856587471257",
       "fb_comment_id": "122133856587471257_1821971505673593",
       "posted_at": "2026-11-11T07:41:36.233319+00:00"
+    },
+    "scraped-97e3116294": {
+      "title": "Volunteer musicians play songs for veterans who are hospitalized",
+      "slug": "volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+      "url": "https://ushotnews.online/article/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+      "article_url": "https://ushotnews.online/article/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133957915471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133957915471257",
+      "fb_comment_id": "122133957915471257_1152914540658140",
+      "posted_at": "2026-11-11T14:56:55.806301+00:00"
+    },
+    "volunteer-musicians-play-songs-for-veterans-who-are-hospitalized": {
+      "title": "Volunteer musicians play songs for veterans who are hospitalized",
+      "slug": "volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+      "url": "https://ushotnews.online/article/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+      "article_url": "https://ushotnews.online/article/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133957915471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133957915471257",
+      "fb_comment_id": "122133957915471257_1152914540658140",
+      "posted_at": "2026-11-11T14:56:55.806301+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-11T07:41:26.259182+00:00"
+  "last_cleaned_at": "2026-11-11T14:56:46.838626+00:00"
 }
