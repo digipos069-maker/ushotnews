@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T06:56:29.795059+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-11T07:41:36.233382+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-7e884ab224": {
       "title": "JACKSON THOMPSON: Dana White says he'll meet with Trump amid claim of White House press secretary job offer",
@@ -441,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133847149471257",
       "fb_comment_id": "122133847149471257_1079665105116148",
       "posted_at": "2026-11-11T06:56:29.794990+00:00"
+    },
+    "scraped-b167460a2a": {
+      "title": "Jaylen Brown repeatedly snubs ex-teammate Jayson Tatum as Celtics crush Sixers 'lambchops and some gravy'",
+      "slug": "jaylen-brown-repeatedly-snubs-ex-teammate-jayson-tatum-as-celtics-crush-sixers-lambchops-a",
+      "url": "https://ushotnews.online/article/jaylen-brown-repeatedly-snubs-ex-teammate-jayson-tatum-as-celtics-crush-sixers-lambchops-a",
+      "article_url": "https://ushotnews.online/article/jaylen-brown-repeatedly-snubs-ex-teammate-jayson-tatum-as-celtics-crush-sixers-lambchops-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133856587471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133856587471257",
+      "fb_comment_id": "122133856587471257_1821971505673593",
+      "posted_at": "2026-11-11T07:41:36.233319+00:00"
+    },
+    "jaylen-brown-repeatedly-snubs-ex-teammate-jayson-tatum-as-celtics-crush-sixers-lambchops-a": {
+      "title": "Jaylen Brown repeatedly snubs ex-teammate Jayson Tatum as Celtics crush Sixers 'lambchops and some gravy'",
+      "slug": "jaylen-brown-repeatedly-snubs-ex-teammate-jayson-tatum-as-celtics-crush-sixers-lambchops-a",
+      "url": "https://ushotnews.online/article/jaylen-brown-repeatedly-snubs-ex-teammate-jayson-tatum-as-celtics-crush-sixers-lambchops-a",
+      "article_url": "https://ushotnews.online/article/jaylen-brown-repeatedly-snubs-ex-teammate-jayson-tatum-as-celtics-crush-sixers-lambchops-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122133856587471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133856587471257",
+      "fb_comment_id": "122133856587471257_1821971505673593",
+      "posted_at": "2026-11-11T07:41:36.233319+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-11T06:56:18.017286+00:00"
+  "last_cleaned_at": "2026-11-11T07:41:26.259182+00:00"
 }
