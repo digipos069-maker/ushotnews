@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-11T01:48:45.098172+00:00",
+  "last_updated": "2026-11-11T09:07:21.484815+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029037": {
-      "title": "1st Special Forces Group (Airborne) conducts a Night Raid during Tahoma Strike",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112131543/DOD_112131543.mp4",
-      "attached_website_url": "https://ushotnews.online/article/homelessness-in-the-us-saw-its-largest-drop-in-more-than-a-decade-last-year",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2969772850044233",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2969772850044233",
-      "fb_comment_id": "2969772850044233_1878764820207313",
-      "posted_at": "2026-11-08T08:48:47.300062+00:00"
-    },
     "dvids-video:1029105": {
       "title": "Live burn firefighting training provides real world experience",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112132628/DOD_112132628.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2291235644776616",
       "fb_comment_id": "2291235644776616_1374460327933033",
       "posted_at": "2026-11-11T01:48:45.098107+00:00"
+    },
+    "dvids-video:1029478": {
+      "title": "31st Air Defense Artillery Brigade hosts Fall Fest at Fort Sill",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112140233/DOD_112140233.mp4",
+      "attached_website_url": "https://ushotnews.online/article/microsofts-dlss-competitor-is-out-for-the-xbox-ally-x-and-works-in-handheld-mode",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1454199203501869",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1454199203501869",
+      "fb_comment_id": "1454199203501869_1598705158965973",
+      "posted_at": "2026-11-11T09:07:21.484757+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-11T01:47:24.611906+00:00"
+  "last_cleaned_at": "2026-11-11T09:06:33.345407+00:00"
 }
