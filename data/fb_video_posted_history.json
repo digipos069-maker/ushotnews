@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-11T09:07:21.484815+00:00",
+  "last_updated": "2026-11-11T17:50:25.094411+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029105": {
-      "title": "Live burn firefighting training provides real world experience",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112132628/DOD_112132628.mp4",
-      "attached_website_url": "https://ushotnews.online/article/theres-no-slowing-down-medias-pivot-to-video-20",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1504725534835033",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1504725534835033",
-      "fb_comment_id": "1504725534835033_2690804794706785",
-      "posted_at": "2026-11-08T16:35:55.256694+00:00"
-    },
     "dvids-video:1029116": {
       "title": "Coast Guard rescues man from grounded sailboat in Lake Michigan",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112132896/DOD_112132896.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1454199203501869",
       "fb_comment_id": "1454199203501869_1598705158965973",
       "posted_at": "2026-11-11T09:07:21.484757+00:00"
+    },
+    "dvids-video:1029480": {
+      "title": "Running for Those Who Served: Arifjan 5K Marks Veterans Day",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112140998/DOD_112140998.mp4",
+      "attached_website_url": "https://ushotnews.online/article/business-leaders-and-washington-prepare-for-a-democratic-congress",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1821407929108530",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1821407929108530",
+      "fb_comment_id": "1821407929108530_1789937898939264",
+      "posted_at": "2026-11-11T17:50:25.094338+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-11T09:06:33.345407+00:00"
+  "last_cleaned_at": "2026-11-11T17:48:15.033725+00:00"
 }
