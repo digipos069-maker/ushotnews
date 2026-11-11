@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-11T21:47:01.674743+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-11T22:58:09.383031+00:00",
+  "posted_count": 38,
   "articles": {
-    "scraped-1cfadd4059": {
-      "title": "Fast-food chain that once lit up American roads still missed decades later",
-      "slug": "fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
-      "url": "https://ushotnews.online/article/fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
-      "article_url": "https://ushotnews.online/article/fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133008799471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133008799471257",
-      "fb_comment_id": "122133008799471257_1123448216959853",
-      "posted_at": "2026-11-08T22:25:14.252842+00:00"
-    },
-    "fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later": {
-      "title": "Fast-food chain that once lit up American roads still missed decades later",
-      "slug": "fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
-      "url": "https://ushotnews.online/article/fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
-      "article_url": "https://ushotnews.online/article/fast-food-chain-that-once-lit-up-american-roads-still-missed-decades-later",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133008799471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133008799471257",
-      "fb_comment_id": "122133008799471257_1123448216959853",
-      "posted_at": "2026-11-08T22:25:14.252842+00:00"
-    },
-    "scraped-ba7ba4bb3f": {
-      "title": "Week 10 AP Poll sees Georgia rightfully take over top spot while voters continue to award USC for no reason",
-      "slug": "week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
-      "url": "https://ushotnews.online/article/week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
-      "article_url": "https://ushotnews.online/article/week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133010551471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133010551471257",
-      "fb_comment_id": "122133010551471257_1095602389971596",
-      "posted_at": "2026-11-08T22:42:40.029205+00:00"
-    },
-    "week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-": {
-      "title": "Week 10 AP Poll sees Georgia rightfully take over top spot while voters continue to award USC for no reason",
-      "slug": "week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
-      "url": "https://ushotnews.online/article/week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
-      "article_url": "https://ushotnews.online/article/week-10-ap-poll-sees-georgia-rightfully-take-over-top-spot-while-voters-continue-to-award-",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133010551471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133010551471257",
-      "fb_comment_id": "122133010551471257_1095602389971596",
-      "posted_at": "2026-11-08T22:42:40.029205+00:00"
-    },
     "scraped-e1eb87bfc4": {
       "title": "Alligator attack on Florida mom sparks panicked 911 call: 'Her arm is gone'",
       "slug": "alligator-attack-on-florida-mom-sparks-panicked-911-call-her-arm-is-gone",
@@ -441,7 +397,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134045875471257",
       "fb_comment_id": "122134045875471257_1139440332137539",
       "posted_at": "2026-11-11T21:47:01.674646+00:00"
+    },
+    "scraped-b0df8ee1f2": {
+      "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+      "slug": "greetings-from-senegal-where-breakdancers-are-competing-in-the-youth-olympics",
+      "url": "https://ushotnews.online/article/greetings-from-senegal-where-breakdancers-are-competing-in-the-youth-olympics",
+      "article_url": "https://ushotnews.online/article/greetings-from-senegal-where-breakdancers-are-competing-in-the-youth-olympics",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134058013471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134058013471257",
+      "fb_comment_id": "122134058013471257_1158943990031602",
+      "posted_at": "2026-11-11T22:58:09.382969+00:00"
+    },
+    "greetings-from-senegal-where-breakdancers-are-competing-in-the-youth-olympics": {
+      "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+      "slug": "greetings-from-senegal-where-breakdancers-are-competing-in-the-youth-olympics",
+      "url": "https://ushotnews.online/article/greetings-from-senegal-where-breakdancers-are-competing-in-the-youth-olympics",
+      "article_url": "https://ushotnews.online/article/greetings-from-senegal-where-breakdancers-are-competing-in-the-youth-olympics",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134058013471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134058013471257",
+      "fb_comment_id": "122134058013471257_1158943990031602",
+      "posted_at": "2026-11-11T22:58:09.382969+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-11T21:46:49.790272+00:00"
+  "last_cleaned_at": "2026-11-11T22:57:59.156969+00:00"
 }
