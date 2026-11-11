@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-10T20:46:22.341736+00:00",
-  "posted_count": 11,
+  "last_updated": "2026-11-11T01:48:45.098172+00:00",
+  "posted_count": 10,
   "articles": {
-    "dvids-video:1028987": {
-      "title": "U.S. Army Pacific hosts Global Tactical Acquisitions Directorate Accelerated Capability Event",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112130634/DOD_112130634.mp4",
-      "attached_website_url": "https://ushotnews.online/article/why-this-gop-governor-thinks-his-party-got-worse-than-a-butt-whipping-on-tuesday",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "3699427110204653",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/3699427110204653",
-      "fb_comment_id": "3699427110204653_3462382457267678",
-      "posted_at": "2026-11-07T21:40:06.403912+00:00"
-    },
-    "dvids-video:1029029": {
-      "title": "The U.S. Army Parachute Team jumps for Salute to America in Space",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112131458/DOD_112131458.mp4",
-      "attached_website_url": "https://ushotnews.online/article/israels-president-taps-opposition-candidate-not-netanyahu-to-form-a-government",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1938922857516389",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1938922857516389",
-      "fb_comment_id": "1938922857516389_2300642767460648",
-      "posted_at": "2026-11-08T01:14:43.666176+00:00"
-    },
     "dvids-video:1029037": {
       "title": "1st Special Forces Group (Airborne) conducts a Night Raid during Tahoma Strike",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112131543/DOD_112131543.mp4",
@@ -122,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2182179149323007",
       "fb_comment_id": "2182179149323007_1467760571951850",
       "posted_at": "2026-11-10T20:46:22.341650+00:00"
+    },
+    "dvids-video:1029465": {
+      "title": "JPMRC Sustainment Hype Video",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112139878/DOD_112139878.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-playstation-plus-pc-app-is-shutting-down-next-month",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2291235644776616",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2291235644776616",
+      "fb_comment_id": "2291235644776616_1374460327933033",
+      "posted_at": "2026-11-11T01:48:45.098107+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-10T20:45:00.099745+00:00"
+  "last_cleaned_at": "2026-11-11T01:47:24.611906+00:00"
 }
