@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T18:42:46.551319+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-12T20:24:32.719501+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-0a06c6876f": {
       "title": "Gunman who killed 6 in Poland's Krakow square dies in hospital after police shootout",
@@ -441,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134326537471257",
       "fb_comment_id": "122134326537471257_1559736309248334",
       "posted_at": "2026-11-12T18:42:46.551249+00:00"
+    },
+    "scraped-92a6bc09c9": {
+      "title": "More game developers are starting to use generative AI",
+      "slug": "more-game-developers-are-starting-to-use-generative-ai",
+      "url": "https://ushotnews.online/article/more-game-developers-are-starting-to-use-generative-ai",
+      "article_url": "https://ushotnews.online/article/more-game-developers-are-starting-to-use-generative-ai",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134341447471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134341447471257",
+      "fb_comment_id": "122134341447471257_1128952330105377",
+      "posted_at": "2026-11-12T20:24:32.719437+00:00"
+    },
+    "more-game-developers-are-starting-to-use-generative-ai": {
+      "title": "More game developers are starting to use generative AI",
+      "slug": "more-game-developers-are-starting-to-use-generative-ai",
+      "url": "https://ushotnews.online/article/more-game-developers-are-starting-to-use-generative-ai",
+      "article_url": "https://ushotnews.online/article/more-game-developers-are-starting-to-use-generative-ai",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134341447471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134341447471257",
+      "fb_comment_id": "122134341447471257_1128952330105377",
+      "posted_at": "2026-11-12T20:24:32.719437+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-12T18:42:35.529431+00:00"
+  "last_cleaned_at": "2026-11-12T20:24:21.362344+00:00"
 }
