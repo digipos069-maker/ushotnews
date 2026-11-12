@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T12:31:55.492537+00:00",
-  "posted_count": 38,
+  "last_updated": "2026-11-12T18:42:46.551319+00:00",
+  "posted_count": 40,
   "articles": {
     "scraped-0a06c6876f": {
       "title": "Gunman who killed 6 in Poland's Krakow square dies in hospital after police shootout",
@@ -419,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134262235471257",
       "fb_comment_id": "122134262235471257_1420221136930072",
       "posted_at": "2026-11-12T12:31:55.492447+00:00"
+    },
+    "scraped-988e484f63": {
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "slug": "oh-palantir-is-progressive-now-is-it",
+      "url": "https://ushotnews.online/article/oh-palantir-is-progressive-now-is-it",
+      "article_url": "https://ushotnews.online/article/oh-palantir-is-progressive-now-is-it",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134326537471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134326537471257",
+      "fb_comment_id": "122134326537471257_1559736309248334",
+      "posted_at": "2026-11-12T18:42:46.551249+00:00"
+    },
+    "oh-palantir-is-progressive-now-is-it": {
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "slug": "oh-palantir-is-progressive-now-is-it",
+      "url": "https://ushotnews.online/article/oh-palantir-is-progressive-now-is-it",
+      "article_url": "https://ushotnews.online/article/oh-palantir-is-progressive-now-is-it",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134326537471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134326537471257",
+      "fb_comment_id": "122134326537471257_1559736309248334",
+      "posted_at": "2026-11-12T18:42:46.551249+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-12T12:31:46.653702+00:00"
+  "last_cleaned_at": "2026-11-12T18:42:35.529431+00:00"
 }
