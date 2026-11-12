@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-083160fbcd",
+    "slug": "mississippi-elects-democrat-scott-colom-to-senate-in-massive-upset",
+    "guid": "000001a1-ccb1-def8-a5f7-feb95f420000",
+    "title": "Mississippi elects Democrat Scott Colom to Senate in massive upset",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Colom's win is a boost to the Democratic Party as it seeks to gain a larger foothold in the South.",
+    "content": [
+      "Colom's win is a boost to the Democratic Party as it seeks to gain a larger foothold in the South.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/f4/33/9cfdeda046e192ac343499f1e7d8/gettyimages-2304500208-1.jpg",
+    "imageCaption": "Mississippi elects Democrat Scott Colom to Senate in massive... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T23:01:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7d8a886d85",
+    "slug": "united-wont-let-your-ai-agent-book-your-flight",
+    "guid": "https://www.theverge.com/?p=1031623",
+    "title": "United won’t let your AI agent book your flight",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+    "content": [
+      "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "United won’t let your AI agent book your flight... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T21:54:21+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2bfe660909",
+    "slug": "hands-on-with-home-assistants-new-smart-home-multi-tool",
+    "guid": "https://www.theverge.com/?p=1031601",
+    "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing [&#8230;]",
+    "content": [
+      "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Hands on with Home Assistant’s new ‘smart home multi-tool’... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T22:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-85aaf148c3",
+    "slug": "nvidia-is-reportedly-preparing-to-fire-jensen-huang",
+    "guid": "https://www.theverge.com/?p=1031652",
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+    "content": [
+      "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia is reportedly preparing to fire Jensen Huang... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T22:44:36+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d3386f96bb",
+    "slug": "democrat-scott-colom-wins-mississippi-senate-race",
+    "guid": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+    "title": "Democrat Scott Colom wins Mississippi Senate race",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
+    "content": [
+      "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Democrat Scott Colom wins Mississippi Senate race... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T23:04:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6a9abc31be",
+    "slug": "democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+    "guid": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+    "title": "Democrat Scott Colom wins the closest Senate race in the country",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.",
+    "content": [
+      "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Democrat Scott Colom wins the closest Senate race in the cou... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T23:33:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9433454d08",
+    "slug": "el-sayed-tells-hegseth-to-resign-after-impeachment-effort-fails-make-it-easy-for-everybody",
+    "guid": "https://www.foxnews.com/media/el-sayed-tells-hegseth-resign-after-democrats-derail-impeachment-effort-make-easy-everybody",
+    "title": "El-Sayed tells Hegseth to resign after impeachment effort fails: 'Make it easy for everybody'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Abdul El-Sayed told Secretary of War Pete Hegseth directly to resign on CNN, calling him really bad at his job and saying he has mishandled the war in Iran.",
+    "content": [
+      "Abdul El-Sayed told Secretary of War Pete Hegseth directly to resign on CNN, calling him really bad at his job and saying he has mishandled the war in Iran.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/EL-SAYED-HEGSETH-CNN.jpg?ve=1&tl=1",
+    "imageCaption": "El-Sayed tells Hegseth to resign after impeachment effort fa... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T01:17:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cf9ec09c59",
+    "slug": "bengals-coach-zac-taylor-acknowledges-fault-in-failed-trade-for-eagles-edge-rusher-arnold-",
+    "guid": "https://www.foxnews.com/outkick-sports/bengals-coach-zac-taylor-acknowledges-fault-failed-trade-eagles-edge-rusher-arnold-ebiketie",
+    "title": "Bengals coach Zac Taylor acknowledges fault in failed trade for Eagles edge rusher Arnold Ebiketie",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Zac Taylor revealed Duke Tobin&apos;s apology after a 2027 compensatory pick forfeiture derailed the Arnold Ebiketie trade with the Eagles at the deadline.",
+    "content": [
+      "Zac Taylor revealed Duke Tobin&apos;s apology after a 2027 compensatory pick forfeiture derailed the Arnold Ebiketie trade with the Eagles at the deadline.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/bengals-zac-taylor-remains-002.jpg?ve=1&tl=1",
+    "imageCaption": "Bengals coach Zac Taylor acknowledges fault in failed trade ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T01:35:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-092a0b3037",
+    "slug": "tunnel-to-towers-pays-off-mortgages-for-30-military-families-in-veterans-day-tribute-a-gre",
+    "guid": "https://www.foxnews.com/lifestyle/tunnel-towers-pays-mortgages-30-military-families-veterans-day-tribute-great-sacrifice",
+    "title": "Tunnel to Towers pays off mortgages for 30 military families in Veterans Day tribute: 'A great sacrifice'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tunnel to Towers Foundation announced mortgage payoffs for 30 Gold Star families on Veterans Day, part of its goal to deliver 343 homes in 2026.",
+    "content": [
+      "Tunnel to Towers Foundation announced mortgage payoffs for 30 Gold Star families on Veterans Day, part of its goal to deliver 343 homes in 2026.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/T4T-pays-mortgages-for-Veterans-Day.jpg?ve=1&tl=1",
+    "imageCaption": "Tunnel to Towers pays off mortgages for 30 military families... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T01:46:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1acee3a92e",
+    "slug": "rams-star-puka-nacua-out-for-an-extended-period-after-suffering-injury-on-final-play-of-wi",
+    "guid": "https://www.foxnews.com/outkick-sports/rams-star-puka-nacua-out-extended-period-after-suffering-injury-final-play-win",
+    "title": "Rams star Puka Nacua out for an 'extended period' after suffering injury on final play of win",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Puka Nacua sprained his MCL and PCL and sustained turf toe, and Los Angeles Rams head coach Sean McVay said he will be out for an extended period of time.",
+    "content": [
+      "Puka Nacua sprained his MCL and PCL and sustained turf toe, and Los Angeles Rams head coach Sean McVay said he will be out for an extended period of time.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/puka-nacua-locker-room-rams-commanders.jpg?ve=1&tl=1",
+    "imageCaption": "Rams star Puka Nacua out for an 'extended period' after suff... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T01:46:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-24efbf141f",
+    "slug": "twice-deported-united-cockpit-suspect-granted-asylum-after-transgender-persecution-claim-d",
+    "guid": "https://www.foxnews.com/politics/twice-deported-united-cockpit-suspect-granted-asylum-transgender-persecution-claim-dhs",
+    "title": "Twice-deported United cockpit suspect granted asylum after transgender persecution claim: DHS",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "DHS says a twice-deported Honduran national won asylum claiming transgender persecution before allegedly trying to storm a United Airlines cockpit.",
+    "content": [
+      "DHS says a twice-deported Honduran national won asylum claiming transgender persecution before allegedly trying to storm a United Airlines cockpit.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Twice-deported-United-attacker-claimed-to-be-transgender.jpg?ve=1&tl=1",
+    "imageCaption": "Twice-deported United cockpit suspect granted asylum after t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T02:03:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-445b2c9480",
+    "slug": "suspected-dui-driver-arrested-on-3-murder-counts-after-deadly-north-hollywood-crash-police",
+    "guid": "https://www.foxnews.com/us/suspected-dui-driver-arrested-3-murder-counts-after-deadly-north-hollywood-crash-police-say",
+    "title": "Suspected DUI driver arrested on 3 murder counts after deadly North Hollywood crash, police say",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A suspected 61-year-old DUI driver was arrested on three murder counts after a North Hollywood crash killed three women and injured two others.",
+    "content": [
+      "A suspected 61-year-old DUI driver was arrested on three murder counts after a North Hollywood crash killed three women and injured two others.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/los-angeles-car-crash-deadly.jpg?ve=1&tl=1",
+    "imageCaption": "Suspected DUI driver arrested on 3 murder counts after deadl... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T02:05:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5af31642f3",
+    "slug": "blue-states-elect-democrats-who-supported-permanent-cash-handout-policy-as-part-of-mayors-",
+    "guid": "https://www.foxnews.com/media/blue-states-elect-democrats-who-supported-permanent-cash-handout-policy-part-mayors-coalition",
+    "title": "Blue states elect Democrats who supported permanent cash handout policy as part of mayors coalition",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Five former Mayors for a Guaranteed Income coalition members won higher office, raising questions about direct cash assistance becoming permanent policy.",
+    "content": [
+      "Five former Mayors for a Guaranteed Income coalition members won higher office, raising questions about direct cash assistance becoming permanent policy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/keisha-lance-bottoms-november-2026.jpg?ve=1&tl=1",
+    "imageCaption": "Blue states elect Democrats who supported permanent cash han... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T02:06:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-73d1cfed95",
+    "slug": "titans-calvin-ridley-gives-his-side-of-nashville-airport-incident-with-valet-awaits-possib",
+    "guid": "https://www.foxnews.com/outkick-sports/titans-calvin-ridley-nashville-airport-incident-valet-awaits-possible-charges",
+    "title": "Titans' Calvin Ridley gives his side of Nashville airport 'incident' with valet, awaits possible charges",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Calvin Ridley said he took his keys from a Nashville airport valet&apos;s hand during a late-night dispute over a missing ticket, and the valet claimed a broken finger.",
+    "content": [
+      "Calvin Ridley said he took his keys from a Nashville airport valet&apos;s hand during a late-night dispute over a missing ticket, and the valet claimed a broken finger.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/calvin-ridley-titans-seahawks-preseason.jpg?ve=1&tl=1",
+    "imageCaption": "Titans' Calvin Ridley gives his side of Nashville airport 'i... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T02:21:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c2d82fee7c",
+    "slug": "jim-cramer-this-is-the-bet-youre-making-if-you-buy-the-anthropic-ipo",
+    "guid": "108549274",
+    "title": "Jim Cramer: This is the bet you're making if you buy the Anthropic IPO",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "CNBC's Jim Cramer said that Anthropic must sustain extraordinary growth to cover its mounting infrastructure costs.",
+    "content": [
+      "CNBC's Jim Cramer said that Anthropic must sustain extraordinary growth to cover its mounting infrastructure costs.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer: This is the bet you're making if you buy the Ant... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T23:30:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c0d0f4e9d9",
+    "slug": "jim-cramer-says-investors-need-to-pay-attention-to-coreweave-heres-why",
+    "guid": "108549373",
+    "title": "Jim Cramer says investors need to pay attention to CoreWeave. Here's why",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Cramer said he's becoming less skeptical of CoreWeave after strong earnings and reassuring comments from its CEO.",
+    "content": [
+      "Cramer said he's becoming less skeptical of CoreWeave after strong earnings and reassuring comments from its CEO.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jim Cramer says investors need to pay attention to CoreWeave... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T23:41:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2036de7f11",
+    "slug": "scott-colom-wins-mississippi-senate-election-over-incumbent-republican-hyde-smith",
+    "guid": "108549536",
+    "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
+    "content": [
+      "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Scott Colom wins Mississippi Senate election over incumbent ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T23:31:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5d5aef3ad9",
+    "slug": "cramers-stance-on-nvidias-stock-amid-reports-that-ceo-jensen-huang-may-be-ousted",
+    "guid": "108549562",
+    "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
+    "content": [
+      "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cramer's stance on Nvidia's stock amid reports that CEO Jens... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T01:14:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8a2f7c60c4",
+    "slug": "jensen-huang-affair-in-dc-resignation-calls-and-moves-to-tighten-nvidia-china-exports",
+    "guid": "108549304",
+    "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+    "content": [
+      "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jensen Huang affair in D.C.: Resignation calls and moves to ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-11T22:46:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-13f358b82f",
+    "slug": "nvidia-prepares-to-oust-jensen-huang-wsj-reports-stock-sinks",
+    "guid": "108549476",
+    "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+    "content": [
+      "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock si... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-12T00:21:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-0e1b5ceb85",
     "slug": "several-dem-women-leaned-into-their-identity-this-cycle-not-in-the-way-you-think",
     "guid": "000001a1-c7f4-def8-a5f7-f7fccc370000",
