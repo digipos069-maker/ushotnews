@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-11T17:50:25.094411+00:00",
+  "last_updated": "2026-11-12T00:23:48.745081+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029116": {
-      "title": "Coast Guard rescues man from grounded sailboat in Lake Michigan",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112132896/DOD_112132896.mp4",
-      "attached_website_url": "https://ushotnews.online/article/democratic-thrashing-redraws-the-map-of-state-power",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1119436387527300",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1119436387527300",
-      "fb_comment_id": "1119436387527300_2030287337655793",
-      "posted_at": "2026-11-08T21:55:09.064891+00:00"
-    },
     "dvids-video:1029115": {
       "title": "Army Aviator Exits Helicopter",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112132859/DOD_112132859.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1821407929108530",
       "fb_comment_id": "1821407929108530_1789937898939264",
       "posted_at": "2026-11-11T17:50:25.094338+00:00"
+    },
+    "dvids-video:1029517": {
+      "title": "2026 Beaufort Veterans Day Parade",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112141837/DOD_112141837.mp4",
+      "attached_website_url": "https://ushotnews.online/article/several-dem-women-leaned-into-their-identity-this-cycle-not-in-the-way-you-think",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2571080283380202",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2571080283380202",
+      "fb_comment_id": "2571080283380202_1831756227872965",
+      "posted_at": "2026-11-12T00:23:48.745019+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-11T17:48:15.033725+00:00"
+  "last_cleaned_at": "2026-11-12T00:22:19.279853+00:00"
 }
