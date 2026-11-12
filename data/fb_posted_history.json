@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T10:41:03.167683+00:00",
-  "posted_count": 36,
+  "last_updated": "2026-11-12T12:31:55.492537+00:00",
+  "posted_count": 38,
   "articles": {
     "scraped-0a06c6876f": {
       "title": "Gunman who killed 6 in Poland's Krakow square dies in hospital after police shootout",
@@ -397,7 +397,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134221597471257",
       "fb_comment_id": "122134221597471257_1138412312517926",
       "posted_at": "2026-11-12T10:41:03.167626+00:00"
+    },
+    "scraped-cccb7f3686": {
+      "title": "PATRICK K O’DONNELL: The untold story of America’s female Revolutionary sniper",
+      "slug": "patrick-k-odonnell-the-untold-story-of-americas-female-revolutionary-sniper",
+      "url": "https://ushotnews.online/article/patrick-k-odonnell-the-untold-story-of-americas-female-revolutionary-sniper",
+      "article_url": "https://ushotnews.online/article/patrick-k-odonnell-the-untold-story-of-americas-female-revolutionary-sniper",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134262235471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134262235471257",
+      "fb_comment_id": "122134262235471257_1420221136930072",
+      "posted_at": "2026-11-12T12:31:55.492447+00:00"
+    },
+    "patrick-k-odonnell-the-untold-story-of-americas-female-revolutionary-sniper": {
+      "title": "PATRICK K O’DONNELL: The untold story of America’s female Revolutionary sniper",
+      "slug": "patrick-k-odonnell-the-untold-story-of-americas-female-revolutionary-sniper",
+      "url": "https://ushotnews.online/article/patrick-k-odonnell-the-untold-story-of-americas-female-revolutionary-sniper",
+      "article_url": "https://ushotnews.online/article/patrick-k-odonnell-the-untold-story-of-americas-female-revolutionary-sniper",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134262235471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134262235471257",
+      "fb_comment_id": "122134262235471257_1420221136930072",
+      "posted_at": "2026-11-12T12:31:55.492447+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-12T10:40:53.643908+00:00"
+  "last_cleaned_at": "2026-11-12T12:31:46.653702+00:00"
 }
