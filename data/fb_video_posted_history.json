@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-12T00:23:48.745081+00:00",
-  "posted_count": 10,
+  "last_updated": "2026-11-12T09:35:52.322228+00:00",
+  "posted_count": 9,
   "articles": {
-    "dvids-video:1029115": {
-      "title": "Army Aviator Exits Helicopter",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112132859/DOD_112132859.mp4",
-      "attached_website_url": "https://ushotnews.online/article/apple-is-racing-to-make-siri-more-agentic",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1161098453293011",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1161098453293011",
-      "fb_comment_id": "1161098453293011_1626390319031481",
-      "posted_at": "2026-11-09T01:34:32.153615+00:00"
-    },
-    "dvids-video:1029165": {
-      "title": "HUBS: Autumn Wonders of West Coast Aomori",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112133662/DOD_112133662.mp4",
-      "attached_website_url": "https://ushotnews.online/article/heres-the-full-text-of-jensen-huangs-memo-to-nvidia",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "4566799960201172",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4566799960201172",
-      "fb_comment_id": "4566799960201172_1643161820635128",
-      "posted_at": "2026-11-09T09:30:34.883746+00:00"
-    },
     "dvids-video:1029253": {
       "title": "136th Airlift Wing Conducts Change of Command at NAS JRB Fort Worth",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112136013/DOD_112136013.mp4",
@@ -111,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2571080283380202",
       "fb_comment_id": "2571080283380202_1831756227872965",
       "posted_at": "2026-11-12T00:23:48.745019+00:00"
+    },
+    "dvids-video:1029547": {
+      "title": "Misawa Captain's Cup 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112142881/DOD_112142881.mp4",
+      "attached_website_url": "https://ushotnews.online/article/mississippi-elects-democrat-scott-colom-to-senate-in-massive-upset",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1457718190754281",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1457718190754281",
+      "fb_comment_id": "1457718190754281_3043495409329263",
+      "posted_at": "2026-11-12T09:35:52.322174+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-12T00:22:19.279853+00:00"
+  "last_cleaned_at": "2026-11-12T09:34:29.028184+00:00"
 }
