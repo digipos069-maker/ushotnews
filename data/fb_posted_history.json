@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-13T17:07:29.766909+00:00",
+  "last_updated": "2026-11-13T21:12:40.944301+00:00",
   "posted_count": 42,
   "articles": {
-    "scraped-25a0d3d25d": {
-      "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
-      "slug": "seven-days-of-chaos-in-the-er-how-this-countrys-healthcare-system-is-unraveling",
-      "url": "https://ushotnews.online/article/seven-days-of-chaos-in-the-er-how-this-countrys-healthcare-system-is-unraveling",
-      "article_url": "https://ushotnews.online/article/seven-days-of-chaos-in-the-er-how-this-countrys-healthcare-system-is-unraveling",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133706281471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133706281471257",
-      "fb_comment_id": "122133706281471257_1836764441082732",
-      "posted_at": "2026-11-10T19:37:44.940396+00:00"
-    },
-    "seven-days-of-chaos-in-the-er-how-this-countrys-healthcare-system-is-unraveling": {
-      "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
-      "slug": "seven-days-of-chaos-in-the-er-how-this-countrys-healthcare-system-is-unraveling",
-      "url": "https://ushotnews.online/article/seven-days-of-chaos-in-the-er-how-this-countrys-healthcare-system-is-unraveling",
-      "article_url": "https://ushotnews.online/article/seven-days-of-chaos-in-the-er-how-this-countrys-healthcare-system-is-unraveling",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133706281471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133706281471257",
-      "fb_comment_id": "122133706281471257_1836764441082732",
-      "posted_at": "2026-11-10T19:37:44.940396+00:00"
-    },
     "scraped-bcffe7b973": {
       "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
       "slug": "house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
@@ -463,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134659111471257",
       "fb_comment_id": "122134659111471257_1654034689519605",
       "posted_at": "2026-11-13T17:07:29.766835+00:00"
+    },
+    "scraped-2da1ab77c1": {
+      "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
+      "slug": "schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
+      "url": "https://ushotnews.online/article/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
+      "article_url": "https://ushotnews.online/article/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134711827471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134711827471257",
+      "fb_comment_id": "122134711827471257_4555578024690727",
+      "posted_at": "2026-11-13T21:12:40.944233+00:00"
+    },
+    "schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected": {
+      "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
+      "slug": "schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
+      "url": "https://ushotnews.online/article/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
+      "article_url": "https://ushotnews.online/article/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134711827471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134711827471257",
+      "fb_comment_id": "122134711827471257_4555578024690727",
+      "posted_at": "2026-11-13T21:12:40.944233+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-13T17:07:18.972304+00:00"
+  "last_cleaned_at": "2026-11-13T21:12:33.400889+00:00"
 }
