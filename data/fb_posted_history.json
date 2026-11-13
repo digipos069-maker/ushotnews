@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-13T08:41:56.190620+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-11-13T14:48:38.653241+00:00",
+  "posted_count": 40,
   "articles": {
-    "scraped-fcc77e0837": {
-      "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-      "slug": "us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-      "url": "https://ushotnews.online/article/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-      "article_url": "https://ushotnews.online/article/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133579357471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133579357471257",
-      "fb_comment_id": "122133579357471257_1785275492590272",
-      "posted_at": "2026-11-10T11:32:15.728681+00:00"
-    },
-    "us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi": {
-      "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
-      "slug": "us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-      "url": "https://ushotnews.online/article/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-      "article_url": "https://ushotnews.online/article/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133579357471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133579357471257",
-      "fb_comment_id": "122133579357471257_1785275492590272",
-      "posted_at": "2026-11-10T11:32:15.728681+00:00"
-    },
-    "scraped-462f151b53": {
-      "title": "Trump defends Pentagon chief as Massie targets him: 'Hegseth should be praised, not impeached'",
-      "slug": "trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
-      "url": "https://ushotnews.online/article/trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
-      "article_url": "https://ushotnews.online/article/trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133580935471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133580935471257",
-      "fb_comment_id": "122133580935471257_1576814672186300",
-      "posted_at": "2026-11-10T11:40:04.405854+00:00"
-    },
-    "trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached": {
-      "title": "Trump defends Pentagon chief as Massie targets him: 'Hegseth should be praised, not impeached'",
-      "slug": "trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
-      "url": "https://ushotnews.online/article/trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
-      "article_url": "https://ushotnews.online/article/trump-defends-pentagon-chief-as-massie-targets-him-hegseth-should-be-praised-not-impeached",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133580935471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133580935471257",
-      "fb_comment_id": "122133580935471257_1576814672186300",
-      "posted_at": "2026-11-10T11:40:04.405854+00:00"
-    },
     "scraped-25a0d3d25d": {
       "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
       "slug": "seven-days-of-chaos-in-the-er-how-this-countrys-healthcare-system-is-unraveling",
@@ -463,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134523301471257",
       "fb_comment_id": "122134523301471257_1135745369248196",
       "posted_at": "2026-11-13T08:41:56.190557+00:00"
+    },
+    "scraped-84ba29726d": {
+      "title": "Microsoft&#8217;s massive Outlook outage continues",
+      "slug": "microsoft8217s-massive-outlook-outage-continues",
+      "url": "https://ushotnews.online/article/microsoft8217s-massive-outlook-outage-continues",
+      "article_url": "https://ushotnews.online/article/microsoft8217s-massive-outlook-outage-continues",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134636317471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134636317471257",
+      "fb_comment_id": "122134636317471257_28793033253711819",
+      "posted_at": "2026-11-13T14:48:38.653174+00:00"
+    },
+    "microsoft8217s-massive-outlook-outage-continues": {
+      "title": "Microsoft&#8217;s massive Outlook outage continues",
+      "slug": "microsoft8217s-massive-outlook-outage-continues",
+      "url": "https://ushotnews.online/article/microsoft8217s-massive-outlook-outage-continues",
+      "article_url": "https://ushotnews.online/article/microsoft8217s-massive-outlook-outage-continues",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134636317471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134636317471257",
+      "fb_comment_id": "122134636317471257_28793033253711819",
+      "posted_at": "2026-11-13T14:48:38.653174+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-13T08:41:44.867038+00:00"
+  "last_cleaned_at": "2026-11-13T14:48:27.875194+00:00"
 }
