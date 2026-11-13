@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T14:48:38.653241+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-13T17:07:29.766909+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-25a0d3d25d": {
       "title": "Seven days of chaos in the ER: How this country's healthcare system is unraveling",
@@ -441,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134636317471257",
       "fb_comment_id": "122134636317471257_28793033253711819",
       "posted_at": "2026-11-13T14:48:38.653174+00:00"
+    },
+    "scraped-efc94ec1e9": {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "slug": "claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful",
+      "url": "https://ushotnews.online/article/claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful",
+      "article_url": "https://ushotnews.online/article/claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134659111471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134659111471257",
+      "fb_comment_id": "122134659111471257_1654034689519605",
+      "posted_at": "2026-11-13T17:07:29.766835+00:00"
+    },
+    "claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful": {
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "slug": "claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful",
+      "url": "https://ushotnews.online/article/claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful",
+      "article_url": "https://ushotnews.online/article/claudes-duet-agent-is-a-little-neurotic-and-surprisingly-helpful",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134659111471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134659111471257",
+      "fb_comment_id": "122134659111471257_1654034689519605",
+      "posted_at": "2026-11-13T17:07:29.766835+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-13T14:48:27.875194+00:00"
+  "last_cleaned_at": "2026-11-13T17:07:18.972304+00:00"
 }
