@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-13T17:37:30.440365+00:00",
+  "last_updated": "2026-11-13T23:27:55.720774+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029438": {
-      "title": "Around the MHS - November 12, 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112139361/DOD_112139361.mp4",
-      "attached_website_url": "https://ushotnews.online/article/democrats-plot-their-course-on-national-popular-vote",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2182179149323007",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2182179149323007",
-      "fb_comment_id": "2182179149323007_1467760571951850",
-      "posted_at": "2026-11-10T20:46:22.341650+00:00"
-    },
     "dvids-video:1029465": {
       "title": "JPMRC Sustainment Hype Video",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112139878/DOD_112139878.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1910221943279780",
       "fb_comment_id": "1910221943279780_1450384007262389",
       "posted_at": "2026-11-13T17:37:30.440306+00:00"
+    },
+    "dvids-video:1029796": {
+      "title": "Farmers in orchard",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112147416/DOD_112147416.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-new-apple-tv-has-a-youtube-problem",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "896553663485573",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/896553663485573",
+      "fb_comment_id": "896553663485573_1861634035179914",
+      "posted_at": "2026-11-13T23:27:55.720713+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-13T17:36:13.744135+00:00"
+  "last_cleaned_at": "2026-11-13T23:26:13.011905+00:00"
 }
