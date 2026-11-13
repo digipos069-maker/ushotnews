@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-12T18:03:08.367414+00:00",
+  "last_updated": "2026-11-13T00:58:59.665607+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029253": {
-      "title": "136th Airlift Wing Conducts Change of Command at NAS JRB Fort Worth",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112136013/DOD_112136013.mp4",
-      "attached_website_url": "https://ushotnews.online/article/new-vance-friendly-group-launching-to-push-gop-toward-younger-hardliners",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "1659125992357060",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1659125992357060",
-      "fb_comment_id": "1659125992357060_1479144510762692",
-      "posted_at": "2026-11-09T20:35:26.439105+00:00"
-    },
     "dvids-video:1029324": {
       "title": "EOD Explosive Munitions Documentation and Disposal during Keen Sword 27: Clean",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112137372/DOD_112137372.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1476911111060093",
       "fb_comment_id": "1476911111060093_4767689556851274",
       "posted_at": "2026-11-12T18:03:08.367350+00:00"
+    },
+    "dvids-video:1029626": {
+      "title": "South Dakota National Guard hosts ‘Day in the Life of a Soldier’ for local students",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112144112/DOD_112144112.mp4",
+      "attached_website_url": "https://ushotnews.online/article/palantirs-ceo-on-why-hes-the-most-popular-tech-ceo",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1109255005075156",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1109255005075156",
+      "fb_comment_id": "1109255005075156_1066847019706550",
+      "posted_at": "2026-11-13T00:58:59.665548+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-12T18:01:58.176443+00:00"
+  "last_cleaned_at": "2026-11-13T00:58:14.139555+00:00"
 }
