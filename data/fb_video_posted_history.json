@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-13T00:58:59.665607+00:00",
+  "last_updated": "2026-11-13T09:21:22.584480+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029324": {
-      "title": "EOD Explosive Munitions Documentation and Disposal during Keen Sword 27: Clean",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112137372/DOD_112137372.mp4",
-      "attached_website_url": "https://ushotnews.online/article/court-filing-alleges-trump-adviser-received-cash-luxury-gifts-from-foreign-interests",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1716350730503663",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1716350730503663",
-      "fb_comment_id": "1716350730503663_1529890685619490",
-      "posted_at": "2026-11-10T04:01:17.008573+00:00"
-    },
     "dvids-video:1029344": {
       "title": "ESG 7's U.S. Marine Corps 251st Birthday video",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112138113/DOD_112138113.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1109255005075156",
       "fb_comment_id": "1109255005075156_1066847019706550",
       "posted_at": "2026-11-13T00:58:59.665548+00:00"
+    },
+    "dvids-video:1029647": {
+      "title": "Firefighters Teach Fire Extinguisher Safety Class at CFAC",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112144664/DOD_112144664.mp4",
+      "attached_website_url": "https://ushotnews.online/article/mark-kelly-on-trump-the-iran-war-and-his-2028-decision",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1943548830385359",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1943548830385359",
+      "fb_comment_id": "1943548830385359_1524304486418680",
+      "posted_at": "2026-11-13T09:21:22.584423+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-13T00:58:14.139555+00:00"
+  "last_cleaned_at": "2026-11-13T09:20:25.316829+00:00"
 }
