@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T21:12:40.944301+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-11-13T22:48:47.425924+00:00",
+  "posted_count": 44,
   "articles": {
     "scraped-bcffe7b973": {
       "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
@@ -463,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134711827471257",
       "fb_comment_id": "122134711827471257_4555578024690727",
       "posted_at": "2026-11-13T21:12:40.944233+00:00"
+    },
+    "scraped-919512c102": {
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "slug": "whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "url": "https://ushotnews.online/article/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "article_url": "https://ushotnews.online/article/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134729095471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134729095471257",
+      "fb_comment_id": "122134729095471257_1698826885364757",
+      "posted_at": "2026-11-13T22:48:47.425853+00:00"
+    },
+    "whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are": {
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "slug": "whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "url": "https://ushotnews.online/article/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "article_url": "https://ushotnews.online/article/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134729095471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134729095471257",
+      "fb_comment_id": "122134729095471257_1698826885364757",
+      "posted_at": "2026-11-13T22:48:47.425853+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-13T21:12:33.400889+00:00"
+  "last_cleaned_at": "2026-11-13T22:48:40.689372+00:00"
 }
