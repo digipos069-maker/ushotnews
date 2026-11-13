@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-13T09:21:22.584480+00:00",
+  "last_updated": "2026-11-13T17:37:30.440365+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029344": {
-      "title": "ESG 7's U.S. Marine Corps 251st Birthday video",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112138113/DOD_112138113.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-democratic-partys-new-2028-powerbrokers",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2155131682057266",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2155131682057266",
-      "fb_comment_id": "2155131682057266_1475240117819342",
-      "posted_at": "2026-11-10T12:31:39.309107+00:00"
-    },
     "dvids-video:1029438": {
       "title": "Around the MHS - November 12, 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112139361/DOD_112139361.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1943548830385359",
       "fb_comment_id": "1943548830385359_1524304486418680",
       "posted_at": "2026-11-13T09:21:22.584423+00:00"
+    },
+    "dvids-video:1029747": {
+      "title": "Secretary of State Marco Rubio meets with Honduran President Nasry Asfura",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112146404/DOD_112146404.mp4",
+      "attached_website_url": "https://ushotnews.online/article/democrats-have-reached-a-détente-in-their-internal-war-will-it-last",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1910221943279780",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1910221943279780",
+      "fb_comment_id": "1910221943279780_1450384007262389",
+      "posted_at": "2026-11-13T17:37:30.440306+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-13T09:20:25.316829+00:00"
+  "last_cleaned_at": "2026-11-13T17:36:13.744135+00:00"
 }
