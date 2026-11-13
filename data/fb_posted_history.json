@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T06:14:10.971612+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-13T08:41:56.190620+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-fcc77e0837": {
       "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
@@ -441,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134495527471257",
       "fb_comment_id": "122134495527471257_1832073524504937",
       "posted_at": "2026-11-13T06:14:10.971543+00:00"
+    },
+    "scraped-dfe7011d30": {
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "slug": "here-are-the-25-original-xbox-games-you-can-now-play-on-pc",
+      "url": "https://ushotnews.online/article/here-are-the-25-original-xbox-games-you-can-now-play-on-pc",
+      "article_url": "https://ushotnews.online/article/here-are-the-25-original-xbox-games-you-can-now-play-on-pc",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134523301471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134523301471257",
+      "fb_comment_id": "122134523301471257_1135745369248196",
+      "posted_at": "2026-11-13T08:41:56.190557+00:00"
+    },
+    "here-are-the-25-original-xbox-games-you-can-now-play-on-pc": {
+      "title": "Here are the 25 original Xbox games you can now play on PC",
+      "slug": "here-are-the-25-original-xbox-games-you-can-now-play-on-pc",
+      "url": "https://ushotnews.online/article/here-are-the-25-original-xbox-games-you-can-now-play-on-pc",
+      "article_url": "https://ushotnews.online/article/here-are-the-25-original-xbox-games-you-can-now-play-on-pc",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134523301471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134523301471257",
+      "fb_comment_id": "122134523301471257_1135745369248196",
+      "posted_at": "2026-11-13T08:41:56.190557+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-13T06:14:02.181182+00:00"
+  "last_cleaned_at": "2026-11-13T08:41:44.867038+00:00"
 }
