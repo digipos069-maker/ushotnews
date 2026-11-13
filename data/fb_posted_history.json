@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T23:58:57.427159+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-13T01:26:04.979103+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-9d0589e70d": {
       "title": "Democrats could create 'angry' 'single-issue' voters in 2028 if they remove school choice, CEO warns",
@@ -441,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134402449471257",
       "fb_comment_id": "122134402449471257_1525058826196886",
       "posted_at": "2026-11-12T23:58:57.427101+00:00"
+    },
+    "scraped-a02e3af062": {
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "slug": "the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper",
+      "url": "https://ushotnews.online/article/the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper",
+      "article_url": "https://ushotnews.online/article/the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134430025471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134430025471257",
+      "fb_comment_id": "122134430025471257_2334446870730689",
+      "posted_at": "2026-11-13T01:26:04.979033+00:00"
+    },
+    "the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper": {
+      "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
+      "slug": "the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper",
+      "url": "https://ushotnews.online/article/the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper",
+      "article_url": "https://ushotnews.online/article/the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134430025471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134430025471257",
+      "fb_comment_id": "122134430025471257_2334446870730689",
+      "posted_at": "2026-11-13T01:26:04.979033+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-12T23:58:47.932121+00:00"
+  "last_cleaned_at": "2026-11-13T01:25:49.331885+00:00"
 }
