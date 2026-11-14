@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T01:35:24.103059+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-11-14T03:03:19.732450+00:00",
+  "posted_count": 44,
   "articles": {
     "scraped-30bb4df592": {
       "title": "Mullin vows ‘zero change’ on immigration after Republicans suffer crushing midterm losses",
@@ -463,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134757115471257",
       "fb_comment_id": "122134757115471257_1122711050741829",
       "posted_at": "2026-11-14T01:35:24.102970+00:00"
+    },
+    "scraped-2c8fa268ae": {
+      "title": "NBA and NHL teams scramble as nationwide FAA ground stop disrupts weekend sports travel",
+      "slug": "nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+      "url": "https://ushotnews.online/article/nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+      "article_url": "https://ushotnews.online/article/nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134772097471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134772097471257",
+      "fb_comment_id": "122134772097471257_2671476773294583",
+      "posted_at": "2026-11-14T03:03:19.732386+00:00"
+    },
+    "nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel": {
+      "title": "NBA and NHL teams scramble as nationwide FAA ground stop disrupts weekend sports travel",
+      "slug": "nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+      "url": "https://ushotnews.online/article/nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+      "article_url": "https://ushotnews.online/article/nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134772097471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134772097471257",
+      "fb_comment_id": "122134772097471257_2671476773294583",
+      "posted_at": "2026-11-14T03:03:19.732386+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-14T01:35:15.600038+00:00"
+  "last_cleaned_at": "2026-11-14T03:03:09.055006+00:00"
 }
