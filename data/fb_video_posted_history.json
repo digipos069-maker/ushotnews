@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-14T13:19:10.404624+00:00",
+  "last_updated": "2026-11-14T19:00:21.575464+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029480": {
-      "title": "Running for Those Who Served: Arifjan 5K Marks Veterans Day",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112140998/DOD_112140998.mp4",
-      "attached_website_url": "https://ushotnews.online/article/business-leaders-and-washington-prepare-for-a-democratic-congress",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1821407929108530",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1821407929108530",
-      "fb_comment_id": "1821407929108530_1789937898939264",
-      "posted_at": "2026-11-11T17:50:25.094338+00:00"
-    },
     "dvids-video:1029517": {
       "title": "2026 Beaufort Veterans Day Parade",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112141837/DOD_112141837.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1436452101970059",
       "fb_comment_id": "1436452101970059_1375867924444467",
       "posted_at": "2026-11-14T13:19:10.404542+00:00"
+    },
+    "dvids-video:1029823": {
+      "title": "Engaged Soldiers Send Thanksgiving Greetings from Kuwait",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148275/DOD_112148275.mp4",
+      "attached_website_url": "https://ushotnews.online/article/jensen-huang-and-the-decline-of-the-visionary-showman-founder-ceo",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1911338866497677",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1911338866497677",
+      "fb_comment_id": "1911338866497677_2607467233061688",
+      "posted_at": "2026-11-14T19:00:21.575403+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-14T13:17:46.631104+00:00"
+  "last_cleaned_at": "2026-11-14T18:59:24.461224+00:00"
 }
