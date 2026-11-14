@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-14T05:50:43.329080+00:00",
+  "last_updated": "2026-11-14T13:19:10.404624+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029478": {
-      "title": "31st Air Defense Artillery Brigade hosts Fall Fest at Fort Sill",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112140233/DOD_112140233.mp4",
-      "attached_website_url": "https://ushotnews.online/article/microsofts-dlss-competitor-is-out-for-the-xbox-ally-x-and-works-in-handheld-mode",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1454199203501869",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1454199203501869",
-      "fb_comment_id": "1454199203501869_1598705158965973",
-      "posted_at": "2026-11-11T09:07:21.484757+00:00"
-    },
     "dvids-video:1029480": {
       "title": "Running for Those Who Served: Arifjan 5K Marks Veterans Day",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112140998/DOD_112140998.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1341360524706642",
       "fb_comment_id": "1341360524706642_1837055884150011",
       "posted_at": "2026-11-14T05:50:43.329028+00:00"
+    },
+    "dvids-video:1029809": {
+      "title": "USS Jackson Hosts Ship Tours During Fleet Week San Diego",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112147676/DOD_112147676.mp4",
+      "attached_website_url": "https://ushotnews.online/article/democrat-jonathan-kreiss-tomkins-flips-alaskas-gubernatorial-seat",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1436452101970059",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1436452101970059",
+      "fb_comment_id": "1436452101970059_1375867924444467",
+      "posted_at": "2026-11-14T13:19:10.404542+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-14T05:50:16.102873+00:00"
+  "last_cleaned_at": "2026-11-14T13:17:46.631104+00:00"
 }
