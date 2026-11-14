@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T16:58:03.700542+00:00",
-  "posted_count": 44,
+  "last_updated": "2026-11-14T20:26:36.269761+00:00",
+  "posted_count": 46,
   "articles": {
     "scraped-91a7b20287": {
       "title": "What's behind democratic socialists' historic victories in the midterms?",
@@ -485,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134952877471257",
       "fb_comment_id": "122134952877471257_1131469189286054",
       "posted_at": "2026-11-14T16:58:03.700474+00:00"
+    },
+    "scraped-15caf9faf3": {
+      "title": "Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’",
+      "slug": "justice-alito-warns-america-must-preserve-3-core-principles-regardless-of-countrys-atmosph",
+      "url": "https://ushotnews.online/article/justice-alito-warns-america-must-preserve-3-core-principles-regardless-of-countrys-atmosph",
+      "article_url": "https://ushotnews.online/article/justice-alito-warns-america-must-preserve-3-core-principles-regardless-of-countrys-atmosph",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134993755471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134993755471257",
+      "fb_comment_id": "122134993755471257_1481998823794514",
+      "posted_at": "2026-11-14T20:26:36.269703+00:00"
+    },
+    "justice-alito-warns-america-must-preserve-3-core-principles-regardless-of-countrys-atmosph": {
+      "title": "Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’",
+      "slug": "justice-alito-warns-america-must-preserve-3-core-principles-regardless-of-countrys-atmosph",
+      "url": "https://ushotnews.online/article/justice-alito-warns-america-must-preserve-3-core-principles-regardless-of-countrys-atmosph",
+      "article_url": "https://ushotnews.online/article/justice-alito-warns-america-must-preserve-3-core-principles-regardless-of-countrys-atmosph",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134993755471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134993755471257",
+      "fb_comment_id": "122134993755471257_1481998823794514",
+      "posted_at": "2026-11-14T20:26:36.269703+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-14T16:57:54.684183+00:00"
+  "last_cleaned_at": "2026-11-14T20:26:27.288332+00:00"
 }
