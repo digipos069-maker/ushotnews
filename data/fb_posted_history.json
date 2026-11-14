@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-14T10:51:19.955532+00:00",
+  "last_updated": "2026-11-14T15:35:22.836959+00:00",
   "posted_count": 44,
   "articles": {
-    "scraped-97e3116294": {
-      "title": "Volunteer musicians play songs for veterans who are hospitalized",
-      "slug": "volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
-      "url": "https://ushotnews.online/article/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
-      "article_url": "https://ushotnews.online/article/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133957915471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133957915471257",
-      "fb_comment_id": "122133957915471257_1152914540658140",
-      "posted_at": "2026-11-11T14:56:55.806301+00:00"
-    },
-    "volunteer-musicians-play-songs-for-veterans-who-are-hospitalized": {
-      "title": "Volunteer musicians play songs for veterans who are hospitalized",
-      "slug": "volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
-      "url": "https://ushotnews.online/article/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
-      "article_url": "https://ushotnews.online/article/volunteer-musicians-play-songs-for-veterans-who-are-hospitalized",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122133957915471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122133957915471257",
-      "fb_comment_id": "122133957915471257_1152914540658140",
-      "posted_at": "2026-11-11T14:56:55.806301+00:00"
-    },
     "scraped-0943bf6a9d": {
       "title": "Apple is killing its Support Community forum next week",
       "slug": "apple-is-killing-its-support-community-forum-next-week",
@@ -485,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134871511471257",
       "fb_comment_id": "122134871511471257_1109885465298148",
       "posted_at": "2026-11-14T10:51:19.955425+00:00"
+    },
+    "scraped-ad26426b03": {
+      "title": "Meet the seven co-founders of Anthropic",
+      "slug": "meet-the-seven-co-founders-of-anthropic",
+      "url": "https://ushotnews.online/article/meet-the-seven-co-founders-of-anthropic",
+      "article_url": "https://ushotnews.online/article/meet-the-seven-co-founders-of-anthropic",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134939671471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134939671471257",
+      "fb_comment_id": "122134939671471257_1117514581067024",
+      "posted_at": "2026-11-14T15:35:22.836888+00:00"
+    },
+    "meet-the-seven-co-founders-of-anthropic": {
+      "title": "Meet the seven co-founders of Anthropic",
+      "slug": "meet-the-seven-co-founders-of-anthropic",
+      "url": "https://ushotnews.online/article/meet-the-seven-co-founders-of-anthropic",
+      "article_url": "https://ushotnews.online/article/meet-the-seven-co-founders-of-anthropic",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122134939671471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134939671471257",
+      "fb_comment_id": "122134939671471257_1117514581067024",
+      "posted_at": "2026-11-14T15:35:22.836888+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-14T10:51:11.415640+00:00"
+  "last_cleaned_at": "2026-11-14T15:35:13.180183+00:00"
 }
