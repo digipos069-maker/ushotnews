@@ -1,5 +1,745 @@
 [
   {
+    "id": "scraped-c867a9f5b0",
+    "slug": "trump-and-zohran-sitting-in-a-tree",
+    "guid": "000001a1-d6d1-def8-a5f7-f6d981f40000",
+    "title": "Trump and Zohran sitting in a tree…",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Trump and Zohran sitting in a tree…",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump and Zohran sitting in a tree…... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T21:55:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-067b31f8f0",
+    "slug": "faa-ground-stop-shuts-down-flights-nationwide",
+    "guid": "https://www.theverge.com/?p=1033489",
+    "title": "FAA ground stop shuts down flights nationwide",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of [&#8230;]",
+    "content": [
+      "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "FAA ground stop shuts down flights nationwide... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T23:47:27+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2de99421d9",
+    "slug": "amazon-has-a-plan-to-index-the-worlds-online-shopping-data",
+    "guid": "https://www.theverge.com/?p=1033697",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+    "content": [
+      "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Amazon has a plan to index the world’s online shopping data... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T23:49:11+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2e5a72eff8",
+    "slug": "the-government-says-it-will-close-a-beloved-dc-park-sunday-will-a-judge-step-in",
+    "guid": "https://www.npr.org/2026/11/13/nx-s1-6039273/east-po-hearing-nov-13",
+    "title": "The government says it will close a beloved D.C. park Sunday. Will a judge step in?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
+    "content": [
+      "Federal judge Ana Reyes grilled the government on Friday about its plans for East Potomac Park, and indicated she could order it to remain open despite President Trump's renovation wishes.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The government says it will close a beloved D.C. park Sunday... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T21:06:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1cfd517d5f",
+    "slug": "with-his-challenge-to-schumer-van-hollen-forces-a-debate-over-democrats-mandate",
+    "guid": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight",
+    "title": "With his challenge to Schumer, Van Hollen forces a debate over Democrats' mandate",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
+    "content": [
+      "Democrats say they have a mandate to deliver change, but as the party gets ready to retake the majority in both the House and Senate, there are divides over who should lead it.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "With his challenge to Schumer, Van Hollen forces a debate ov... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T21:06:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a14fc3ccc8",
+    "slug": "faa-issues-nationwide-ground-stop-for-all-us-airports",
+    "guid": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports",
+    "title": "FAA issues nationwide ground stop for all U.S. airports",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy.",
+    "content": [
+      "The FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "FAA issues nationwide ground stop for all U.S. airports... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T21:55:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7da35933b3",
+    "slug": "gop-state-officials-push-to-revive-trumps-mail-voting-restrictions-for-2028-election",
+    "guid": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+    "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+    "content": [
+      "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "GOP state officials push to revive Trump's mail voting restr... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T22:18:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0fa8194c78",
+    "slug": "stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+    "guid": "https://www.npr.org/2026/11/13/nx-s1-6040397/stuck-on-the-tarmac-without-information-travelers-share-their-ground-stop-experiences",
+    "title": "Stuck on the tarmac without information: Travelers share their ground stop experiences",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+    "content": [
+      "Passengers stuck on airplanes on tarmacs across the country during the FAA ground stop on Friday share their stories.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Stuck on the tarmac without information: Travelers share the... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T22:36:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0371b215e9",
+    "slug": "dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-us-amid-faa-ground-stop",
+    "guid": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+    "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+    "content": [
+      "Department of Homeland Security Secretary Markwayne Mullin spoke to at the White House on Friday afternoon after the FAA issues a total ground stop. NPR was there for the briefing.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "DHS head Markwayne Mullin says there is not a threat to the ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T22:36:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-085c327962",
+    "slug": "ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-tru",
+    "guid": "https://www.foxnews.com/media/ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-trump-job-offer",
+    "title": "UFC boss Dana White brushes off Democratic probe threats, recalls 'crazy 48 hours' around Trump job offer",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "UFC CEO Dana White told Lara Trump he has nothing to hide from post-midterm Democratic probes and recounted his crazy 48 hours around President Donald Trump&apos;s press secretary joke.",
+    "content": [
+      "UFC CEO Dana White told Lara Trump he has nothing to hide from post-midterm Democratic probes and recounted his crazy 48 hours around President Donald Trump&apos;s press secretary joke.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dana-white-trump-fox-news.png?ve=1&tl=1",
+    "imageCaption": "UFC boss Dana White brushes off Democratic probe threats, re... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T22:40:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ca835d08a7",
+    "slug": "faa-ground-stop-leaves-college-football-teams-stranded-on-eve-of-crucial-saturday-showdown",
+    "guid": "https://www.foxnews.com/outkick-sports/faa-ground-stop-leaves-college-football-teams-stranded-eve-crucial-saturday-showdowns",
+    "title": "FAA ground stop leaves College Football teams stranded on eve of crucial Saturday showdowns",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Texas, Tennessee, Utah and other top college football programs were grounded Friday as the FAA ground stop stranded teams before Saturday&apos;s games.",
+    "content": [
+      "Texas, Tennessee, Utah and other top college football programs were grounded Friday as the FAA ground stop stranded teams before Saturday&apos;s games.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/sark-featured-texas.jpg?ve=1&tl=1",
+    "imageCaption": "FAA ground stop leaves College Football teams stranded on ev... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T22:51:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-24d6c507f2",
+    "slug": "celebrity-and-humanitarian-advocates-of-persecuted-nigerian-christians-hope-for-continued-",
+    "guid": "https://www.foxnews.com/media/celebrity-humanitarian-advocates-persecuted-nigerian-christians-hope-continued-attention-crisis",
+    "title": "Celebrity and humanitarian advocates of persecuted Nigerian Christians hope for continued attention to crisis",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Advocates for persecuted Christians in Nigeria are concerned over lack of headlines and a potential change in support from DC after the midterms.",
+    "content": [
+      "Advocates for persecuted Christians in Nigeria are concerned over lack of headlines and a potential change in support from DC after the midterms.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/524/minaj-waltz-un-fox-news.jpg?ve=1&tl=1",
+    "imageCaption": "Celebrity and humanitarian advocates of persecuted Nigerian ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T23:00:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dca221c560",
+    "slug": "join-costco-now-and-get-a-45-gift-card-for-holiday-shopping",
+    "guid": "https://www.foxnews.com/deals/costco-membership-deal",
+    "title": "Join Costco now and get a $45 gift card for holiday shopping",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Costco&apos;s holiday deal gives new members a $45 gift card to put toward their holiday shopping. Here&apos;s everything you need to know about Costco memberships.",
+    "content": [
+      "Costco&apos;s holiday deal gives new members a $45 gift card to put toward their holiday shopping. Here&apos;s everything you need to know about Costco memberships.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/costco.png?ve=1&tl=1",
+    "imageCaption": "Join Costco now and get a $45 gift card for holiday shopping... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T23:02:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-af0c76d97b",
+    "slug": "mike-myers-teases-possible-political-nature-of-austin-powers-4-but-critic-warns-that-would",
+    "guid": "https://www.foxnews.com/media/mike-myers-teases-possible-political-nature-austin-powers-4-critic-warns-foolish",
+    "title": "Mike Myers teases possible political nature of 'Austin Powers 4,' but critic warns that would be ‘foolish’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Critic Christian Toto warns Mike Myers would be foolish to politicize Austin Powers 4, pointing to the franchise&apos;s apolitical comedy roots.",
+    "content": [
+      "Critic Christian Toto warns Mike Myers would be foolish to politicize Austin Powers 4, pointing to the franchise&apos;s apolitical comedy roots.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Austin-powers-movie-screenshot.png?ve=1&tl=1",
+    "imageCaption": "Mike Myers teases possible political nature of 'Austin Power... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T23:19:44+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8c266ca278",
+    "slug": "which-current-three-loss-team-would-be-the-most-dangerous-in-this-years-college-football-p",
+    "guid": "https://www.foxnews.com/outkick-sports/current-three-loss-team-most-dangerous-college-football-playoff",
+    "title": "Which current three-loss team would be the most dangerous in this year's College Football Playoff?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Oregon, South Carolina, Ohio State, Ole Miss and LSU all have three losses, but one team stands out as the most dangerous CFP contender this year.",
+    "content": [
+      "Oregon, South Carolina, Ohio State, Ole Miss and LSU all have three losses, but one team stands out as the most dangerous CFP contender this year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/dylan-raiola-oregon-ducks-usc-trojans.jpg?ve=1&tl=1",
+    "imageCaption": "Which current three-loss team would be the most dangerous in... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T23:22:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-86da17c1f7",
+    "slug": "bruce-arians-says-andrew-luck-had-a-rare-skill-that-even-peyton-manning-and-tom-brady-lack",
+    "guid": "https://www.foxnews.com/outkick-sports/bruce-arians-andrew-luck-rare-skill-peyton-manning-tom-brady-lacked",
+    "title": "Bruce Arians says Andrew Luck had a rare skill that even Peyton Manning and Tom Brady lacked",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Andrew Luck&apos;s photographic memory stunned Bruce Arians during his 2012 rookie season, setting the Colts QB apart from Peyton Manning&apos;s approach.",
+    "content": [
+      "Andrew Luck&apos;s photographic memory stunned Bruce Arians during his 2012 rookie season, setting the Colts QB apart from Peyton Manning&apos;s approach.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arians-luck.png?ve=1&tl=1",
+    "imageCaption": "Bruce Arians says Andrew Luck had a rare skill that even Pey... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T23:45:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2c8fa268ae",
+    "slug": "nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+    "guid": "https://www.foxnews.com/outkick-sports/nba-nhl-teams-scramble-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
+    "title": "NBA and NHL teams scramble as nationwide FAA ground stop disrupts weekend sports travel",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Millions of people face travel chaos from the nationwide FAA ground stop as NBA and NHL teams including the Nets and San Jose Sharks were stranded.",
+    "content": [
+      "Millions of people face travel chaos from the nationwide FAA ground stop as NBA and NHL teams including the Nets and San Jose Sharks were stranded.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/faa-groundstop-fox-news-004.jpg?ve=1&tl=1",
+    "imageCaption": "NBA and NHL teams scramble as nationwide FAA ground stop dis... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T01:20:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c43a546f84",
+    "slug": "spacex-launches-starship-in-key-test-flight-of-massive-rocket",
+    "guid": "108551182",
+    "title": "SpaceX launches Starship in key test flight of massive rocket",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+    "content": [
+      "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX launches Starship in key test flight of massive rocke... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T01:18:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d5cf246895",
+    "slug": "nvidia-is-done-with-jensen-huang-the-fallout-in-washington-is-just-beginning",
+    "guid": "108550434",
+    "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+    "content": [
+      "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia is done with Jensen Huang. The fallout in Washington ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-13T23:54:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-411defe1be",
+    "slug": "trump-doesnt-plan-to-raise-nvidia-spy-issue-during-china-trip-us-officials",
+    "guid": "108551510",
+    "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+    "content": [
+      "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump doesn’t plan to raise Nvidia, spy issue during China t... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T01:34:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-05274c1eea",
     "slug": "the-new-apple-tv-has-a-youtube-problem",
     "guid": "https://www.theverge.com/?p=1033076",
