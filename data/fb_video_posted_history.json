@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T19:00:21.575464+00:00",
-  "posted_count": 10,
+  "last_updated": "2026-11-14T23:47:57.520543+00:00",
+  "posted_count": 11,
   "articles": {
     "dvids-video:1029517": {
       "title": "2026 Beaufort Veterans Day Parade",
@@ -111,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1911338866497677",
       "fb_comment_id": "1911338866497677_2607467233061688",
       "posted_at": "2026-11-14T19:00:21.575403+00:00"
+    },
+    "dvids-video:1029846": {
+      "title": "71 Seconds: Supply",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148402/DOD_112148402.mp4",
+      "attached_website_url": "https://ushotnews.online/article/work-to-replace-old-copper-wire-led-to-the-faas-ground-stop",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1434422202142251",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1434422202142251",
+      "fb_comment_id": "1434422202142251_1768384875288493",
+      "posted_at": "2026-11-14T23:47:57.520482+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-14T18:59:24.461224+00:00"
+  "last_cleaned_at": "2026-11-14T23:47:03.496224+00:00"
 }
