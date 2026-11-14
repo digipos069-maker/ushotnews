@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T20:26:36.269761+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-14T21:21:44.675027+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-91a7b20287": {
       "title": "What's behind democratic socialists' historic victories in the midterms?",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134993755471257",
       "fb_comment_id": "122134993755471257_1481998823794514",
       "posted_at": "2026-11-14T20:26:36.269703+00:00"
+    },
+    "scraped-07e2df0d0b": {
+      "title": "FAA ground stop forces changes for TNA Wrestling's Destination X pay-per-view",
+      "slug": "faa-ground-stop-forces-changes-for-tna-wrestlings-destination-x-pay-per-view",
+      "url": "https://ushotnews.online/article/faa-ground-stop-forces-changes-for-tna-wrestlings-destination-x-pay-per-view",
+      "article_url": "https://ushotnews.online/article/faa-ground-stop-forces-changes-for-tna-wrestlings-destination-x-pay-per-view",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135001501471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135001501471257",
+      "fb_comment_id": "122135001501471257_1452728756261178",
+      "posted_at": "2026-11-14T21:21:44.674906+00:00"
+    },
+    "faa-ground-stop-forces-changes-for-tna-wrestlings-destination-x-pay-per-view": {
+      "title": "FAA ground stop forces changes for TNA Wrestling's Destination X pay-per-view",
+      "slug": "faa-ground-stop-forces-changes-for-tna-wrestlings-destination-x-pay-per-view",
+      "url": "https://ushotnews.online/article/faa-ground-stop-forces-changes-for-tna-wrestlings-destination-x-pay-per-view",
+      "article_url": "https://ushotnews.online/article/faa-ground-stop-forces-changes-for-tna-wrestlings-destination-x-pay-per-view",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135001501471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135001501471257",
+      "fb_comment_id": "122135001501471257_1452728756261178",
+      "posted_at": "2026-11-14T21:21:44.674906+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-14T20:26:27.288332+00:00"
+  "last_cleaned_at": "2026-11-14T21:21:35.149661+00:00"
 }
