@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-15T20:09:59.336051+00:00",
+  "last_updated": "2026-11-15T20:58:31.214677+00:00",
   "posted_count": 48,
   "articles": {
-    "scraped-92a6bc09c9": {
-      "title": "More game developers are starting to use generative AI",
-      "slug": "more-game-developers-are-starting-to-use-generative-ai",
-      "url": "https://ushotnews.online/article/more-game-developers-are-starting-to-use-generative-ai",
-      "article_url": "https://ushotnews.online/article/more-game-developers-are-starting-to-use-generative-ai",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122134341447471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134341447471257",
-      "fb_comment_id": "122134341447471257_1128952330105377",
-      "posted_at": "2026-11-12T20:24:32.719437+00:00"
-    },
-    "more-game-developers-are-starting-to-use-generative-ai": {
-      "title": "More game developers are starting to use generative AI",
-      "slug": "more-game-developers-are-starting-to-use-generative-ai",
-      "url": "https://ushotnews.online/article/more-game-developers-are-starting-to-use-generative-ai",
-      "article_url": "https://ushotnews.online/article/more-game-developers-are-starting-to-use-generative-ai",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122134341447471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134341447471257",
-      "fb_comment_id": "122134341447471257_1128952330105377",
-      "posted_at": "2026-11-12T20:24:32.719437+00:00"
-    },
     "scraped-bf4fa42885": {
       "title": "Chargers coach Jim Harbaugh tees off on Broncos for backing out of trade post deadline: 'Bad precedent'",
       "slug": "chargers-coach-jim-harbaugh-tees-off-on-broncos-for-backing-out-of-trade-post-deadline-bad",
@@ -529,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135301105471257",
       "fb_comment_id": "122135301105471257_1824009121974624",
       "posted_at": "2026-11-15T20:09:59.335982+00:00"
+    },
+    "scraped-7a945cf717": {
+      "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+      "slug": "new-orleans-port-sues-owners-of-tanker-involved-in-mississippi-crash",
+      "url": "https://ushotnews.online/article/new-orleans-port-sues-owners-of-tanker-involved-in-mississippi-crash",
+      "article_url": "https://ushotnews.online/article/new-orleans-port-sues-owners-of-tanker-involved-in-mississippi-crash",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135310567471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135310567471257",
+      "fb_comment_id": "122135310567471257_2985582778466557",
+      "posted_at": "2026-11-15T20:58:31.214593+00:00"
+    },
+    "new-orleans-port-sues-owners-of-tanker-involved-in-mississippi-crash": {
+      "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+      "slug": "new-orleans-port-sues-owners-of-tanker-involved-in-mississippi-crash",
+      "url": "https://ushotnews.online/article/new-orleans-port-sues-owners-of-tanker-involved-in-mississippi-crash",
+      "article_url": "https://ushotnews.online/article/new-orleans-port-sues-owners-of-tanker-involved-in-mississippi-crash",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135310567471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135310567471257",
+      "fb_comment_id": "122135310567471257_2985582778466557",
+      "posted_at": "2026-11-15T20:58:31.214593+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-15T20:09:49.170336+00:00"
+  "last_cleaned_at": "2026-11-15T20:58:21.419216+00:00"
 }
