@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T14:36:52.618460+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-15T15:50:47.564206+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-988e484f63": {
       "title": "Oh, Palantir is ‘progressive’ now, is it?",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135231841471257",
       "fb_comment_id": "122135231841471257_1677613694107800",
       "posted_at": "2026-11-15T14:36:52.618398+00:00"
+    },
+    "scraped-846cb347bf": {
+      "title": "Steelers and Bengals meet in AFC North showdown on Sunday Night Football with both teams at 6-2",
+      "slug": "steelers-and-bengals-meet-in-afc-north-showdown-on-sunday-night-football-with-both-teams-a",
+      "url": "https://ushotnews.online/article/steelers-and-bengals-meet-in-afc-north-showdown-on-sunday-night-football-with-both-teams-a",
+      "article_url": "https://ushotnews.online/article/steelers-and-bengals-meet-in-afc-north-showdown-on-sunday-night-football-with-both-teams-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135247513471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135247513471257",
+      "fb_comment_id": "122135247513471257_1127918039980982",
+      "posted_at": "2026-11-15T15:50:47.564125+00:00"
+    },
+    "steelers-and-bengals-meet-in-afc-north-showdown-on-sunday-night-football-with-both-teams-a": {
+      "title": "Steelers and Bengals meet in AFC North showdown on Sunday Night Football with both teams at 6-2",
+      "slug": "steelers-and-bengals-meet-in-afc-north-showdown-on-sunday-night-football-with-both-teams-a",
+      "url": "https://ushotnews.online/article/steelers-and-bengals-meet-in-afc-north-showdown-on-sunday-night-football-with-both-teams-a",
+      "article_url": "https://ushotnews.online/article/steelers-and-bengals-meet-in-afc-north-showdown-on-sunday-night-football-with-both-teams-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135247513471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135247513471257",
+      "fb_comment_id": "122135247513471257_1127918039980982",
+      "posted_at": "2026-11-15T15:50:47.564125+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-15T14:36:42.803485+00:00"
+  "last_cleaned_at": "2026-11-15T15:50:36.660237+00:00"
 }
