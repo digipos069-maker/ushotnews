@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T00:06:17.993180+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-15T01:15:12.736788+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-9433454d08": {
       "title": "El-Sayed tells Hegseth to resign after impeachment effort fails: 'Make it easy for everybody'",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135033901471257",
       "fb_comment_id": "122135033901471257_1853269265707073",
       "posted_at": "2026-11-15T00:06:17.993113+00:00"
+    },
+    "scraped-06c8da863e": {
+      "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
+      "slug": "kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
+      "url": "https://ushotnews.online/article/kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
+      "article_url": "https://ushotnews.online/article/kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135044425471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135044425471257",
+      "fb_comment_id": "122135044425471257_3616548611855713",
+      "posted_at": "2026-11-15T01:15:12.736724+00:00"
+    },
+    "kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so": {
+      "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
+      "slug": "kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
+      "url": "https://ushotnews.online/article/kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
+      "article_url": "https://ushotnews.online/article/kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135044425471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135044425471257",
+      "fb_comment_id": "122135044425471257_3616548611855713",
+      "posted_at": "2026-11-15T01:15:12.736724+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-15T00:06:08.796212+00:00"
+  "last_cleaned_at": "2026-11-15T01:15:04.009633+00:00"
 }
