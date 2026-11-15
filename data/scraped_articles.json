@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-00f41c10a4",
+    "slug": "watch-spacex-successfully-execute-the-first-chopstick-catch-of-starship",
+    "guid": "https://www.theverge.com/?p=1033930",
+    "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [&#8230;]",
+    "content": [
+      "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Watch SpaceX successfully execute the first ‘chopstick’ catc... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T21:44:44+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f309005de4",
+    "slug": "spacex-successfully-catches-starship-and-makes-history",
+    "guid": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+    "title": "SpaceX successfully catches Starship and makes history",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+    "content": [
+      "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX successfully catches Starship and makes history... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T21:42:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6e4e7dc88f",
+    "slug": "us-has-lost-measles-elimination-status-global-health-authorities-say",
+    "guid": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+    "title": "US has lost measles elimination status, global health authorities say",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+    "content": [
+      "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "US has lost measles elimination status, global health author... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T22:15:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9263546bb9",
+    "slug": "maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+    "guid": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
+    "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
+    "content": [
+      "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Maintenance gone awry caused nation-wide ground stop, says T... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T22:48:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-392908e49f",
+    "slug": "maher-challenges-sarah-huckabee-sanders-on-socialism-as-arkansas-governor-defends-free-sch",
+    "guid": "https://www.foxnews.com/media/maher-challenges-sarah-huckabee-sanders-socialism-arkansas-governor-defends-free-school-breakfasts",
+    "title": "Maher challenges Sarah Huckabee Sanders on 'socialism' as Arkansas governor defends free school breakfasts",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Arkansas Gov. Sarah Huckabee Sanders pushed back after Bill Maher asked why free school breakfasts count as socialism only when Democrats offer them.",
+    "content": [
+      "Arkansas Gov. Sarah Huckabee Sanders pushed back after Bill Maher asked why free school breakfasts count as socialism only when Democrats offer them.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/bill-maher-sarah-huckabee-sanders-split.jpg?ve=1&tl=1",
+    "imageCaption": "Maher challenges Sarah Huckabee Sanders on 'socialism' as Ar... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T21:17:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d969d9b362",
+    "slug": "ohio-states-jeremiah-smith-becomes-big-tens-all-time-leading-receiver-in-just-his-third-co",
+    "guid": "https://www.foxnews.com/outkick-sports/ohio-state-jeremiah-smith-becomes-big-ten-all-time-leading-receiver-third-college-season",
+    "title": "Ohio State's Jeremiah Smith becomes Big Ten's all-time leading receiver in just his third college season",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jeremiah Smith broke the Big Ten all-time receiving yards record in just three college seasons at Ohio State, surpassing Purdue&apos;s John Standeford.",
+    "content": [
+      "Jeremiah Smith broke the Big Ten all-time receiving yards record in just three college seasons at Ohio State, surpassing Purdue&apos;s John Standeford.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeremiah-smith-ohio-state-northwestern-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Ohio State's Jeremiah Smith becomes Big Ten's all-time leadi... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T21:30:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e338baabd3",
+    "slug": "tom-arnold-admits-he-hasnt-dated-in-nearly-10-years-after-calling-people-his-age-disgustin",
+    "guid": "https://www.foxnews.com/entertainment/tom-arnold-ready-date-again-nine-years-single-despite-thinking-age-disgusting",
+    "title": "Tom Arnold admits he hasn’t dated in nearly 10 years after calling people his age ‘disgusting’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tom Arnold reveals he hasn&apos;t dated in nearly ten years but says his My Crazy X-Wife comedy tour changed his outlook on finding love.",
+    "content": [
+      "Tom Arnold reveals he hasn&apos;t dated in nearly ten years but says his My Crazy X-Wife comedy tour changed his outlook on finding love.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tom-arnold.jpg?ve=1&tl=1",
+    "imageCaption": "Tom Arnold admits he hasn’t dated in nearly 10 years after c... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T21:43:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5217e1d4c6",
+    "slug": "trump-takes-parting-shot-at-dc-golf-course-conditions-one-day-before-major-overhaul-begins",
+    "guid": "https://www.foxnews.com/outkick-sports/trump-takes-parting-shot-dc-golf-course-conditions-one-day-before-major-overhaul-begins",
+    "title": "Trump takes parting shot at DC golf course conditions one day before major overhaul begins",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trump shared photos of what he calls Trash Island on Truth Social, blasting U.S. District Judge Ana Reyes for slowing the East Potomac overhaul.",
+    "content": [
+      "Trump shared photos of what he calls Trash Island on Truth Social, blasting U.S. District Judge Ana Reyes for slowing the East Potomac overhaul.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-course-split.png?ve=1&tl=1",
+    "imageCaption": "Trump takes parting shot at DC golf course conditions one da... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T21:55:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a48e11ecc2",
+    "slug": "iowa-state-running-back-has-massive-3-td-opening-quarter-caps-it-off-with-michael-jackson-",
+    "guid": "https://www.foxnews.com/outkick-sports/iowa-state-running-back-massive-3-td-opening-quarter-caps-michael-jackson-impression",
+    "title": "Iowa State running back has massive 3 TD opening quarter, caps it off with Michael Jackson impression",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Aiden Flora scored three first-quarter touchdowns and rushed for 216 yards as Iowa State routed the Cincinnati Bearcats 41-13 at Jack Trice Stadium.",
+    "content": [
+      "Aiden Flora scored three first-quarter touchdowns and rushed for 216 yards as Iowa State routed the Cincinnati Bearcats 41-13 at Jack Trice Stadium.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aiden-flora-mj.png?ve=1&tl=1",
+    "imageCaption": "Iowa State running back has massive 3 TD opening quarter, ca... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T22:22:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-968e1639e5",
+    "slug": "fetterman-warns-there-is-no-longer-common-ground-with-far-left-democrats-over-israel",
+    "guid": "https://www.foxnews.com/media/fetterman-warns-no-longer-common-ground-far-left-democrats-israel",
+    "title": "Fetterman warns there is no longer 'common ground' with far-left Democrats over Israel",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sen. John Fetterman says he no longer sees any common ground with the far left on Israel and calls his 2028 primary challenger Ahmed Moor pro-Hamas.",
+    "content": [
+      "Sen. John Fetterman says he no longer sees any common ground with the far left on Israel and calls his 2028 primary challenger Ahmed Moor pro-Hamas.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fetterman-senate-fox-news.png?ve=1&tl=1",
+    "imageCaption": "Fetterman warns there is no longer 'common ground' with far-... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T22:26:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-06c8da863e",
+    "slug": "kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
+    "guid": "https://www.foxnews.com/outkick-sports/kai-trump-opens-relationship-tiger-woods-mothers-boyfriend-love-him-so-much",
+    "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kai Trump revealed how Tiger Woods helps with her golf game, calling her mother Vanessa Trump&apos;s boyfriend the best in a Golfweek interview.",
+    "content": [
+      "Kai Trump revealed how Tiger Woods helps with her golf game, calling her mother Vanessa Trump&apos;s boyfriend the best in a Golfweek interview.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/tiger-kai.jpg?ve=1&tl=1",
+    "imageCaption": "Kai Trump opens up about relationship with Tiger Woods, her ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T22:50:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9e008a0a08",
+    "slug": "kathy-irelands-husband-escapes-burning-boat-after-engine-explodes-20-miles-offshore",
+    "guid": "https://www.foxnews.com/entertainment/kathy-irelands-husband-escapes-burning-boat-after-engine-explodes-20-miles-offshore",
+    "title": "Kathy Ireland’s husband escapes burning boat after engine explodes 20 miles offshore",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kathy Ireland shared dramatic footage of husband Greg Olsen&apos;s boat engulfed in flames after an engine explosion 20 miles west of Santa Barbara.",
+    "content": [
+      "Kathy Ireland shared dramatic footage of husband Greg Olsen&apos;s boat engulfed in flames after an engine explosion 20 miles west of Santa Barbara.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kathy-ireland-gold.jpg?ve=1&tl=1",
+    "imageCaption": "Kathy Ireland’s husband escapes burning boat after engine ex... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T23:00:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-67a0f0ddbd",
+    "slug": "root-cause-of-nationwide-ground-stop-is-unknown-faa-says",
+    "guid": "108551607",
+    "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Routers and networking equipment may be involved in the problems that led to the ground stop, but a definitive cause has not been established, officials said.",
+    "content": [
+      "Routers and networking equipment may be involved in the problems that led to the ground stop, but a definitive cause has not been established, officials said.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'Root cause’ of nationwide ground stop is unknown, FAA says... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T22:54:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1f7c9aba88",
+    "slug": "spacex-catches-upper-stage-of-starship-rocket-in-historic-first",
+    "guid": "108551585",
+    "title": "SpaceX catches upper stage of Starship rocket in historic first",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+    "content": [
+      "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX catches upper stage of Starship rocket in historic fi... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-14T23:10:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-8595abe280",
     "slug": "work-to-replace-old-copper-wire-led-to-the-faas-ground-stop",
     "guid": "https://www.theverge.com/?p=1033898",
