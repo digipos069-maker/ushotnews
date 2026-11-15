@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-15T05:51:45.965666+00:00",
+  "last_updated": "2026-11-15T13:46:49.797946+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1029547": {
-      "title": "Misawa Captain's Cup 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112142881/DOD_112142881.mp4",
-      "attached_website_url": "https://ushotnews.online/article/mississippi-elects-democrat-scott-colom-to-senate-in-massive-upset",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1457718190754281",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1457718190754281",
-      "fb_comment_id": "1457718190754281_3043495409329263",
-      "posted_at": "2026-11-12T09:35:52.322174+00:00"
-    },
     "dvids-video:1029585": {
       "title": "Dynamic Victory live fire in GTA",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112143280/DOD_112143280.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2560742444435841",
       "fb_comment_id": "2560742444435841_2016176495714680",
       "posted_at": "2026-11-15T05:51:45.965568+00:00"
+    },
+    "dvids-video:1029852": {
+      "title": "Kadena welcomes first permanently assigned F-15EX Eagle II aircraft",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148678/DOD_112148678.mp4",
+      "attached_website_url": "https://ushotnews.online/article/florida-city-cancels-st-patricks-day-parade-citing-new-anti-dei-law",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1713976653727788",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1713976653727788",
+      "fb_comment_id": "1713976653727788_1867066711090665",
+      "posted_at": "2026-11-15T13:46:49.797883+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-15T05:51:16.889521+00:00"
+  "last_cleaned_at": "2026-11-15T13:45:24.750544+00:00"
 }
