@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T06:57:30.207111+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-15T08:23:16.530816+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-2adfe65ee8": {
       "title": "Kennedy Center plans Ticketmaster switch, raising conflict of interest concerns",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135107419471257",
       "fb_comment_id": "122135107419471257_2200489114229880",
       "posted_at": "2026-11-15T06:57:30.207057+00:00"
+    },
+    "scraped-e338baabd3": {
+      "title": "Tom Arnold admits he hasn’t dated in nearly 10 years after calling people his age ‘disgusting’",
+      "slug": "tom-arnold-admits-he-hasnt-dated-in-nearly-10-years-after-calling-people-his-age-disgustin",
+      "url": "https://ushotnews.online/article/tom-arnold-admits-he-hasnt-dated-in-nearly-10-years-after-calling-people-his-age-disgustin",
+      "article_url": "https://ushotnews.online/article/tom-arnold-admits-he-hasnt-dated-in-nearly-10-years-after-calling-people-his-age-disgustin",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135121159471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135121159471257",
+      "fb_comment_id": "122135121159471257_1851488562837633",
+      "posted_at": "2026-11-15T08:23:16.530732+00:00"
+    },
+    "tom-arnold-admits-he-hasnt-dated-in-nearly-10-years-after-calling-people-his-age-disgustin": {
+      "title": "Tom Arnold admits he hasn’t dated in nearly 10 years after calling people his age ‘disgusting’",
+      "slug": "tom-arnold-admits-he-hasnt-dated-in-nearly-10-years-after-calling-people-his-age-disgustin",
+      "url": "https://ushotnews.online/article/tom-arnold-admits-he-hasnt-dated-in-nearly-10-years-after-calling-people-his-age-disgustin",
+      "article_url": "https://ushotnews.online/article/tom-arnold-admits-he-hasnt-dated-in-nearly-10-years-after-calling-people-his-age-disgustin",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135121159471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135121159471257",
+      "fb_comment_id": "122135121159471257_1851488562837633",
+      "posted_at": "2026-11-15T08:23:16.530732+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-15T06:57:22.569274+00:00"
+  "last_cleaned_at": "2026-11-15T08:23:08.355816+00:00"
 }
