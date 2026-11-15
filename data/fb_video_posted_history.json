@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-15T13:46:49.797946+00:00",
+  "last_updated": "2026-11-15T19:40:11.987170+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1029585": {
-      "title": "Dynamic Victory live fire in GTA",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112143280/DOD_112143280.mp4",
-      "attached_website_url": "https://ushotnews.online/article/worlds-fastest-ocean-liner-is-sunk-to-break-another-record-largest-artificial-reef",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1476911111060093",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1476911111060093",
-      "fb_comment_id": "1476911111060093_4767689556851274",
-      "posted_at": "2026-11-12T18:03:08.367350+00:00"
-    },
     "dvids-video:1029626": {
       "title": "South Dakota National Guard hosts ‘Day in the Life of a Soldier’ for local students",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112144112/DOD_112144112.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1713976653727788",
       "fb_comment_id": "1713976653727788_1867066711090665",
       "posted_at": "2026-11-15T13:46:49.797883+00:00"
+    },
+    "dvids-video:1029874": {
+      "title": "3rd Infantry Division brings Army aviation to NASCAR Cup Series Championship.",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112149489/DOD_112149489.mp4",
+      "attached_website_url": "https://ushotnews.online/article/an-overview-of-jensen-huangs-messy-days",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1838877537320424",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1838877537320424",
+      "fb_comment_id": "1838877537320424_3004423816564446",
+      "posted_at": "2026-11-15T19:40:11.987097+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-15T13:45:24.750544+00:00"
+  "last_cleaned_at": "2026-11-15T19:39:23.302655+00:00"
 }
