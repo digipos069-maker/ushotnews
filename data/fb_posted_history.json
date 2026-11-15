@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-15T15:50:47.564206+00:00",
+  "last_updated": "2026-11-15T20:09:59.336051+00:00",
   "posted_count": 48,
   "articles": {
-    "scraped-988e484f63": {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "slug": "oh-palantir-is-progressive-now-is-it",
-      "url": "https://ushotnews.online/article/oh-palantir-is-progressive-now-is-it",
-      "article_url": "https://ushotnews.online/article/oh-palantir-is-progressive-now-is-it",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122134326537471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134326537471257",
-      "fb_comment_id": "122134326537471257_1559736309248334",
-      "posted_at": "2026-11-12T18:42:46.551249+00:00"
-    },
-    "oh-palantir-is-progressive-now-is-it": {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "slug": "oh-palantir-is-progressive-now-is-it",
-      "url": "https://ushotnews.online/article/oh-palantir-is-progressive-now-is-it",
-      "article_url": "https://ushotnews.online/article/oh-palantir-is-progressive-now-is-it",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122134326537471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134326537471257",
-      "fb_comment_id": "122134326537471257_1559736309248334",
-      "posted_at": "2026-11-12T18:42:46.551249+00:00"
-    },
     "scraped-92a6bc09c9": {
       "title": "More game developers are starting to use generative AI",
       "slug": "more-game-developers-are-starting-to-use-generative-ai",
@@ -529,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135247513471257",
       "fb_comment_id": "122135247513471257_1127918039980982",
       "posted_at": "2026-11-15T15:50:47.564125+00:00"
+    },
+    "scraped-cf840b597d": {
+      "title": "Taylor Swift’s husband Travis Kelce injures ankle against Falcons, returns to game",
+      "slug": "taylor-swifts-husband-travis-kelce-injures-ankle-against-falcons-returns-to-game",
+      "url": "https://ushotnews.online/article/taylor-swifts-husband-travis-kelce-injures-ankle-against-falcons-returns-to-game",
+      "article_url": "https://ushotnews.online/article/taylor-swifts-husband-travis-kelce-injures-ankle-against-falcons-returns-to-game",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135301105471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135301105471257",
+      "fb_comment_id": "122135301105471257_1824009121974624",
+      "posted_at": "2026-11-15T20:09:59.335982+00:00"
+    },
+    "taylor-swifts-husband-travis-kelce-injures-ankle-against-falcons-returns-to-game": {
+      "title": "Taylor Swift’s husband Travis Kelce injures ankle against Falcons, returns to game",
+      "slug": "taylor-swifts-husband-travis-kelce-injures-ankle-against-falcons-returns-to-game",
+      "url": "https://ushotnews.online/article/taylor-swifts-husband-travis-kelce-injures-ankle-against-falcons-returns-to-game",
+      "article_url": "https://ushotnews.online/article/taylor-swifts-husband-travis-kelce-injures-ankle-against-falcons-returns-to-game",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135301105471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135301105471257",
+      "fb_comment_id": "122135301105471257_1824009121974624",
+      "posted_at": "2026-11-15T20:09:59.335982+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-15T15:50:36.660237+00:00"
+  "last_cleaned_at": "2026-11-15T20:09:49.170336+00:00"
 }
