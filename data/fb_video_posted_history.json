@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-16T05:51:25.210182+00:00",
+  "last_updated": "2026-11-16T15:24:41.614145+00:00",
   "posted_count": 12,
   "articles": {
-    "dvids-video:1029647": {
-      "title": "Firefighters Teach Fire Extinguisher Safety Class at CFAC",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112144664/DOD_112144664.mp4",
-      "attached_website_url": "https://ushotnews.online/article/mark-kelly-on-trump-the-iran-war-and-his-2028-decision",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1943548830385359",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1943548830385359",
-      "fb_comment_id": "1943548830385359_1524304486418680",
-      "posted_at": "2026-11-13T09:21:22.584423+00:00"
-    },
     "dvids-video:1029747": {
       "title": "Secretary of State Marco Rubio meets with Honduran President Nasry Asfura",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112146404/DOD_112146404.mp4",
@@ -133,7 +122,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1123068190615393",
       "fb_comment_id": "1123068190615393_40002750902701830",
       "posted_at": "2026-11-16T05:51:25.210117+00:00"
+    },
+    "dvids-video:1029975": {
+      "title": "Guardian Arena IV Hype Video",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112150983/DOD_112150983.mp4",
+      "attached_website_url": "https://ushotnews.online/article/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1466999415370002",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1466999415370002",
+      "fb_comment_id": "1466999415370002_2222840758663403",
+      "posted_at": "2026-11-16T15:24:41.614086+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-16T05:50:45.068246+00:00"
+  "last_cleaned_at": "2026-11-16T15:23:39.379273+00:00"
 }
