@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-15T20:58:31.214677+00:00",
+  "last_updated": "2026-11-16T00:10:45.162082+00:00",
   "posted_count": 48,
   "articles": {
-    "scraped-bf4fa42885": {
-      "title": "Chargers coach Jim Harbaugh tees off on Broncos for backing out of trade post deadline: 'Bad precedent'",
-      "slug": "chargers-coach-jim-harbaugh-tees-off-on-broncos-for-backing-out-of-trade-post-deadline-bad",
-      "url": "https://ushotnews.online/article/chargers-coach-jim-harbaugh-tees-off-on-broncos-for-backing-out-of-trade-post-deadline-bad",
-      "article_url": "https://ushotnews.online/article/chargers-coach-jim-harbaugh-tees-off-on-broncos-for-backing-out-of-trade-post-deadline-bad",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122134402449471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134402449471257",
-      "fb_comment_id": "122134402449471257_1525058826196886",
-      "posted_at": "2026-11-12T23:58:57.427101+00:00"
-    },
-    "chargers-coach-jim-harbaugh-tees-off-on-broncos-for-backing-out-of-trade-post-deadline-bad": {
-      "title": "Chargers coach Jim Harbaugh tees off on Broncos for backing out of trade post deadline: 'Bad precedent'",
-      "slug": "chargers-coach-jim-harbaugh-tees-off-on-broncos-for-backing-out-of-trade-post-deadline-bad",
-      "url": "https://ushotnews.online/article/chargers-coach-jim-harbaugh-tees-off-on-broncos-for-backing-out-of-trade-post-deadline-bad",
-      "article_url": "https://ushotnews.online/article/chargers-coach-jim-harbaugh-tees-off-on-broncos-for-backing-out-of-trade-post-deadline-bad",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122134402449471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134402449471257",
-      "fb_comment_id": "122134402449471257_1525058826196886",
-      "posted_at": "2026-11-12T23:58:57.427101+00:00"
-    },
     "scraped-a02e3af062": {
       "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
       "slug": "the-oura-ring-4-is-almost-as-good-as-the-newer-model-but-150-cheaper",
@@ -529,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135310567471257",
       "fb_comment_id": "122135310567471257_2985582778466557",
       "posted_at": "2026-11-15T20:58:31.214593+00:00"
+    },
+    "scraped-6d0f141c3f": {
+      "title": "Common blood pressure drug helps more stroke survivors reach critical health target",
+      "slug": "common-blood-pressure-drug-helps-more-stroke-survivors-reach-critical-health-target",
+      "url": "https://ushotnews.online/article/common-blood-pressure-drug-helps-more-stroke-survivors-reach-critical-health-target",
+      "article_url": "https://ushotnews.online/article/common-blood-pressure-drug-helps-more-stroke-survivors-reach-critical-health-target",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135372139471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135372139471257",
+      "fb_comment_id": "122135372139471257_2830537410725132",
+      "posted_at": "2026-11-16T00:10:45.162022+00:00"
+    },
+    "common-blood-pressure-drug-helps-more-stroke-survivors-reach-critical-health-target": {
+      "title": "Common blood pressure drug helps more stroke survivors reach critical health target",
+      "slug": "common-blood-pressure-drug-helps-more-stroke-survivors-reach-critical-health-target",
+      "url": "https://ushotnews.online/article/common-blood-pressure-drug-helps-more-stroke-survivors-reach-critical-health-target",
+      "article_url": "https://ushotnews.online/article/common-blood-pressure-drug-helps-more-stroke-survivors-reach-critical-health-target",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135372139471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135372139471257",
+      "fb_comment_id": "122135372139471257_2830537410725132",
+      "posted_at": "2026-11-16T00:10:45.162022+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-15T20:58:21.419216+00:00"
+  "last_cleaned_at": "2026-11-16T00:10:32.466396+00:00"
 }
