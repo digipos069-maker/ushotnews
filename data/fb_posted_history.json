@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T00:10:45.162082+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-11-16T00:55:51.794616+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-a02e3af062": {
       "title": "The Oura Ring 4 is almost as good as the newer model, but $150 cheaper",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135372139471257",
       "fb_comment_id": "122135372139471257_2830537410725132",
       "posted_at": "2026-11-16T00:10:45.162022+00:00"
+    },
+    "scraped-2fcf4c0780": {
+      "title": "Apple’s first smart glasses are coming together",
+      "slug": "apples-first-smart-glasses-are-coming-together",
+      "url": "https://ushotnews.online/article/apples-first-smart-glasses-are-coming-together",
+      "article_url": "https://ushotnews.online/article/apples-first-smart-glasses-are-coming-together",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135377395471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135377395471257",
+      "fb_comment_id": "122135377395471257_29812735658330665",
+      "posted_at": "2026-11-16T00:55:51.794555+00:00"
+    },
+    "apples-first-smart-glasses-are-coming-together": {
+      "title": "Apple’s first smart glasses are coming together",
+      "slug": "apples-first-smart-glasses-are-coming-together",
+      "url": "https://ushotnews.online/article/apples-first-smart-glasses-are-coming-together",
+      "article_url": "https://ushotnews.online/article/apples-first-smart-glasses-are-coming-together",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135377395471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135377395471257",
+      "fb_comment_id": "122135377395471257_29812735658330665",
+      "posted_at": "2026-11-16T00:55:51.794555+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-16T00:10:32.466396+00:00"
+  "last_cleaned_at": "2026-11-16T00:55:39.191669+00:00"
 }
