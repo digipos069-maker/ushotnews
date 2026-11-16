@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-a2a9de9fd6",
+    "slug": "apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "guid": "https://www.theverge.com/?p=1033355",
+    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+    "content": [
+      "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple’s new study looks to improve the effectiveness of AI h... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T01:26:56+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-945ffcea14",
+    "slug": "flight-disruptions-expected-to-last-into-monday",
+    "guid": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+    "title": "Flight disruptions expected to last into Monday",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
+    "content": [
+      "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Flight disruptions expected to last into Monday... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T01:19:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-99e0bf2727",
+    "slug": "mexicos-cartel-godfather-convicted-in-american-dea-agents-murder-dies-at-age-80",
+    "guid": "https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80",
+    "title": "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Guadalajara cartel boss convicted in DEA agent Enrique Kiki Camarena&apos;s murder died at 80, decades after the killing triggered Operation Leyenda.",
+    "content": [
+      "The Guadalajara cartel boss convicted in DEA agent Enrique Kiki Camarena&apos;s murder died at 80, decades after the killing triggered Operation Leyenda.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/miguel-angel-felix-gallardo-mugshot-mexican-soldiers.jpg?ve=1&tl=1",
+    "imageCaption": "Mexico's cartel 'godfather' convicted in American DEA agent'... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T01:54:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cce64b38c3",
+    "slug": "raiders-fans-stayed-seated-when-fernando-mendoza-scored-so-his-wheelchair-bound-mom-could-",
+    "guid": "https://www.foxnews.com/outkick-sports/raiders-fans-stayed-seated-fernando-mendoza-scored-wheelchair-bound-mom-could-see-him-celebrate",
+    "title": "Raiders fans stayed seated when Fernando Mendoza scored so his wheelchair bound mom could see him celebrate",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Las Vegas Raiders fans stayed seated after Fernando Mendoza&apos;s first NFL touchdown so his mother, who battles multiple sclerosis, could watch.",
+    "content": [
+      "Las Vegas Raiders fans stayed seated after Fernando Mendoza&apos;s first NFL touchdown so his mother, who battles multiple sclerosis, could watch.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fernando-mendoza-throws-raiders-seahawks.jpg?ve=1&tl=1",
+    "imageCaption": "Raiders fans stayed seated when Fernando Mendoza scored so h... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T02:02:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b026666ca9",
+    "slug": "pete-buttigieg-breaks-with-democrats-on-student-loan-handouts-admits-party-overtorqued-on-",
+    "guid": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue",
+    "title": "Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Pete Buttigieg said the Democratic Party overtorqued on student loans, admitting that he struggles to justify loan forgiveness to non-college relatives.",
+    "content": [
+      "Pete Buttigieg said the Democratic Party overtorqued on student loans, admitting that he struggles to justify loan forgiveness to non-college relatives.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pete-buttigeg-american-flag-rally.png?ve=1&tl=1",
+    "imageCaption": "Pete Buttigieg breaks with Democrats on student loan handout... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T02:07:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5eee4fcac1",
+    "slug": "young-paraglider-dies-after-reported-emergency-sends-him-crashing-into-field-during-illino",
+    "guid": "https://www.foxnews.com/us/young-paraglider-dies-after-reported-emergency-sends-him-crashing-field-during-illinois-flight",
+    "title": "Young paraglider dies after reported emergency sends him crashing into field during Illinois flight",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Officials are investigating a fatal paragliding incident involving a 21-year-old man from a Chicago suburb who shared his aerial adventures and daring stunts online.",
+    "content": [
+      "Officials are investigating a fatal paragliding incident involving a 21-year-old man from a Chicago suburb who shared his aerial adventures and daring stunts online.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paraglider-1.jpg?ve=1&tl=1",
+    "imageCaption": "Young paraglider dies after reported emergency sends him cra... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T02:33:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7f3cd76e0b",
+    "slug": "mike-vrabel-doesnt-want-patriots-to-b-h-and-complain-but-he-b-es-and-complains-about-his-p",
+    "guid": "https://www.foxnews.com/outkick-sports/mike-vrabel-doesnt-want-patriots-bitch-complain-bitches-complains-players",
+    "title": "Mike Vrabel doesn't want Patriots to 'b---h and complain' but he b----es and complains about his players a lot",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Mike Vrabel says winners don&apos;t complain, but his post-loss press conference in Munich told a very different story after the Patriots&apos; 35-10 defeat.",
+    "content": [
+      "Mike Vrabel says winners don&apos;t complain, but his post-loss press conference in Munich told a very different story after the Patriots&apos; 35-10 defeat.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/nfl-patriots-mike-vrabel-012626-1.jpg?ve=1&tl=1",
+    "imageCaption": "Mike Vrabel doesn't want Patriots to 'b---h and complain' bu... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T02:33:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5ed29195b7",
+    "slug": "49ers-offense-puts-up-over-580-yards-against-a-bad-cowboys-defense-behind-a-christian-mcca",
+    "guid": "https://www.foxnews.com/outkick-sports/49ers-offense-580-yards-bad-cowboys-defense-christian-mccaffrey-masterclass",
+    "title": "49ers offense puts up over 580 yards against a bad Cowboys defense behind a Christian McCaffrey masterclass",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Kaelon Black&apos;s bulldozing TD and Deebo Samuel&apos;s 70-yard reverse blew open a tight game as the San Francisco 49ers torched Dallas for 584 yards.",
+    "content": [
+      "Kaelon Black&apos;s bulldozing TD and Deebo Samuel&apos;s 70-yard reverse blew open a tight game as the San Francisco 49ers torched Dallas for 584 yards.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/deebo-samuel-touchdown-cowboys-49ers.jpg?ve=1&tl=1",
+    "imageCaption": "49ers offense puts up over 580 yards against a bad Cowboys d... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T02:44:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0b22588319",
+    "slug": "49ers-fans-involved-in-second-consecutive-week-of-fighting-after-cowboys-game-at-att-stadi",
+    "guid": "https://www.foxnews.com/outkick-sports/49ers-fans-involved-second-consecutive-week-fighting-after-cowboys-game-att-stadium",
+    "title": "49ers fans involved in second consecutive week of fighting after Cowboys game at AT&T Stadium",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Video captures a massive brawl between San Francisco 49ers and Dallas Cowboys fans at Texas Live, where police scrambled to break up the chaos.",
+    "content": [
+      "Video captures a massive brawl between San Francisco 49ers and Dallas Cowboys fans at Texas Live, where police scrambled to break up the chaos.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/49ers-fans.jpg?ve=1&tl=1",
+    "imageCaption": "49ers fans involved in second consecutive week of fighting a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T03:33:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2cb205d625",
+    "slug": "aaron-rodgers-steelers-totally-tank-in-primetime-as-cincinnati-bengals-roll-to-38-18-scori",
+    "guid": "https://www.foxnews.com/outkick-sports/aaron-rodgers-steelers-tank-primetime-cincinnati-bengals-roll-38-18-scorigami-win",
+    "title": "Aaron Rodgers, Steelers totally tank in primetime as Cincinnati Bengals roll to 38-18 Scorigami win",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Joe Burrow threw for 409 yards and four touchdowns while Ja&apos;Marr Chase hauled in 231 yards as the Bengals demolished the Steelers 38-18.",
+    "content": [
+      "Joe Burrow threw for 409 yards and four touchdowns while Ja&apos;Marr Chase hauled in 231 yards as the Bengals demolished the Steelers 38-18.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aaron-rodgers-steelers-bengals-snf.jpg?ve=1&tl=1",
+    "imageCaption": "Aaron Rodgers, Steelers totally tank in primetime as Cincinn... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T05:08:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-eefd4eace2",
+    "slug": "ai-is-reshaping-banking-jobs-but-its-ability-to-drive-profits-remains-unclear",
+    "guid": "108550883",
+    "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
+    "content": [
+      "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AI is reshaping banking jobs – but its ability to drive prof... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T06:20:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-959db1a0a5",
+    "slug": "chinas-slowdown-deepens-in-october-as-industrial-output-retail-sales-investment-miss-estim",
+    "guid": "108551663",
+    "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+    "content": [
+      "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "China’s slowdown deepens in October as industrial output, re... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T03:53:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1908003bd2",
+    "slug": "china-confirms-xi-trump-putin-historic-summit-what-will-be-on-the-agenda",
+    "guid": "108551685",
+    "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+    "content": [
+      "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "China confirms Xi-Trump-Putin historic summit. What will be ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T04:34:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5ca9195e18",
+    "slug": "tech-worlds-calls-for-jensen-huang-to-return-to-nvidia-are-growing",
+    "guid": "108551662",
+    "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+    "content": [
+      "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tech world's calls for Jensen Huang to return to Nvidia are ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T03:35:09+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-0ecbcbc5c5",
     "slug": "jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama",
     "guid": "https://www.theverge.com/?p=1033999",
