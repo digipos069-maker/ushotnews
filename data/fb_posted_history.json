@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T07:02:59.373699+00:00",
-  "posted_count": 48,
+  "last_updated": "2026-11-16T07:52:13.284216+00:00",
+  "posted_count": 50,
   "articles": {
     "scraped-dfe7011d30": {
       "title": "Here are the 25 original Xbox games you can now play on PC",
@@ -529,7 +529,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135442153471257",
       "fb_comment_id": "122135442153471257_2934500623572038",
       "posted_at": "2026-11-16T07:02:59.373647+00:00"
+    },
+    "scraped-0ecbcbc5c5": {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "slug": "jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama",
+      "url": "https://ushotnews.online/article/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama",
+      "article_url": "https://ushotnews.online/article/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135449569471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135449569471257",
+      "fb_comment_id": "122135449569471257_1829609144909515",
+      "posted_at": "2026-11-16T07:52:13.284040+00:00"
+    },
+    "jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama": {
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "slug": "jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama",
+      "url": "https://ushotnews.online/article/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama",
+      "article_url": "https://ushotnews.online/article/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135449569471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135449569471257",
+      "fb_comment_id": "122135449569471257_1829609144909515",
+      "posted_at": "2026-11-16T07:52:13.284040+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-16T07:02:47.021357+00:00"
+  "last_cleaned_at": "2026-11-16T07:52:04.015102+00:00"
 }
