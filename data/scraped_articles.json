@@ -1,5 +1,1374 @@
 [
   {
+    "id": "scraped-db0843c24a",
+    "slug": "schumers-challenger",
+    "guid": "000001a1-e2ac-dbd8-a1f1-fffcd4c90000",
+    "title": "Schumer’s challenger",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Schumer’s challenger",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Schumer’s challenger... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T10:45:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-045e43efc3",
+    "slug": "audible-is-trying-to-make-it-easier-to-find-audiobooks-youll-actually-like",
+    "guid": "https://www.theverge.com/?p=1034083",
+    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook [&#8230;]",
+    "content": [
+      "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Audible is trying to make it easier to find audiobooks you’l... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T14:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-91bd176c94",
+    "slug": "americas-air-traffic-control-system-couldnt-handle-a-single-bad-router",
+    "guid": "https://www.theverge.com/?p=1034039",
+    "title": "America’s air traffic control system couldn’t handle a single bad router",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Thirty minutes outside Atlanta, the pilot got on the intercom to announce that something was wrong. A communications issue with the Federal Aviation Administration was cascading across the country. The pilot didn't offer much detail except to say that the issue might affect gate access and connecting flights. For Amanda Khera, the timing couldn't be [&#8230;]",
+    "content": [
+      "Thirty minutes outside Atlanta, the pilot got on the intercom to announce that something was wrong. A communications issue with the Federal Aviation Administration was cascading across the country. The pilot didn't offer much detail except to say that the issue might affect gate access and connecting flights. For Amanda Khera, the timing couldn't be [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "America’s air traffic control system couldn’t handle a singl... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T14:43:48+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-21c9d7209e",
+    "slug": "apple-tv-is-getting-video-podcasts-you-can-watch-for-free",
+    "guid": "https://www.theverge.com/?p=1034168",
+    "title": "Apple TV is getting video podcasts you can watch for free",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta testers to roll out in a few hours. Once it rolls out fully, the new video podcasts section will be [&#8230;]",
+    "content": [
+      "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta testers to roll out in a few hours. Once it rolls out fully, the new video podcasts section will be [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple TV is getting video podcasts you can watch for free... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T14:45:56+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7f845b7a5e",
+    "slug": "robert-pattinson-is-amazons-first-james-bond",
+    "guid": "https://www.theverge.com/?p=1034192",
+    "title": "Robert Pattinson is Amazon’s first James Bond",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upcoming James Bond film will be the first from [&#8230;]",
+    "content": [
+      "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upcoming James Bond film will be the first from [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Robert Pattinson is Amazon’s first James Bond... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T15:19:34+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2a1d6a0f7d",
+    "slug": "why-njs-governor-thinks-republicans-are-trapped-in-an-x-bubble",
+    "guid": "https://www.theverge.com/?p=1034141",
+    "title": "Why NJ’s governor thinks Republicans are trapped in an X bubble",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordability and accountability. So I wanted to ask the governor [&#8230;]",
+    "content": [
+      "Today I’m talking with Mikie Sherrill, who’s been New Jersey governor for just a little under a year, and you’ll hear her say her election was a preview of the huge Democratic victories in these recent midterms because she ran on the dual themes of affordability and accountability. So I wanted to ask the governor [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why NJ’s governor thinks Republicans are trapped in an X bub... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0b20dd0a72",
+    "slug": "the-verges-guide-to-the-best-gifts-under-100",
+    "guid": "https://www.theverge.com/?p=1028004",
+    "title": "The Verge’s guide to the best gifts under $100",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, [&#8230;]",
+    "content": [
+      "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to leave you with lingering guilt or lead to insurmountable debt. As reviewers, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Verge’s guide to the best gifts under $100... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:00:14+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9339934af5",
+    "slug": "trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
+    "guid": "https://www.theverge.com/?p=1034355",
+    "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen, they think [&#8230;]",
+    "content": [
+      "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen, they think [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:39:36+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-680f812c1a",
+    "slug": "sonys-playstation-5-accessories-are-cheaper-ahead-of-black-friday",
+    "guid": "https://www.theverge.com/?p=1034178",
+    "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is focused on the great hardware discounts that are happening, including $20 off the stellar [&#8230;]",
+    "content": [
+      "Several retailers are offering discounts on PlayStation 5 games, including deep price cuts on recent console-exclusive hits like Marvel’s Wolverine, Ghost of Yotei, Saros, and hundreds more. We’ll cover a bunch of those in the coming days, but this post is focused on the great hardware discounts that are happening, including $20 off the stellar [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sony’s PlayStation 5 accessories are cheaper ahead of Black ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:48:01+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-682c4f043e",
+    "slug": "trump-heads-to-asia-to-meet-with-xi-and-putin-amid-nvidia-fallout",
+    "guid": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia",
+    "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+    "content": [
+      "The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fa... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cf97b4a37c",
+    "slug": "they-saw-people-losing-food-benefits-so-they-started-handing-out-free-groceries",
+    "guid": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance",
+    "title": "They saw people losing food benefits. So they started handing out free groceries",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
+    "content": [
+      "The cuts and changes to SNAP have been difficult for government workers who take pride in helping others. In San Diego, workers said they couldn't sit back while their neighbors went hungry.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "They saw people losing food benefits. So they started handin... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c4fa576d8a",
+    "slug": "why-sleep-matters-when-it-comes-to-weight-gain-and-loss",
+    "guid": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
+    "title": "Why sleep matters when it comes to weight gain and loss",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+    "content": [
+      "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why sleep matters when it comes to weight gain and loss... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a8faa378ba",
+    "slug": "nprs-student-podcast-challenge-is-back-for-2027",
+    "guid": "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline",
+    "title": "NPR's Student Podcast Challenge is back for 2027",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
+    "content": [
+      "The annual audio competition for grades four through 12 returns in January. Now in its ninth year, the contest has involved more than 90,000 students around the country.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "NPR's Student Podcast Challenge is back for 2027... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-88f05ec1f1",
+    "slug": "these-birds-fly-17000-miles-every-year-climate-change-could-make-it-harder",
+    "guid": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change",
+    "title": "These birds fly 17,000 miles every year. Climate change could make it harder",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
+    "content": [
+      "Migratory birds cross the entire globe, carefully timing their journeys with the seasons. In a hotter climate, that timing is increasingly out of sync.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "These birds fly 17,000 miles every year. Climate change coul... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e542729131",
+    "slug": "chris-van-hollen-says-he-can-beat-chuck-schumer-heres-his-case",
+    "guid": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
+    "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
+    "content": [
+      "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Chris Van Hollen says he can beat Chuck Schumer. Here's his ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T11:39:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6697d02a53",
+    "slug": "faa-ground-stop-still-affecting-thousands-of-flights-and-trump-meets-xi-putin-in-asia",
+    "guid": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+    "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+    "content": [
+      "U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "FAA ground stop still affecting thousands of flights. And, T... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T12:08:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1af192a5e8",
+    "slug": "lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing",
+    "guid": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+    "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
+    "content": [
+      "A new trial is set in Massachusetts against Lindsay Clancy as prosecutors seek a criminal conviction over the killing of her three young children.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Lindsay Clancy to face a new trial in spring of 2027 over ch... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:28:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2eec2860e5",
+    "slug": "chicago-mayor-brandon-johnson-faces-audit-calls-after-cfo-quits-over-financial-integrity-c",
+    "guid": "https://www.foxnews.com/politics/chicago-mayor-brandon-johnson-faces-audit-calls-after-cfo-quits-over-financial-integrity-concerns",
+    "title": "Chicago Mayor Brandon Johnson faces audit calls after CFO quits over 'financial integrity' concerns",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Chicago Mayor Brandon Johnson faces fresh budget turmoil after CFO Ashlee Gabrysch abruptly resigns, questioning the city&apos;s financial reporting and budget calculations.",
+    "content": [
+      "Chicago Mayor Brandon Johnson faces fresh budget turmoil after CFO Ashlee Gabrysch abruptly resigns, questioning the city&apos;s financial reporting and budget calculations.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/chicago-mayor-brandon-johnson-2-25-25.jpg?ve=1&tl=1",
+    "imageCaption": "Chicago Mayor Brandon Johnson faces audit calls after CFO qu... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:16:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b59a4e916d",
+    "slug": "after-the-blue-wave-what-happens-to-education-policy-and-parental-rights-protections-in-fl",
+    "guid": "https://www.foxnews.com/media/after-blue-wave-what-happens-education-policy-parental-rights-protections-flipped-states",
+    "title": "After the blue wave, what happens to education policy and parental rights protections in flipped states?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Democratic governors in previously red states look to target school vouchers and change education policies as they come to power next year.",
+    "content": [
+      "Democratic governors in previously red states look to target school vouchers and change education policies as they come to power next year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/ginojosa-at-campaign-event.jpg?ve=1&tl=1",
+    "imageCaption": "After the blue wave, what happens to education policy and pa... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:20:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cb67688be4",
+    "slug": "seattle-mayor-orders-park-named-for-american-president-renamed",
+    "guid": "https://www.foxnews.com/politics/seattle-mayor-order-park-named-american-president-renamed",
+    "title": "Seattle mayor orders park named for American president renamed",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Seattle Mayor Katie Wilson ordered Jackson Park renamed, citing Andrew Jackson&apos;s legacy of forcibly displacing Native American peoples from their lands.",
+    "content": [
+      "Seattle Mayor Katie Wilson ordered Jackson Park renamed, citing Andrew Jackson&apos;s legacy of forcibly displacing Native American peoples from their lands.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/seattle-mayor-katie-wilson-vigil-shooting.jpg?ve=1&tl=1",
+    "imageCaption": "Seattle mayor orders park named for American president renam... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:20:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c41ce3a58c",
+    "slug": "what-do-you-think-new-james-bond-is-robert-pattinson",
+    "guid": "https://www.foxnews.com/entertainment/what-do-you-think-new-james-bond-robert-pattinson",
+    "title": "WHAT DO YOU THINK? New James Bond is Robert Pattinson",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Is Robert Pattinson the right choice to play 007? Who was the best James Bond? Weigh in here!",
+    "content": [
+      "Is Robert Pattinson the right choice to play 007? Who was the best James Bond? Weigh in here!",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/robert-pattinson-batman-premiere.gif",
+    "imageCaption": "WHAT DO YOU THINK? New James Bond is Robert Pattinson... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:28:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b0c9c7520a",
+    "slug": "wwes-charlotte-flair-reflects-on-royal-rumble-wins-ahead-of-2027-event-feels-pressure-afte",
+    "guid": "https://www.foxnews.com/outkick-sports/wwe-charlotte-flair-reflects-royal-rumble-wins-ahead-2027-event-feels-pressure-making-history",
+    "title": "WWE's Charlotte Flair reflects on Royal Rumble wins ahead of 2027 event, feels 'pressure' after making history",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Charlotte Flair reveals the emotional pressure of being WWE&apos;s only two-time women&apos;s Royal Rumble winner ahead of the 2027 event in Glendale, Arizona.",
+    "content": [
+      "Charlotte Flair reveals the emotional pressure of being WWE&apos;s only two-time women&apos;s Royal Rumble winner ahead of the 2027 event in Glendale, Arizona.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/charlotte-flair-royal-rumble-riyadh.jpg?ve=1&tl=1",
+    "imageCaption": "WWE's Charlotte Flair reflects on Royal Rumble wins ahead of... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:46:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ddab243ab2",
+    "slug": "openai-child-safety-tools-target-ai-generated-abuse",
+    "guid": "https://www.foxnews.com/tech/openai-child-safety-tools-target-ai-generated-abuse",
+    "title": "OpenAI child safety tools target AI-generated abuse",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "OpenAI&apos;s new classifier flags 48% fewer images for review while detecting similar levels of CSAM, and ChatGPT now suspends users for 24 hours.",
+    "content": [
+      "OpenAI&apos;s new classifier flags 48% fewer images for review while detecting similar levels of CSAM, and ChatGPT now suspends users for 24 hours.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/sam-altman-openai-devday-san-francisco.jpg?ve=1&tl=1",
+    "imageCaption": "OpenAI child safety tools target AI-generated abuse... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T17:00:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4245b84285",
+    "slug": "fettermans-gaza-born-challenger-calls-to-abolish-ice-oust-top-democratic-leaders",
+    "guid": "https://www.foxnews.com/politics/fettermans-gaza-born-challenger-calls-abolish-ice-oust-top-democratic-leaders",
+    "title": "Fetterman's Gaza-born challenger calls to 'abolish ICE,' oust top Democratic leaders",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Gaza-born socialist Ahmed Moor challenged one of Israel&apos;s strongest Senate supporters while calling for an overhaul of Democratic leadership.",
+    "content": [
+      "Gaza-born socialist Ahmed Moor challenged one of Israel&apos;s strongest Senate supporters while calling for an overhaul of Democratic leadership.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fetterman's Gaza-born challenger calls to 'abolish ICE,' ous... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T17:08:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e5b0cd059b",
+    "slug": "third-us-aircraft-carrier-arrives-in-middle-east-as-iran-rules-out-un-nuclear-inspections",
+    "guid": "https://www.foxnews.com/politics/third-us-aircraft-carrier-arrives-middle-east-iran-rules-out-un-nuclear-inspections",
+    "title": "Third US aircraft carrier arrives in Middle East as Iran rules out UN nuclear inspections",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A third American aircraft carrier arrived in the area U.S. Central Command is responsible for, Israeli journalist Barak Ravid noted on Sunday.",
+    "content": [
+      "A third American aircraft carrier arrived in the area U.S. Central Command is responsible for, Israeli journalist Barak Ravid noted on Sunday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ed193821-airplane-uss-theodore-roosevelt.jpg?ve=1&tl=1",
+    "imageCaption": "Third US aircraft carrier arrives in Middle East as Iran rul... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T17:08:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-60aa338b96",
+    "slug": "standing-on-one-leg-imf-chief-warns-about-global-economy-as-ai-circular-financing-hits-1-t",
+    "guid": "108551733",
+    "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
+    "content": [
+      "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "‘Standing on one leg’: IMF chief warns about global economy ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T09:14:46+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7daad30c1a",
+    "slug": "nvidia-stock-falls-as-investors-price-in-fallout-from-jensen-huangs-resignation",
+    "guid": "108551786",
+    "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.",
+    "content": [
+      "Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia stock falls as investors price in fallout from Jensen... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T15:24:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8add290fd8",
+    "slug": "nvidia-shares-under-pressure-as-calls-grow-for-huang-to-be-reinstated-as-ceo",
+    "guid": "108551817",
+    "title": "Nvidia shares under pressure as calls grow for Huang to be reinstated as CEO",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Chip stocks are in the red as exports face additional scrutiny",
+    "content": [
+      "Chip stocks are in the red as exports face additional scrutiny",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia shares under pressure as calls grow for Huang to be r... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T13:14:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e964325707",
+    "slug": "nvidias-colette-kress-confronts-key-questions-in-first-earnings-report-since-jensen-huangs",
+    "guid": "108551178",
+    "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.",
+    "content": [
+      "Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia's Colette Kress confronts key questions in first earn... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T13:42:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b89ce41abc",
+    "slug": "anthropic-ipo-guide-everything-you-need-to-know",
+    "guid": "108549255",
+    "title": "Anthropic IPO guide: Everything you need to know",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Anthropic is set to start trading this week on the Nasdaq under the ticker symbol ANT.",
+    "content": [
+      "Anthropic is set to start trading this week on the Nasdaq under the ticker symbol ANT.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic IPO guide: Everything you need to know... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T14:55:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-75927176d9",
+    "slug": "bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly",
+    "guid": "108551957",
+    "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
+    "content": [
+      "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Bitcoin slides to $62,000 following liquidation cascade, the... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T14:29:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-08714f9a38",
+    "slug": "a-major-nft-marketplace-is-shutting-down5-years-after-the-boom-theres-a-lesson-for-investo",
+    "guid": "108550621",
+    "title": "A major NFT marketplace is shutting down—5 years after the boom, there's a lesson for investors",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Five years after NFTs took off, a major marketplace is shutting down—here's what the boom and bust can teach investors about risky investments.",
+    "content": [
+      "Five years after NFTs took off, a major marketplace is shutting down—here's what the boom and bust can teach investors about risky investments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A major NFT marketplace is shutting down—5 years after the b... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T14:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-378b3fb8f7",
+    "slug": "cantwell-urges-lutnick-to-stop-ai-chip-sales-to-china-ahead-of-xi-meeting",
+    "guid": "108551688",
+    "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company.",
+    "content": [
+      "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cantwell urges Lutnick to stop AI chip sales to China ahead ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T12:13:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-38f39f04b5",
+    "slug": "anthropics-wall-street-whisperer-meet-cfo-krishna-rao",
+    "guid": "108551476",
+    "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.",
+    "content": [
+      "Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:08:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cc0ebe23c6",
+    "slug": "warren-buffett-donates-55-billion-says-kindness-compounds-in-thanksgiving-letter",
+    "guid": "108551829",
+    "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Following the donations, the chairman emeritus of Berkshire still owns 182,140 Class A shares -- roughly $162 billion.",
+    "content": [
+      "Following the donations, the chairman emeritus of Berkshire still owns 182,140 Class A shares -- roughly $162 billion.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Warren Buffett donates $5.5 billion, says kindness 'compound... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T14:56:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4db038619d",
+    "slug": "trump-says-hes-ok-with-jensen-huang-returning-as-nvidia-ceo-sees-no-national-security-risk",
+    "guid": "108551998",
+    "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
+    "content": [
+      "President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says he's OK with Jensen Huang returning as Nvidia CEO... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:52:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-62f2b0bc42",
+    "slug": "nvidia-fallout-commerce-targets-loophole-for-chinas-data-center-use",
+    "guid": "108551937",
+    "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
+    "content": [
+      "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia fallout: Commerce targets loophole for China's data c... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-16T16:51:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-a2a9de9fd6",
     "slug": "apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
     "guid": "https://www.theverge.com/?p=1033355",
