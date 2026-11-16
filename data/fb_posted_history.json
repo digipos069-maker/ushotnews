@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T17:17:17.131649+00:00",
-  "posted_count": 46,
+  "last_updated": "2026-11-16T18:20:28.676894+00:00",
+  "posted_count": 48,
   "articles": {
     "scraped-2da1ab77c1": {
       "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
@@ -507,7 +507,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135571987471257",
       "fb_comment_id": "122135571987471257_1520833303429569",
       "posted_at": "2026-11-16T17:17:17.131587+00:00"
+    },
+    "scraped-9339934af5": {
+      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "slug": "trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
+      "url": "https://ushotnews.online/article/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
+      "article_url": "https://ushotnews.online/article/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135584497471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135584497471257",
+      "fb_comment_id": "122135584497471257_2221977852080715",
+      "posted_at": "2026-11-16T18:20:28.676800+00:00"
+    },
+    "trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia": {
+      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
+      "slug": "trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
+      "url": "https://ushotnews.online/article/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
+      "article_url": "https://ushotnews.online/article/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135584497471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135584497471257",
+      "fb_comment_id": "122135584497471257_2221977852080715",
+      "posted_at": "2026-11-16T18:20:28.676800+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-16T17:17:06.789030+00:00"
+  "last_cleaned_at": "2026-11-16T18:20:19.131856+00:00"
 }
