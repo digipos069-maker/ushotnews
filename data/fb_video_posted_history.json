@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-16T15:24:41.614145+00:00",
-  "posted_count": 12,
+  "last_updated": "2026-11-17T00:07:44.152783+00:00",
+  "posted_count": 11,
   "articles": {
-    "dvids-video:1029747": {
-      "title": "Secretary of State Marco Rubio meets with Honduran President Nasry Asfura",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112146404/DOD_112146404.mp4",
-      "attached_website_url": "https://ushotnews.online/article/democrats-have-reached-a-détente-in-their-internal-war-will-it-last",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1910221943279780",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1910221943279780",
-      "fb_comment_id": "1910221943279780_1450384007262389",
-      "posted_at": "2026-11-13T17:37:30.440306+00:00"
-    },
-    "dvids-video:1029796": {
-      "title": "Farmers in orchard",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112147416/DOD_112147416.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-new-apple-tv-has-a-youtube-problem",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "896553663485573",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/896553663485573",
-      "fb_comment_id": "896553663485573_1861634035179914",
-      "posted_at": "2026-11-13T23:27:55.720713+00:00"
-    },
     "dvids-video:1029787": {
       "title": "A1C Kiddra  Stoker Sends a Shout-Out to Houston Texans-1",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112147348/DOD_112147348.mp4",
@@ -133,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1466999415370002",
       "fb_comment_id": "1466999415370002_2222840758663403",
       "posted_at": "2026-11-16T15:24:41.614086+00:00"
+    },
+    "dvids-video:1030053": {
+      "title": "U.S. service members, local Okinawans bond over coffee and music",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112153067/DOD_112153067.mp4",
+      "attached_website_url": "https://ushotnews.online/article/schumers-challenger",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2064861657529017",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2064861657529017",
+      "fb_comment_id": "2064861657529017_1172126308606661",
+      "posted_at": "2026-11-17T00:07:44.152727+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-16T15:23:39.379273+00:00"
+  "last_cleaned_at": "2026-11-17T00:06:15.499869+00:00"
 }
