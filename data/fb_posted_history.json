@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T08:55:32.601998+00:00",
-  "posted_count": 44,
+  "last_updated": "2026-11-17T10:37:03.750010+00:00",
+  "posted_count": 46,
   "articles": {
     "scraped-a7376d72e6": {
       "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
@@ -485,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135734167471257",
       "fb_comment_id": "122135734167471257_1752607122504144",
       "posted_at": "2026-11-17T08:55:32.601932+00:00"
+    },
+    "scraped-ab361ed430": {
+      "title": "Duffy vows to modernize aging air traffic system after nationwide ground stop",
+      "slug": "duffy-vows-to-modernize-aging-air-traffic-system-after-nationwide-ground-stop",
+      "url": "https://ushotnews.online/article/duffy-vows-to-modernize-aging-air-traffic-system-after-nationwide-ground-stop",
+      "article_url": "https://ushotnews.online/article/duffy-vows-to-modernize-aging-air-traffic-system-after-nationwide-ground-stop",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135753049471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135753049471257",
+      "fb_comment_id": "122135753049471257_1697740372061117",
+      "posted_at": "2026-11-17T10:37:03.749918+00:00"
+    },
+    "duffy-vows-to-modernize-aging-air-traffic-system-after-nationwide-ground-stop": {
+      "title": "Duffy vows to modernize aging air traffic system after nationwide ground stop",
+      "slug": "duffy-vows-to-modernize-aging-air-traffic-system-after-nationwide-ground-stop",
+      "url": "https://ushotnews.online/article/duffy-vows-to-modernize-aging-air-traffic-system-after-nationwide-ground-stop",
+      "article_url": "https://ushotnews.online/article/duffy-vows-to-modernize-aging-air-traffic-system-after-nationwide-ground-stop",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135753049471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135753049471257",
+      "fb_comment_id": "122135753049471257_1697740372061117",
+      "posted_at": "2026-11-17T10:37:03.749918+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-17T08:55:23.304963+00:00"
+  "last_cleaned_at": "2026-11-17T10:36:53.674068+00:00"
 }
