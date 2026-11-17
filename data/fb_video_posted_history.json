@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-17T10:28:27.960615+00:00",
-  "posted_count": 11,
+  "last_updated": "2026-11-17T20:43:11.417228+00:00",
+  "posted_count": 10,
   "articles": {
-    "dvids-video:1029809": {
-      "title": "USS Jackson Hosts Ship Tours During Fleet Week San Diego",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112147676/DOD_112147676.mp4",
-      "attached_website_url": "https://ushotnews.online/article/democrat-jonathan-kreiss-tomkins-flips-alaskas-gubernatorial-seat",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1436452101970059",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1436452101970059",
-      "fb_comment_id": "1436452101970059_1375867924444467",
-      "posted_at": "2026-11-14T13:19:10.404542+00:00"
-    },
-    "dvids-video:1029823": {
-      "title": "Engaged Soldiers Send Thanksgiving Greetings from Kuwait",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148275/DOD_112148275.mp4",
-      "attached_website_url": "https://ushotnews.online/article/jensen-huang-and-the-decline-of-the-visionary-showman-founder-ceo",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1911338866497677",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1911338866497677",
-      "fb_comment_id": "1911338866497677_2607467233061688",
-      "posted_at": "2026-11-14T19:00:21.575403+00:00"
-    },
     "dvids-video:1029846": {
       "title": "71 Seconds: Supply",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148402/DOD_112148402.mp4",
@@ -122,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/940623962318733",
       "fb_comment_id": "940623962318733_1130108383240448",
       "posted_at": "2026-11-17T10:28:27.960559+00:00"
+    },
+    "dvids-video:1030124": {
+      "title": "Your First Hello",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112154961/DOD_112154961.mp4",
+      "attached_website_url": "https://ushotnews.online/article/democrats-see-an-immigration-opening-despite-stephen-millers-rise",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1735285814692796",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1735285814692796",
+      "fb_comment_id": "1735285814692796_1133049002793880",
+      "posted_at": "2026-11-17T20:43:11.417160+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-17T10:27:26.642980+00:00"
+  "last_cleaned_at": "2026-11-17T20:41:59.536225+00:00"
 }
