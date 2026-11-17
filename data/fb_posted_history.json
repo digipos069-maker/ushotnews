@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T18:11:06.115702+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-11-17T19:44:59.526814+00:00",
+  "posted_count": 44,
   "articles": {
     "scraped-15caf9faf3": {
       "title": "Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’",
@@ -463,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135858727471257",
       "fb_comment_id": "122135858727471257_1662090698787327",
       "posted_at": "2026-11-17T18:11:06.115621+00:00"
+    },
+    "scraped-e765fcb2fd": {
+      "title": "Jerry Jones says discussions about replacing the Cowboys' embattled defensive coordinator are underway",
+      "slug": "jerry-jones-says-discussions-about-replacing-the-cowboys-embattled-defensive-coordinator-a",
+      "url": "https://ushotnews.online/article/jerry-jones-says-discussions-about-replacing-the-cowboys-embattled-defensive-coordinator-a",
+      "article_url": "https://ushotnews.online/article/jerry-jones-says-discussions-about-replacing-the-cowboys-embattled-defensive-coordinator-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135879871471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135879871471257",
+      "fb_comment_id": "122135879871471257_2113014329328274",
+      "posted_at": "2026-11-17T19:44:59.526749+00:00"
+    },
+    "jerry-jones-says-discussions-about-replacing-the-cowboys-embattled-defensive-coordinator-a": {
+      "title": "Jerry Jones says discussions about replacing the Cowboys' embattled defensive coordinator are underway",
+      "slug": "jerry-jones-says-discussions-about-replacing-the-cowboys-embattled-defensive-coordinator-a",
+      "url": "https://ushotnews.online/article/jerry-jones-says-discussions-about-replacing-the-cowboys-embattled-defensive-coordinator-a",
+      "article_url": "https://ushotnews.online/article/jerry-jones-says-discussions-about-replacing-the-cowboys-embattled-defensive-coordinator-a",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135879871471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135879871471257",
+      "fb_comment_id": "122135879871471257_2113014329328274",
+      "posted_at": "2026-11-17T19:44:59.526749+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-17T18:10:53.204388+00:00"
+  "last_cleaned_at": "2026-11-17T19:44:49.039431+00:00"
 }
