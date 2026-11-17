@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-17T00:07:44.152783+00:00",
+  "last_updated": "2026-11-17T10:28:27.960615+00:00",
   "posted_count": 11,
   "articles": {
-    "dvids-video:1029787": {
-      "title": "A1C Kiddra  Stoker Sends a Shout-Out to Houston Texans-1",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112147348/DOD_112147348.mp4",
-      "attached_website_url": "https://ushotnews.online/article/trump-and-zohran-sitting-in-a-tree",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1341360524706642",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1341360524706642",
-      "fb_comment_id": "1341360524706642_1837055884150011",
-      "posted_at": "2026-11-14T05:50:43.329028+00:00"
-    },
     "dvids-video:1029809": {
       "title": "USS Jackson Hosts Ship Tours During Fleet Week San Diego",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112147676/DOD_112147676.mp4",
@@ -122,7 +111,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2064861657529017",
       "fb_comment_id": "2064861657529017_1172126308606661",
       "posted_at": "2026-11-17T00:07:44.152727+00:00"
+    },
+    "dvids-video:1030063": {
+      "title": "JPMRC 27-01 OPFOR Conducts Night Time Assault",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112153277/DOD_112153277.mp4",
+      "attached_website_url": "https://ushotnews.online/article/biden-library-nears-site-decision-as-fundraising-trails-ambitions-report",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "940623962318733",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/940623962318733",
+      "fb_comment_id": "940623962318733_1130108383240448",
+      "posted_at": "2026-11-17T10:28:27.960559+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-17T00:06:15.499869+00:00"
+  "last_cleaned_at": "2026-11-17T10:27:26.642980+00:00"
 }
