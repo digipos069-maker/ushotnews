@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-17T00:57:38.922258+00:00",
+  "last_updated": "2026-11-17T02:01:14.640952+00:00",
   "posted_count": 46,
   "articles": {
-    "scraped-085c327962": {
-      "title": "UFC boss Dana White brushes off Democratic probe threats, recalls 'crazy 48 hours' around Trump job offer",
-      "slug": "ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-tru",
-      "url": "https://ushotnews.online/article/ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-tru",
-      "article_url": "https://ushotnews.online/article/ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-tru",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122134757115471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134757115471257",
-      "fb_comment_id": "122134757115471257_1122711050741829",
-      "posted_at": "2026-11-14T01:35:24.102970+00:00"
-    },
-    "ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-tru": {
-      "title": "UFC boss Dana White brushes off Democratic probe threats, recalls 'crazy 48 hours' around Trump job offer",
-      "slug": "ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-tru",
-      "url": "https://ushotnews.online/article/ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-tru",
-      "article_url": "https://ushotnews.online/article/ufc-boss-dana-white-brushes-off-democratic-probe-threats-recalls-crazy-48-hours-around-tru",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122134757115471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122134757115471257",
-      "fb_comment_id": "122134757115471257_1122711050741829",
-      "posted_at": "2026-11-14T01:35:24.102970+00:00"
-    },
     "scraped-2c8fa268ae": {
       "title": "NBA and NHL teams scramble as nationwide FAA ground stop disrupts weekend sports travel",
       "slug": "nba-and-nhl-teams-scramble-as-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
@@ -507,7 +485,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135655051471257",
       "fb_comment_id": "122135655051471257_1402154359655549",
       "posted_at": "2026-11-17T00:57:38.922195+00:00"
+    },
+    "scraped-50c5eb3c1f": {
+      "title": "California sues OpenAI over hacking risks",
+      "slug": "california-sues-openai-over-hacking-risks",
+      "url": "https://ushotnews.online/article/california-sues-openai-over-hacking-risks",
+      "article_url": "https://ushotnews.online/article/california-sues-openai-over-hacking-risks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135663535471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135663535471257",
+      "fb_comment_id": "122135663535471257_972432598905279",
+      "posted_at": "2026-11-17T02:01:14.640874+00:00"
+    },
+    "california-sues-openai-over-hacking-risks": {
+      "title": "California sues OpenAI over hacking risks",
+      "slug": "california-sues-openai-over-hacking-risks",
+      "url": "https://ushotnews.online/article/california-sues-openai-over-hacking-risks",
+      "article_url": "https://ushotnews.online/article/california-sues-openai-over-hacking-risks",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135663535471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135663535471257",
+      "fb_comment_id": "122135663535471257_972432598905279",
+      "posted_at": "2026-11-17T02:01:14.640874+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-17T00:57:24.104015+00:00"
+  "last_cleaned_at": "2026-11-17T02:01:07.011283+00:00"
 }
