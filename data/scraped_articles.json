@@ -1,5 +1,1041 @@
 [
   {
+    "id": "scraped-cdddc05548",
+    "slug": "bo-french-loses-texas-country-club-membership",
+    "guid": "000001a1-efe2-db63-a9f5-efe38b1d0000",
+    "title": "Bo French loses Texas country club membership",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The anti-immigrant Texas Republican had his membership at a historic Fort Worth country club terminated days after a bruising electoral defeat.",
+    "content": [
+      "The anti-immigrant Texas Republican had his membership at a historic Fort Worth country club terminated days after a bruising electoral defeat.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/17/eb/933c32d045eab3f56a09610f3deb/ew-0312-lee-bo-french-race-1000-01.jpg",
+    "imageCaption": "Bo French loses Texas country club membership... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T18:37:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a25df95cf9",
+    "slug": "this-new-early-state-governor-has-advice-for-2028-democratic-hopefuls",
+    "guid": "000001a1-eff2-db63-a9f5-eff3c6e90000",
+    "title": "This new early-state governor has advice for 2028 Democratic hopefuls",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "New Mexico Gov.-elect Deb Haaland told POLITICO she would 'love' to endorse in her state’s newly-minted early primary.",
+    "content": [
+      "New Mexico Gov.-elect Deb Haaland told POLITICO she would 'love' to endorse in her state’s newly-minted early primary.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "http://vod.politico.com/media/v1/pmp4/static/clear/1155968404/d64143e5-2187-4683-bfe3-709288af2207/59fe7c9a-d31a-4542-a8a0-ff5e0cddc4dc/main.mp4",
+    "imageCaption": "This new early-state governor has advice for 2028 Democratic... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T18:51:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-131956ec85",
+    "slug": "utah-gop-governor-on-trump-and-2028-its-time-for-the-next-thing",
+    "guid": "000001a1-f013-d232-adbf-f31319100000",
+    "title": "Utah GOP governor on Trump and 2028: ‘It’s time for the next thing’",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Gov. Spencer Cox said he’s 'a fan of governors' as he eyes the party’s options for a 2028 nominee.",
+    "content": [
+      "Gov. Spencer Cox said he’s 'a fan of governors' as he eyes the party’s options for a 2028 nominee.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/19/63/f28c1c7340f991c570feb58f77ba/fm2a9491.JPG",
+    "imageCaption": "Utah GOP governor on Trump and 2028: ‘It’s time for the next... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T19:25:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ca4cad2053",
+    "slug": "the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+    "guid": "https://www.theverge.com/?p=1036819",
+    "title": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000 now. But it looks like Lenovo might be about to announce [&#8230;]",
+    "content": [
+      "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S far higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000 now. But it looks like Lenovo might be about to announce [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The leaked Lenovo Legion Go Beam could be the affordable han... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T19:11:50+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8ee7008a81",
+    "slug": "instagram-now-lets-you-edit-your-stories-after-you-post-them",
+    "guid": "https://www.theverge.com/?p=1036941",
+    "title": "Instagram now lets you edit your stories after you post them",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spotted Instagram working on this feature in April, [&#8230;]",
+    "content": [
+      "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri has announced. Reverse engineer Alessandro Paluzzi first spotted Instagram working on this feature in April, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Instagram now lets you edit your stories after you post them... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T19:29:10+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6abd646396",
+    "slug": "sonys-impressive-bravia-8-ii-oled-hits-a-new-low-price-ahead-of-black-friday",
+    "guid": "https://www.theverge.com/?p=1036693",
+    "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, including Amazon, Best Buy, [&#8230;]",
+    "content": [
+      "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently discounted by $1,100 at various retailers, including Amazon, Best Buy, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sony’s impressive Bravia 8 II OLED hits a new low price ahea... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T19:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c120cad66",
+    "slug": "nvidias-rise-visualized",
+    "guid": "https://www.theverge.com/?p=1035924",
+    "title": "Nvidia’s rise, visualized",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
+    "content": [
+      "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that just lost its visionary founder CEO due to a series of [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia’s rise, visualized... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T19:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-87d639fba4",
+    "slug": "trumps-latest-land-grab-is-an-ai-hub-in-the-philippines",
+    "guid": "https://www.theverge.com/?p=1036749",
+    "title": "Trump’s latest land grab is an AI hub in the Philippines",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional [&#8230;]",
+    "content": [
+      "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played \"YMCA,\" a staple at Trump rallies, as more girls in traditional [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump’s latest land grab is an AI hub in the Philippines... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T19:40:36+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fc513e41ad",
+    "slug": "absolute-batman-can-save-dc-studios",
+    "guid": "https://www.theverge.com/?p=1035722",
+    "title": "Absolute Batman can save DC Studios",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for [&#8230;]",
+    "content": [
+      "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though Gunn's Man of Tomorrow feature might still come out, it seems like his larger vision for [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Absolute Batman can save DC Studios... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T21:20:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-546ce28945",
+    "slug": "democrats-skip-a-vote-on-adding-brendan-carrs-adviser-to-the-fcc",
+    "guid": "https://www.theverge.com/?p=1037134",
+    "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To his left were about a dozen empty chairs - [&#8230;]",
+    "content": [
+      "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, including Senate Majority Leader John Thune (R-SD). To his left were about a dozen empty chairs - [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Democrats skip a vote on adding Brendan Carr’s adviser to th... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T22:05:48+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-372a589138",
+    "slug": "the-nations-largest-school-districts-consider-ditching-google-search",
+    "guid": "https://www.theverge.com/?p=1037151",
+    "title": "The nation’s largest school districts consider ditching Google Search",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
+    "content": [
+      "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The nation’s largest school districts consider ditching Goog... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T23:18:35+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1c503ab67e",
+    "slug": "karl-kani-dressed-hip-hop-royalty-for-decades-now-hes-telling-his-own-story",
+    "guid": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+    "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "On NPR's Morning Edition, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+    "content": [
+      "On NPR's Morning Edition, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Karl Kani dressed hip-hop royalty for decades. Now he's tell... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T18:15:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4923f8f206",
+    "slug": "as-overdose-deaths-fall-white-house-makes-misleading-claims-about-who-deserves-credit",
+    "guid": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+    "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+    "content": [
+      "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office. In fact, the biggest progress happened under the Biden administration.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "As overdose deaths fall, White House makes misleading claims... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T18:18:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1827128480",
+    "slug": "what-is-baltimore-best-at-making-criminals-says-marlon-humphrey-who-then-feels-the-heat-an",
+    "guid": "https://www.foxnews.com/outkick-sports/baltimore-best-making-criminals-says-marlon-humphrey-feels-heat-changes-tune",
+    "title": "What is Baltimore best at making? 'Criminals,' says Marlon Humphrey who then feels the heat and changes tune",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Marlon Humphrey says Baltimore is best at making criminals on his podcast, then apologizes as backlash erupts on social media over the crime jab.",
+    "content": [
+      "Marlon Humphrey says Baltimore is best at making criminals on his podcast, then apologizes as backlash erupts on social media over the crime jab.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/marlon-humphrey-baltimore-ravens.jpg?ve=1&tl=1",
+    "imageCaption": "What is Baltimore best at making? 'Criminals,' says Marlon H... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T22:37:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c7d10bc244",
+    "slug": "dozens-of-army-soldiers-sign-up-for-unique-reenlistment-incentive-to-play-grand-theft-auto",
+    "guid": "https://www.foxnews.com/politics/dozens-army-soldiers-sign-up-unique-reenlistment-incentive-play-grand-theft-auto-vi",
+    "title": "Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The U.S. Army offered Fort Stewart soldiers four-day passes to play Grand Theft Auto VI as a reenlistment perk, and 43 of 130 eligible troops took it.",
+    "content": [
+      "The U.S. Army offered Fort Stewart soldiers four-day passes to play Grand Theft Auto VI as a reenlistment perk, and 43 of 130 eligible troops took it.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/gtavi-controller.png?ve=1&tl=1",
+    "imageCaption": "Dozens of Army soldiers sign up for unique reenlistment ince... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T22:40:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-494ee1b791",
+    "slug": "japan-scrambles-fighter-jets-after-russian-aircraft-breach-airspace-amid-rising-pacific-te",
+    "guid": "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions",
+    "title": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Suspected Russian aircraft entered Japanese airspace near Okinoshima, and Prime Minister Sanae Takaichi warned of instability at the Quad Leaders Summit.",
+    "content": [
+      "Suspected Russian aircraft entered Japanese airspace near Okinoshima, and Prime Minister Sanae Takaichi warned of instability at the Quad Leaders Summit.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/12/931/523/GettyImages-1192750460.jpg?ve=1&tl=1",
+    "imageCaption": "Japan scrambles fighter jets after Russian aircraft breach a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T22:52:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-73a4e18c27",
+    "slug": "glen-powells-comeback-king-trailer-packs-country-star-power-but-divides-fans",
+    "guid": "https://www.foxnews.com/entertainment/glen-powells-comeback-king-trailer-packs-country-star-power-divides-fans",
+    "title": "Glen Powell’s ‘Comeback King’ trailer packs country star power, but divides fans",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Glen Powell trained in singing and guitar and co-wrote the screenplay with Judd Apatow for The Comeback King, playing a country star in free-fall.",
+    "content": [
+      "Glen Powell trained in singing and guitar and co-wrote the screenplay with Judd Apatow for The Comeback King, playing a country star in free-fall.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/glen-powell-golden-globe-awards-beverly-hilton.jpg?ve=1&tl=1",
+    "imageCaption": "Glen Powell’s ‘Comeback King’ trailer packs country star pow... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T22:52:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fe9a63e120",
+    "slug": "pat-mcafee-and-crew-roast-espns-heather-dinich-for-absurd-college-football-playoff-metrics",
+    "guid": "https://www.foxnews.com/outkick-sports/pat-mcafee-crew-roast-espn-heather-dinich-absurd-college-football-playoff-metrics",
+    "title": "Pat McAfee and crew roast ESPN's Heather Dinich for absurd College Football Playoff metrics",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Pat McAfee&apos;s crew ripped ESPN&apos;s Heather Dinich over her Strength of Conference metric as College Football Playoff rankings spark SEC bias chatter.",
+    "content": [
+      "Pat McAfee&apos;s crew ripped ESPN&apos;s Heather Dinich over her Strength of Conference metric as College Football Playoff rankings spark SEC bias chatter.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/pat-mcafee-21026.jpg?ve=1&tl=1",
+    "imageCaption": "Pat McAfee and crew roast ESPN's Heather Dinich for absurd C... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T23:00:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-45586c2de0",
+    "slug": "giants-cam-skattebo-putting-his-backflip-on-the-back-burner-after-seeing-aidan-hutchinson-",
+    "guid": "https://www.foxnews.com/outkick-sports/giants-cam-skattebo-putting-backflip-back-burner-after-seeing-aidan-hutchinson-celebration-injury",
+    "title": "Giants' Cam Skattebo putting his backflip on the back burner after seeing Aidan Hutchinson celebration injury",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Cam Skattebo says his New York Giants backflip celebration is done after Aidan Hutchinson&apos;s knee injury, though a playoff moment could bring it back.",
+    "content": [
+      "Cam Skattebo says his New York Giants backflip celebration is done after Aidan Hutchinson&apos;s knee injury, though a playoff moment could bring it back.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/nfl-giants-cam-skattebo-092125-3.jpg?ve=1&tl=1",
+    "imageCaption": "Giants' Cam Skattebo putting his backflip on the back burner... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T23:01:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-338a5fd413",
+    "slug": "two-bad-teams-one-cheap-ticket-the-jets-chargers-seats-barely-cost-more-than-a-sofi-cheese",
+    "guid": "https://www.foxnews.com/outkick-sports/two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-cost-more-than-sofi-cheeseburger",
+    "title": "Two bad teams, one cheap ticket: The Jets-Chargers seats barely cost more than a SoFi cheeseburger",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Aaron Glenn&apos;s New York Jets have lost five straight, and the matchup with the 1-8 Los Angeles Chargers has fans paying just $26 as both teams eye the NFL Draft instead.",
+    "content": [
+      "Aaron Glenn&apos;s New York Jets have lost five straight, and the matchup with the 1-8 Los Angeles Chargers has fans paying just $26 as both teams eye the NFL Draft instead.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Justin-Herbert-Geno-Smith.jpg?ve=1&tl=1",
+    "imageCaption": "Two bad teams, one cheap ticket: The Jets-Chargers seats bar... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T23:08:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7858fbdc98",
+    "slug": "irish-activist-indicted-in-us-over-alleged-destruction-of-60m-military-plane",
+    "guid": "https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane",
+    "title": "Irish activist indicted in US over alleged destruction of $60M military plane",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "United States prosecutors say Daithi O&apos;Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair",
+    "content": [
+      "United States prosecutors say Daithi O&apos;Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/C-130-Hercules-aircraft-damage-at-Shannon-Airport.jpg?ve=1&tl=1",
+    "imageCaption": "Irish activist indicted in US over alleged destruction of $6... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T23:29:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5c1d6631b0",
+    "slug": "one-of-ais-most-notorious-doomers-stands-to-make-billions-in-anthropics-ipo",
+    "guid": "108552319",
+    "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
+    "content": [
+      "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "One of AI's most notorious 'doomers' stands to make billions... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T21:28:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-52351c583c",
+    "slug": "microsoft-had-rallied-back-to-record-highs-then-came-the-election-and-outlook-outage",
+    "guid": "108554458",
+    "title": "Microsoft had rallied back to record highs. Then came the election and Outlook outage",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Microsoft shares have dropped nearly 9% since closing at a record high on Nov. 4.",
+    "content": [
+      "Microsoft shares have dropped nearly 9% since closing at a record high on Nov. 4.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Microsoft had rallied back to record highs. Then came the el... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T23:39:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1e4874e1dd",
+    "slug": "big-bets-against-ai-debt-from-coreweave-to-oracle-and-the-mag-7-could-soon-hit-the-etf-mar",
+    "guid": "108528283",
+    "title": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
+    "content": [
+      "Investor fears about AI balance sheets and debt are running high, especially for neoclouds. ETFs targeting the credit default swaps of AI issuers are coming.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Big bets against AI debt, from CoreWeave to Oracle and the M... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T23:38:55+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e4eb25379b",
+    "slug": "fed-officials-expect-more-rate-hikes-worry-about-ai-impact-on-inflation-minutes-show",
+    "guid": "108554282",
+    "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+    "content": [
+      "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Fed officials expect more rate hikes, worry about AI impact ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T19:41:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c24c0345f8",
+    "slug": "ceo-turned-informant-how-the-fda-built-a-case-against-executives-promising-cheap-medicatio",
+    "guid": "108551977",
+    "title": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The FDA's unprecedented criminal case against an alternative funding program hinged on the cooperation of a peer CEO, according to a court record.",
+    "content": [
+      "The FDA's unprecedented criminal case against an alternative funding program hinged on the cooperation of a peer CEO, according to a court record.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "CEO turned informant: How the FDA built a case against execu... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T21:07:14+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-83d9e31304",
+    "slug": "palo-alto-inks-45-billion-deal-for-ai-startup-applied-compute-shares-pop-7-on-earnings",
+    "guid": "108554542",
+    "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+    "content": [
+      "Palo Alto Networks has been steadily acquiring companies to capitalize on demand for cyber tools to fight AI.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Palo Alto inks $4.5 billion deal for AI startup Applied Comp... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T22:25:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a2eff7cc8a",
+    "slug": "nvidia-interim-ceo-kress-tells-employees-lets-move-forward-at-first-all-hands-meeting-sinc",
+    "guid": "108554430",
+    "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+    "content": [
+      "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia interim CEO Kress tells employees ‘let’s move forward... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-18T23:45:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-4d741698a2",
     "slug": "poll-most-americans-think-a-democrat-will-be-the-next-president",
     "guid": "000001a1-eaad-db63-a9f5-eead0f940000",
