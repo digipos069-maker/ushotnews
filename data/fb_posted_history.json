@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T17:49:11.203700+00:00",
-  "posted_count": 38,
+  "last_updated": "2026-11-18T19:21:48.605865+00:00",
+  "posted_count": 40,
   "articles": {
     "scraped-cf840b597d": {
       "title": "Taylor Swift’s husband Travis Kelce injures ankle against Falcons, returns to game",
@@ -419,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136158421471257",
       "fb_comment_id": "122136158421471257_1922499829179773",
       "posted_at": "2026-11-18T17:49:11.203623+00:00"
+    },
+    "scraped-32da2de56b": {
+      "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+      "slug": "got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+      "url": "https://ushotnews.online/article/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+      "article_url": "https://ushotnews.online/article/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136179463471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136179463471257",
+      "fb_comment_id": "122136179463471257_1597383532154674",
+      "posted_at": "2026-11-18T19:21:48.605794+00:00"
+    },
+    "got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast": {
+      "title": "Got a canceled flight? 7 clever ways to get rebooked fast",
+      "slug": "got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+      "url": "https://ushotnews.online/article/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+      "article_url": "https://ushotnews.online/article/got-a-canceled-flight-7-clever-ways-to-get-rebooked-fast",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136179463471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136179463471257",
+      "fb_comment_id": "122136179463471257_1597383532154674",
+      "posted_at": "2026-11-18T19:21:48.605794+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-18T17:49:03.382875+00:00"
+  "last_cleaned_at": "2026-11-18T19:21:36.383002+00:00"
 }
