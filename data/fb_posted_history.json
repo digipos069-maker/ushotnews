@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-18T08:53:45.514213+00:00",
-  "posted_count": 38,
+  "last_updated": "2026-11-18T10:38:15.900614+00:00",
+  "posted_count": 40,
   "articles": {
     "scraped-5283068868": {
       "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
@@ -419,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136031647471257",
       "fb_comment_id": "122136031647471257_2410539449715699",
       "posted_at": "2026-11-18T08:53:45.514152+00:00"
+    },
+    "scraped-bb71e28c6c": {
+      "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+      "slug": "mary-peltola-flips-alaskas-senate-seat-into-democrats-column",
+      "url": "https://ushotnews.online/article/mary-peltola-flips-alaskas-senate-seat-into-democrats-column",
+      "article_url": "https://ushotnews.online/article/mary-peltola-flips-alaskas-senate-seat-into-democrats-column",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136052557471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136052557471257",
+      "fb_comment_id": "122136052557471257_1805849290526624",
+      "posted_at": "2026-11-18T10:38:15.900551+00:00"
+    },
+    "mary-peltola-flips-alaskas-senate-seat-into-democrats-column": {
+      "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+      "slug": "mary-peltola-flips-alaskas-senate-seat-into-democrats-column",
+      "url": "https://ushotnews.online/article/mary-peltola-flips-alaskas-senate-seat-into-democrats-column",
+      "article_url": "https://ushotnews.online/article/mary-peltola-flips-alaskas-senate-seat-into-democrats-column",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136052557471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136052557471257",
+      "fb_comment_id": "122136052557471257_1805849290526624",
+      "posted_at": "2026-11-18T10:38:15.900551+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-18T08:53:36.117184+00:00"
+  "last_cleaned_at": "2026-11-18T10:38:07.077908+00:00"
 }
