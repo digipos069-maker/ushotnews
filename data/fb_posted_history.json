@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-18T01:09:15.510629+00:00",
+  "last_updated": "2026-11-18T02:19:31.014506+00:00",
   "posted_count": 40,
   "articles": {
-    "scraped-06c8da863e": {
-      "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
-      "slug": "kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
-      "url": "https://ushotnews.online/article/kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
-      "article_url": "https://ushotnews.online/article/kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135044425471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135044425471257",
-      "fb_comment_id": "122135044425471257_3616548611855713",
-      "posted_at": "2026-11-15T01:15:12.736724+00:00"
-    },
-    "kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so": {
-      "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
-      "slug": "kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
-      "url": "https://ushotnews.online/article/kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
-      "article_url": "https://ushotnews.online/article/kai-trump-opens-up-about-relationship-with-tiger-woods-her-mothers-boyfriend-i-love-him-so",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135044425471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135044425471257",
-      "fb_comment_id": "122135044425471257_3616548611855713",
-      "posted_at": "2026-11-15T01:15:12.736724+00:00"
-    },
     "scraped-8603fc5393": {
       "title": "Federal judge blocks Trump's renovations of DC golf course hours before its closure",
       "slug": "federal-judge-blocks-trumps-renovations-of-dc-golf-course-hours-before-its-closure",
@@ -441,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135944245471257",
       "fb_comment_id": "122135944245471257_1849629046055167",
       "posted_at": "2026-11-18T01:09:15.510568+00:00"
+    },
+    "scraped-b90ca9e952": {
+      "title": "Trump admin permanently pulls funding from LA homeless agency over mounting fraud allegations",
+      "slug": "trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
+      "url": "https://ushotnews.online/article/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
+      "article_url": "https://ushotnews.online/article/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135956413471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135956413471257",
+      "fb_comment_id": "122135956413471257_1726736049020672",
+      "posted_at": "2026-11-18T02:19:31.014444+00:00"
+    },
+    "trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati": {
+      "title": "Trump admin permanently pulls funding from LA homeless agency over mounting fraud allegations",
+      "slug": "trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
+      "url": "https://ushotnews.online/article/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
+      "article_url": "https://ushotnews.online/article/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122135956413471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135956413471257",
+      "fb_comment_id": "122135956413471257_1726736049020672",
+      "posted_at": "2026-11-18T02:19:31.014444+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-18T01:09:03.333497+00:00"
+  "last_cleaned_at": "2026-11-18T02:19:21.699319+00:00"
 }
