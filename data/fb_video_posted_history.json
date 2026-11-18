@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-18T03:30:55.331426+00:00",
+  "last_updated": "2026-11-18T12:52:21.037719+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029856": {
-      "title": "40th CAB M17 Qualification",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148891/DOD_112148891.mp4",
-      "attached_website_url": "https://ushotnews.online/article/watch-spacex-successfully-execute-the-first-chopstick-catch-of-starship",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2560742444435841",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2560742444435841",
-      "fb_comment_id": "2560742444435841_2016176495714680",
-      "posted_at": "2026-11-15T05:51:45.965568+00:00"
-    },
     "dvids-video:1029852": {
       "title": "Kadena welcomes first permanently assigned F-15EX Eagle II aircraft",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148678/DOD_112148678.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2929089064113258",
       "fb_comment_id": "2929089064113258_1202624019381478",
       "posted_at": "2026-11-18T03:30:55.331367+00:00"
+    },
+    "dvids-video:1030215": {
+      "title": "Do you have all your travel documents?",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112156603/DOD_112156603.mp4",
+      "attached_website_url": "https://ushotnews.online/article/mary-peltola-unseats-sen-dan-sullivan-giving-dems-a-56-seat-senate-majority",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1483300504863931",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1483300504863931",
+      "fb_comment_id": "1483300504863931_1157543003954875",
+      "posted_at": "2026-11-18T12:52:21.037653+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-18T03:30:30.102794+00:00"
+  "last_cleaned_at": "2026-11-18T12:51:39.959024+00:00"
 }
