@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-17T20:43:11.417228+00:00",
+  "last_updated": "2026-11-18T03:30:55.331426+00:00",
   "posted_count": 10,
   "articles": {
-    "dvids-video:1029846": {
-      "title": "71 Seconds: Supply",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148402/DOD_112148402.mp4",
-      "attached_website_url": "https://ushotnews.online/article/work-to-replace-old-copper-wire-led-to-the-faas-ground-stop",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1434422202142251",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1434422202142251",
-      "fb_comment_id": "1434422202142251_1768384875288493",
-      "posted_at": "2026-11-14T23:47:57.520482+00:00"
-    },
     "dvids-video:1029856": {
       "title": "40th CAB M17 Qualification",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112148891/DOD_112148891.mp4",
@@ -111,7 +100,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1735285814692796",
       "fb_comment_id": "1735285814692796_1133049002793880",
       "posted_at": "2026-11-17T20:43:11.417160+00:00"
+    },
+    "dvids-video:1030149": {
+      "title": "Go Army Beat Navy",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112155456/DOD_112155456.mp4",
+      "attached_website_url": "https://ushotnews.online/article/cornyn-links-nvidia-scandal-to-perception-of-trump-admin-corruption",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2929089064113258",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2929089064113258",
+      "fb_comment_id": "2929089064113258_1202624019381478",
+      "posted_at": "2026-11-18T03:30:55.331367+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-17T20:41:59.536225+00:00"
+  "last_cleaned_at": "2026-11-18T03:30:30.102794+00:00"
 }
