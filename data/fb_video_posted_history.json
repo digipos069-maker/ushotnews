@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-18T21:46:08.051021+00:00",
+  "last_updated": "2026-11-19T03:04:26.931532+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1029878": {
-      "title": "WELCOME HOME, IRON SOLDIERS",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112149745/DOD_112149745.mp4",
-      "attached_website_url": "https://ushotnews.online/article/poll-republicans-have-a-maga-dilemma-after-their-midterm-losses",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2615875222266465",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2615875222266465",
-      "fb_comment_id": "2615875222266465_2384742175676788",
-      "posted_at": "2026-11-15T23:53:35.266693+00:00"
-    },
     "dvids-video:1029887": {
       "title": "Every Season Builds the Warfighter",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112149880/DOD_112149880.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1423785563075817",
       "fb_comment_id": "1423785563075817_1510269114605268",
       "posted_at": "2026-11-18T21:46:08.050949+00:00"
+    },
+    "dvids-video:1030308": {
+      "title": "25th Infantry Division Command Team Delivers \"Go Army, Beat Navy\" Shoutout FY27-CY26",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112158363/DOD_112158363.mp4",
+      "attached_website_url": "https://ushotnews.online/article/bo-french-loses-texas-country-club-membership",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1130793486399760",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1130793486399760",
+      "fb_comment_id": "1130793486399760_1497360452252446",
+      "posted_at": "2026-11-19T03:04:26.931472+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-18T21:45:32.001048+00:00"
+  "last_cleaned_at": "2026-11-19T03:03:06.578983+00:00"
 }
