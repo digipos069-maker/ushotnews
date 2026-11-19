@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T18:36:32.329218+00:00",
-  "posted_count": 36,
+  "last_updated": "2026-11-19T22:58:53.462210+00:00",
+  "posted_count": 38,
   "articles": {
     "scraped-99cbf4b0cb": {
       "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
@@ -397,7 +397,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136510981471257",
       "fb_comment_id": "122136510981471257_1012088461231116",
       "posted_at": "2026-11-19T18:36:32.329133+00:00"
+    },
+    "scraped-b34cc412f8": {
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "slug": "fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals",
+      "url": "https://ushotnews.online/article/fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals",
+      "article_url": "https://ushotnews.online/article/fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136563187471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136563187471257",
+      "fb_comment_id": "122136563187471257_1154040207156374",
+      "posted_at": "2026-11-19T22:58:53.462143+00:00"
+    },
+    "fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals": {
+      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+      "slug": "fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals",
+      "url": "https://ushotnews.online/article/fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals",
+      "article_url": "https://ushotnews.online/article/fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136563187471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136563187471257",
+      "fb_comment_id": "122136563187471257_1154040207156374",
+      "posted_at": "2026-11-19T22:58:53.462143+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-19T18:36:20.753226+00:00"
+  "last_cleaned_at": "2026-11-19T22:58:36.124950+00:00"
 }
