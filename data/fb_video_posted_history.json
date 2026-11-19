@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-19T12:43:46.148120+00:00",
+  "last_updated": "2026-11-19T22:02:45.058824+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1029975": {
-      "title": "Guardian Arena IV Hype Video",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112150983/DOD_112150983.mp4",
-      "attached_website_url": "https://ushotnews.online/article/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1466999415370002",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1466999415370002",
-      "fb_comment_id": "1466999415370002_2222840758663403",
-      "posted_at": "2026-11-16T15:24:41.614086+00:00"
-    },
     "dvids-video:1030053": {
       "title": "U.S. service members, local Okinawans bond over coffee and music",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112153067/DOD_112153067.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2226210308313712",
       "fb_comment_id": "2226210308313712_2376926516472661",
       "posted_at": "2026-11-19T12:43:46.148061+00:00"
+    },
+    "dvids-video:1030411": {
+      "title": "CBS Army/Navy 310th ESC",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112160946/DOD_112160946.mp4",
+      "attached_website_url": "https://ushotnews.online/article/a-week-of-white-house-static",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2611633832636560",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2611633832636560",
+      "fb_comment_id": "2611633832636560_2391085315036862",
+      "posted_at": "2026-11-19T22:02:45.058749+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-19T12:42:43.572137+00:00"
+  "last_cleaned_at": "2026-11-19T22:02:11.100164+00:00"
 }
