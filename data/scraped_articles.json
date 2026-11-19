@@ -1,5 +1,1300 @@
 [
   {
+    "id": "scraped-3ba97af593",
+    "slug": "a-week-of-white-house-static",
+    "guid": "000001a1-f20d-db63-a9f5-f60d9ffb0000",
+    "title": "A week of White House static",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "A week of White House static",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "A week of White House static... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T10:45:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-055840bed5",
+    "slug": "buttigieg-allies-launch-effort-to-back-another-presidential-run",
+    "guid": "000001a1-f371-d4f2-aded-f3f1921b0000",
+    "title": "Buttigieg allies launch effort to back another presidential run",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "The independent Team Pete PAC is aiming to bring together volunteers and grassroots donors who backed Pete Buttigieg’s 2020 presidential bid.",
+    "content": [
+      "The independent Team Pete PAC is aiming to bring together volunteers and grassroots donors who backed Pete Buttigieg’s 2020 presidential bid.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://static.politico.com/43/b1/62484add41fa809cf1f1a5519f5d/https-delivery-gettyimages.com/downloads/2297906932",
+    "imageCaption": "Buttigieg allies launch effort to back another presidential ... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T11:00:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-82d6b84ee3",
+    "slug": "i-let-apples-always-listening-ai-summarize-my-life-for-two-weeks",
+    "guid": "https://www.theverge.com/?p=1037100",
+    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [&#8230;]",
+    "content": [
+      "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "I let Apple’s always-listening AI summarize my life for two ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T13:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a206e116b6",
+    "slug": "grand-theft-auto-vi-understands-just-how-important-a-smartphone-is",
+    "guid": "https://www.theverge.com/?p=1037106",
+    "title": "Grand Theft Auto VI understands just how important a smartphone is",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy [&#8230;]",
+    "content": [
+      "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Grand Theft Auto VI understands just how important a smartph... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T13:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e2b8e26d5f",
+    "slug": "blue-origin-will-launch-google8217s-ai-server-satellites-in-2029",
+    "guid": "https://www.theverge.com/?p=1037535",
+    "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first quarter of 2029. The partnership is part of Google's Project Suncatcher, a moonshot plan [&#8230;]",
+    "content": [
+      "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first quarter of 2029. The partnership is part of Google's Project Suncatcher, a moonshot plan [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Blue Origin will launch Google&#8217;s AI server satellites ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T13:53:38+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b19847a385",
+    "slug": "the-wait-begins-for-gta-vi-on-pc",
+    "guid": "https://www.theverge.com/?p=1036550",
+    "title": "The wait begins for GTA VI on PC",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already noticed, the launch is inescapable, and that's especially tough if you're [&#8230;]",
+    "content": [
+      "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already noticed, the launch is inescapable, and that's especially tough if you're [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The wait begins for GTA VI on PC... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-36992e8aef",
+    "slug": "with-the-biggest-ipo-of-all-time-anthropics-good-guy-reputation-is-on-the-line",
+    "guid": "https://www.theverge.com/?p=1037459",
+    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
+    "content": [
+      "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "With the biggest IPO of all time, Anthropic’s ‘good guy’ rep... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:25:37+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a9146eaecf",
+    "slug": "the-analogue-3d-can-now-update-itself-over-wi-fi",
+    "guid": "https://www.theverge.com/?p=1037552",
+    "title": "The Analogue 3D can now update itself over Wi-Fi",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D, the company's modernized version of the Nintendo 64. Although the console has had Wi-Fi [&#8230;]",
+    "content": [
+      "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D, the company's modernized version of the Nintendo 64. Although the console has had Wi-Fi [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Analogue 3D can now update itself over Wi-Fi... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:32:33+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d86980ef3a",
+    "slug": "how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
+    "guid": "https://www.theverge.com/?p=1036484",
+    "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016. It’s now one of the most popular podcasts in [&#8230;]",
+    "content": [
+      "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016. It’s now one of the most popular podcasts in [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How Silicon Valley lost the public, with Crooked Media’s Jon... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b1356788ca",
+    "slug": "chatgpt-can-transcribe-as-you-speak-now-with-live-dictation",
+    "guid": "https://www.theverge.com/?p=1037634",
+    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or [&#8230;]",
+    "content": [
+      "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "ChatGPT can transcribe as you speak now with Live Dictation... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:16:45+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1373f1ae8d",
+    "slug": "irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+    "guid": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+    "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+    "content": [
+      "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Iran's attacks on ships in the Strait of Hormuz escalate... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T09:46:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-43145e5e40",
+    "slug": "muslims-will-outnumber-christians-worldwide-by-2035-report-says",
+    "guid": "https://www.npr.org/2026/11/19/nx-s1-6043018/muslims-will-outnumber-christians-worldwide-by-2070-report-says",
+    "title": "Muslims will outnumber Christians worldwide by 2035, report says",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
+    "content": [
+      "By 2070, the Democratic Republic of the Congo will surpass the United States as the country with the largest total number of Christians.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Muslims will outnumber Christians worldwide by 2035, report ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-df9c771089",
+    "slug": "investors-scramble-for-a-piece-of-ai-giant-anthropic-in-blockbuster-ipo",
+    "guid": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+    "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
+    "content": [
+      "Shares in the maker of the popular Claude artificial intelligence model will start trading on the Nasdaq Thursday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Investors scramble for a piece of AI giant Anthropic in bloc... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2fcf506178",
+    "slug": "incoming-house-majority-leader-katherine-clark-stresses-democratic-unity",
+    "guid": "https://www.npr.org/2026/11/19/nx-s1-6045750/katherine-clark-hakeem-jeffries-house-democrats",
+    "title": "Incoming House majority leader Katherine Clark stresses Democratic unity",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.",
+    "content": [
+      "As Democrats prepare to take control of the House, incoming majority leader Katherine Clark discusses the party's ambitious agenda and divisions within its ranks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Incoming House majority leader Katherine Clark stresses Demo... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T11:20:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d527e7379c",
+    "slug": "anthropic-raises-more-than-100b-in-ipo-and-dems-nominate-jeffries-for-house-speaker",
+    "guid": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+    "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+    "content": [
+      "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic raises more than $100B in IPO. And, Dems nominate ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T12:26:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a52000d431",
+    "slug": "world-toilet-day-is-a-funny-idea-with-a-serious-goal-a-world-awash-in-toilets",
+    "guid": "https://www.npr.org/2026/11/19/g-s1-154159/world-toilet-day-gender-equality-menstruation",
+    "title": "World Toilet Day is a funny idea with a serious goal: A world awash in toilets",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
+    "content": [
+      "Yahoo for the loo! November 19 marks the 25th anniversary of World Toilet Day. The theme this year: \"Sanitation and Gender Equality: Safe Toilets, Equal Futures.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "World Toilet Day is a funny idea with a serious goal: A worl... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T12:26:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-466ebdee68",
+    "slug": "top-un-court-rules-myanmar-committed-genocide-against-the-rohingya",
+    "guid": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
+    "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during the 2017 military operations in the northern Rakhine State.",
+    "content": [
+      "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during the 2017 military operations in the northern Rakhine State.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Top U.N. court rules Myanmar committed genocide against the ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T12:29:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bd47bac4aa",
+    "slug": "el-sayed-downplays-antisemitism-concerns-over-rhetoric-says-people-should-be-uncomfortable",
+    "guid": "https://www.foxnews.com/media/el-sayed-downplays-antisemitism-concerns-over-rhetoric-says-people-should-uncomfortable-over-gaza",
+    "title": "El-Sayed downplays antisemitism concerns over rhetoric, says people 'should be uncomfortable' over Gaza",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Michigan Democratic Sen.-elect Abdul El-Sayed dismissed fears that his criticism of Israel could potentially fuel more antisemitism when asked by The Atlantic.",
+    "content": [
+      "Michigan Democratic Sen.-elect Abdul El-Sayed dismissed fears that his criticism of Israel could potentially fuel more antisemitism when asked by The Atlantic.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/abdul-el-sayed-michigan-democratic-convention-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "El-Sayed downplays antisemitism concerns over rhetoric, says... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:51:18+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-da4cda0b3a",
+    "slug": "aoc-leaves-door-open-to-2028-presidential-run-signals-willingness-to-work-with-trump",
+    "guid": "https://www.foxnews.com/politics/aoc-leaves-door-open-2028-presidential-run-signals-willingness-work-trump",
+    "title": "AOC leaves door open to 2028 presidential run, signals willingness to work with Trump",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Alexandria Ocasio-Cortez would not rule out a 2028 White House run, saying her focus is getting results for people after Democrats reclaimed the House majority.",
+    "content": [
+      "Alexandria Ocasio-Cortez would not rule out a 2028 White House run, saying her focus is getting results for people after Democrats reclaimed the House majority.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AOC leaves door open to 2028 presidential run, signals willi... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:52:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3eaa9dcc0a",
+    "slug": "trevor-lawrence-talks-importance-of-teaming-up-with-fedex-feeding-america-to-deliver-thank",
+    "guid": "https://www.foxnews.com/outkick-sports/trevor-lawrence-talks-importance-teaming-fedex-feeding-america-deliver-thanksgiving-meal-kits",
+    "title": "Trevor Lawrence talks importance of teaming up with FedEx, Feeding America to deliver Thanksgiving meal kits",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Trevor Lawrence teamed up with FedEx and Feeding America to assemble Thanksgiving meal kits in Jacksonville, featuring his sweet potato casserole recipe.",
+    "content": [
+      "Trevor Lawrence teamed up with FedEx and Feeding America to assemble Thanksgiving meal kits in Jacksonville, featuring his sweet potato casserole recipe.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Trevor-Lawrence-FedEx.jpg?ve=1&tl=1",
+    "imageCaption": "Trevor Lawrence talks importance of teaming up with FedEx, F... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:10:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1867b2e833",
+    "slug": "iowa-residents-near-ammunition-plant-told-to-vacate-before-army-detonates-5-tons-of-bomb-m",
+    "guid": "https://www.foxnews.com/us/iowa-residents-ammunition-plant-vacate-army-detonates-5-tons-bomb-making-chemicals",
+    "title": "Iowa residents near ammunition plant told to vacate before Army detonates 5 tons of bomb-making chemicals",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Army asked Middletown, Iowa, residents to temporarily evacuate Friday before it detonates 68 drums of lead azide at the Iowa Army Ammunition Plant.",
+    "content": [
+      "The Army asked Middletown, Iowa, residents to temporarily evacuate Friday before it detonates 68 drums of lead azide at the Iowa Army Ammunition Plant.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/iowa-army-ammunition-plant-sign.jpg?ve=1&tl=1",
+    "imageCaption": "Iowa residents near ammunition plant told to vacate before A... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:10:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-80671055ba",
+    "slug": "colts-vs-texans-week-11-pick-why-indianapolis-gets-the-spread-in-this-divisional-game",
+    "guid": "https://www.foxnews.com/outkick-betting/colts-vs-texans-week-11-pick-why-indianapolis-gets-spread-divisional-game",
+    "title": "Colts vs Texans Week 11 pick: why Indianapolis gets the spread in this divisional game",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Despite a 1-5 stretch over their past six games, NFL Week 11 betting value favors the Indianapolis Colts (+12.5) against the Houston Texans.",
+    "content": [
+      "Despite a 1-5 stretch over their past six games, NFL Week 11 betting value favors the Indianapolis Colts (+12.5) against the Houston Texans.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jonathan-taylor-colts-titans-run.jpg?ve=1&tl=1",
+    "imageCaption": "Colts vs Texans Week 11 pick: why Indianapolis gets the spre... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:25:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-221a6d19ff",
+    "slug": "las-vegas-earns-top-spot-on-americas-most-sinful-cities-list-thanks-to-casinos-and-nightli",
+    "guid": "https://www.foxnews.com/outkick-culture/las-vegas-earns-top-spot-americas-most-sinful-cities-list-casinos-nightlife",
+    "title": "Las Vegas earns top spot on America's most sinful cities list thanks to casinos and nightlife",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Las Vegas tops WalletHub&apos;s list of most sinful cities in America, with the second-most casinos per capita and the most adult entertainment options.",
+    "content": [
+      "Las Vegas tops WalletHub&apos;s list of most sinful cities in America, with the second-most casinos per capita and the most adult entertainment options.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Las_Vegas_Sinful_Cities.jpg?ve=1&tl=1",
+    "imageCaption": "Las Vegas earns top spot on America's most sinful cities lis... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:29:42+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f37ba288a5",
+    "slug": "apple-photos-ai-watermark-can-tag-your-real-pictures",
+    "guid": "https://www.foxnews.com/tech/apple-photos-ai-watermark-tag-real-pictures",
+    "title": "Apple Photos AI watermark can tag your real pictures",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Apple Photos now embeds an invisible SynthID watermark in images edited with Apple Intelligence tools like Clean Up, Extend and Reframe in iOS 27.2.",
+    "content": [
+      "Apple Photos now embeds an invisible SynthID watermark in images edited with Apple Intelligence tools like Clean Up, Extend and Reframe in iOS 27.2.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/524/iphone-usage-photo-1.jpg?ve=1&tl=1",
+    "imageCaption": "Apple Photos AI watermark can tag your real pictures... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:32:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5806097b3a",
+    "slug": "panthers-wr-tetairoa-mcmillan-is-sick-of-nfl-media-disrespecting-the-nfc-south-over-losing",
+    "guid": "https://www.foxnews.com/outkick-sports/panthers-wr-tetairoa-mcmillan-sick-nfl-media-disrespecting-nfc-south-losing-records",
+    "title": "Panthers WR Tetairoa McMillan is sick of NFL media 'disrespecting' the NFC South over losing records",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tetairoa McMillan says the NFC South deserves more respect despite the Panthers, Saints, Buccaneers and Falcons all being under .500 in the division race.",
+    "content": [
+      "Tetairoa McMillan says the NFC South deserves more respect despite the Panthers, Saints, Buccaneers and Falcons all being under .500 in the division race.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tetairoa-mcmillan.png?ve=1&tl=1",
+    "imageCaption": "Panthers WR Tetairoa McMillan is sick of NFL media 'disrespe... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:50:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-02c8278f57",
+    "slug": "musk-accuses-zelenskyy-of-lying-about-starshield-restrictions-in-ukraine",
+    "guid": "108554822",
+    "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
+    "content": [
+      "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Musk accuses Zelenskyy of lying about Starshield restriction... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T06:07:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a0629ef2f",
+    "slug": "data-center-electricity-use-could-double-by-2030-iea-says",
+    "guid": "108554974",
+    "title": "Data center electricity use could double by 2030, IEA says",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Global electricity use by data centers could double by 2030 as the AI boom adds pressure to power grids across the world, according to the IEA.",
+    "content": [
+      "Global electricity use by data centers could double by 2030 as the AI boom adds pressure to power grids across the world, according to the IEA.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Data center electricity use could double by 2030, IEA says... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T11:34:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bff3bffc4d",
+    "slug": "anthropic-lifts-nasdaq-futures-and-tech-stocks-ahead-of-its-record-breaking-ipo",
+    "guid": "108555045",
+    "title": "Anthropic lifts Nasdaq futures and tech stocks ahead of its record-breaking IPO",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Shares price above the expected range, raising over $81 billion",
+    "content": [
+      "Shares price above the expected range, raising over $81 billion",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic lifts Nasdaq futures and tech stocks ahead of its ... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T12:30:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-44e6c83894",
+    "slug": "anthropic-ipo-investors-who-flip-the-stock-may-face-brokerage-penalty",
+    "guid": "108554452",
+    "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
+    "content": [
+      "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic IPO: Investors who flip the stock may face brokera... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:09:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a0fbf95a0c",
+    "slug": "anthropic-ipo-ai-wealth-spawn-a-new-leaner-kind-of-family-office",
+    "guid": "108553421",
+    "title": "Anthropic IPO, AI wealth spawn a new, leaner kind of family office",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Anthropic IPO and a flood of AI wealth are spurring the creation of new family offices built for the era of artificial intelligence.",
+    "content": [
+      "The Anthropic IPO and a flood of AI wealth are spurring the creation of new family offices built for the era of artificial intelligence.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic IPO, AI wealth spawn a new, leaner kind of family ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:57:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-551292a318",
+    "slug": "trump-says-us-china-russia-uniquely-positioned-to-discuss-reducing-nuclear-weapons-at-hist",
+    "guid": "108554982",
+    "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
+    "content": [
+      "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump says U.S., China, Russia ‘uniquely positioned’ to disc... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:05:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c661e5b0b4",
+    "slug": "golds-bad-year-is-getting-worse-why-its-price-keeps-falling",
+    "guid": "108555096",
+    "title": "Gold's bad year is getting worse. Why its price keeps falling",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal.",
+    "content": [
+      "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Gold's bad year is getting worse. Why its price keeps fallin... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T14:17:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-75ed25b1f4",
+    "slug": "denmark-ratifies-trump-security-deal-over-greenland-after-months-of-diplomatic-tensions",
+    "guid": "108554962",
+    "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "It follows months of tensions after President Donald Trump repeatedly said the U.S. should take control of Greenland for national security reasons.",
+    "content": [
+      "It follows months of tensions after President Donald Trump repeatedly said the U.S. should take control of Greenland for national security reasons.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Denmark ratifies Trump security deal over Greenland after mo... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T12:02:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ad6895fd85",
+    "slug": "walmart-hikes-outlook-as-ceo-tells-cnbc-retailer-aims-to-keep-prices-low-despite-soaring-f",
+    "guid": "108554267",
+    "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+    "content": [
+      "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Walmart hikes outlook as CEO tells CNBC retailer aims to kee... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T13:23:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-71a854dd28",
+    "slug": "anthropic-ipo-could-create-thousands-of-multimillionaire-employees",
+    "guid": "108555070",
+    "title": "Anthropic IPO could create thousands of multimillionaire employees",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The average Anthropic employee could be worth over $40 million after the company's IPO today, according to SEC filings and investors.",
+    "content": [
+      "The average Anthropic employee could be worth over $40 million after the company's IPO today, according to SEC filings and investors.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic IPO could create thousands of multimillionaire emp... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-19T15:51:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-4c3ffa3e6c",
     "slug": "oklahoma-gop-governor-warns-of-growing-socialist-tendencies-on-the-right",
     "guid": "000001a1-f145-db63-a9f5-f745952c0000",
