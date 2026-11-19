@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-19T15:58:20.048603+00:00",
-  "posted_count": 38,
+  "last_updated": "2026-11-19T18:36:32.329218+00:00",
+  "posted_count": 36,
   "articles": {
-    "scraped-1af192a5e8": {
-      "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
-      "slug": "lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing",
-      "url": "https://ushotnews.online/article/lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing",
-      "article_url": "https://ushotnews.online/article/lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135571987471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135571987471257",
-      "fb_comment_id": "122135571987471257_1520833303429569",
-      "posted_at": "2026-11-16T17:17:17.131587+00:00"
-    },
-    "lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing": {
-      "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
-      "slug": "lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing",
-      "url": "https://ushotnews.online/article/lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing",
-      "article_url": "https://ushotnews.online/article/lindsay-clancy-to-face-a-new-trial-in-spring-of-2027-over-childrens-killing",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135571987471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135571987471257",
-      "fb_comment_id": "122135571987471257_1520833303429569",
-      "posted_at": "2026-11-16T17:17:17.131587+00:00"
-    },
-    "scraped-9339934af5": {
-      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-      "slug": "trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
-      "url": "https://ushotnews.online/article/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
-      "article_url": "https://ushotnews.online/article/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135584497471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135584497471257",
-      "fb_comment_id": "122135584497471257_2221977852080715",
-      "posted_at": "2026-11-16T18:20:28.676800+00:00"
-    },
-    "trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia": {
-      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-      "slug": "trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
-      "url": "https://ushotnews.online/article/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
-      "article_url": "https://ushotnews.online/article/trump-says-it-certainly-isnt-a-bad-idea-for-jensen-huang-to-return-to-nvidia",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135584497471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135584497471257",
-      "fb_comment_id": "122135584497471257_2221977852080715",
-      "posted_at": "2026-11-16T18:20:28.676800+00:00"
-    },
     "scraped-99cbf4b0cb": {
       "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
       "slug": "in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences",
@@ -419,7 +375,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136478455471257",
       "fb_comment_id": "122136478455471257_1796999878249282",
       "posted_at": "2026-11-19T15:58:20.048537+00:00"
+    },
+    "scraped-d86980ef3a": {
+      "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+      "slug": "how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
+      "url": "https://ushotnews.online/article/how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
+      "article_url": "https://ushotnews.online/article/how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136510981471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136510981471257",
+      "fb_comment_id": "122136510981471257_1012088461231116",
+      "posted_at": "2026-11-19T18:36:32.329133+00:00"
+    },
+    "how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau": {
+      "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+      "slug": "how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
+      "url": "https://ushotnews.online/article/how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
+      "article_url": "https://ushotnews.online/article/how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136510981471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136510981471257",
+      "fb_comment_id": "122136510981471257_1012088461231116",
+      "posted_at": "2026-11-19T18:36:32.329133+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-19T15:58:11.038061+00:00"
+  "last_cleaned_at": "2026-11-19T18:36:20.753226+00:00"
 }
