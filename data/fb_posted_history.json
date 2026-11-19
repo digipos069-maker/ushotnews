@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T01:26:06.563946+00:00",
-  "posted_count": 36,
+  "last_updated": "2026-11-19T06:02:35.523385+00:00",
+  "posted_count": 38,
   "articles": {
     "scraped-8be72e5ff9": {
       "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
@@ -397,7 +397,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136244755471257",
       "fb_comment_id": "122136244755471257_1679414797072739",
       "posted_at": "2026-11-19T01:26:06.563883+00:00"
+    },
+    "scraped-e5e815e52d": {
+      "title": "Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown",
+      "slug": "bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
+      "url": "https://ushotnews.online/article/bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
+      "article_url": "https://ushotnews.online/article/bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136291075471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136291075471257",
+      "fb_comment_id": "122136291075471257_1528229409360730",
+      "posted_at": "2026-11-19T06:02:35.523298+00:00"
+    },
+    "bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown": {
+      "title": "Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown",
+      "slug": "bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
+      "url": "https://ushotnews.online/article/bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
+      "article_url": "https://ushotnews.online/article/bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136291075471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136291075471257",
+      "fb_comment_id": "122136291075471257_1528229409360730",
+      "posted_at": "2026-11-19T06:02:35.523298+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-19T01:25:51.771005+00:00"
+  "last_cleaned_at": "2026-11-19T06:02:25.353660+00:00"
 }
