@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-19T03:04:26.931532+00:00",
+  "last_updated": "2026-11-19T12:43:46.148120+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1029887": {
-      "title": "Every Season Builds the Warfighter",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112149880/DOD_112149880.mp4",
-      "attached_website_url": "https://ushotnews.online/article/jensen-huang-might-be-plotting-a-return-and-more-of-the-latest-nvidia-drama",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1123068190615393",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1123068190615393",
-      "fb_comment_id": "1123068190615393_40002750902701830",
-      "posted_at": "2026-11-16T05:51:25.210117+00:00"
-    },
     "dvids-video:1029975": {
       "title": "Guardian Arena IV Hype Video",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112150983/DOD_112150983.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1130793486399760",
       "fb_comment_id": "1130793486399760_1497360452252446",
       "posted_at": "2026-11-19T03:04:26.931472+00:00"
+    },
+    "dvids-video:1030291": {
+      "title": "Destructive Weather Reel",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112158093/DOD_112158093.mp4",
+      "attached_website_url": "https://ushotnews.online/article/oklahoma-gop-governor-warns-of-growing-socialist-tendencies-on-the-right",
+      "trending_score": 90.0,
+      "format": "video",
+      "fb_video_id": "2226210308313712",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2226210308313712",
+      "fb_comment_id": "2226210308313712_2376926516472661",
+      "posted_at": "2026-11-19T12:43:46.148061+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-19T03:03:06.578983+00:00"
+  "last_cleaned_at": "2026-11-19T12:42:43.572137+00:00"
 }
