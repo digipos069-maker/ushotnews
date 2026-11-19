@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-19T09:25:46.137814+00:00",
-  "posted_count": 36,
+  "last_updated": "2026-11-19T15:58:20.048603+00:00",
+  "posted_count": 38,
   "articles": {
     "scraped-1af192a5e8": {
       "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
@@ -397,7 +397,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136376431471257",
       "fb_comment_id": "122136376431471257_2218930492031214",
       "posted_at": "2026-11-19T09:25:46.137747+00:00"
+    },
+    "scraped-3ba97af593": {
+      "title": "A week of White House static",
+      "slug": "a-week-of-white-house-static",
+      "url": "https://ushotnews.online/article/a-week-of-white-house-static",
+      "article_url": "https://ushotnews.online/article/a-week-of-white-house-static",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136478455471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136478455471257",
+      "fb_comment_id": "122136478455471257_1796999878249282",
+      "posted_at": "2026-11-19T15:58:20.048537+00:00"
+    },
+    "a-week-of-white-house-static": {
+      "title": "A week of White House static",
+      "slug": "a-week-of-white-house-static",
+      "url": "https://ushotnews.online/article/a-week-of-white-house-static",
+      "article_url": "https://ushotnews.online/article/a-week-of-white-house-static",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136478455471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136478455471257",
+      "fb_comment_id": "122136478455471257_1796999878249282",
+      "posted_at": "2026-11-19T15:58:20.048537+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-19T09:25:37.030907+00:00"
+  "last_cleaned_at": "2026-11-19T15:58:11.038061+00:00"
 }
