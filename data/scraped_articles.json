@@ -1,5 +1,1152 @@
 [
   {
+    "id": "scraped-9cf8aa3465",
+    "slug": "chris-christie-says-maga-has-the-smell-of-politically-rotting-flesh",
+    "guid": "000001a1-f5c1-d4f2-aded-f7e11dd40000",
+    "title": "Chris Christie says MAGA has the ‘smell of politically rotting flesh’",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Chris Christie says MAGA has the ‘smell of politically rotting flesh’",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Chris Christie says MAGA has the ‘smell of politically rotti... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T05:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b58b533d43",
+    "slug": "democratic-governors-2028-picks",
+    "guid": "000001a1-f76d-db63-a9f5-f76d7e9c0000",
+    "title": "Democratic Governors’ 2028 picks",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Democratic Governors’ 2028 picks",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Democratic Governors’ 2028 picks... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T10:45:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d387b815c5",
+    "slug": "why-the-robots-are-ditching-uber",
+    "guid": "https://www.theverge.com/?p=1037667",
+    "title": "Why the robots are ditching Uber",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We [&#8230;]",
+    "content": [
+      "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Why the robots are ditching Uber... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0209e678eb",
+    "slug": "signal-is-blocking-gemini-and-siri-ai-from-reading-your-screen",
+    "guid": "https://www.theverge.com/?p=1038390",
+    "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [&#8230;]",
+    "content": [
+      "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Signal is blocking Gemini and Siri AI from reading your scre... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:30:47+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a2f27c13f",
+    "slug": "young-people-record-their-older-relatives-for-the-great-listen",
+    "guid": "https://www.npr.org/2026/11/20/nx-s1-6045879/young-people-record-their-older-relatives-for-the-great-listen",
+    "title": "Young people record their older relatives for The Great Listen",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen.",
+    "content": [
+      "Young people sit down to record their elders as part of the annual holiday tradition from StoryCorps called The Great Listen.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Young people record their older relatives for The Great List... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T09:41:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8adcc4c961",
+    "slug": "how-exactly-did-trump-get-so-rich-on-crypto-we-explain",
+    "guid": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
+    "title": "How exactly did Trump get so rich on crypto? We explain",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+    "content": [
+      "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies. Democrats are vowing to probe his businesses as they gear up to take over Congress next year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How exactly did Trump get so rich on crypto? We explain... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d656723017",
+    "slug": "critics-are-calling-what-brand-new-release-a-masterpiece-the-quiz-knows",
+    "guid": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
+    "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
+    "content": [
+      "Plus: Are you up to date on your James Bond news? If so, you'll get at least one question right.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Critics are calling what brand-new release a masterpiece? Th... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-41b7834316",
+    "slug": "new-york-city-unveils-a-bold-plan-to-move-its-jails-off-rikers-island",
+    "guid": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
+    "title": "New York City unveils a bold plan to move its jails off Rikers Island",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
+    "content": [
+      "New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion. The jail has been plagued by assaults and inmate deaths.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "New York City unveils a bold plan to move its jails off Rike... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1554ffe562",
+    "slug": "senate-passes-bipartisan-energy-bill-amid-environmental-concerns",
+    "guid": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+    "title": "Senate passes bipartisan energy bill amid environmental concerns",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
+    "content": [
+      "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Senate passes bipartisan energy bill amid environmental conc... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T11:00:28+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ad7e2e60d8",
+    "slug": "just-how-vulnerable-are-we-to-cyberattacks",
+    "guid": "https://www.npr.org/sections/planet-money/2026/11/20/nx-s1-6047750/just-how-vulnerable-are-we-to-cyberattacks",
+    "title": "Just how vulnerable are we to cyberattacks?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
+    "content": [
+      "In a week of outages, we're thinking about the rising threat of AI-powered cyberattacks. But sometimes, it's not the most sophisticated attack that's concerning, but the easy targets buried in old software.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Just how vulnerable are we to cyberattacks?... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c67eb1b119",
+    "slug": "dems-aim-to-block-iran-war-funding-and-army-delays-lead-azide-detonation-in-iowa",
+    "guid": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+    "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+    "content": [
+      "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Dems aim to block Iran war funding. And, Army delays lead az... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:04:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-05a037b910",
+    "slug": "texas-execution-took-over-an-hour-as-staff-struggled-to-find-vein-reinaldo-dennes-moaned-a",
+    "guid": "https://www.npr.org/2026/11/20/nx-s1-6048461/texas-execution-dennes-moaned-pain",
+    "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+    "content": [
+      "The same day Dennes was given lethal injection, Florida carried out a record-breaking 20th execution of the year.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Texas execution took over an hour as staff struggled to find... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:24:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-20960cfd01",
+    "slug": "popular-video-game-gta-vi-drives-fears-of-dangerous-copycat-stunts-for-young-players-forme",
+    "guid": "https://www.foxnews.com/us/popular-video-game-gta-vi-drives-fears-dangerous-copycat-stunts-young-players-former-cop-warns",
+    "title": "Popular video game 'GTA VI' drives fears of dangerous copycat stunts for young players, former cop warns",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "As Grand Theft Auto VI launches, an expert links past GTA releases to teens citing the game before robberies, subway surfing and police impersonation.",
+    "content": [
+      "As Grand Theft Auto VI launches, an expert links past GTA releases to teens citing the game before robberies, subway surfing and police impersonation.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/grand-theft-auto-vi-billboard-hollywood.jpg?ve=1&tl=1",
+    "imageCaption": "Popular video game 'GTA VI' drives fears of dangerous copyca... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T11:00:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e92325f4a3",
+    "slug": "fox-news-digitals-news-quiz-november-20-2026",
+    "guid": "https://www.foxnews.com/lifestyle/fox-news-digitals-news-quiz-november-20-2026",
+    "title": "Fox News Digital's News Quiz: November 20, 2026",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Test your knowledge of this week&apos;s headlines, including an immigration activist&apos;s threat to reveal a mayor&apos;s home address and Variety&apos;s James Bond casting suggestions",
+    "content": [
+      "Test your knowledge of this week&apos;s headlines, including an immigration activist&apos;s threat to reveal a mayor&apos;s home address and Variety&apos;s James Bond casting suggestions",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/1200/675/fox-news-digital-news-quiz-split-1.jpg?ve=1&tl=1",
+    "imageCaption": "Fox News Digital's News Quiz: November 20, 2026... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T11:23:51+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8855f0e602",
+    "slug": "nwsl-doesnt-have-a-problem-with-political-activism-as-long-as-it-agrees-with-the-stance",
+    "guid": "https://www.foxnews.com/outkick-sports/nwsl-doesnt-have-problem-political-activism-long-agrees-stance",
+    "title": "NWSL doesn’t have a problem with political activism - as long as it agrees with the stance",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The NWSL faces questions over fan conduct after Save Women&apos;s Sports protesters were removed from a Portland Thorns game amid fan backlash.",
+    "content": [
+      "The NWSL faces questions over fan conduct after Save Women&apos;s Sports protesters were removed from a Portland Thorns game amid fan backlash.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/portland-save-womens-sports-001.jpg?ve=1&tl=1",
+    "imageCaption": "NWSL doesn’t have a problem with political activism - as lon... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T11:54:22+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0e3b33c436",
+    "slug": "with-major-league-baseballs-lockout-looming-would-the-leagues-proposal-fix-baseball",
+    "guid": "https://www.foxnews.com/outkick-sports/major-league-baseballs-lockout-looming-would-leagues-proposal-fix-baseball",
+    "title": "With Major League Baseball's lockout looming, would the league's proposal 'fix' baseball?",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Milwaukee Brewers&apos; World Series win over the Tampa Bay Rays challenges claims a salary cap would fix competitive balance in Major League Baseball.",
+    "content": [
+      "The Milwaukee Brewers&apos; World Series win over the Tampa Bay Rays challenges claims a salary cap would fix competitive balance in Major League Baseball.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/rob-manfred-world-series-dodger-stadium.jpg?ve=1&tl=1",
+    "imageCaption": "With Major League Baseball's lockout looming, would the leag... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T11:58:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5e68944312",
+    "slug": "mysterious-illness-tied-to-breast-implants-shares-symptoms-with-ms-but-key-questions-remai",
+    "guid": "https://www.foxnews.com/health/mysterious-illness-tied-breast-implants-shares-symptoms-ms-key-questions-remain",
+    "title": "Mysterious illness tied to breast implants shares symptoms with MS, but key questions remain",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Christina Applegate suspects her breast implants could be behind joint pain and other symptoms, saying she plans to discuss it with her doctors.",
+    "content": [
+      "Christina Applegate suspects her breast implants could be behind joint pain and other symptoms, saying she plans to discuss it with her doctors.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/woman-holding-breast-implants.jpg?ve=1&tl=1",
+    "imageCaption": "Mysterious illness tied to breast implants shares symptoms w... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-275ae99c05",
+    "slug": "college-student-accused-of-locking-fellow-student-in-bedroom-during-attack-as-roommates-ra",
+    "guid": "https://www.foxnews.com/us/college-student-accused-locking-fellow-student-bedroom-during-attack-roommates-raced-save-her",
+    "title": "College student accused of locking fellow student in bedroom during attack as roommates raced to save her",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sebastian Martinez, 20, allegedly strangled and sexually assaulted a Stevens Institute of Technology student in his Hoboken apartment, complaints say.",
+    "content": [
+      "Sebastian Martinez, 20, allegedly strangled and sexually assaulted a Stevens Institute of Technology student in his Hoboken apartment, complaints say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/student-beat-assaulted-at-stevens-institute-of-technology.jpg?ve=1&tl=1",
+    "imageCaption": "College student accused of locking fellow student in bedroom... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:00:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4569be4480",
+    "slug": "van-hollen-scores-support-from-another-dem-amid-senate-majority-leader-bid",
+    "guid": "https://www.foxnews.com/politics/van-hollen-scores-support-another-dem-senate-majority-leader-bid",
+    "title": "Van Hollen scores support from another Dem amid Senate majority leader bid",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Sen. Elissa Slotkin said she will back Sen. Chris Van Hollen for the Senate Democratic leadership role as he challenges Sen. Chuck Schumer.",
+    "content": [
+      "Sen. Elissa Slotkin said she will back Sen. Chris Van Hollen for the Senate Democratic leadership role as he challenges Sen. Chuck Schumer.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/4b8fcbee-chris-van-hollen-july-2026.jpg?ve=1&tl=1",
+    "imageCaption": "Van Hollen scores support from another Dem amid Senate major... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:02:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9d62926ec3",
+    "slug": "americans-dont-have-to-choose-between-our-ai-future-and-ripping-off-copyright-owners",
+    "guid": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
+    "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The DOJ&apos;s embrace of fair use for AI training breaks with the White House&apos;s own framework, as OpenAI, Microsoft and news groups battle over copyright.",
+    "content": [
+      "The DOJ&apos;s embrace of fair use for AI training breaks with the White House&apos;s own framework, as OpenAI, Microsoft and news groups battle over copyright.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Sam_Altman_UAE.jpg?ve=1&tl=1",
+    "imageCaption": "Americans don’t have to choose between our AI future and rip... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5676ea6097",
+    "slug": "ai-is-changing-software-engineering-and-some-developers-miss-the-struggle",
+    "guid": "108553976",
+    "title": "AI is changing software engineering — and some developers miss the struggle",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
+    "content": [
+      "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "AI is changing software engineering — and some developers mi... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T06:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fd88586f8f",
+    "slug": "more-than-just-a-game-how-gta-vis-blockbuster-launch-fuels-a-booming-content-economy",
+    "guid": "108556148",
+    "title": "‘More than just a game’: How GTA VI’s blockbuster launch fuels a booming content economy",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
+    "content": [
+      "GTA VI’s blockbuster launch is creating a wider economy around livestreams, social clips and high-volume content farms as millions tune in to watch others play.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "‘More than just a game’: How GTA VI’s blockbuster launch fue... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T07:08:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-41b8e5ba01",
+    "slug": "anthropic-shares-fall-8-in-premarket-amid-ai-selloff-as-nvidia-amd-shares-drop",
+    "guid": "108556253",
+    "title": "Anthropic shares fall 8% in premarket amid AI selloff as Nvidia, AMD shares drop",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
+    "content": [
+      "Anthropic soared 17% in its first day of trading on Thursday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic shares fall 8% in premarket amid AI selloff as Nvi... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:08:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9241118dd7",
+    "slug": "tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading",
+    "guid": "108556330",
+    "title": "Tech wreck drags Anthropic into the red on its second day of trading",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Nasdaq futures trade lower after steep declines extend across global tech stocks",
+    "content": [
+      "Nasdaq futures trade lower after steep declines extend across global tech stocks",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tech wreck drags Anthropic into the red on its second day of... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T11:26:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-df94007ffe",
+    "slug": "the-tech-download-anthropic-charmed-wall-street-but-one-big-uncertainty-hangs-over-the-bus",
+    "guid": "108556322",
+    "title": "The Tech Download: Anthropic charmed Wall Street. But one big uncertainty hangs over the business",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Access to the huge quantities of compute the company needs to continue developing and deploying models is a challenge for Anthropic to navigate.",
+    "content": [
+      "Access to the huge quantities of compute the company needs to continue developing and deploying models is a challenge for Anthropic to navigate.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Tech Download: Anthropic charmed Wall Street. But one bi... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:00:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8f801757f4",
+    "slug": "forget-anthropic-in-europe-the-ipo-hype-is-about-a-blue-lagoon",
+    "guid": "108555034",
+    "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
+    "content": [
+      "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Forget Anthropic: In Europe, the IPO hype is about a blue la... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T06:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a6491c210",
+    "slug": "kushner-says-russia-comfortable-with-idea-of-nato-like-security-guarantees-for-ukraine",
+    "guid": "108556300",
+    "title": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
+    "content": [
+      "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Kushner says Russia 'comfortable' with idea of NATO-like sec... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T09:56:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0346f029b4",
+    "slug": "cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut",
+    "guid": "108556354",
+    "title": "Cathie Wood's ARK Invest was a big buyer of Anthropic during debut",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
+    "content": [
+      "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Cathie Wood's ARK Invest was a big buyer of Anthropic during... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T12:27:25+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4bf4a9b118",
+    "slug": "putin-scores-massive-win-at-first-trilateral-meeting-rebuilding-standing-as-ukraine-war-gr",
+    "guid": "108556214",
+    "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Putin was positioned as an equal beside the leaders of the U.S. and China, handing a win to the authoritarian leader bogged down in a multi-year war.",
+    "content": [
+      "Putin was positioned as an equal beside the leaders of the U.S. and China, handing a win to the authoritarian leader bogged down in a multi-year war.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "World",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Putin scores ‘massive win’ at first trilateral meeting, rebu... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T09:26:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "World",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a870d58e9f",
+    "slug": "white-house-replaces-cyber-director-sean-cairncross-amid-widespread-tech-outages",
+    "guid": "108556306",
+    "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies.",
+    "content": [
+      "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "White House replaces cyber director Sean Cairncross amid wid... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T10:59:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ddf9df4436",
+    "slug": "anthropic-defies-the-odds-holding-record-ipo-despite-massively-disruptive-market",
+    "guid": "108556111",
+    "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+    "content": [
+      "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Anthropic defies the odds, holding record IPO despite ‘massi... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T11:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-8f9e61c228",
     "slug": "keisha-lance-bottoms-says-democrats-better-spend-big-on-the-south",
     "guid": "000001a1-f608-d232-adbf-f719b98c0000",
