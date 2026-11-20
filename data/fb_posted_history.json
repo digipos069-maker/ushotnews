@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-19T22:58:53.462210+00:00",
+  "last_updated": "2026-11-20T01:11:22.703838+00:00",
   "posted_count": 38,
   "articles": {
-    "scraped-99cbf4b0cb": {
-      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "slug": "in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences",
-      "url": "https://ushotnews.online/article/in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences",
-      "article_url": "https://ushotnews.online/article/in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135655051471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135655051471257",
-      "fb_comment_id": "122135655051471257_1402154359655549",
-      "posted_at": "2026-11-17T00:57:38.922195+00:00"
-    },
-    "in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences": {
-      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "slug": "in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences",
-      "url": "https://ushotnews.online/article/in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences",
-      "article_url": "https://ushotnews.online/article/in-get-huge-the-manosphere-is-here-to-make-friends-with-deadly-consequences",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135655051471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135655051471257",
-      "fb_comment_id": "122135655051471257_1402154359655549",
-      "posted_at": "2026-11-17T00:57:38.922195+00:00"
-    },
     "scraped-50c5eb3c1f": {
       "title": "California sues OpenAI over hacking risks",
       "slug": "california-sues-openai-over-hacking-risks",
@@ -419,7 +397,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136563187471257",
       "fb_comment_id": "122136563187471257_1154040207156374",
       "posted_at": "2026-11-19T22:58:53.462143+00:00"
+    },
+    "scraped-3210f88e51": {
+      "title": "Puka Nacua is suspended by the NFL but discipline's timing could not have been any better for Rams receiver",
+      "slug": "puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
+      "url": "https://ushotnews.online/article/puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
+      "article_url": "https://ushotnews.online/article/puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136631161471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136631161471257",
+      "fb_comment_id": "122136631161471257_1156405820199408",
+      "posted_at": "2026-11-20T01:11:22.703754+00:00"
+    },
+    "puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f": {
+      "title": "Puka Nacua is suspended by the NFL but discipline's timing could not have been any better for Rams receiver",
+      "slug": "puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
+      "url": "https://ushotnews.online/article/puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
+      "article_url": "https://ushotnews.online/article/puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136631161471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136631161471257",
+      "fb_comment_id": "122136631161471257_1156405820199408",
+      "posted_at": "2026-11-20T01:11:22.703754+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-19T22:58:36.124950+00:00"
+  "last_cleaned_at": "2026-11-20T01:11:14.677742+00:00"
 }
