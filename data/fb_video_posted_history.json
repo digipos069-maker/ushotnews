@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-20T16:52:48.749217+00:00",
+  "last_updated": "2026-11-20T23:53:24.102991+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030124": {
-      "title": "Your First Hello",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112154961/DOD_112154961.mp4",
-      "attached_website_url": "https://ushotnews.online/article/democrats-see-an-immigration-opening-despite-stephen-millers-rise",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1735285814692796",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1735285814692796",
-      "fb_comment_id": "1735285814692796_1133049002793880",
-      "posted_at": "2026-11-17T20:43:11.417160+00:00"
-    },
     "dvids-video:1030149": {
       "title": "Go Army Beat Navy",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112155456/DOD_112155456.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1178077828237304",
       "fb_comment_id": "1178077828237304_1509179841053930",
       "posted_at": "2026-11-20T16:52:48.749163+00:00"
+    },
+    "dvids-video:1030614": {
+      "title": "Fairchild AFB 2026 Mission Brief Video",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112164560/DOD_112164560.mp4",
+      "attached_website_url": "https://ushotnews.online/article/new-democratic-governors-race-to-deliver-relief-on-costs",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2091670278170850",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2091670278170850",
+      "fb_comment_id": "2091670278170850_1179894014476742",
+      "posted_at": "2026-11-20T23:53:24.102903+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-20T16:51:36.876940+00:00"
+  "last_cleaned_at": "2026-11-20T23:52:09.370941+00:00"
 }
