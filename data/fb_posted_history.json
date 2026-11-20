@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20T20:56:17.843334+00:00",
-  "posted_count": 38,
+  "last_updated": "2026-11-20T23:56:50.626795+00:00",
+  "posted_count": 40,
   "articles": {
     "scraped-f86da06f71": {
       "title": "Pentagon detains senior US Army officer accused of spying for Russians after UK arrest",
@@ -419,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136867471471257",
       "fb_comment_id": "122136867471471257_1682925763371008",
       "posted_at": "2026-11-20T20:56:17.843273+00:00"
+    },
+    "scraped-a5014dfb3e": {
+      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+      "slug": "gop-sen-johnson-rejects-tying-government-funding-to-an-end-to-the-iran-war",
+      "url": "https://ushotnews.online/article/gop-sen-johnson-rejects-tying-government-funding-to-an-end-to-the-iran-war",
+      "article_url": "https://ushotnews.online/article/gop-sen-johnson-rejects-tying-government-funding-to-an-end-to-the-iran-war",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136921633471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136921633471257",
+      "fb_comment_id": "122136921633471257_1455236443398077",
+      "posted_at": "2026-11-20T23:56:50.626726+00:00"
+    },
+    "gop-sen-johnson-rejects-tying-government-funding-to-an-end-to-the-iran-war": {
+      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+      "slug": "gop-sen-johnson-rejects-tying-government-funding-to-an-end-to-the-iran-war",
+      "url": "https://ushotnews.online/article/gop-sen-johnson-rejects-tying-government-funding-to-an-end-to-the-iran-war",
+      "article_url": "https://ushotnews.online/article/gop-sen-johnson-rejects-tying-government-funding-to-an-end-to-the-iran-war",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136921633471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136921633471257",
+      "fb_comment_id": "122136921633471257_1455236443398077",
+      "posted_at": "2026-11-20T23:56:50.626726+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-20T20:56:07.498054+00:00"
+  "last_cleaned_at": "2026-11-20T23:56:44.178147+00:00"
 }
