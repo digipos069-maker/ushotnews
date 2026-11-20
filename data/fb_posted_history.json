@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20T12:32:33.071004+00:00",
-  "posted_count": 38,
+  "last_updated": "2026-11-20T17:58:06.606192+00:00",
+  "posted_count": 40,
   "articles": {
     "scraped-a4500c1080": {
       "title": "Banning phones really does help kids learn, researchers say",
@@ -419,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136767583471257",
       "fb_comment_id": "122136767583471257_1672335767667371",
       "posted_at": "2026-11-20T12:32:33.070948+00:00"
+    },
+    "scraped-9a2f27c13f": {
+      "title": "Young people record their older relatives for The Great Listen",
+      "slug": "young-people-record-their-older-relatives-for-the-great-listen",
+      "url": "https://ushotnews.online/article/young-people-record-their-older-relatives-for-the-great-listen",
+      "article_url": "https://ushotnews.online/article/young-people-record-their-older-relatives-for-the-great-listen",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136835227471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136835227471257",
+      "fb_comment_id": "122136835227471257_1656988929249273",
+      "posted_at": "2026-11-20T17:58:06.606126+00:00"
+    },
+    "young-people-record-their-older-relatives-for-the-great-listen": {
+      "title": "Young people record their older relatives for The Great Listen",
+      "slug": "young-people-record-their-older-relatives-for-the-great-listen",
+      "url": "https://ushotnews.online/article/young-people-record-their-older-relatives-for-the-great-listen",
+      "article_url": "https://ushotnews.online/article/young-people-record-their-older-relatives-for-the-great-listen",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136835227471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136835227471257",
+      "fb_comment_id": "122136835227471257_1656988929249273",
+      "posted_at": "2026-11-20T17:58:06.606126+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-20T12:32:24.260903+00:00"
+  "last_cleaned_at": "2026-11-20T17:57:56.240619+00:00"
 }
