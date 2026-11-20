@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-19T22:02:45.058824+00:00",
+  "last_updated": "2026-11-20T06:44:31.723114+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030053": {
-      "title": "U.S. service members, local Okinawans bond over coffee and music",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112153067/DOD_112153067.mp4",
-      "attached_website_url": "https://ushotnews.online/article/schumers-challenger",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2064861657529017",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2064861657529017",
-      "fb_comment_id": "2064861657529017_1172126308606661",
-      "posted_at": "2026-11-17T00:07:44.152727+00:00"
-    },
     "dvids-video:1030063": {
       "title": "JPMRC 27-01 OPFOR Conducts Night Time Assault",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112153277/DOD_112153277.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2611633832636560",
       "fb_comment_id": "2611633832636560_2391085315036862",
       "posted_at": "2026-11-19T22:02:45.058749+00:00"
+    },
+    "dvids-video:1030500": {
+      "title": "Aircraft Damage Repair Training Yokota Air Base",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112161749/DOD_112161749.mp4",
+      "attached_website_url": "https://ushotnews.online/article/keisha-lance-bottoms-says-democrats-better-spend-big-on-the-south",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1445129163851158",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1445129163851158",
+      "fb_comment_id": "1445129163851158_1162137219604887",
+      "posted_at": "2026-11-20T06:44:31.723062+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-19T22:02:11.100164+00:00"
+  "last_cleaned_at": "2026-11-20T06:43:21.249928+00:00"
 }
