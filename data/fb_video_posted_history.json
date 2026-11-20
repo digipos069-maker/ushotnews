@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-20T06:44:31.723114+00:00",
+  "last_updated": "2026-11-20T16:52:48.749217+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030063": {
-      "title": "JPMRC 27-01 OPFOR Conducts Night Time Assault",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112153277/DOD_112153277.mp4",
-      "attached_website_url": "https://ushotnews.online/article/biden-library-nears-site-decision-as-fundraising-trails-ambitions-report",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "940623962318733",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/940623962318733",
-      "fb_comment_id": "940623962318733_1130108383240448",
-      "posted_at": "2026-11-17T10:28:27.960559+00:00"
-    },
     "dvids-video:1030124": {
       "title": "Your First Hello",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112154961/DOD_112154961.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1445129163851158",
       "fb_comment_id": "1445129163851158_1162137219604887",
       "posted_at": "2026-11-20T06:44:31.723062+00:00"
+    },
+    "dvids-video:1030543": {
+      "title": "1st Cavalry Division Shout-Out for Army vs. Rice Football Game",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112163174/DOD_112163174.mp4",
+      "attached_website_url": "https://ushotnews.online/article/chris-christie-says-maga-has-the-smell-of-politically-rotting-flesh",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1178077828237304",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1178077828237304",
+      "fb_comment_id": "1178077828237304_1509179841053930",
+      "posted_at": "2026-11-20T16:52:48.749163+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-20T06:43:21.249928+00:00"
+  "last_cleaned_at": "2026-11-20T16:51:36.876940+00:00"
 }
