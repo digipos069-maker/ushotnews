@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-20T01:11:22.703838+00:00",
+  "last_updated": "2026-11-20T03:55:52.596708+00:00",
   "posted_count": 38,
   "articles": {
-    "scraped-50c5eb3c1f": {
-      "title": "California sues OpenAI over hacking risks",
-      "slug": "california-sues-openai-over-hacking-risks",
-      "url": "https://ushotnews.online/article/california-sues-openai-over-hacking-risks",
-      "article_url": "https://ushotnews.online/article/california-sues-openai-over-hacking-risks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135663535471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135663535471257",
-      "fb_comment_id": "122135663535471257_972432598905279",
-      "posted_at": "2026-11-17T02:01:14.640874+00:00"
-    },
-    "california-sues-openai-over-hacking-risks": {
-      "title": "California sues OpenAI over hacking risks",
-      "slug": "california-sues-openai-over-hacking-risks",
-      "url": "https://ushotnews.online/article/california-sues-openai-over-hacking-risks",
-      "article_url": "https://ushotnews.online/article/california-sues-openai-over-hacking-risks",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135663535471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135663535471257",
-      "fb_comment_id": "122135663535471257_972432598905279",
-      "posted_at": "2026-11-17T02:01:14.640874+00:00"
-    },
     "scraped-739e907f4a": {
       "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
       "slug": "some-of-our-favorite-playstation-games-are-steeply-discounted-for-black-friday",
@@ -419,7 +397,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136631161471257",
       "fb_comment_id": "122136631161471257_1156405820199408",
       "posted_at": "2026-11-20T01:11:22.703754+00:00"
+    },
+    "scraped-cde023be84": {
+      "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
+      "slug": "cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
+      "url": "https://ushotnews.online/article/cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
+      "article_url": "https://ushotnews.online/article/cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136665001471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136665001471257",
+      "fb_comment_id": "122136665001471257_1655930046226358",
+      "posted_at": "2026-11-20T03:55:52.596650+00:00"
+    },
+    "cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade": {
+      "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
+      "slug": "cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
+      "url": "https://ushotnews.online/article/cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
+      "article_url": "https://ushotnews.online/article/cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136665001471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136665001471257",
+      "fb_comment_id": "122136665001471257_1655930046226358",
+      "posted_at": "2026-11-20T03:55:52.596650+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-20T01:11:14.677742+00:00"
+  "last_cleaned_at": "2026-11-20T03:55:40.899031+00:00"
 }
