@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-21T06:54:47.312924+00:00",
+  "last_updated": "2026-11-21T09:35:35.851207+00:00",
   "posted_count": 40,
   "articles": {
-    "scraped-c8281ea195": {
-      "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
-      "slug": "with-jensen-huang-gone-colette-kress-shows-nvidia-is-still-at-the-center-of-ai",
-      "url": "https://ushotnews.online/article/with-jensen-huang-gone-colette-kress-shows-nvidia-is-still-at-the-center-of-ai",
-      "article_url": "https://ushotnews.online/article/with-jensen-huang-gone-colette-kress-shows-nvidia-is-still-at-the-center-of-ai",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136031647471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136031647471257",
-      "fb_comment_id": "122136031647471257_2410539449715699",
-      "posted_at": "2026-11-18T08:53:45.514152+00:00"
-    },
-    "with-jensen-huang-gone-colette-kress-shows-nvidia-is-still-at-the-center-of-ai": {
-      "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
-      "slug": "with-jensen-huang-gone-colette-kress-shows-nvidia-is-still-at-the-center-of-ai",
-      "url": "https://ushotnews.online/article/with-jensen-huang-gone-colette-kress-shows-nvidia-is-still-at-the-center-of-ai",
-      "article_url": "https://ushotnews.online/article/with-jensen-huang-gone-colette-kress-shows-nvidia-is-still-at-the-center-of-ai",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136031647471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136031647471257",
-      "fb_comment_id": "122136031647471257_2410539449715699",
-      "posted_at": "2026-11-18T08:53:45.514152+00:00"
-    },
     "scraped-bb71e28c6c": {
       "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
       "slug": "mary-peltola-flips-alaskas-senate-seat-into-democrats-column",
@@ -441,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136998229471257",
       "fb_comment_id": "122136998229471257_1781873546410027",
       "posted_at": "2026-11-21T06:54:47.312852+00:00"
+    },
+    "scraped-88d51293a5": {
+      "title": "Alabama woman pleads guilty after reportedly using smart glasses to target drug trial witnesses",
+      "slug": "alabama-woman-pleads-guilty-after-reportedly-using-smart-glasses-to-target-drug-trial-witn",
+      "url": "https://ushotnews.online/article/alabama-woman-pleads-guilty-after-reportedly-using-smart-glasses-to-target-drug-trial-witn",
+      "article_url": "https://ushotnews.online/article/alabama-woman-pleads-guilty-after-reportedly-using-smart-glasses-to-target-drug-trial-witn",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137028625471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137028625471257",
+      "fb_comment_id": "122137028625471257_2312086222665758",
+      "posted_at": "2026-11-21T09:35:35.851149+00:00"
+    },
+    "alabama-woman-pleads-guilty-after-reportedly-using-smart-glasses-to-target-drug-trial-witn": {
+      "title": "Alabama woman pleads guilty after reportedly using smart glasses to target drug trial witnesses",
+      "slug": "alabama-woman-pleads-guilty-after-reportedly-using-smart-glasses-to-target-drug-trial-witn",
+      "url": "https://ushotnews.online/article/alabama-woman-pleads-guilty-after-reportedly-using-smart-glasses-to-target-drug-trial-witn",
+      "article_url": "https://ushotnews.online/article/alabama-woman-pleads-guilty-after-reportedly-using-smart-glasses-to-target-drug-trial-witn",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137028625471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137028625471257",
+      "fb_comment_id": "122137028625471257_2312086222665758",
+      "posted_at": "2026-11-21T09:35:35.851149+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-21T06:54:37.197512+00:00"
+  "last_cleaned_at": "2026-11-21T09:35:18.027814+00:00"
 }
