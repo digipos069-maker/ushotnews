@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-b82829713c",
+    "slug": "mlks-handwritten-draft-of-iconic-speech-on-display-for-the-first-time",
+    "guid": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+    "title": "MLK's handwritten draft of iconic speech on display for the first time",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+    "content": [
+      "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown. The iconic phrase, however, never made it on the page.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "MLK's handwritten draft of iconic speech on display for the ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T21:38:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d1100fbc86",
+    "slug": "trumps-impact-on-an-ohio-steel-plant",
+    "guid": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+    "title": "Trump's impact on an Ohio steel plant",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump",
+    "content": [
+      "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump's impact on an Ohio steel plant... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T21:38:11+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4c84313877",
+    "slug": "rising-seas-have-forced-this-quinault-village-to-relocate",
+    "guid": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+    "title": "Rising seas have forced this Quinault village to relocate",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
+    "content": [
+      "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Rising seas have forced this Quinault village to relocate... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T21:38:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b3a66296fe",
+    "slug": "the-latest-from-trumps-press-conference",
+    "guid": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+    "title": "The latest from Trump's press conference",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+    "content": [
+      "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The latest from Trump's press conference... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T21:38:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6077e8e1bf",
+    "slug": "sp-500-sinks-37-and-the-nasdaq-composite-goes-negative-for-the-year",
+    "guid": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+    "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+    "content": [
+      "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative fo... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T22:11:29+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e49a5109f8",
+    "slug": "locals-of-michigan-city-with-largest-muslim-population-in-us-call-el-sayed-election-victor",
+    "guid": "https://www.foxnews.com/media/locals-michigan-city-largest-muslim-population-us-call-el-sayed-election-victory-needed-change",
+    "title": "Locals of Michigan city with largest Muslim population in US call El-Sayed election victory 'needed' change",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Dearborn, Michigan, locals are celebrating Sen.-elect Abdul El-Sayed&apos;s historic win as the first Muslim American elected to the U.S. Senate.",
+    "content": [
+      "Dearborn, Michigan, locals are celebrating Sen.-elect Abdul El-Sayed&apos;s historic win as the first Muslim American elected to the U.S. Senate.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/abdul-el-sayed-november-2026.jpg?ve=1&tl=1",
+    "imageCaption": "Locals of Michigan city with largest Muslim population in US... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T23:51:50+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-175976a26b",
+    "slug": "zoo-shares-autopsy-findings-following-fiona-the-hippos-heartbreaking-death",
+    "guid": "https://www.foxnews.com/us/zoo-shares-autopsy-findings-fiona-hippos-heartbreaking-death",
+    "title": "Zoo shares autopsy findings following Fiona the hippo’s heartbreaking death",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Cincinnati Zoo’s director of animal health, Dr. Mike Wenninger, said a postmortem examination has revealed where the hat was lodged inside Fiona’s digestive tract.",
+    "content": [
+      "Cincinnati Zoo’s director of animal health, Dr. Mike Wenninger, said a postmortem examination has revealed where the hat was lodged inside Fiona’s digestive tract.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/CINCINNATI-ZOO-FIONA-THE-HIPPO-DEATH-TIMELINE-4.jpg?ve=1&tl=1",
+    "imageCaption": "Zoo shares autopsy findings following Fiona the hippo’s hear... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T23:54:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f179badd05",
+    "slug": "usda-releases-decades-of-bigfoot-files-including-1982-forest-service-investigation-in-wash",
+    "guid": "https://www.foxnews.com/us/usda-releases-decades-bigfoot-files-1982-forest-service-investigation-washington-state",
+    "title": "USDA releases decades of Bigfoot files, including 1982 Forest Service investigation in Washington state",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The USDA&apos;s Bigfoot/Sasquatch Records include an official 1982 Forest Service probe into footprints in Washington state&apos;s Umatilla National Forest.",
+    "content": [
+      "The USDA&apos;s Bigfoot/Sasquatch Records include an official 1982 Forest Service probe into footprints in Washington state&apos;s Umatilla National Forest.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/bigfoot-happy-camp-klamath-forest.jpg?ve=1&tl=1",
+    "imageCaption": "USDA releases decades of Bigfoot files, including 1982 Fores... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T23:55:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7b53844e57",
+    "slug": "charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
+    "guid": "https://www.foxnews.com/media/charlie-sheen-stunned-learn-fellow-actor-rob-lowe-had-been-praying-him-years",
+    "title": "Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Rob Lowe revealed on Charlie Sheen&apos;s Mostly Sheenius podcast that he prayed for the actor for years while struggling with his own sobriety, calling him my guy in recovery.",
+    "content": [
+      "Rob Lowe revealed on Charlie Sheen&apos;s Mostly Sheenius podcast that he prayed for the actor for years while struggling with his own sobriety, calling him my guy in recovery.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Charlie-Sheen-Interview.jpeg?ve=1&tl=1",
+    "imageCaption": "Charlie Sheen stunned to learn fellow actor Rob Lowe had bee... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-21T00:15:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7b4ee05fd6",
+    "slug": "fox-news-true-crime-newsletter-susan-smith-parole-alex-murdaugh-ruling-lindsay-clancy-appe",
+    "guid": "https://www.foxnews.com/us/fox-news-true-crime-newsletter-susan-smith-parole-alex-murdaugh-ruling-lindsay-clancy-appeal",
+    "title": "Fox News True Crime Newsletter: Susan Smith parole, Alex Murdaugh ruling, Lindsay Clancy appeal",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
+    "content": [
+      "Stay up to date with the Fox News True Crime Newsletter, which brings you the latest cases ripped from the headlines, from crime to courts, legal and scandal.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/Smith-1.png?ve=1&tl=1",
+    "imageCaption": "Fox News True Crime Newsletter: Susan Smith parole, Alex Mur... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-21T00:58:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1369a6811e",
+    "slug": "enough-protesters-decry-antisemitism-after-hunter-college-student-event-including-jewish-g",
+    "guid": "https://www.foxnews.com/media/enough-protesters-decry-antisemitism-after-hunter-college-student-event-including-jewish-group-canceled",
+    "title": "'Enough': Protesters decry antisemitism after Hunter College student event including Jewish group is canceled",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Pro-Israel rally organizers at Hunter College say the cancelled Cultural Arts Night shows antisemitism at CUNY, as counter protesters chant nearby.",
+    "content": [
+      "Pro-Israel rally organizers at Hunter College say the cancelled Cultural Arts Night shows antisemitism at CUNY, as counter protesters chant nearby.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/HUNTER-COLLEGE-RALLY-ANTISEMITISM-NOV-19.jpg?ve=1&tl=1",
+    "imageCaption": "'Enough': Protesters decry antisemitism after Hunter College... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-21T01:04:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-404b28a767",
+    "slug": "new-drug-combo-shrinks-tumors-in-most-patients-facing-aggressive-cancer-type",
+    "guid": "https://www.foxnews.com/health/new-drug-combo-shrinks-tumors-most-patients-aggressive-cancer-type",
+    "title": "New drug combo shrinks tumors in most patients facing aggressive cancer type",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The pancreatic cancer pill daraxonrasib shrank tumors in 60.7% of patients when paired with chemotherapy, and 8.2% saw tumors vanish on scans.",
+    "content": [
+      "The pancreatic cancer pill daraxonrasib shrank tumors in 60.7% of patients when paired with chemotherapy, and 8.2% saw tumors vanish on scans.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/man-taking-pill.jpg?ve=1&tl=1",
+    "imageCaption": "New drug combo shrinks tumors in most patients facing aggres... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-21T01:07:32+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fc782f6757",
+    "slug": "as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive",
+    "guid": "108556444",
+    "title": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Anthropic options list Monday. They will likely be expensive",
+    "content": [
+      "Anthropic options list Monday. They will likely be expensive",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "As Anthropic shares tank, investors scramble to hedge. It co... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T15:12:40+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c4a01ef6a8",
+    "slug": "zscaler-stock-jumps-18-on-report-that-crowdstrike-in-talks-to-buy-security-vendor",
+    "guid": "108556889",
+    "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+    "content": [
+      "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Zscaler stock jumps 18% on report that CrowdStrike in talks ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-20T21:35:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-5e8ea6e6c0",
     "slug": "new-democratic-governors-race-to-deliver-relief-on-costs",
     "guid": "000001a1-fa4f-d4f2-aded-faef3cf70000",
