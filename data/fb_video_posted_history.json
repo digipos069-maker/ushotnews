@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-21T16:01:50.771587+00:00",
+  "last_updated": "2026-11-21T22:58:11.679559+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030249": {
-      "title": "Thanksgiving Greetings from Kuwait",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112157298/DOD_112157298.mp4",
-      "attached_website_url": "https://ushotnews.online/article/poll-most-americans-think-a-democrat-will-be-the-next-president",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1423785563075817",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1423785563075817",
-      "fb_comment_id": "1423785563075817_1510269114605268",
-      "posted_at": "2026-11-18T21:46:08.050949+00:00"
-    },
     "dvids-video:1030308": {
       "title": "25th Infantry Division Command Team Delivers \"Go Army, Beat Navy\" Shoutout FY27-CY26",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112158363/DOD_112158363.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1470140801736128",
       "fb_comment_id": "1470140801736128_1661461269049674",
       "posted_at": "2026-11-21T16:01:50.771531+00:00"
+    },
+    "dvids-video:1030653": {
+      "title": "Thanksgiving Greetings from Kuwait",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165409/DOD_112165409.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-fbi-and-usda-were-reportedly-hacked",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1886721072485725",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1886721072485725",
+      "fb_comment_id": "1886721072485725_1160950483291152",
+      "posted_at": "2026-11-21T22:58:11.679498+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-21T16:00:24.395952+00:00"
+  "last_cleaned_at": "2026-11-21T22:57:12.923592+00:00"
 }
