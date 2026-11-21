@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-21T06:37:21.118387+00:00",
+  "last_updated": "2026-11-21T16:01:50.771587+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030215": {
-      "title": "Do you have all your travel documents?",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112156603/DOD_112156603.mp4",
-      "attached_website_url": "https://ushotnews.online/article/mary-peltola-unseats-sen-dan-sullivan-giving-dems-a-56-seat-senate-majority",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1483300504863931",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1483300504863931",
-      "fb_comment_id": "1483300504863931_1157543003954875",
-      "posted_at": "2026-11-18T12:52:21.037653+00:00"
-    },
     "dvids-video:1030249": {
       "title": "Thanksgiving Greetings from Kuwait",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112157298/DOD_112157298.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1600934138454626",
       "fb_comment_id": "1600934138454626_1018534723886532",
       "posted_at": "2026-11-21T06:37:21.118328+00:00"
+    },
+    "dvids-video:1030641": {
+      "title": "2ID/RUCD Holiday Shoutout",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165066/DOD_112165066.mp4",
+      "attached_website_url": "https://ushotnews.online/article/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1470140801736128",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1470140801736128",
+      "fb_comment_id": "1470140801736128_1661461269049674",
+      "posted_at": "2026-11-21T16:01:50.771531+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-21T06:36:27.883883+00:00"
+  "last_cleaned_at": "2026-11-21T16:00:24.395952+00:00"
 }
