@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-21T02:00:25.372668+00:00",
+  "last_updated": "2026-11-21T06:54:47.312924+00:00",
   "posted_count": 40,
   "articles": {
-    "scraped-b90ca9e952": {
-      "title": "Trump admin permanently pulls funding from LA homeless agency over mounting fraud allegations",
-      "slug": "trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
-      "url": "https://ushotnews.online/article/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
-      "article_url": "https://ushotnews.online/article/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135956413471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135956413471257",
-      "fb_comment_id": "122135956413471257_1726736049020672",
-      "posted_at": "2026-11-18T02:19:31.014444+00:00"
-    },
-    "trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati": {
-      "title": "Trump admin permanently pulls funding from LA homeless agency over mounting fraud allegations",
-      "slug": "trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
-      "url": "https://ushotnews.online/article/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
-      "article_url": "https://ushotnews.online/article/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135956413471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135956413471257",
-      "fb_comment_id": "122135956413471257_1726736049020672",
-      "posted_at": "2026-11-18T02:19:31.014444+00:00"
-    },
     "scraped-c8281ea195": {
       "title": "With Jensen Huang gone, Colette Kress shows Nvidia is still at the center of AI",
       "slug": "with-jensen-huang-gone-colette-kress-shows-nvidia-is-still-at-the-center-of-ai",
@@ -441,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136942201471257",
       "fb_comment_id": "122136942201471257_993011066749934",
       "posted_at": "2026-11-21T02:00:25.372607+00:00"
+    },
+    "scraped-8109e5e596": {
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "slug": "multiplying-your-switch-2s-storage-costs-less-than-usual-right-now",
+      "url": "https://ushotnews.online/article/multiplying-your-switch-2s-storage-costs-less-than-usual-right-now",
+      "article_url": "https://ushotnews.online/article/multiplying-your-switch-2s-storage-costs-less-than-usual-right-now",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136998229471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136998229471257",
+      "fb_comment_id": "122136998229471257_1781873546410027",
+      "posted_at": "2026-11-21T06:54:47.312852+00:00"
+    },
+    "multiplying-your-switch-2s-storage-costs-less-than-usual-right-now": {
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "slug": "multiplying-your-switch-2s-storage-costs-less-than-usual-right-now",
+      "url": "https://ushotnews.online/article/multiplying-your-switch-2s-storage-costs-less-than-usual-right-now",
+      "article_url": "https://ushotnews.online/article/multiplying-your-switch-2s-storage-costs-less-than-usual-right-now",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136998229471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136998229471257",
+      "fb_comment_id": "122136998229471257_1781873546410027",
+      "posted_at": "2026-11-21T06:54:47.312852+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-21T02:00:17.807459+00:00"
+  "last_cleaned_at": "2026-11-21T06:54:37.197512+00:00"
 }
