@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-21T15:15:31.846926+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-21T17:07:59.769191+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-2a2caade43": {
       "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
@@ -441,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137107423471257",
       "fb_comment_id": "122137107423471257_1217510154274982",
       "posted_at": "2026-11-21T15:15:31.846866+00:00"
+    },
+    "scraped-048189b4bb": {
+      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+      "slug": "anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+      "url": "https://ushotnews.online/article/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+      "article_url": "https://ushotnews.online/article/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137141005471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137141005471257",
+      "fb_comment_id": "122137141005471257_1161818619876180",
+      "posted_at": "2026-11-21T17:07:59.769129+00:00"
+    },
+    "anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that": {
+      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+      "slug": "anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+      "url": "https://ushotnews.online/article/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+      "article_url": "https://ushotnews.online/article/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137141005471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137141005471257",
+      "fb_comment_id": "122137141005471257_1161818619876180",
+      "posted_at": "2026-11-21T17:07:59.769129+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-21T15:15:21.123879+00:00"
+  "last_cleaned_at": "2026-11-21T17:07:47.017557+00:00"
 }
