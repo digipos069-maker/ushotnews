@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-20T23:56:50.626795+00:00",
+  "last_updated": "2026-11-21T02:00:25.372668+00:00",
   "posted_count": 40,
   "articles": {
-    "scraped-f86da06f71": {
-      "title": "Pentagon detains senior US Army officer accused of spying for Russians after UK arrest",
-      "slug": "pentagon-detains-senior-us-army-officer-accused-of-spying-for-russians-after-uk-arrest",
-      "url": "https://ushotnews.online/article/pentagon-detains-senior-us-army-officer-accused-of-spying-for-russians-after-uk-arrest",
-      "article_url": "https://ushotnews.online/article/pentagon-detains-senior-us-army-officer-accused-of-spying-for-russians-after-uk-arrest",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135944245471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135944245471257",
-      "fb_comment_id": "122135944245471257_1849629046055167",
-      "posted_at": "2026-11-18T01:09:15.510568+00:00"
-    },
-    "pentagon-detains-senior-us-army-officer-accused-of-spying-for-russians-after-uk-arrest": {
-      "title": "Pentagon detains senior US Army officer accused of spying for Russians after UK arrest",
-      "slug": "pentagon-detains-senior-us-army-officer-accused-of-spying-for-russians-after-uk-arrest",
-      "url": "https://ushotnews.online/article/pentagon-detains-senior-us-army-officer-accused-of-spying-for-russians-after-uk-arrest",
-      "article_url": "https://ushotnews.online/article/pentagon-detains-senior-us-army-officer-accused-of-spying-for-russians-after-uk-arrest",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122135944245471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122135944245471257",
-      "fb_comment_id": "122135944245471257_1849629046055167",
-      "posted_at": "2026-11-18T01:09:15.510568+00:00"
-    },
     "scraped-b90ca9e952": {
       "title": "Trump admin permanently pulls funding from LA homeless agency over mounting fraud allegations",
       "slug": "trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegati",
@@ -441,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136921633471257",
       "fb_comment_id": "122136921633471257_1455236443398077",
       "posted_at": "2026-11-20T23:56:50.626726+00:00"
+    },
+    "scraped-7b53844e57": {
+      "title": "Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years",
+      "slug": "charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
+      "url": "https://ushotnews.online/article/charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
+      "article_url": "https://ushotnews.online/article/charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136942201471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136942201471257",
+      "fb_comment_id": "122136942201471257_993011066749934",
+      "posted_at": "2026-11-21T02:00:25.372607+00:00"
+    },
+    "charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years": {
+      "title": "Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years",
+      "slug": "charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
+      "url": "https://ushotnews.online/article/charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
+      "article_url": "https://ushotnews.online/article/charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122136942201471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136942201471257",
+      "fb_comment_id": "122136942201471257_993011066749934",
+      "posted_at": "2026-11-21T02:00:25.372607+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-20T23:56:44.178147+00:00"
+  "last_cleaned_at": "2026-11-21T02:00:17.807459+00:00"
 }
