@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-21T21:03:20.771200+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-21T22:17:20.380852+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-1827128480": {
       "title": "What is Baltimore best at making? 'Criminals,' says Marlon Humphrey who then feels the heat and changes tune",
@@ -441,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137188753471257",
       "fb_comment_id": "122137188753471257_4824765264424387",
       "posted_at": "2026-11-21T21:03:20.771135+00:00"
+    },
+    "scraped-4af67b66a3": {
+      "title": "Storms expected on both coasts threatens Thanksgiving travel",
+      "slug": "storms-expected-on-both-coasts-threatens-thanksgiving-travel",
+      "url": "https://ushotnews.online/article/storms-expected-on-both-coasts-threatens-thanksgiving-travel",
+      "article_url": "https://ushotnews.online/article/storms-expected-on-both-coasts-threatens-thanksgiving-travel",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137203459471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137203459471257",
+      "fb_comment_id": "122137203459471257_2594917781030446",
+      "posted_at": "2026-11-21T22:17:20.380794+00:00"
+    },
+    "storms-expected-on-both-coasts-threatens-thanksgiving-travel": {
+      "title": "Storms expected on both coasts threatens Thanksgiving travel",
+      "slug": "storms-expected-on-both-coasts-threatens-thanksgiving-travel",
+      "url": "https://ushotnews.online/article/storms-expected-on-both-coasts-threatens-thanksgiving-travel",
+      "article_url": "https://ushotnews.online/article/storms-expected-on-both-coasts-threatens-thanksgiving-travel",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137203459471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137203459471257",
+      "fb_comment_id": "122137203459471257_2594917781030446",
+      "posted_at": "2026-11-21T22:17:20.380794+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-21T21:03:09.270108+00:00"
+  "last_cleaned_at": "2026-11-21T22:17:07.195128+00:00"
 }
