@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-22T08:46:48.911870+00:00",
+  "last_updated": "2026-11-22T10:11:33.892197+00:00",
   "posted_count": 42,
   "articles": {
-    "scraped-298478d827": {
-      "title": "Ella Langley dominates CMA Awards with major wins as Taylor Swift makes stunning return to stage",
-      "slug": "ella-langley-dominates-cma-awards-with-major-wins-as-taylor-swift-makes-stunning-return-to",
-      "url": "https://ushotnews.online/article/ella-langley-dominates-cma-awards-with-major-wins-as-taylor-swift-makes-stunning-return-to",
-      "article_url": "https://ushotnews.online/article/ella-langley-dominates-cma-awards-with-major-wins-as-taylor-swift-makes-stunning-return-to",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136376431471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136376431471257",
-      "fb_comment_id": "122136376431471257_2218930492031214",
-      "posted_at": "2026-11-19T09:25:46.137747+00:00"
-    },
-    "ella-langley-dominates-cma-awards-with-major-wins-as-taylor-swift-makes-stunning-return-to": {
-      "title": "Ella Langley dominates CMA Awards with major wins as Taylor Swift makes stunning return to stage",
-      "slug": "ella-langley-dominates-cma-awards-with-major-wins-as-taylor-swift-makes-stunning-return-to",
-      "url": "https://ushotnews.online/article/ella-langley-dominates-cma-awards-with-major-wins-as-taylor-swift-makes-stunning-return-to",
-      "article_url": "https://ushotnews.online/article/ella-langley-dominates-cma-awards-with-major-wins-as-taylor-swift-makes-stunning-return-to",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136376431471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136376431471257",
-      "fb_comment_id": "122136376431471257_2218930492031214",
-      "posted_at": "2026-11-19T09:25:46.137747+00:00"
-    },
     "scraped-3ba97af593": {
       "title": "A week of White House static",
       "slug": "a-week-of-white-house-static",
@@ -463,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137299723471257",
       "fb_comment_id": "122137299723471257_1153651510472160",
       "posted_at": "2026-11-22T08:46:48.911805+00:00"
+    },
+    "scraped-0c5b03ad0e": {
+      "title": "Christmas gifts she'll actually use (and love)",
+      "slug": "christmas-gifts-shell-actually-use-and-love",
+      "url": "https://ushotnews.online/article/christmas-gifts-shell-actually-use-and-love",
+      "article_url": "https://ushotnews.online/article/christmas-gifts-shell-actually-use-and-love",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137320255471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137320255471257",
+      "fb_comment_id": "122137320255471257_3269477173262137",
+      "posted_at": "2026-11-22T10:11:33.892137+00:00"
+    },
+    "christmas-gifts-shell-actually-use-and-love": {
+      "title": "Christmas gifts she'll actually use (and love)",
+      "slug": "christmas-gifts-shell-actually-use-and-love",
+      "url": "https://ushotnews.online/article/christmas-gifts-shell-actually-use-and-love",
+      "article_url": "https://ushotnews.online/article/christmas-gifts-shell-actually-use-and-love",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137320255471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137320255471257",
+      "fb_comment_id": "122137320255471257_3269477173262137",
+      "posted_at": "2026-11-22T10:11:33.892137+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T08:46:40.230783+00:00"
+  "last_cleaned_at": "2026-11-22T10:11:25.628966+00:00"
 }
