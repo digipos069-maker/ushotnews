@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-22T16:07:53.277799+00:00",
+  "last_updated": "2026-11-22T23:29:12.632160+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030411": {
-      "title": "CBS Army/Navy 310th ESC",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112160946/DOD_112160946.mp4",
-      "attached_website_url": "https://ushotnews.online/article/a-week-of-white-house-static",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "2611633832636560",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2611633832636560",
-      "fb_comment_id": "2611633832636560_2391085315036862",
-      "posted_at": "2026-11-19T22:02:45.058749+00:00"
-    },
     "dvids-video:1030500": {
       "title": "Aircraft Damage Repair Training Yokota Air Base",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112161749/DOD_112161749.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1175605128222119",
       "fb_comment_id": "1175605128222119_2172211943685880",
       "posted_at": "2026-11-22T16:07:53.277742+00:00"
+    },
+    "dvids-video:1030667": {
+      "title": "AR-MEDCOM Senior NCO explains significance of inaugural UMOC",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165955/DOD_112165955.mp4",
+      "attached_website_url": "https://ushotnews.online/article/how-tamagotchis-got-us-hooked-on-digital-pets",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1154508223793493",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1154508223793493",
+      "fb_comment_id": "1154508223793493_1940648030407715",
+      "posted_at": "2026-11-22T23:29:12.632100+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T16:06:24.941506+00:00"
+  "last_cleaned_at": "2026-11-22T23:28:02.678402+00:00"
 }
