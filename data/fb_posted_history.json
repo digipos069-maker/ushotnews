@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-22T02:29:59.349067+00:00",
+  "last_updated": "2026-11-22T08:46:48.911870+00:00",
   "posted_count": 42,
   "articles": {
-    "scraped-e5e815e52d": {
-      "title": "Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown",
-      "slug": "bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
-      "url": "https://ushotnews.online/article/bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
-      "article_url": "https://ushotnews.online/article/bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136291075471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136291075471257",
-      "fb_comment_id": "122136291075471257_1528229409360730",
-      "posted_at": "2026-11-19T06:02:35.523298+00:00"
-    },
-    "bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown": {
-      "title": "Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown",
-      "slug": "bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
-      "url": "https://ushotnews.online/article/bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
-      "article_url": "https://ushotnews.online/article/bukele-gets-heros-welcome-from-afar-as-thousands-rally-in-haiti-after-gang-crackdown",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136291075471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136291075471257",
-      "fb_comment_id": "122136291075471257_1528229409360730",
-      "posted_at": "2026-11-19T06:02:35.523298+00:00"
-    },
     "scraped-298478d827": {
       "title": "Ella Langley dominates CMA Awards with major wins as Taylor Swift makes stunning return to stage",
       "slug": "ella-langley-dominates-cma-awards-with-major-wins-as-taylor-swift-makes-stunning-return-to",
@@ -463,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137239711471257",
       "fb_comment_id": "122137239711471257_1440216445843888",
       "posted_at": "2026-11-22T02:29:59.348996+00:00"
+    },
+    "scraped-5ed4ed325e": {
+      "title": "Google employees protest AI in schools policy",
+      "slug": "google-employees-protest-ai-in-schools-policy",
+      "url": "https://ushotnews.online/article/google-employees-protest-ai-in-schools-policy",
+      "article_url": "https://ushotnews.online/article/google-employees-protest-ai-in-schools-policy",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137299723471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137299723471257",
+      "fb_comment_id": "122137299723471257_1153651510472160",
+      "posted_at": "2026-11-22T08:46:48.911805+00:00"
+    },
+    "google-employees-protest-ai-in-schools-policy": {
+      "title": "Google employees protest AI in schools policy",
+      "slug": "google-employees-protest-ai-in-schools-policy",
+      "url": "https://ushotnews.online/article/google-employees-protest-ai-in-schools-policy",
+      "article_url": "https://ushotnews.online/article/google-employees-protest-ai-in-schools-policy",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137299723471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137299723471257",
+      "fb_comment_id": "122137299723471257_1153651510472160",
+      "posted_at": "2026-11-22T08:46:48.911805+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T02:29:50.434089+00:00"
+  "last_cleaned_at": "2026-11-22T08:46:40.230783+00:00"
 }
