@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-22T10:11:33.892197+00:00",
+  "last_updated": "2026-11-22T17:03:07.895427+00:00",
   "posted_count": 42,
   "articles": {
-    "scraped-3ba97af593": {
-      "title": "A week of White House static",
-      "slug": "a-week-of-white-house-static",
-      "url": "https://ushotnews.online/article/a-week-of-white-house-static",
-      "article_url": "https://ushotnews.online/article/a-week-of-white-house-static",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136478455471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136478455471257",
-      "fb_comment_id": "122136478455471257_1796999878249282",
-      "posted_at": "2026-11-19T15:58:20.048537+00:00"
-    },
-    "a-week-of-white-house-static": {
-      "title": "A week of White House static",
-      "slug": "a-week-of-white-house-static",
-      "url": "https://ushotnews.online/article/a-week-of-white-house-static",
-      "article_url": "https://ushotnews.online/article/a-week-of-white-house-static",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136478455471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136478455471257",
-      "fb_comment_id": "122136478455471257_1796999878249282",
-      "posted_at": "2026-11-19T15:58:20.048537+00:00"
-    },
     "scraped-d86980ef3a": {
       "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
       "slug": "how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
@@ -463,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137320255471257",
       "fb_comment_id": "122137320255471257_3269477173262137",
       "posted_at": "2026-11-22T10:11:33.892137+00:00"
+    },
+    "scraped-90050ff85e": {
+      "title": "The Pennsylvania farm behind a White House Thanksgiving turkey tradition",
+      "slug": "the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition",
+      "url": "https://ushotnews.online/article/the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition",
+      "article_url": "https://ushotnews.online/article/the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137401225471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137401225471257",
+      "fb_comment_id": "122137401225471257_2385505498853003",
+      "posted_at": "2026-11-22T17:03:07.895355+00:00"
+    },
+    "the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition": {
+      "title": "The Pennsylvania farm behind a White House Thanksgiving turkey tradition",
+      "slug": "the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition",
+      "url": "https://ushotnews.online/article/the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition",
+      "article_url": "https://ushotnews.online/article/the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137401225471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137401225471257",
+      "fb_comment_id": "122137401225471257_2385505498853003",
+      "posted_at": "2026-11-22T17:03:07.895355+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T10:11:25.628966+00:00"
+  "last_cleaned_at": "2026-11-22T17:02:57.409931+00:00"
 }
