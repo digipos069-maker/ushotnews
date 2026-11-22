@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-22T17:59:05.964711+00:00",
+  "last_updated": "2026-11-22T22:44:11.469217+00:00",
   "posted_count": 44,
   "articles": {
-    "scraped-d86980ef3a": {
-      "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
-      "slug": "how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
-      "url": "https://ushotnews.online/article/how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
-      "article_url": "https://ushotnews.online/article/how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136510981471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136510981471257",
-      "fb_comment_id": "122136510981471257_1012088461231116",
-      "posted_at": "2026-11-19T18:36:32.329133+00:00"
-    },
-    "how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau": {
-      "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
-      "slug": "how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
-      "url": "https://ushotnews.online/article/how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
-      "article_url": "https://ushotnews.online/article/how-silicon-valley-lost-the-public-with-crooked-medias-jon-favreau",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136510981471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136510981471257",
-      "fb_comment_id": "122136510981471257_1012088461231116",
-      "posted_at": "2026-11-19T18:36:32.329133+00:00"
-    },
     "scraped-b34cc412f8": {
       "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
       "slug": "fcc-greenlights-rule-allowing-prisons-to-jam-cellphone-signals",
@@ -485,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137413237471257",
       "fb_comment_id": "122137413237471257_2402787210296305",
       "posted_at": "2026-11-22T17:59:05.964631+00:00"
+    },
+    "scraped-f752d647c0": {
+      "title": "Relive golden age of American road trips at these 10 classic Route 66 stops",
+      "slug": "relive-golden-age-of-american-road-trips-at-these-10-classic-route-66-stops",
+      "url": "https://ushotnews.online/article/relive-golden-age-of-american-road-trips-at-these-10-classic-route-66-stops",
+      "article_url": "https://ushotnews.online/article/relive-golden-age-of-american-road-trips-at-these-10-classic-route-66-stops",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137456587471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137456587471257",
+      "fb_comment_id": "122137456587471257_1949443662884492",
+      "posted_at": "2026-11-22T22:44:11.469158+00:00"
+    },
+    "relive-golden-age-of-american-road-trips-at-these-10-classic-route-66-stops": {
+      "title": "Relive golden age of American road trips at these 10 classic Route 66 stops",
+      "slug": "relive-golden-age-of-american-road-trips-at-these-10-classic-route-66-stops",
+      "url": "https://ushotnews.online/article/relive-golden-age-of-american-road-trips-at-these-10-classic-route-66-stops",
+      "article_url": "https://ushotnews.online/article/relive-golden-age-of-american-road-trips-at-these-10-classic-route-66-stops",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137456587471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137456587471257",
+      "fb_comment_id": "122137456587471257_1949443662884492",
+      "posted_at": "2026-11-22T22:44:11.469158+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T17:58:56.861437+00:00"
+  "last_cleaned_at": "2026-11-22T22:44:00.890464+00:00"
 }
