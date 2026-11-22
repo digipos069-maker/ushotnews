@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-22T06:04:59.663018+00:00",
+  "last_updated": "2026-11-22T16:07:53.277799+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030291": {
-      "title": "Destructive Weather Reel",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112158093/DOD_112158093.mp4",
-      "attached_website_url": "https://ushotnews.online/article/oklahoma-gop-governor-warns-of-growing-socialist-tendencies-on-the-right",
-      "trending_score": 90.0,
-      "format": "video",
-      "fb_video_id": "2226210308313712",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2226210308313712",
-      "fb_comment_id": "2226210308313712_2376926516472661",
-      "posted_at": "2026-11-19T12:43:46.148061+00:00"
-    },
     "dvids-video:1030411": {
       "title": "CBS Army/Navy 310th ESC",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112160946/DOD_112160946.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4750525761857904",
       "fb_comment_id": "4750525761857904_1877031293293397",
       "posted_at": "2026-11-22T06:04:59.662956+00:00"
+    },
+    "dvids-video:1030646": {
+      "title": "Remembering John F. Kennedy",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165168/DOD_112165168.mp4",
+      "attached_website_url": "https://ushotnews.online/article/nprs-senior-podcast-challenge-early-entries-we-love",
+      "trending_score": 90.0,
+      "format": "video",
+      "fb_video_id": "1175605128222119",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1175605128222119",
+      "fb_comment_id": "1175605128222119_2172211943685880",
+      "posted_at": "2026-11-22T16:07:53.277742+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T06:04:05.175577+00:00"
+  "last_cleaned_at": "2026-11-22T16:06:24.941506+00:00"
 }
