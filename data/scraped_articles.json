@@ -1,5 +1,412 @@
 [
   {
+    "id": "scraped-3cfbf73503",
+    "slug": "we-havent-seen-the-last-of-the-major-tech-outages",
+    "guid": "https://www.theverge.com/?p=1039851",
+    "title": "We haven’t seen the last of the major tech outages",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be [&#8230;]",
+    "content": [
+      "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "We haven’t seen the last of the major tech outages... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T22:48:02+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-62f54bdb93",
+    "slug": "philly-festival-goers-say-pickles-are-a-real-big-dill",
+    "guid": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+    "title": "Philly festival-goers say pickles are a real big dill",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+    "content": [
+      "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Philly festival-goers say pickles are a real big dill... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T22:40:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2bdefa4045",
+    "slug": "what-its-like-at-a-climate-conference-as-talks-collapse",
+    "guid": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+    "title": "What it's like at a climate conference as talks collapse",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+    "content": [
+      "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "What it's like at a climate conference as talks collapse... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T22:40:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-18381a8360",
+    "slug": "solo-diners-are-asking-restaurants-for-half-size-portions-sparking-debate-over-menu-flexib",
+    "guid": "https://www.foxnews.com/food-drink/solo-diners-asking-restaurants-half-size-portions-sparking-debate-menu-flexibility",
+    "title": "Solo diners are asking restaurants for half-size portions, sparking debate over menu flexibility",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Solo dining is up 22% year over year, and some chefs will happily make half orders so diners alone can try more dishes without wasting food.",
+    "content": [
+      "Solo dining is up 22% year over year, and some chefs will happily make half orders so diners alone can try more dishes without wasting food.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/man-eating-pizza.jpg?ve=1&tl=1",
+    "imageCaption": "Solo diners are asking restaurants for half-size portions, s... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T21:32:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-346ca0f558",
+    "slug": "jennifer-lopez-claims-not-being-a-typical-white-actress-made-it-harder-to-land-hollywood-m",
+    "guid": "https://www.foxnews.com/media/jennifer-lopez-claims-not-being-typical-white-actress-made-harder-land-hollywood-movie-roles",
+    "title": "Jennifer Lopez claims not being a ‘typical’ White actress made it harder to land Hollywood movie roles",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jennifer Lopez claims Hollywood overlooked her as a Latina actress, saying she had to create her own lane as critics push back on social media.",
+    "content": [
+      "Jennifer Lopez claims Hollywood overlooked her as a Latina actress, saying she had to create her own lane as critics push back on social media.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/524/jennifer-lopez-golden-globes.jpg?ve=1&tl=1",
+    "imageCaption": "Jennifer Lopez claims not being a ‘typical’ White actress ma... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T21:33:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-636366f63d",
+    "slug": "tehran-threatens-to-break-legs-as-trump-corridor-prepares-to-launch-on-irans-border",
+    "guid": "https://www.foxnews.com/world/tehran-threatens-break-legs-trump-corridor-prepares-launch-irans-border",
+    "title": "Tehran threatens to 'break legs' as 'Trump corridor' prepares to launch on Iran's border",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Armenia launches the U.S.-backed Trump Route corridor despite Iran&apos;s stark warning it would break their legs if Trump crossed its red line.",
+    "content": [
+      "Armenia launches the U.S.-backed Trump Route corridor despite Iran&apos;s stark warning it would break their legs if Trump crossed its red line.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-pashinyan-velayati.jpg?ve=1&tl=1",
+    "imageCaption": "Tehran threatens to 'break legs' as 'Trump corridor' prepare... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T22:13:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dd74ac91a4",
+    "slug": "abdul-el-sayed-suggests-israel-should-not-be-a-jewish-state-says-he-opposes-ethno-states",
+    "guid": "https://www.foxnews.com/media/abdul-el-sayed-suggests-israel-should-not-be-jewish-state-opposes-ethno-states",
+    "title": "Abdul El-Sayed suggests Israel should not be a Jewish state, says he opposes ‘ethno-states’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Michigan Democratic Sen.-elect Abdul El-Sayed suggested that Israel must choose between being a Jewish state and a democracy, urging equal rights above all else.",
+    "content": [
+      "Michigan Democratic Sen.-elect Abdul El-Sayed suggested that Israel must choose between being a Jewish state and a democracy, urging equal rights above all else.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/abdul-el-sayed-michigan-democratic-convention-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Abdul El-Sayed suggests Israel should not be a Jewish state,... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T22:30:13+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5e64769bbc",
+    "slug": "mets-tarik-skubal-agree-to-record-contract-as-mlb-lockout-looms-over-offseason",
+    "guid": "https://www.foxnews.com/outkick-sports/mets-tarik-skubal-agree-record-contract-mlb-lockout-looms-offseason",
+    "title": "Mets, Tarik Skubal agree to record contract as MLB lockout looms over offseason",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tarik Skubal&apos;s record $450 million Mets deal features $30 million in deferrals and a $45 million signing bonus as MLB&apos;s Dec. 1 labor deadline looms.",
+    "content": [
+      "Tarik Skubal&apos;s record $450 million Mets deal features $30 million in deferrals and a $45 million signing bonus as MLB&apos;s Dec. 1 labor deadline looms.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/skubal-featured-tigers.jpg?ve=1&tl=1",
+    "imageCaption": "Mets, Tarik Skubal agree to record contract as MLB lockout l... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T22:36:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7e256ac067",
+    "slug": "trump-dares-iran-to-breach-us-port-blockade-as-tehran-reportedly-readies-14-oil-tankers",
+    "guid": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
+    "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Iran reportedly positioned 14 tankers at Kharg Island to breach the U.S. blockade, as President Donald Trump dared Tehran to test American naval forces in the Gulf.",
+    "content": [
+      "Iran reportedly positioned 14 tankers at Kharg Island to breach the U.S. blockade, as President Donald Trump dared Tehran to test American naval forces in the Gulf.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/trump-iran-hormuz.jpg?ve=1&tl=1",
+    "imageCaption": "Trump dares Iran to breach US port blockade as Tehran report... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T22:43:24+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-52c55ef68f",
+    "slug": "ravens-silenced-marlon-humphrey-for-his-words-but-what-theyll-hear-after-another-loss-will",
+    "guid": "https://www.foxnews.com/outkick-sports/ravens-silenced-marlon-humphrey-words-what-theyll-hear-after-another-loss-will-pale-comparison",
+    "title": "Ravens silenced Marlon Humphrey for his words but what they'll hear after another loss will pale in comparison",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ravens tried to address criticism with Humphrey suspension but cannot quiet noise after 35-33 to the Carolina Panthers, their sixth consecutive loss.",
+    "content": [
+      "Ravens tried to address criticism with Humphrey suspension but cannot quiet noise after 35-33 to the Carolina Panthers, their sixth consecutive loss.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/marlon-humphrey-baltimore-ravens-warmup-fox-news_.jpg?ve=1&tl=1",
+    "imageCaption": "Ravens silenced Marlon Humphrey for his words but what they'... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T23:21:45+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7a17b74acb",
+    "slug": "employees-at-eric-trump-backed-robot-startup-lose-health-benefits-as-companys-cash-crunch-",
+    "guid": "108557053",
+    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+    "content": [
+      "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Employees at Eric Trump-backed robot startup lose health ben... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T18:55:05+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-3ed7f3e6de",
     "slug": "how-tamagotchis-got-us-hooked-on-digital-pets",
     "guid": "https://www.theverge.com/?p=1039716",
