@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-22T01:31:42.165766+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-22T02:29:59.349067+00:00",
+  "posted_count": 42,
   "articles": {
     "scraped-e5e815e52d": {
       "title": "Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown",
@@ -441,7 +441,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137229967471257",
       "fb_comment_id": "122137229967471257_1179903381128955",
       "posted_at": "2026-11-22T01:31:42.165700+00:00"
+    },
+    "scraped-e14ff6a790": {
+      "title": "Indiana's national championship defense on the brink after overtime upset to Washington",
+      "slug": "indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
+      "url": "https://ushotnews.online/article/indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
+      "article_url": "https://ushotnews.online/article/indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137239711471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137239711471257",
+      "fb_comment_id": "122137239711471257_1440216445843888",
+      "posted_at": "2026-11-22T02:29:59.348996+00:00"
+    },
+    "indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington": {
+      "title": "Indiana's national championship defense on the brink after overtime upset to Washington",
+      "slug": "indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
+      "url": "https://ushotnews.online/article/indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
+      "article_url": "https://ushotnews.online/article/indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137239711471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137239711471257",
+      "fb_comment_id": "122137239711471257_1440216445843888",
+      "posted_at": "2026-11-22T02:29:59.348996+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T01:31:31.126610+00:00"
+  "last_cleaned_at": "2026-11-22T02:29:50.434089+00:00"
 }
