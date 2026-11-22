@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-21T22:58:11.679559+00:00",
+  "last_updated": "2026-11-22T06:04:59.663018+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030308": {
-      "title": "25th Infantry Division Command Team Delivers \"Go Army, Beat Navy\" Shoutout FY27-CY26",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112158363/DOD_112158363.mp4",
-      "attached_website_url": "https://ushotnews.online/article/bo-french-loses-texas-country-club-membership",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1130793486399760",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1130793486399760",
-      "fb_comment_id": "1130793486399760_1497360452252446",
-      "posted_at": "2026-11-19T03:04:26.931472+00:00"
-    },
     "dvids-video:1030291": {
       "title": "Destructive Weather Reel",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112158093/DOD_112158093.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1886721072485725",
       "fb_comment_id": "1886721072485725_1160950483291152",
       "posted_at": "2026-11-21T22:58:11.679498+00:00"
+    },
+    "dvids-video:1030654": {
+      "title": "Coast Guard medevacs 74-year-old man from cruise ship 80 miles off San Diego",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165542/DOD_112165542.mp4",
+      "attached_website_url": "https://ushotnews.online/article/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "4750525761857904",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4750525761857904",
+      "fb_comment_id": "4750525761857904_1877031293293397",
+      "posted_at": "2026-11-22T06:04:59.662956+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-21T22:57:12.923592+00:00"
+  "last_cleaned_at": "2026-11-22T06:04:05.175577+00:00"
 }
