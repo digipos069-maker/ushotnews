@@ -1,5 +1,375 @@
 [
   {
+    "id": "scraped-c946e83b4b",
+    "slug": "nprs-senior-podcast-challenge-early-entries-we-love",
+    "guid": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+    "title": "NPR's Senior Podcast Challenge: Early entries we love",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition. There's still time to enter!",
+    "content": [
+      "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition. There's still time to enter!",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "NPR's Senior Podcast Challenge: Early entries we love... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-54101f7e3f",
+    "slug": "he-expected-a-small-business-loan-it-turned-out-to-be-a-trap",
+    "guid": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+    "title": "He expected a small-business loan. It turned out to be a trap",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+    "content": [
+      "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "He expected a small-business loan. It turned out to be a tra... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-788ca63821",
+    "slug": "florida-escapes-against-vanderbilt-courtesy-of-lucky-bounce-in-another-close-sec-finish",
+    "guid": "https://www.foxnews.com/outkick-sports/florida-escapes-vanderbilt-courtesy-lucky-bounce-close-sec-finish",
+    "title": "Florida escapes against Vanderbilt courtesy of lucky bounce in another close SEC finish",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Aaron Philo piled up 314 total yards and two touchdowns as Jon Sumrall&apos;s Florida Gators rallied late to edge Vanderbilt in a wild SEC finish.",
+    "content": [
+      "Aaron Philo piled up 314 total yards and two touchdowns as Jon Sumrall&apos;s Florida Gators rallied late to edge Vanderbilt in a wild SEC finish.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Jeramiah-McCloud-Florida-football.jpg?ve=1&tl=1",
+    "imageCaption": "Florida escapes against Vanderbilt courtesy of lucky bounce ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T03:38:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0c5b03ad0e",
+    "slug": "christmas-gifts-shell-actually-use-and-love",
+    "guid": "https://www.foxnews.com/deals/holiday-gifts-for-her",
+    "title": "Christmas gifts she'll actually use (and love)",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "From cozy home upgrades to beauty essentials, these gifts are a practical and thoughtful way to say Merry Christmas.",
+    "content": [
+      "From cozy home upgrades to beauty essentials, these gifts are a practical and thoughtful way to say Merry Christmas.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/woman-opening-gift.jpg?ve=1&tl=1",
+    "imageCaption": "Christmas gifts she'll actually use (and love)... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T04:02:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b01360f597",
+    "slug": "three-killed-one-injured-in-shooting-at-ohio-baby-shower-police-say",
+    "guid": "https://www.foxnews.com/us/three-killed-one-injured-shooting-ohio-baby-shower-police-say",
+    "title": "Three killed, one injured in shooting at Ohio baby shower, police say",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Three people, including the unborn child&apos;s father, were killed at a baby shower shooting at Pandora&apos;s Magical Events Venue in Parma, Ohio, police say.",
+    "content": [
+      "Three people, including the unborn child&apos;s father, were killed at a baby shower shooting at Pandora&apos;s Magical Events Venue in Parma, Ohio, police say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/pandora-magic-parma-ohio-shooting.jpg?ve=1&tl=1",
+    "imageCaption": "Three killed, one injured in shooting at Ohio baby shower, p... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T04:08:26+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-74809cb418",
+    "slug": "georgia-has-top-college-football-playoff-seed-in-sight-with-dominating-road-win-over-no-21",
+    "guid": "https://www.foxnews.com/outkick-sports/georgia-top-college-football-playoff-seed-sight-dominating-road-win-no-21-south-carolina",
+    "title": "Georgia has top College Football Playoff seed in sight with dominating road win over No 21 South Carolina",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Georgia Bulldogs suffocated South Carolina&apos;s offense at Williams-Brice Stadium as Nate Frazier scored two touchdowns in the top-ranked team&apos;s win.",
+    "content": [
+      "The Georgia Bulldogs suffocated South Carolina&apos;s offense at Williams-Brice Stadium as Nate Frazier scored two touchdowns in the top-ranked team&apos;s win.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirby-smart-georgia-bulldogs-south-carolina.jpg?ve=1&tl=1",
+    "imageCaption": "Georgia has top College Football Playoff seed in sight with ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T04:12:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-90050ff85e",
+    "slug": "the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition",
+    "guid": "https://www.foxnews.com/culture/jaindl-farms-white-house-thanksgiving-turkeys",
+    "title": "The Pennsylvania farm behind a White House Thanksgiving turkey tradition",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "For more than six decades, Jaindl Farms in Orefield, Pennsylvania, has supplied turkeys to presidents for the White House Thanksgiving meal. FOX&apos;s Pete Cuddihy visits the family-owned farm behind the presidential tradition.",
+    "content": [
+      "For more than six decades, Jaindl Farms in Orefield, Pennsylvania, has supplied turkeys to presidents for the White House Thanksgiving meal. FOX&apos;s Pete Cuddihy visits the family-owned farm behind the presidential tradition.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jaindl-turkey-farms.jpg?ve=1&tl=1",
+    "imageCaption": "The Pennsylvania farm behind a White House Thanksgiving turk... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T08:55:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f282cf9128",
+    "slug": "apex-predator-at-center-of-farmers-vs-environmentalists-fight-as-trump-weighs-major-move-o",
+    "guid": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control",
+    "title": "Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control'",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Minnesota farmer Shayne Isane says gray wolves killed three calves in one night, costing thousands as Trump moves to reconsider federal protections.",
+    "content": [
+      "Minnesota farmer Shayne Isane says gray wolves killed three calves in one night, costing thousands as Trump moves to reconsider federal protections.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Jonathan-Shayne.jpg?ve=1&tl=1",
+    "imageCaption": "Apex predator at center of farmers vs environmentalists figh... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T10:00:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f0cc085094",
+    "slug": "american-culture-quiz-test-yourself-on-maritime-mysteries-and-patriotic-performers",
+    "guid": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-maritime-mysteries-patriotic-performers",
+    "title": "American Culture Quiz: Test yourself on maritime mysteries and patriotic performers",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of maritime mysteries, patriotic performers and a lot more.",
+    "content": [
+      "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of maritime mysteries, patriotic performers and a lot more.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/updated-quiz-collage-1122.jpg?ve=1&tl=1",
+    "imageCaption": "American Culture Quiz: Test yourself on maritime mysteries a... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T10:00:35+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4e89b7ddbb",
+    "slug": "quantum-computings-first-real-world-payoff-may-come-in-energy-not-drug-discovery",
+    "guid": "108554024",
+    "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+    "content": [
+      "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Quantum computing’s first real-world payoff may come in ener... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-22T06:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-355d282491",
     "slug": "highlights-and-challenges-from-covering-an-historic-month-in-south-america",
     "guid": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
