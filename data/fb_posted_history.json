@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-23T03:40:17.678103+00:00",
+  "last_updated": "2026-11-23T05:55:49.349294+00:00",
   "posted_count": 44,
   "articles": {
-    "scraped-cde023be84": {
-      "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
-      "slug": "cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
-      "url": "https://ushotnews.online/article/cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
-      "article_url": "https://ushotnews.online/article/cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136665001471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136665001471257",
-      "fb_comment_id": "122136665001471257_1655930046226358",
-      "posted_at": "2026-11-20T03:55:52.596650+00:00"
-    },
-    "cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade": {
-      "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
-      "slug": "cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
-      "url": "https://ushotnews.online/article/cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
-      "article_url": "https://ushotnews.online/article/cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136665001471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136665001471257",
-      "fb_comment_id": "122136665001471257_1655930046226358",
-      "posted_at": "2026-11-20T03:55:52.596650+00:00"
-    },
     "scraped-96755f61ab": {
       "title": "Anthropic was supposed to save the AI trade. What went wrong?",
       "slug": "anthropic-was-supposed-to-save-the-ai-trade-what-went-wrong",
@@ -485,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137498659471257",
       "fb_comment_id": "122137498659471257_1134973679400128",
       "posted_at": "2026-11-23T03:40:17.678032+00:00"
+    },
+    "scraped-336da6b8a1": {
+      "title": "John Malkovich recalls losing 'pretty much everything' to Bernie Madoff's Ponzi scheme",
+      "slug": "john-malkovich-recalls-losing-pretty-much-everything-to-bernie-madoffs-ponzi-scheme",
+      "url": "https://ushotnews.online/article/john-malkovich-recalls-losing-pretty-much-everything-to-bernie-madoffs-ponzi-scheme",
+      "article_url": "https://ushotnews.online/article/john-malkovich-recalls-losing-pretty-much-everything-to-bernie-madoffs-ponzi-scheme",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137520085471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137520085471257",
+      "fb_comment_id": "122137520085471257_1038911472566948",
+      "posted_at": "2026-11-23T05:55:49.349227+00:00"
+    },
+    "john-malkovich-recalls-losing-pretty-much-everything-to-bernie-madoffs-ponzi-scheme": {
+      "title": "John Malkovich recalls losing 'pretty much everything' to Bernie Madoff's Ponzi scheme",
+      "slug": "john-malkovich-recalls-losing-pretty-much-everything-to-bernie-madoffs-ponzi-scheme",
+      "url": "https://ushotnews.online/article/john-malkovich-recalls-losing-pretty-much-everything-to-bernie-madoffs-ponzi-scheme",
+      "article_url": "https://ushotnews.online/article/john-malkovich-recalls-losing-pretty-much-everything-to-bernie-madoffs-ponzi-scheme",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137520085471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137520085471257",
+      "fb_comment_id": "122137520085471257_1038911472566948",
+      "posted_at": "2026-11-23T05:55:49.349227+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-23T03:40:06.232035+00:00"
+  "last_cleaned_at": "2026-11-23T05:55:38.781397+00:00"
 }
