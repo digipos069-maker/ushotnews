@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-23T06:57:34.879414+00:00",
+  "last_updated": "2026-11-23T20:01:27.033032+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030543": {
-      "title": "1st Cavalry Division Shout-Out for Army vs. Rice Football Game",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112163174/DOD_112163174.mp4",
-      "attached_website_url": "https://ushotnews.online/article/chris-christie-says-maga-has-the-smell-of-politically-rotting-flesh",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1178077828237304",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1178077828237304",
-      "fb_comment_id": "1178077828237304_1509179841053930",
-      "posted_at": "2026-11-20T16:52:48.749163+00:00"
-    },
     "dvids-video:1030614": {
       "title": "Fairchild AFB 2026 Mission Brief Video",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112164560/DOD_112164560.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1428310819287122",
       "fb_comment_id": "1428310819287122_28959269370438540",
       "posted_at": "2026-11-23T06:57:34.879360+00:00"
+    },
+    "dvids-video:1030726": {
+      "title": "Secretary Rubio meets with Qatari Prime Minister and Foreign Minister Mohammed bin Abdulrahman Al Thani",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112167923/DOD_112167923.mp4",
+      "attached_website_url": "https://ushotnews.online/article/gavin-newsoms-2028-audition",
+      "trending_score": 100.0,
+      "format": "video",
+      "fb_video_id": "2341115843406400",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2341115843406400",
+      "fb_comment_id": "2341115843406400_1689551276075914",
+      "posted_at": "2026-11-23T20:01:27.032972+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-23T06:56:24.077088+00:00"
+  "last_cleaned_at": "2026-11-23T20:00:13.472088+00:00"
 }
