@@ -1,5 +1,1226 @@
 [
   {
+    "id": "scraped-f07eb6b756",
+    "slug": "gavin-newsoms-2028-audition",
+    "guid": "000001a2-063d-d48e-a1ef-273d5dd60000",
+    "title": "Gavin Newsom’s 2028 audition",
+    "kicker": "POLITICO POLITICS EXCLUSIVE",
+    "summary": "Gavin Newsom’s 2028 audition",
+    "content": [
+      "WASHINGTON — In a developing report from the Politics desk, officials and industry leaders addressed the latest developments.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Politico Politics newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Gavin Newsom’s 2028 audition... Reported by Politico Politics.",
+    "author": {
+      "name": "Politico Politics Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T10:45:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "PoliticoPolitics",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ed20b82651",
+    "slug": "teslas-fsd-v15-turns-driving-visuals-into-grand-theft-auto",
+    "guid": "https://www.theverge.com/?p=1039919",
+    "title": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system. The centerpiece is Reality View, a real-time generative display that swaps out old wireframe graphics for a live, overhead camera angle that lets drivers see and tap to influence what the car plans to do [&#8230;]",
+    "content": [
+      "Tesla has begun rolling out Full Self-Driving (Supervised) v15, calling it a ground-up overhaul of its end-to-end driver assist system. The centerpiece is Reality View, a real-time generative display that swaps out old wireframe graphics for a live, overhead camera angle that lets drivers see and tap to influence what the car plans to do [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tesla’s FSD v15 turns driving visuals into Grand Theft Auto... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T14:12:28+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-76ea858b07",
+    "slug": "how-one-router-caused-the-worst-ground-stop-since-911",
+    "guid": "https://www.theverge.com/?p=1039215",
+    "title": "How one router caused the worst ground stop since 9/11",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Today I’m talking with Darryl Campbell, a freelance journalist, aviation expert, and author of the book Fatal Abstraction: Why the Managerial Class Loses Control of Software. Darryl covers aviation and the FAA, and earlier this month, when the US suffered a sudden nationwide ground stop on air travel, Darryl was all over the story. He [&#8230;]",
+    "content": [
+      "Today I’m talking with Darryl Campbell, a freelance journalist, aviation expert, and author of the book Fatal Abstraction: Why the Managerial Class Loses Control of Software. Darryl covers aviation and the FAA, and earlier this month, when the US suffered a sudden nationwide ground stop on air travel, Darryl was all over the story. He [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "How one router caused the worst ground stop since 9/11... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T15:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f45b1654c0",
+    "slug": "the-verges-favorite-holiday-gifts-that-cost-50-or-less",
+    "guid": "https://www.theverge.com/?p=1023471",
+    "title": "The Verge’s favorite holiday gifts that cost $50 or less",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "You've got $50 to spend on a friend or loved one this shopping season, and you're not sure what to spend it on. First off, that's actually really generous of you. While this price tier can sometimes be challenging to shop for - caught between affordable accessories and big-ticket items - there's plenty of gold [&#8230;]",
+    "content": [
+      "You've got $50 to spend on a friend or loved one this shopping season, and you're not sure what to spend it on. First off, that's actually really generous of you. While this price tier can sometimes be challenging to shop for - caught between affordable accessories and big-ticket items - there's plenty of gold [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The Verge’s favorite holiday gifts that cost $50 or less... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T15:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5031c7d3aa",
+    "slug": "apples-airpods-pro-3-are-40-percent-off-ahead-of-black-friday",
+    "guid": "https://www.theverge.com/?p=1039978",
+    "title": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Friday",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon, Best Buy and Walmart. Originally, they sold for $249, but have been commonly available for $199 outside the range of deal events. The best price that we’ve previously seen was $169, which is what [&#8230;]",
+    "content": [
+      "The AirPods Pro 3 are cheaper than ever. Apple’s latest flagship wireless earbuds dropped this morning to just $149 at Amazon, Best Buy and Walmart. Originally, they sold for $249, but have been commonly available for $199 outside the range of deal events. The best price that we’ve previously seen was $169, which is what [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Apple’s AirPods Pro 3 are 40 percent off ahead of Black Frid... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T15:00:44+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-2e38db9d80",
+    "slug": "my-trusty-27-inch-alienware-qd-oled-gaming-monitor-is-just-280",
+    "guid": "https://www.theverge.com/?p=1039999",
+    "title": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $280",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. The low price and impressive specs were enough to convince me to get one at launch, and I’m glad that I did. I’m a little jealous that you have the opportunity to save $70 on the monitor I’ve been using [&#8230;]",
+    "content": [
+      "Alienware’s AW2726DM QD-OLED gaming monitor was a great deal even at its original $349.99 price. The low price and impressive specs were enough to convince me to get one at launch, and I’m glad that I did. I’m a little jealous that you have the opportunity to save $70 on the monitor I’ve been using [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "My trusty 27-inch Alienware QD-OLED gaming monitor is just $... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T16:00:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ef4fd4025a",
+    "slug": "tech-leaders-are-celebrating-jensen-huangs-return",
+    "guid": "https://www.theverge.com/?p=1040069",
+    "title": "Tech leaders are celebrating Jensen Huang’s return",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken [&#8230;]",
+    "content": [
+      "Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terrorized\" your employees, a series of indiscretions that led to your ouster from what was once the world's most valuable company. (The stock price has recently taken [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tech leaders are celebrating Jensen Huang’s return... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T16:14:04+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5e64670d2e",
+    "slug": "white-house-brags-that-trump-was-totally-involved-in-getting-jensen-reinstated",
+    "guid": "https://www.theverge.com/?p=1040096",
+    "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, [&#8230;]",
+    "content": [
+      "It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Trump was totally involved and this is a great decision by the NVIDIA board,\" White House communications director Steven Cheung said in a statement, [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "White House brags that Trump was ‘totally involved’ in getti... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T16:30:11+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0cde741453",
+    "slug": "seniors-embrace-tesla-automated-driving-technology-despite-questions-about-safety",
+    "guid": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
+    "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
+    "content": [
+      "Older drivers are using Tesla's automated driving technology to stay on the road longer. But safety experts warn the company may be over-selling what its cars can do.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Seniors embrace Tesla automated driving technology despite q... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-57929f588b",
+    "slug": "lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year",
+    "guid": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+    "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
+    "content": [
+      "Grocery costs have been on the rise, but food-price analysts say it's unclear if you'll spend more on the Thanksgiving meal this year. Some people are deciding not to host or are hosting fewer guests.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Let's talk turkey: Here's how Thanksgiving meal costs have c... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a5cf0b2178",
+    "slug": "k-is-for-kindness-but-families-worry-the-world-has-less-of-it",
+    "guid": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+    "title": "K is for kindness, but families worry the world has less of it",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so.",
+    "content": [
+      "A decade after first asking families about kindness, Sesame Workshop asked parents similar questions. They responded that their kids are getting kinder even as the wider world becomes less so.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "K is for kindness, but families worry the world has less of ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-af96c4b294",
+    "slug": "mushroom-supplements-promise-health-benefits-what-does-the-science-say",
+    "guid": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+    "title": "Mushroom supplements promise health benefits. What does the science say?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+    "content": [
+      "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Mushroom supplements promise health benefits. What does the ... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-dfd6223c87",
+    "slug": "ukrainian-drones-hit-a-russian-warship-at-a-naval-base-in-libya-zelenskyy-says",
+    "guid": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+    "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+    "content": [
+      "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Ukrainian drones hit a Russian warship at a naval base in Li... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T10:16:33+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d2f60c4f57",
+    "slug": "democrats-win-house-by-largest-margin-in-50-years-and-cop31-ends-with-no-deal",
+    "guid": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+    "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+    "content": [
+      "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Democrats win House by largest margin in 50 years. And, COP3... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T12:42:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-37a205ea07",
+    "slug": "nvidias-board-of-directors-brings-jensen-huang-back-as-ceo",
+    "guid": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+    "title": "Nvidia's board of directors brings Jensen Huang back as CEO",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
+    "content": [
+      "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Jensen's return as a national security risk.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Nvidia's board of directors brings Jensen Huang back as CEO... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T14:53:41+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-78613f558a",
+    "slug": "medicare-for-all-is-back-on-the-drawing-board-does-it-stand-a-better-chance-this-time",
+    "guid": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+    "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+    "content": [
+      "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "'Medicare for all' is back on the drawing board. Does it sta... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T16:00:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5bd32a6f7c",
+    "slug": "wwe-legend-stone-cold-steve-austin-adds-racing-title-to-impressive-résumé-describes-perfec",
+    "guid": "https://www.foxnews.com/outkick-sports/wwe-legend-stone-cold-steve-austin-adds-racing-title-impressive-resume-describes-perfect-outdoors-day",
+    "title": "WWE legend 'Stone Cold' Steve Austin adds racing title to impressive résumé, describes perfect outdoors day",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Stone Cold Steve Austin claimed the VORRA Forced Induction Sportsman Class title in his Supercharged Kawasaki Teryx H2, 54 points clear this season.",
+    "content": [
+      "Stone Cold Steve Austin claimed the VORRA Forced Induction Sportsman Class title in his Supercharged Kawasaki Teryx H2, 54 points clear this season.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/08/931/523/Steve-Austin.jpg?ve=1&tl=1",
+    "imageCaption": "WWE legend 'Stone Cold' Steve Austin adds racing title to im... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T16:39:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-efec8379e7",
+    "slug": "bengals-joe-burrow-is-chasing-history-an-mvp-and-a-super-bowl-on-monday-night-football",
+    "guid": "https://www.foxnews.com/outkick-sports/bengals-joe-burrow-chasing-history-mvp-super-bowl-monday-night-football",
+    "title": "Bengals Joe Burrow is chasing history, an MVP and a Super Bowl on Monday Night Football",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Joe Burrow has tied Peyton Manning&apos;s NFL record with five straight games of four-plus touchdowns, and Monday Night Football offers a chance at No. 6.",
+    "content": [
+      "Joe Burrow has tied Peyton Manning&apos;s NFL record with five straight games of four-plus touchdowns, and Monday Night Football offers a chance at No. 6.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/joe-burrow-bengals-jaguars.jpg?ve=1&tl=1",
+    "imageCaption": "Bengals Joe Burrow is chasing history, an MVP and a Super Bo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T16:43:30+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5659cf3a80",
+    "slug": "platoon-star-tom-berenger-disses-hollywood-as-a-company-town-praises-florida-life",
+    "guid": "https://www.foxnews.com/entertainment/platoon-star-tom-berenger-disses-hollywood-company-town-praises-florida-life",
+    "title": "'Platoon' star Tom Berenger disses Hollywood as a 'company town,' praises Florida life",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tom Berenger explains why he never lived in Hollywood, calling it a tedious company town, and shared why he vastly prefers Florida and South Carolina.",
+    "content": [
+      "Tom Berenger explains why he never lived in Hollywood, calling it a tedious company town, and shared why he vastly prefers Florida and South Carolina.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Culture",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tom-berenger-tcm-classic-film-festival-2023.jpg?ve=1&tl=1",
+    "imageCaption": "'Platoon' star Tom Berenger disses Hollywood as a 'company t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T17:00:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Culture",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-daae169e0a",
+    "slug": "michael-ruiz-911-call-reveals-chase-before-disputed-stand-your-ground-shooting-hes-trying-",
+    "guid": "https://www.foxnews.com/us/michael-ruiz-911-call-reveals-chase-before-disputed-stand-your-ground-shooting-hes-trying-run",
+    "title": "MICHAEL RUIZ: 911 call reveals chase before disputed 'stand your ground' shooting, ‘He's trying to run’",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "An eight-minute 911 call captured the Highway 9 road rage clash that left Scott Spivey dead, and two South Carolina men now face murder charges.",
+    "content": [
+      "An eight-minute 911 call captured the Highway 9 road rage clash that left Scott Spivey dead, and two South Carolina men now face murder charges.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kenneth-bradley-williams-05-keith-alan-jacobs-scaled.jpg?ve=1&tl=1",
+    "imageCaption": "MICHAEL RUIZ: 911 call reveals chase before disputed 'stand ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T17:01:02+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-85e79634ae",
+    "slug": "louisiana-man-accused-of-random-nature-trail-murder-killing-coworker-with-crossbow-days-la",
+    "guid": "https://www.foxnews.com/us/louisiana-man-accused-random-nature-trail-murder-killing-coworker-crossbow-days-later",
+    "title": "Louisiana man accused of random nature trail murder, killing coworker with crossbow days later",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Jared Schurr allegedly strangled Lizeht Rodriguez at Northlake Nature Center before killing coworker Woodrow Scott with a crossbow, officials say.",
+    "content": [
+      "Jared Schurr allegedly strangled Lizeht Rodriguez at Northlake Nature Center before killing coworker Woodrow Scott with a crossbow, officials say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Lizeht-trail-2.jpg?ve=1&tl=1",
+    "imageCaption": "Louisiana man accused of random nature trail murder, killing... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T17:08:59+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1d51f02f5e",
+    "slug": "alexa-moutevelis-how-virginia-school-district-shames-kids-to-mark-thanksgiving",
+    "guid": "https://www.foxnews.com/opinion/alexa-moutevelis-how-virginia-school-district-shames-kids-mark-thanksgiving",
+    "title": "ALEXA MOUTEVELIS: How Virginia school district shames kids to mark Thanksgiving",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A FOIA-obtained Loudoun County Public Schools guide includes a Thanksgiving lesson calling it a Day of Mourning, sparking claims of bias in Virginia.",
+    "content": [
+      "A FOIA-obtained Loudoun County Public Schools guide includes a Thanksgiving lesson calling it a Day of Mourning, sparking claims of bias in Virginia.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/family-preparing-thanksgiving.jpg?ve=1&tl=1",
+    "imageCaption": "ALEXA MOUTEVELIS: How Virginia school district shames kids t... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T17:17:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-585a6bfe5e",
+    "slug": "teachers-aide-rejected-by-nypd-admits-killing-jogger-and-says-allah-told-me-to-report",
+    "guid": "https://www.foxnews.com/us/teachers-aide-rejected-nypd-admits-killing-jogger-allah-told-me-report",
+    "title": "Teacher’s aide rejected by NYPD admits killing jogger — and says ‘Allah told me to’: report",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Ex-cop and teacher&apos;s aide Sayed Mohassib faces murder charges in runner Katie Suarez&apos;s Brooklyn stabbing death, reportedly saying Allah told him to kill.",
+    "content": [
+      "Ex-cop and teacher&apos;s aide Sayed Mohassib faces murder charges in runner Katie Suarez&apos;s Brooklyn stabbing death, reportedly saying Allah told him to kill.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/man-accused-of-killing-woman-invoked-allah.jpg?ve=1&tl=1",
+    "imageCaption": "Teacher’s aide rejected by NYPD admits killing jogger — and ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T17:17:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7f588add38",
+    "slug": "worst-cop-ever-climate-talks-collapse-after-draft-deal-fails-to-include-fossil-fuels",
+    "guid": "108556436",
+    "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
+    "content": [
+      "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "‘Worst COP ever’: Climate talks collapse after draft deal fa... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T13:16:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-e95f6f4599",
+    "slug": "futures-rally-after-wall-streets-nightmare-week",
+    "guid": "108557260",
+    "title": "Futures rally after Wall Street's nightmare week",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Investors look to buy the dip as technology stocks lead early gains for the Nasdaq",
+    "content": [
+      "Investors look to buy the dip as technology stocks lead early gains for the Nasdaq",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Futures rally after Wall Street's nightmare week... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T11:10:34+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4896cec949",
+    "slug": "more-americans-pay-this-obama-era-investment-tax-every-year-how-to-avoid-it",
+    "guid": "108554354",
+    "title": "More Americans pay this Obama-era investment tax every year — how to avoid it",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "As more Americans pay net investment income tax, there are strategies to avoid it, experts say.",
+    "content": [
+      "As more Americans pay net investment income tax, there are strategies to avoid it, experts say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "More Americans pay this Obama-era investment tax every year ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T13:15:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-47f76ad940",
+    "slug": "tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market",
+    "guid": "108557054",
+    "title": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+    "content": [
+      "OKXICE is set to debut Monday despite objections from 90% of the companies whose stocks it initially proposed to list.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a n... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T15:30:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-38bb79c2e1",
+    "slug": "crowdstrike-to-buy-zscaler-in-44-billion-deal-as-ai-supercharges-cyberattacks",
+    "guid": "108557328",
+    "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+    "content": [
+      "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "CrowdStrike to buy Zscaler in $44 billion deal as AI superch... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T17:17:10+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8b37841d31",
+    "slug": "spacex-sued-by-oregon-and-virginia-over-ai-deepfake-porn-grok-safety-claims",
+    "guid": "108557057",
+    "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+    "content": [
+      "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Gr... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T16:45:31+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-fccef8e65e",
+    "slug": "tech-stocks-rally-after-nvidia-board-approves-jensen-huangs-return-as-ceo",
+    "guid": "108557231",
+    "title": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+    "content": [
+      "The Nasdaq slid 10% last week in its worst week since the early days of Covid in 2020.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Tech stocks rally after Nvidia board approves Jensen Huang's... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T15:36:12+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3b9c99b29e",
+    "slug": "this-establishes-a-bottom-jensen-huangs-return-seen-as-likely-to-stop-market-sell-off-for-",
+    "guid": "108557480",
+    "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+    "content": [
+      "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "‘This establishes a bottom’: Jensen Huang’s return seen as l... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T16:53:57+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0633ddafee",
+    "slug": "jensen-huang-reinstated-as-nvidia-ceo-stock-skyrockets-33",
+    "guid": "108557362",
+    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+    "content": [
+      "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T17:23:04+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-5603473a70",
+    "slug": "trump-tells-cnbc-i-made-the-deal-to-reinstate-nvidias-jensen-huang",
+    "guid": "108557437",
+    "title": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jensen Huang",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+    "content": [
+      "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Trump tells CNBC ‘I made the deal’ to reinstate Nvidia’s Jen... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-23T17:16:39+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-87c2b7d657",
     "slug": "kodaks-next-collectible-is-a-tiny-digital-photo-frame-that-doubles-as-a-tracker",
     "guid": "https://www.theverge.com/?p=1038650",
