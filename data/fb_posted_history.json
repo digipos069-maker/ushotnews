@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-22T23:30:51.797955+00:00",
+  "last_updated": "2026-11-23T03:40:17.678103+00:00",
   "posted_count": 44,
   "articles": {
-    "scraped-3210f88e51": {
-      "title": "Puka Nacua is suspended by the NFL but discipline's timing could not have been any better for Rams receiver",
-      "slug": "puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
-      "url": "https://ushotnews.online/article/puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
-      "article_url": "https://ushotnews.online/article/puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136631161471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136631161471257",
-      "fb_comment_id": "122136631161471257_1156405820199408",
-      "posted_at": "2026-11-20T01:11:22.703754+00:00"
-    },
-    "puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f": {
-      "title": "Puka Nacua is suspended by the NFL but discipline's timing could not have been any better for Rams receiver",
-      "slug": "puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
-      "url": "https://ushotnews.online/article/puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
-      "article_url": "https://ushotnews.online/article/puka-nacua-is-suspended-by-the-nfl-but-disciplines-timing-could-not-have-been-any-better-f",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136631161471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136631161471257",
-      "fb_comment_id": "122136631161471257_1156405820199408",
-      "posted_at": "2026-11-20T01:11:22.703754+00:00"
-    },
     "scraped-cde023be84": {
       "title": "Cramer says Nvidia’s woes are trumping Anthropic excitement for the rest of the AI trade",
       "slug": "cramer-says-nvidias-woes-are-trumping-anthropic-excitement-for-the-rest-of-the-ai-trade",
@@ -485,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137462299471257",
       "fb_comment_id": "122137462299471257_1646574323607708",
       "posted_at": "2026-11-22T23:30:51.797884+00:00"
+    },
+    "scraped-18381a8360": {
+      "title": "Solo diners are asking restaurants for half-size portions, sparking debate over menu flexibility",
+      "slug": "solo-diners-are-asking-restaurants-for-half-size-portions-sparking-debate-over-menu-flexib",
+      "url": "https://ushotnews.online/article/solo-diners-are-asking-restaurants-for-half-size-portions-sparking-debate-over-menu-flexib",
+      "article_url": "https://ushotnews.online/article/solo-diners-are-asking-restaurants-for-half-size-portions-sparking-debate-over-menu-flexib",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137498659471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137498659471257",
+      "fb_comment_id": "122137498659471257_1134973679400128",
+      "posted_at": "2026-11-23T03:40:17.678032+00:00"
+    },
+    "solo-diners-are-asking-restaurants-for-half-size-portions-sparking-debate-over-menu-flexib": {
+      "title": "Solo diners are asking restaurants for half-size portions, sparking debate over menu flexibility",
+      "slug": "solo-diners-are-asking-restaurants-for-half-size-portions-sparking-debate-over-menu-flexib",
+      "url": "https://ushotnews.online/article/solo-diners-are-asking-restaurants-for-half-size-portions-sparking-debate-over-menu-flexib",
+      "article_url": "https://ushotnews.online/article/solo-diners-are-asking-restaurants-for-half-size-portions-sparking-debate-over-menu-flexib",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137498659471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137498659471257",
+      "fb_comment_id": "122137498659471257_1134973679400128",
+      "posted_at": "2026-11-23T03:40:17.678032+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T23:30:44.731927+00:00"
+  "last_cleaned_at": "2026-11-23T03:40:06.232035+00:00"
 }
