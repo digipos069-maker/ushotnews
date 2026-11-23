@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-22T23:29:12.632160+00:00",
+  "last_updated": "2026-11-23T06:57:34.879414+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030500": {
-      "title": "Aircraft Damage Repair Training Yokota Air Base",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112161749/DOD_112161749.mp4",
-      "attached_website_url": "https://ushotnews.online/article/keisha-lance-bottoms-says-democrats-better-spend-big-on-the-south",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1445129163851158",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1445129163851158",
-      "fb_comment_id": "1445129163851158_1162137219604887",
-      "posted_at": "2026-11-20T06:44:31.723062+00:00"
-    },
     "dvids-video:1030543": {
       "title": "1st Cavalry Division Shout-Out for Army vs. Rice Football Game",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112163174/DOD_112163174.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1154508223793493",
       "fb_comment_id": "1154508223793493_1940648030407715",
       "posted_at": "2026-11-22T23:29:12.632100+00:00"
+    },
+    "dvids-video:1030670": {
+      "title": "RED Friday Shoutout, U.S. Marine Corps Lance Cpl Victor Conce, Marine Corps Air Station Iwakuni, Japan 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112166058/DOD_112166058.mp4",
+      "attached_website_url": "https://ushotnews.online/article/kodaks-next-collectible-is-a-tiny-digital-photo-frame-that-doubles-as-a-tracker",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1428310819287122",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1428310819287122",
+      "fb_comment_id": "1428310819287122_28959269370438540",
+      "posted_at": "2026-11-23T06:57:34.879360+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-22T23:28:02.678402+00:00"
+  "last_cleaned_at": "2026-11-23T06:56:24.077088+00:00"
 }
