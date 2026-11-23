@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-23T14:24:08.765010+00:00",
-  "posted_count": 42,
+  "last_updated": "2026-11-23T17:29:30.334852+00:00",
+  "posted_count": 44,
   "articles": {
     "scraped-9a2f27c13f": {
       "title": "Young people record their older relatives for The Great Listen",
@@ -463,7 +463,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137631217471257",
       "fb_comment_id": "122137631217471257_2291691978041047",
       "posted_at": "2026-11-23T14:24:08.764950+00:00"
+    },
+    "scraped-57929f588b": {
+      "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
+      "slug": "lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year",
+      "url": "https://ushotnews.online/article/lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year",
+      "article_url": "https://ushotnews.online/article/lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137662207471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137662207471257",
+      "fb_comment_id": "122137662207471257_4853022888318275",
+      "posted_at": "2026-11-23T17:29:30.334791+00:00"
+    },
+    "lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year": {
+      "title": "Let's talk turkey: Here's how Thanksgiving meal costs have changed this year",
+      "slug": "lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year",
+      "url": "https://ushotnews.online/article/lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year",
+      "article_url": "https://ushotnews.online/article/lets-talk-turkey-heres-how-thanksgiving-meal-costs-have-changed-this-year",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137662207471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137662207471257",
+      "fb_comment_id": "122137662207471257_4853022888318275",
+      "posted_at": "2026-11-23T17:29:30.334791+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-23T14:23:58.711892+00:00"
+  "last_cleaned_at": "2026-11-23T17:29:17.867853+00:00"
 }
