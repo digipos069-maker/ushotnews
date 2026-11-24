@@ -1,95 +1,7 @@
 {
-  "last_updated": "2026-11-24T14:10:19.242497+00:00",
-  "posted_count": 40,
+  "last_updated": "2026-11-24T22:43:47.484146+00:00",
+  "posted_count": 34,
   "articles": {
-    "scraped-4c84313877": {
-      "title": "Rising seas have forced this Quinault village to relocate",
-      "slug": "rising-seas-have-forced-this-quinault-village-to-relocate",
-      "url": "https://ushotnews.online/article/rising-seas-have-forced-this-quinault-village-to-relocate",
-      "article_url": "https://ushotnews.online/article/rising-seas-have-forced-this-quinault-village-to-relocate",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137107423471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137107423471257",
-      "fb_comment_id": "122137107423471257_1217510154274982",
-      "posted_at": "2026-11-21T15:15:31.846866+00:00"
-    },
-    "rising-seas-have-forced-this-quinault-village-to-relocate": {
-      "title": "Rising seas have forced this Quinault village to relocate",
-      "slug": "rising-seas-have-forced-this-quinault-village-to-relocate",
-      "url": "https://ushotnews.online/article/rising-seas-have-forced-this-quinault-village-to-relocate",
-      "article_url": "https://ushotnews.online/article/rising-seas-have-forced-this-quinault-village-to-relocate",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137107423471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137107423471257",
-      "fb_comment_id": "122137107423471257_1217510154274982",
-      "posted_at": "2026-11-21T15:15:31.846866+00:00"
-    },
-    "scraped-048189b4bb": {
-      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-      "slug": "anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-      "url": "https://ushotnews.online/article/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-      "article_url": "https://ushotnews.online/article/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137141005471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137141005471257",
-      "fb_comment_id": "122137141005471257_1161818619876180",
-      "posted_at": "2026-11-21T17:07:59.769129+00:00"
-    },
-    "anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that": {
-      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
-      "slug": "anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-      "url": "https://ushotnews.online/article/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-      "article_url": "https://ushotnews.online/article/anthropic-says-it-will-put-humanity-first-will-its-ipo-change-that",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137141005471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137141005471257",
-      "fb_comment_id": "122137141005471257_1161818619876180",
-      "posted_at": "2026-11-21T17:07:59.769129+00:00"
-    },
-    "scraped-3b1b2a6ecc": {
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "slug": "the-xiaomi-18-pro-proves-two-screens-arent-better-than-one",
-      "url": "https://ushotnews.online/article/the-xiaomi-18-pro-proves-two-screens-arent-better-than-one",
-      "article_url": "https://ushotnews.online/article/the-xiaomi-18-pro-proves-two-screens-arent-better-than-one",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137188753471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137188753471257",
-      "fb_comment_id": "122137188753471257_4824765264424387",
-      "posted_at": "2026-11-21T21:03:20.771135+00:00"
-    },
-    "the-xiaomi-18-pro-proves-two-screens-arent-better-than-one": {
-      "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
-      "slug": "the-xiaomi-18-pro-proves-two-screens-arent-better-than-one",
-      "url": "https://ushotnews.online/article/the-xiaomi-18-pro-proves-two-screens-arent-better-than-one",
-      "article_url": "https://ushotnews.online/article/the-xiaomi-18-pro-proves-two-screens-arent-better-than-one",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137188753471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137188753471257",
-      "fb_comment_id": "122137188753471257_4824765264424387",
-      "posted_at": "2026-11-21T21:03:20.771135+00:00"
-    },
-    "scraped-4af67b66a3": {
-      "title": "Storms expected on both coasts threatens Thanksgiving travel",
-      "slug": "storms-expected-on-both-coasts-threatens-thanksgiving-travel",
-      "url": "https://ushotnews.online/article/storms-expected-on-both-coasts-threatens-thanksgiving-travel",
-      "article_url": "https://ushotnews.online/article/storms-expected-on-both-coasts-threatens-thanksgiving-travel",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137203459471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137203459471257",
-      "fb_comment_id": "122137203459471257_2594917781030446",
-      "posted_at": "2026-11-21T22:17:20.380794+00:00"
-    },
-    "storms-expected-on-both-coasts-threatens-thanksgiving-travel": {
-      "title": "Storms expected on both coasts threatens Thanksgiving travel",
-      "slug": "storms-expected-on-both-coasts-threatens-thanksgiving-travel",
-      "url": "https://ushotnews.online/article/storms-expected-on-both-coasts-threatens-thanksgiving-travel",
-      "article_url": "https://ushotnews.online/article/storms-expected-on-both-coasts-threatens-thanksgiving-travel",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137203459471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137203459471257",
-      "fb_comment_id": "122137203459471257_2594917781030446",
-      "posted_at": "2026-11-21T22:17:20.380794+00:00"
-    },
     "scraped-3575202068": {
       "title": "Ty Pennington calls out 'excessive' home renovation trend people do in kitchens",
       "slug": "ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens",
@@ -441,7 +353,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137911189471257",
       "fb_comment_id": "122137911189471257_1747463026799458",
       "posted_at": "2026-11-24T14:10:19.242433+00:00"
+    },
+    "scraped-ad977053ee": {
+      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+      "slug": "for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
+      "url": "https://ushotnews.online/article/for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
+      "article_url": "https://ushotnews.online/article/for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138028171471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138028171471257",
+      "fb_comment_id": "122138028171471257_1687511499747736",
+      "posted_at": "2026-11-24T22:43:47.484089+00:00"
+    },
+    "for-workplace-culture-champions-jensen-huangs-return-is-unfathomable": {
+      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+      "slug": "for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
+      "url": "https://ushotnews.online/article/for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
+      "article_url": "https://ushotnews.online/article/for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138028171471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138028171471257",
+      "fb_comment_id": "122138028171471257_1687511499747736",
+      "posted_at": "2026-11-24T22:43:47.484089+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-24T14:10:09.328406+00:00"
+  "last_cleaned_at": "2026-11-24T22:43:37.215007+00:00"
 }
