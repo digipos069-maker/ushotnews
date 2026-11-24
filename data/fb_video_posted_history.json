@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-24T04:43:55.230002+00:00",
-  "posted_count": 9,
+  "last_updated": "2026-11-24T17:22:23.287480+00:00",
+  "posted_count": 8,
   "articles": {
-    "dvids-video:1030612": {
-      "title": "7ID (MDPC-P) GO ARMY shoutout",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112164469/DOD_112164469.mp4",
-      "attached_website_url": "https://ushotnews.online/article/mlks-handwritten-draft-of-iconic-speech-on-display-for-the-first-time",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1600934138454626",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1600934138454626",
-      "fb_comment_id": "1600934138454626_1018534723886532",
-      "posted_at": "2026-11-21T06:37:21.118328+00:00"
-    },
-    "dvids-video:1030641": {
-      "title": "2ID/RUCD Holiday Shoutout",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165066/DOD_112165066.mp4",
-      "attached_website_url": "https://ushotnews.online/article/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1470140801736128",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1470140801736128",
-      "fb_comment_id": "1470140801736128_1661461269049674",
-      "posted_at": "2026-11-21T16:01:50.771531+00:00"
-    },
     "dvids-video:1030653": {
       "title": "Thanksgiving Greetings from Kuwait",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165409/DOD_112165409.mp4",
@@ -100,7 +78,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1116853651180799",
       "fb_comment_id": "1116853651180799_1476670854571851",
       "posted_at": "2026-11-24T04:43:55.229924+00:00"
+    },
+    "dvids-video:1030915": {
+      "title": "U.S. Capitol Christmas Tree arrives at JBA to mark the 2026 holiday season",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112171158/DOD_112171158.mp4",
+      "attached_website_url": "https://ushotnews.online/article/uber-nuro-and-lucid-kick-off-fully-driverless-robotaxi-testing",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1821054835785230",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1821054835785230",
+      "fb_comment_id": "1821054835785230_1647353100225263",
+      "posted_at": "2026-11-24T17:22:23.287396+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-24T04:42:51.360175+00:00"
+  "last_cleaned_at": "2026-11-24T17:21:15.738241+00:00"
 }
