@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-23T20:01:27.033032+00:00",
+  "last_updated": "2026-11-24T04:43:55.230002+00:00",
   "posted_count": 9,
   "articles": {
-    "dvids-video:1030614": {
-      "title": "Fairchild AFB 2026 Mission Brief Video",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112164560/DOD_112164560.mp4",
-      "attached_website_url": "https://ushotnews.online/article/new-democratic-governors-race-to-deliver-relief-on-costs",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "2091670278170850",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2091670278170850",
-      "fb_comment_id": "2091670278170850_1179894014476742",
-      "posted_at": "2026-11-20T23:53:24.102903+00:00"
-    },
     "dvids-video:1030612": {
       "title": "7ID (MDPC-P) GO ARMY shoutout",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112164469/DOD_112164469.mp4",
@@ -100,7 +89,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2341115843406400",
       "fb_comment_id": "2341115843406400_1689551276075914",
       "posted_at": "2026-11-23T20:01:27.032972+00:00"
+    },
+    "dvids-video:1030765": {
+      "title": "VMFA-311 Return From 8 Month Deployment",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112168667/DOD_112168667.mp4",
+      "attached_website_url": "https://ushotnews.online/article/2028-democrats-say-nvidia-news-is-another-example-of-corruption-in-government",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1116853651180799",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1116853651180799",
+      "fb_comment_id": "1116853651180799_1476670854571851",
+      "posted_at": "2026-11-24T04:43:55.229924+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-23T20:00:13.472088+00:00"
+  "last_cleaned_at": "2026-11-24T04:42:51.360175+00:00"
 }
