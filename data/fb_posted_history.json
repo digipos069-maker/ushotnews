@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-24T12:21:05.548169+00:00",
-  "posted_count": 38,
+  "last_updated": "2026-11-24T14:10:19.242497+00:00",
+  "posted_count": 40,
   "articles": {
     "scraped-4c84313877": {
       "title": "Rising seas have forced this Quinault village to relocate",
@@ -419,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137887759471257",
       "fb_comment_id": "122137887759471257_1795445574882483",
       "posted_at": "2026-11-24T12:21:05.548110+00:00"
+    },
+    "scraped-dbb55df6f8": {
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "slug": "jensen-huang-returns-to-nvidia-and-rep-gomez-resigns-amid-alleged-sexual-misconduct",
+      "url": "https://ushotnews.online/article/jensen-huang-returns-to-nvidia-and-rep-gomez-resigns-amid-alleged-sexual-misconduct",
+      "article_url": "https://ushotnews.online/article/jensen-huang-returns-to-nvidia-and-rep-gomez-resigns-amid-alleged-sexual-misconduct",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137911189471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137911189471257",
+      "fb_comment_id": "122137911189471257_1747463026799458",
+      "posted_at": "2026-11-24T14:10:19.242433+00:00"
+    },
+    "jensen-huang-returns-to-nvidia-and-rep-gomez-resigns-amid-alleged-sexual-misconduct": {
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "slug": "jensen-huang-returns-to-nvidia-and-rep-gomez-resigns-amid-alleged-sexual-misconduct",
+      "url": "https://ushotnews.online/article/jensen-huang-returns-to-nvidia-and-rep-gomez-resigns-amid-alleged-sexual-misconduct",
+      "article_url": "https://ushotnews.online/article/jensen-huang-returns-to-nvidia-and-rep-gomez-resigns-amid-alleged-sexual-misconduct",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137911189471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137911189471257",
+      "fb_comment_id": "122137911189471257_1747463026799458",
+      "posted_at": "2026-11-24T14:10:19.242433+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-24T12:20:57.203241+00:00"
+  "last_cleaned_at": "2026-11-24T14:10:09.328406+00:00"
 }
