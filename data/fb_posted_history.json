@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-24T01:51:14.751853+00:00",
+  "last_updated": "2026-11-24T03:27:52.928337+00:00",
   "posted_count": 40,
   "articles": {
-    "scraped-7b53844e57": {
-      "title": "Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years",
-      "slug": "charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
-      "url": "https://ushotnews.online/article/charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
-      "article_url": "https://ushotnews.online/article/charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136942201471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136942201471257",
-      "fb_comment_id": "122136942201471257_993011066749934",
-      "posted_at": "2026-11-21T02:00:25.372607+00:00"
-    },
-    "charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years": {
-      "title": "Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years",
-      "slug": "charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
-      "url": "https://ushotnews.online/article/charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
-      "article_url": "https://ushotnews.online/article/charlie-sheen-stunned-to-learn-fellow-actor-rob-lowe-had-been-praying-for-him-for-years",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122136942201471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122136942201471257",
-      "fb_comment_id": "122136942201471257_993011066749934",
-      "posted_at": "2026-11-21T02:00:25.372607+00:00"
-    },
     "scraped-8109e5e596": {
       "title": "Multiplying your Switch 2’s storage costs less than usual right now",
       "slug": "multiplying-your-switch-2s-storage-costs-less-than-usual-right-now",
@@ -441,7 +419,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137760493471257",
       "fb_comment_id": "122137760493471257_3828446130635712",
       "posted_at": "2026-11-24T01:51:14.751795+00:00"
+    },
+    "scraped-6a5da4f232": {
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "slug": "what-jensen-huangs-return-means-for-nvidias-colette-kress",
+      "url": "https://ushotnews.online/article/what-jensen-huangs-return-means-for-nvidias-colette-kress",
+      "article_url": "https://ushotnews.online/article/what-jensen-huangs-return-means-for-nvidias-colette-kress",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137788753471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137788753471257",
+      "fb_comment_id": "122137788753471257_966949372915683",
+      "posted_at": "2026-11-24T03:27:52.928276+00:00"
+    },
+    "what-jensen-huangs-return-means-for-nvidias-colette-kress": {
+      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
+      "slug": "what-jensen-huangs-return-means-for-nvidias-colette-kress",
+      "url": "https://ushotnews.online/article/what-jensen-huangs-return-means-for-nvidias-colette-kress",
+      "article_url": "https://ushotnews.online/article/what-jensen-huangs-return-means-for-nvidias-colette-kress",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122137788753471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137788753471257",
+      "fb_comment_id": "122137788753471257_966949372915683",
+      "posted_at": "2026-11-24T03:27:52.928276+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-24T01:51:05.147527+00:00"
+  "last_cleaned_at": "2026-11-24T03:27:45.253312+00:00"
 }
