@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-24T23:35:55.051992+00:00",
-  "posted_count": 36,
+  "last_updated": "2026-11-25T05:22:20.350002+00:00",
+  "posted_count": 34,
   "articles": {
-    "scraped-3575202068": {
-      "title": "Ty Pennington calls out 'excessive' home renovation trend people do in kitchens",
-      "slug": "ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens",
-      "url": "https://ushotnews.online/article/ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens",
-      "article_url": "https://ushotnews.online/article/ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137229967471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137229967471257",
-      "fb_comment_id": "122137229967471257_1179903381128955",
-      "posted_at": "2026-11-22T01:31:42.165700+00:00"
-    },
-    "ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens": {
-      "title": "Ty Pennington calls out 'excessive' home renovation trend people do in kitchens",
-      "slug": "ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens",
-      "url": "https://ushotnews.online/article/ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens",
-      "article_url": "https://ushotnews.online/article/ty-pennington-calls-out-excessive-home-renovation-trend-people-do-in-kitchens",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137229967471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137229967471257",
-      "fb_comment_id": "122137229967471257_1179903381128955",
-      "posted_at": "2026-11-22T01:31:42.165700+00:00"
-    },
-    "scraped-e14ff6a790": {
-      "title": "Indiana's national championship defense on the brink after overtime upset to Washington",
-      "slug": "indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
-      "url": "https://ushotnews.online/article/indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
-      "article_url": "https://ushotnews.online/article/indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137239711471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137239711471257",
-      "fb_comment_id": "122137239711471257_1440216445843888",
-      "posted_at": "2026-11-22T02:29:59.348996+00:00"
-    },
-    "indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington": {
-      "title": "Indiana's national championship defense on the brink after overtime upset to Washington",
-      "slug": "indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
-      "url": "https://ushotnews.online/article/indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
-      "article_url": "https://ushotnews.online/article/indianas-national-championship-defense-on-the-brink-after-overtime-upset-to-washington",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137239711471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137239711471257",
-      "fb_comment_id": "122137239711471257_1440216445843888",
-      "posted_at": "2026-11-22T02:29:59.348996+00:00"
-    },
     "scraped-5ed4ed325e": {
       "title": "Google employees protest AI in schools policy",
       "slug": "google-employees-protest-ai-in-schools-policy",
@@ -397,7 +353,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138035251471257",
       "fb_comment_id": "122138035251471257_1115893144614939",
       "posted_at": "2026-11-24T23:35:55.051911+00:00"
+    },
+    "scraped-7293cbac8e": {
+      "title": "Huawei found guilty of stealing trade secrets",
+      "slug": "huawei-found-guilty-of-stealing-trade-secrets",
+      "url": "https://ushotnews.online/article/huawei-found-guilty-of-stealing-trade-secrets",
+      "article_url": "https://ushotnews.online/article/huawei-found-guilty-of-stealing-trade-secrets",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138084127471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138084127471257",
+      "fb_comment_id": "122138084127471257_1830638208178730",
+      "posted_at": "2026-11-25T05:22:20.349949+00:00"
+    },
+    "huawei-found-guilty-of-stealing-trade-secrets": {
+      "title": "Huawei found guilty of stealing trade secrets",
+      "slug": "huawei-found-guilty-of-stealing-trade-secrets",
+      "url": "https://ushotnews.online/article/huawei-found-guilty-of-stealing-trade-secrets",
+      "article_url": "https://ushotnews.online/article/huawei-found-guilty-of-stealing-trade-secrets",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138084127471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138084127471257",
+      "fb_comment_id": "122138084127471257_1830638208178730",
+      "posted_at": "2026-11-25T05:22:20.349949+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-24T23:35:45.198613+00:00"
+  "last_cleaned_at": "2026-11-25T05:22:09.343934+00:00"
 }
