@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T05:22:20.350002+00:00",
-  "posted_count": 34,
+  "last_updated": "2026-11-25T07:09:06.659157+00:00",
+  "posted_count": 36,
   "articles": {
     "scraped-5ed4ed325e": {
       "title": "Google employees protest AI in schools policy",
@@ -375,7 +375,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138084127471257",
       "fb_comment_id": "122138084127471257_1830638208178730",
       "posted_at": "2026-11-25T05:22:20.349949+00:00"
+    },
+    "scraped-66c17af9d4": {
+      "title": "Al Gore buys hometown Tennessee newspaper, vows to preserve local outlet's 'independent voice'",
+      "slug": "al-gore-buys-hometown-tennessee-newspaper-vows-to-preserve-local-outlets-independent-voice",
+      "url": "https://ushotnews.online/article/al-gore-buys-hometown-tennessee-newspaper-vows-to-preserve-local-outlets-independent-voice",
+      "article_url": "https://ushotnews.online/article/al-gore-buys-hometown-tennessee-newspaper-vows-to-preserve-local-outlets-independent-voice",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138099451471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138099451471257",
+      "fb_comment_id": "122138099451471257_1197650666261743",
+      "posted_at": "2026-11-25T07:09:06.659080+00:00"
+    },
+    "al-gore-buys-hometown-tennessee-newspaper-vows-to-preserve-local-outlets-independent-voice": {
+      "title": "Al Gore buys hometown Tennessee newspaper, vows to preserve local outlet's 'independent voice'",
+      "slug": "al-gore-buys-hometown-tennessee-newspaper-vows-to-preserve-local-outlets-independent-voice",
+      "url": "https://ushotnews.online/article/al-gore-buys-hometown-tennessee-newspaper-vows-to-preserve-local-outlets-independent-voice",
+      "article_url": "https://ushotnews.online/article/al-gore-buys-hometown-tennessee-newspaper-vows-to-preserve-local-outlets-independent-voice",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138099451471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138099451471257",
+      "fb_comment_id": "122138099451471257_1197650666261743",
+      "posted_at": "2026-11-25T07:09:06.659080+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-25T05:22:09.343934+00:00"
+  "last_cleaned_at": "2026-11-25T07:08:58.648348+00:00"
 }
