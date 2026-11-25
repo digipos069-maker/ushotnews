@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-25T02:08:37.976275+00:00",
+  "last_updated": "2026-11-25T14:09:57.021626+00:00",
   "posted_count": 8,
   "articles": {
-    "dvids-video:1030654": {
-      "title": "Coast Guard medevacs 74-year-old man from cruise ship 80 miles off San Diego",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165542/DOD_112165542.mp4",
-      "attached_website_url": "https://ushotnews.online/article/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "4750525761857904",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4750525761857904",
-      "fb_comment_id": "4750525761857904_1877031293293397",
-      "posted_at": "2026-11-22T06:04:59.662956+00:00"
-    },
     "dvids-video:1030646": {
       "title": "Remembering John F. Kennedy",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165168/DOD_112165168.mp4",
@@ -89,7 +78,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1150672687438708",
       "fb_comment_id": "1150672687438708_1144672178262303",
       "posted_at": "2026-11-25T02:08:37.976192+00:00"
+    },
+    "dvids-video:1031076": {
+      "title": "Explore Europe: Villa Romana del Casale",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112174186/DOD_112174186.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-verges-2026-gift-guide-for-dads",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "4109243292712245",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4109243292712245",
+      "fb_comment_id": "4109243292712245_1165995382580822",
+      "posted_at": "2026-11-25T14:09:57.021556+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-25T02:07:31.764166+00:00"
+  "last_cleaned_at": "2026-11-25T14:03:52.897542+00:00"
 }
