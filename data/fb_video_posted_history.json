@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-24T17:22:23.287480+00:00",
+  "last_updated": "2026-11-25T02:08:37.976275+00:00",
   "posted_count": 8,
   "articles": {
-    "dvids-video:1030653": {
-      "title": "Thanksgiving Greetings from Kuwait",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165409/DOD_112165409.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-fbi-and-usda-were-reportedly-hacked",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1886721072485725",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1886721072485725",
-      "fb_comment_id": "1886721072485725_1160950483291152",
-      "posted_at": "2026-11-21T22:58:11.679498+00:00"
-    },
     "dvids-video:1030654": {
       "title": "Coast Guard medevacs 74-year-old man from cruise ship 80 miles off San Diego",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165542/DOD_112165542.mp4",
@@ -89,7 +78,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1821054835785230",
       "fb_comment_id": "1821054835785230_1647353100225263",
       "posted_at": "2026-11-24T17:22:23.287396+00:00"
+    },
+    "dvids-video:1030987": {
+      "title": "Admiral Paparo Visits Commander Fleet Activities Yokosuka",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112173024/DOD_112173024.mp4",
+      "attached_website_url": "https://ushotnews.online/article/amazon-is-knocking-almost-50-off-six-months-of-apple-tv",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "1150672687438708",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1150672687438708",
+      "fb_comment_id": "1150672687438708_1144672178262303",
+      "posted_at": "2026-11-25T02:08:37.976192+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-24T17:21:15.738241+00:00"
+  "last_cleaned_at": "2026-11-25T02:07:31.764166+00:00"
 }
