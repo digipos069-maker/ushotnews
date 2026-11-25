@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-25T07:09:06.659157+00:00",
-  "posted_count": 36,
+  "last_updated": "2026-11-25T15:58:41.637450+00:00",
+  "posted_count": 34,
   "articles": {
-    "scraped-5ed4ed325e": {
-      "title": "Google employees protest AI in schools policy",
-      "slug": "google-employees-protest-ai-in-schools-policy",
-      "url": "https://ushotnews.online/article/google-employees-protest-ai-in-schools-policy",
-      "article_url": "https://ushotnews.online/article/google-employees-protest-ai-in-schools-policy",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137299723471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137299723471257",
-      "fb_comment_id": "122137299723471257_1153651510472160",
-      "posted_at": "2026-11-22T08:46:48.911805+00:00"
-    },
-    "google-employees-protest-ai-in-schools-policy": {
-      "title": "Google employees protest AI in schools policy",
-      "slug": "google-employees-protest-ai-in-schools-policy",
-      "url": "https://ushotnews.online/article/google-employees-protest-ai-in-schools-policy",
-      "article_url": "https://ushotnews.online/article/google-employees-protest-ai-in-schools-policy",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137299723471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137299723471257",
-      "fb_comment_id": "122137299723471257_1153651510472160",
-      "posted_at": "2026-11-22T08:46:48.911805+00:00"
-    },
-    "scraped-0c5b03ad0e": {
-      "title": "Christmas gifts she'll actually use (and love)",
-      "slug": "christmas-gifts-shell-actually-use-and-love",
-      "url": "https://ushotnews.online/article/christmas-gifts-shell-actually-use-and-love",
-      "article_url": "https://ushotnews.online/article/christmas-gifts-shell-actually-use-and-love",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137320255471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137320255471257",
-      "fb_comment_id": "122137320255471257_3269477173262137",
-      "posted_at": "2026-11-22T10:11:33.892137+00:00"
-    },
-    "christmas-gifts-shell-actually-use-and-love": {
-      "title": "Christmas gifts she'll actually use (and love)",
-      "slug": "christmas-gifts-shell-actually-use-and-love",
-      "url": "https://ushotnews.online/article/christmas-gifts-shell-actually-use-and-love",
-      "article_url": "https://ushotnews.online/article/christmas-gifts-shell-actually-use-and-love",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137320255471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137320255471257",
-      "fb_comment_id": "122137320255471257_3269477173262137",
-      "posted_at": "2026-11-22T10:11:33.892137+00:00"
-    },
     "scraped-90050ff85e": {
       "title": "The Pennsylvania farm behind a White House Thanksgiving turkey tradition",
       "slug": "the-pennsylvania-farm-behind-a-white-house-thanksgiving-turkey-tradition",
@@ -397,7 +353,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138099451471257",
       "fb_comment_id": "122138099451471257_1197650666261743",
       "posted_at": "2026-11-25T07:09:06.659080+00:00"
+    },
+    "scraped-318005af93": {
+      "title": "Lions owner/chair emeritus Martha Firestone Ford dead at 101",
+      "slug": "lions-ownerchair-emeritus-martha-firestone-ford-dead-at-101",
+      "url": "https://ushotnews.online/article/lions-ownerchair-emeritus-martha-firestone-ford-dead-at-101",
+      "article_url": "https://ushotnews.online/article/lions-ownerchair-emeritus-martha-firestone-ford-dead-at-101",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138203251471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138203251471257",
+      "fb_comment_id": "122138203251471257_1515181510505223",
+      "posted_at": "2026-11-25T15:58:41.637332+00:00"
+    },
+    "lions-ownerchair-emeritus-martha-firestone-ford-dead-at-101": {
+      "title": "Lions owner/chair emeritus Martha Firestone Ford dead at 101",
+      "slug": "lions-ownerchair-emeritus-martha-firestone-ford-dead-at-101",
+      "url": "https://ushotnews.online/article/lions-ownerchair-emeritus-martha-firestone-ford-dead-at-101",
+      "article_url": "https://ushotnews.online/article/lions-ownerchair-emeritus-martha-firestone-ford-dead-at-101",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138203251471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138203251471257",
+      "fb_comment_id": "122138203251471257_1515181510505223",
+      "posted_at": "2026-11-25T15:58:41.637332+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-25T07:08:58.648348+00:00"
+  "last_cleaned_at": "2026-11-25T15:58:30.053296+00:00"
 }
