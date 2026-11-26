@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T00:12:47.657537+00:00",
-  "posted_count": 30,
+  "last_updated": "2026-11-26T01:54:16.214943+00:00",
+  "posted_count": 32,
   "articles": {
     "scraped-18381a8360": {
       "title": "Solo diners are asking restaurants for half-size portions, sparking debate over menu flexibility",
@@ -331,7 +331,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138289429471257",
       "fb_comment_id": "122138289429471257_1455424589545021",
       "posted_at": "2026-11-26T00:12:47.657478+00:00"
+    },
+    "scraped-1a3ec9fb0a": {
+      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "slug": "where-the-market-may-be-mispricing-risk-most-ai-boom-volatility-high-yield-bonds",
+      "url": "https://ushotnews.online/article/where-the-market-may-be-mispricing-risk-most-ai-boom-volatility-high-yield-bonds",
+      "article_url": "https://ushotnews.online/article/where-the-market-may-be-mispricing-risk-most-ai-boom-volatility-high-yield-bonds",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138306181471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138306181471257",
+      "fb_comment_id": "122138306181471257_2546473902505925",
+      "posted_at": "2026-11-26T01:54:16.214883+00:00"
+    },
+    "where-the-market-may-be-mispricing-risk-most-ai-boom-volatility-high-yield-bonds": {
+      "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+      "slug": "where-the-market-may-be-mispricing-risk-most-ai-boom-volatility-high-yield-bonds",
+      "url": "https://ushotnews.online/article/where-the-market-may-be-mispricing-risk-most-ai-boom-volatility-high-yield-bonds",
+      "article_url": "https://ushotnews.online/article/where-the-market-may-be-mispricing-risk-most-ai-boom-volatility-high-yield-bonds",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138306181471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138306181471257",
+      "fb_comment_id": "122138306181471257_2546473902505925",
+      "posted_at": "2026-11-26T01:54:16.214883+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-26T00:12:36.846390+00:00"
+  "last_cleaned_at": "2026-11-26T01:54:08.164691+00:00"
 }
