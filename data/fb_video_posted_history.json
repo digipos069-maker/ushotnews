@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-25T14:09:57.021626+00:00",
-  "posted_count": 8,
+  "last_updated": "2026-11-26T00:08:10.621577+00:00",
+  "posted_count": 7,
   "articles": {
-    "dvids-video:1030646": {
-      "title": "Remembering John F. Kennedy",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165168/DOD_112165168.mp4",
-      "attached_website_url": "https://ushotnews.online/article/nprs-senior-podcast-challenge-early-entries-we-love",
-      "trending_score": 90.0,
-      "format": "video",
-      "fb_video_id": "1175605128222119",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1175605128222119",
-      "fb_comment_id": "1175605128222119_2172211943685880",
-      "posted_at": "2026-11-22T16:07:53.277742+00:00"
-    },
-    "dvids-video:1030667": {
-      "title": "AR-MEDCOM Senior NCO explains significance of inaugural UMOC",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112165955/DOD_112165955.mp4",
-      "attached_website_url": "https://ushotnews.online/article/how-tamagotchis-got-us-hooked-on-digital-pets",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "1154508223793493",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1154508223793493",
-      "fb_comment_id": "1154508223793493_1940648030407715",
-      "posted_at": "2026-11-22T23:29:12.632100+00:00"
-    },
     "dvids-video:1030670": {
       "title": "RED Friday Shoutout, U.S. Marine Corps Lance Cpl Victor Conce, Marine Corps Air Station Iwakuni, Japan 2026",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112166058/DOD_112166058.mp4",
@@ -89,7 +67,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/4109243292712245",
       "fb_comment_id": "4109243292712245_1165995382580822",
       "posted_at": "2026-11-25T14:09:57.021556+00:00"
+    },
+    "dvids-video:1031155": {
+      "title": "Send Me: The making of a Soldier | Week 9, BCT rite of passage",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112175216/DOD_112175216.mp4",
+      "attached_website_url": "https://ushotnews.online/article/alex-bores-on-whether-congress-can-regulate-ai-before-its-too-late",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "2071739113533630",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2071739113533630",
+      "fb_comment_id": "2071739113533630_1625116139415947",
+      "posted_at": "2026-11-26T00:08:10.621512+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-25T14:03:52.897542+00:00"
+  "last_cleaned_at": "2026-11-26T00:06:12.456168+00:00"
 }
