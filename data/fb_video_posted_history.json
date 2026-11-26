@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-26T10:41:22.651448+00:00",
+  "last_updated": "2026-11-26T21:17:24.075886+00:00",
   "posted_count": 7,
   "articles": {
-    "dvids-video:1030726": {
-      "title": "Secretary Rubio meets with Qatari Prime Minister and Foreign Minister Mohammed bin Abdulrahman Al Thani",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112167923/DOD_112167923.mp4",
-      "attached_website_url": "https://ushotnews.online/article/gavin-newsoms-2028-audition",
-      "trending_score": 100.0,
-      "format": "video",
-      "fb_video_id": "2341115843406400",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2341115843406400",
-      "fb_comment_id": "2341115843406400_1689551276075914",
-      "posted_at": "2026-11-23T20:01:27.032972+00:00"
-    },
     "dvids-video:1030765": {
       "title": "VMFA-311 Return From 8 Month Deployment",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112168667/DOD_112168667.mp4",
@@ -78,7 +67,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1156448110368317",
       "fb_comment_id": "1156448110368317_1360877262722892",
       "posted_at": "2026-11-26T10:41:22.651382+00:00"
+    },
+    "dvids-video:1031177": {
+      "title": "USS Theodore Roosevelt Crew Thanksgiving 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112175750/DOD_112175750.mp4",
+      "attached_website_url": "https://ushotnews.online/article/why-gta-vis-version-of-florida-feels-so-real",
+      "trending_score": 75.0,
+      "format": "video",
+      "fb_video_id": "1465168685766454",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1465168685766454",
+      "fb_comment_id": "1465168685766454_1537401761572461",
+      "posted_at": "2026-11-26T21:17:24.075829+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-26T10:40:09.170269+00:00"
+  "last_cleaned_at": "2026-11-26T21:15:12.845645+00:00"
 }
