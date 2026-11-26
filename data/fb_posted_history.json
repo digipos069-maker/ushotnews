@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T08:50:02.657465+00:00",
-  "posted_count": 30,
+  "last_updated": "2026-11-26T10:29:37.611543+00:00",
+  "posted_count": 32,
   "articles": {
     "scraped-3cfbf73503": {
       "title": "We haven’t seen the last of the major tech outages",
@@ -331,7 +331,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138375325471257",
       "fb_comment_id": "122138375325471257_1268386409077921",
       "posted_at": "2026-11-26T08:50:02.657404+00:00"
+    },
+    "scraped-a241ace8ec": {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "slug": "42-state-ags-are-trying-to-stop-characterai-from-selling-users-chats",
+      "url": "https://ushotnews.online/article/42-state-ags-are-trying-to-stop-characterai-from-selling-users-chats",
+      "article_url": "https://ushotnews.online/article/42-state-ags-are-trying-to-stop-characterai-from-selling-users-chats",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138403471471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138403471471257",
+      "fb_comment_id": "122138403471471257_1160048056675085",
+      "posted_at": "2026-11-26T10:29:37.611472+00:00"
+    },
+    "42-state-ags-are-trying-to-stop-characterai-from-selling-users-chats": {
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "slug": "42-state-ags-are-trying-to-stop-characterai-from-selling-users-chats",
+      "url": "https://ushotnews.online/article/42-state-ags-are-trying-to-stop-characterai-from-selling-users-chats",
+      "article_url": "https://ushotnews.online/article/42-state-ags-are-trying-to-stop-characterai-from-selling-users-chats",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138403471471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138403471471257",
+      "fb_comment_id": "122138403471471257_1160048056675085",
+      "posted_at": "2026-11-26T10:29:37.611472+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-26T08:49:49.470974+00:00"
+  "last_cleaned_at": "2026-11-26T10:29:27.151574+00:00"
 }
