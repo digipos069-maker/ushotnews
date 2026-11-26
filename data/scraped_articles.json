@@ -1,5 +1,967 @@
 [
   {
+    "id": "scraped-95ce484c6c",
+    "slug": "1password-breach-leaked-customer-names-and-emails-but-not-passwords",
+    "guid": "https://www.theverge.com/?p=1042409",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]",
+    "content": [
+      "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1508344928928-7165b67de128?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "1Password breach leaked customer names and emails, but not p... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T19:10:15+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-130f075a94",
+    "slug": "epa-reports-zero-airborne-lead-following-controlled-army-detonation-in-iowa",
+    "guid": "https://www.theverge.com/?p=1042109",
+    "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several [&#8230;]",
+    "content": [
+      "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "EPA reports ‘zero’ airborne lead following controlled Army d... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T19:45:51+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6659f18b4b",
+    "slug": "whatsapps-new-scheduled-messages-let-you-choose-the-right-time-to-send",
+    "guid": "https://www.theverge.com/?p=1042532",
+    "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a [&#8230;]",
+    "content": [
+      "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "WhatsApp’s new scheduled messages let you choose the right t... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T20:31:48+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-58b65c7261",
+    "slug": "googles-patent-for-custom-ai-video-feeds-paints-a-bleak-picture-of-entertainments-future",
+    "guid": "https://www.theverge.com/?p=1042221",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
+    "content": [
+      "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Google’s patent for custom AI video feeds paints a bleak pic... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T21:51:26+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8ad6be4fdd",
+    "slug": "amazon-loses-its-latest-attempt-to-get-out-of-handling-more-recall-notices",
+    "guid": "https://www.theverge.com/?p=1042870",
+    "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it [&#8230;]",
+    "content": [
+      "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Amazon loses its latest attempt to get out of handling more ... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T23:56:44+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-af6952c43f",
+    "slug": "now-googles-familiar-faces-ai-feature-works-on-walmarts-35-smart-home-camera-too",
+    "guid": "https://www.theverge.com/?p=1042938",
+    "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required [&#8230;]",
+    "content": [
+      "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Now Google’s Familiar Faces AI feature works on Walmart’s $3... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T00:04:34+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cef93791bb",
+    "slug": "at-this-little-free-bakery-in-austin-neighbors-come-for-the-pastries-and-stay-for-communit",
+    "guid": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+    "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+    "content": [
+      "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "At this Little Free Bakery in Austin, neighbors come for the... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T21:02:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9b0bb45b07",
+    "slug": "steelers-officially-release-aaron-rodgers-and-keep-coach-mike-mccarthy-on-the-job-despite-",
+    "guid": "https://www.foxnews.com/outkick-sports/steelers-officially-release-aaron-rodgers-keep-coach-mike-mccarthy-job-despite-embarrassing-claims",
+    "title": "Steelers officially release Aaron Rodgers and keep coach Mike McCarthy on the job despite embarrassing claims",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Mike McCarthy keeps his Steelers job despite an ice cream assistant leak and Aaron Rodgers&apos; claims he snores in meetings, saying I know how to win.",
+    "content": [
+      "Mike McCarthy keeps his Steelers job despite an ice cream assistant leak and Aaron Rodgers&apos; claims he snores in meetings, saying I know how to win.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/steelers-bengals-snf-nfl-1.jpg?ve=1&tl=1",
+    "imageCaption": "Steelers officially release Aaron Rodgers and keep coach Mik... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T23:25:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f80d82f3bc",
+    "slug": "tony-romo-lands-new-job-at-sports-gaming-company-betr-months-after-his-cbs-departure-over-",
+    "guid": "https://www.foxnews.com/outkick-sports/tony-romo-lands-new-job-sports-gaming-company-betr-months-after-cbs-departure-owi-arrest",
+    "title": "Tony Romo lands new job at sports gaming company Betr months after his CBS departure over OWI arrest",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Tony Romo joins Betr as its first Chief Predictions Officer, taking an equity stake in Jake Paul&apos;s sports gaming brand after his abrupt CBS Sports exit.",
+    "content": [
+      "Tony Romo joins Betr as its first Chief Predictions Officer, taking an equity stake in Jake Paul&apos;s sports gaming brand after his abrupt CBS Sports exit.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/tony-romo-super-bowl-broadcast.jpg?ve=1&tl=1",
+    "imageCaption": "Tony Romo lands new job at sports gaming company Betr months... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T23:30:38+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1c1f108831",
+    "slug": "ms-rachel-calls-silence-on-gaza-conflict-f-ed-up-says-its-upset-her-so-much-she-now-swears",
+    "guid": "https://www.foxnews.com/media/ms-rachel-calls-gaza-conflict-f-ed-up-says-upset-her-so-much-she-now-swears",
+    "title": "Ms Rachel calls silence on Gaza conflict 'f---ed up,' says it's upset her so much she now swears",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Rachel Accurso, known as YouTube personality Ms. Rachel, told podcast host Hasan Minhaj she started swearing over the ongoing conflict in Gaza.",
+    "content": [
+      "Rachel Accurso, known as YouTube personality Ms. Rachel, told podcast host Hasan Minhaj she started swearing over the ongoing conflict in Gaza.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ms-rachel-speaking.jpg?ve=1&tl=1",
+    "imageCaption": "Ms Rachel calls silence on Gaza conflict 'f---ed up,' says i... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T23:55:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-516a356954",
+    "slug": "2nd-circuit-deals-blow-to-manhattan-da-breathes-new-life-into-trumps-hush-money-appeal",
+    "guid": "https://www.foxnews.com/politics/second-circuit-deals-blow-manhattan-da-breathes-new-life-trump-hush-money-appeal",
+    "title": "2nd Circuit deals blow to Manhattan DA, breathes new life into Trump's hush money appeal",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "President Donald Trump&apos;s bid to move his New York hush money case to federal court is revived after the 2nd Circuit cited errors in a prior denial.",
+    "content": [
+      "President Donald Trump&apos;s bid to move his New York hush money case to federal court is revived after the 2nd Circuit cited errors in a prior denial.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/blanche-trump-bove.jpg?ve=1&tl=1",
+    "imageCaption": "2nd Circuit deals blow to Manhattan DA, breathes new life in... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T00:00:15+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4a21feaa18",
+    "slug": "taking-ozempic-or-wegovy-could-lead-to-extra-cancer-screenings-new-study-suggests",
+    "guid": "https://www.foxnews.com/health/taking-ozempic-wegovy-could-lead-extra-cancer-screenings-new-study-suggests",
+    "title": "Taking Ozempic or Wegovy could lead to extra cancer screenings, new study suggests",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "A study for the Radiological Society of North America links GLP-1 drugs like Ozempic and Wegovy to higher breast density on mammograms in 62.5% of women.",
+    "content": [
+      "A study for the Radiological Society of North America links GLP-1 drugs like Ozempic and Wegovy to higher breast density on mammograms in 62.5% of women.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/gettyimages-1094357914.jpg?ve=1&tl=1",
+    "imageCaption": "Taking Ozempic or Wegovy could lead to extra cancer screenin... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T00:02:07+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-6fb4a925dd",
+    "slug": "thanksgiving-pie-prices-most-expensive-and-the-best-bang-for-your-buck",
+    "guid": "https://www.foxnews.com/food-drink/thanksgiving-pie-prices-most-expensive-best-bang-your-buck",
+    "title": "Thanksgiving pie prices: Most expensive and the best bang for your buck",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Costco moved nine million pumpkin pies at $5.99 in 2024, while Mishie&apos;s in Sunnyside, New York, sells a $150 apple cider custard pie topped with gold leaf.",
+    "content": [
+      "Costco moved nine million pumpkin pies at $5.99 in 2024, while Mishie&apos;s in Sunnyside, New York, sells a $150 apple cider custard pie topped with gold leaf.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/thanksgiving-pie-debate.jpg?ve=1&tl=1",
+    "imageCaption": "Thanksgiving pie prices: Most expensive and the best bang fo... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T00:32:27+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-a829e13e17",
+    "slug": "six-florida-family-members-killed-in-plane-crash-on-way-home-from-fishing-trip-identified",
+    "guid": "https://www.foxnews.com/us/six-florida-family-members-killed-plane-crash-way-home-fishing-trip-identified",
+    "title": "Six Florida family members killed in plane crash on way home from fishing trip identified",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "The Cessna 210 was descending 10,000 feet per minute when it crashed 2 miles off Horn Island, Mississippi, after a Louisiana fishing trip, the FAA said.",
+    "content": [
+      "The Cessna 210 was descending 10,000 feet per minute when it crashed 2 miles off Horn Island, Mississippi, after a Louisiana fishing trip, the FAA said.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/brent-stokes_001.jpg?ve=1&tl=1",
+    "imageCaption": "Six Florida family members killed in plane crash on way home... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T00:46:16+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-f441aa6e28",
+    "slug": "tnas-kc-navarro-details-battle-to-get-to-destination-x-pay-per-view-in-midst-of-travel-nig",
+    "guid": "https://www.foxnews.com/outkick-sports/tna-kc-navarro-details-battle-destination-x-pay-per-view-travel-nightmare",
+    "title": "TNA's KC Navarro details battle to get to Destination X pay-per-view in midst of travel nightmare",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "TNA wrestler KC Navarro reveals how he and Tasha Steelz nearly missed Destination X amid flight chaos, sprinting to catch a 20-minute connection in time.",
+    "content": [
+      "TNA wrestler KC Navarro reveals how he and Tasha Steelz nearly missed Destination X amid flight chaos, sprinting to catch a 20-minute connection in time.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/TNA-KC-Navarro-071526-4.jpg?ve=1&tl=1",
+    "imageCaption": "TNA's KC Navarro details battle to get to Destination X pay-... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T01:38:23+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-92ed35528f",
+    "slug": "saudi-national-in-openai-bugging-case-is-out-on-bond-after-doj-tries-to-block-release",
+    "guid": "108559469",
+    "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
+    "content": [
+      "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Saudi national in OpenAI bugging case is out on bond after D... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T19:11:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d4aa15c150",
+    "slug": "spacex-musk-pledge-to-donate-a-share-each-to-active-trump-accounts",
+    "guid": "108559578",
+    "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+    "content": [
+      "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX, Musk pledge to donate a share each to active Trump A... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T00:27:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-7e9ea75d7e",
+    "slug": "south-koreas-kospi-leads-gains-as-tech-rebound-lifts-asia-markets",
+    "guid": "108559691",
+    "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "Japan's Nikkei 225 rose 1.21% in early trade, while the Topix edged 0.71% higher. Australia's S P/ASX 200 was up 0.15%.",
+    "content": [
+      "Japan's Nikkei 225 rose 1.21% in early trade, while the Topix edged 0.71% higher. Australia's S P/ASX 200 was up 0.15%.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "South Korea's Kospi leads gains as tech rebound lifts Asia m... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T01:45:52+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-1a3ec9fb0a",
+    "slug": "where-the-market-may-be-mispricing-risk-most-ai-boom-volatility-high-yield-bonds",
+    "guid": "108559050",
+    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+    "kicker": "CNBC TECH EXCLUSIVE",
+    "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+    "content": [
+      "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Tech newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Where the market may be mispricing risk most: AI boom, volat... Reported by CNBC Tech.",
+    "author": {
+      "name": "CNBC Tech Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T01:34:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTech",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0ab9cfab1b",
+    "slug": "macys-postpones-thanksgiving-day-parade-due-to-severe-weather",
+    "guid": "108559635",
+    "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Macy's announced Wednesday that its annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+    "content": [
+      "Macy's announced Wednesday that its annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Macy's postpones Thanksgiving Day Parade due to severe weath... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T22:26:56+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-c2f82d7242",
+    "slug": "liesman-why-greenspan-could-bet-on-productivity-and-warsh-needs-to-hike",
+    "guid": "108559571",
+    "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+    "content": [
+      "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Liesman: Why Greenspan could bet on productivity — and Warsh... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T21:56:43+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-bb62b7e70d",
+    "slug": "spacex-wins-fcc-approval-to-deploy-1-million-orbital-data-center-satellites",
+    "guid": "108559450",
+    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+    "content": [
+      "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "SpaceX wins FCC approval to deploy 1 million orbital data ce... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T19:52:47+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-34aef180d4",
+    "slug": "south-korea-upgrades-growth-forecast-raises-benchmark-rates-to-highest-in-two-years",
+    "guid": "108559034",
+    "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
+    "content": [
+      "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "South Korea upgrades growth forecast, raises benchmark rates... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T01:50:21+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-0439b7dfff",
+    "slug": "hedge-funds-are-no-longer-just-for-the-rich-theyre-coming-for-everyday-investors",
+    "guid": "108558994",
+    "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Hedge funds are increasingly courting retail investors as the industry seeks new avenues for growth.",
+    "content": [
+      "Hedge funds are increasingly courting retail investors as the industry seeks new avenues for growth.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Hedge funds are no longer just for the rich. They’re coming ... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T01:10:58+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d0794b0b6f",
+    "slug": "norse-atlantic-flights-suspended-after-warning-finances-critical",
+    "guid": "108559693",
+    "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
+    "content": [
+      "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Norse Atlantic flights suspended after warning finances 'cri... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-26T01:52:20+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-3a12d946d1",
+    "slug": "vance-says-he-was-assured-jensen-huang-was-not-under-doj-investigation",
+    "guid": "108559549",
+    "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+    "content": [
+      "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Vance says he was assured Jensen Huang was not under DOJ inv... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-25T21:00:08+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-a716570067",
     "slug": "alex-bores-on-whether-congress-can-regulate-ai-before-its-too-late",
     "guid": "000001a1-fb8d-db63-a9f5-ff8d422f0000",
