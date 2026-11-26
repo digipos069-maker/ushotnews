@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T18:56:50.325801+00:00",
-  "posted_count": 30,
+  "last_updated": "2026-11-26T19:47:15.024673+00:00",
+  "posted_count": 32,
   "articles": {
     "scraped-f07eb6b756": {
       "title": "Gavin Newsom’s 2028 audition",
@@ -331,7 +331,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138537757471257",
       "fb_comment_id": "122138537757471257_893484517155106",
       "posted_at": "2026-11-26T18:56:50.325751+00:00"
+    },
+    "scraped-f6a0cd8215": {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "slug": "north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "url": "https://ushotnews.online/article/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "article_url": "https://ushotnews.online/article/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138546313471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138546313471257",
+      "fb_comment_id": "122138546313471257_1794694071611486",
+      "posted_at": "2026-11-26T19:47:15.024602+00:00"
+    },
+    "north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture": {
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "slug": "north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "url": "https://ushotnews.online/article/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "article_url": "https://ushotnews.online/article/north-koreas-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trumps-overture",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138546313471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138546313471257",
+      "fb_comment_id": "122138546313471257_1794694071611486",
+      "posted_at": "2026-11-26T19:47:15.024602+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-26T18:56:37.812384+00:00"
+  "last_cleaned_at": "2026-11-26T19:47:06.855212+00:00"
 }
