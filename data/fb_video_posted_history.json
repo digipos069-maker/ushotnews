@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-26T00:08:10.621577+00:00",
+  "last_updated": "2026-11-26T10:41:22.651448+00:00",
   "posted_count": 7,
   "articles": {
-    "dvids-video:1030670": {
-      "title": "RED Friday Shoutout, U.S. Marine Corps Lance Cpl Victor Conce, Marine Corps Air Station Iwakuni, Japan 2026",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112166058/DOD_112166058.mp4",
-      "attached_website_url": "https://ushotnews.online/article/kodaks-next-collectible-is-a-tiny-digital-photo-frame-that-doubles-as-a-tracker",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1428310819287122",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1428310819287122",
-      "fb_comment_id": "1428310819287122_28959269370438540",
-      "posted_at": "2026-11-23T06:57:34.879360+00:00"
-    },
     "dvids-video:1030726": {
       "title": "Secretary Rubio meets with Qatari Prime Minister and Foreign Minister Mohammed bin Abdulrahman Al Thani",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112167923/DOD_112167923.mp4",
@@ -78,7 +67,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/2071739113533630",
       "fb_comment_id": "2071739113533630_1625116139415947",
       "posted_at": "2026-11-26T00:08:10.621512+00:00"
+    },
+    "dvids-video:1031188": {
+      "title": "CTF-76 Happy Thanksgiving to the Force",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112176203/DOD_112176203.mp4",
+      "attached_website_url": "https://ushotnews.online/article/42-state-ags-are-trying-to-stop-characterai-from-selling-users-chats",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1156448110368317",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1156448110368317",
+      "fb_comment_id": "1156448110368317_1360877262722892",
+      "posted_at": "2026-11-26T10:41:22.651382+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-26T00:06:12.456168+00:00"
+  "last_cleaned_at": "2026-11-26T10:40:09.170269+00:00"
 }
