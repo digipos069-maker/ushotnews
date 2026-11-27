@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T20:14:42.598350+00:00",
-  "posted_count": 34,
+  "last_updated": "2026-11-27T20:43:29.951352+00:00",
+  "posted_count": 36,
   "articles": {
     "scraped-ad977053ee": {
       "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
@@ -375,7 +375,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138874081471257",
       "fb_comment_id": "122138874081471257_4328046157332777",
       "posted_at": "2026-11-27T20:14:42.598295+00:00"
+    },
+    "scraped-f20df54285": {
+      "title": "Hayden Panettiere’s boyfriend’s brother describes haunting instant he saw actress ‘purple’ before death",
+      "slug": "hayden-panettieres-boyfriends-brother-describes-haunting-instant-he-saw-actress-purple-bef",
+      "url": "https://ushotnews.online/article/hayden-panettieres-boyfriends-brother-describes-haunting-instant-he-saw-actress-purple-bef",
+      "article_url": "https://ushotnews.online/article/hayden-panettieres-boyfriends-brother-describes-haunting-instant-he-saw-actress-purple-bef",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138878983471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138878983471257",
+      "fb_comment_id": "122138878983471257_1142528301500549",
+      "posted_at": "2026-11-27T20:43:29.951267+00:00"
+    },
+    "hayden-panettieres-boyfriends-brother-describes-haunting-instant-he-saw-actress-purple-bef": {
+      "title": "Hayden Panettiere’s boyfriend’s brother describes haunting instant he saw actress ‘purple’ before death",
+      "slug": "hayden-panettieres-boyfriends-brother-describes-haunting-instant-he-saw-actress-purple-bef",
+      "url": "https://ushotnews.online/article/hayden-panettieres-boyfriends-brother-describes-haunting-instant-he-saw-actress-purple-bef",
+      "article_url": "https://ushotnews.online/article/hayden-panettieres-boyfriends-brother-describes-haunting-instant-he-saw-actress-purple-bef",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138878983471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138878983471257",
+      "fb_comment_id": "122138878983471257_1142528301500549",
+      "posted_at": "2026-11-27T20:43:29.951267+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-27T20:14:34.361206+00:00"
+  "last_cleaned_at": "2026-11-27T20:43:16.083871+00:00"
 }
