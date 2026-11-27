@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-27T02:40:28.960516+00:00",
+  "last_updated": "2026-11-27T11:19:48.705850+00:00",
   "posted_count": 34,
   "articles": {
-    "scraped-6a5da4f232": {
-      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-      "slug": "what-jensen-huangs-return-means-for-nvidias-colette-kress",
-      "url": "https://ushotnews.online/article/what-jensen-huangs-return-means-for-nvidias-colette-kress",
-      "article_url": "https://ushotnews.online/article/what-jensen-huangs-return-means-for-nvidias-colette-kress",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137788753471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137788753471257",
-      "fb_comment_id": "122137788753471257_966949372915683",
-      "posted_at": "2026-11-24T03:27:52.928276+00:00"
-    },
-    "what-jensen-huangs-return-means-for-nvidias-colette-kress": {
-      "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
-      "slug": "what-jensen-huangs-return-means-for-nvidias-colette-kress",
-      "url": "https://ushotnews.online/article/what-jensen-huangs-return-means-for-nvidias-colette-kress",
-      "article_url": "https://ushotnews.online/article/what-jensen-huangs-return-means-for-nvidias-colette-kress",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137788753471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137788753471257",
-      "fb_comment_id": "122137788753471257_966949372915683",
-      "posted_at": "2026-11-24T03:27:52.928276+00:00"
-    },
     "scraped-0f0c3d6d7a": {
       "title": "Newly elected Florida commissioner's son shot dead inside tent during camping trip",
       "slug": "newly-elected-florida-commissioners-son-shot-dead-inside-tent-during-camping-trip",
@@ -375,7 +353,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138612523471257",
       "fb_comment_id": "122138612523471257_1691865002614756",
       "posted_at": "2026-11-27T02:40:28.960454+00:00"
+    },
+    "scraped-8def6328a7": {
+      "title": "Olympic trailblazer Anita DeFrantz, longtime advocate for women in sports, dies at 74",
+      "slug": "olympic-trailblazer-anita-defrantz-longtime-advocate-for-women-in-sports-dies-at-74",
+      "url": "https://ushotnews.online/article/olympic-trailblazer-anita-defrantz-longtime-advocate-for-women-in-sports-dies-at-74",
+      "article_url": "https://ushotnews.online/article/olympic-trailblazer-anita-defrantz-longtime-advocate-for-women-in-sports-dies-at-74",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138704425471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138704425471257",
+      "fb_comment_id": "122138704425471257_1135664552584439",
+      "posted_at": "2026-11-27T11:19:48.705793+00:00"
+    },
+    "olympic-trailblazer-anita-defrantz-longtime-advocate-for-women-in-sports-dies-at-74": {
+      "title": "Olympic trailblazer Anita DeFrantz, longtime advocate for women in sports, dies at 74",
+      "slug": "olympic-trailblazer-anita-defrantz-longtime-advocate-for-women-in-sports-dies-at-74",
+      "url": "https://ushotnews.online/article/olympic-trailblazer-anita-defrantz-longtime-advocate-for-women-in-sports-dies-at-74",
+      "article_url": "https://ushotnews.online/article/olympic-trailblazer-anita-defrantz-longtime-advocate-for-women-in-sports-dies-at-74",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138704425471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138704425471257",
+      "fb_comment_id": "122138704425471257_1135664552584439",
+      "posted_at": "2026-11-27T11:19:48.705793+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-27T02:40:20.786954+00:00"
+  "last_cleaned_at": "2026-11-27T11:19:40.711074+00:00"
 }
