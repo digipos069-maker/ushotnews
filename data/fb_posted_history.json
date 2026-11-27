@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-11-26T19:47:15.024673+00:00",
+  "last_updated": "2026-11-27T02:07:41.512818+00:00",
   "posted_count": 32,
   "articles": {
-    "scraped-f07eb6b756": {
-      "title": "Gavin Newsom’s 2028 audition",
-      "slug": "gavin-newsoms-2028-audition",
-      "url": "https://ushotnews.online/article/gavin-newsoms-2028-audition",
-      "article_url": "https://ushotnews.online/article/gavin-newsoms-2028-audition",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137760493471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137760493471257",
-      "fb_comment_id": "122137760493471257_3828446130635712",
-      "posted_at": "2026-11-24T01:51:14.751795+00:00"
-    },
-    "gavin-newsoms-2028-audition": {
-      "title": "Gavin Newsom’s 2028 audition",
-      "slug": "gavin-newsoms-2028-audition",
-      "url": "https://ushotnews.online/article/gavin-newsoms-2028-audition",
-      "article_url": "https://ushotnews.online/article/gavin-newsoms-2028-audition",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122137760493471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122137760493471257",
-      "fb_comment_id": "122137760493471257_3828446130635712",
-      "posted_at": "2026-11-24T01:51:14.751795+00:00"
-    },
     "scraped-6a5da4f232": {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
       "slug": "what-jensen-huangs-return-means-for-nvidias-colette-kress",
@@ -353,7 +331,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138546313471257",
       "fb_comment_id": "122138546313471257_1794694071611486",
       "posted_at": "2026-11-26T19:47:15.024602+00:00"
+    },
+    "scraped-6888995e0c": {
+      "title": "Jennifer Lawrence ranks Chris Pratt as her ‘worst’ on-screen kiss",
+      "slug": "jennifer-lawrence-ranks-chris-pratt-as-her-worst-on-screen-kiss",
+      "url": "https://ushotnews.online/article/jennifer-lawrence-ranks-chris-pratt-as-her-worst-on-screen-kiss",
+      "article_url": "https://ushotnews.online/article/jennifer-lawrence-ranks-chris-pratt-as-her-worst-on-screen-kiss",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138607951471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138607951471257",
+      "fb_comment_id": "122138607951471257_29495322093440415",
+      "posted_at": "2026-11-27T02:07:41.512761+00:00"
+    },
+    "jennifer-lawrence-ranks-chris-pratt-as-her-worst-on-screen-kiss": {
+      "title": "Jennifer Lawrence ranks Chris Pratt as her ‘worst’ on-screen kiss",
+      "slug": "jennifer-lawrence-ranks-chris-pratt-as-her-worst-on-screen-kiss",
+      "url": "https://ushotnews.online/article/jennifer-lawrence-ranks-chris-pratt-as-her-worst-on-screen-kiss",
+      "article_url": "https://ushotnews.online/article/jennifer-lawrence-ranks-chris-pratt-as-her-worst-on-screen-kiss",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138607951471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138607951471257",
+      "fb_comment_id": "122138607951471257_29495322093440415",
+      "posted_at": "2026-11-27T02:07:41.512761+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-26T19:47:06.855212+00:00"
+  "last_cleaned_at": "2026-11-27T02:07:29.462556+00:00"
 }
