@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T21:17:24.075886+00:00",
-  "posted_count": 7,
+  "last_updated": "2026-11-27T04:01:15.519991+00:00",
+  "posted_count": 8,
   "articles": {
     "dvids-video:1030765": {
       "title": "VMFA-311 Return From 8 Month Deployment",
@@ -78,7 +78,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1465168685766454",
       "fb_comment_id": "1465168685766454_1537401761572461",
       "posted_at": "2026-11-26T21:17:24.075829+00:00"
+    },
+    "dvids-video:1031167": {
+      "title": "1st SFG(A) JTACs conduct close air support qualification training",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112175527/DOD_112175527.mp4",
+      "attached_website_url": "https://ushotnews.online/article/cenk-uygur-goes-all-in-on-ro-khanna-for-2028",
+      "trending_score": 85.0,
+      "format": "video",
+      "fb_video_id": "2272554500352915",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/2272554500352915",
+      "fb_comment_id": "2272554500352915_1813430573228085",
+      "posted_at": "2026-11-27T04:01:15.519928+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-26T21:15:12.845645+00:00"
+  "last_cleaned_at": "2026-11-27T04:00:03.335032+00:00"
 }
