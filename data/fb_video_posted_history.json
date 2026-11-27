@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-27T13:46:37.897957+00:00",
+  "last_updated": "2026-11-27T22:36:39.730059+00:00",
   "posted_count": 8,
   "articles": {
-    "dvids-video:1030915": {
-      "title": "U.S. Capitol Christmas Tree arrives at JBA to mark the 2026 holiday season",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112171158/DOD_112171158.mp4",
-      "attached_website_url": "https://ushotnews.online/article/uber-nuro-and-lucid-kick-off-fully-driverless-robotaxi-testing",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1821054835785230",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1821054835785230",
-      "fb_comment_id": "1821054835785230_1647353100225263",
-      "posted_at": "2026-11-24T17:22:23.287396+00:00"
-    },
     "dvids-video:1030987": {
       "title": "Admiral Paparo Visits Commander Fleet Activities Yokosuka",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112173024/DOD_112173024.mp4",
@@ -89,7 +78,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1647570973526840",
       "fb_comment_id": "1647570973526840_3054410078231059",
       "posted_at": "2026-11-27T13:46:37.897892+00:00"
+    },
+    "dvids-video:1031212": {
+      "title": "U.S. Forces Disable Commercial Vessel During Blockade Enforcement Against Iran",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112177493/DOD_112177493.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-best-black-friday-deals-on-airpods-macbooks-and-other-apple-gear",
+      "trending_score": 70.0,
+      "format": "video",
+      "fb_video_id": "1041238502322129",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1041238502322129",
+      "fb_comment_id": "1041238502322129_1449485596795497",
+      "posted_at": "2026-11-27T22:36:39.729990+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-27T13:44:33.074054+00:00"
+  "last_cleaned_at": "2026-11-27T22:35:37.496058+00:00"
 }
