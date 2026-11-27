@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T11:19:48.705850+00:00",
-  "posted_count": 34,
+  "last_updated": "2026-11-27T11:48:26.044616+00:00",
+  "posted_count": 36,
   "articles": {
     "scraped-0f0c3d6d7a": {
       "title": "Newly elected Florida commissioner's son shot dead inside tent during camping trip",
@@ -375,7 +375,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138704425471257",
       "fb_comment_id": "122138704425471257_1135664552584439",
       "posted_at": "2026-11-27T11:19:48.705793+00:00"
+    },
+    "scraped-cf070fb7a0": {
+      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "slug": "chinese-chip-stocks-notch-biggest-ever-one-day-gains-as-beijing-signals-broader-market-sup",
+      "url": "https://ushotnews.online/article/chinese-chip-stocks-notch-biggest-ever-one-day-gains-as-beijing-signals-broader-market-sup",
+      "article_url": "https://ushotnews.online/article/chinese-chip-stocks-notch-biggest-ever-one-day-gains-as-beijing-signals-broader-market-sup",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138721939471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138721939471257",
+      "fb_comment_id": "122138721939471257_2087572705257723",
+      "posted_at": "2026-11-27T11:48:26.044530+00:00"
+    },
+    "chinese-chip-stocks-notch-biggest-ever-one-day-gains-as-beijing-signals-broader-market-sup": {
+      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "slug": "chinese-chip-stocks-notch-biggest-ever-one-day-gains-as-beijing-signals-broader-market-sup",
+      "url": "https://ushotnews.online/article/chinese-chip-stocks-notch-biggest-ever-one-day-gains-as-beijing-signals-broader-market-sup",
+      "article_url": "https://ushotnews.online/article/chinese-chip-stocks-notch-biggest-ever-one-day-gains-as-beijing-signals-broader-market-sup",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138721939471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138721939471257",
+      "fb_comment_id": "122138721939471257_2087572705257723",
+      "posted_at": "2026-11-27T11:48:26.044530+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-27T11:19:40.711074+00:00"
+  "last_cleaned_at": "2026-11-27T11:48:16.456834+00:00"
 }
