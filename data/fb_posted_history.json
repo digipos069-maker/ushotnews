@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T02:07:41.512818+00:00",
-  "posted_count": 32,
+  "last_updated": "2026-11-27T02:40:28.960516+00:00",
+  "posted_count": 34,
   "articles": {
     "scraped-6a5da4f232": {
       "title": "What Jensen Huang’s return means for Nvidia’s Colette Kress",
@@ -353,7 +353,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138607951471257",
       "fb_comment_id": "122138607951471257_29495322093440415",
       "posted_at": "2026-11-27T02:07:41.512761+00:00"
+    },
+    "scraped-0f4111276b": {
+      "title": "Democrats, Republicans find rare common ground when asked what they're thankful for",
+      "slug": "democrats-republicans-find-rare-common-ground-when-asked-what-theyre-thankful-for",
+      "url": "https://ushotnews.online/article/democrats-republicans-find-rare-common-ground-when-asked-what-theyre-thankful-for",
+      "article_url": "https://ushotnews.online/article/democrats-republicans-find-rare-common-ground-when-asked-what-theyre-thankful-for",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138612523471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138612523471257",
+      "fb_comment_id": "122138612523471257_1691865002614756",
+      "posted_at": "2026-11-27T02:40:28.960454+00:00"
+    },
+    "democrats-republicans-find-rare-common-ground-when-asked-what-theyre-thankful-for": {
+      "title": "Democrats, Republicans find rare common ground when asked what they're thankful for",
+      "slug": "democrats-republicans-find-rare-common-ground-when-asked-what-theyre-thankful-for",
+      "url": "https://ushotnews.online/article/democrats-republicans-find-rare-common-ground-when-asked-what-theyre-thankful-for",
+      "article_url": "https://ushotnews.online/article/democrats-republicans-find-rare-common-ground-when-asked-what-theyre-thankful-for",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138612523471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138612523471257",
+      "fb_comment_id": "122138612523471257_1691865002614756",
+      "posted_at": "2026-11-27T02:40:28.960454+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-27T02:07:29.462556+00:00"
+  "last_cleaned_at": "2026-11-27T02:40:20.786954+00:00"
 }
