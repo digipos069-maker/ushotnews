@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-27T22:36:39.730059+00:00",
+  "last_updated": "2026-11-28T07:16:18.768643+00:00",
   "posted_count": 8,
   "articles": {
-    "dvids-video:1030987": {
-      "title": "Admiral Paparo Visits Commander Fleet Activities Yokosuka",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112173024/DOD_112173024.mp4",
-      "attached_website_url": "https://ushotnews.online/article/amazon-is-knocking-almost-50-off-six-months-of-apple-tv",
-      "trending_score": 85.0,
-      "format": "video",
-      "fb_video_id": "1150672687438708",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1150672687438708",
-      "fb_comment_id": "1150672687438708_1144672178262303",
-      "posted_at": "2026-11-25T02:08:37.976192+00:00"
-    },
     "dvids-video:1031076": {
       "title": "Explore Europe: Villa Romana del Casale",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112174186/DOD_112174186.mp4",
@@ -89,7 +78,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1041238502322129",
       "fb_comment_id": "1041238502322129_1449485596795497",
       "posted_at": "2026-11-27T22:36:39.729990+00:00"
+    },
+    "dvids-video:1031208": {
+      "title": "USS George H.W. Bush Thanksgiving 2026",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112176658/DOD_112176658.mp4",
+      "attached_website_url": "https://ushotnews.online/article/many-of-our-favorite-blu-ray-movies-are-over-50-percent-off-for-black-friday",
+      "trending_score": 60.0,
+      "format": "video",
+      "fb_video_id": "1656231375957939",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1656231375957939",
+      "fb_comment_id": "1656231375957939_1458083282486142",
+      "posted_at": "2026-11-28T07:16:18.768569+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-27T22:35:37.496058+00:00"
+  "last_cleaned_at": "2026-11-28T07:15:07.581995+00:00"
 }
