@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-28T02:55:55.252681+00:00",
-  "posted_count": 34,
+  "last_updated": "2026-11-28T03:06:05.006632+00:00",
+  "posted_count": 36,
   "articles": {
     "scraped-7293cbac8e": {
       "title": "Huawei found guilty of stealing trade secrets",
@@ -375,7 +375,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138983617471257",
       "fb_comment_id": "122138983617471257_1465193315005646",
       "posted_at": "2026-11-28T02:55:55.252618+00:00"
+    },
+    "scraped-e38da20021": {
+      "title": "Multiple Florida State captains refuse handshakes with Florida at coin toss, raising sportsmanship questions",
+      "slug": "multiple-florida-state-captains-refuse-handshakes-with-florida-at-coin-toss-raising-sports",
+      "url": "https://ushotnews.online/article/multiple-florida-state-captains-refuse-handshakes-with-florida-at-coin-toss-raising-sports",
+      "article_url": "https://ushotnews.online/article/multiple-florida-state-captains-refuse-handshakes-with-florida-at-coin-toss-raising-sports",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138985021471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138985021471257",
+      "fb_comment_id": "122138985021471257_1466597851505352",
+      "posted_at": "2026-11-28T03:06:05.006570+00:00"
+    },
+    "multiple-florida-state-captains-refuse-handshakes-with-florida-at-coin-toss-raising-sports": {
+      "title": "Multiple Florida State captains refuse handshakes with Florida at coin toss, raising sportsmanship questions",
+      "slug": "multiple-florida-state-captains-refuse-handshakes-with-florida-at-coin-toss-raising-sports",
+      "url": "https://ushotnews.online/article/multiple-florida-state-captains-refuse-handshakes-with-florida-at-coin-toss-raising-sports",
+      "article_url": "https://ushotnews.online/article/multiple-florida-state-captains-refuse-handshakes-with-florida-at-coin-toss-raising-sports",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138985021471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138985021471257",
+      "fb_comment_id": "122138985021471257_1466597851505352",
+      "posted_at": "2026-11-28T03:06:05.006570+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-28T02:55:47.188254+00:00"
+  "last_cleaned_at": "2026-11-28T03:05:48.492998+00:00"
 }
