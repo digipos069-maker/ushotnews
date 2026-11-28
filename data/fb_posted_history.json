@@ -1,51 +1,7 @@
 {
-  "last_updated": "2026-11-27T20:43:29.951352+00:00",
-  "posted_count": 36,
+  "last_updated": "2026-11-28T02:55:55.252681+00:00",
+  "posted_count": 34,
   "articles": {
-    "scraped-ad977053ee": {
-      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
-      "slug": "for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
-      "url": "https://ushotnews.online/article/for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
-      "article_url": "https://ushotnews.online/article/for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122138028171471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138028171471257",
-      "fb_comment_id": "122138028171471257_1687511499747736",
-      "posted_at": "2026-11-24T22:43:47.484089+00:00"
-    },
-    "for-workplace-culture-champions-jensen-huangs-return-is-unfathomable": {
-      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
-      "slug": "for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
-      "url": "https://ushotnews.online/article/for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
-      "article_url": "https://ushotnews.online/article/for-workplace-culture-champions-jensen-huangs-return-is-unfathomable",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122138028171471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138028171471257",
-      "fb_comment_id": "122138028171471257_1687511499747736",
-      "posted_at": "2026-11-24T22:43:47.484089+00:00"
-    },
-    "scraped-b854d2ddc7": {
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "slug": "gta-vi-pc-recompilation-project-shut-down-by-take-two",
-      "url": "https://ushotnews.online/article/gta-vi-pc-recompilation-project-shut-down-by-take-two",
-      "article_url": "https://ushotnews.online/article/gta-vi-pc-recompilation-project-shut-down-by-take-two",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122138035251471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138035251471257",
-      "fb_comment_id": "122138035251471257_1115893144614939",
-      "posted_at": "2026-11-24T23:35:55.051911+00:00"
-    },
-    "gta-vi-pc-recompilation-project-shut-down-by-take-two": {
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "slug": "gta-vi-pc-recompilation-project-shut-down-by-take-two",
-      "url": "https://ushotnews.online/article/gta-vi-pc-recompilation-project-shut-down-by-take-two",
-      "article_url": "https://ushotnews.online/article/gta-vi-pc-recompilation-project-shut-down-by-take-two",
-      "format": "photo",
-      "fb_post_id": "1325939953941168_122138035251471257",
-      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138035251471257",
-      "fb_comment_id": "122138035251471257_1115893144614939",
-      "posted_at": "2026-11-24T23:35:55.051911+00:00"
-    },
     "scraped-7293cbac8e": {
       "title": "Huawei found guilty of stealing trade secrets",
       "slug": "huawei-found-guilty-of-stealing-trade-secrets",
@@ -397,7 +353,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138878983471257",
       "fb_comment_id": "122138878983471257_1142528301500549",
       "posted_at": "2026-11-27T20:43:29.951267+00:00"
+    },
+    "scraped-5e3552883e": {
+      "title": "Biden book sales lag way behind Obama, Clinton memoirs in first week",
+      "slug": "biden-book-sales-lag-way-behind-obama-clinton-memoirs-in-first-week",
+      "url": "https://ushotnews.online/article/biden-book-sales-lag-way-behind-obama-clinton-memoirs-in-first-week",
+      "article_url": "https://ushotnews.online/article/biden-book-sales-lag-way-behind-obama-clinton-memoirs-in-first-week",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138983617471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138983617471257",
+      "fb_comment_id": "122138983617471257_1465193315005646",
+      "posted_at": "2026-11-28T02:55:55.252618+00:00"
+    },
+    "biden-book-sales-lag-way-behind-obama-clinton-memoirs-in-first-week": {
+      "title": "Biden book sales lag way behind Obama, Clinton memoirs in first week",
+      "slug": "biden-book-sales-lag-way-behind-obama-clinton-memoirs-in-first-week",
+      "url": "https://ushotnews.online/article/biden-book-sales-lag-way-behind-obama-clinton-memoirs-in-first-week",
+      "article_url": "https://ushotnews.online/article/biden-book-sales-lag-way-behind-obama-clinton-memoirs-in-first-week",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122138983617471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122138983617471257",
+      "fb_comment_id": "122138983617471257_1465193315005646",
+      "posted_at": "2026-11-28T02:55:55.252618+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-27T20:43:16.083871+00:00"
+  "last_cleaned_at": "2026-11-28T02:55:47.188254+00:00"
 }
