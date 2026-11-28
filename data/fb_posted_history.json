@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-28T11:36:52.586587+00:00",
-  "posted_count": 34,
+  "last_updated": "2026-11-28T12:09:22.828555+00:00",
+  "posted_count": 36,
   "articles": {
     "scraped-318005af93": {
       "title": "Lions owner/chair emeritus Martha Firestone Ford dead at 101",
@@ -375,7 +375,29 @@
       "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122139065163471257",
       "fb_comment_id": "122139065163471257_1881426402990487",
       "posted_at": "2026-11-28T11:36:52.586523+00:00"
+    },
+    "scraped-d51a4d54f9": {
+      "title": "Former SEC head coach who landed in the Group of 5 abruptly steps down after underwhelming five-year run",
+      "slug": "former-sec-head-coach-who-landed-in-the-group-of-5-abruptly-steps-down-after-underwhelming",
+      "url": "https://ushotnews.online/article/former-sec-head-coach-who-landed-in-the-group-of-5-abruptly-steps-down-after-underwhelming",
+      "article_url": "https://ushotnews.online/article/former-sec-head-coach-who-landed-in-the-group-of-5-abruptly-steps-down-after-underwhelming",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122139071001471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122139071001471257",
+      "fb_comment_id": "122139071001471257_2127837474527654",
+      "posted_at": "2026-11-28T12:09:22.828486+00:00"
+    },
+    "former-sec-head-coach-who-landed-in-the-group-of-5-abruptly-steps-down-after-underwhelming": {
+      "title": "Former SEC head coach who landed in the Group of 5 abruptly steps down after underwhelming five-year run",
+      "slug": "former-sec-head-coach-who-landed-in-the-group-of-5-abruptly-steps-down-after-underwhelming",
+      "url": "https://ushotnews.online/article/former-sec-head-coach-who-landed-in-the-group-of-5-abruptly-steps-down-after-underwhelming",
+      "article_url": "https://ushotnews.online/article/former-sec-head-coach-who-landed-in-the-group-of-5-abruptly-steps-down-after-underwhelming",
+      "format": "photo",
+      "fb_post_id": "1325939953941168_122139071001471257",
+      "fb_post_url": "https://www.facebook.com/122098704405471257/posts/122139071001471257",
+      "fb_comment_id": "122139071001471257_2127837474527654",
+      "posted_at": "2026-11-28T12:09:22.828486+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-28T11:36:44.624428+00:00"
+  "last_cleaned_at": "2026-11-28T12:09:16.841516+00:00"
 }
