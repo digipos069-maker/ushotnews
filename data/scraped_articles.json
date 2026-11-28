@@ -1,5 +1,523 @@
 [
   {
+    "id": "scraped-5e18b04805",
+    "slug": "the-m5-macbook-air-just-got-its-biggest-discount-since-apple-raised-the-price",
+    "guid": "https://www.theverge.com/?p=1044771",
+    "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+    "kicker": "THE VERGE TECHNOLOGY EXCLUSIVE",
+    "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest [&#8230;]",
+    "content": [
+      "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest [&#8230;]",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the The Verge Technology newsroom."
+    ],
+    "category": "Technology",
+    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "The M5 MacBook Air just got its biggest discount since Apple... Reported by The Verge Technology.",
+    "author": {
+      "name": "The Verge Technology Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T03:30:00+00:00",
+    "readTimeMinutes": 4,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Technology",
+      "TheVergeTechnology",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8d8312ccd3",
+    "slug": "sudans-lost-generation-war-is-stealing-the-childhood-of-millions",
+    "guid": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+    "title": "Sudan's lost generation: War is stealing the childhood of millions",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
+    "content": [
+      "Three years of war have stolen childhood from millions of children in Sudan, leaving them displaced, hungry and fighting for survival instead of learning in a classroom.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Sudan's lost generation: War is stealing the childhood of mi... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-27T22:54:53+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ac8c4df123",
+    "slug": "new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system",
+    "guid": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+    "title": "New wave of Democratic attorneys general may reshape the justice system",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S.",
+    "content": [
+      "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "New wave of Democratic attorneys general may reshape the jus... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T10:00:00+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-b543509c34",
+    "slug": "explosion-at-a-school-in-eastern-afghanistan-kills-7-wounds-more-than-90",
+    "guid": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+    "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+    "kicker": "NPR NATIONAL NEWS EXCLUSIVE",
+    "summary": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
+    "content": [
+      "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the NPR National News newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Explosion at a school in eastern Afghanistan kills 7, wounds... Reported by NPR National News.",
+    "author": {
+      "name": "NPR National News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T11:32:37+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "NPRNationalNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d51a4d54f9",
+    "slug": "former-sec-head-coach-who-landed-in-the-group-of-5-abruptly-steps-down-after-underwhelming",
+    "guid": "https://www.foxnews.com/outkick-sports/former-sec-head-coach-landed-group-5-abruptly-steps-down-underwhelming-five-year-run",
+    "title": "Former SEC head coach who landed in the Group of 5 abruptly steps down after underwhelming five-year run",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Joe Moorhead is out at Akron football after five seasons, ending a run that saw the Zips go 2-10 this year and never post a winning record under his watch.",
+    "content": [
+      "Joe Moorhead is out at Akron football after five seasons, ending a run that saw the Zips go 2-10 this year and never post a winning record under his watch.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/joe-moorhead-akron-zips-warmups-wyoming.jpg?ve=1&tl=1",
+    "imageCaption": "Former SEC head coach who landed in the Group of 5 abruptly ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T03:45:17+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-d12b25e037",
+    "slug": "arch-manning-longhorns-avoid-scare-against-texas-am-to-punch-ticket-to-sec-championship-ga",
+    "guid": "https://www.foxnews.com/outkick-sports/arch-manning-longhorns-avoid-scare-against-texas-am-punch-ticket-sec-championship-game",
+    "title": "Arch Manning, Longhorns avoid scare against Texas A&M to punch ticket to SEC Championship Game",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Arch Manning and the Texas Longhorns survived a turnover-filled rivalry battle with Texas A M, with Tawfiq Byard&apos;s pick highlighting a tense night.",
+    "content": [
+      "Arch Manning and the Texas Longhorns survived a turnover-filled rivalry battle with Texas A M, with Tawfiq Byard&apos;s pick highlighting a tense night.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Sports",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arch-manning.png?ve=1&tl=1",
+    "imageCaption": "Arch Manning, Longhorns avoid scare against Texas A&M to pun... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T04:25:11+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Sports",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-94a1bc1939",
+    "slug": "why-mamdanis-move-to-close-infamous-nyc-jail-could-be-massive-hit-that-reverberates-for-ye",
+    "guid": "https://www.foxnews.com/politics/why-mamdanis-move-close-infamous-nyc-jail-could-be-massive-hit-reverberates-years-expert",
+    "title": "Why Mamdani’s move to close infamous NYC jail could be 'massive hit' that reverberates for years: expert",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Zohran Mamdani&apos;s Rikers Island closure plan leaves 4,160 jail beds for a city of nearly 9 million, and one expert warns of overcrowding and violence.",
+    "content": [
+      "Zohran Mamdani&apos;s Rikers Island closure plan leaves 4,160 jail beds for a city of nearly 9 million, and one expert warns of overcrowding and violence.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Mamdani-Rikers.jpg?ve=1&tl=1",
+    "imageCaption": "Why Mamdani’s move to close infamous NYC jail could be 'mass... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T10:00:03+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9a98252d34",
+    "slug": "shop-small-business-saturday-for-fruit-trees-advent-calendars-and-more",
+    "guid": "https://www.foxnews.com/deals/shopping-with-friends-small-business-saturday",
+    "title": "Shop Small Business Saturday for fruit trees, Advent calendars and more",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Shop Small Business Saturday finds from four brands, including olive trees, pickle Advent calendars, craft beef jerky and freeze-dried dog food.",
+    "content": [
+      "Shop Small Business Saturday finds from four brands, including olive trees, pickle Advent calendars, craft beef jerky and freeze-dried dog food.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/small-business.jpg?ve=1&tl=1",
+    "imageCaption": "Shop Small Business Saturday for fruit trees, Advent calenda... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T10:00:48+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-4bcd43d61d",
+    "slug": "texas-attorney-general-elect-refuses-to-defend-ten-commandments-classroom-law",
+    "guid": "https://www.foxnews.com/politics/texas-attorney-general-elect-refuses-defend-ten-commandments-classroom-law",
+    "title": "Texas attorney general-elect refuses to defend Ten Commandments classroom law",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Texas Attorney General-elect Nathan Johnson says he won&apos;t defend the Ten Commandments law requiring displays in every public school classroom.",
+    "content": [
+      "Texas Attorney General-elect Nathan Johnson says he won&apos;t defend the Ten Commandments law requiring displays in every public school classroom.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/ken-paxton.jpg?ve=1&tl=1",
+    "imageCaption": "Texas attorney general-elect refuses to defend Ten Commandme... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T10:32:06+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-cb72fe2134",
+    "slug": "french-man-accused-of-flying-to-us-to-murder-woman-he-went-on-one-date-with-3-years-earlie",
+    "guid": "https://www.foxnews.com/us/french-man-accused-flying-us-murder-woman-one-date-3-years-earlier",
+    "title": "French man accused of flying to US to murder woman he went on one date with 3 years earlier",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Terry Kanmacher allegedly waited 45 minutes before allegedly stabbing Lauren Becker outside her Omaha daycare, then tried to flee the United States, police say.",
+    "content": [
+      "Terry Kanmacher allegedly waited 45 minutes before allegedly stabbing Lauren Becker outside her Omaha daycare, then tried to flee the United States, police say.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Becker-Kanmacher-1.jpg?ve=1&tl=1",
+    "imageCaption": "French man accused of flying to US to murder woman he went o... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T11:00:19+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-205937c512",
+    "slug": "socialist-newcomers-old-words-take-new-turn-as-they-prepare-to-enter-congress",
+    "guid": "https://www.foxnews.com/politics/socialist-newcomers-old-words-take-new-turn-prepare-enter-congress",
+    "title": "Socialist newcomers’ old words take new turn as they prepare to enter Congress",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "Zohran Mamdani-backed DSA candidates and Rep. Randy Fine face scrutiny over past comments on policing, ICE, Islamophobia and the 9/11 attacks.",
+    "content": [
+      "Zohran Mamdani-backed DSA candidates and Rep. Randy Fine face scrutiny over past comments on policing, ICE, Islamophobia and the 9/11 attacks.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Politics",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Chris-rabb-rally-zoomed-in.jpg?ve=1&tl=1",
+    "imageCaption": "Socialist newcomers’ old words take new turn as they prepare... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T11:00:36+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Politics",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-8e74d86d52",
+    "slug": "flight-passengers-clash-over-armrest-space-as-shrinking-economy-seats-leave-almost-no-room",
+    "guid": "https://www.foxnews.com/travel/flight-passengers-clash-armrest-space-shrinking-economy-seats-leave-almost-no-room",
+    "title": "Flight passengers clash over armrest space as shrinking economy seats leave almost no room",
+    "kicker": "FOX NEWS LATEST EXCLUSIVE",
+    "summary": "As airline seats shrink, larger passengers and fellow flyers clash over travelers spilling into neighboring seats. An etiquette expert details the best way to handle tough issues.",
+    "content": [
+      "As airline seats shrink, larger passengers and fellow flyers clash over travelers spilling into neighboring seats. An etiquette expert details the best way to handle tough issues.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the Fox News Latest newsroom."
+    ],
+    "category": "Science",
+    "imageUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cramped-tight-plane-seats-fights.jpg?ve=1&tl=1",
+    "imageCaption": "Flight passengers clash over armrest space as shrinking econ... Reported by Fox News Latest.",
+    "author": {
+      "name": "Fox News Latest Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T11:00:49+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Science",
+      "FoxNewsLatest",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-9656a9a26b",
+    "slug": "africas-richest-man-is-taking-his-mega-refinery-public-in-a-blockbuster-ipo",
+    "guid": "108559956",
+    "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+    "content": [
+      "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Africa’s richest man is taking his mega-refinery public in a... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T06:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": false,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
+    "id": "scraped-ac6c47cfcd",
+    "slug": "saudi-arabia-shifts-vision-2030-spending-amid-economic-and-security-pressure",
+    "guid": "108560010",
+    "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+    "kicker": "CNBC TOP NEWS EXCLUSIVE",
+    "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+    "content": [
+      "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+      "Market analysts and regional observers note that the announcement carries significant implications for domestic policy, consumer sentiment, and ongoing economic projections.",
+      "Additional reporting and official statements will be incorporated as further briefings are scheduled from the CNBC Top News newsroom."
+    ],
+    "category": "Economy",
+    "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    "imageCaption": "Saudi Arabia shifts Vision 2030 spending amid economic and s... Reported by CNBC Top News.",
+    "author": {
+      "name": "CNBC Top News Wire",
+      "role": "National Correspondent",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=160&q=80"
+    },
+    "publishedAt": "2026-11-28T06:00:01+00:00",
+    "readTimeMinutes": 3,
+    "isBreaking": true,
+    "isLeadStory": false,
+    "isHot": true,
+    "viewCount": 850,
+    "reactions": {
+      "likes": 18,
+      "insightful": 9,
+      "shocked": 2
+    },
+    "tags": [
+      "Economy",
+      "CNBCTopNews",
+      "USNews"
+    ]
+  },
+  {
     "id": "scraped-a095316101",
     "slug": "many-of-our-favorite-blu-ray-movies-are-over-50-percent-off-for-black-friday",
     "guid": "https://www.theverge.com/?p=1040471",
