@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-11-28T07:16:18.768643+00:00",
+  "last_updated": "2026-11-28T16:46:12.173130+00:00",
   "posted_count": 8,
   "articles": {
-    "dvids-video:1031076": {
-      "title": "Explore Europe: Villa Romana del Casale",
-      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112174186/DOD_112174186.mp4",
-      "attached_website_url": "https://ushotnews.online/article/the-verges-2026-gift-guide-for-dads",
-      "trending_score": 70.0,
-      "format": "video",
-      "fb_video_id": "4109243292712245",
-      "fb_video_url": "https://www.facebook.com/61594137721069/videos/4109243292712245",
-      "fb_comment_id": "4109243292712245_1165995382580822",
-      "posted_at": "2026-11-25T14:09:57.021556+00:00"
-    },
     "dvids-video:1031155": {
       "title": "Send Me: The making of a Soldier | Week 9, BCT rite of passage",
       "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112175216/DOD_112175216.mp4",
@@ -89,7 +78,18 @@
       "fb_video_url": "https://www.facebook.com/61594137721069/videos/1656231375957939",
       "fb_comment_id": "1656231375957939_1458083282486142",
       "posted_at": "2026-11-28T07:16:18.768569+00:00"
+    },
+    "dvids-video:1031199": {
+      "title": "USS Decatur (DDG 73) Sends Thanksgiving Greeting",
+      "video_url": "https://d34w7g4gy10iej.cloudfront.net/video/2611/DOD_112176529/DOD_112176529.mp4",
+      "attached_website_url": "https://ushotnews.online/article/the-m5-macbook-air-just-got-its-biggest-discount-since-apple-raised-the-price",
+      "trending_score": 50.0,
+      "format": "video",
+      "fb_video_id": "1190119037034840",
+      "fb_video_url": "https://www.facebook.com/61594137721069/videos/1190119037034840",
+      "fb_comment_id": "1190119037034840_2159985961549943",
+      "posted_at": "2026-11-28T16:46:12.173064+00:00"
     }
   },
-  "last_cleaned_at": "2026-11-28T07:15:07.581995+00:00"
+  "last_cleaned_at": "2026-11-28T16:44:40.978498+00:00"
 }
